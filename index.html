@@ -1,11 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="WDD231 Course Home Page" />
+    <meta name="author" content="Alexis Machuca" />
+    <title>WDD231 | Home</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles/normalize.css" />
+    <link rel="stylesheet" href="styles/small.css" />
+    <link rel="stylesheet" href="styles/larger.css" />
+
+    <!-- JavaScript -->
+    <script src="scripts/navigation.js" defer></script>
+    <script src="scripts/date.js" defer></script>
+    <script src="scripts/course.js" defer></script>
 </head>
+
 <body>
-    
+    <header class="site-header">
+        <div class="branding">
+            <img src="images/logo.jpg" alt="Guatemala Chamber Logo" />
+            <div class="site-name">
+                <h1>Guatemala</h1>
+                <p>Chamber of Commerce</p>
+            </div>
+        </div>
+
+        <!-- Botón hamburguesa -->
+        <button id="menu" aria-label="Toggle Menu">☰</button>
+
+        <!-- Navegación -->
+        <nav class="main-nav">
+            <ul id="nav-links" class="nav-links">
+                <li><a class="active" href="index.html">Home</a></li>
+                <li><a href="chamber/index.html">Chamber</a></li>
+                <li><a href="final/index.html">Final</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Home</h1>
+
+        <section class="about-me">
+            <h2>About Me</h2>
+            <p>Lorem ipsum text...</p>
+        </section>
+
+        <section class="student-photo">
+            <h2>Student Photo</h2>
+            <img src="images/photo-placeholder.png" alt="Student Photo" />
+        </section>
+
+        <section class="courses">
+            <h2>Web Certificate Courses</h2>
+
+            <div class="filters">
+                <button id="allBtn">All</button>
+                <button id="cseBtn">CSE</button>
+                <button id="wddBtn">WDD</button>
+            </div>
+
+            <div id="course-container"></div>
+            <p>The total credits for course listed above is: <span id="credit-count">0</span></p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="socials">
+            <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+            <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
+            <a href="#">Icon 3</a>
+        </div>
+        <p>&copy; <span id="currentyear"></span> • Your Name • Utah, USA</p>
+        <p id="lastModified"></p>
+    </footer>
 </body>
+
 </html>
