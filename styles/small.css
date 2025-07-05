@@ -12,16 +12,16 @@ body {
 }
 
 /* HEADER */
-header {
+.branding {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content:baseline;
     margin-bottom: 1rem;
 }
 
 header img {
-    width: 40px;
+    width: 80px;
     height: auto;
 }
 
@@ -58,14 +58,14 @@ nav ul li a {
     display: block;
     padding: 1rem;
     text-decoration: none;
-    color: white;
-    background-color: #444;
-    border-bottom: 1px solid #555;
+    color: #000000;
+    background-color: #ffbd33;
+    border-bottom: 1px solid #ffffff;
 }
 
 nav ul li a:hover,
 nav ul li a.active {
-    background-color: #111;
+    background-color: #ff5733;
 }
 
 /* MAIN */
@@ -82,10 +82,16 @@ section {
 }
 
 section h2 {
-    background-color: #333;
-    color: white;
+    background-color: #ff5733;
+    color: rgb(255, 255, 255);
     padding: 0.5rem;
     margin: -1rem -1rem 1rem -1rem;
+}
+
+section p {
+    padding: 0.5rem;
+    margin: -1rem -1rem 1rem -1rem;
+    margin-top: 1rem;
 }
 
 /* STUDENT PHOTO */
@@ -107,21 +113,21 @@ section h2 {
 .filters button {
     padding: 0.5rem;
     border: none;
-    background-color: #ccc;
+    background-color: #ffbd33;
     cursor: pointer;
 }
 
 .filters button:hover {
-    background-color: #999;
+    background-color: #ff5733;
 }
 
 /* COURSE CARDS */
-#course-container div {
-    background-color: #ddd;
-    margin-bottom: 0.5rem;
+#course-container div.course-card.completed {
+    background-color: #DAF7A6;
+    margin-bottom: 1rem;
     padding: 0.5rem;
     text-align: center;
-    border: 1px solid #aaa;
+    border: 1px solid #ffffff;
 }
 
 /* FOOTER */

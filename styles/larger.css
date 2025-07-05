@@ -9,11 +9,11 @@
     display: flex !important;
     flex-direction: row;
     justify-content: center;
-    background-color: #333;
+    background-color: #ffbd33;
   }
 
   nav ul li a {
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 1rem 2rem;
     border: none;
     background-color: transparent;
@@ -21,7 +21,7 @@
 
   nav ul li a:hover,
   nav ul li a.active {
-    background-color: #111;
+    background-color: #ff5733;
   }
 
   /* LAYOUT EN GRID */

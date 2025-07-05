@@ -7,7 +7,7 @@ const courses = [
     certificate: 'Web and Computer Programming',
     description: 'This course will introduce students to programming...',
     technology: ['Python'],
-    completed: false
+    completed: true
   },
   {
     subject: 'WDD',
@@ -27,7 +27,7 @@ const courses = [
     certificate: 'Web and Computer Programming',
     description: 'Students become more organized, efficient, and powerful...',
     technology: ['Python'],
-    completed: false
+    completed: true
   },
   {
     subject: 'CSE',
@@ -37,7 +37,7 @@ const courses = [
     certificate: 'Web and Computer Programming',
     description: 'This course introduces the notion of classes and objects...',
     technology: ['C#'],
-    completed: false
+    completed: true
   },
   {
     subject: 'WDD',
