@@ -5,7 +5,6 @@ document.addEventListener('DOMContentLoaded', function () {
   menuButton.addEventListener('click', () => {
     navLinks.classList.toggle('open');
 
-    // Cambiar el ícono del botón ☰ ↔ ✖
     if (navLinks.classList.contains('open')) {
       menuButton.textContent = '✖';
     } else {
