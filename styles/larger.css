@@ -6,9 +6,9 @@
 
   /* NAV HORIZONTAL */
   nav ul {
-    display: flex !important;
+    display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: baseline;
     background-color: #ffbd33;
   }
 
@@ -44,9 +44,28 @@
   }
 
   .filters {
-    flex-direction: row;
-    justify-content: center;
-  }
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* distribución uniforme */
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.filters button {
+  flex: 1; /* todos los botones ocupan el mismo ancho */
+  padding: 0.75rem 1rem;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  background-color: #ffbd33;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.filters button:hover {
+  background-color: #ff5733;
+  color: rgb(255, 255, 255);
+}
 
   #course-container {
     display: flex;
