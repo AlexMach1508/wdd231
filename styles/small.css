@@ -97,9 +97,9 @@ section p {
 /* STUDENT PHOTO */
 .student-photo img {
     width: 100%;
-    max-width: 300px;
+    max-width: 200px;
     display: block;
-    margin: auto;
+    margin:auto;
 }
 
 /* COURSE FILTERS */
@@ -133,14 +133,11 @@ section p {
 
 /* FOOTER */
 footer {
-    margin-top: 2rem;
-    text-align: center;
-    font-size: 0.9rem;
+  text-align: center;
+  font-size: 1rem;
 }
 
 footer .socials {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
 }

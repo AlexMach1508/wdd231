@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Chamber of Commerce Business Directory for Guatemala." />
+    <meta name="author" content="Alexis Machuca" />
+    <title>Guatemala Chamber | Directory</title>
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+
+    <!-- Facebook Meta -->
+    <meta property="og:title" content="Guatemala Chamber Directory" />
+    <meta property="og:description"
+        content="Explore the official directory of businesses partnered with the Guatemala Chamber of Commerce." />
+    <meta property="og:image" content="https://your-github-repo-url/chamber/images/logo.webp" />
+    <meta property="og:url" content="https://your-site-url/chamber/directory.html" />
+    <meta property="og:type" content="website" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/small.css" />
+    <link rel="stylesheet" href="css/large.css" />
+
+
+    <!-- JS -->
+    <script src="js/directory.js" defer></script>
+    <script src="../scripts/navigation.js" defer></script>
+    <script src="../scripts/date.js" defer></script>
+
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="branding">
+            <img src="../images/logo.webp" alt="Guatemala Chamber Logo" width="80" height="80" loading="lazy" />
+            <div class="site-name">
+                <h1>Guatemala</h1>
+                <p>Chamber of Commerce</p>
+            </div>
+        </div>
+        <button id="menu" aria-label="Toggle Menu">☰</button>
+        <nav class="main-nav">
+            <ul id="nav-links" class="nav-links">
+                <li><a href="../index.html">Home</a></li>
+                <li><a class="active" href="directory.html">Directory</a></li>
+                <li><a href="#">Join</a></li>
+                <li><a href="#">Discover</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Member Directory</h1>
+
+        <div class="view-toggle">
+            <button id="grid-view" aria-label="Grid View" class="active">
+                <!-- SVG ícono de cuadrícula -->
+            </button>
+            <button id="list-view" aria-label="List View">
+                <!-- SVG ícono de lista -->
+            </button>
+        </div>
+
+        <div id="members" class="grid-view"></div>
+    </main>
+
+    <footer>
+        <div class="socials">
+            <a href="https://github.com/AlexMach1508" target="_blank">GitHub</a>
+            <a href="https://linkedin.com/in/alexismachuca" target="_blank">LinkedIn</a>
+        </div>
+        <p>&copy; <span id="currentyear"></span> • Alexis Machuca • WDD 231 • Guatemala, Guatemala</p>
+        <p id="lastModified"></p>
+    </footer>
+</body>
+
+</html>

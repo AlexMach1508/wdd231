@@ -1,0 +1,38 @@
+@media (min-width: 768px) {
+  #menu {
+    display: none;
+  }
+
+  nav ul {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: baseline;
+    background-color: #ffbd33;
+  }
+
+  nav ul li a {
+    color: #000;
+    padding: 1rem 2rem;
+    border: none;
+    background-color: transparent;
+  }
+
+  nav ul li a:hover,
+  nav ul li a.active {
+    background-color: #ff5733;
+  }
+
+   #members.grid-view {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+    .member-card a {
+    color: #003366; /* Azul marino fuerte: contraste alto */
+    text-decoration: underline;
+    font-weight: bold;
+    }
+
+    .member-card a:hover {
+    color: #ff5733; /* Naranja oscuro que combina con tu paleta */
+    }
+}
