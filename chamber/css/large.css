@@ -27,12 +27,12 @@
   }
 
     .member-card a {
-    color: #003366; /* Azul marino fuerte: contraste alto */
+    color: #003366;
     text-decoration: underline;
     font-weight: bold;
     }
 
     .member-card a:hover {
-    color: #ff5733; /* Naranja oscuro que combina con tu paleta */
+    color: #ff5733; 
     }
 }

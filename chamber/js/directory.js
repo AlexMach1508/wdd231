@@ -2,7 +2,6 @@ const container = document.getElementById('members');
 const gridBtn = document.getElementById('grid-view');
 const listBtn = document.getElementById('list-view');
 
-// Función principal
 async function getMembers(view = 'grid') {
   try {
     const res = await fetch('data/members.json');
@@ -13,7 +12,6 @@ async function getMembers(view = 'grid') {
   }
 }
 
-// Mostrar miembros
 function displayMembers(members, view) {
   container.innerHTML = '';
   container.className = view + '-view';
@@ -45,7 +43,6 @@ function displayMembers(members, view) {
   });
 }
 
-// Cambiar vista
 gridBtn.addEventListener('click', () => {
   gridBtn.classList.add('active');
   listBtn.classList.remove('active');
@@ -58,7 +55,6 @@ listBtn.addEventListener('click', () => {
   getMembers('list');
 });
 
-// Cargar al inicio
 getMembers();
 
 
