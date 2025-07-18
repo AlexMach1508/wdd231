@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Welcome to the Guatemala Chamber of Commerce." />
+  <meta name="author" content="Alexis Machuca" />
+  <title>Guatemala Chamber | Home</title>
+  <link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+
+  <!-- Facebook Meta -->
+  <meta property="og:title" content="Guatemala Chamber of Commerce" />
+  <meta property="og:description" content="Official site of the Guatemala Chamber of Commerce." />
+  <meta property="og:image" content="https://your-github-repo-url/chamber/images/logo.webp" />
+  <meta property="og:url" content="https://your-site-url/chamber/index.html" />
+  <meta property="og:type" content="website" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/small.css" />
+  <link rel="stylesheet" href="css/large.css" />
+
+  <!-- JS -->
+  <script src="js/weather.js" defer></script>
+  <script src="js/spotlights.js" defer></script>
+  <script src="../scripts/navigation.js" defer></script>
+  <script src="../scripts/date.js" defer></script>
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="branding">
+      <img src="../images/logo.webp" alt="Guatemala Chamber Logo" width="80" height="80" loading="lazy" />
+      <div class="site-name">
+        <h1>Guatemala</h1>
+        <p>Chamber of Commerce</p>
+      </div>
+    </div>
+    <button id="menu" aria-label="Toggle Menu">☰</button>
+    <nav class="main-nav">
+      <ul id="nav-links" class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="directory.html">Directory</a></li>
+        <li><a class="active" href="directory.html">Chamber</a></li>
+        <li><a href="#">Join</a></li>
+        <li><a href="#">Discover</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- HERO IMAGE -->
+    <section class="hero">
+      <picture>
+        <source srcset="images/Guatemala.jpg" alt="Hero - Guatemala Chamber" width="100%" height="auto" />
+        <img src="images/Guatemala.jpg" alt="Hero - Guatemala Chamber" width="50%" height="auto" />
+      </picture>
+      <div class="hero-text">
+        <h2>Empowering Businesses in Guatemala</h2>
+        <a href="#" class="cta-button">Join the Chamber</a>
+      </div>
+    </section>
+
+    <section class="info-grid">
+        <div class="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <ul>
+            <li><strong>July 25:</strong> Local Business Expo</li>
+            <li><strong>August 10:</strong> Chamber Networking Lunch</li>
+            <li><strong>August 20:</strong> Community Clean-up Day</li>
+            </ul>
+        </div>
+
+        <div id="current-weather" class="weather-box"> </div>
+        
+        <div class="spotlight-area">
+            <h2>Spotlight</h2>
+            <div class="spotlight-grid" id="spotlight-container"> 
+            </div>
+        </div>
+    </section>
+
+  <footer>
+    <div class="socials">
+      <a href="https://github.com/AlexMach1508" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/alexismachuca" target="_blank">LinkedIn</a>
+    </div>
+    <p>&copy; <span id="currentyear"></span> • Alexis Machuca • WDD 231 • Guatemala, Guatemala</p>
+    <p id="lastModified"></p>
+  </footer>
+</body>
+
+</html>
