@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Thank you for joining the Guatemala Chamber of Commerce" />
+  <meta name="author" content="Alexis Machuca" />
+  <title>Thank You | Guatemala Chamber</title>
+
+  <link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/small.css" />
+  <link rel="stylesheet" href="css/large.css" />
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const params = new URLSearchParams(window.location.search);
+      document.getElementById("fname").textContent = params.get("firstName");
+      document.getElementById("lname").textContent = params.get("lastName");
+      document.getElementById("email").textContent = params.get("email");
+      document.getElementById("phone").textContent = params.get("phone");
+      document.getElementById("business").textContent = params.get("businessName");
+      document.getElementById("timestamp").textContent = params.get("timestamp");
+    });
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="branding">
+      <img src="../images/logo.webp" alt="Guatemala Chamber Logo" width="80" height="80" />
+      <div class="site-name">
+        <h1>Guatemala</h1>
+        <p>Chamber of Commerce</p>
+      </div>
+    </div>
+    <button id="menu" aria-label="Toggle Menu">☰</button>
+    <nav class="main-nav">
+      <ul id="nav-links" class="nav-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="directory.html">Directory</a></li>
+        <li><a href="join.html">Join</a></li>
+        <li><a class="active" href="thankyou.html">Thank You</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="thankyou-main">
+    <section class="thankyou-message">
+      <h2>Thank You for Joining!</h2>
+      <p>Your application has been successfully submitted. Below is the information we received:</p>
+      <ul class="submitted-info">
+        <li><strong>First Name:</strong> <span id="fname"></span></li>
+        <li><strong>Last Name:</strong> <span id="lname"></span></li>
+        <li><strong>Email:</strong> <span id="email"></span></li>
+        <li><strong>Phone:</strong> <span id="phone"></span></li>
+        <li><strong>Business Name:</strong> <span id="business"></span></li>
+        <li><strong>Submitted On:</strong> <span id="timestamp"></span></li>
+      </ul>
+      <a href="join.html" class="back-link">← Back to Join Form</a>
+    </section>
+  </main>
+
+  <footer>
+    <div class="socials">
+      <a href="https://github.com/AlexMach1508" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/alexismachuca" target="_blank">LinkedIn</a>
+    </div>
+    <p>&copy; <span id="currentyear"></span> • Alexis Machuca • WDD 231 • Guatemala, Guatemala</p>
+    <p id="lastModified"></p>
+  </footer>
+</body>
+</html>

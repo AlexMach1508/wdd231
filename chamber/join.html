@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Join the Guatemala Chamber of Commerce" />
+  <meta name="author" content="Alexis Machuca" />
+  <title>Join | Guatemala Chamber of Commerce</title>
+  <link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+
+  <!-- CSS global -->
+  <link rel="stylesheet" href="css/small.css" />
+  <link rel="stylesheet" href="css/large.css" />
+  <link rel="stylesheet" href="css/join.css" />
+
+  <!-- JS global -->
+  <script src="../scripts/navigation.js" defer></script>
+  <script src="../scripts/date.js" defer></script>
+  <script src="js/join.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="branding">
+      <img src="../images/logo.webp" alt="Guatemala Chamber Logo" width="80" height="80" />
+      <div class="site-name">
+        <h1>Guatemala</h1>
+        <p>Chamber of Commerce</p>
+      </div>
+    </div>
+    <button id="menu" aria-label="Toggle Menu">☰</button>
+    <nav class="main-nav">
+      <ul id="nav-links" class="nav-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="directory.html">Directory</a></li>
+        <li><a href="index.html">Chamber</a></li>
+        <li><a class="active" href="join.html">Join</a></li>
+        <li><a href="#">Discover</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="join-main">
+    <section class="join-form-section">
+      <h2>Join the Chamber</h2>
+      <form method="get" action="thankyou.html">
+        <label>
+          First Name
+          <input type="text" name="firstName" autocomplete="given-name" title="Your first name" required />
+        </label>
+
+        <label>
+          Last Name
+          <input type="text" name="lastName" autocomplete="family-name" title="Your last name" required />
+        </label>
+
+        <label>
+          Organizational Title
+          <input type="text" name="orgTitle" autocomplete="organization-title" title="Your title in the organization"
+                 pattern="[A-Za-z\\-\\s]{7,}" />
+        </label>
+
+        <label>
+          Email
+          <input type="email" name="email" autocomplete="email" title="Your email address"
+                 placeholder="example@email.com" required />
+        </label>
+
+        <label>
+          Mobile Phone
+          <input type="tel" name="phone" autocomplete="tel" title="Your mobile phone number" required />
+        </label>
+
+        <label>
+          Business Name
+          <input type="text" name="businessName" autocomplete="organization" title="Business name" required />
+        </label>
+
+        <label>
+          Membership Level
+          <select name="membership" title="Choose membership level">
+            <option value="NP">NP Membership (Non-Profit, no fee)</option>
+            <option value="Bronze">Bronze Membership</option>
+            <option value="Silver">Silver Membership</option>
+            <option value="Gold">Gold Membership</option>
+          </select>
+        </label>
+
+        <label>
+          Business Description
+          <textarea name="description" title="Describe your business"></textarea>
+        </label>
+
+        <input type="hidden" id="timestamp" name="timestamp" />
+
+        <button type="submit">Submit Application</button>
+      </form>
+    </section>
+
+    <aside class="membership-cards">
+      <h2>Membership Levels</h2>
+      <div class="cards">
+        <div class="card np-card">
+          <h3>NP Membership</h3>
+          <p>Non-profit organizations - Free membership.</p>
+          <a href="#" data-modal="npModal">More Info</a>
+        </div>
+        <div class="card bronze-card">
+          <h3>Bronze Membership</h3>
+          <p>Entry level membership with basic benefits.</p>
+          <a href="#" data-modal="bronzeModal">More Info</a>
+        </div>
+        <div class="card silver-card">
+          <h3>Silver Membership</h3>
+          <p>Expanded benefits including event discounts.</p>
+          <a href="#" data-modal="silverModal">More Info</a>
+        </div>
+        <div class="card gold-card">
+          <h3>Gold Membership</h3>
+          <p>Top benefits including spotlight promotions.</p>
+          <a href="#" data-modal="goldModal">More Info</a>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <!-- MODALS -->
+  <div id="npModal" class="modal">
+    <div class="modal-content">
+      <span class="close" data-close="npModal">&times;</span>
+      <h2>NP Membership</h2>
+      <p>Free membership for non-profit organizations including basic resources and networking opportunities.</p>
+    </div>
+  </div>
+
+  <div id="bronzeModal" class="modal">
+    <div class="modal-content">
+      <span class="close" data-close="bronzeModal">&times;</span>
+      <h2>Bronze Membership</h2>
+      <p>Access to events, training, and basic advertising on our website.</p>
+    </div>
+  </div>
+
+  <div id="silverModal" class="modal">
+    <div class="modal-content">
+      <span class="close" data-close="silverModal">&times;</span>
+      <h2>Silver Membership</h2>
+      <p>Includes Bronze benefits plus additional advertising and priority event access.</p>
+    </div>
+  </div>
+
+  <div id="goldModal" class="modal">
+    <div class="modal-content">
+      <span class="close" data-close="goldModal">&times;</span>
+      <h2>Gold Membership</h2>
+      <p>All Silver benefits plus premium advertising and featured spotlight positions on our home page.</p>
+    </div>
+  </div>
+
+  <footer>
+    <div class="socials">
+      <a href="https://github.com/AlexMach1508" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/alexismachuca" target="_blank">LinkedIn</a>
+    </div>
+    <p>&copy; <span id="currentyear"></span> • Alexis Machuca • WDD 231 • Guatemala, Guatemala</p>
+    <p id="lastModified"></p>
+  </footer>
+</body>
+</html>

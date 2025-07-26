@@ -300,3 +300,37 @@ footer .socials {
   text-align: center;
   flex: 1;
 }
+.thankyou-main {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem;
+}
+
+.thankyou-message {
+  background: #fff3cd;
+  border: 1px solid #ccc;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.submitted-info {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  text-align: left;
+}
+
+.submitted-info li {
+  margin-bottom: 0.5rem;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #ff5733;
+  font-weight: bold;
+}
