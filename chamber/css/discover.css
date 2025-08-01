@@ -1,0 +1,91 @@
+.discover-grid {
+  display: grid;
+  grid-template-areas:
+    "sidebar"
+    "cards";
+  gap: 1rem;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  background: #ffbd33;
+  padding: 1rem;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.cards {
+  grid-area: cards;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+  transition: transform 0.3s ease;
+}
+
+.card figure {
+  margin: 0;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card h2 {
+  margin: 0.5rem 0;
+}
+
+.card address {
+  font-style: normal;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.card button {
+  margin-top: 0.5rem;
+  background: #ff5733;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Hover effect (solo desktop) */
+@media (hover: hover) {
+  .card:hover {
+    transform: scale(1.03);
+  }
+}
+
+/* Medium view */
+@media (min-width: 641px) {
+  .discover-grid {
+    grid-template-areas:
+      "sidebar sidebar"
+      "cards cards";
+  }
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Large view */
+@media (min-width: 1025px) {
+  .discover-grid {
+    grid-template-areas:
+      "cards sidebar";
+    grid-template-columns: 3fr 1fr;
+  }
+  .cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "places": [
+    {
+      "name": "Antigua Guatemala",
+      "address": "Central Antigua, Sacatepéquez",
+      "description": "A UNESCO World Heritage city known for its preserved Spanish Baroque-influenced architecture.",
+      "image": "antigua.jpg"
+    },
+    {
+      "name": "Lake Atitlán",
+      "address": "Sololá Department, Guatemala",
+      "description": "A beautiful lake surrounded by volcanoes and picturesque villages.",
+      "image": "atitlan.jpg"
+    },
+    {
+      "name": "Tikal National Park",
+      "address": "Petén Department, Guatemala",
+      "description": "Ancient Mayan ruins in a lush jungle, a UNESCO World Heritage Site.",
+      "image": "tikal.jpg"
+    },
+    {
+      "name": "Pacaya Volcano",
+      "address": "Escuintla Department, Guatemala",
+      "description": "An active volcano popular for hiking and stunning views.",
+      "image": "pacaya.jpg"
+    },
+    {
+      "name": "Semuc Champey",
+      "address": "Alta Verapaz Department, Guatemala",
+      "description": "Natural limestone pools with turquoise water in the jungle.",
+      "image": "semucchampey.jpg"
+    },
+    {
+      "name": "Quetzaltenango",
+      "address": "Quetzaltenango Department, Guatemala",
+      "description": "A city known for its neoclassical architecture and indigenous culture.",
+      "image": "quetzaltenango.jpg"
+    },
+    {
+      "name": "Livingston",
+      "address": "Izabal Department, Guatemala",
+      "description": "A unique town with Garífuna culture, Caribbean beaches, and vibrant music.",
+      "image": "livingston.jpg"
+    },
+    {
+      "name": "Chichicastenango Market",
+      "address": "Chichicastenango, Quiché",
+      "description": "Famous indigenous market with colorful textiles and traditional crafts.",
+      "image": "chichicastenango.jpg"
+    }
+  ]
+}
