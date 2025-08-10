@@ -1,11 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>News Time — World headlines, fast.</title>
+  <link rel="icon" href="images/favicon.ico">
+  <meta name="description" content="News Time brings you top headlines from the USA using free news APIs." />
+  <meta name="author" content="Alexis Machuca" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/normalize.css">
+  <link rel="stylesheet" href="styles/newstime.css">
+
+  <script defer src="scripts/navigation.js"></script>
+  <script defer src="scripts/date.js"></script>
+  <script defer src="scripts/cache.js"></script>
+  <script defer src="scripts/news.js"></script>
+  <script defer src="scripts/videos.js"></script>
 </head>
 <body>
-    
+  <header class="site-header">
+    <div class="brand">
+      <img src="images/favicon.ico" alt="News Time logo" width="56" height="56" />
+      <div class="brand-text">
+        <h1 class="site-name">News Time</h1>
+        <p class="site-tag">USA headlines, at a glance.</p>
+      </div>
+    </div>
+
+    <button id="menu" class="menu-btn" aria-label="Toggle menu" aria-expanded="false">☰</button>
+
+    <nav class="main-nav">
+      <ul id="nav-links" class="nav-links">
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="#" data-category="technology">Tech</a></li>
+        <li><a href="#" data-category="business">Business</a></li>
+        <li><a href="#" data-category="sports">Sports</a></li>
+        <li><a href="#" data-category="entertainment">Entertainment</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- quitamos los tabs de países -->
+
+  <main class="layout">
+    <section class="content">
+      <!-- Hero -->
+      <section class="hero" id="hero"></section>
+      <!-- Feature split -->
+      <section class="feature-split" id="feature"></section>
+      <!-- Sidebar de videos -->
+      <aside class="sidebar" id="videos">
+        <h2 class="sidebar-title">Latest Videos</h2>
+        <div id="video-list" class="video-list">
+          <!-- JS inyecta videos aquí -->
+        </div>
+      </aside>
+    </section>
+      <!-- Lista de artículos -->
+      <section class="cards" id="cards"></section>
+  </main>
+
+  <footer>
+    <div class="socials">
+      <a href="https://github.com/AlexMach1508" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://linkedin.com/in/alexismachuca" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+    <p>&copy; <span id="currentyear"></span> • News Time</p>
+    <p id="lastModified"></p>
+  </footer>
 </body>
 </html>
