@@ -1,5 +1,8 @@
 name: Update videos daily
 
+permissions:
+  contents: write  # <-- necesario para poder hacer push
+
 on:
   schedule:
     - cron: "0 6 * * *" # todos los días 06:00 UTC (ajústalo si quieres)
