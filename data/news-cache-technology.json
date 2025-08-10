@@ -1,0 +1,159 @@
+{
+  "updatedAt": "2025-08-10T02:46:42.328Z",
+  "country": "us",
+  "category": "technology",
+  "articles": [
+    {
+      "title": "Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds - WIRED",
+      "description": "Security researchers found two techniques to crack at least eight brands of electronic safes—used to secure everything from guns to narcotics—that are sold with Securam Prologic locks.",
+      "url": "https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/",
+      "urlToImage": "https://media.wired.com/photos/689654bea27f0a0d3d8a0f9e/191:100/w_1280,c_limit/Hackers_RChurchill_007.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-08-08T20:20:30Z"
+    },
+    {
+      "title": "Massive Pixel leak spoils everything ahead of Google launch event - Android Authority",
+      "description": "A massive leak has spilled the beans on not only the Pixel 10 series, but also the Pixel Watch 4 and Pixel Buds 2a.",
+      "url": "https://www.androidauthority.com/google-pixel-hardware-specs-revealed-3585509/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Pixel-10-family-1-1.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-08-08T20:01:48Z"
+    },
+    {
+      "title": "RIP, Microsoft Lens, a simple little app that’s getting replaced by AI - TechCrunch",
+      "description": "Microsoft is killing Lens, a handy mobile scanning app with over 90 million downloads.",
+      "url": "https://techcrunch.com/2025/08/08/rip-microsoft-lens-a-simple-little-app-thats-getting-replaced-by-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/scan-receipt-with-iphone-GettyImages-1527386459.jpg?resize=1200,801",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-08T19:41:19Z"
+    },
+    {
+      "title": "Tron: Catalyst & John Wick Hex Dev 'Bithell Games' Makes \"Majority\" Of Staff Redundant - Nintendo Life",
+      "description": "\"Today we are less\"",
+      "url": "https://www.nintendolife.com/news/2025/08/tron-catalyst-and-john-wick-hex-dev-bithell-games-makes-majority-of-staff-redundant",
+      "urlToImage": "https://images.nintendolife.com/e58bd7450cda2/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-08-08T19:30:57Z"
+    },
+    {
+      "title": "See What Happens When You Fold the Samsung Galaxy Fold 7 200,000 Times - CNET",
+      "description": "We're a little concerned about the \"unknown black liquid\" that leaked out of the phone's hinge when a YouTuber tested it.",
+      "url": "https://www.cnet.com/tech/mobile/see-what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7bd854e792ea6b64a3df4cb05b7b5e37b1993052/hub/2025/07/11/74a33fdc-b881-41f8-b92a-8d98e4cedd91/samsung-unpacked-2025-day-2-22.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-08-08T19:23:00Z"
+    },
+    {
+      "title": "Diablo 4 Boss Leaves Blizzard After 5 Years For Next Gig - Kotaku",
+      "description": "The industry veteran was in charge of Diablo IV",
+      "url": "https://kotaku.com/diablo-boss-rod-ferguson-leaving-blizzard-after-five-years-2000616680",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/04/5ec788134bb55b75a2583653c551fe19.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-08-08T18:53:50Z"
+    },
+    {
+      "title": "Google Gemini struggles to write code, calls itself “a disgrace to my species” - Ars Technica",
+      "description": "Google still trying to fix “annoying infinite looping bug,” product manager says.",
+      "url": "https://arstechnica.com/ai/2025/08/google-gemini-struggles-to-write-code-calls-itself-a-disgrace-to-my-species/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-08-08T18:07:09Z"
+    },
+    {
+      "title": "iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac",
+      "description": "iPhone 17 Pro Max will pack a variety of new features, but there are three upgrades in particular that have me considering a model change.",
+      "url": "https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-17-pro-max-dummy-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-08-08T15:31:00Z"
+    },
+    {
+      "title": "Please, I'm Begging, Revive People In Battlefield 6's Open Beta - Kotaku",
+      "description": "In EA's new military FPS helping others is easy, but very few people are doing it",
+      "url": "https://kotaku.com/battlefield-6-bf6-open-beta-revive-medic-help-me-ea-fps-ps5-2000616628",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/08/bf6-1-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-08-08T15:21:52Z"
+    },
+    {
+      "title": "Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requirement - IGN",
+      "description": "Battlefield 6 isn't even out yet, but cheaters have already infiltrated the Open Beta on PC. That's despite requiring players to enable Secure Boot to access the playtest.",
+      "url": "https://www.ign.com/articles/cheaters-already-spotted-in-battlefield-6-open-beta-despite-secure-boot-requirement",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/08/bf6-1754666155964.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-08-08T15:21:30Z"
+    },
+    {
+      "title": "Sony Offers A Questionable ‘Marathon’ Release Date Update - Forbes",
+      "description": "On Sony's recent earnings call, they addressed the situation with Marathon and when they believe it may actually be released.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/08/08/sony-offers-a-questionable-marathon-release-date-update/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f3eb1639be1337b88e4e7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-08-08T15:15:16Z"
+    },
+    {
+      "title": "Game Accused Of Copying Horizon Gets Radically Updated Steam Page - GameSpot",
+      "description": "Light of Motiram's updated Steam page appears to tone down the similarities it shares with Sony's Horizon franchise.",
+      "url": "https://www.gamespot.com/articles/game-accused-of-copying-horizon-gets-radically-updated-steam-page/1100-6533796/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4546448-lightofmotiram.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-08-08T15:02:52Z"
+    },
+    {
+      "title": "8BitDo Pro 3 review: a super customizable controller that’s frustratingly limited on Switch 2 - The Verge",
+      "description": "The 8BitDo Pro 3 looks a lot like its predecessor, but with better joysticks, and more buttons. But in the Switch 2 era, it’s not the best choice.",
+      "url": "https://www.theverge.com/reviews/755307/8bitdo-pro-3-controller-review-pc-nintendo-switch-2",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-08T15:00:00Z"
+    },
+    {
+      "title": "Nintendo’s new Hello, Mario! mobile app lets kids play with Mario’s face - The Verge",
+      "description": "Nintendo’s new My Mario collection launches in Japan on August 26th, when its free Hello, Mario! app will be available for download.",
+      "url": "https://www.theverge.com/news/756718/nintendo-super-mario-kids-hello-mario-free-app",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/mymario1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-08T14:55:48Z"
+    },
+    {
+      "title": "Google tests revamped Google Finance with AI upgrades, live news feed - TechCrunch",
+      "description": "Users will now be able to research their financial questions with AI, access advanced charting tools, and get real-time data and news.",
+      "url": "https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2186206744.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-08T13:50:43Z"
+    },
+    {
+      "title": "EA's \"Madden 26\" plagued with massive launch day errors - Axios",
+      "description": "Many \"Madden NFL 26\" gamers struggle to play at release time because of online server errors.",
+      "url": "https://www.axios.com/2025/08/07/ea-madden-26-servers-down-launch-release",
+      "urlToImage": "https://images.axios.com/HqU-eDLJcLa1OSDwiqxCye2iY5M=/0x0:4800x2700/1366x768/2025/08/07/1754600060996.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-08-08T13:50:17Z"
+    },
+    {
+      "title": "Mafia: The Old Country – First PC Performance & DLSS 4 Impressions - DSOGaming",
+      "description": "Mafia: The Old Country uses Unreal Engine 5, and supports DLSS 4 with Multi-Frame Gen. So, here are our first PC performance impressions.",
+      "url": "https://www.dsogaming.com/pc-performance-analyses/mafia-the-old-country-first-pc-performance-dlss-4-impressions/",
+      "urlToImage": "https://www.dsogaming.com/wp-content/uploads/2025/05/Mafia-The-Old-Country-new-feature-2.jpg",
+      "source": "DSOGaming",
+      "publishedAt": "2025-08-08T13:07:53Z"
+    },
+    {
+      "title": "No, Sony Statement Doesn’t Say PlayStation Is Going Multiplatform - PlayStation LifeStyle",
+      "description": "In what comes as no surprise, a viral tweet misrepresented a Sony statement to suggest that PlayStation is going multiplatform.",
+      "url": "https://www.playstationlifestyle.net/2025/08/08/playstation-multiplatform-rumor-sony-statement-false/",
+      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2025/07/playstation-studios-games.jpg?resize=1200,630",
+      "source": "PlayStation LifeStyle",
+      "publishedAt": "2025-08-08T13:06:44Z"
+    },
+    {
+      "title": "Doom: The Dark Ages Price Drops $25 on PS5 After Its Official Update 2 Patch - IGN",
+      "description": "Doom: The Dark Ages is one of the best shooters of 2025, and now it's $25 off at Best Buy following the launch of its official Title Update 2.",
+      "url": "https://www.ign.com/articles/doom-the-dark-ages-ps5-discount-deal-new-official-update-2-patch",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/06/doom-dark-ages-devs-react-br-1754442605998.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-08-08T11:47:04Z"
+    }
+  ]
+}
