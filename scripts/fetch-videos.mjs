@@ -2,11 +2,15 @@ import fs from "node:fs/promises";
 
 // === Configura tus canales (IDs) ===
 const CHANNELS = [
-  "UC52X5wxOL_s5yw0dQk7NtgA", // Associated Press
-  "UChqUTb7kYRX8-EiaN3XFrSQ", // Reuters
-  "UC16niRr50-MSBwiO3YDb3RA", // BBC News
-  "UCknLrEdhRCp1aegoMqRaCZg", // DW News
-  "UCBi2mrWuNuyYy4gbM6fU18Q"  // ABC News
+  'UC52X5wxOL_s5yw0dQk7NtgA', // Associated Press
+  'UChqUTb7kYRX8-EiaN3XFrSQ', // Reuters
+  'UC16niRr50-MSBwiO3YDb3RA', // BBC News
+  //'UCknLrEdhRCp1aegoMqRaCZg', // DW News
+  //'UCBi2mrWuNuyYy4gbM6fU18Q', // ABC News
+  //'UC8p1vwvWtl6T73JiExfWs1A', // CBS News
+  //'UCeY0bbntWzzVIaj2z3QigXg', // NBC News
+  //'UCUMZ7gohGI9HcU9VNsr2FJQ', // Bloomberg Television
+  //'UCoMdktPbSTixAyNGwb-UYkQ'  // Sky News
 ];
 
 const MAX_SHOW = 6;
@@ -35,18 +39,27 @@ async function getLatestFromChannel(channelId) {
   search.searchParams.set("order", "date");
   search.searchParams.set("type", "video");
   search.searchParams.set("videoEmbeddable", "true");
+  search.searchParams.set("eventType", "completed"); // <-- EXCLUIR lives/upcoming
   search.searchParams.set("maxResults", String(PER_CHANNEL_SEARCH));
 
   const data = await fetchJSON(search.toString());
-  const ids = (data.items || []).map(i => i.id.videoId).filter(Boolean);
+
+  // filtra por VOD (no live) por si el API te cuela alguno
+  const completedOnly = (data.items || []).filter(
+    i => i?.snippet?.liveBroadcastContent === "none"
+  );
+
+  const ids = completedOnly.map(i => i.id.videoId).filter(Boolean);
   if (!ids.length) return [];
 
   const details = new URL("https://www.googleapis.com/youtube/v3/videos");
   details.searchParams.set("key", YT_API_KEY);
   details.searchParams.set("id", ids.join(","));
-  details.searchParams.set("part", "status,snippet");
+  details.searchParams.set("part", "status,snippet,contentDetails");
 
   const data2 = await fetchJSON(details.toString());
+
+  // embebibles solamente
   return (data2.items || [])
     .filter(v => v.status?.embeddable)
     .map(v => ({
@@ -55,6 +68,7 @@ async function getLatestFromChannel(channelId) {
       channel: v.snippet?.channelTitle ?? "Channel"
     }));
 }
+
 
 async function searchFallback(query = "US news live") {
   const search = new URL("https://www.googleapis.com/youtube/v3/search");

@@ -17,11 +17,17 @@
   <script defer src="scripts/cache.js"></script>
   <script defer src="scripts/news.js"></script>
   <script defer src="scripts/videos.js"></script>
+
+  <!-- YouTube embeds -->
+  <link rel="preconnect" href="https://www.youtube-nocookie.com" crossorigin>
+  <link rel="preconnect" href="https://i.ytimg.com" crossorigin>
+  <link rel="preconnect" href="https://www.google.com" crossorigin>
+
 </head>
 <body>
   <header class="site-header">
     <div class="brand">
-      <img src="images/favicon.ico" alt="News Time logo" width="56" height="56" />
+      <img src="images/planet.jpg" alt="News Time logo" width="56" height="56" />
       <div class="brand-text">
         <h1 class="site-name">News Time</h1>
         <p class="site-tag">USA headlines, at a glance.</p>
@@ -45,21 +51,17 @@
 
   <main class="layout">
     <section class="content">
-      <!-- Hero -->
       <section class="hero" id="hero"></section>
-      <!-- Feature split -->
-      <section class="feature-split" id="feature"></section>
-      <!-- Sidebar de videos -->
+      <section class="feature-split" id="feature"></section> 
+    </section>
       <aside class="sidebar" id="videos">
         <h2 class="sidebar-title">Latest Videos</h2>
-        <div id="video-list" class="video-list">
-          <!-- JS inyecta videos aquí -->
-        </div>
-      </aside>
-    </section>
-      <!-- Lista de artículos -->
+        <div id="video-list" class="video-list"></div>
+      </aside> 
       <section class="cards" id="cards"></section>
   </main>
+
+  
 
   <footer>
     <div class="socials">
