@@ -1,23 +1,31 @@
 {
-  "updatedAt": "2025-08-10T02:46:42.385Z",
+  "updatedAt": "2025-08-10T06:41:19.884Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Fannie, Freddie $30 Billion IPO Being Weighed for This Year - Bloomberg.com",
-      "description": "The Trump administration is considering selling shares of Fannie Mae and Freddie Mac in an offering that could start as early as this year, according to senior administration officials.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-08/trump-administration-preparing-fannie-freddie-ipo-wsj-says",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUHmfjxT00rE/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-08T22:37:14Z"
+      "title": "Elite colleges conspire to use early admissions to inflate costs, lawsuit says - The Washington Post",
+      "description": "A federal lawsuit accuses 32 elite universities of violating antitrust laws by using early decision admissions to inflate prices and reduce competition.",
+      "url": "https://www.washingtonpost.com/education/2025/08/08/college-admissions-early-decision-price-fixing-lawsuit/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3DWILSUTNUMHS6GPABI7BQ7H7A_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-08-09T04:24:10Z"
     },
     {
-      "title": "Exclusive | Two Big TV Broadcasters in Advanced Deal Talks - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/deals/nextar-tegna-deal-talks-0e1d7524",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-08T21:25:00Z"
+      "title": "Trump-Linked World Liberty Pitches a $1.5 Billion Crypto Vehicle - Bloomberg.com",
+      "description": "Big investors are being sounded out on a plan for World Liberty Financial, the Trump family-backed venture, to set up a public company that would hold its WLFI tokens, joining the boom in digital-asset treasury firms.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-08/trump-linked-world-liberty-pitches-a-1-5-billion-crypto-vehicle",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyc2Nm8jqoaQ/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-08T23:38:46Z"
+    },
+    {
+      "title": "Trump wants your 401(k) to access crypto and private equity. Here's what to know. - CBS News",
+      "description": "President Trump signed an executive order that he says will democratize alternative investments for workers saving for retirement.",
+      "url": "https://www.cbsnews.com/news/trump-401k-changes-executive-order-risk-what-to-know/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/07/ab2f6fd2-386e-4e89-a094-6c69a1026a61/thumbnail/1200x630/0f5b3481a336028520e765cc17e6d93d/cbsn-fusion-how-trumps-latest-tariffs-could-impact-prices-for-businesses-consumers-thumbnail.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-08-08T22:08:41Z"
     },
     {
       "title": "Wall Street clocks another winning week - AP News",
@@ -28,12 +36,28 @@
       "publishedAt": "2025-08-08T21:24:00Z"
     },
     {
-      "title": "Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’ - TechCrunch",
-      "description": "The Reddit AMA got spicy as users peppered OpenAI with questions, and some asked the company to bring back its previous model.",
-      "url": "https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778705142.jpg?resize=1200,758",
-      "source": "TechCrunch",
-      "publishedAt": "2025-08-08T21:06:30Z"
+      "title": "Sam Altman: OpenAI will bring back GPT-4o after user backlash - Mashable",
+      "description": "GPT-5 is getting roasted online.",
+      "url": "https://mashable.com/article/sam-altman-openai-bring-back-gpt-4o-user-backlash",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07hJr9FOAmFemgb29ZYUW1d/hero-image.fill.size_1200x675.v1754684025.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-08-08T20:48:53Z"
+    },
+    {
+      "title": "Heartflow Stock Soars 50% Above IPO Price in Latest Hot Debut - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/heartflow-ipo-stock-price-28fe2d49",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-08-08T20:32:00Z"
+    },
+    {
+      "title": "Amtrak’s fastest train ever will be leaving out of Penn Station later this month - Time Out Worldwide",
+      "description": "It speeds into service on August 28",
+      "url": "https://www.timeout.com/newyork/news/amtraks-fastest-train-ever-will-be-leaving-out-of-penn-station-later-this-month-080825",
+      "urlToImage": "https://media.timeout.com/images/106304855/image.jpg",
+      "source": "Time Out",
+      "publishedAt": "2025-08-08T20:23:57Z"
     },
     {
       "title": "Trade Desk Sentiment Collapses as Specter of Amazon Looms - Bloomberg.com",
@@ -60,28 +84,36 @@
       "publishedAt": "2025-08-08T20:11:00Z"
     },
     {
+      "title": "Why Trump's sweeping new tariffs are fueling stagflation concerns among economists - CBS News",
+      "description": "Economists caution new tariffs could pose economic risks, but the White House says growth is rebounding amid low inflation.",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-inflation-gdp-stagflation-concerns/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/08/5d53f312-acba-4f4a-b531-22f4a3fa9926/thumbnail/1200x630/5797a8758145fff1702368b364cf9ccc/gettyimages-2228986721.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-08-08T19:53:24Z"
+    },
+    {
+      "title": "Gold futures trade off highs as White House to issue clarification on bullion tariffs - CNBC",
+      "description": "Gold prices fell from a record high Friday after the White House said it will clarify \"misinformation\" about the precious metal facing tariffs.",
+      "url": "https://www.cnbc.com/2025/08/08/gold-futures-trade-off-highs-as-white-house-to-issue-clarification-on-bullion-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183370-1754625137114-gettyimages-2154071271-_5433.jpeg?v=1754677643&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-08T18:35:06Z"
+    },
+    {
+      "title": "JPMorgan says it now sees four Fed rate cuts on the horizon as Trump nominates Miran to Fed - MarketWatch",
+      "description": "The bank’s chief U.S. economist now expects the Fed will deliver a rate cut in September, followed by three more in subsequent meetings",
+      "url": "https://www.marketwatch.com/story/jpmorgan-says-it-now-sees-four-fed-rate-cuts-on-the-horizon-as-trump-nominates-miran-to-fed-9c4fa8a8",
+      "urlToImage": "https://images.mktw.net/im-41985142/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-08-08T18:35:00Z"
+    },
+    {
       "title": "Waterslide cracks open on world’s largest cruise ship, injuring one passenger - CNN",
       "description": "An acrylic waterslide on Royal Caribbean’s Icon of the Seas broke open on Thursday, injuring one passenger and leaving a sizable hole in the bottom of the tubular slide.",
       "url": "https://www.cnn.com/2025/08/08/travel/icon-seas-royal-caribbean-waterslide-breaks",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21852476-23899-839711568937-still.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-08-08T18:28:00Z"
-    },
-    {
-      "title": "White House to issue order to ‘clarify’ tariff on gold bars - Financial Times",
-      "description": "Move follows surge in precious metal’s price after FT revealed US levy on imports",
-      "url": "https://www.ft.com/content/c2868087-9951-4f04-818f-5082437f603a",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F49d0cbf5-1580-4590-b734-ef17c25ec1dc.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-08-08T17:59:47Z"
-    },
-    {
-      "title": "Private Equity Firms Celebrate Trump’s Executive Order Giving Them The Keys To Retirement - Forbes",
-      "description": "Private asset managers have been tantalized for years about the $29 trillion in Americans’ retirement accounts. Donald Trump just made it easier for them to get a slice.",
-      "url": "https://www.forbes.com/sites/hanktucker/2025/08/08/private-equity-firms-celebrate-trumps-executive-order-giving-them-the-keys-to-retirement/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68963666fed4d20dc84eb5e9/0x0.jpg?format=jpg&crop=1183,665,x0,y27,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-08-08T17:49:26Z"
     },
     {
       "title": "Trump’s clash with Intel’s CEO isn’t just politics — it’s a crucial test for U.S. chip making - MarketWatch",
@@ -92,28 +124,12 @@
       "publishedAt": "2025-08-08T17:29:00Z"
     },
     {
-      "title": "Instagram’s Map is here, and this is how you can turn your location off - The Verge",
-      "description": "Instagram launched a new Map this week that asks users to enable location services, but if you don’t want to share your location, here’s everything you need to know.",
-      "url": "https://www.theverge.com/news/756798/instagram-map-how-to-turn-it-off",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/The-Instagram-map_2x2-entrypoint.png?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-08-08T16:27:48Z"
-    },
-    {
       "title": "Trump's Fed pick has envisioned a major overhaul of the central bank - Axios",
       "description": "In the near term, Stephen Miran will, if confirmed, be a voice for President Trump's desired interest rate cuts.",
       "url": "https://www.axios.com/2025/08/08/trump-fed-governor-stephen-miran",
       "urlToImage": "https://images.axios.com/COVfqskdyV7DcWlv_dJlchppCgs=/0x84:4000x2334/1366x768/2025/08/08/1754664061411.jpeg",
       "source": "Axios",
       "publishedAt": "2025-08-08T16:07:17Z"
-    },
-    {
-      "title": "Bed Bath & Beyond relaunches with first store in Nashville, plans dozens more - CNBC",
-      "description": "Bed Bath & Beyond has been resurrected after filing for bankruptcy in 2023 and liquidating. Its new owners are looking to open dozens of stores through 2026.",
-      "url": "https://www.cnbc.com/2025/08/08/bed-bath-beyond-store-nashville.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107233904-1683029848651-gettyimages-1252518944-AFP_33E9777.jpeg?v=1754666127&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-08-08T15:50:57Z"
     },
     {
       "title": "The Social Security tsunami: Payments could be cut by 23%, doubling the poverty rate for America's seniors - Fortune",
@@ -124,36 +140,12 @@
       "publishedAt": "2025-08-08T15:17:00Z"
     },
     {
-      "title": "Train Lovers Rejoice! “A new era of high-speed rail to begin between Boston and Washington, DC – Amtrak NextGen Acela Debuts on August 28” - PoPville",
-      "description": "It's actually happening!! From Amtrak: \"All aboard the future of East Coast travel! Starting Thursday, Aug. 28, customers can travel on Amtrak’s NextGen Acela – America’s high-speed train – connecting the Northeast Corridor between Washington, D.C., New York …",
-      "url": "https://www.popville.com/2025/08/acela-next-gen-dc-boston-launch/",
-      "urlToImage": "https://www.popville.com/wp-content/uploads/2025/08/acela.jpg",
-      "source": "PoPville",
-      "publishedAt": "2025-08-08T15:15:51Z"
-    },
-    {
-      "title": "The Dodge Charger Sixpack Is Way Cheaper Than the EV - Motor1.com",
-      "description": "Dodge just revealed more details on the Charger Sixpack, including pricing. There's standard all-wheel drive, and up to 550 hp on tap. Here's all the info.",
-      "url": "https://www.motor1.com/news/767634/2026-dodge-charger-sixpack-details-specs/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/40x3XM/s1/2026-dodge-charger-six-pack-exterior-on-a-road-red.jpg",
+      "title": "Dodge CEO Basically Confirms the V-8 Charger's Return: 'Don't Be Surprised if it Would Fit' - Motor1.com",
+      "description": "Dodge CEO Matt McAlear all but confirmed that the V-8 would be returning to the Charger, telling journalists, Don't be surprised if it would fit.",
+      "url": "https://www.motor1.com/news/767914/dodge-ceo-hints-at-v-8-return-for-charger/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/RqKpxA/s1/dodge-hellcat-supercharged-v-8-engine-bay.jpg",
       "source": "Motor1 ",
-      "publishedAt": "2025-08-08T15:00:00Z"
-    },
-    {
-      "title": "Eli Lilly Stock (LLY) Continues to Sink as Enthusiasm for Obesity Pill Fades - TipRanks",
-      "description": "The company issued strong Q2 financial results.",
-      "url": "https://www.tipranks.com/news/eli-lilly-stock-lly-continues-to-sink-as-enthusiasm-for-obesity-pill-fades",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/aaa-33-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-08-08T14:35:44Z"
-    },
-    {
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $439,450 Home at a 6.63% Rate - Realtor.com",
-      "description": null,
-      "url": "https://www.realtor.com/advice/buy/mortgage-payment-calculator-afford-august-7/",
-      "urlToImage": null,
-      "source": "Realtor.com News",
-      "publishedAt": "2025-08-08T14:01:29Z"
+      "publishedAt": "2025-08-08T15:05:00Z"
     }
   ]
 }
