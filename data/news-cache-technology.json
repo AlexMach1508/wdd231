@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2025-08-10T06:41:19.765Z",
+  "updatedAt": "2025-08-11T06:48:38.562Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Comics - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UZ3J4cWdKV0lQQ25obGFhcnZ2T0hxcXdfVkFUTkxoU3p4anM3TDZmT3lPTjFHeGdsVFpiMG5Tb0ZzeG1TSmp3R00zTTA4c2tXVXFIRHJNblR4R3VzQWd0cjVwb1loWk55RWk0VzFqS3BFeFhvRHVkZ0RxLXpWMUE?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2025-08-09T02:00:04Z"
-    },
-    {
-      "title": "Detroit Lions vs. Atlanta Falcons second half live chat - Pride Of Detroit",
-      "description": "Come hang out with our community and chat during the final two quarters of the Lions vs. Falcons game.",
-      "url": "https://www.prideofdetroit.com/game-day-threads/138448/detroit-lions-vs-atlanta-falcons-second-half-live-chat",
-      "urlToImage": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2025/08/imagn-26809753.jpg?quality=90&strip=all&crop=0%2C2.8134520740567%2C100%2C78.526167787758&w=1200",
-      "source": "Prideofdetroit.com",
-      "publishedAt": "2025-08-09T00:32:00Z"
-    },
-    {
-      "title": "Apple Watch Series 11 Launching Next Month With These New Features - MacRumors",
-      "description": "There's just about a month to go until Apple unveils the Apple Watch Series 11 models at its September event. Last year we got display upgrades,...",
-      "url": "https://www.macrumors.com/2025/08/08/apple-watch-series-11-rumor-recap/",
-      "urlToImage": "https://images.macrumors.com/t/MRrekiS9uXT5weoZjYS8WLyB2VU=/1865x/article-new/2025/06/watchos-26.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-08-08T22:09:31Z"
-    },
-    {
-      "title": "Massive Pixel leak spoils everything ahead of Google launch event - Android Authority",
-      "description": "A massive leak has spilled the beans on not only the Pixel 10 series, but also the Pixel Watch 4 and Pixel Buds 2a.",
-      "url": "https://www.androidauthority.com/google-pixel-hardware-specs-revealed-3585509/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Pixel-10-family-1-1.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-08-08T20:01:48Z"
-    },
-    {
-      "title": "Adult sites use malicious .svg files to rack up likes on Facebook - Ars Technica",
-      "description": "Running JavaScript from inside an image? What could possibly go wrong?",
-      "url": "https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/adult-pron-website-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-08-08T19:41:00Z"
-    },
-    {
-      "title": "Tron: Catalyst & John Wick Hex Dev 'Bithell Games' Makes \"Majority\" Of Staff Redundant - Nintendo Life",
-      "description": "\"Today we are less\"",
-      "url": "https://www.nintendolife.com/news/2025/08/tron-catalyst-and-john-wick-hex-dev-bithell-games-makes-majority-of-staff-redundant",
-      "urlToImage": "https://images.nintendolife.com/e58bd7450cda2/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-08-08T19:30:57Z"
-    },
-    {
-      "title": "See What Happens When You Fold the Samsung Galaxy Fold 7 200,000 Times - CNET",
-      "description": "We're a little concerned about the \"unknown black liquid\" that leaked out of the phone's hinge when a YouTuber tested it.",
-      "url": "https://www.cnet.com/tech/mobile/see-what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/7bd854e792ea6b64a3df4cb05b7b5e37b1993052/hub/2025/07/11/74a33fdc-b881-41f8-b92a-8d98e4cedd91/samsung-unpacked-2025-day-2-22.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-08-08T19:23:00Z"
-    },
-    {
-      "title": "Former Googlers’ AI startup OpenArt now creates ‘brain rot’ videos in just one click - TechCrunch",
-      "description": "OpenArt launched a new feature to help creators make AI-generated brain rot videos.",
-      "url": "https://techcrunch.com/2025/08/08/former-googlers-ai-startup-openart-now-creates-brainrot-videos-in-just-one-click/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/OpenArt.png?w=1200",
-      "source": "TechCrunch",
-      "publishedAt": "2025-08-08T19:01:21Z"
-    },
-    {
-      "title": "Diablo 4 Boss Leaves Blizzard After 5 Years For Next Gig - Kotaku",
-      "description": "The industry veteran was in charge of Diablo IV",
-      "url": "https://kotaku.com/diablo-boss-rod-ferguson-leaving-blizzard-after-five-years-2000616680",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/04/5ec788134bb55b75a2583653c551fe19.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-08-08T18:53:50Z"
-    },
-    {
-      "title": "Google Gemini struggles to write code, calls itself “a disgrace to my species” - Ars Technica",
-      "description": "Google still trying to fix “annoying infinite looping bug,” product manager says.",
-      "url": "https://arstechnica.com/ai/2025/08/google-gemini-struggles-to-write-code-calls-itself-a-disgrace-to-my-species/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-08-08T18:07:09Z"
-    },
-    {
-      "title": "You can apparently buy Google's official Pixel Tablet stylus that never launched - Android Authority",
-      "description": "Google was supposed to be working on a stylus to launch with the Pixel Tablet 2. While that device was canceled, the stylus has now emerged online.",
-      "url": "https://www.androidauthority.com/pixel-tablet-stylus-3585419/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/08/pixel-tablet-pen.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-08-08T17:48:00Z"
-    },
-    {
-      "title": "HBO Max is making a huge change next month - NJ.com",
-      "description": "HBO Max is making some big (and, frankly, annoying) changes next month. Here's everything you need to know.",
-      "url": "https://www.nj.com/entertainment/2025/08/hbo-max-is-making-a-huge-change-next-month.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/NFOPBMW3VFBSFCMW4PEF26OSMQ.jpg?auth=58460643ea1f8b0132437ddd7f89bbaf851cc7640f1e6106099439952031c6b2&width=1280&quality=90",
-      "source": "nj.com",
-      "publishedAt": "2025-08-08T16:45:00Z"
-    },
-    {
-      "title": "Capcom Announces New Dino Crisis …Merch Sale - Kotaku",
-      "description": "I'm sorry I did that to you but please keep reading the article, thanks",
-      "url": "https://kotaku.com/capcom-new-dino-crisis-merch-event-sequel-remake-horror-2000616659",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/08/dc-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-08-08T16:43:30Z"
-    },
-    {
-      "title": "Cartoon: Fascist phy ed - Daily Kos",
-      "description": "A cartoon by Jack Ohman. Related |� Top Trump goons plot Epstein cover-up ...",
-      "url": "https://www.dailykos.com/stories/2025/8/8/2337093/-Cartoon-Fascist-phy-ed",
-      "urlToImage": "https://cdn.prod.dailykos.com/images/1464721/story_image/20250806edohc-a.jpg?1754498888",
-      "source": "Dailykos.com",
-      "publishedAt": "2025-08-08T16:29:02Z"
-    },
-    {
-      "title": "Tears Of The Kingdom: Is The Switch 2 Upgrade Worth It? - Kotaku",
-      "description": "The upgraded version has been out in the wild for a bit, so is it worth it?",
-      "url": "https://kotaku.com/zelda-totk-switch-2-upgrade-worth-it-tips-2000616636",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/08/totk-switch-2-MAIN-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-08-08T15:34:06Z"
-    },
-    {
-      "title": "iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac",
-      "description": "iPhone 17 Pro Max will pack a variety of new features, but there are three upgrades in particular that have me considering a model change.",
-      "url": "https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-17-pro-max-dummy-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "CarPlay connection issues? This might explain why - 9to5Mac",
+      "description": "If your Apple CarPlay connection randomly drops out while driving, the cause might not be your iPhone, cable, or car....",
+      "url": "https://9to5mac.com/2025/08/09/carplay-connection-issues/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-tapbacks-ios-26.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2025-08-08T15:31:00Z"
+      "publishedAt": "2025-08-09T23:19:00Z"
     },
     {
-      "title": "Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requirement - IGN",
-      "description": "Battlefield 6 isn't even out yet, but cheaters have already infiltrated the Open Beta on PC. That's despite requiring players to enable Secure Boot to access the playtest.",
-      "url": "https://www.ign.com/articles/cheaters-already-spotted-in-battlefield-6-open-beta-despite-secure-boot-requirement",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/08/bf6-1754666155964.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-08-08T15:21:30Z"
+      "title": "Katsuhiro Harada says that he would like to show fans what they already have for Tekken X Street Fighter - EventHubs",
+      "description": "It's been over 13 years since the release of Street Fighter X Tekken. Evo 2025 has come and gone with no surprise reveal for Tekken X Street Fighter — not that anybody was expecting such an announcement anyhow.However, it ...",
+      "url": "https://www.eventhubs.com/news/2025/aug/09/harada-sfxt-eagerness-show-fans/",
+      "urlToImage": "https://media.eventhubs.com/images/2025/08/06_txsf-bnrt.webp",
+      "source": "EventHubs",
+      "publishedAt": "2025-08-09T22:01:16Z"
     },
     {
-      "title": "Sony Offers A Questionable ‘Marathon’ Release Date Update - Forbes",
-      "description": "On Sony's recent earnings call, they addressed the situation with Marathon and when they believe it may actually be released.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/08/08/sony-offers-a-questionable-marathon-release-date-update/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f3eb1639be1337b88e4e7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title": "I finally replaced Gboard with SwiftKey and it's been a game-changer - Android Police",
+      "description": "My unexpected experience after a week",
+      "url": "https://www.androidpolice.com/replaced-gboard-with-swiftkey/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/08/replaced-gboard-with-swiftkey.png",
+      "source": "Android Police",
+      "publishedAt": "2025-08-09T21:45:00Z"
+    },
+    {
+      "title": "Former Nintendo staffers share details about the one time a Nintendo Direct was delayed - Nintendo Everything",
+      "description": "Former Nintendo of America staffers share some behind-the-scenes details about the one time a Nintendo Direct was delayed.",
+      "url": "https://nintendoeverything.com/nintendo-direct-delay-details/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Direct-delay.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-08-09T20:01:51Z"
+    },
+    {
+      "title": "Cartoon: Rooftop idiot - Daily Kos",
+      "description": "A cartoon by Clay Jones.\n\n\nRelated |� What the f-ck is Donald Trump doing on the roof?",
+      "url": "https://www.dailykos.com/stories/2025/8/9/2337449/-Cartoon-Rooftop-idiot",
+      "urlToImage": "https://cdn.prod.dailykos.com/images/1465412/story_image/CjonesRGB08102025.jpg?1754669273",
+      "source": "Dailykos.com",
+      "publishedAt": "2025-08-09T18:55:09Z"
+    },
+    {
+      "title": "‘Destiny’ Is Getting Sparrow Racing Again For The First Time In Eight Years, On Your Phone - Forbes",
+      "description": "Destiny Rising will introduce Sparrow Racing League back to the series for the first time in over eight years.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/08/09/destiny-is-getting-sparrow-racing-again-for-the-first-time-in-eight-years-on-your-phone/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689797c0dcbe8bc18848f6c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "source": "Forbes",
-      "publishedAt": "2025-08-08T15:15:16Z"
+      "publishedAt": "2025-08-09T18:50:36Z"
+    },
+    {
+      "title": "A Special Diamond Is the Key to a Fully Open Source Quantum Sensor - WIRED",
+      "description": "Quantum sensors can be used in medical technologies, navigation systems, and more, but they're too expensive for most people. That's where the Uncut Gem open source project comes in.",
+      "url": "https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/",
+      "urlToImage": "https://media.wired.com/photos/6897948fbe3f878769d0cc2a/191:100/w_1280,c_limit/signal-2025-08-06-073437.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-08-09T18:40:47Z"
+    },
+    {
+      "title": "\"This is Battlefield's biggest Open Beta ever,\" says EA - Eurogamer",
+      "description": "Battlefield 6's open beta has been the series' biggest beta test ever.",
+      "url": "https://www.eurogamer.net/this-is-battlefields-biggest-open-beta-ever-says-ea",
+      "urlToImage": "https://assetsio.gnwcdn.com/BF6-screen-%2314.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-08-09T18:08:05Z"
+    },
+    {
+      "title": "I found a secret Google Wallet feature — now I never fumble at checkout - Android Police",
+      "description": "This nearby passes feature in Google Wallet makes sure your loyalty cards or tickets pop up when you need them the most",
+      "url": "https://www.androidpolice.com/secret-google-wallet-feature/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/08/google-wallet-ap-2025-1.jpg",
+      "source": "Android Police",
+      "publishedAt": "2025-08-09T17:50:00Z"
+    },
+    {
+      "title": "Raiders Mailbag: Why is Jackson Powers-Johnson fighting for a job? - Silver And Black Pride",
+      "description": "Silver and Black Pride answers Las Vegas Raiders’ fans questions about the preseason and training camp, including why Jackson Powers-Johnson is fighting for a starting spot.",
+      "url": "https://www.silverandblackpride.com/las-vegas-raiders-preseason/102712/raiders-preseason-mailbag-training-camp-jackson-powers-johnson",
+      "urlToImage": "https://platform.silverandblackpride.com/wp-content/uploads/sites/143/2025/08/gettyimages-2227917615.jpg?quality=90&strip=all&crop=0%2C9.2040691517131%2C100%2C81.591861696574&w=1200",
+      "source": "Silver And Black Pride",
+      "publishedAt": "2025-08-09T17:05:00Z"
+    },
+    {
+      "title": "This Surface SE Delivers Big Value in a Small Package and It's on Sale for $185 - PCMag",
+      "description": "A compact 11.6\" laptop with 8GB RAM and 16-hour battery life — perfect for work, school, and travel.",
+      "url": "https://www.pcmag.com/deals/this-surface-se-delivers-big-value-in-a-small-package-and-its-on-sale-for",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/05c8mvGD4mdtQfZw7Yqdr9C-1.fit_lim.size_1200x630.v1754600032.png",
+      "source": "PCMag.com",
+      "publishedAt": "2025-08-09T17:00:09Z"
+    },
+    {
+      "title": "Battlefield 6 Beta Breaks 470K Users on Steam; Its Anti-Cheat Already Stopped Over 330K Cheaters - Wccftech",
+      "description": "The Battlefield 6 beta is now open and already registered 470K users on Steam. The Anti-Cheat already stopped 330K cheat attempts.",
+      "url": "https://wccftech.com/battlefield-6-beta-breaks-470k-users-steam-anti-cheat-stopped-330k-attempts/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/08/Battlefield-6-Beta.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2025-08-09T17:00:00Z"
+    },
+    {
+      "title": "Gemini Live rolls out Google Calendar, Tasks, and Keep apps access - 9to5Google",
+      "description": "Gemini Live on Android and iOS is now widely rolling out the ability to access Google apps like Keep and Tasks in real-time conversations.",
+      "url": "http://9to5google.com/2025/08/09/gemini-live-google-apps-access/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Gemini-Live-Video-Pixel-9-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-08-09T16:35:00Z"
+    },
+    {
+      "title": "The 10 Best Video Game Prequels - IGN",
+      "description": "With the release of Mafia the Old Country, we look back at some of the best video game prequels of all time from Metal Gear Solid 3 to Red Dead Redemption 2.",
+      "url": "https://www.ign.com/articles/the-10-best-video-game-prequels",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/06/best-prequels-1754465990020.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-08-09T15:02:18Z"
+    },
+    {
+      "title": "Tencent quietly updates \"slavish Horizon clone\" Light of Motiram's Steam page - Eurogamer",
+      "description": "Tencent has quietly removed, edited, and/or replaced key art on the Steam page of its upcoming adventure game, Light of…",
+      "url": "https://www.eurogamer.net/tencent-quietly-updates-slavish-horizon-clone-light-of-motirams-steam-page",
+      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2024-12-03-183340.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-08-09T14:49:03Z"
+    },
+    {
+      "title": "I tried the slim Anker Nano Power Bank, and it's crying out for the Pixel 10 - Android Police",
+      "description": "The Anker Nano Power Bank is one of the first to be Qi2 certified, and we&#039;ve tested its performance",
+      "url": "https://www.androidpolice.com/anker-nano-power-bank-with-qi2-tested/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/anker-nano-power-bank-side-hand.JPG",
+      "source": "Android Police",
+      "publishedAt": "2025-08-09T14:13:00Z"
+    },
+    {
+      "title": "Mariners News, 8/9/25: Josh Naylor, Alex Wood, and Kyle Karros - Lookout Landing",
+      "description": "Another mid-season retirement, plus Mariners injury updates and more.",
+      "url": "https://www.lookoutlanding.com/mariners-moose-tracks/132533/mariners-news-8-9-25-josh-naylor-alex-wood-and-kyle-karros",
+      "urlToImage": "https://platform.lookoutlanding.com/wp-content/uploads/sites/101/2025/08/imagn-23025404.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "Lookout Landing",
+      "publishedAt": "2025-08-09T14:05:33Z"
+    },
+    {
+      "title": "New Apple Card bonus lets you earn $75 for a limited time - 9to5Mac",
+      "description": "Apple Card sign up offers used to be quite rare, but they’ve become quite regular occurrences. I’ve reported on numerous...",
+      "url": "https://9to5mac.com/2025/08/09/new-apple-card-sign-up-offer-earn-75/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-08-09T14:02:00Z"
+    },
+    {
+      "title": "Gigi Dolin's Fiance Is A Familiar Face For Wrestling Fans - Wrestling Inc.",
+      "description": "Former WWE star Gigi Dolin (AKA Priscilla Kelly) is engaged to someone who might look familiar to wrestling fans.",
+      "url": "https://www.wrestlinginc.com/1930515/gigi-dolin-aew-fiance-looks-so-familiar/",
+      "urlToImage": "https://www.wrestlinginc.com/img/gallery/gigi-dolins-fiance-is-a-familiar-face-for-wrestling-fans/l-intro-1754326824.jpg",
+      "source": "Wrestling Inc.",
+      "publishedAt": "2025-08-09T13:00:00Z"
     }
   ]
 }
