@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>News Time | Thanks</title>
+  <meta name="description" content="Thank you for your submission to News Time." />
+  <meta name="author" content="Alexis Machuca" />
+  <meta property="og:title" content="News Time — Thanks" />
+  <meta property="og:description" content="We received your submission." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" href="../images/favicon.ico" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/normalize.css">
+  <link rel="stylesheet" href="styles/newstime.css">
+
+  <script type="module" src="scripts/pages/thanks.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <img src="images/planet.jpg" alt="News Time logo" width="56" height="56" />
+      <div class="brand-text">
+        <h1 class="site-name">News Time</h1>
+        <p class="site-tag">USA headlines, at a glance.</p>
+      </div>
+    </div>
+
+    <button id="menu" class="menu-btn" aria-label="Toggle menu" aria-expanded="false">☰</button>
+
+    <nav class="main-nav">
+      <ul id="nav-links" class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="submit.html" >Subscribe</a></li>
+        <li><a href="site_plan.html" >Site Plan</a></li>
+
+        <li><a href="../index.html" >Chamber of Commerce</a></li>
+
+        <li><a class="active" href="thanks.html" >Thank you</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="summary">
+    <h1>Thanks!</h1>
+    <p>We received your submission. Here is a summary:</p>
+    <dl id="summary"></dl>
+  </main>
+
+  <footer>
+    <div class="socials">
+      <a href="https://github.com/AlexMach1508" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/alexismachuca" target="_blank">LinkedIn</a>
+    </div>
+    <p>&copy; <span id="currentyear"></span> • Alexis Machuca • Guatemala</p>
+    <p id="lastModified"></p>
+  </footer>
+
+  <script src="../scripts/navigation.js" defer></script>
+  <script src="../scripts/date.js" defer></script>
+</body>
+</html>

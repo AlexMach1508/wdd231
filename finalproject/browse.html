@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>News Time | Browse</title>
+  <meta name="description" content="Browse the latest US news by category on News Time." />
+  <meta name="author" content="Alexis Machuca" />
+  <meta property="og:title" content="News Time — Browse" />
+  <meta property="og:description" content="Explore top US headlines by category." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" href="../images/favicon.ico" />
+
+  <!-- CSS reutilizado -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/normalize.css">
+  <link rel="stylesheet" href="styles/newstime.css">
+
+  <!-- JS (ES Modules) -->
+  <script type="module" src="scripts/modules/storage.js"></script>
+  <script type="module" src="scripts/modules/newsData.js"></script>
+  <script type="module" src="scripts/modules/modal.js"></script>
+  <script type="module" src="scripts/pages/browse.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <img src="images/planet.jpg" alt="News Time logo" width="56" height="56" />
+      <div class="brand-text">
+        <h1 class="site-name">News Time</h1>
+        <p class="site-tag">USA headlines, at a glance.</p>
+      </div>
+    </div>
+
+    <button id="menu" class="menu-btn" aria-label="Toggle menu" aria-expanded="false">☰</button>
+
+    <nav class="main-nav">
+      <ul id="nav-links" class="nav-links">
+        <li><a href="index.html">Home</a></li>
+
+        <li><a class="active" href="browse.html" >Browse</a></li>
+        <li><a href="submit.html" >Subscribe</a></li>
+        <li><a href="site_plan.html" >Site Plan</a></li>
+
+        <li><a href="../index.html" >Chamber of Commerce</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Browse News</h1>
+    <div class="toolbar">
+      <label for="cat">Category:</label>
+      <select id="cat" aria-label="Choose category">
+        <option value="general">General</option>
+        <option value="business">Business</option>
+        <option value="technology">Technology</option>
+        <option value="sports">Sports</option>
+        <option value="entertainment">Entertainment</option>
+      </select>
+      <button id="savePref">Save Preference</button>
+      <span id="count" aria-live="polite" style="margin-left:auto;"></span>
+    </div>
+
+    <section class="cards browse" id="browse-list" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <div class="socials">
+      <a href="https://github.com/AlexMach1508" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/alexismachuca" target="_blank">LinkedIn</a>
+    </div>
+    <p>&copy; <span id="currentyear"></span> • Alexis Machuca • Guatemala</p>
+    <p id="lastModified"></p>
+  </footer>
+
+  <!-- Modal accesible -->
+  <div class="modal-backdrop" id="modal-backdrop"></div>
+  <dialog class="modal" id="news-modal" aria-labelledby="modal-title">
+    <div class="modal-header">
+      <h3 id="modal-title">Details</h3>
+      <button data-close-modal aria-label="Close">✖</button>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+    <div class="modal-footer">
+      <button data-close-modal>Close</button>
+    </div>
+  </dialog>
+
+  <script src="../scripts/navigation.js" defer></script>
+  <script src="../scripts/date.js" defer></script>
+</body>
+</html>
