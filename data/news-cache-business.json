@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2025-08-11T06:48:38.678Z",
+  "updatedAt": "2025-08-12T06:44:16.605Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "How Kentucky bourbon went from boom to bust - BBC",
-      "description": "Tariffs, oversupply and teetotaling Gen-Zs have all contributed to the downfall of one of America's most iconic liquors.",
-      "url": "https://www.bbc.com/news/articles/ckglnk6yxlko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c554/live/f97d4d10-74b0-11f0-b0db-0dffb4fc96e3.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-08-10T00:41:44Z"
+      "title": "Asia-Pacific markets subdued as U.S.-China tariff truce deadline looms - CNBC",
+      "description": "Asia-Pacific markets traded higher as traders awaited announcement on whether the Aug. 12 deadline for U.S.–China tariff truce would be extended.",
+      "url": "https://www.cnbc.com/2025/08/11/asia-markets-live-rba-meeting-kospi-csi-300.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174885-1753162365689-gettyimages-1856771227-8y3a1877.jpeg?v=1753175390&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-11T04:31:00Z"
     },
     {
-      "title": "Trump seems to confirm 2025 timing for Fannie, Freddie IPO - HousingWire",
-      "description": "On Saturday, President Trump seemed to acknowledge that he plans to IPO Fannie Mae and Freddie Mac by the end of this year.",
-      "url": "http://www.housingwire.com/articles/trump-seems-to-confirm-2025-timing-for-fannie-freddie-ipo/",
-      "urlToImage": "https://www.housingwire.com/wp-content/uploads/2025/08/Trump-IPO-image.png",
-      "source": "HousingWire",
-      "publishedAt": "2025-08-09T22:37:53Z"
+      "title": "Delta plane wing clips empty aircraft during pushback from gate in Atlanta - ABC News",
+      "description": "Delta Air Lines says one of its plane clipped another aircraft while pushing back from the gate in Atlanta",
+      "url": "https://abcnews.go.com/Business/wireStory/delta-plane-wing-clips-empty-aircraft-pushback-gate-124526950",
+      "urlToImage": "https://i.abcnewsfe.com/a/b4bd9627-ee48-4553-be32-f640476fd844/wirestory_96504fb68c4fcb9ce2cd7804e01ce9fd_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-08-11T03:29:55Z"
     },
     {
-      "title": "FDA regulator reinstalled less than two weeks after White House ouster - The Washington Post",
-      "description": "Vinay Prasad, the FDA’s top vaccine and gene therapy regulator, was the target of a right-wing pressure campaign over his handling of drug approvals and past support for Democrats.",
-      "url": "https://www.washingtonpost.com/health/2025/08/09/vinay-prasad-fda-returns/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/574NODGDYJJOCNBBSVD3YKVEEE.jpg&w=1440",
+      "title": "Nvidia, AMD agree to pay U.S. government 15% of A.I. chip sales to China - The Washington Post",
+      "description": "The arrangement is highly unusual as U.S. tech export controls are usually based on national security imperatives rather than whether they can raise funds for Washington.",
+      "url": "https://www.washingtonpost.com/technology/2025/08/10/nvidia-amd-china-chips-deal-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y4K2653TVD6ZLVU2H2CORJ7LQY_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-08-09T22:29:11Z"
+      "publishedAt": "2025-08-11T03:19:08Z"
     },
     {
-      "title": "$7K worth of Labubu dolls stolen from Los Angeles store, authorities say - ABC News",
-      "description": "The Sheriff's Department said the suspects used a stolen Toyota in the incident.",
-      "url": "https://abcnews.go.com/Business/wireStory/7k-worth-labubu-dolls-stolen-los-angeles-store-124512871",
-      "urlToImage": "https://i.abcnewsfe.com/a/92396582-9baa-4a04-8540-154d7dce57bf/wirestory_0cc03766bef5dc0e76db0ee441e8398c_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-08-09T22:03:42Z"
-    },
-    {
-      "title": "Trump accepts plaque with 24k gold base amid surge of lavish gifts - Axios",
-      "description": "Apple's massive U.S. investment announcement comes with a golden thank-you",
-      "url": "https://www.axios.com/2025/08/09/trump-accepts-plaque-24k-gold-base-amid-surge-lavish-gifts",
-      "urlToImage": "https://images.axios.com/twCZN6bkW_fpegHp2uKrFqH1YQE=/0x0:1920x1080/1366x768/2025/08/07/1754594227225.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-08-09T20:09:14Z"
-    },
-    {
-      "title": "US Inflation to Rise as Higher Tariffs Feed Through - Bloomberg.com",
-      "description": "US consumers probably experienced a slight pickup in underlying inflation in July as retailers gradually raised prices on a variety of items subject to higher import duties.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-09/us-inflation-to-rise-as-higher-tariffs-feed-through",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isN9ZDtsy24g/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-09T20:00:00Z"
-    },
-    {
-      "title": "A top Federal Reserve official says dour jobs data backs the case for 3 rate cuts - AP News",
-      "description": "A top official at the Federal Reserve is saying that this month’s stunning, weaker-than-expected report on the U.S. job market is strengthening her belief that interest rates should be lower. Michelle Bowman pointed to July's hiring slowdown, along with her b…",
-      "url": "https://apnews.com/article/federal-reserve-michelle-bowman-interest-rates-d24adfa4429586bb95f538c3fe0a2989",
-      "urlToImage": "https://dims.apnews.com/dims4/default/533b6d8/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2Ff8%2F2bd2cbe341ca836571eec994bf7b%2F5898bba94c8d4e4986db1b18190fce54",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-09T18:30:00Z"
-    },
-    {
-      "title": "Sin City tourism slump signals wider economic slowdown - Axios",
-      "description": "Las Vegas has experienced a drop in convention attendees, tourists and hotel bookings this year.",
-      "url": "https://www.axios.com/2025/08/09/las-vegas-tourism-slump-signals-wider-economic-slowdown",
-      "urlToImage": "https://images.axios.com/4-DDjGeiRnKj59A8z317ypRD0SQ=/0x0:1920x1080/1366x768/2019/01/28/1548719724127.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-08-09T18:02:28Z"
-    },
-    {
-      "title": "The Dodge Charger Sixpack Is Way Cheaper Than the EV - Motor1.com",
-      "description": "Dodge just revealed more details on the Charger Sixpack, including pricing. There's standard all-wheel drive, and up to 550 hp on tap. Here's all the info.",
-      "url": "https://www.motor1.com/news/767634/2026-dodge-charger-sixpack-details-specs/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/40x3XM/s1/2026-dodge-charger-six-pack-exterior-on-a-road-red.jpg",
-      "source": "Motor1 ",
-      "publishedAt": "2025-08-09T17:30:20Z"
-    },
-    {
-      "title": "Trump's pick for the Fed 'fuels an existential threat' as central bank independence is targeted, JPMorgan says - Fortune",
-      "description": "\"The main threat to the Fed independence is not politically motivated turnover shifting the outcome of votes.\"",
-      "url": "https://fortune.com/2025/08/09/trump-fed-pick-stephen-miran-existential-threat-central-bank-independence/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2206215210-e1754751450501.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-08-09T16:36:00Z"
-    },
-    {
-      "title": "Lawmakers urge Meta to shut down Instagram Map: \"abysmal\" at protecting children - Axios",
-      "description": "Meta says the location-sharing feature is opt-in only.",
-      "url": "https://www.axios.com/2025/08/09/instagram-map-democrats-child-safety",
-      "urlToImage": "https://images.axios.com/CrzYN5U86DX3FhiKtjZlO7OumaY=/1366x768/smart/2024/09/16/173059-1726507859914.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-08-09T15:59:02Z"
-    },
-    {
-      "title": "Crypto Currents: Trump signs executive order to allow crypto in 401(k) plans - Yahoo Finance",
-      "description": "As bitcoin, ethereum and other cryptocurrencies see major legal, institutional, and technological developments, the financial landscape continues to adapt...",
-      "url": "https://finance.yahoo.com/news/crypto-currents-trump-signs-executive-141617327.html",
-      "urlToImage": "https://media.zenfs.com/en/tipranks_452/89eb67987c66fbb0c36ff637a82841d1",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-08-09T14:16:17Z"
-    },
-    {
-      "title": "A Global Market Based on Gold Bars Shudders on Tariff Threat - Bloomberg.com",
-      "description": "The global gold market relies on a network of banks, refineries and couriers that can fly bullion between key trading hubs at a moment’s notice in pursuit of the highest prices. On Friday, a shock US ruling suggesting that the metal would be subject to tariff…",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-09/a-global-market-based-on-gold-bars-shudders-on-tariff-threat",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_BSoBzN8oII/v1/1200x801.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-09T13:30:00Z"
-    },
-    {
-      "title": "The Big Winners of the Trump-Era Crypto Boom - Gizmodo",
-      "description": "From tech giants like Tesla to a little-known Bitcoin miner, the president's pro-crypto pivot has unleashed a tidal wave of wealth. Here’s who is riding it.",
-      "url": "https://gizmodo.com/the-big-winners-of-the-trump-era-crypto-boom-2000641130",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/bitcoin-photo-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-08-09T13:29:19Z"
-    },
-    {
-      "title": "Apple analyst rethinks price target after $100 billion U.S. investment - TheStreet",
-      "description": "Apple's plan to boost production in the U.S. has Wall Street's attention big time.",
-      "url": "https://www.thestreet.com/investing/stocks/apple-analyst-rethinks-price-target-after-100-billion-u-s-investment",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjEwMDAyNzgyNDIwMjE1NjQ0/apple-chief-executive-tim-cook-rd-edit-012325.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-08-09T11:37:00Z"
-    },
-    {
-      "title": "Royal Caribbean responds after passenger 'sliced open' as waterslide breaks on world's biggest cruise ship - UNILAD",
-      "description": "The passenger was going down one of the Royal Caribbean's Icon of the Seas' waterslides when the horror unfolded",
-      "url": "https://www.unilad.com/news/travel/royal-caribbean-responds-passenger-waterslide-716452-20250809",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/blt949ea8e16e463049/blt277f4fba41a54a03/68972af49ec9845a487e2f2e/cruise-ship-responds-accident.png",
-      "source": "Unilad.com",
-      "publishedAt": "2025-08-09T11:27:05Z"
-    },
-    {
-      "title": "McDonald’s CEO raises alarm bells about customer losses - TheStreet",
+      "title": "Inside Target, Frustrated Employees and the Search for a New CEO - The Wall Street Journal",
       "description": null,
-      "url": "https://www.thestreet.com/restaurants/mcdonalds-ceo-raises-alarm-bells-about-customer-losses",
+      "url": "https://www.wsj.com/business/retail/target-corporate-employees-ceo-search-bcfeb735",
       "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2025-08-09T10:33:00Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-08-11T02:00:00Z"
     },
     {
-      "title": "Influencer Wife Defends Pakistan Man Who Threatened To Rape Air Hostess - NDTV",
-      "description": "Former British executive Salman Iftikhar, who has been jailed for threatening to kill and rape a Virgin Atlantic flight attendant, has received support from his wife.",
-      "url": "https://www.ndtv.com/world-news/influencer-stands-by-jailed-husband-over-rape-threat-to-virgin-atlantic-crew-9051252",
-      "urlToImage": "https://c.ndtvimg.com/2025-08/67a3ujgo_pakistan-air-hostess-_625x300_09_August_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-      "source": "NDTV News",
-      "publishedAt": "2025-08-09T10:27:00Z"
+      "title": "China's unemployed young adults who are pretending to have jobs - BBC",
+      "description": "With Chinese youth unemployment high, individuals are paying to go into offices and pretend to work.",
+      "url": "https://www.bbc.com/news/articles/cdd3ep76g3go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9aeb/live/b97674d0-744c-11f0-a975-cb151ca452f4.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-08-11T01:50:13Z"
     },
     {
-      "title": "How Switzerland’s Tariff Drama Swung From Hope to Despair - Bloomberg.com",
-      "description": "On July 4, as the US celebrated Independence Day, Switzerland’s top circle of ministers also had reason to rejoice. They’d secured a deal to avoid punitive tariffs from Donald Trump — or so they thought.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-09/how-switzerland-s-tariff-drama-swung-from-hope-to-despair",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT1WTm7ZHwYU/v0/1200x800.jpg",
+      "title": "SoftBank founder Son makes his biggest bet by staking the Japanese giant's future on AI - CNBC",
+      "description": "SoftBank founder Masayoshi Son has been thinking about AI in various forms for more than a decade, according to former executives and public commetnary.",
+      "url": "https://www.cnbc.com/2025/08/11/softbank-founder-son-makes-his-biggest-bet-by-staking-the-future-on-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176934-1753434896682-gettyimages-2224660311-JAPAN_SOFTBANK.jpeg?v=1753434942&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-11T01:29:00Z"
+    },
+    {
+      "title": "19 Boomers And Gen Xers Are Sharing Common Knowledge From Their Youth That Would Blow Gen Z's Mind - BuzzFeed",
+      "description": "\"If I were at a club and someone was pestering me for my phone number, I would give them the 'time number...'\"",
+      "url": "https://www.buzzfeed.com/carleysuthers/older-adults-share-obsolete-life-hacks",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-08/07/18/thumb/J754nwv-s.jpg?crop=2998:1569;0,0%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2025-08-11T00:16:02Z"
+    },
+    {
+      "title": "Exclusive: Former Intel CEO Craig Barrett outlines plan to save Intel and America’s advanced chip manufacturing - Fortune",
+      "description": "Intel needs a cash infusion of roughly $40 billion to remain at the leading edge of chip manufacturing, according to former CEO Craig Barrett. The U.S. government is unlikely to be the main savior—instead cash rich chip customers like Nvidia, Apple, and Googl…",
+      "url": "https://fortune.com/2025/08/10/exclusive-former-intel-ceo-craig-barrett-outlines-plan-to-save-intel-and-americas-advanced-chip-manufacturing/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-82467671-e1754865517111.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-08-10T23:06:00Z"
+    },
+    {
+      "title": "U.S. stock futures inch higher ahead of inflation reports this week - MarketWatch",
+      "description": "",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-ahead-of-inflation-reports-this-week-6b24ec5d",
+      "urlToImage": "https://images.mktw.net/im-64257423/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-08-10T22:21:00Z"
+    },
+    {
+      "title": "This unprecedented shift in unemployment suggests AI could strand white-collar knowledge workers in a jobless recovery after the next recession - Fortune",
+      "description": "\"A much larger unemployment risk and anemic recovery prospects for these workers might cause the next labor market downturn to look pretty dismal.\"",
+      "url": "https://fortune.com/2025/08/10/ai-unemployment-white-collar-knowledge-workers-jobless-recovery-recession/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-119702748-e1754849079434.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-08-10T20:36:00Z"
+    },
+    {
+      "title": "The hidden cost of living amid Mark Zuckerberg’s $110M compound - TechCrunch",
+      "description": "Mark Zuckerberg has spent 14 years gobbling up his leafy Palo Alto neighborhood, according to a New York Times report detailing how the Meta CEO has",
+      "url": "https://techcrunch.com/2025/08/10/the-hidden-cost-of-living-amid-mark-zuckerbergs-110m-compound/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-10-at-12.46.58PM.png?resize=1200,793",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-10T19:59:20Z"
+    },
+    {
+      "title": "Bessent Sees US Trade Talks Largely Done by October, Nikkei Says - Bloomberg.com",
+      "description": "The US expects to largely complete negotiations with countries that have yet to secure a trade deal by the end of October, Nikkei Asia reported, citing an interview with Treasury Secretary Scott Bessent.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-10/bessent-sees-us-trade-talks-largely-done-by-october-nikkei-says",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO9QmkTeO_tQ/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-08-09T07:30:00Z"
+      "publishedAt": "2025-08-10T19:31:16Z"
     },
     {
-      "title": "As electric bills rise, evidence mounts that data centers share blame. States feel pressure to act - ABC News",
-      "description": "Amid rising electric bills, states are under pressure to insulate regular household and business ratepayers from the costs of feeding Big Tech’s energy-hungry data centers",
-      "url": "https://abcnews.go.com/Technology/wireStory/electric-bills-rise-evidence-mounts-data-centers-share-124503792",
-      "urlToImage": "https://i.abcnewsfe.com/a/136238a4-2690-452b-bda9-513d71f5765b/wirestory_fbf213a915fb574a4f3e5baaa7041c3a_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-08-09T06:26:17Z"
+      "title": "Palantir’s record run tests investor faith as valuation soars to S&P 500 peak (PLTR:NASDAQ) - Seeking Alpha",
+      "description": "Palantir’s record run tests investor faith as valuation soars to S&P 500 peak",
+      "url": "https://seekingalpha.com/news/4482949-palantir-s-record-run-tests-investor-faith-as-valuation-soars-to-s-and-p-500-peak",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "publishedAt": "2025-08-10T19:24:32Z"
+    },
+    {
+      "title": "The 5 Best Indoor TV Antennas, Ranked By Amazon Reviews - bgr.com",
+      "description": "An indoor antenna is a great way to get some free HD channels. According to Amazon users, these five products are the best available for this purpose.",
+      "url": "https://www.bgr.com/1933967/best-indoor-tv-antennas-on-amazon/",
+      "urlToImage": "https://www.bgr.com/img/gallery/the-5-best-indoor-tv-antennas-ranked-by-amazon-reviews/l-intro-1754592346.jpg",
+      "source": "BGR",
+      "publishedAt": "2025-08-10T19:17:00Z"
+    },
+    {
+      "title": "The computer science dream has become a nightmare - TechCrunch",
+      "description": "Well, the coding-equals-prosperity promise has officially collapsed. Fresh computer science graduates are facing unemployment rates of 6.1% to 7.5% --",
+      "url": "https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-10T18:59:42Z"
+    },
+    {
+      "title": "More than half of industries are already shedding workers, a 'telling' sign that's accompanied past recessions, top economist says - Fortune",
+      "description": "\"Things could still turn around if the economic policies weighing on the economy soon lift. But that looks increasingly unlikely.\"",
+      "url": "https://fortune.com/2025/08/10/recession-warning-economic-outlook-industry-job-losses-employment-declines/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2228223534-e1754840956145.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-08-10T17:18:00Z"
+    },
+    {
+      "title": "United flight UA1270 is declaring an emergency and diverting to New York - airlive",
+      "description": "An United Airlines flight from Chicago to Punta Cana has declared an emergency and is diverting. The United Airlines flight UA1270 departed Chicago O'Hare International Airport at 09:29 CDT to Punta Cana. About 2 hours into the flight, the pilots decided to c…",
+      "url": "https://airlive.net/emergency/2025/08/10/united-flight-ua1270-is-declaring-an-emergency-and-diverting-to-new-york/",
+      "urlToImage": "https://airlive.net/wp-content/uploads/2025/08/UA1270.jpg",
+      "source": "Airlive.net",
+      "publishedAt": "2025-08-10T17:09:07Z"
     }
   ]
 }
