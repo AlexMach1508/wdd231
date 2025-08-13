@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2025-08-12T06:44:16.446Z",
+  "updatedAt": "2025-08-13T06:44:33.491Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Asia-Pacific markets subdued as U.S.-China tariff truce deadline looms - CNBC",
-      "description": "Asia-Pacific markets traded higher as traders awaited announcement on whether the Aug. 12 deadline for U.S.–China tariff truce would be extended.",
-      "url": "https://www.cnbc.com/2025/08/11/asia-markets-live-rba-meeting-kospi-csi-300.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174885-1753162365689-gettyimages-1856771227-8y3a1877.jpeg?v=1753175390&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-08-11T04:31:00Z"
-    },
-    {
-      "title": "FBI dispatching agents to D.C. streets as Trump weighs calling National Guard - The Washington Post",
-      "description": "The unusual move comes as President Donald Trump threatens a federal takeover of the nation’s capital.",
-      "url": "https://www.washingtonpost.com/dc-md-va/2025/08/10/dc-crime-trump-crackdown/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DJMZ2MUVLJTKMPSH56WCKERKXM_size-normalized.jpg&w=1440",
+      "title": "Nevada Supreme Court hands Jon Gruden a win in latest twist of NFL suit - The Washington Post",
+      "description": "The NFL can appeal the ruling by the Nevada Supreme Court to the U.S. Supreme Court, if it chooses.",
+      "url": "https://www.washingtonpost.com/sports/2025/08/11/nfl-jon-gruden-nevada-lawsuit/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOGRVWW4LUI6ZPBVVEOQVFESHM_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-08-11T04:28:00Z"
+      "publishedAt": "2025-08-12T04:16:00Z"
     },
     {
-      "title": "Australia will recognize a Palestinian state, Prime Minister Albanese says - Politico",
-      "description": "Australia said it has received a commitment that there will be no role for Hamas in a Palestinian government.",
-      "url": "https://www.politico.com/news/2025/08/10/australia-will-recognize-a-palestinian-state-prime-minister-albanese-says-00502622",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe4%2F43%2Fbf68c8144f2a80c0edc0d93e0bc7%2Faustralia-mideast-99028.jpg",
+      "title": "Trial exposes internal tension over Trump’s use of National Guard in LA - Politico",
+      "description": "The trial over the legality of the Guard in Los Angeles as Donald Trump forged ahead with a new deployment in Washington.",
+      "url": "https://www.politico.com/news/2025/08/11/california-national-guard-trial-00504664",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff8%2F0b%2F202b00a8425dbdbf1fce2bc8158b%2Flos-angeles-curfew-77407.jpg",
       "source": "Politico",
-      "publishedAt": "2025-08-11T03:58:06Z"
+      "publishedAt": "2025-08-12T03:40:57Z"
     },
     {
-      "title": "Nvidia, AMD agree to pay U.S. government 15% of A.I. chip sales to China - The Washington Post",
-      "description": "The arrangement is highly unusual as U.S. tech export controls are usually based on national security imperatives rather than whether they can raise funds for Washington.",
-      "url": "https://www.washingtonpost.com/technology/2025/08/10/nvidia-amd-china-chips-deal-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y4K2653TVD6ZLVU2H2CORJ7LQY_size-normalized.jpg&w=1440",
+      "title": "Have Nick Jonas and Demi Lovato buried the hatchet? 'Camp Rock' fans get emotional as singers hug it out - The Times of India",
+      "description": "Nick Jonas and Demi Lovato shared an emotional reunion at the Jonas Brothers' concert, rekindling their bond after years of speculation about their relationship. The crowd went wild as the two performed fan-favorite songs from 'Camp Rock', marking their first…",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/have-nick-jonas-and-demi-lovato-buried-the-hatchet-camp-rock-fans-get-emotional-as-singers-hug-it-out-post-jonas-brothers-show-pics/articleshow/123248009.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123247988,width-1070,height-580,imgsize-43058,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "source": "The Times of India",
+      "publishedAt": "2025-08-12T03:07:00Z"
+    },
+    {
+      "title": "Taylor Swift officially unveiled as Travis Kelce’s ‘New Heights’ podcast special guest - New York Post",
+      "description": "The new episode is scheduled to be released on Wednesday at 7 p.m.",
+      "url": "https://nypost.com/2025/08/11/sports/taylor-swift-unveiled-as-travis-kelces-new-heights-podcast-special-guest/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-axexp4aig-1754964820719.jpg?quality=75&strip=all&1754950479&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-08-12T02:17:00Z"
+    },
+    {
+      "title": "Who is Terry Cole, the DEA boss now tasked with overseeing D.C. police? - The Washington Post",
+      "description": "Terry Cole, the newly sworn-in head of the DEA, is now tasked with leading the federal takeover of D.C. police under the Trump administration.",
+      "url": "https://www.washingtonpost.com/national-security/2025/08/11/terrance-cole-dea-dc-federal-takeover/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USSS2THXWTNYNXM477FO2GWV4M.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-08-11T03:19:08Z"
+      "publishedAt": "2025-08-12T02:05:23Z"
     },
     {
-      "title": "Five Al Jazeera Journalists Killed By Israel - Deadline",
-      "description": "Five Al Jazeera journalists were killed today by an Israeli airstrike near Gaza City's Al-Shifa Hospital. Among them was reporter Anas al-Sharif.",
-      "url": "http://deadline.com/2025/08/five-al-jazeera-journalists-killed-israel-anas-al-sharif-1236483281/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/Screenshot-2025-08-10-at-7.43.49 PM.png?w=886",
-      "source": "Deadline",
-      "publishedAt": "2025-08-11T02:46:00Z"
-    },
-    {
-      "title": "36 Billion Suns: Record Black Hole Discovery Could Be as Big as They Get - ScienceAlert",
-      "description": "A black hole deep in the cosmos, some 5 billion light-years away, could be the most massive ever found.",
-      "url": "https://www.sciencealert.com/36-billion-suns-record-black-hole-discovery-could-be-as-big-as-they-get",
-      "urlToImage": "https://www.sciencealert.com/images/2025/08/cosmic-horseshoe-arrow.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-08-11T02:26:02Z"
-    },
-    {
-      "title": "Colorado prison evacuated as growing wildfire becomes one of the largest in state history - CNN",
-      "description": "A Colorado prison was evacuated as one of the largest wildfires in state history continued to grow, and officials warned residents of remote areas to be ready to leave Sunday as gusty winds and low humidity fed the flames.",
-      "url": "https://www.cnn.com/2025/08/10/us/colorado-west-wildfire-lee-fire-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/photo-kelly-1.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-08-11T02:02:00Z"
-    },
-    {
-      "title": "‘The Gilded Age’ Producers Address George’s Shocking Decision In Season Finale: “He Feels Bertha Made Him Act Against His Instincts” - Deadline",
-      "description": "'The Gilded Age' Producers Address George's Shocking Decision In Season Finale: \"He Feels Bertha Made Him Act Against His Instincts\"",
-      "url": "http://deadline.com/2025/08/the-gilded-age-season-finale-george-bertha-1236482993/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/morgan-spector_5_4a0eef.jpg?w=640",
-      "source": "Deadline",
-      "publishedAt": "2025-08-11T02:00:00Z"
-    },
-    {
-      "title": "Photos: Historic flash floods hit Milwaukee as Midwest faces heavy rains threat - Axios",
-      "description": "Forecasters expect \"repeated rounds of heavy rain\" across parts of the Midwest, Central Plains, and Southeast into tomorrow.",
-      "url": "https://www.axios.com/2025/08/11/milwaukee-flooding-rain-record-wisconsin-midwest-photos",
-      "urlToImage": "https://images.axios.com/2WBAdqyAVC9KY-2zqwy6fNJx7H4=/0x157:3200x1957/1366x768/2025/08/10/1754869544747.jpeg",
+      "title": "At least 2 dead and 10 injured in explosions at U.S. Steel Clairton plant - Axios",
+      "description": "Search and rescue crews were sent to Clairton after large explosions around 11am that sent a plume of black smoke into the air at Clairton Coke Works.",
+      "url": "https://www.axios.com/local/pittsburgh/2025/08/11/us-steel-explosion-clairton-coke-works",
+      "urlToImage": "https://images.axios.com/fA9L-UzlXIaXRrQV8ilf_MER6nY=/0x484:5989x3852/1366x768/2025/08/11/1754948055026.jpeg",
       "source": "Axios",
-      "publishedAt": "2025-08-11T00:53:41Z"
+      "publishedAt": "2025-08-12T02:03:33Z"
     },
     {
-      "title": "Justin Rose wins 2025 FedEx St. Jude Championship in playoff duel with J.J. Spaun as Tommy Fleetwood collapses - CBS Sports",
-      "description": "Rose and Spaun battled through three sudden-death holes before the first leg of the 2025 FedEx Cup Playoffs was settled",
-      "url": "https://www.cbssports.com/golf/news/justin-rose-wins-fedex-st-jude-championship-leaderboard-2025-jj-spaun-fedex-cup-playoffs/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/10/17fec591-5f31-4c5b-aa60-eabb67aebb1c/thumbnail/1200x675/0300bf041fedacaefad8cbbf2087f8da/getty-justin-rose-winner.jpg",
-      "source": "CBS Sports",
-      "publishedAt": "2025-08-11T00:02:00Z"
+      "title": "NYC Legionnaires’ disease cases rise to 90 as city health officials propose new cooling tower regulations - CNN",
+      "description": "Health officials in New York City say an outbreak of Legionnaires’ disease in Central Harlem has grown to 90 cases, including three deaths.",
+      "url": "https://www.cnn.com/2025/08/11/health/legionnaires-disease-nyc-cooling-towers",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-06t151608z-366865599-rc2p1gausvzf-rtrmadp-3-new-york-legionnaires.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-08-12T01:17:00Z"
     },
     {
-      "title": "Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere - TechCrunch",
-      "description": "Security researcher Eaton Zveare told TechCrunch that the flaws he discovered in the carmaker's centralized dealer portal exposed vast access to customer and vehicle data. With this access, Zveare said he could remotely take over a customer's account and unlo…",
-      "url": "https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/car-remote-door-keyfob-1472299309.jpg?resize=1200,803",
-      "source": "TechCrunch",
-      "publishedAt": "2025-08-11T00:00:00Z"
+      "title": "High-severity WinRAR 0-day exploited for weeks by 2 groups - Ars Technica",
+      "description": "Exploits allow for persistent backdooring when targets open booby-trapped archive.",
+      "url": "https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-08-12T00:13:14Z"
     },
     {
-      "title": "Perseid meteor shower nears its 2025 peak, but viewing might be 'hampered' - USA Today",
-      "description": "The Perseid meteor shower is considered the best of the year due to the 50 to 100 meteors viewers can see per hour.",
-      "url": "https://www.usatoday.com/story/news/nation/2025/08/10/perseid-meteor-shower-2025/85577274007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/08/USAT/85577283007-getty-images-2166009919.jpg?crop=5685,3198,x0,y296&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-08-10T23:03:08Z"
+      "title": "Donald Trump picks Heritage economist to head US Bureau of Labor Statistics - Financial Times",
+      "description": "EJ Antoni is an ally of the president and has criticised the agency for ‘phoney-baloney’ numbers",
+      "url": "https://www.ft.com/content/a82fba20-a6d9-47b5-ae85-8cef1d6960d4",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe0857573-9af3-4cc1-8e3b-879f0a936537.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-08-11T23:58:03Z"
     },
     {
-      "title": "Morice Norris back at Lions facility Sunday - NBC Sports",
-      "description": "Lions safety Morice Norris is back in Detroit.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/morice-norris-back-at-lions-facility-sunday",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a3895e4/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F74%2F15e1c89b4a5a8a01d3132266270a%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26683629",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-08-10T22:46:12Z"
-    },
-    {
-      "title": "Russia and Ukraine stick to their demands ahead of planned Putin-Trump summit in Alaska - PBS",
-      "description": "The threats, pressure and ultimatums have come and gone, but Russian President Vladimir Putin has maintained Moscow's uncompromising demands in the war in Ukraine, raising fears he could use a planned summit with U.S. President Donald Trump in Alaska to coerc…",
-      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-stick-to-their-demands-ahead-of-planned-putin-trump-summit-in-alaska",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-08-05T121937Z_241765979_RC2Z0GA6XGLE_RTRMADP_3_RUSSIA-PUTIN-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-08-10T22:34:27Z"
-    },
-    {
-      "title": "Netanyahu defends Israel's plan to seize Gaza City, despite global condemnation - NPR",
-      "description": "Israeli Prime Minister Benjamin Netanyahu doubled down on his plan for Israel to seize control of Gaza City and the remaining sliver of Gaza not already under Israeli control.",
-      "url": "https://www.npr.org/2025/08/10/nx-s1-5497905/netanyahu-israel-plan-gaza-united-nations",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F26%2F53360ff14a43b51565e4b30ea412%2Fgettyimages-2228704732.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-08-10T22:06:52Z"
-    },
-    {
-      "title": "European leaders rally behind Ukraine ahead of Trump-Putin meeting - AP News",
-      "description": "European nations have rallied behind Ukraine, emphasizing that peace cannot be achieved without Kyiv's involvement. This comes before a planned meeting between U.S. President Donald Trump and Russia's Vladimir Putin. Trump has said the meeting in Alaska is to…",
-      "url": "https://apnews.com/article/russia-ukraine-war-trump-putin-european-statement-084569cce3a6b383325b0a8efa37bc6e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/4e0a04e/2147483647/strip/true/crop/7194x4047+0+375/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2F37%2Fdbbcbf0e27592010dcaa3dda679f%2F6b8ea36faa274882bceb9ba1efc55c48",
+      "title": "Texas is No. 1 in preseason AP Top 25 for first time, edging Penn St, Ohio St; 10 SEC teams ranked - AP News",
+      "description": "Texas is No. 1 in the Associated Press preseason Top 25 for the first time. The Longhorns narrowly edged out Penn State in the closest preseason vote since 1998. Texas received 25 first-place votes, while Penn State received 23. The Nittany Lions have their h…",
+      "url": "https://apnews.com/article/ap-top-25-college-football-f6a624b7dc17c1896a98951214f52039",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b3f7fae/2147483647/strip/true/crop/7189x4044+0+375/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2F7c%2Ffb36df5b76847a29470bf9079f73%2F70a8938f788a42208d759dbfa4fd1503",
       "source": "Associated Press",
-      "publishedAt": "2025-08-10T21:28:00Z"
+      "publishedAt": "2025-08-11T23:31:00Z"
     },
     {
-      "title": "Apple’s Siri delay is said to mask bigger AI ambitions behind the scenes (AAPL:NASDAQ) - Seeking Alpha",
-      "description": "Apple’s Siri delay is said to mask bigger AI ambitions behind the scenes",
-      "url": "https://seekingalpha.com/news/4482956-apple-s-siri-delay-is-said-to-mask-bigger-ai-ambitions-behind-the-scenes",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458610713/image_458610713.jpg?io=getty-c-w750",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-08-10T20:33:50Z"
+      "title": "How the UFC landed a $7.7 billion deal with Paramount after a whirlwind 48 hours, according to TKO execs - Yahoo Sports",
+      "description": "Just how big of a surprise was the UFC’s bombshell $7.7 billion deal with Paramount and CBS? So big that even UFC CEO Dana White didn’t see it coming.",
+      "url": "https://sports.yahoo.com/mma/article/how-the-ufc-landed-a-77-billion-deal-with-paramount-after-a-whirlwind-48-hours-according-to-tko-execs-232400894.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lAgRAUIVxJfTqLF7eW2log--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/34a508c0-7708-11f0-bf6e-e3a70baca7fe",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-08-11T23:24:00Z"
     },
     {
-      "title": "Italy's Mount Vesuvius, a popular tourist destination, closes over wildfire - CBS News",
-      "description": "Italian firefighters and the army on Sunday tackled a wildfire on the flanks of Mount Vesuvius​, with all hiking routes up the volcano near Naples closed to tourists.",
-      "url": "https://www.cbsnews.com/news/mount-vesuvius-italy-wildfire/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/10/267e4b00-41a1-4c54-8822-a8a804bb876c/thumbnail/1200x630/fe10a7e773a3b465646f6d8b7e36366c/gettyimages-2228625640.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-08-10T20:11:00Z"
+      "title": "Walmart Has a Brand New Apple MacBook Air for Just $599, Great for Back to Schoolers - IGN",
+      "description": "Sold and shipped by Walmart and carries an original Apple warranty.",
+      "url": "https://www.ign.com/articles/best-apple-macbook-deal-for-students-on-a-budget",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/11/macbookairm1-1754953703692.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-08-11T23:23:18Z"
+    },
+    {
+      "title": "Michigan just misses 1000-year rain, hits southeast Wisconsin - MLive.com",
+      "description": "Very heavy rainfall in southeast Wisconsin is one for the record books.",
+      "url": "https://www.mlive.com/weather/2025/08/michigan-just-misses-1000-year-rain-hits-southeast-wisconsin.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/NEAAZ7SCLJCJFEKWXSPLKSB7YM.png?auth=4f94372d5a5019645c4bf6338663fe6c98203775e714ba8bf38c5301a5ab4f2b&width=1280&quality=90",
+      "source": "mlive.com",
+      "publishedAt": "2025-08-11T23:11:00Z"
+    },
+    {
+      "title": "Gunman kills three at Target store in US state of Texas - Al Jazeera",
+      "description": "Victims not immediately identified after deadly attack at popular store in the state capital, Austin.",
+      "url": "https://www.aljazeera.com/news/2025/8/11/gunman-kills-three-at-target-store-in-us-state-of-texas",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP25223787257136-1754950962.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-08-11T22:57:36Z"
+    },
+    {
+      "title": "Bessent on Tariffs, Deficits and Embracing Trump’s Economic Plan - Bloomberg.com",
+      "description": "The US Treasury secretary has the ear of an impulsive president—and nervous investors worldwide hope it stays that way. An exclusive interview.",
+      "url": "https://www.bloomberg.com/news/features/2025-08-11/treasury-secretary-bessent-on-tariffs-deficits-trump-s-economic-plan",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irVh.3Y3VLw4/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-11T21:00:30Z"
+    },
+    {
+      "title": "What to know about the 6 journalists killed covering Israel's war in Gaza - Axios",
+      "description": "Israel's military targeted and killed Al Jazeera correspondent Anas al-Sharif via airstrike on Sunday.",
+      "url": "https://www.axios.com/2025/08/11/anas-al-sharif-al-jazeera-journalist-killed",
+      "urlToImage": "https://images.axios.com/InQbd0BLqHkKxW5MoBVOKtd_gS4=/0x0:2489x1400/1366x768/2025/08/11/1754926629878.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-08-11T20:52:31Z"
+    },
+    {
+      "title": "Sinclair is exploring merger options for its broadcast business - CNBC",
+      "description": "Sinclair, one of the largest owners of broadcast stations in the U.S., is launching a strategic review of its broadcast business that could result in a merger.",
+      "url": "https://www.cnbc.com/2025/08/11/sinclair-is-exploring-mergers-for-its-broadcast-business.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107412956-1715281110611-gettyimages-1014533126-SINCLAIR_TRIBUNE.jpeg?v=1715281197&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-11T20:51:16Z"
     }
   ]
 }
