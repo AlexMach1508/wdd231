@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2025-08-14T06:45:17.943Z",
+  "updatedAt": "2025-08-15T06:44:08.024Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Japan's Nikkei 225 hits fresh high as Asia markets track Wall Street gains on Fed rate-cut hopes - CNBC",
-      "description": "The latest U.S. inflation data lifted the possibility that the Federal Reserve could cut interest rates next month.",
-      "url": "https://www.cnbc.com/2025/08/13/asia-markets-live-nikkei-225-kospi-csi-300.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183358-1754621068989-gettyimages-2225494530-AFP_67EY8WF.jpeg?v=1754621095&w=1920&h=1080",
+      "title": "Asia Stocks Seen Higher as Fed Cut Momentum Builds: Markets Wrap - Bloomberg.com",
+      "description": "The yen rose the most in almost two weeks after US Treasury Secretary Scott Bessent said he expected Japan to raise interest rates to tame inflation. Asian stocks declined after a three-day rally.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-13/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixRqSLO4HEsQ/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-14T01:59:00Z"
+    },
+    {
+      "title": "CNBC Daily Open: Despite cooler-than-expected CPI, economists agree higher prices are coming - CNBC",
+      "description": "Wall Street economists are expecting inflation to reaccelerate because of tariffs. Of course, a consensus view does not mean predictions will come true.",
+      "url": "https://www.cnbc.com/2025/08/14/cnbc-daily-open-despite-cpi-economists-agree-higher-prices-are-coming.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108090607-1737562839116-vTGvHK58.jpg?v=1737562958&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-08-13T06:21:00Z"
+      "publishedAt": "2025-08-14T01:07:00Z"
     },
     {
-      "title": "CoreWeave Losses Widen as Data Center Demand Surges - Bloomberg.com",
-      "description": "CoreWeave Inc.’s shares fell 10% after it delivered a disappointing earnings outlook, reflecting margin pressures from a rapid AI datacenter expansion.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-12/coreweave-losses-widen-as-data-center-demand-surges",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idO8r_SPhjJY/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-13T04:16:00Z"
+      "title": "Trump Has Resorted To Making Numbers Up — And Experts Say It Should Worry All Of Us - HuffPost",
+      "description": "The president is eliminating top government statisticians and data collection efforts he doesn’t like, raising alarms about the harm he could do to the U.S. economy.",
+      "url": "https://www.huffpost.com/entry/donald-trump-bls-antoni_n_689cd337e4b03bdc47506381",
+      "urlToImage": "https://img.huffingtonpost.com/asset/689cd4a0170000e5bb63e20c.jpeg?cache=M5NP9QkPFi&ops=500_281%2Cscalefit_1200_630",
+      "source": "HuffPost",
+      "publishedAt": "2025-08-13T21:27:58Z"
     },
     {
-      "title": "AI start-up Perplexity makes surprise $34.5bn bid for Google Chrome - BBC",
+      "title": "Cisco Stock Drops After Earnings - Barron's",
       "description": null,
-      "url": "https://www.bbc.com/news/articles/c3dpr0kkyz4o",
+      "url": "https://www.barrons.com/articles/ciscos-earnings-stock-price-0d7026fb",
       "urlToImage": null,
-      "source": "BBC News",
-      "publishedAt": "2025-08-13T03:06:51Z"
+      "source": "Barron's",
+      "publishedAt": "2025-08-13T20:53:00Z"
     },
     {
-      "title": "Another one of California's Trump-proofing planks just broke - Politico",
-      "description": "The FTC is cancelling the trucking industry's agreement to abide by California's emissions rules.",
-      "url": "https://www.politico.com/news/2025/08/12/california-trump-truck-emission-rules-00506294",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F90%2F31%2F1f607bf54a3aa9396613b9d7c6a7%2Fvolvo-trucks-and-fedex-successfully-demonstrate-truck-platooning-on-nc-540-triangle-expressway-27667.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-08-13T01:24:27Z"
+      "title": "Florida AG announces ban on \"7-OH\" products - Axios",
+      "description": "The announcement makes Florida the first state to ban the concentrated kratom byproduct.",
+      "url": "https://www.axios.com/local/tampa-bay/2025/08/13/florida-ag-ban-7-oh-kratom-products",
+      "urlToImage": "https://images.axios.com/QX3841p1YuCZNHXf8jS0wk9hN34=/0x552:3260x2386/1366x768/2025/08/13/1755115310519.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-08-13T20:44:02Z"
     },
     {
-      "title": "Asian Stocks to Gain as US CPI Fuels Fed Cut Bets: Markets Wrap - Bloomberg.com",
-      "description": "Stocks rose to a record after an in-line US inflation reading bolstered speculation the Federal Reserve will have room to cut interest rates in September.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-12/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaKqfm9zO6fw/v0/1200x675.png",
+      "title": "Air Canada to begin cancelling flights Thursday ahead of possible strike by its flight attendants - CBS News",
+      "description": "Air Canada says cancelling flights will allow for an orderly shutdown of operations in case of a strike.",
+      "url": "https://www.cbsnews.com/news/air-canada-strike-flights-cancelled-flight-attendants/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/28/7dfa6ecb-b4f9-45e1-8710-77c9a99e4f9b/thumbnail/1200x630/ac639cdb62c67ad933b66d96c05102b9/gettyimages-2204452516.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-08-13T20:42:01Z"
+    },
+    {
+      "title": "Stock Market Today: Dow Rockets 400 Points; S&P, Nasdaq Extend Rally On Rates Hopes To New Highs; Crypto Stock Catapults - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index rose Wednesday. But Nvidia-backed CoreWeave and Cava stock plunged on earnings.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-coreweave-crwv-cava/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-08-13T20:39:00Z"
+    },
+    {
+      "title": "Top Federal Reserve official signals uncertainty over September interest rate cut - Financial Times",
+      "description": "Hawkish tone from Austan Goolsbee contrasts with market expectations for reduction next month",
+      "url": "https://www.ft.com/content/eff3e524-42d8-4fa1-80d9-530367b8c8dc",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a5f9037-9449-4039-b8c8-2c5271094403.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-08-13T20:38:21Z"
+    },
+    {
+      "title": "Why a jumbo Fed rate cut in September would ‘come across as panicky’ - MarketWatch",
+      "description": "Treasury Secretary Scott Bessent says the Federal Reserve should drastically slash rates. Wall Street isn’t so sure.",
+      "url": "https://www.marketwatch.com/story/why-a-jumbo-fed-rate-cut-in-september-would-come-across-as-panicky-8accae61",
+      "urlToImage": "https://images.mktw.net/im-48036226/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-08-13T20:26:00Z"
+    },
+    {
+      "title": "Crypto Firm Bullish Soars 84% in Debut After $1.1 Billion IPO - Bloomberg.com",
+      "description": "Bullish shares jumped 84% from the IPO price after the digital-asset exchange operator and owner of media outlet CoinDesk raised $1.1 billion in an initial public offering.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-13/crypto-firm-bullish-surges-143-in-debut-after-1-1-billion-ipo",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw1ZabmEwBWo/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-08-13T01:18:00Z"
+      "publishedAt": "2025-08-13T20:12:41Z"
     },
     {
-      "title": "Elon Musk says he’s suing Apple for rigging App Store rankings - The Verge",
-      "description": "Elon Musk says xAI “will take immediate legal action” against Apple for allegedly manipulating its App Store rankings to the advantage of rival AI apps.",
-      "url": "https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg?quality=90&strip=all&crop=0%2C8.1617647058824%2C100%2C78.534031413613&w=1200",
+      "title": "145-year-old film company Kodak pushes back on reports it may shut down - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/GMA/Living/145-year-film-company-kodak-pushes-back-reports/story?id\\\\u003d124607886",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-08-13T19:47:42Z"
+    },
+    {
+      "title": "AI startup Perplexity is raising more money at a $20 billion valuation - Business Insider",
+      "description": "AI startup Perplexity's valuation rose to $20 billion in fresh funding talks. It's a $2 billion jump from its last fundraise in July.",
+      "url": "https://www.businessinsider.com/perplexity-valuation-jumps-to-20-billion-in-latest-fundraise-2025-8",
+      "urlToImage": "https://i.insider.com/689cf53ecfc04e97619b5f71?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-08-13T19:07:00Z"
+    },
+    {
+      "title": "Amazon expands its perishable delivery service, putting pressure on traditional grocers - AP News",
+      "description": "Amazon is now rolling out a service where its Prime members can order their blueberries and milk at the same time as their batteries and other basic items. The online juggernaut said Wednesday that customers in more than 1,000 cities and towns now have access…",
+      "url": "https://apnews.com/article/amazon-perishable-prime-grocery-834dbc5d25eb01caafcf37f09aa308ad",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e4ecb46/2147483647/strip/true/crop/4500x2531+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2Fde%2F280715eb4f9b3897faa4af6a84cc%2F284094ae1db54cd6b6c59fb189d6a181",
+      "source": "Associated Press",
+      "publishedAt": "2025-08-13T18:30:00Z"
+    },
+    {
+      "title": "Casual Dining Takes A Hit: Stocks to Watch - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/cava-cheesecake-factory-shake-shack-dining-stocks-a6495dd5",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-08-13T17:55:00Z"
+    },
+    {
+      "title": "Gildan to Buy Hanesbrands for $2.2 Billion - The Wall Street Journal",
+      "description": "Canadian garment company said the acquisition will expand its scale and strengthen its global positioning.",
+      "url": "https://www.wsj.com/business/deals/gildan-to-buy-hanesbrands-for-2-2-billion-fa365a8b",
+      "urlToImage": "https://images.wsj.net/im-17449347/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-08-13T17:49:00Z"
+    },
+    {
+      "title": "New York claims Zelle’s shoddy security enabled a billion dollars in scams - The Verge",
+      "description": "New York Attorney General Letitia James is suing the banks behind Zelle over claims that they failed to adopt safeguards against fraud, leading to scammers stealing more than $1 billion from consumers.",
+      "url": "https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK417_MONEY_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-08-13T00:04:00Z"
+      "publishedAt": "2025-08-13T17:39:34Z"
     },
     {
-      "title": "Scrappy Gas Billionaires Win Major Arbitration Case Against Shell - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/energy-oil/scrappy-gas-billionaires-win-major-arbitration-case-against-shell-5fced1ca",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-12T23:58:00Z"
-    },
-    {
-      "title": "US July budget deficit up 20% year-over-year despite record Trump tariff income - AP News",
-      "description": "The U.S. has seen a record increase in tariff income, with a 273% rise in customs revenue from last year. However, the budget deficit is still up by 20% year over year, according to Treasury Department data released Tuesday. Tariff revenues are not yet offset…",
-      "url": "https://apnews.com/article/us-budget-deficit-trump-tariffs-treasury-992949ccc115fddbf3838a6213cf2c94",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8f56409/2147483647/strip/true/crop/2953x1661+0+154/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F6e%2F9a3dc565f12b8503fcce0a9c8ebd%2F778c124a1eaf4ef6b9f8ef9d4078bf71",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-12T23:49:00Z"
-    },
-    {
-      "title": "Trump’s pick for BLS commissioner endorses suspending monthly jobs reports - The Washington Post",
-      "description": "“The BLS should suspend issuing the monthly job reports,” E.J. Antoni, President Donald Trump’s pick to lead the federal statistical agency, said on Fox News Digital.",
-      "url": "https://www.washingtonpost.com/business/2025/08/12/bls-antoni-suspend-jobs-report/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZQWAUPQUZAT3KBKAM7S2OHSBM_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-08-12T21:46:09Z"
-    },
-    {
-      "title": "As the S&P 500 ends above 6,400 for the first time, here are a few reasons for caution - MarketWatch",
-      "description": "Consumers aren’t yet paying the costs of higher tariffs on things like replacing a roof or remodeling a kitchen, says lender",
-      "url": "https://www.marketwatch.com/story/as-the-s-p-500-ends-above-6-400-for-the-first-time-here-are-a-few-reasons-for-caution-6eb06b10",
-      "urlToImage": "https://images.mktw.net/im-03503578/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-08-12T21:18:00Z"
-    },
-    {
-      "title": "Crypto Firm Circle Posts Loss in First Earnings Report After IPO - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/finance/currencies/circle-internet-group-crcl-q2-earnings-report-stock-crypto-2025-df03698a",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-12T20:51:00Z"
-    },
-    {
-      "title": "Cava trims sales outlook, stock tumbles as CEO says consumers are navigating a ‘fog’ - MarketWatch",
-      "description": "‘Cava isn’t so special after all,’ analyst says",
-      "url": "https://www.marketwatch.com/story/cava-trims-its-sales-outlook-and-shares-tumble-its-ceo-says-consumers-are-navigating-a-fog-8326ee19",
-      "urlToImage": "https://images.mktw.net/im-85045423/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-08-12T20:34:00Z"
-    },
-    {
-      "title": "US national debt reaches a record $37 trillion, the Treasury Department reports - AP News",
-      "description": "The U.S. government’s gross national debt has surpassed $37 trillion, setting a new record. This highlights the rapid acceleration of debt on America’s balance sheet and the increasing cost pressures on taxpayers. The Treasury Department reported this update …",
-      "url": "https://apnews.com/article/treasury-debt-spending-trump-obbb-6f807c4aae78dcc96f29ff07a3c926f4",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d4ad823/2147483647/strip/true/crop/3004x1690+0+157/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2F96%2Fff61beec10b17ab888f2643059af%2Fedcee7475727489dbe63eb54abc5ca78",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-12T20:29:00Z"
-    },
-    {
-      "title": "Opendoor Rallies as Crypto Influencer Pompliano Buys Shares - Bloomberg.com",
-      "description": "Opendoor Technologies Inc. has resumed its surge after cryptocurrency investor and influential newsletter writer and podcaster Anthony Pompliano said he’d bought shares in the digital real estate firm.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-12/opendoor-rallies-as-crypto-influencer-pompliano-buys-shares",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqJKXA8oYhaE/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-12T20:27:21Z"
-    },
-    {
-      "title": "GPT-5’s model router ignited a user backlash against OpenAI—but it might be the future of AI - Fortune",
-      "description": "Log in to your Securly account using your school's Google or Microsoft Azure account.",
-      "url": "https://fortune.com/2025/08/12/openai-gpt-5-model-router-backlash-ai-future/",
-      "urlToImage": null,
-      "source": "Fortune",
-      "publishedAt": "2025-08-12T19:31:25Z"
-    },
-    {
-      "title": "FDA may pull authorization of Pfizer's Covid vaccine for children under 5, company says - CNBC",
-      "description": "The potential move to rescind authorization of Pfizer's vaccine could leave some kids in the U.S. with no available shots against Covid.",
-      "url": "https://www.cnbc.com/2025/08/12/fda-may-pull-authorization-of-pfizer-covid-shot-for-children-under-5.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107261566-1687527023180-gettyimages-1252034687-US-NEWS-CORONAVIRUS-CHICAGO-VACCINATIONS-1-TB.jpeg?v=1755023097&w=1920&h=1080",
+      "title": "Port of Los Angeles broke a century-old record as tariff threats triggered import surge - CNBC",
+      "description": "Port of LA handled 1M TEUs in July as importers rushed to beat Trump’s China tariffs, pushing volumes to all-time highs.",
+      "url": "https://www.cnbc.com/2025/08/13/us-companies-rushed-in-imports-at-port-of-los-angeles-to-avoid-tariff-deadline-now-pushed-back.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139675-1746539928286-108139675-17461331442025-05-01t203351z_995471131_rc249ea1ltvb_rtrmadp_0_usa-trump-tariffs-imports-1.jpg?v=1746539936&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-08-12T18:53:24Z"
+      "publishedAt": "2025-08-13T17:33:25Z"
     },
     {
-      "title": "Iconic US film company Kodak warns it may go out of business - USA Today",
-      "description": "The U.S. company credited with making photography accessible to everyday people and revolutionizing film says its \"ability to continue\" is in doubt.",
-      "url": "https://www.usatoday.com/story/money/2025/08/12/kodak-may-go-out-of-business-stock-down/85626375007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/12/USAT/85628375007-getty-images-1419933784.jpg?crop=5399,3037,x0,y248&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-08-12T18:10:57Z"
+      "title": "Switzerland warns its companies that no, they can't dodge Trump's tariffs by routing goods through the tiny neighboring country of Liechtenstein - Fortune",
+      "description": "The two neighbors have had a century-long treaty allowing Liechtenstein to share Switzerland’s economic area and engage in free trade.",
+      "url": "https://fortune.com/2025/08/13/switzerland-businesses-rerouting-goods-liechtenstein-dodge-tariff/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2228085126-e1755102906349.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-08-13T16:57:00Z"
+    },
+    {
+      "title": "Trump Signals He’ll Announce Fed Chair Pick ‘A Little Bit Early’ - Bloomberg.com",
+      "description": "President Donald Trump said he may name the next Federal Reserve chair “a little bit early” and added that he was down to three or four potential candidates as he looks for a successor to Jerome Powell.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-13/trump-signals-he-ll-announce-fed-chair-pick-a-little-bit-early",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPi3sE1mlL2A/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-13T16:49:52Z"
     }
   ]
 }
