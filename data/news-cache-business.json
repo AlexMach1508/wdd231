@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-08-17T06:40:11.063Z",
+  "updatedAt": "2025-08-18T06:47:24.618Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Class-action suit claims Otter AI secretly records private work conversations - NPR",
-      "description": "The suit claims the popular service may be recording and processing millions of users' private conversations without consent.",
-      "url": "https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x675+0+1/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F94%2F9964049746dd8edc7fd29b2fe608%2Fotter-pic.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-08-16T00:44:21Z"
-    },
-    {
-      "title": "Novo Nordisk’s Wegovy Gets US Approval for Liver Disease - Bloomberg.com",
-      "description": "Novo Nordisk A/S’s blockbuster weight-loss drug Wegovy received Food and Drug Administration approval to treat a serious form of liver disease, beating rival Eli Lilly &amp; Co. to the US market for the increasingly prevalent condition.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-15/novo-nordisk-s-wegovy-gets-us-approval-for-liver-disease",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVBZnZWFmDCA/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-15T22:54:33Z"
-    },
-    {
-      "title": "The Man Tasked With Nailing Ford’s Next Model T Moment - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/autos/ford-ev-strategy-doug-field-1f1ae4cf",
-      "urlToImage": null,
+      "title": "The Palantir Mafia Behind Silicon Valley’s Hottest Startups - The Wall Street Journal",
+      "description": "The network connects founders and venture capitalists with ‘Palantir Pals’ and a Russian River camping trip",
+      "url": "https://www.wsj.com/tech/the-palantir-mafia-behind-silicon-valleys-hottest-startups-f6e9bcbb",
+      "urlToImage": "https://images.wsj.net/im-12258659/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-15T22:31:30Z"
+      "publishedAt": "2025-08-17T00:31:36Z"
     },
     {
-      "title": "Sam Altman, over bread rolls, explores life after GPT-5 - TechCrunch",
-      "description": "At a dinner with reporters in San Francisco, OpenAI CEO Sam Altman spilled details on the company's ambitions beyond ChatGPT.",
-      "url": "https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2223572243.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-08-15T22:20:59Z"
+      "title": "New Jersey Man Dies on Way to Meet Kendall Jenner Lookalike Chatbot - TMZ",
+      "description": "A New Jersey man died on his way to meet a chatbot that looked like Kendall Jenner ... and, his family insists it happened because the AI said multiple times it was a real person.",
+      "url": "https://www.tmz.com/2025/08/16/man-dies-headed-meet-ai-chatbot-big-sis-billie/",
+      "urlToImage": "https://imagez.tmz.com/image/da/16by9/2025/08/16/da05cfb473454f399ad4c84d743d07c9_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2025-08-16T23:47:11Z"
     },
     {
-      "title": "Trump administration deepens crackdown on solar and wind tax credits - Politico",
-      "description": "New Treasury Department guidance limiting eligibility for lucrative tax credits follows Trump’s executive order to “strictly enforce” restrictions on the incentives.",
-      "url": "https://www.politico.com/news/2025/08/15/trump-solar-wind-tax-00512034",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F93%2F82%2F9cfcc5c94ed581dfa4ca34a48405%2Fcongress-tax-cuts-42082.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-08-15T21:37:08Z"
-    },
-    {
-      "title": "Meta Plans Fourth Restructuring of AI Efforts in Six Months - The Information",
-      "description": "Meta Platforms is planning the fourth restructuring of its artificial intelligence efforts in six months, according to three people familiar with the matter. Meta’s new AI organization, Meta Superintelligence Labs, is expected to be divided into four groups: …",
-      "url": "https://www.theinformation.com/articles/meta-plans-fourth-restructuring-ai-efforts-six-months",
-      "urlToImage": "https://tii.imgix.net/production/articles/15570/707ab4a4-e5ea-4d3d-bd53-3d2e79974a25.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "source": "The Information",
-      "publishedAt": "2025-08-15T21:11:00Z"
-    },
-    {
-      "title": "OpenAI Staffers to Sell $6 Billion in Stock to SoftBank, Other Investors - Bloomberg.com",
-      "description": "SoftBank, Dragoneer and Thrive Capital are set to buy OpenAI shares from current and former employees at a $500 billion valuation.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-15/openai-staffers-to-sell-6-billion-in-stock-to-softbank-other-investors",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irrRThPvRjB8/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-15T21:06:51Z"
-    },
-    {
-      "title": "S&P 500 Gains & Losses Today: UnitedHealth Stock Climbs After News of Berkshire Stake - Investopedia",
-      "description": "The S&P 500 slipped 0.3% on Friday, Aug. 15, 2025, as a report on consumer sentiment revealed growing concerns about tariff impacts, inflation, and the jobs market.",
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-unitedhealth-stock-climbs-after-news-of-berkshire-stake-11791899",
-      "urlToImage": "https://www.investopedia.com/thmb/GuacvrdqSZtfh5xYBF1ECm_0w0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1541106661-75aa823d626445ff85c34bd7f98b8e14.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-08-15T20:59:06Z"
-    },
-    {
-      "title": "After a freeze, Trump administration reluctantly agrees to fund EV chargers - NPR",
-      "description": "Transportation Secretary Sean Duffy says he doesn't agree with federal subsidies for high-speed EV chargers, but that his department \"will respect Congress' will\" and release the funds.",
-      "url": "https://www.npr.org/2025/08/15/nx-s1-5501584/ev-charger-nevi-funding",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fbe%2F3d2c89474c7c9428121d89e91c7a%2Fgettyimages-2026355529.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-08-15T20:33:59Z"
-    },
-    {
-      "title": "6 controversial ideas from Trump’s pick for top labor statistics job - The Washington Post",
-      "description": "E.J. Antoni, chief economist at the Heritage Foundation, has raised questions from economists and policymakers across the political spectrum for his views, experience and misunderstanding of economic data.",
-      "url": "https://www.washingtonpost.com/business/2025/08/15/trump-antoni-bls-nomination/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZQWAUPQUZAT3KBKAM7S2OHSBM_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-08-15T20:32:52Z"
-    },
-    {
-      "title": "When our inflation infeelings don’t match the CPI : Planet Money - NPR",
-      "description": "For most Americans, we just lived through the highest period of inflation in our lives. And we are reminded of this every time we go grocery shopping. All over TikTok, tons of people have posted videos of how little they got for … $20. $40. $100. Most upsetti…",
-      "url": "https://www.npr.org/2025/08/15/nx-s1-5500523/when-our-inflation-infeelings-dont-match-the-cpi",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F53%2F3576e8db4a44949943781a434951%2F3e6a834c-e185-412f-bedf-cb6fe43dd7b3.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-08-15T20:30:00Z"
-    },
-    {
-      "title": "Joby Aviation Stock Falls. Why a 12-Minute Flight Was So Important. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/joby-aviation-stock-air-taxi-flight-23d18b4d",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-08-15T20:19:00Z"
-    },
-    {
-      "title": "Applied Materials Falls On Weak Outlook. CEO Sees 'Increased Uncertainty.' - Investor's Business Daily",
-      "description": "Applied Materials beat Wall Street's targets for its fiscal third quarter but badly missed with its outlook. Applied Materials stock fell.",
-      "url": "https://www.investors.com/news/technology/applied-materials-stock-amat-fiscal-q3-2025-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-AppliedMaterials-AustinTX-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-08-15T20:05:00Z"
-    },
-    {
-      "title": "Louisiana attorney general sues Roblox, calling the platform 'the perfect place for pedophiles' - NBC News",
-      "description": "Louisiana’s top prosecutor sued the popular online gaming platform Roblox on Thursday, alleging that its failure to implement strong safety protocols for children has made it “the perfect place for pedophiles.”The suit, filed by Attorney General Liz Murrill i…",
-      "url": "https://www.nbcnews.com/tech/tech-news/louisiana-attorney-general-sues-roblox-calling-platform-perfect-place-rcna225144",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241118-roblox-mb-1226-e2c617.jpg",
+      "title": "Air Canada grounds flights amid strike, government steps in - NBC News",
+      "description": "Air Canada suspended all operations Saturday morning after more than 10,000 flight attendants walked off the job over pay and scheduling disputes, prompting the Canadian government to step in",
+      "url": "https://www.nbcnews.com/world/canada/air-canada-strike-what-to-know-rcna225351",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250816-air-canada-vl-1049a-59f837.jpg",
       "source": "NBC News",
-      "publishedAt": "2025-08-15T20:04:00Z"
+      "publishedAt": "2025-08-16T21:35:50Z"
     },
     {
-      "title": "First New Fibromyalgia Drug in 15 Years: Tonix's Tonmya Approved for 10M+ US Patients After Strong Trial Results - Stock Titan",
-      "description": "Tonmya, a non-opioid sublingual tablet, showed significant pain reduction in 1,000+ patient trials. Targets 10M+ US adults with fibromyalgia. Commercial launch set for Q4 2025.",
-      "url": "https://www.stocktitan.net/news/TNXP/tonix-pharmaceuticals-announces-fda-approval-of-tonmya-tm-x90rzddjnmp9.html",
-      "urlToImage": "https://www.stocktitan.net/news_covers/Tonix_Pharmaceuticals_Announces_FDA_Approval_of_Tonmya_cyclobenzaprine_HCl_sublingual_tablets_for_894678.png",
-      "source": "Stocktitan.net",
-      "publishedAt": "2025-08-15T19:44:00Z"
+      "title": "SpaceX Pays Next To Nothing In Federal Taxes Despite Billions In Revenue - Jalopnik",
+      "description": "SpaceX is finally reaching the point where its financial success should be benefiting the American people.",
+      "url": "https://www.jalopnik.com/1941176/spacex-pays-nothing-federal-taxes-despite-billion-revenue/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/spacex-pays-next-to-nothing-in-federal-taxes-despite-billions-in-revenue/l-intro-1755279334.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2025-08-16T19:05:00Z"
     },
     {
-      "title": "World Economic Forum Clears Klaus Schwab of Wrongdoing - The Wall Street Journal",
-      "description": "Davos organizer names BlackRock’s Larry Fink as co-chair and moves to resolve dispute with founder",
-      "url": "https://www.wsj.com/business/wef-probe-clears-klaus-schwab-of-material-wrongdoing-cdc5275d",
-      "urlToImage": "https://images.wsj.net/im-34560199/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-15T19:04:00Z"
+      "title": "Denver man called United Airlines real customer service — then got transferred to someone who took $17K. How? - yahoo.com",
+      "description": "Trusting United’s official number wasn’t enough. He’s still waiting for $17,000 to be refunded.",
+      "url": "https://www.yahoo.com/news/articles/denver-man-called-united-airlines-180000008.html",
+      "urlToImage": "https://media.zenfs.com/en/moneywise_327/b8d069ff0c1cac4c8a9b6dfbf4e99d1d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-08-16T18:00:00Z"
     },
     {
-      "title": "After Nearly 20 Years, a Legendary Japanese Sports Car Returns with an Unexpected Twist - Gear Patrol",
-      "description": "An early 2000s Acura nameplate is making a comeback as a car that's nothing like its predecessor.",
-      "url": "https://www.gearpatrol.com/cars/acura-rsx-ev-prototype-debut/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/08/acura-rsx-ev-prototype-lead.webp",
-      "source": "Gear Patrol",
-      "publishedAt": "2025-08-15T17:53:39Z"
+      "title": "Judge blocks Trump FTC’s ‘retaliation’ against liberal media watchdog - CNN",
+      "description": "A federal judge has blocked the Trump administration’s investigation of a liberal group known for its campaigns against Fox News and Elon Musk’s X.",
+      "url": "https://www.cnn.com/2025/08/16/media/ftc-trump-media-matters-elon-musk-judge-order",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2205290733.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-08-16T17:48:00Z"
     },
     {
-      "title": "Stock Market Today: Dow Leads Indexes With Help From UnitedHealth; This Streaming Music Name Sings (Live Coverage) - Investor's Business Daily",
-      "description": "The Dow Jones Index closed with a small gain on the stock market today. UnitedHealth soared on Buffett news. A meme stock's CEO resigns.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-unitedhealth-unh-warren-buffett/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/02/Stock-DowJones-mrkt-shut.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-08-15T17:50:00Z"
+      "title": "Not enough: Corvette concept falls 1,000 hp short of Chinese hypercar hype [video] - Electrek",
+      "description": "The Corvette CX making its debut this weekend packs 2,000 hp. It's almost perfect, but for one problem: the new BYD has 1,000 more hp.",
+      "url": "http://electrek.co/2025/08/16/not-good-enough-corvette-concept-falls-short-of-chinese-hypercar-hype-video/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/08/not-enough.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2025-08-16T17:21:00Z"
     },
     {
-      "title": "Jeff Bezos & Lauren Sanchez Suffer a Rocky Start to Their Marriage With a Devastating Update - yahoo.com",
-      "description": "Jeff Bezos and Lauren Sanchez’s newlywed bliss has come to a tragic end. The Amazon founder, 61, married his partner of six years in a luxury Italian wedding...",
-      "url": "https://www.sheknows.com/entertainment/articles/1234912551/jeff-bezos-mom-dies-lauren-sanchez-marriage/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uxyP5tgoxI_09bKP.kuP9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sheknows_79/4e0b37e26c7733674ef72d421e7099c5",
-      "source": "SheKnows",
-      "publishedAt": "2025-08-15T17:32:10Z"
+      "title": "Here's why Google might have to sell Chrome, and which companies want to buy it - Business Insider",
+      "description": "A judge will soon decide if Google must sell Chrome to remedy its antitrust case. Competitors like Perplexity have already expressed interest.",
+      "url": "https://www.businessinsider.com/chrome-buyers-web-browser-google-antitrust-case-search-perplexity-yahoo-2025-8",
+      "urlToImage": "https://i.insider.com/689f5d9ecfc04e97619b7e8d?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-08-16T16:16:00Z"
+    },
+    {
+      "title": "Cathie Wood Buys the Dip in CoreWeave Stock (CRWV) While Wall Street Remains Cautious - TipRanks",
+      "description": "CoreWeave ($CRWV) stock has plunged nearly 33% since the company announced its second-quarter results. The artificial intelligence (AI)-powered cloud computing comp...",
+      "url": "https://www.tipranks.com/news/cathie-wood-buys-the-dip-in-coreweave-stock-crwv-while-wall-street-remains-cautious",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/shutterstock_2533452409-1-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-08-16T15:19:32Z"
+    },
+    {
+      "title": "Bill Gates said GPT tech had peaked with GPT-4 — now GPT-5’s disappointing debut has people talking - Windows Central",
+      "description": "In a sharp twist of fate, OpenAI's recently launched GPT-5 is facing user backlash despite high expectations. Bill Gates' 2021 skepticism about AI progress resurfaces as many find the new model merely a modest upgrade over its predecessor.",
+      "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/from-plateau-predictions-to-buggy-rollouts-bill-gates-gpt-5-skepticism-looks-strangely-accurate",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qjAuc6Mo47SS5ivRScfyT7.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2025-08-16T13:48:00Z"
+    },
+    {
+      "title": "Stocks power to record highs again despite warning signs. Can the market's strong run continue? - CNBC",
+      "description": "It's no longer possible to argue that most investors are still outright bearish or are fighting the market's four-month advance.",
+      "url": "https://www.cnbc.com/2025/08/16/stocks-power-to-record-highs-again-despite-warning-signs-can-the-markets-strong-run-continue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108163913-17508658132025-06-25t153459z_538172852_rc2p9fatulsa_rtrmadp_0_usa-stocks.jpeg?v=1750865896&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-16T12:20:11Z"
+    },
+    {
+      "title": "AT&T may pay customers up to $7,500 in $177 million data breach settlement - CNN",
+      "description": "Millions of AT&T customers can file claims worth up to $7,500 in cash payments as part of a $177 million settlement related to data breaches in 2024.",
+      "url": "https://www.cnn.com/2025/08/16/business/att-data-leak-settlement",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-830411076.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-08-16T12:06:00Z"
+    },
+    {
+      "title": "New world’s biggest cruise ship makes Florida debut as it sets sail. Take a look - Miami Herald",
+      "description": "Star of the Seas, the world's largest cruise ship, makes its home at Port Canaveral with dining, pools and Caribbean itinierary.",
+      "url": "https://www.miamiherald.com/living/travel/article311724866.html",
+      "urlToImage": "https://www.miamiherald.com/public/latest-news/k75gsj/picture311726604/alternates/LANDSCAPE_1140/Stasr.jps.png",
+      "source": "Miami Herald",
+      "publishedAt": "2025-08-16T11:26:45Z"
+    },
+    {
+      "title": "Southwest announces West Coast expansion at California airport - SFGATE",
+      "description": "Spirit Airlines says in a financial filing that it needs to improve its bottom line and generate more cash after emerging from Chapter 11 bankruptcy.",
+      "url": "https://www.sfgate.com/travel/article/spirit-airlines-warns-substantial-doubt-flying-20817762.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/22/25/28386673/5/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2025-08-16T11:14:19Z"
+    },
+    {
+      "title": "Trump's unprecedented, potentially unconstitutional deal with Nvidia and AMD, explained: Alexander Hamilton would approve - Fortune",
+      "description": "Nvidia and AMD agreeing to give 15% of their China chips revenue back to the U.S. doesn't recall any deal ever struck by the U.S. government.",
+      "url": "https://fortune.com/2025/08/16/is-trump-deal-amd-nvidia-china-chips-constitutional/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2212801534.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-08-16T11:00:00Z"
+    },
+    {
+      "title": "Why UnitedHealth? Buying the stock was actually a ‘classic Buffett move.’ - MarketWatch",
+      "description": "Shares of some UnitedHealth peers got a bump, and they all look cheaper based on price relative to expected earnings",
+      "url": "https://www.marketwatch.com/story/why-unitedhealth-buying-the-stock-was-actually-a-classic-buffett-move-df763d81",
+      "urlToImage": "https://images.mktw.net/im-26310569/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-08-16T11:00:00Z"
+    },
+    {
+      "title": "Are tariffs to blame for nearly 40% spike in wholesale vegetable prices? Experts weigh in - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/Business/tariffs-blame-40-spike-wholesale-vegetable-prices-experts/story?id\\\\u003d124684249",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-08-16T10:45:40Z"
+    },
+    {
+      "title": "Sam Altman Is Going After Elon Musk’s Empire, One Company At A Time - Forbes",
+      "description": "The OpenAI CEO is challenging his former friend. Twitter, Tesla and even Neuralink are in his sights",
+      "url": "https://www.forbes.com/sites/johnhyatt/2025/08/16/sam-altman-despises-elon-musk-now-he-is-going-after-his-companies/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689fab518c35238dbafe75a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-08-16T10:30:00Z"
     }
   ]
 }
