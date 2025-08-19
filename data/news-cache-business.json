@@ -1,151 +1,127 @@
 {
-  "updatedAt": "2025-08-18T06:47:24.618Z",
+  "updatedAt": "2025-08-19T06:41:31.711Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "The Palantir Mafia Behind Silicon Valley’s Hottest Startups - The Wall Street Journal",
-      "description": "The network connects founders and venture capitalists with ‘Palantir Pals’ and a Russian River camping trip",
-      "url": "https://www.wsj.com/tech/the-palantir-mafia-behind-silicon-valleys-hottest-startups-f6e9bcbb",
-      "urlToImage": "https://images.wsj.net/im-12258659/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-17T00:31:36Z"
+      "title": "BlackRock’s 5% MicroStrategy stake: Is Bitcoin’s biggest whale in danger? - AMBCrypto",
+      "description": "What happens if Strategy is forced to sell?",
+      "url": "https://ambcrypto.com/blackrocks-5-microstrategy-stake-is-bitcoins-biggest-whale-in-danger/",
+      "urlToImage": "https://ambcrypto.com/wp-content/uploads/2025/08/BlackRock-will-trigger-the-biggest-Black-Swan-1000x600.webp",
+      "source": "Ambcrypto.com",
+      "publishedAt": "2025-08-18T05:04:02Z"
     },
     {
-      "title": "New Jersey Man Dies on Way to Meet Kendall Jenner Lookalike Chatbot - TMZ",
-      "description": "A New Jersey man died on his way to meet a chatbot that looked like Kendall Jenner ... and, his family insists it happened because the AI said multiple times it was a real person.",
-      "url": "https://www.tmz.com/2025/08/16/man-dies-headed-meet-ai-chatbot-big-sis-billie/",
-      "urlToImage": "https://imagez.tmz.com/image/da/16by9/2025/08/16/da05cfb473454f399ad4c84d743d07c9_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-08-16T23:47:11Z"
+      "title": "The Best of Times, the Worst of Times - COLlive",
+      "description": "From the COLlive inbox: For many families, this is the most enjoyable time of the year. But for those of us living overseas, this period can be incredibly challenging. Full Story",
+      "url": "https://collive.com/the-best-of-times-the-worst-of-times/",
+      "urlToImage": "https://collive.com/wp-content/uploads/2025/08/img_9242.jpeg",
+      "source": "COLlive - Chabad News",
+      "publishedAt": "2025-08-18T03:51:58Z"
     },
     {
-      "title": "Air Canada grounds flights amid strike, government steps in - NBC News",
-      "description": "Air Canada suspended all operations Saturday morning after more than 10,000 flight attendants walked off the job over pay and scheduling disputes, prompting the Canadian government to step in",
-      "url": "https://www.nbcnews.com/world/canada/air-canada-strike-what-to-know-rcna225351",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250816-air-canada-vl-1049a-59f837.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-08-16T21:35:50Z"
+      "title": "'This Motor Might Say Land Rover…:' Mechanic Lifts the Hood of a Luxury SUV. Then He Reveals Who Actually Makes the Engine - Motor1.com",
+      "description": "Mechanic lifts hood of a Land Rover, points out that the engine is made by a different company",
+      "url": "https://www.motor1.com/news/769163/land-rover-engine/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/JOVqnn/s1/mechanics-lifts-the-hood-of-a-luxury-suv.-then-he-reveals-who-actually-makes-the-engine.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2025-08-18T02:57:27Z"
     },
     {
-      "title": "SpaceX Pays Next To Nothing In Federal Taxes Despite Billions In Revenue - Jalopnik",
-      "description": "SpaceX is finally reaching the point where its financial success should be benefiting the American people.",
-      "url": "https://www.jalopnik.com/1941176/spacex-pays-nothing-federal-taxes-despite-billion-revenue/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/spacex-pays-next-to-nothing-in-federal-taxes-despite-billions-in-revenue/l-intro-1755279334.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2025-08-16T19:05:00Z"
-    },
-    {
-      "title": "Denver man called United Airlines real customer service — then got transferred to someone who took $17K. How? - yahoo.com",
-      "description": "Trusting United’s official number wasn’t enough. He’s still waiting for $17,000 to be refunded.",
-      "url": "https://www.yahoo.com/news/articles/denver-man-called-united-airlines-180000008.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_327/b8d069ff0c1cac4c8a9b6dfbf4e99d1d",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-08-16T18:00:00Z"
-    },
-    {
-      "title": "Judge blocks Trump FTC’s ‘retaliation’ against liberal media watchdog - CNN",
-      "description": "A federal judge has blocked the Trump administration’s investigation of a liberal group known for its campaigns against Fox News and Elon Musk’s X.",
-      "url": "https://www.cnn.com/2025/08/16/media/ftc-trump-media-matters-elon-musk-judge-order",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2205290733.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-08-16T17:48:00Z"
-    },
-    {
-      "title": "Not enough: Corvette concept falls 1,000 hp short of Chinese hypercar hype [video] - Electrek",
-      "description": "The Corvette CX making its debut this weekend packs 2,000 hp. It's almost perfect, but for one problem: the new BYD has 1,000 more hp.",
-      "url": "http://electrek.co/2025/08/16/not-good-enough-corvette-concept-falls-short-of-chinese-hypercar-hype-video/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/08/not-enough.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2025-08-16T17:21:00Z"
-    },
-    {
-      "title": "Here's why Google might have to sell Chrome, and which companies want to buy it - Business Insider",
-      "description": "A judge will soon decide if Google must sell Chrome to remedy its antitrust case. Competitors like Perplexity have already expressed interest.",
-      "url": "https://www.businessinsider.com/chrome-buyers-web-browser-google-antitrust-case-search-perplexity-yahoo-2025-8",
-      "urlToImage": "https://i.insider.com/689f5d9ecfc04e97619b7e8d?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-08-16T16:16:00Z"
-    },
-    {
-      "title": "Cathie Wood Buys the Dip in CoreWeave Stock (CRWV) While Wall Street Remains Cautious - TipRanks",
-      "description": "CoreWeave ($CRWV) stock has plunged nearly 33% since the company announced its second-quarter results. The artificial intelligence (AI)-powered cloud computing comp...",
-      "url": "https://www.tipranks.com/news/cathie-wood-buys-the-dip-in-coreweave-stock-crwv-while-wall-street-remains-cautious",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/shutterstock_2533452409-1-750x406.jpg",
+      "title": "‘Playing With Fire,’ Says Top Investor About Palantir Stock - TipRanks",
+      "description": "Palantir (NASDAQ:PLTR) stock is known for its lofty valuation, but to grasp just how extreme it has become, consider this: last year’s share dilution alone added mo...",
+      "url": "https://www.tipranks.com/news/playing-with-fire-says-top-investor-about-palantir-stock",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/PLTR-0817-750x406.jpg",
       "source": "Tipranks.com",
-      "publishedAt": "2025-08-16T15:19:32Z"
+      "publishedAt": "2025-08-18T02:52:23Z"
     },
     {
-      "title": "Bill Gates said GPT tech had peaked with GPT-4 — now GPT-5’s disappointing debut has people talking - Windows Central",
-      "description": "In a sharp twist of fate, OpenAI's recently launched GPT-5 is facing user backlash despite high expectations. Bill Gates' 2021 skepticism about AI progress resurfaces as many find the new model merely a modest upgrade over its predecessor.",
-      "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/from-plateau-predictions-to-buggy-rollouts-bill-gates-gpt-5-skepticism-looks-strangely-accurate",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qjAuc6Mo47SS5ivRScfyT7.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-08-16T13:48:00Z"
+      "title": "Soho House close to $1.8bn take-private deal - Financial Times",
+      "description": "London members’ club that went global set to be bought out by investors led by New York-based MCR Hotels",
+      "url": "https://www.ft.com/content/714d00d6-b2fa-47d7-9b03-c2629af99882",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc02a8057-1447-400c-987d-5d18b1ff2851.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-08-18T02:31:54Z"
     },
     {
-      "title": "Stocks power to record highs again despite warning signs. Can the market's strong run continue? - CNBC",
-      "description": "It's no longer possible to argue that most investors are still outright bearish or are fighting the market's four-month advance.",
-      "url": "https://www.cnbc.com/2025/08/16/stocks-power-to-record-highs-again-despite-warning-signs-can-the-markets-strong-run-continue.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108163913-17508658132025-06-25t153459z_538172852_rc2p9fatulsa_rtrmadp_0_usa-stocks.jpeg?v=1750865896&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-08-16T12:20:11Z"
+      "title": "‘Scoop Up,’ Says Austin Moeller About Archer Stock - TipRanks",
+      "description": "Archer Aviation (NYSE:ACHR) is getting closer to the commercialization stage, and the progress being made on that front drew investor applause following the eVTOL m...",
+      "url": "https://www.tipranks.com/news/scoop-up-says-austin-moeller-about-archer-stock",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/01/ACHR-Austin-Moeller-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-08-18T01:23:49Z"
     },
     {
-      "title": "AT&T may pay customers up to $7,500 in $177 million data breach settlement - CNN",
-      "description": "Millions of AT&T customers can file claims worth up to $7,500 in cash payments as part of a $177 million settlement related to data breaches in 2024.",
-      "url": "https://www.cnn.com/2025/08/16/business/att-data-leak-settlement",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-830411076.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-08-16T12:06:00Z"
-    },
-    {
-      "title": "New world’s biggest cruise ship makes Florida debut as it sets sail. Take a look - Miami Herald",
-      "description": "Star of the Seas, the world's largest cruise ship, makes its home at Port Canaveral with dining, pools and Caribbean itinierary.",
-      "url": "https://www.miamiherald.com/living/travel/article311724866.html",
-      "urlToImage": "https://www.miamiherald.com/public/latest-news/k75gsj/picture311726604/alternates/LANDSCAPE_1140/Stasr.jps.png",
-      "source": "Miami Herald",
-      "publishedAt": "2025-08-16T11:26:45Z"
-    },
-    {
-      "title": "Southwest announces West Coast expansion at California airport - SFGATE",
-      "description": "Spirit Airlines says in a financial filing that it needs to improve its bottom line and generate more cash after emerging from Chapter 11 bankruptcy.",
-      "url": "https://www.sfgate.com/travel/article/spirit-airlines-warns-substantial-doubt-flying-20817762.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/22/25/28386673/5/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-08-16T11:14:19Z"
-    },
-    {
-      "title": "Trump's unprecedented, potentially unconstitutional deal with Nvidia and AMD, explained: Alexander Hamilton would approve - Fortune",
-      "description": "Nvidia and AMD agreeing to give 15% of their China chips revenue back to the U.S. doesn't recall any deal ever struck by the U.S. government.",
-      "url": "https://fortune.com/2025/08/16/is-trump-deal-amd-nvidia-china-chips-constitutional/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2212801534.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-08-16T11:00:00Z"
-    },
-    {
-      "title": "Why UnitedHealth? Buying the stock was actually a ‘classic Buffett move.’ - MarketWatch",
-      "description": "Shares of some UnitedHealth peers got a bump, and they all look cheaper based on price relative to expected earnings",
-      "url": "https://www.marketwatch.com/story/why-unitedhealth-buying-the-stock-was-actually-a-classic-buffett-move-df763d81",
-      "urlToImage": "https://images.mktw.net/im-26310569/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-08-16T11:00:00Z"
-    },
-    {
-      "title": "Are tariffs to blame for nearly 40% spike in wholesale vegetable prices? Experts weigh in - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Business/tariffs-blame-40-spike-wholesale-vegetable-prices-experts/story?id\\\\u003d124684249",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-08-16T10:45:40Z"
-    },
-    {
-      "title": "Sam Altman Is Going After Elon Musk’s Empire, One Company At A Time - Forbes",
-      "description": "The OpenAI CEO is challenging his former friend. Twitter, Tesla and even Neuralink are in his sights",
-      "url": "https://www.forbes.com/sites/johnhyatt/2025/08/16/sam-altman-despises-elon-musk-now-he-is-going-after-his-companies/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689fab518c35238dbafe75a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title": "Amazon’s App Store Decision—48 Hours To Delete Your Apps - Forbes",
+      "description": "You have been warned — do not miss deadline.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/08/17/amazons-app-store-decision-48-hours-to-delete-your-apps/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a27a043e41d0451b9097cc/0x0.jpg?format=jpg&crop=1042,586,x480,y505,safe&height=900&width=1600&fit=bounds",
       "source": "Forbes",
-      "publishedAt": "2025-08-16T10:30:00Z"
+      "publishedAt": "2025-08-18T00:58:58Z"
+    },
+    {
+      "title": "Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell - Bloomberg.com",
+      "description": "Bond traders’ big bet that the Federal Reserve is poised to lower interest rates faces a key moment this week as Chair Jerome Powell gets a chance to weigh in on the economy.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-17/bond-market-s-rate-cut-bets-enter-decisive-stretch-with-powell",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8X4sOxtdrHk/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-18T00:14:00Z"
+    },
+    {
+      "title": "Asia Morning Briefing: Crypto's Rising Leverage Trades Show Signs of Stress, Galaxy Digital Says - CoinDesk",
+      "description": "Crypto loans are back near bull-market highs, but last week’s $1B liquidation shows leverage is cutting both ways.",
+      "url": "https://www.coindesk.com/markets/2025/08/18/asia-morning-briefing-crypto-s-rising-leverage-trades-show-signs-of-stress-galaxy-digital-says",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/cbb589abc7860688a190b9cf93c7bbba0febf31b-1920x1996.jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2025-08-18T00:00:42Z"
+    },
+    {
+      "title": "Prediction: This Unstoppable Stock Will Be a Founding Member of the $6 Trillion Club by 2027 - The Motley Fool",
+      "description": "Take an industry leader, add in a healthy dose of secular tailwinds and a large addressable market, and you get an artificial intelligence (AI) pioneer ready to break new ground.",
+      "url": "https://www.fool.com/investing/2025/08/17/prediction-this-unstoppable-stock-will-be-a-foundi/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/829479/person-in-business-attire-smirking-and-scattering-100-bills.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2025-08-17T23:03:00Z"
+    },
+    {
+      "title": "Glenfiddich’s Latest Single Malt Brings Formula One Racing to Your Whisky Glass - Food & Wine",
+      "description": "Glenfiddich has unveiled a 16-year-old single malt born from its new partnership with the Aston Martin Formula One Team. The whisky, aged entirely in American oak, highlights the distillery’s signature fruit character. It’s the first release from a long-term …",
+      "url": "https://www.foodandwine.com/glenfiddich-aston-martin-formula-one-single-malt-scotch-11792266",
+      "urlToImage": "https://www.foodandwine.com/thmb/MQofdx_p3WP-yu8abG4PqbtVRFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Glenfiddich-Aston-Martin-Formula-One-FT-BLOG0825-03-754a005c41854dd49ba2e08ecaf36e1c.jpg",
+      "source": "Food & Wine",
+      "publishedAt": "2025-08-17T23:01:00Z"
+    },
+    {
+      "title": "Trump relaxed restrictions on a key AI chip for China. Beijing isn’t saying thank you - CNN",
+      "description": "In a surprising reversal of the United States’ years-long technology restrictions on China, President Donald Trump last month allowed Nvidia to resume sales of a key AI chip designed specifically for the Chinese market.",
+      "url": "https://www.cnn.com/2025/08/17/tech/nvidia-china-beijing-trump-ai-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2227782399.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-08-17T23:00:00Z"
+    },
+    {
+      "title": "Stock futures tick higher following back-to-back winning weeks: Live updates - CNBC",
+      "description": "The three major indexes are coming off positive weeks.",
+      "url": "https://www.cnbc.com/2025/08/17/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184781-17550120242025-08-12t151830z_1536805024_rc2p5gao28gf_rtrmadp_0_usa-stocks.jpeg?v=1755012132&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-17T22:52:00Z"
+    },
+    {
+      "title": "U.S. stock futures inch higher following Trump-Putin summit; Wall Street awaits Fed’s Jackson Hole meeting - MarketWatch",
+      "description": "",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-following-trump-putin-summit-wall-street-awaits-feds-jackson-hole-meeting-2264ec53",
+      "urlToImage": "https://images.mktw.net/im-26706517/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-08-17T22:24:00Z"
+    },
+    {
+      "title": "I Asked ChatGPT How To Turn $10 Into $1 Million: Here’s What It Said - GOBankingRates",
+      "description": "According to the latest Global Wealth Report from financial services firm UBS, there are nearly 24 million millionaires in the United States. With millionaires seemingly lurking around every corner, I...",
+      "url": "https://www.gobankingrates.com/money/making-money/i-asked-chatgpt-how-to-turn-10-into-1-million-heres-what-it-said/",
+      "urlToImage": "https://cdn.gobankingrates.com/wp-content/uploads/2025/05/woman-counting-cash-100-dollar-bills_iStock-2190397359.jpg",
+      "source": "Gobankingrates.com",
+      "publishedAt": "2025-08-17T22:05:53Z"
     }
   ]
 }
