@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-08-20T06:41:47.910Z",
+  "updatedAt": "2025-08-21T06:51:02.153Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "SoftBank to Invest $2 Billion in Intel as Part of US Push - Bloomberg.com",
-      "description": "SoftBank Group Corp. agreed to buy $2 billion of Intel Corp. stock, a surprise deal to shore up a struggling US name while boosting its own chip ambitions.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-18/softbank-agrees-to-invest-2-billion-in-intel-as-part-of-us-push",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4qp6ZJfCTlA/v0/1200x800.jpg",
+      "title": "US in talks over 10% Intel stake, White House confirms - BBC",
+      "description": "The potential deal could involve swapping government grants for shares in the chip making giant.",
+      "url": "https://www.bbc.com/news/articles/c620gg77epxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e7c3/live/916254e0-7d58-11f0-a845-0926f58b08ed.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-08-20T02:09:58Z"
+    },
+    {
+      "title": "Trump Embarks on $104 Million Bond-Buying Spree While in Office - Bloomberg.com",
+      "description": "President Donald Trump has bought hundreds of bonds since he returned to office, including those sold by US companies affected by the sweeping changes to federal policies he’s championed.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-20/trump-embarks-on-104-million-bond-buying-spree-while-in-office",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNJkVO5OM77s/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-08-19T04:46:00Z"
+      "publishedAt": "2025-08-20T01:22:00Z"
     },
     {
-      "title": "Stock futures ticked down as the market awaits Fed's Jackson Hole summit, retail earnings: Live updates - CNBC",
-      "description": "Investors are awaiting clues from Fed Chair Jerome Powell as to what will happen at the central bank's remaining policy meetings this year.",
-      "url": "https://www.cnbc.com/2025/08/18/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-08-19T04:03:00Z"
+      "title": "Walmart recalls shrimp after FDA warns of radioactive isotopes - BBC",
+      "description": "Consumers in 13 states are being advised to throw away shrimp with the label Great Value.",
+      "url": "https://www.bbc.com/news/articles/c5ypg4rgnrno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5149/live/7508e480-7d53-11f0-904d-293e27e88450.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-08-20T00:44:46Z"
     },
     {
-      "title": "Air Canada and flight attendants union resume talks for the first time since strike began - CNN",
-      "description": "Air Canada and the union representing 10,000 flight attendants resumed talks late Monday for the first time since the strike began over the weekend. The strike is affecting about 130,000 travelers a day at the peak of the summer travel season.",
-      "url": "https://www.cnn.com/2025/08/18/business/air-canada-strike-flight-attendants-resume-talks-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25230699753101.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-08-19T03:39:00Z"
-    },
-    {
-      "title": "Asian Stocks Look Subdued Ahead of Jackson Hole: Markets Wrap - Bloomberg",
-      "description": "Financial markets moved in narrow ranges, with global equities holding near record highs, after Donald Trump’s meeting with Ukraine’s president and European leaders ended with a call for a summit with Russia.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-18/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2Zvmg5KPBBY/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-19T02:16:00Z"
-    },
-    {
-      "title": "Tesla Launches Six-Seat Model Y L In China For $47,180 - Investor's Business Daily",
-      "description": "Tesla has launched the six-seat Model Y L in China, starting at RMB 339,000 ($47,180).",
-      "url": "https://www.investors.com/news/tesla-launches-six-seat-model-y-l-china/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/01/Stock-teslastockmarket-01-adobe.jpg",
+      "title": "Dow Jones Futures: Palantir, Oracle, AMD Break Key Levels, Lead Growth Sell-Off; What To Do Now - Investor's Business Daily",
+      "description": "Palantir, Oracle, AMD and more sold off Tuesday. Other areas held up or rose.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-palantir-oracle-amd-growth-sell-off/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Rocket-NoseDive-shut.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2025-08-19T01:16:00Z"
+      "publishedAt": "2025-08-20T00:29:00Z"
     },
     {
-      "title": "Asia Morning Briefing: Traders Tilt Bearish on August BTC, ETH Targets as Retail Lags Institutions - CoinDesk",
-      "description": "Prediction markets are flashing red even as institutions keep doubling down on BTC and ETH.",
-      "url": "https://www.coindesk.com/markets/2025/08/19/asia-morning-briefing-traders-tilt-bearish-on-august-btc-eth-targets-as-retail-lags-institutions",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/82360b3a64cb6d235ec8ee4b364e5e08e19d93ca-1920x2400.jpg",
-      "source": "CoinDesk",
-      "publishedAt": "2025-08-19T00:57:28Z"
+      "title": "Japan's July exports clock steepest plunge in over four years, dropping by a more than expected 2.6% - CNBC",
+      "description": "The fall was sharper than the 2.1% contraction expected by economists polled by Reuters and compared to the 0.5% drop seen in June.",
+      "url": "https://www.cnbc.com/2025/08/20/japan-july-exports-imports-us-shipments-goods-trade-auto-reciprocal-tariffs-trump.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174833-1753144528438-gettyimages-1176802419-dsc00289.jpeg?v=1753144539&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-19T23:58:29Z"
     },
     {
-      "title": "FTC Sues Ticket Resale Company, Alleging Eras Tour Price Gouging Scheme - The Hollywood Reporter",
-      "description": "The agency sued Maryland-based Key Investment Group, alleging that the company violated the BOTS Act to obtain thousands of Eras Tour tickets and resell them for millions of dollars.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/ftc-sues-ticket-resale-company-over-eras-tour-tickets-1236347189/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/GettyImages-2184862849-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-08-19T00:10:20Z"
+      "title": "Tesla Has Launched Its Robotaxi…Now What? - Ark Invest",
+      "description": "On June 22 in Austin, Tesla launched its robotaxi service to a limited group of users, beginning the shift in its model from one-time low-margin hardware sales to recurring, high margin revenues.  Now that it is scaling,  Tesla should be able to meet urban Au…",
+      "url": "https://www.ark-invest.com/articles/analyst-research/tesla-launched-its-robotaxi-now-what",
+      "urlToImage": "https://assets.arkinvest.com/media-8e522a83-1b23-4d58-a202-792712f8d2d3/80f03e05-4efc-485d-86e0-493f1a6ba297/ARK Invest_081925_TeslaLaunch_Social (1).png",
+      "source": "Ark-invest.com",
+      "publishedAt": "2025-08-19T23:38:31Z"
     },
     {
-      "title": "Over-the-counter birth control pills have been available in the US for over a year. Here’s who’s using them - CNN",
-      "description": "About two years after the US Food and Drug Administration approved the first over-the-counter birth control pill in the United States, a new study suggests that many people who may not have had access to contraception before are now using the over-the-counter…",
-      "url": "https://www.cnn.com/2025/08/18/health/opill-otc-birth-control-study-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2105272989.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-08-18T23:03:00Z"
-    },
-    {
-      "title": "Exclusive | TV-Station Owner Sinclair Proposes Merger With Tegna - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/deals/tv-station-owner-sinclair-proposes-merger-with-tegna-4bd3bb86",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-18T23:02:00Z"
-    },
-    {
-      "title": "Kroger to close Fred Meyer grocery stores in Kent, Everett - KOMO",
-      "description": "Two Fred Meyer stores are closing permanently in western Washington in mid-October.",
-      "url": "https://komonews.com/news/local/fred-meyer-kroger-close-grocery-stores-supermarket-kent-everett-qfc-albertsons-safeway-merger-closure-tariffs-products",
-      "urlToImage": "https://komonews.com/resources/media/ec672154-3110-4369-bab5-a0196fb1c6ad-large16x9_fredmeyer.jpg?1621959794648",
-      "source": "KOMO News",
-      "publishedAt": "2025-08-18T22:58:32Z"
-    },
-    {
-      "title": "Allianz Life data breach affects 1.1 million customers - TechCrunch",
-      "description": "Data breach notification site Have I Been Pwned notified 1.1 million customers of a July data breach, a number not previously reported.",
-      "url": "https://techcrunch.com/2025/08/18/allianz-life-data-breach-affects-1-1-million-customers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/allianz-life-883198018.jpg?resize=1200,791",
-      "source": "TechCrunch",
-      "publishedAt": "2025-08-18T22:26:54Z"
-    },
-    {
-      "title": "For kids with Barth syndrome, time is running out, parents say, unless the FDA acts - NBC News",
-      "description": "The drug Elamipretide from Stealth BioTherapeutics treats an ultrarare, fatal disease called Barth syndrome. Small studies say it's safe and effective. But the FDA denied approval, leaving children with few options.",
-      "url": "https://www.nbcnews.com/health/kids-health/barth-syndrome-children-fda-elamipretide-drug-rare-disease-rcna224858",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250815-barth-syndrome-drug-fda-approval-se-1048a-11dbbf.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-08-18T21:37:31Z"
-    },
-    {
-      "title": "Palo Alto Stock Leaps After Earnings. Guidance Was Upbeat. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/palo-alto-stock-price-earnings-328b85ea",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-08-18T21:23:00Z"
-    },
-    {
-      "title": "Major Calif. food processing factory closing, leaving state after 78 years - SFGATE",
-      "description": "The owner of Spreckels Sugar Company in the Imperial Valley announced plans to close the decades-old factory, ending sugar beet farming in California.",
-      "url": "https://www.sfgate.com/food/article/california-food-plant-closing-end-of-industry-20822742.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/24/16/28394408/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-08-18T21:10:07Z"
-    },
-    {
-      "title": "Sam Altman Says There’s an AI Bubble. What Wall Street Thinks. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/ai-stock-bubble-wall-street-8208c9f1",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-08-18T20:48:00Z"
-    },
-    {
-      "title": "When could tariff-driven price increases hit shoppers? Experts explain - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/US/tariff-driven-price-increases-hit-shoppers-experts-explain/story?id\\\\u003d124740695",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-08-18T20:26:54Z"
-    },
-    {
-      "title": "MTA to begin digging 2nd Ave. subway in East Harlem, 50 years after project halted - Gothamist",
-      "description": "The transit agency inked a nearly $2 billion contract on Monday to begin major construction work on a subway line that's been floated for a century.",
-      "url": "https://gothamist.com/news/mta-to-begin-digging-2nd-ave-subway-in-east-harlem-50-years-after-project-halted",
-      "urlToImage": "https://api-prod.gothamist.com/images/352898/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2025-08-18T20:18:00Z"
-    },
-    {
-      "title": "What to Expect from Fed Chair Powell's Speech on Friday: 3 Key Scenarios - Investopedia",
-      "description": "Wall Street will be listening closely to Federal Reserve Chair Jerome Powell's speech Friday at the Jackson Hole economic policy summit, where he could signal whether the central bank is ready to cut borrowing costs at its next meeting in September.",
-      "url": "https://www.investopedia.com/what-to-expect-from-fed-chair-powell-s-big-speech-friday-11792908",
-      "urlToImage": "https://www.investopedia.com/thmb/Ep11DUYEkU_l_0kvW7W4Xla62Kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2167185037-12df02930dd349e2962745c956746506.jpg",
+      "title": "What SoftBank, Government Investments Could Mean for Intel's Business—and Stock - Investopedia",
+      "description": "Intel shares jumped on Tuesday as investors responded to signals the Trump administration may throw the company’s troubled foundry business a lifeline.",
+      "url": "https://www.investopedia.com/what-softbank-government-investments-could-mean-for-intel-business-and-stock-11793879",
+      "urlToImage": "https://www.investopedia.com/thmb/ORX2JZ0REo5u6Syztn8q_Y8hixw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2208381207-ffa5f466fed542e7bc86deb8e38ae738.jpg",
       "source": "Investopedia",
-      "publishedAt": "2025-08-18T20:04:46Z"
+      "publishedAt": "2025-08-19T23:16:45Z"
     },
     {
-      "title": "UnitedHealth Got a Boost From Berkshire’s Buying. 2 Reasons to Wait to Follow. - Barron's",
+      "title": "CoreWeave Stock (CRWV) Tumbles 38% Post-Earnings; Here’s How to Buy the Dip Without the Risk - TipRanks",
       "description": null,
-      "url": "https://www.barrons.com/articles/unitedhealth-stock-berkshire-buffett-de22aaa4",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1E0d3ViNkNmQ2l0cEhWOUlGWmI5MWhkNENaWTZZclVXM09SYllsdzhHaEtHNUdFbmJ6dkZiM00xY1RJZ0o5LW1VZ25KRVN5dTNZTURBa3dXQ1V3VWJDcHlDUGl1WkpNY19NRTByU1JFSHFpYmMwbUljYlhZZUtYTWdwMmdwZHByeFdlcEczOGNiZG5rVndiZy1uX0lhbEpzTXV5MldQb1Y0TUpVb0JYOWlMRnlNVnJ5?oc=5",
       "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-08-18T19:38:00Z"
+      "source": "Google News",
+      "publishedAt": "2025-08-19T21:28:49Z"
+    },
+    {
+      "title": "Google announced the next step in its nuclear energy plans - The Verge",
+      "description": "Google is supporting the development of a next-generation nuclear reactor in a bid to get enough electricity for its AI data centers.",
+      "url": "https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-19T20:45:58Z"
+    },
+    {
+      "title": "More Fred Meyer closures, including a Seattle location, announced Tuesday - The Seattle Times",
+      "description": "Kroger announced the closure of two more Seattle-area stores, bringing the total to five and raising questions about claims of rising store theft.",
+      "url": "https://www.seattletimes.com/business/kroger-to-close-2-more-seattle-area-fred-meyer-stores/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/08/08192025_Fred-Meyer_tzr_104149.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2025-08-19T20:40:36Z"
+    },
+    {
+      "title": "Viking Therapeutics Shorts Reap $514 Million as Stock Falls 40% - Bloomberg.com",
+      "description": "Viking Therapeutics Inc.’s worst stock drop on record has handed traders betting against the company a gain big enough to turn their money-losing year into a profitable one.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-19/viking-short-sellers-see-514-million-gain-as-stock-tumbles-40",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXb_gYEdcb4g/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-19T20:19:52Z"
+    },
+    {
+      "title": "Stick to Walmart, not Target, ahead of earnings this week, investment chief says - CNBC",
+      "description": "Victoria Greene, investment chief at G Squared Private Wealth, joined CNBC's \"Power Check\" Tuesday to share her thoughts on the big box retailers.",
+      "url": "https://www.cnbc.com/2025/08/19/stick-to-walmart-not-target-ahead-of-earnings-this-week-investment-chief-says-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108146261-17473334382025-05-15t181907z_1336669089_rc2giea06z2g_rtrmadp_0_usa-tariffs-retail.jpeg?v=1747333608&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-19T19:24:23Z"
+    },
+    {
+      "title": "All roads lead to inflation: Fed cut or not, Bitcoin may stand to gain - Cointelegraph",
+      "description": "Trump’s push for rate cuts and his Big Beautiful Bill leave the Fed trapped. Whether it cuts or holds, inflation is likely to rise, reshaping Bitcoin's macro narrative.",
+      "url": "https://cointelegraph.com/news/all-roads-lead-to-inflation-fed-cut-or-not-bitcoin-may-stand-to-gain",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-12/0193f05a-2500-7329-8238-833f85b5aada",
+      "source": "Cointelegraph",
+      "publishedAt": "2025-08-19T19:00:00Z"
+    },
+    {
+      "title": "Palantir Shares Plunge 9% Amid Slide In AI Stocks - Forbes",
+      "description": "Palantir shares have fallen around 15% across the last five days of trading, completely erasing gains made near the start of the month.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/08/19/palantir-stock-slumps-over-9-as-ai-stocks-like-nvidia-and-meta-cool-off/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68a4c42915a34220d9756399/0x0.jpg?format=jpg&crop=1680,1120,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-08-19T18:37:34Z"
+    },
+    {
+      "title": "Meta is shaking up its AI org, again - TechCrunch",
+      "description": "On Friday, The Information reported that Meta was preparing to tear down its existing AI org and reorganize it into four new groups. Four days later, the change has been made official with an internal memo.",
+      "url": "https://techcrunch.com/2025/08/19/meta-is-shaking-up-its-ai-org-again/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2170596427.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-19T18:27:37Z"
+    },
+    {
+      "title": "Speech by Vice Chair for Supervision Bowman on embracing innovation - Federal Reserve Board (.gov)",
+      "description": "Good afternoon and thank you to the organizers of the 2025 Wyoming Blockchain Symposium for inviting me to speak to you today.  1     It is an honor to be incl",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250819a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "source": "Federalreserve.gov",
+      "publishedAt": "2025-08-19T18:13:28Z"
+    },
+    {
+      "title": "Hundreds of items just got a lot more expensive to import into the US because of Trump’s tariffs - CNN",
+      "description": "Hundreds of different goods just got a lot more expensive to import into the United States, now that President Donald Trump’s 50% tariff on steel and aluminum has kicked in.",
+      "url": "https://www.cnn.com/2025/08/19/economy/trump-steel-aluminum-tariffs",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-980122762.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-08-19T18:05:00Z"
+    },
+    {
+      "title": "Over 5,000 lbs. of cheese recalled by FDA due to contamination concerns over 'serious and sometimes fatal' bacteria - yahoo.com",
+      "description": "Pepper jack, cheddar, farmers and horseradish-flavored cheeses are possibly affected.",
+      "url": "https://www.yahoo.com/news/us/articles/over-5000-lbs-of-cheese-recalled-by-fda-due-to-contamination-concerns-of-serious-and-sometimes-fatal-bacteria-165454696.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ARpROC8ifvwhNq1vRQQzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/f807d220-7d16-11f0-bbf6-e4f3964554bf",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-08-19T17:58:45Z"
     }
   ]
 }

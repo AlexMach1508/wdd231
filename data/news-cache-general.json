@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2025-08-20T06:41:47.781Z",
+  "updatedAt": "2025-08-21T06:51:02.030Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "SoftBank to Invest $2 Billion in Intel as Part of US Push - Bloomberg.com",
-      "description": "SoftBank Group Corp. agreed to buy $2 billion of Intel Corp. stock, a surprise deal to shore up a struggling US name while boosting its own chip ambitions.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-18/softbank-agrees-to-invest-2-billion-in-intel-as-part-of-us-push",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4qp6ZJfCTlA/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-19T04:46:00Z"
-    },
-    {
-      "title": "Trump calls Putin at White House summit to arrange talks with Zelensky - Axios",
-      "description": "Trump said Putin was expecting a call from him.",
-      "url": "https://www.axios.com/2025/08/18/trump-call-putin-zelensky-ukraine-summit",
-      "urlToImage": "https://images.axios.com/6E0KZMbEp8GS_h2HUlPDTbmQMjI=/0x291:6000x3666/1366x768/2025/08/18/1755551423965.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-08-19T04:21:05Z"
-    },
-    {
-      "title": "Air Canada and flight attendants union resume talks for the first time since strike began - CNN",
-      "description": "Air Canada and the union representing 10,000 flight attendants resumed talks late Monday for the first time since the strike began over the weekend. The strike is affecting about 130,000 travelers a day at the peak of the summer travel season.",
-      "url": "https://www.cnn.com/2025/08/18/business/air-canada-strike-flight-attendants-resume-talks-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25230699753101.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-08-19T03:39:00Z"
-    },
-    {
-      "title": "Fort Worth Rep. Nicole Collier remains on House floor after refusing escort: 'I refuse to sign away my dignity.' - WFAA",
-      "description": "State Rep. Nicole Collier, D-Fort Worth, has been an outspoken critic of the redistricting maps, which she argues dilute minority voting power.",
-      "url": "https://www.wfaa.com/article/news/politics/fort-worth-rep-nicole-collier-remains-on-house-floor-after-refusing-escort/287-0469de96-fd26-4b51-a1df-10d35ba2d566",
-      "urlToImage": "https://media.wfaa.com/assets/WFAA/images/f58c2440-bc1c-4e47-acf3-337a86281196/f58c2440-bc1c-4e47-acf3-337a86281196_1140x641.jpg",
-      "source": "WFAA.com",
-      "publishedAt": "2025-08-19T03:30:00Z"
-    },
-    {
-      "title": "Bryan Kohberger's behavior alarmed university faculty and students before Idaho murders, documents show - CBS News",
-      "description": "More than 550 pages of investigation documents were released by Idaho State Police in response to public records requests.",
-      "url": "https://www.cbsnews.com/news/bryan-kohberger-behavior-alarmed-university-faculty-students-before-idaho-murders/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/19/c456d908-d1f3-41f8-9393-b49c46aacfeb/thumbnail/1200x630/b4166934c79d53d146d625f9d8449f6a/ap25204623978667.jpg",
+      "title": "DHS Secretary Noem says entire southern border wall will be painted black to stop people from climbing it - CBS News",
+      "description": "Homeland Security Secretary Kristi Noem says the entire southern border wall with Mexico is being painted black to deter illegal immigration, at President Trump's request.",
+      "url": "https://www.cbsnews.com/news/dhs-secretary-says-entire-southern-border-wall-to-be-painted-black-to-stop-people-from-climbing-it/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/17/c569f0fe-9515-409c-8348-676d5415a941/thumbnail/1200x630g2/503eb238c37366f00b7600f98dc52bce/gettyimages-2219378905.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-08-19T03:04:00Z"
+      "publishedAt": "2025-08-20T01:42:24Z"
     },
     {
-      "title": "Hurricane Erin threatens US East Coast with life-threatening waves - BBC",
-      "description": "The Category 4 storm threatens to bring life-threatening surf and rip currents to the US East Coast.",
-      "url": "https://www.bbc.com/news/articles/c3r41zeqnexo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/693b/live/332f66a0-7c14-11f0-8db5-596ea140e19b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-08-19T02:24:45Z"
+      "title": "Hurricane Erin triggers storm alerts in N.C., Virginia as some East Coast beaches shut - Axios",
+      "description": "North Carolina's governor declared an emergency and 2 N.C. counties are under evacuation orders due to the storm's threats.",
+      "url": "https://www.axios.com/2025/08/20/hurricane-erin-forecast-nc-outer-banks-east-coast",
+      "urlToImage": "https://images.axios.com/K-ieiwKJgp3OalLNt8NwpcYIdhg=/0x0:1600x900/1366x768/2025/08/19/1755639135256.png",
+      "source": "Axios",
+      "publishedAt": "2025-08-20T01:32:05Z"
     },
     {
-      "title": "Trump says he will ‘lead a movement’ to eliminate mail-in voting - The Washington Post",
-      "description": "The Constitution gives states the authority to regulate how elections are run, making it unlikely Trump can change voting rules unilaterally.",
-      "url": "https://www.washingtonpost.com/politics/2025/08/18/trump-mail-in-constitution-elections/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOQK3M2LRIIRMCXGBEXGRCUAF4.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-08-19T01:26:14Z"
+      "title": "Trump Embarks on $104 Million Bond-Buying Spree While in Office - Bloomberg.com",
+      "description": "President Donald Trump has bought hundreds of bonds since he returned to office, including those sold by US companies affected by the sweeping changes to federal policies he’s championed.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-20/trump-embarks-on-104-million-bond-buying-spree-while-in-office",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNJkVO5OM77s/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-20T01:22:00Z"
     },
     {
-      "title": "Why Donald Trump Is the World’s Worst Negotiator: Ex-Aide - The Daily Beast",
-      "description": "John Bolton tells the Daily Beast Podcast why Vladimir Putin had the edge during his summit with the president last week.",
-      "url": "https://www.thedailybeast.com/why-donald-trump-is-the-worst-negotiator-ex-national-security-adviser-john-bolton/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/N6KQ5ITFCFFJFJ4SUFCBSH7E7Q.jpg?smart=true&auth=b4703e1d071e775b4508cf9eb6b0ab17d431d73cdfc1eaa456a7347993ba0295&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2025-08-19T01:21:00Z"
-    },
-    {
-      "title": "Hyped Jannik Sinner-Carlos Alcaraz championship match comes to abrupt end after five games - New York Post",
-      "description": "Jannik Sinner retired with an apparent illness 23 minutes into the first set of the Cincinnati Open final against Carlos Alcaraz.",
-      "url": "https://nypost.com/2025/08/18/sports/jannik-sinner-carlos-alcaraz-cincinnati-open-final-ends-after-five-games/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-2xe0ay5nb-1755550628931.jpg?quality=75&strip=all&1755536304&w=1024",
+      "title": "Anthony Richardson’s camp has stern message for Colts after Daniel Jones wins starting QB job - New York Post",
+      "description": "The Colts’ Daniel Jones decision isn’t going over well with Anthony Richardson’s camp.",
+      "url": "https://nypost.com/2025/08/19/sports/anthony-richardsons-camp-has-a-message-for-colts-after-daniel-jones-named-starting-qb/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-tzgsd24ie-1755648158354.jpg?quality=75&strip=all&1755633792&w=1024",
       "source": "New York Post",
-      "publishedAt": "2025-08-19T01:15:39Z"
+      "publishedAt": "2025-08-20T01:21:00Z"
     },
     {
-      "title": "3 more GOP governors authorize deployment of National Guard troops as part of Trump show of force - AP News",
-      "description": "Three more Republican governors have authorized the deployment of National Guard troops to Washington. It's part of President Donald Trump’s escalating show of force that he says is designed to crack down on crime and boost immigration enforcement in the nati…",
-      "url": "https://apnews.com/article/washington-dc-federal-police-takeover-national-guard-fb91f9884c928b98036754885a7c0180",
-      "urlToImage": "https://dims.apnews.com/dims4/default/50e67c5/2147483647/strip/true/crop/5729x3223+0+298/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F14%2F1afe33b9bef4abbacf75839e0cc1%2F7fdfea5b3add4b15804678ec0873a09b",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-18T23:52:00Z"
+      "title": "Gov. Bob Ferguson to U.S. AG Pam Bondi: WA won’t ‘bend the knee’ to Trump regime - The Olympian",
+      "description": "Washington's Gov. Ferguson rebukes demands from U.S. AG Pam Bondi to drop sanctuary policies, defending the state's Keep Washington Working Act amid pressure.",
+      "url": "https://www.theolympian.com/news/politics-government/article311753219.html",
+      "urlToImage": "https://www.theolympian.com/public/latest-news/93ion5/picture311763648/alternates/LANDSCAPE_1140/1Ferguson-Bondi%20press%20conference.jpg",
+      "source": "The Olympian",
+      "publishedAt": "2025-08-20T01:08:52Z"
     },
     {
-      "title": "Map shows Oregon, 15 other states, where northern lights could be visible Monday night - OregonLive.com",
-      "description": "The northern part of the United States could get a chance to see lights in the sky Monday night, when the view line for the northern lights lands on the Oregon-Washington border.",
-      "url": "https://www.oregonlive.com/weather/2025/08/map-shows-oregon-15-other-states-where-northern-lights-could-be-visible-monday-night.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/SAI4CVYXLND4ZMCPVUV45ZUL6M.jpg?auth=b5d409b09cdea9e1c65583652c6dc6c72ac07ac38089fc331f42ba45b21233a4&width=1280&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2025-08-18T23:32:00Z"
+      "title": "'Lilo & Stitch' Actor David Hekili Kenui Bell Cause of Death Revealed - TMZ",
+      "description": "David Hekili Kenui Bell's autopsy report has been released, painting a clearer and heartbreaking picture of what happened before his sudden death at just 46 years old.",
+      "url": "https://www.tmz.com/2025/08/19/david-hekili-kenui-bell-cause-of-death/",
+      "urlToImage": "https://imagez.tmz.com/image/3c/16by9/2025/06/16/3c061b532ea248feb62e2ca773de6590_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2025-08-20T00:50:25Z"
     },
     {
-      "title": "Commanders announce 13 players will not dress out vs. Bengals - Washington Commanders",
-      "description": "The Washington Commanders have announced that the following players will not dress out for the preseason game against the Cincinnati Bengals.",
-      "url": "https://www.commanders.com/news/commanders-announce-13-players-will-not-dress-out-vs-bengals",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/commanders/azf7fux9holoq0xyslbp",
-      "source": "Commanders.com",
-      "publishedAt": "2025-08-18T22:45:37Z"
+      "title": "RFK Jr. attacks pediatricians’ group over vaccine recommendations - Politico",
+      "description": "The American Academy of Pediatrics had earlier urged parents to get young children vaccinated against Covid — pushing back against the health secretary’s stance.",
+      "url": "https://www.politico.com/news/2025/08/19/rfk-jr-attacks-pediatricians-covid-vaccine-recommendations-00515609",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fdc%2F1a%2F085c7b9c47e89e6534b80a16d77a%2Fkennedy-cdc-09357.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-08-20T00:45:29Z"
     },
     {
-      "title": "MLB Gameday: Blue Jays 2, Pirates 5 Final Score (08/18/2025) - MLB.com",
-      "description": "Follow MLB results with FREE box scores, pitch-by-pitch strikezone info, and Statcast data for Blue Jays vs. Pirates at PNC Park",
-      "url": "https://www.mlb.com/gameday/blue-jays-vs-pirates/2025/08/18/776694/live",
-      "urlToImage": "https://midfield.mlbstatic.com/v1/teams-matchup/141-134/ar_16:9/w_1440",
-      "source": "MLB.com",
-      "publishedAt": "2025-08-18T22:40:00Z"
-    },
-    {
-      "title": "N.J. resident infected by malaria could be first ‘homegrown’ case in decades, state says - NJ.com",
-      "description": "The Morris County resident has no international travel history, officials said.",
-      "url": "https://www.nj.com/morris/2025/08/nj-resident-infected-by-malaria-could-be-first-homegrown-case-in-decades-state-says.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/F2KUFAXCKNGLJC6TWVVIZEYZ6A.jpg?auth=07796fc4dfe037797fc2ec5d67ccd5bdbd5d863bf73680606f6bbe4710eb06e4&width=1280&quality=90",
-      "source": "nj.com",
-      "publishedAt": "2025-08-18T21:19:00Z"
-    },
-    {
-      "title": "Brain Implant Translates Silent Inner Speech into Words, But Critics Raise Fears of Mind Reading Without Consent - ZME Science",
-      "description": "To prevent authorized mind reading, the researchers had to devise a \"password\".",
-      "url": "https://www.zmescience.com/science/news-science/brain-implant-translates-silent-inner-speech-into-words-but-critics-raise-fears-of-mind-reading-without-consent/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2025/08/electrode-array-mind-reading.jpeg",
-      "source": "ZME Science",
-      "publishedAt": "2025-08-18T21:05:20Z"
-    },
-    {
-      "title": "iOS 26 and iPadOS 26 public beta 4 now available - 9to5Mac",
-      "description": "Following iOS 26 and iPadOS 26 beta 7 earlier today, Apple has released the fourth iOS 26 and iPadOS 26...",
-      "url": "https://9to5mac.com/2025/08/18/ios-26-public-beta-4/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iOS-26-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-08-18T20:21:00Z"
-    },
-    {
-      "title": "'Ketamine Queen' Jasveen Sangha will plead guilty in Matthew Perry case - BBC",
-      "description": "The American-British dual-national is one of five people who were charged with supplying ketamine to the actor.",
-      "url": "https://www.bbc.com/news/articles/c62wnp7622po",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f9aa/live/19eb83f0-7c6d-11f0-b2a5-a19d6935816e.jpg",
+      "title": "Walmart recalls shrimp after FDA warns of radioactive isotopes - BBC",
+      "description": "Consumers in 13 states are being advised to throw away shrimp with the label Great Value.",
+      "url": "https://www.bbc.com/news/articles/c5ypg4rgnrno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5149/live/7508e480-7d53-11f0-904d-293e27e88450.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-08-18T20:10:12Z"
+      "publishedAt": "2025-08-20T00:44:46Z"
     },
     {
-      "title": "Chinese astronauts beef up Tiangong space station's debris shield during 6.5-hour spacewalk (video) - Space",
-      "description": "Two astronauts were outside the three-module space station for more than six hours on Friday (Aug. 15).",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-beef-up-tiangong-space-stations-debris-shield-during-6-5-hour-spacewalk-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/h9EHoMWakwh5SWXJxwAoM7.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-08-18T20:00:00Z"
+      "title": "Trump and Putin are both criticizing mail-in voting. Election officials are freaking out. - Politico",
+      "description": "Officials are concerned that Trump’s moves to loosen U.S. election security may provide an opening for Russia.",
+      "url": "https://www.politico.com/news/2025/08/19/trump-and-putin-are-both-criticizing-mail-in-voting-election-officials-are-freaking-out-00515513",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa7%2F01%2F94c7c87849c2bfa13404ce8d00af%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2230321913",
+      "source": "Politico",
+      "publishedAt": "2025-08-19T23:11:46Z"
     },
     {
-      "title": "Ex-Israel military intelligence chief said 50,000 Gaza deaths 'necessary' - NPR",
-      "description": "Leaked audio recordings broadcast Friday reveal remarks by Israel's former chief of military intelligence about the price he believed Palestinians should pay for Hamas' Oct. 7, 2023, attack.",
-      "url": "https://www.npr.org/2025/08/18/nx-s1-5506097/ex-israel-military-intelligence-chief-said-50-000-gaza-deaths-necessary",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F46%2F242b6aea48e79eddd97b6c571c85%2Fap25219403040262.jpg",
+      "title": "Week 2 Results + Scorecards | Dana White's Contender Series Season 9 - ufc.com",
+      "description": "Live Results, Fight Recaps, Contract Winner Interviews, Scorecards And More From Week 2 Of Dana White's Contender Series Season 9, Live From UFC APEX In Las Vegas On August 19",
+      "url": "https://www.ufc.com/news/week-2-results-scorecards-dana-whites-contender-series-season-9",
+      "urlToImage": "https://ufc.com/images/styles/card/s3/image/2024-08/081324_DWCS_S8_GENERIC_RESULTS_HERO_DANA.jpg?itok=y8eMocLy",
+      "source": "The Official Website of the Ultimate Fighting Championship",
+      "publishedAt": "2025-08-19T23:00:00Z"
+    },
+    {
+      "title": "Trump administration revokes security clearances of 37 current and former government officials - AP News",
+      "description": "The Trump administration says it's revoking the security clearances of 37 current and former national security officials. It's the latest act of retribution targeting public servants in the federal government’s intelligence community. A memo posted Tuesday by…",
+      "url": "https://apnews.com/article/trump-security-clearances-revoked-ad7f95a222ad9277452d2de995b70619",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c32c85c/2147483647/strip/true/crop/5633x3169+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2Fea%2F5bd2148f304821356542cc974df8%2F78dc1fac05c4469f9c93feba3bc0faaf",
+      "source": "Associated Press",
+      "publishedAt": "2025-08-19T22:59:00Z"
+    },
+    {
+      "title": "Trump expands 'woke' criticism from Smithsonian to other museums - NPR",
+      "description": "\"The Museums throughout Washington, but all over the Country are, essentially, the last remaining segment of \"WOKE,\" he wrote.",
+      "url": "https://www.npr.org/2025/08/19/nx-s1-5507221/trump-smithsonian-museums-woke",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F5b%2F50933512431cb06a968f3ca86bfd%2Ftrump-portrait-gallery.jpg",
       "source": "NPR",
-      "publishedAt": "2025-08-18T19:38:44Z"
+      "publishedAt": "2025-08-19T22:42:39Z"
+    },
+    {
+      "title": "House Republican calls for ‘action’ from Johnson to end redistricting - The Hill",
+      "description": "Rep. Kevin Kiley (R-Calif.) called for “action” from House Speaker Mike Johnson (R-La.) amid a redistricting battle in his state. Johnson on Monday had gone after California Democrats’ proposed House map and said he was taking measures to halt the new congres…",
+      "url": "https://thehill.com/homenews/house/5460577-kiley-calls-for-action/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/kileykevin_071323gn02_w.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2025-08-19T22:38:00Z"
+    },
+    {
+      "title": "What’s next for Ukraine-Russia peace talks? 5 questions to ask heading into a potential trilateral - Politico",
+      "description": "Trump declared on Monday that he was arranging a trilateral meeting between Zelenskyy and Putin.",
+      "url": "https://www.politico.com/news/2025/08/19/ukraine-russia-peace-talks-5-questions-00515336",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F80%2Fdc%2Fffa59eb441478f1fa52f031c167c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2230165347",
+      "source": "Politico",
+      "publishedAt": "2025-08-19T21:51:51Z"
+    },
+    {
+      "title": "Last-minute Pixel 10 leak suggests controversial change is really happening - Android Authority",
+      "description": "On the eve of launch, a Pixel 10 leak backs up claims that Google could be moving away from physical SIM cards.",
+      "url": "https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/pixel-10-series-play-store-full.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-08-19T21:26:42Z"
+    },
+    {
+      "title": "PGA Tour stamps its signature on more big-money events in congested 2026 schedule - NBC Sports",
+      "description": "Instead of trying to concoct a new way to mandate participation in top events, the Tour would be better served by focusing on building a better schedule.",
+      "url": "https://www.nbcsports.com/golf/news/more-scheduling-challenges-await-top-players-in-2026",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/bbda19a/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F607%2F971%2Fnbc_golf_pgatourschedule_250819.jpg",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-08-19T21:11:15Z"
     }
   ]
 }
