@@ -1,151 +1,71 @@
 {
-  "updatedAt": "2025-08-21T06:51:02.090Z",
+  "updatedAt": "2025-08-22T06:40:50.621Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Last-minute Pixel 10 leak suggests controversial change is really happening - Android Authority",
-      "description": "On the eve of launch, a Pixel 10 leak backs up claims that Google could be moving away from physical SIM cards.",
-      "url": "https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/pixel-10-series-play-store-full.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-08-19T21:26:42Z"
+      "title": "Humans intervened every 9 minutes in AAA test of driver assists - Ars Technica",
+      "description": "AAA tested a number of different systems in Los Angeles highway traffic.",
+      "url": "https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-506163572-2560x1440.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-08-21T04:04:27Z"
     },
     {
-      "title": "Everything announced at Opening Night Live, Gamescom 2025 - Eurogamer",
-      "description": "It's Gamescom Opening Night Live time, and that means Geoff Keighley's back and ready to dish out loads of gaming news …",
-      "url": "https://www.eurogamer.net/everything-announced-at-opening-night-live-gamescom-2025",
-      "urlToImage": "https://assetsio.gnwcdn.com/gamescom-onl-2025.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-08-19T21:13:46Z"
-    },
-    {
-      "title": "iPhone 17 Pro may be a tougher sell than ever before - 9to5Mac",
-      "description": "Apple’s iPhone 17 lineup will offer four models, but one in particular could be a harder sell than usual: the new iPhone 17 Pro.",
-      "url": "https://9to5mac.com/2025/08/19/iphone-17-pro-may-be-a-tougher-sell-than-ever-before/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/iphone-17-pro-concept-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-08-19T20:39:00Z"
-    },
-    {
-      "title": "Rumor: Starfield coming to Nintendo Switch 2 - Nintendo Everything",
-      "description": "Starfield now rumored for Nintendo Switch 2, according to a new report from a reliable insider.",
-      "url": "https://nintendoeverything.com/rumor-starfield-coming-to-nintendo-switch-2/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Starfield-Switch-2-rumor.webp",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2025-08-19T20:22:57Z"
-    },
-    {
-      "title": "WoW: Midnight's gameplay has been shown off at Gamescom 2025 - Windows Central",
-      "description": "Save Azeroth from an invasion of Void Walkers in the next chapter of World of Warcraft's Worldsoul Saga in World of Warcraft: Midnight, coming soon in 2026",
-      "url": "https://www.windowscentral.com/gaming/world-of-warcraft-midnight-expansion-gamescom-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6ar8YrP5L6XVGiSNXKvLhC.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-08-19T19:52:49Z"
-    },
-    {
-      "title": "Tales Of Xillia Remastered Coming This October, Confirmed 30fps For Switch - Nintendo Life",
-      "description": "No Song 4 u, though",
-      "url": "https://www.nintendolife.com/news/2025/08/tales-of-xillia-remastered-coming-this-october-confirmed-30fps-for-switch",
-      "urlToImage": "https://images.nintendolife.com/3c6449f45ec14/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-08-19T19:50:06Z"
-    },
-    {
-      "title": "This sucks: you'll have to pay for two clans in Vampire: The Masquerade - Bloodlines 2 - Eurogamer",
-      "description": "As Vampire: The Masquerade - Bloodlines 2 finally gets a release date it looks like it will hit - 21st October 2025 - s…",
-      "url": "https://www.eurogamer.net/this-sucks-youll-have-to-pay-for-two-clans-in-vampire-the-masquerade-bloodlines-2",
-      "urlToImage": "https://assetsio.gnwcdn.com/vampire-masquerade-bloodlines-2-katsumi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-08-19T19:39:05Z"
-    },
-    {
-      "title": "Silent Hill f Gamescom Trailer Reveals Suzie Yeung as Hinako - IGN",
-      "description": "Silent Hill f made an appearance at Gamescom Opening Night Live this evening with a brand new trailer, and our first listen at the English actor portraying main character Hinako, Suzie Yeung.",
-      "url": "https://www.ign.com/articles/silent-hill-f-gamescom-trailer-reveals-suzie-yeung-as-hinako",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/19/silenthillf-blogroll-1755631796858.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-08-19T19:33:04Z"
-    },
-    {
-      "title": "Warhammer 40K: Dawn of War 4 announced, and it's coming from a surprise new developer next year - Eurogamer",
-      "description": "The legendary RTS series gets a surprise sequel, from the developer behind cult strategy hit Iron Harvest.",
-      "url": "https://www.eurogamer.net/warhammer-40k-dawn-of-war-4-announced-and-its-coming-from-a-surprise-new-developer-next-year",
-      "urlToImage": "https://assetsio.gnwcdn.com/dow-4-cropped-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-08-19T18:32:20Z"
-    },
-    {
-      "title": "Pokémon Teases A Spooky Legends: Z-A Reveal Later This Week - Nintendo Life",
-      "description": "\"Viewer discretion advised\"",
-      "url": "https://www.nintendolife.com/news/2025/08/pokemon-teases-a-spooky-legends-z-a-reveal-later-this-week",
-      "urlToImage": "https://images.nintendolife.com/1c8ce1555d660/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-08-19T18:20:07Z"
-    },
-    {
-      "title": "Call of Duty: Black Ops 7 Was Developed in Parallel to Black Ops 6, Treyarch says - IGN",
-      "description": "The same development team of Raven Software and Treyarch is making Call of Duty: Black Ops 7 which made Black Ops 6, but fear not, they’ve had longer than a year to turn it around. In fact, production of Call of Duty’s latest began at the exact same moment as…",
-      "url": "https://www.ign.com/articles/call-of-duty-black-ops-7-was-developed-in-parallel-to-black-ops-6-treyarch-says",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/19/cod-development-1755616642587.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-08-19T18:15:24Z"
-    },
-    {
-      "title": "watchOS 26 Public Beta Launches With Redesigned Blood Oxygen Feature - MacRumors",
-      "description": "Apple today released the fourth public beta of watchOS 26, a day after the beta was made available to developers. This particular beta adds support...",
-      "url": "https://www.macrumors.com/2025/08/19/watchos-26-public-beta-4/",
-      "urlToImage": "https://images.macrumors.com/t/uh6yFHgPVzV1TBPYdBRnPWi3-LY=/1960x/article-new/2025/08/Apple-Watch-Series-6-Blood-Oxygen-LEDs.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-08-19T17:33:05Z"
-    },
-    {
-      "title": "Asus has the new world’s fastest OLED monitor at 720Hz, and it’s dripping with style - The Verge",
-      "description": "Asus has just announced the ROG Swift OLED PG27AQWP-W at Gamescom 2025. It’s a 26.5-inch QHD OLED screen at a blazing-fast 540Hz that can switch to 720Hz.",
-      "url": "https://www.theverge.com/news/761481/asus-720hz-gaming-monitor-rog-swift-oled-pg27aqwp-w",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/asus-oled-3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Google’s Gemini Live AI assistant will show you what it’s talking about - The Verge",
+      "description": "Google is rolling out a big update for Gemini Live, which includes a new visual guidance feature that allows the AI assistant to highlight things on your screen.",
+      "url": "https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gemini-live-highlight.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
       "source": "The Verge",
-      "publishedAt": "2025-08-19T17:31:13Z"
+      "publishedAt": "2025-08-20T21:58:03Z"
     },
     {
-      "title": "Meta’s First ‘Real’ Smart Glasses Have One Huge Problem - Gizmodo",
-      "description": "It's not the smart glasses that I'm worried about; it's what's expected to come with them.",
-      "url": "https://gizmodo.com/metas-first-real-smart-glasses-have-one-huge-problem-2000644924",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/metawristband-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-08-19T17:31:05Z"
+      "title": "Google’s Journal app is real — and Pixel 10 owners get first dibs - Android Police",
+      "description": "At least for now",
+      "url": "https://www.androidpolice.com/new-google-pixel-journal-app/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1497.jpg",
+      "source": "Android Police",
+      "publishedAt": "2025-08-20T20:45:00Z"
     },
     {
-      "title": "This often-ignored smartwatch health metric can help you manage stress - The Washington Post",
-      "description": "A higher heart rate variability suggests your body is calm but alert, like a boxer bouncing from foot to foot.",
-      "url": "https://www.washingtonpost.com/wellness/2025/08/19/heart-rate-variability-stress-longevity/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VKUGE67MT7UY5WTWRI3TIJLZDA.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-08-19T17:00:29Z"
+      "title": "Google launches its own ‘MagSafe’ with PixelSnap - TechCrunch",
+      "description": "Google is launching its own set of magnetic accessories for Pixel 10 including chargers and stands.",
+      "url": "https://techcrunch.com/2025/08/20/google-launches-its-own-magsafe-with-pixelsnap/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3165.jpg?resize=1200,1080",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-20T18:22:41Z"
     },
     {
-      "title": "Sony just launched five new PC gaming peripherals, so I tried them all at once - The Verge",
-      "description": "Sony is finally ready to take on SteelSeries, Razer, and more with its full lineup of PC gaming accessories, including two headsets, a keyboard, mouse, and more.",
-      "url": "https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/inzonefamily.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "source": "The Verge",
-      "publishedAt": "2025-08-19T16:17:18Z"
+      "title": "Having recovery and/or SSD problems after recent Windows updates? You’re not alone. - Ars Technica",
+      "description": "Recovery issue is already resolved; SSD problems have been trickier to diagnose.",
+      "url": "https://arstechnica.com/gadgets/2025/08/having-recovery-and-or-ssd-problems-after-recent-windows-updates-youre-not-alone/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/windows-11-band-aid-patch-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-08-20T17:45:37Z"
     },
     {
-      "title": "33.2.2 Patch Notes — Hearthstone - Blizzard News",
-      "description": "Hearthstone balance changes, Battlegrounds updates, and bug fixes await in Patch 33.2.2!",
-      "url": "https://news.blizzard.com/en-us/article/24223662/33-2-2-patch-notes",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/tc/TCWZTBY643MU1755214552468.jpg",
-      "source": "Blizzard.com",
-      "publishedAt": "2025-08-19T16:00:00Z"
+      "title": "PlayStation 5 price changes in the U.S. - PlayStation.Blog",
+      "description": "New prices effective starting on August 21.",
+      "url": "https://blog.playstation.com/2025/08/20/playstation-5-price-changes-in-the-u-s/",
+      "urlToImage": "https://blog.playstation.com/tachyon/2025/08/66bb079c62bfe244be49d95606e5375f5869870a.jpg",
+      "source": "Playstation.com",
+      "publishedAt": "2025-08-20T15:08:59Z"
     },
     {
-      "title": "Helldivers 2 ODST Crossover Will Add 4 Iconic Halo Weapons And More - GameSpot",
-      "description": "You know the music, time to dance.",
-      "url": "https://www.gamespot.com/gallery/helldivers-2-odst-crossover-will-add-4-iconic-halo-weapons-and-more/2900-6890/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4551856-helldivers2haloodstwarbondheader.jpg",
+      "title": "Meet Call of Duty Black Ops 7's Star-Studded Cast - GameSpot",
+      "description": "Black Ops 7 will feature the likes of Milo Ventimiglia, Kiernan Shipka, and more.",
+      "url": "https://www.gamespot.com/gallery/meet-call-of-duty-black-ops-7s-star-studded-cast/2900-6893/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1748/17481584/4552126-blackops7jsoc.jpeg",
       "source": "GameSpot",
-      "publishedAt": "2025-08-19T15:51:18Z"
+      "publishedAt": "2025-08-20T00:10:37Z"
+    },
+    {
+      "title": "Big Gamescom Trailers Cost Up To $520,000 To Show, And Other Fun Facts - aftermath.site",
+      "description": "Hope it was worth it!",
+      "url": "https://aftermath.site/gamescom-opening-night-live-onl-games-trailers",
+      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/08/geoffan.jpg",
+      "source": "Aftermath.site",
+      "publishedAt": "2025-08-19T22:50:00Z"
     }
   ]
 }
