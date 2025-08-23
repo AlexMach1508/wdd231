@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2025-08-22T06:40:50.672Z",
+  "updatedAt": "2025-08-23T06:36:47.560Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Walmart will report earnings before the bell. Here's what to expect - CNBC",
-      "description": "The big-box retailer warned in May that it would have to raise prices because of higher tariffs.",
-      "url": "https://www.cnbc.com/2025/08/21/walmart-wmt-q2-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108182010-17544254112025-01-30t192954z_120432671_rc2fkcaajtnt_rtrmadp_0_mexico-walmart.jpeg?v=1754425431&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-08-21T04:01:01Z"
+      "title": "Asian Stocks in Tight Range as Rate Cut Bets Pared: Markets Wrap - Bloomberg.com",
+      "description": "Asian equities traded within a narrow range ahead of Federal Reserve Chair Jerome Powell’s speech with traders paring wagers on an imminent interest-rate cut.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-21/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iteepNZgIT3c/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-22T02:58:00Z"
     },
     {
-      "title": "Futures: Growth Bounces Off Lows, But Look At These Charts - Investor's Business Daily",
-      "description": "The major indexes bounced, but Palantir and many leaders still have sharp weekly losses.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-palantir-rally-off-lows-walmart-earnings-due/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/08/stock-bounce-back-01-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-08-21T03:06:00Z"
-    },
-    {
-      "title": "Airlines Delta and United sued for selling 'window seats' without windows - BBC",
-      "description": "Delta and United are being sued over allegedly charging extra for seats next to a blank walls.",
-      "url": "https://www.bbc.com/news/articles/c754k7d0z51o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2f29/live/9b2932a0-7e2a-11f0-bebe-e53cb25f8f71.jpg",
+      "title": "Elon Musk and X reach settlement with axed Twitter workers - BBC",
+      "description": "Ex-Twitter staff sued the platform after some 6,000 employees were sacked in 2022.",
+      "url": "https://www.bbc.com/news/articles/c1ejq154nqzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/acf2/live/016cfda0-7ef6-11f0-9d8e-d573e47ef33d.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-08-21T02:57:04Z"
+      "publishedAt": "2025-08-22T02:51:40Z"
     },
     {
-      "title": "Exclusive | Meta Freezes AI Hiring After Blockbuster Spending Spree - The Wall Street Journal",
+      "title": "Meta Poaches Apple AI Executive Even as It Plans Hiring Slowdown - Bloomberg.com",
+      "description": "Meta Platforms Inc. is hiring another key Apple Inc. artificial intelligence executive, even as the social networking company prepares to slow its recruitment, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-22/meta-poaches-apple-ai-executive-frank-chu-even-as-it-plans-hiring-slowdown",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iB4HmGs7hyHM/v0/1200x797.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-08-22T01:00:00Z"
+    },
+    {
+      "title": "Powell Speech Due With Rally At Key Level; What To Expect - Investor's Business Daily",
+      "description": "Be prepared with the Nasdaq and notable stocks at a key juncture.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-powell-speech-applovin-palantir/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/SMTpowell082125news.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-08-22T00:16:00Z"
+    },
+    {
+      "title": "Wait, Spirit Airlines Projected A $252 Million Profit This Year?! - One Mile at a Time",
+      "description": "Spirit Airlines reportedly projected a $252 million net profit for 2025, but instead, the company lost $246 million in one quarter. Ouch.",
+      "url": "https://onemileatatime.com/news/spirit-airlines-projected-profit/",
+      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2022/12/Spirit-Airlines-A321-Big-Front-Seat-9.jpeg",
+      "source": "One Mile at a Time",
+      "publishedAt": "2025-08-21T23:45:14Z"
+    },
+    {
+      "title": "Stellantis unveils new Jeep Cherokee as brand tries to shake off sales declines - CNBC",
+      "description": "Jeep and Stellantis unveiled a new Jeep Cherokee on Thursday in a bid to reinvigorate the company's sales.",
+      "url": "https://www.cnbc.com/2025/08/21/stellantis-2026-jeep-cherokee-suv-hybrid.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189306-1755803512414-JP026_001CH_1.jpg?v=1755803652&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-21T23:30:01Z"
+    },
+    {
+      "title": "Cracker Barrel’s logo redesign sparks ire among some online - PBS",
+      "description": "Cracker Barrel is marching forward with an ongoing makeover. And to the dismay of some fans, the chain's new logo now ditches the barrel itself.",
+      "url": "https://www.pbs.org/newshour/nation/cracker-barrels-logo-redesign-sparks-ire-among-some-online",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/GettyImages-2231354027-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-08-21T22:52:03Z"
+    },
+    {
+      "title": "Justice Dept. urges Fed chair to fire top official accused of mortgage fraud - The Washington Post",
+      "description": "The pressure comes one day after President Donald Trump called for Fed governor Lisa Cook to resign.",
+      "url": "https://www.washingtonpost.com/business/2025/08/21/doj-fed-mortgage-lisa-cook/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XX4WXX3X353Q2PTOVYDCOBUV3U_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-08-21T22:45:18Z"
+    },
+    {
+      "title": "Is the AI bubble about to pop? Sam Altman is prepared either way. - Ars Technica",
+      "description": "“Someone will lose a phenomenal amount of money,” says CEO while fundraising at record prices.",
+      "url": "https://arstechnica.com/information-technology/2025/08/sam-altman-calls-ai-a-bubble-while-seeking-500b-valuation-for-openai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-scaled-1152x648-1739457486.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-08-21T22:06:37Z"
+    },
+    {
+      "title": "Exclusive | Divisions Grow Inside Fed Ahead of Decision on September Rate Cut - The Wall Street Journal",
       "description": null,
-      "url": "https://www.wsj.com/tech/ai/meta-ai-hiring-freeze-fda6b3c4",
+      "url": "https://www.wsj.com/economy/central-banking/fed-interest-rate-cut-september-9d1966af",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-08-21T01:00:00Z"
+      "publishedAt": "2025-08-21T22:03:00Z"
     },
     {
-      "title": "China turns against Nvidia’s AI chip after ‘insulting’ Howard Lutnick remarks - Financial Times",
-      "description": "Comments by US commerce secretary trigger Chinese regulatory effort to stop tech groups buying H20 processors",
-      "url": "https://www.ft.com/content/b8e30c54-b71c-4113-8b3e-8f54bc36587d",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9afcbe0-1257-4bf9-b0d4-c5b72bd1d565.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-08-21T00:15:06Z"
-    },
-    {
-      "title": "Fed Governor Lisa Cook will not step down despite Trump call - The Hill",
-      "description": "Federal Reserve board of governors member Lisa Cook has said she will not step down despite President Trump calling for her to do so. Cook said she had “learned from the media that [Federal Housing Finance Agency (FHFA)] Director William Pulte posted on socia…",
-      "url": "https://thehill.com/business/5462713-lisa-cook-refuses-resign/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/08/Leading-Powell-and-Cook_062525_AP_Mark-Schiefelbein.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2025-08-20T23:54:00Z"
-    },
-    {
-      "title": "Gov. Newsom reacts to Bed Bath & Beyond's refusal to open stores in California - Yahoo News Canada",
-      "description": "Bed Bath & Beyond executive says California is \"overregulated\" and won't open stores in the Golden State.",
-      "url": "https://www.usatoday.com/story/money/retail/2025/08/20/california-governor-newsom-bed-bath-and-beyond-stores/85748544007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FmYcCXxFfpQfLyZA0zxlXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_money_325/721476ec4ca70173ed1069bdedd1a7a2",
-      "source": "USA Today",
-      "publishedAt": "2025-08-20T23:26:17Z"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, July 29–30, 2025 - Federal Reserve Board (.gov)",
-      "description": "The Federal Reserve on Wednesday released the minutes of the Federal Open Market Committee meeting that was held on July 29–30, 2025.  The minutes for ea",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250820a.htm",
-      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
-      "source": "Federalreserve.gov",
-      "publishedAt": "2025-08-20T23:04:20Z"
-    },
-    {
-      "title": "Microsoft employee protests lead to 18 arrests as company reviews its work with Israel's military - AP News",
-      "description": "Police officers have arrested 18 people during protests at Microsoft headquarters. The protests, led by workers, took place over two days and called for Microsoft to cut business ties with Israel. On Wednesday, police say protesters resisted leaving the campu…",
-      "url": "https://apnews.com/article/microsoft-azure-gaza-israel-protests-49a0dd5905a1cf16eb3e19a98ca17d50",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ca7a907/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F49%2Fd2e049453c07eef3a5c0afe171fe%2Fd87b64e570ce4d39bca238322e92051f",
+      "title": "Trump blames renewable energy for rising electricity prices. Experts point elsewhere - AP News",
+      "description": "President Donald Trump is blaming renewable energy sources such as wind and solar power for skyrocketing energy costs. With electricity prices rising at more than twice the rate of inflation, Trump called wind and solar power “THE SCAM OF THE CENTURY!” in a s…",
+      "url": "https://apnews.com/article/trump-electricity-prices-wind-solar-7c089e33bf237a218f7ea9fe54ecb019",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5dfda59/2147483647/strip/true/crop/3300x1856+2+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F87%2Fe6c0138e2a678f22233d076935f8%2F53377333ebd946aab31271af6d22d334",
       "source": "Associated Press",
-      "publishedAt": "2025-08-20T23:04:00Z"
+      "publishedAt": "2025-08-21T21:42:00Z"
     },
     {
-      "title": "Palantir (PLTR) Stock Under Fire as Citron Warns Valuation Still Too High - Yahoo Finance",
-      "description": "Palantir Technologies Inc. (NASDAQ:PLTR) is one the AI Stocks Analysts Are Watching Closely. On August 18, Palantir stock received a cautious mention from...",
-      "url": "https://finance.yahoo.com/news/palantir-pltr-stock-under-fire-230237472.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GPuGctTm_CY4t0rTGlm0sg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/dcf062bafae0092ccd088cb6b6f85db6",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-08-20T23:02:37Z"
+      "title": "More frozen shrimp recalled for possible radioactive contamination - AP News",
+      "description": "More packages of frozen shrimp potentially affected by radioactive contamination have been recalled. California-based Southwind Foods recalled frozen shrimp sold under the brands Sand Bar, Arctic Shores, Best Yet, Great American and First Street. The bagged p…",
+      "url": "https://apnews.com/article/frozen-shrimp-radioactive-cesium-137-ffcafaedb359b5cc33aabe0e71bacaa5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/44bf10c/2147483647/strip/true/crop/987x555+0+51/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F90%2F63ec6e8fac3dfe193971f8dcd037%2F5e9b28e19c024b009f3c0e1e8a22fc25",
+      "source": "Associated Press",
+      "publishedAt": "2025-08-21T21:41:00Z"
     },
     {
-      "title": "Stock market may be obscuring ‘important realities’ about the U.S. economy - MarketWatch",
-      "description": null,
-      "url": "https://www.marketwatch.com/story/stock-market-may-be-obscuring-important-realities-about-the-u-s-economy-bc0e9b41",
-      "urlToImage": null,
+      "title": "Rotation out of Big Tech sends S&P 500 on longest losing streak since January. How far will it run? - MarketWatch",
+      "description": "S&P 500 is struggling this week, in contrast to an ETF that equally weighs stocks in the index",
+      "url": "https://www.marketwatch.com/story/rotation-out-of-big-tech-sends-s-p-500-on-longest-losing-streak-since-january-how-far-will-it-run-e577deda",
+      "urlToImage": "https://images.mktw.net/im-818126/social",
       "source": "MarketWatch",
-      "publishedAt": "2025-08-20T22:15:00Z"
+      "publishedAt": "2025-08-21T20:42:00Z"
     },
     {
-      "title": "What to know about the Alaska Airlines and Hawaiian Airlines new Atmos rewards program - KOMO",
-      "description": "Alaska Airlines is bringing together Alaska Airlines and Hawaiian Airlines under a single loyalty brand by launching Atmos Rewards and a new credit card.",
-      "url": "https://komonews.com/news/local/alaska-airlines-launches-new-atmos-loyalty-rewards-program-credit-card-hawaiian-airlines-aviation-flight-travel-tourism-consumer",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/7985/986/0x418/90/403c79fb-404a-4225-a893-14e93d955886-Alaska_Hawaiian_Airlines_003.JPG",
-      "source": "KOMO News",
-      "publishedAt": "2025-08-20T21:37:42Z"
+      "title": "The Anti-Trump Resistance Just Got Its Own “Bud Light Moment” - Slate Magazine",
+      "description": "Target bent the knee to MAGA—sinking profits and shaking up leadership along the way.",
+      "url": "https://slate.com/business/2025/08/target-ceo-brian-cornell-dei-boycott-trump-maga.html",
+      "urlToImage": "https://compote.slate.com/images/d3a92ad8-ab23-4b7e-bd5c-42cbbee199b2.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "source": "Slate Magazine",
+      "publishedAt": "2025-08-21T20:29:00Z"
     },
     {
-      "title": "Trump bought more than $100 million in bonds since January - NBC News",
-      "description": "President Donald Trump has purchased at least $103 million worth of corporate and municipal bonds since taking office again in January, new filings show.",
-      "url": "https://www.nbcnews.com/business/markets/trump-bought-bonds-companies-governments-rcna226024",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250820-donald-trump-cs-5bfe43.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-08-20T20:18:07Z"
+      "title": "Passengers sue United and Delta for selling ‘window’ seats next to blank walls - AP News",
+      "description": "A pair of federal lawsuits filed in San Francisco and New York accuse Delta Air Lines and United Airlines of misleading passengers by charging premium fees for window seats next to blank walls. A New York law firm brought the cases as proposed class actions o…",
+      "url": "https://apnews.com/article/window-seats-lawsuit-airlines-delta-united-d770cfe427a9e5a29330b1a18938c7c7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6f2253f/2147483647/strip/true/crop/4611x2594+0+56/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2Fee%2Fbfb7ab95c5f33c42441a4fdd884d%2F8af6068b304b40379640a478b07fec90",
+      "source": "Associated Press",
+      "publishedAt": "2025-08-21T20:13:00Z"
     },
     {
-      "title": "'Proud of myself': Milton man savors chance to be at front of line for WA's first In-N-Out - KING5.com",
-      "description": "Kevin says he waited over 14 hours to be the first person to eat inside at the Ridgefield In-N-Out.",
-      "url": "https://www.king5.com/article/life/food/milton-man-waits-14-hours-washingtons-first-in-n-out-grand-opening/281-8bad67e8-2747-4f39-87bd-e24a7bda32b9",
-      "urlToImage": "https://media.king5.com/assets/KING/images/68e0ae55-15f1-403a-9ad1-ca04cf96f832/20250820T115448/68e0ae55-15f1-403a-9ad1-ca04cf96f832_1140x641.jpg",
-      "source": "KING5.com",
-      "publishedAt": "2025-08-20T19:54:00Z"
+      "title": "Workday Signs Definitive Agreement to Acquire Paradox, the AI Company Redefining the Frontline Candidate Experience - Workday",
+      "description": "Paradox's Candidate Experience Agent Delivers Superior Candidate Care, Accelerated Candidate Conversion and Time-to-Hire The Addition of Paradox Will Give Workday an AI-Powered Talent Acquisition...",
+      "url": "https://investor.workday.com/2025-08-21-Workday-Signs-Definitive-Agreement-to-Acquire-Paradox,-the-AI-Company-Redefining-the-Frontline-Candidate-Experience",
+      "urlToImage": "https://investor.workday.com/image/og-investor-relations-1200x628.jpg",
+      "source": "Workday.com",
+      "publishedAt": "2025-08-21T20:01:59Z"
     },
     {
-      "title": "Walmart recalls its frozen shrimp in 13 states, citing potential radioactive contamination - PBS",
-      "description": "The U.S. Food and Drug Administration asked Walmart to pull three lots of Great Value brand frozen shrimp from stores after federal officials detected Cesium-137, a radioactive isotope, in shipping containers and a sample of breaded shrimp imported from Indon…",
-      "url": "https://www.pbs.org/newshour/health/walmart-recalls-its-frozen-shrimp-in-13-states-citing-potential-radioactive-contamination",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-08-19T093712Z_463482734_RC2JUDAVVE74_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-SHRIMP-1024x768.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-08-20T19:38:12Z"
+      "title": "Gas power plants approved for Meta’s $10B data center, and not everyone is happy - TechCrunch",
+      "description": "Meta's massive data center will draw power from three gas-fired power plants producing 2.25 gigawatts.",
+      "url": "https://techcrunch.com/2025/08/21/gas-power-plants-approved-for-metas-10b-data-center-and-not-everyone-is-happy/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-21T19:52:20Z"
     },
     {
-      "title": "US Senator Bernie Sanders backs Trump plan for government stake in Intel - Al Jazeera",
-      "description": "The new stake in the tech giant aims to increase US semiconductor chip production.",
-      "url": "https://www.aljazeera.com/economy/2025/8/20/us-senator-bernie-sanders-backs-trump-plan-for-government-stake-in-intel",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP111212112390-1755711574.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-08-20T19:01:51Z"
+      "title": "Bitcoin dips ahead of Fed chair’s remarks at Jackson Hole - Fortune",
+      "description": "The world’s largest cryptocurrency is down almost 5% after notching an all-time high one week ago.",
+      "url": "https://fortune.com/crypto/2025/08/21/bitcoin-ethereum-fed-jerome-powell-jackson-hole-wyoming/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/Crypto-Volatility-10.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-08-21T19:05:00Z"
     },
     {
-      "title": "Jerome Powell’s Jackson Hole Speech Could Make or Break the Stock Market Rally - Investopedia",
-      "description": "Federal Reserve chair Jerome Powell is scheduled to speak at the central bank's annual Jackson Hole Symposium on Friday, an event that could be a major test of the stock market's post-\"Liberation Day\" rally.",
-      "url": "https://www.investopedia.com/jerome-powells-jackson-hole-speech-could-make-or-break-stock-market-rally-11794428",
-      "urlToImage": "https://www.investopedia.com/thmb/ODa7LZbSAZkB58gHmW9ca4VrwM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2227770587-85646abe295c437e852bee50f11ee9d9.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-08-20T18:55:00Z"
-    },
-    {
-      "title": "Claire’s strikes $140M private equity takeover deal, pauses store liquidations - Retail Dive",
-      "description": "The bankrupt tween accessories retailer had plans to shutter at least 700 stores — possibly twice that — and now most will remain open.",
-      "url": "https://www.retaildive.com/news/claires-140m-private-equity-takeover-pauses-store-liquidations/758123/",
-      "urlToImage": "https://imgproxy.divecdn.com/Kd343K2G6g-FwEflNDhF5pksz2KcvdwdhlscM9U6LJw/g:nowe:0:399/c:7376:4167/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGFpcmVfc19TdG9yZWZyb250LmpwZw==.webp",
-      "source": "Retail Dive",
-      "publishedAt": "2025-08-20T16:17:44Z"
+      "title": "New Fox One Streamer Launching On Prime Video - Deadline",
+      "description": "Prime Video customers in the U.S. can subscribe and access the new Fox One's full portfolio of content starting today.",
+      "url": "http://deadline.com/2025/08/fox-one-streaming-service-launches-prime-video-in-us-1236494361/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/prime-video-fox-one.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-08-21T18:15:00Z"
     }
   ]
 }
