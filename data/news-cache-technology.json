@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2025-08-24T06:38:06.562Z",
+  "updatedAt": "2025-08-25T06:43:55.984Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "iOS 26: Eight New Features in Apple Music - MacRumors",
-      "description": "Apple has made several updates to the Apple Music app in iOS 26, and it has AutoMix, which has become one of the most popular additions. Apple Music...",
-      "url": "https://www.macrumors.com/guide/ios-26-music/",
-      "urlToImage": "https://images.macrumors.com/t/247EvtZJZwUgvuA-vgnxwCK_slU=/2500x/article-new/2025/08/iOS-26-Music-Glass-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-08-22T23:08:00Z"
-    },
-    {
-      "title": "Replaced Is a Beautiful, Brilliant 2.5D Cyberpunk Thriller | gamescom 2025 - IGN",
-      "description": "When you’ve played video games long enough, you eventually develop something of a “Spidey Sense” when you see a game that seems like it’s going to be extra special. You never know until the final product is on your hard drive, of course, but more often than n…",
-      "url": "https://www.ign.com/articles/replaced-is-a-beautiful-brilliant-25d-cyberpunk-thriller-gamescom-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/22/gamescom-2025-replaced-blogroll-2-1755889234912.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-08-22T19:21:00Z"
-    },
-    {
-      "title": "Microsoft tests letting you resume Android apps on Windows 11 - The Verge",
-      "description": "Microsoft is testing a new Windows 11 feature that will let you resume your Android apps on your PC, starting with Spotify.",
-      "url": "https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK109_WINDOWS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-08-22T18:09:23Z"
-    },
-    {
-      "title": "Feature: What's It Like To Attend Gamescom 2025? - Nintendo Life",
-      "description": "Das Ist Wunderbar?",
-      "url": "https://www.nintendolife.com/features/whats-it-like-to-attend-gamescom-2025",
-      "urlToImage": "https://images.nintendolife.com/ccda75e40182b/large.jpg",
+      "title": "Yooka-Replaylee Appears To Be Getting A Proper Physical Release For Switch 2 - Nintendo Life",
+      "description": "Playtonic will share another \"major update\" next week",
+      "url": "https://www.nintendolife.com/news/2025/08/yooka-replaylee-appears-to-be-getting-a-proper-physical-release-for-switch-2",
+      "urlToImage": "https://images.nintendolife.com/7c967dad1ac19/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2025-08-22T17:00:00Z"
+      "publishedAt": "2025-08-24T05:37:30Z"
     },
     {
-      "title": "Mortal Kombat: Legacy Kollection final game lineup announced - My Nintendo News",
-      "description": "Mortal Kombat: Legacy Kollection is shaping up to be a must have for fans of the Mortal Kombat series and fighting game aficionados in general. The lid has been lifted on the collection at Gamescom…",
-      "url": "https://mynintendonews.com/2025/08/22/mortal-kombat-legacy-kollection-final-game-lineup-announced/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/08/Mortal_Kombat_Legacy_Kollection.jpg?fit=1280%2C720&ssl=1",
-      "source": "My Nintendo News",
-      "publishedAt": "2025-08-22T16:48:34Z"
+      "title": "Four-wide finish! Ryan Blaney wins regular-season finale at Daytona - NASCAR.com",
+      "description": "Ryan Blaney rockets around the outside in Turns 3 and 4 at Daytona and holds on in a four-wide finish at the line to win regular-season finale.",
+      "url": "https://www.nascar.com/videos/franchise/nascar-cup-final-laps/four-wide-finish-ryan-blaney-wins-regular-season-finale-at-daytona/",
+      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2025/08/24/Daytona_Final_Lap_Blaney.jpg",
+      "source": "NASCAR",
+      "publishedAt": "2025-08-24T03:20:42Z"
     },
     {
-      "title": "Google details easy Pixel Watch 4 repair process, teases ‘more’ third-party chargers - 9to5Google",
-      "description": "Google has finally made it possible to repair the Pixel Watch 4 and offered some details on the process, while also teasing more chargers.",
-      "url": "http://9to5google.com/2025/08/22/google-details-easy-pixel-watch-4-repair-process-teases-more-third-party-chargers/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-watch-4-repair-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-08-22T16:05:00Z"
+      "title": "Metal Gear Solid Delta's Dismal PS5 Pro Support Could Use a Rethink - Push Square",
+      "description": "And the base PS5 could be better, too",
+      "url": "https://www.pushsquare.com/news/2025/08/metal-gear-solid-deltas-dismal-ps5-pro-support-could-use-a-rethink",
+      "urlToImage": "https://images.pushsquare.com/e91f37ffade46/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-08-23T23:00:00Z"
     },
     {
-      "title": "Bungie CEO Pete Parsons steps down, following years of criticism, layoffs, and that infamous classic car collection - Eurogamer",
-      "description": "Bungie CEO Pete Parsons has stepped down from his position after over two decades at the studio.",
-      "url": "https://www.eurogamer.net/bungie-ceo-pete-parsons-steps-down-following-years-of-criticism-layoffs-and-that-infamous-classic-car-collection",
-      "urlToImage": "https://assetsio.gnwcdn.com/Destiny-2_-The-Edge-of-Fate-_-Launch-Trailer-0-32-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-08-22T15:42:41Z"
+      "title": "Mini Review: Discounty (PS5) - Shop 'Til You Drop in This Addictive Life Sim - Push Square",
+      "description": "Store-dew Valley",
+      "url": "https://www.pushsquare.com/reviews/ps5/discounty",
+      "urlToImage": "https://images.pushsquare.com/e18d505789dae/1280x720.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-08-23T22:11:48Z"
     },
     {
-      "title": "Indie Devs Are Delaying Their Games Because Of Silksong [Update] - aftermath.site",
-      "description": "'I feel like a little krill trying to not get eaten by a blue whale,' wrote one developer",
-      "url": "https://aftermath.site/silksong-indie-delays",
-      "urlToImage": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/08/silksd.jpg",
-      "source": "Aftermath.site",
-      "publishedAt": "2025-08-22T15:40:00Z"
-    },
-    {
-      "title": "Android 16’s new Wallet shortcut is missing on some Pixels, and Google won’t say why - Android Authority",
-      "description": "Android 16 introduces a new Google Wallet shortcut, but it's not available on older Pixels. Here's what we know about why it's missing.",
-      "url": "https://www.androidauthority.com/android-16-wallet-shortcut-missing-3588477/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/android-16-google-wallet-double-tap-shortcut-hero-2-scaled.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-08-22T15:37:16Z"
-    },
-    {
-      "title": "At This Point, It’s Impossible to Know What the Trump Phone Looks Like - WIRED",
-      "description": "Despite accepting preorders and promising that “the wait is almost over,” Trump Mobile doesn’t seem any closer to proving the T1 Phone actually exists.",
-      "url": "https://www.wired.com/story/trump-phone-t1-samsung-spigen/",
-      "urlToImage": "https://media.wired.com/photos/68a8591b65bd721ff6057969/191:100/w_1280,c_limit/GettyImages-2219715617.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-08-22T15:08:24Z"
-    },
-    {
-      "title": "Meta might be secretly scanning your phone's camera roll - how to check and turn it off - ZDNET",
-      "description": "Some Facebook users have noticed new settings that let Meta analyze and retain your phone's photos. Yes, you read that right.",
-      "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5535effbcc9da105238dea39d40867ccc821a011/2025/08/22/84d5c395-8c79-439b-9a0d-9e0115db6320/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-08-22T15:06:00Z"
-    },
-    {
-      "title": "Apple Races to Patch Zero-Click Exploit that Put Crypto Users at Risk - TipRanks",
-      "description": "Apple ($AAPL) has moved quickly to patch a zero-click vulnerability that could have allowed attackers to compromise iPhones, iPads, and Macs without the user even c...",
-      "url": "https://www.tipranks.com/news/apple-races-to-patch-zero-click-exploit-that-put-crypto-users-at-risk",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/shutterstock_2489697091-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-08-22T15:00:00Z"
-    },
-    {
-      "title": "Yes, MagSafe accessories will work on the Pixel 10 series without a case - 9to5Google",
-      "description": "The Pixel 10 series brings Qi2 into the fray, which means your MagSafe accessories will work even without a case.",
-      "url": "http://9to5google.com/2025/08/22/magsafe-accessories-work-on-pixel-10-series-without-a-case/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-Pro-Fold-Qi2-mag-accessory.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-08-22T14:30:00Z"
-    },
-    {
-      "title": "Apple TV+ raises subscription prices worldwide, including in UK - BBC",
-      "description": "The streaming industry has seen a series of price hikes from its major players in the past year.",
-      "url": "https://www.bbc.com/news/articles/c1le9l6pee5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3f59/live/537007f0-7f69-11f0-aed6-a9b9ead85975.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-08-22T14:22:32Z"
-    },
-    {
-      "title": "Call Of Duty: Black Ops 7's Campaign Does Not Let You Pick A Difficulty Level, And Here's Why - GameSpot",
-      "description": "\"You cannot pick a difficulty like past games.\"",
-      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-7s-campaign-does-not-let-you-pick-a-difficulty-level-and-heres-why/1100-6534200/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4554654-screenshot2025-08-22at8.49.45am.png",
-      "source": "GameSpot",
-      "publishedAt": "2025-08-22T13:55:03Z"
-    },
-    {
-      "title": "Venture into the Secluded Springs in Pokémon TCG Pocket - Pokemon.com",
-      "description": "Raikou, Entei, and Suicune headline this new expansion along with a variety of in-game events to discover.",
-      "url": "https://www.pokemon.com/us/pokemon-news/venture-into-the-secluded-springs-in-pokemon-tcg-pocket",
-      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/tcg-pocket/2025/08/22/pokemon-tcg-pocket-169-en.png",
-      "source": "Pokemon.com",
-      "publishedAt": "2025-08-22T13:10:57Z"
-    },
-    {
-      "title": "Rumor: Pokemon Legends: Z-A leak gives first look at two new Mega Evolutions - Nintendo Everything",
-      "description": "A new Pokemon Legends: Z-A leak has supposedly happened that seems to show first images of two brand new Mega Evolutions.",
-      "url": "https://nintendoeverything.com/pokemon-legends-z-a-leak-first-look-two-new-mega-evolutions/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-leak-Mega-Evolutions-images.jpg",
+      "title": "Nintendo identifies Xenoblade Chronicles X issue on Switch 2 - Nintendo Everything",
+      "description": "Nintendo has now reported an issue with Xenoblade Chronicles X: Definitive Edition when playing on Switch 2.",
+      "url": "https://nintendoeverything.com/nintendo-identifies-xenoblade-x-issue-on-switch-2/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Xenoblade-X-Switch-2-bug.jpg",
       "source": "Nintendoeverything.com",
-      "publishedAt": "2025-08-22T13:09:41Z"
+      "publishedAt": "2025-08-23T20:01:22Z"
+    },
+    {
+      "title": "iOS 26 Adds 25W Qi2 Wireless Charging Support to iPhone 16 Models - MacRumors",
+      "description": "While it has yet to be officially announced by Apple, the upcoming iOS 26 update adds Qi 2.2 support to all iPhone 16 models, except for the iPhone...",
+      "url": "https://www.macrumors.com/2025/08/23/ios-26-adds-qi2-25w-support-to-iphone-16-series/",
+      "urlToImage": "https://images.macrumors.com/t/IVRNifaxeLgu3YlIs8cHuiQfoS4=/1600x/article-new/2025/08/Belkin-25W-Charging-Stand-1.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-08-23T18:31:15Z"
+    },
+    {
+      "title": "Major streaming service announces 30% price increase - Syracuse.com",
+      "description": "Customers should see the price change reflected in their bills within 30 days.",
+      "url": "https://www.syracuse.com/tv/2025/08/major-streaming-service-announces-30-price-increase.html",
+      "urlToImage": "https://www.syracuse.com/resizer/v2/SINFCNEDS5AANB6THHD27LF33I.jpg?auth=07d1115479970f3fb1b7870d8f109f27f529bf9258c7401d914e3e436df3d0d9&width=1280&quality=90",
+      "source": "syracuse.com",
+      "publishedAt": "2025-08-23T16:19:00Z"
+    },
+    {
+      "title": "Rare deal knocks $100 off M4 Mac mini with 32GB of RAM, more from $499 - 9to5Toys",
+      "description": "Amazon is still offering the most affordable M4 Mac mini configurations down at $499 and $689 – up to $110 off, but we wanted to highlight this rare deal on a 32GB configuration courtesy of B&H. Alongside a host of other upgraded configs, the authorized Apple…",
+      "url": "http://9to5toys.com/2025/08/23/rare-deal-mac-mini/",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/03/M4-Mac-mini-deal.jpg?resize=1200%2C628&ssl=1",
+      "source": "9to5Toys",
+      "publishedAt": "2025-08-23T14:43:21Z"
+    },
+    {
+      "title": "As the PS5's Price Increases in USA, Big Deals Are Revealed for China - Push Square",
+      "description": "Sony looks to capitalise on Lost Soul Aside",
+      "url": "https://www.pushsquare.com/news/2025/08/as-the-ps5s-price-increases-in-usa-big-deals-are-revealed-for-china",
+      "urlToImage": "https://images.pushsquare.com/eec75be2325c6/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-08-23T13:00:00Z"
+    },
+    {
+      "title": "Apple users urged to check their iPhone settings immediately after concerns of 'extremely sophisticated attack' - UNILAD",
+      "description": "Apple's new iOS update fixes a vulnerability which saw users' data exposed, with specific people targeted",
+      "url": "https://www.unilad.com/technology/news/apple-iphone-ios-18-6-2-settings-cyber-attack-067722-20250823",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/blt949ea8e16e463049/bltc00748edf9c379f8/68a9afab638e2c0a1734bae9/iphone-users-settings-update-attack.png",
+      "source": "Unilad.com",
+      "publishedAt": "2025-08-23T12:55:40Z"
+    },
+    {
+      "title": "Microsoft Confirms August 2025 Update Causes Severe Lag in Windows 11 24H2, and Windows 10 - CyberSecurityNews",
+      "description": "Microsoft has officially confirmed that its August 2025 security update is causing significant performance problems for users of NDI (Network Device Interface) technology. Content creators, broadcasters, and IT professionals who installed the update are repor…",
+      "url": "https://cybersecuritynews.com/windows-update-causes-lag/",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWdzNeX61Q48ueeTDtgdaQQvRFub66srRCJaSm6muVkH6b7hcK6ul3uyWwe_iUrEeuVjyLqJlotS3Kl5rSRmEY8-cqx4cm13zY9bG_NDkn6FlZjkHWkg_0xKs_ncOvI6nVgBbu1vaZfA0vGYr2SGtpW0RHdQDC7h8zFVu5fDuZRBj0VQ2ung8AgQJrCGcq/s16000/Windows%20Update%20Causes%20Lag.webp",
+      "source": "Cybersecuritynews.com",
+      "publishedAt": "2025-08-23T12:29:29Z"
+    },
+    {
+      "title": "I Let AI Manage My Social Life; AI Texted Friends and Picked My Outfit - Business Insider",
+      "description": "When I first turned to ChatGPT to run my social life, I felt weird. But AI made me a better texter and I became someone who actually planned hangouts.",
+      "url": "https://www.businessinsider.com/ai-chatgpt-manage-social-life-2025-8",
+      "urlToImage": "https://i.insider.com/68a4c844194a2d49b8aece43?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-08-23T11:07:00Z"
+    },
+    {
+      "title": "Xbox Game Pass confirms multiple new titles in big Gamescom blowout - TrueAchievements",
+      "description": "Gamescom 2025 was stuffed with Game Pass reveals and updates on existing titles in the service. Here are all the Xbox Game Pass announcements from the event.",
+      "url": "https://www.trueachievements.com/news/xbox-game-pass-gamescom-2025-announcements",
+      "urlToImage": "https://www.trueachievements.com/imgs/163570/all-13-xbox-game-pass-announcements-from-across-gamescom-2025.jpg",
+      "source": "TrueAchievements",
+      "publishedAt": "2025-08-23T11:01:09Z"
+    },
+    {
+      "title": "An inner-speech decoder reveals some mental privacy issues - Ars Technica",
+      "description": "Words you’ll never speak still cause activity in the brain’s speech centers.",
+      "url": "https://arstechnica.com/science/2025/08/an-inner-speech-decoder-reveals-some-mental-privacy-issues/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20250814_Brain_Computer_Interface_JG_02-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-08-23T11:00:57Z"
+    },
+    {
+      "title": "Google Confirms Most Gmail Users Must Change Passwords - Forbes",
+      "description": "Do not let hackers gain access to your account.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/08/23/google-warns-most-gmail-users-must-change-passwords/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=743,418,x272,y84,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-08-23T09:54:12Z"
+    },
+    {
+      "title": "The Google Pixel 10 Pro XL feature that makes the Pixel 10 and Pro feel like consolation prizes - Android Police",
+      "description": "Qi2.2 support at 25W is limited to the Pixel 10 Pro XL in this year&#039;s lineup",
+      "url": "https://www.androidpolice.com/pixel-10-pro-xl-feature-makes-10-and-pro-feel-consolation-prizes/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/08/pixel-10-wireless-charging-feature.jpg",
+      "source": "Android Police",
+      "publishedAt": "2025-08-23T09:17:00Z"
+    },
+    {
+      "title": "Go Fest Max Finale Timed Research quest steps and rewards in Pokémon Go - Eurogamer",
+      "description": "All of the Go Fest: Max Finale Timed Research quest steps and rewards listed to help you complete this Pokémon Go quest.",
+      "url": "https://www.eurogamer.net/go-fest-max-finale-timed-research-quest-steps-rewards-pokemon",
+      "urlToImage": "https://assetsio.gnwcdn.com/Pokemon-Go-Fest-Max-Finale-Timed-Research-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-08-23T09:16:40Z"
+    },
+    {
+      "title": "Flagship fight: Google Pixel 10 Pro vs. Samsung Galaxy S25 Ultra - Mashable",
+      "description": "Which of the two beefy flagships is better for you?",
+      "url": "https://mashable.com/article/google-pixel-10-pro-vs-samsung-galaxy-s25-ultra",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05BPqtacsfUxjMvp7pGbcA8/hero-image.fill.size_1200x675.v1755809681.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-08-23T09:08:17Z"
+    },
+    {
+      "title": "69-60: Chart - Lookout Landing",
+      "description": "Nice!",
+      "url": "https://www.lookoutlanding.com/mariners-charts/133229/69-60-chart",
+      "urlToImage": "https://platform.lookoutlanding.com/wp-content/uploads/sites/101/2025/08/imagn-26908519.jpg?quality=90&strip=all&crop=0%2C10.729787954919%2C100%2C78.540424090162&w=1200",
+      "source": "Lookout Landing",
+      "publishedAt": "2025-08-23T04:36:00Z"
     }
   ]
 }
