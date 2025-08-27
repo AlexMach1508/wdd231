@@ -1,143 +1,119 @@
 {
-  "updatedAt": "2025-08-26T06:42:22.344Z",
+  "updatedAt": "2025-08-27T06:38:27.992Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Asian Stocks Rise as Powell Signals Fed Will Cut: Markets Wrap - Bloomberg.com",
-      "description": "Asian shares tracked Wall Street’s rally and gained the most in nearly two weeks as traders increased bets the Federal Reserve will lower interest rates next month following dovish comments by Chairman Jerome Powell.",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-24/asian-stocks-set-to-advance-after-powell-pivot-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUJp9KZK4h8A/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2025-08-25T01:59:00Z"
+      "title": "Trump moves to fire Federal Reserve governor Lisa Cook - The Washington Post",
+      "description": "Trump moves to fire a Federal Reserve governor he has accused of mortgage fraud.",
+      "url": "https://www.washingtonpost.com/business/2025/08/25/trump-lisa-cook-federal-reserve/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M7ZIB7NRIRBHUPQUPCL3YF6JEU_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-08-26T05:18:00Z"
     },
     {
-      "title": "Ethereum's coin breaks 2021 all-time high, nearing $600B market cap - Axios",
-      "description": "Bullish sentiment, ETFs and digital asset treasury companies have driven the surge.",
-      "url": "https://www.axios.com/2025/08/24/ether-all-time-high",
-      "urlToImage": "https://images.axios.com/hPJz5iCaSPzHqOkVWUGrEnBGORM=/1366x768/smart/2025/03/12/144755-1741790875734.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-08-25T01:12:11Z"
+      "title": "Asia stocks dip as US rate cut cheer eases; tech on edge before Nvidia - Investing.com",
+      "description": "Asia stocks dip as US rate cut cheer eases; tech on edge before Nvidia",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-us-rate-cut-cheer-eases-tech-on-edge-before-nvidia-4210034",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA9Q076_L.jpg",
+      "source": "Investing.com",
+      "publishedAt": "2025-08-26T03:08:48Z"
     },
     {
-      "title": "Evergrande: Chinese property giant to be delisted after spectacular fall - BBC",
-      "description": "The embattled property giant's shares will be taken off the Hong Kong stock market on Monday.",
-      "url": "https://www.bbc.com/news/articles/c14g7r44566o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2598/live/ed5e6e00-7d80-11f0-98a0-956f61945264.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-08-24T23:20:50Z"
-    },
-    {
-      "title": "Keurig Dr Pepper nears $18bn deal to buy European coffee group JDE Peet’s - Financial Times",
-      "description": "Pact could pave the way for a break-up of the US drinks giant",
-      "url": "https://www.ft.com/content/123afb47-c2ad-4593-b490-e01d0c28af2f",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8511ef5-4a26-4238-935a-e8ff11bded09.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-08-24T23:15:07Z"
-    },
-    {
-      "title": "Hertz Now Sells Used Cars On Amazon Autos - Jalopnik",
-      "description": "While initially available only in LA, Seattle, Houston, and Dallas, it plans to expand availability to include all 45 Hertz Car Sales locations in the U.S.",
-      "url": "https://www.jalopnik.com/1947782/hertz-now-sells-used-cars-on-amazon-autos/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/hertz-now-sells-used-cars-on-amazon-autos/l-intro-1755898760.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2025-08-24T22:25:00Z"
-    },
-    {
-      "title": "U.S. stock futures slip following Friday’s Fed-fueled rally - MarketWatch",
-      "description": "",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-following-fridays-fed-fueled-rally-138badbf",
-      "urlToImage": "https://images.mktw.net/im-16062470/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-08-24T22:18:00Z"
-    },
-    {
-      "title": "Radioactive shrimp are potentially in California now, too - KCRA",
-      "description": "On Thursday, Southwind Foods, headquartered in Carson, California, recalled multiple brands of frozen shrimp potentially affected by radioactive contamination, according to the U.S. Food and Drug Administration.",
-      "url": "https://www.kcra.com/article/radioactive-shrimp-are-potentially-in-california/65881750",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/shrimp-68ab852487318.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-      "source": "KCRA Sacramento",
-      "publishedAt": "2025-08-24T21:43:00Z"
-    },
-    {
-      "title": "Expert issues warning on next American food set to see skyrocketing prices: 'We're going to see a notable further increase' - The Cool Down",
-      "description": "The price of ground beef is exceeding $6 per pound, with steak up 12.4% over the same period, according to a report.",
-      "url": "https://www.thecooldown.com/sustainable-food/ground-beef-prices-tariffs-imports-extreme-weather/",
-      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2025/08/ground-beefimage-recGFELpzmojCRUu8.jpg",
-      "source": "Thecooldown.com",
-      "publishedAt": "2025-08-24T21:00:00Z"
-    },
-    {
-      "title": "Powerball's 10th-largest jackpot is now $750 million after no winner Saturday - CBS News",
-      "description": "The Powerball jackpot is now an estimated $750 million for Monday night's drawing, making it the 10th-largest jackpot in Powerball game history.",
-      "url": "https://www.cbsnews.com/news/powerball-jackpot-winning-numbers-700-million/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/15/8a66f78d-f6f4-4422-8386-0389c6d80cba/thumbnail/1200x630/6ffb9229ba6f24d9be9de9b7394d19ef/gettyimages-1360137325.jpg",
+      "title": "Powerball estimated jackpot jumps to $815 million, game's 7th biggest, after no winners of $750 million grand prize - CBS News",
+      "description": "Wednesday night's Powerball jackpot will be an estimated $815 million, the game's seventh biggest, with an approximate cash value of $367.9 million, after no one won Monday's $750 million grand prize.",
+      "url": "https://www.cbsnews.com/news/powerball-winning-numbers-jackpot-monday/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/19/b9a0b413-1a51-4a8e-8d1c-a1d8d5580554/thumbnail/1200x630/3e1d2bb856d1f2e634988b3fdf10488a/gettyimages-505887146.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-08-24T20:45:24Z"
+      "publishedAt": "2025-08-26T03:05:00Z"
     },
     {
-      "title": "Former Meta exec Nick Clegg offers careful criticism of ‘cloyingly conformist’ Silicon Valley - TechCrunch",
-      "description": "Meta’s former policy chief Nick Clegg seems to be walking a tightrope as he promotes his upcoming book, “How to Save the Internet.”",
-      "url": "https://techcrunch.com/2025/08/24/former-meta-exec-nick-clegg-offers-careful-criticism-of-cloyingly-conformist-silicon-valley/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2174202847.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-08-24T20:32:56Z"
+      "title": "Intel says Trump’s plan for U.S. stake in company poses business risks - The Washington Post",
+      "description": "In an SEC filing, the chipmaker said the deal could cost it sales and open it up to backlash from other countries, business partners and even its own employees.",
+      "url": "https://www.washingtonpost.com/technology/2025/08/25/intel-government-stake-business-risks/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G3KSRBECJWPK5HZPGWJ7Z65GJE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-08-26T00:45:18Z"
     },
     {
-      "title": "Gen Zer who built multimillion-dollar companies says work-life balance is a trap and lists 5 ways to 'optimize ruthlessly' during your peak years - Fortune",
-      "description": "\"When you front-load success early, you buy the luxury of choice for the rest of your life.\"",
-      "url": "https://fortune.com/2025/08/24/gen-z-work-life-balance-trap-mediocrity-entrepreneur-startups/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-652563534-e1756059304186.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-08-24T20:03:00Z"
+      "title": "SpaceX scrubs crucial Starship Flight 10 launch again, this time due to weather - Space",
+      "description": "It was the second day in the row that Starship couldn't get off the ground.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-postpones-crucial-starship-flight-10-launch-again-due-to-weather",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xg77HbNpGtLBkKcV4uJubc.png",
+      "source": "Space.com",
+      "publishedAt": "2025-08-26T00:43:40Z"
     },
     {
-      "title": "Self driving taxis may be coming to NYC, as Waymo wins first AV testing permit - Mashable",
-      "description": "Just what the Big Apple needs: more cars.",
-      "url": "https://mashable.com/article/waymo-driverless-cars-new-york-city",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/061EPUeIRBO75cL4IFfKDTW/hero-image.fill.size_1200x675.v1756058074.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-08-24T18:13:55Z"
+      "title": "Cracker Barrel says it \"could've done a better job\" with release of new logo that angered some fans - AP News",
+      "description": "Cracker Barrel is sticking with its new logo. But the chain is also apologizing to fans who were angered when the change was announced last week. Cracker Barrel said Monday that it could have done a better job sharing the company's reasons for the new logo. I…",
+      "url": "https://apnews.com/article/cracker-barrel-logo-612b12dc6ffc17e0dcf3ba2185ced81d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5c265d5/2147483647/strip/true/crop/2420x1361+0+227/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2F44%2F20ebc485760051849073ca9e1a0a%2Fc709f22a8e5647188b34e96dfc43aab2",
+      "source": "Associated Press",
+      "publishedAt": "2025-08-25T21:54:00Z"
     },
     {
-      "title": "The Federal Reserve could start resembling the Supreme Court - Fortune",
-      "description": "Fed governors typically step down before their terms expire, but they may stay on until a president from their political party is in the White House.",
-      "url": "https://fortune.com/2025/08/24/federal-reserve-governor-terms-supreme-court-justices-lisa-cook-powell-trump/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-1243793662-e1756047451236.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-08-24T17:05:00Z"
+      "title": "Trump Administration signals plans to nix US Wind project - WBOC TV",
+      "description": "The Trump Administration has announced its intent to withdraw approval of US Wind’s planned wind farm off the shores of Worcester and Sussex Counties, according to court documents acquired by",
+      "url": "https://www.wboc.com/news/trump-administration-signals-plans-to-nix-us-wind-project/article_bc60637d-43e0-4902-9c20-2276d5951804.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wboc.com/content/tncms/assets/v3/editorial/e/d3/ed326e9c-228a-11ef-a050-b7350c077d33/665f3924bf738.image.jpg?crop=960%2C504%2C0%2C68",
+      "source": "WBOC TV 16",
+      "publishedAt": "2025-08-25T21:22:30Z"
     },
     {
-      "title": "Passenger’s device catches fire on American Airlines flight, sends smoke pouring into cabin - New York Post",
-      "description": "The Philadelphia to Phoenix flight — carrying 160 passengers and six crew members — landed safely at Washington Dulles International Airport Saturday after the incident.",
-      "url": "https://nypost.com/2025/08/24/us-news/passengers-device-catches-fire-on-american-airlines-flight/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/110021138.jpg?quality=75&strip=all&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-08-24T16:37:00Z"
+      "title": "Southwest Airlines' new policy will affect plus-size travelers. Here's how - ABC News",
+      "description": "Southwest Airlines will soon require plus-size travelers to pay for an extra seat in advance if they can't fit within the armrests of one seat",
+      "url": "https://abcnews.go.com/Business/wireStory/southwest-airlines-new-policy-affect-size-travelers-124964419",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "source": "ABC News",
+      "publishedAt": "2025-08-25T20:23:15Z"
     },
     {
-      "title": "After 9 months on hold, the Fed could cut rates in September. Why the long pause may extend stocks’ rally. - MarketWatch",
-      "description": "",
-      "url": "https://www.marketwatch.com/story/after-9-months-on-hold-the-fed-could-cut-rates-in-september-why-the-long-pause-may-extend-stocks-rally-e90f3012",
-      "urlToImage": "https://images.mktw.net/im-16374968/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-08-24T16:00:00Z"
-    },
-    {
-      "title": "Here's What Big Retailers Are Saying About Consumer Trends and the Impact of Tariffs on Prices - Investopedia",
-      "description": "Major retailers that released quarterly results last week shared their perspectives on how consumers are faring and what tariffs mean for the industry.",
-      "url": "https://www.investopedia.com/what-big-retailers-are-saying-about-consumer-trends-and-the-impact-of-tariffs-on-prices-11795442",
-      "urlToImage": "https://www.investopedia.com/thmb/Aq5RJyO2PMtjVNRPWBU8gZtjrt8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2212790467-a78eaf44b9a74e28a483d58b6181d907.jpg",
+      "title": "What Wall Street Analysts Think of Nvidia's Stock Ahead of Earnings Wednesday - Investopedia",
+      "description": "Nvidia is set to release its quarterly results after the market closes Wednesday, with analysts expecting sales could reach another record high, despite an anticipated hit from export curbs.",
+      "url": "https://www.investopedia.com/what-wall-street-analysts-think-of-nvidia-stock-ahead-of-earnings-wednesday-update-11796072",
+      "urlToImage": "https://www.investopedia.com/thmb/Yhq71TDE66MtMSX4Pg7NOFDDNWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2219674112-6b3a7001ea874945ab13f4607d03ea9a.jpg",
       "source": "Investopedia",
-      "publishedAt": "2025-08-24T15:55:46Z"
+      "publishedAt": "2025-08-25T19:38:00Z"
     },
     {
-      "title": "Ice cream recall hits Walmart, Kroger, Publix and others after dangerous mistake - Miami Herald",
-      "description": "Blue Bell says Moo-llennium Crunch Ice Cream got put in tubs for Chocolate Chip Cookie Dough, creating a food allergy danger for people with tree nut allergies",
-      "url": "https://www.miamiherald.com/news/recalls/article311830044.html",
-      "urlToImage": "https://www.miamiherald.com/public/latest-news/pip90c/picture311830325/alternates/LANDSCAPE_1140/Blue%20Bell%20Ice%20Cream%20Chocolate%20Chip%20Cookie%20Doug_fitted.jpeg",
-      "source": "Miami Herald",
-      "publishedAt": "2025-08-24T15:29:30Z"
+      "title": "Evergrande’s delisting in Hong Kong: key facts to know - NPR",
+      "description": "At its peak, China Evergrande Group was worth more than $50 billion. But it all came crashing down in 2021. It was massively in debt and unable to complete some existing projects.",
+      "url": "https://www.npr.org/2025/08/25/g-s1-85108/evergrandes-delisting-in-hong-kong-key-facts-to-know",
+      "urlToImage": "https://media.npr.org/assets/img/2024/01/29/ap24029148205025_wide-abf87b38a8d4fd042e015b5729ffe77668324f4e.jpg?s=1400&c=100&f=jpeg",
+      "source": "NPR",
+      "publishedAt": "2025-08-25T17:33:16Z"
+    },
+    {
+      "title": "NVIDIA Blackwell-Powered Jetson Thor Now Available, Accelerating the Age of General Robotics - NVIDIA Newsroom",
+      "description": "NVIDIA today announced the general availability of the NVIDIA Jetson AGX Thor™ developer kit and production modules, powerful new robotics computers designed to power millions of robots across industries including manufacturing, logistics, transportation, hea…",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-powered-jetson-thor-now-available-accelerating-the-age-of-general-robotics",
+      "urlToImage": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20257/68ac02723d63324a0c0e40da_jetson-thor/jetson-thor_bb527403-9ad7-4f74-8230-4914ff217fb6-prv.png",
+      "source": "Nvidia.com",
+      "publishedAt": "2025-08-25T15:06:03Z"
+    },
+    {
+      "title": "Trump Eyes New Tariffs on Furniture Imports. These Companies Could Be Hit Hardest. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/wayfair-stock-price-trump-furniture-tariffs-rh-b5685e76",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-08-25T13:38:00Z"
+    },
+    {
+      "title": "Thoma Bravo Acquires Verint to Join Forces with Calabrio to Create an AI-Driven Customer Experience Powerhouse - Business Wire",
+      "description": "Thoma Bravo, a leading software investment firm, announced today that it has entered into a definitive agreement to purchase Verint Systems, Inc. (Nasdaq: VR...",
+      "url": "https://www.businesswire.com/news/home/20250824564235/en/Thoma-Bravo-Acquires-Verint-to-Join-Forces-with-Calabrio-to-Create-an-AI-Driven-Customer-Experience-Powerhouse",
+      "urlToImage": "https://www.businesswire.com/bw-logo.png",
+      "source": "Business Wire",
+      "publishedAt": "2025-08-25T12:47:00Z"
+    },
+    {
+      "title": "Wall Street welcomes rate cuts but ignores the risks - Axios",
+      "description": "Investors may be ignoring several risks that could haunt them later.",
+      "url": "https://www.axios.com/2025/08/25/wall-street-rate-cuts-risks",
+      "urlToImage": "https://images.axios.com/gOVfoe9Pk_Jgj2w_fiupRXII2Rw=/1366x768/smart/2022/03/11/221137-1647036697332.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-08-25T11:42:46Z"
     }
   ]
 }
