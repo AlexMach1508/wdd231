@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2025-08-27T06:38:27.782Z",
+  "updatedAt": "2025-08-28T06:39:38.302Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "MacOS 26 Tahoe’s Dead Canary Utility App Icons - Daring Fireball",
-      "description": "These are the not the work of carpenters who care about the backs of the cabinets they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off …",
-      "url": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
-      "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
-      "source": "Daringfireball.net",
-      "publishedAt": "2025-08-26T00:04:51Z"
-    },
-    {
-      "title": "Meta to Debut Smart Glasses at September’s ‘Connect’ Event - PYMNTS.com",
-      "description": "Meta reportedly plans to introduce its new smart glasses at next month’s “Connect” conference. Those glasses, Meta’s first to feature a consumer-ready",
-      "url": "http://www.pymnts.com/meta/2025/meta-to-debut-smart-glasses-at-septembers-connect-event/",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/09/Meta-Orion-AR-glasses-connected-economy.png",
-      "source": "pymnts.com",
-      "publishedAt": "2025-08-25T22:15:53Z"
-    },
-    {
-      "title": "Gamethread 8/25: Phillies at Mets - The Good Phight",
-      "description": "Time to take the first one",
-      "url": "https://www.thegoodphight.com/phillies-game-threads/72395/gamethread-8-25-phillies-at-mets",
-      "urlToImage": "https://platform.thegoodphight.com/wp-content/uploads/sites/162/2025/08/gettyimages-2225607879.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "Thegoodphight.com",
-      "publishedAt": "2025-08-25T22:15:00Z"
-    },
-    {
-      "title": "Apple study shows LLMs also benefit from the oldest productivity trick in the book - 9to5Mac",
-      "description": "An open-source LLM saw big performance improvements after being told by Apple researchers to check its own work by using one simple productivity trick.",
-      "url": "https://9to5mac.com/2025/08/25/apple-study-shows-llms-also-benefit-from-the-oldest-productivity-trick-in-the-book/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/reminders-logo-ios18.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-08-25T21:53:00Z"
-    },
-    {
-      "title": "New AI attack hides data-theft prompts in downscaled images - BleepingComputer",
-      "description": "Researchers have developed a novel attack that steals user data by injecting malicious prompts in images processed by AI systems before delivering them to a large language model.",
-      "url": "https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/05/12/evil-hacker-ai.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2025-08-25T21:34:57Z"
-    },
-    {
-      "title": "Google will block sideloading of unverified Android apps starting next year - Ars Technica",
-      "description": "Google says it’s no different than checking IDs at the airport.",
-      "url": "https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-08-25T20:52:55Z"
-    },
-    {
-      "title": "AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit - TechCrunch",
-      "description": "Experts say that many of the AI industry’s design decisions are likely to fuel episodes of AI psychosis. Many raised concerns about several tendencies that are unrelated to underlying capability.",
-      "url": "https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/Meta-bot-self-portrait-4.jpeg?w=753",
-      "source": "TechCrunch",
-      "publishedAt": "2025-08-25T20:50:31Z"
-    },
-    {
-      "title": "Why Apple Stock Could Sell Off After iPhone 17 Reveal - Investor's Business Daily",
-      "description": "Apple stock could sell off after the company announces its iPhone 17 series smartphones next month, a Wall Street analyst said Monday.",
-      "url": "https://www.investors.com/news/technology/apple-stock-could-sell-off-on-iphone-17-reveal-analyst-says/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Apple-Umeda-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-08-25T20:21:00Z"
-    },
-    {
-      "title": "Google Confirms Most Gmail Users Must Change Passwords - Forbes",
-      "description": "Do not let hackers gain access to your account.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/08/25/google-warns-most-gmail-users-must-change-passwords/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=743,418,x272,y84,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-08-25T20:08:58Z"
-    },
-    {
-      "title": "Samsung confirms One UI 8 Stable release is on track, no delays - Sammy Fans",
-      "description": "If you are concerned about delays in the One UI 8 Stable rollout, there’s no need to worry. Samsung has just confirmed the update is on track, with no delays. The release will start in September, starting with the Galaxy S25 series. Samsung Newsroom has a new…",
-      "url": "https://www.sammyfans.com/2025/08/25/samsung-one-ui-8-stable-no-delays/",
-      "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2025/08/s24-one-ui-8-img-1000x576.jpg",
-      "source": "Sammyfans.com",
-      "publishedAt": "2025-08-25T20:06:36Z"
-    },
-    {
-      "title": "Developers Reportedly Still Struggling To Get Switch 2 Dev Kits - Nintendo Life",
-      "description": "\"They would love to do Switch 2 versions. They can’t get the hardware.\"",
-      "url": "https://www.nintendolife.com/news/2025/08/developers-reportedly-still-struggling-to-get-switch-2-dev-kits",
-      "urlToImage": "https://images.nintendolife.com/a9f495d4e56cc/large.jpg",
+      "title": "Video: Nintendo Highlights 'Super NES - Nintendo Classics' Features Update - Nintendo Life",
+      "description": "Have you tried them out yet?",
+      "url": "https://www.nintendolife.com/news/2025/08/video-nintendo-highlights-super-nes-nintendo-classics-features-update",
+      "urlToImage": "https://images.nintendolife.com/f114c30d32542/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2025-08-25T20:00:00Z"
+      "publishedAt": "2025-08-27T03:00:00Z"
     },
     {
-      "title": "We played Xbox Ally months early — and it’s already roasting the Steam Deck - Windows Central",
-      "description": "Why Xbox Ally could be the handheld that finally makes Windows gaming work.",
-      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/hands-on-with-the-xbox-ally-gamescom-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4RzkRKBnDtFtq2oCGHCUiU.png",
-      "source": "Windows Central",
-      "publishedAt": "2025-08-25T19:03:00Z"
+      "title": "“….People Will Not Be Able to Adapt Fast Enough” Microsoft Stock (NASDAQ:MSFT) Slips On New AI Threat - TipRanks",
+      "description": "Tech giant Microsoft ($MSFT) has fielded a lot of questions and concerns about the role of artificial intelligence (AI) in human lives. Not all of the answers out o...",
+      "url": "https://www.tipranks.com/news/people-will-not-be-able-to-adapt-fast-enough-microsoft-stock-nasdaqmsft-slips-on-new-ai-threat",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/microsoft-shutterstock_2422313397-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-08-26T21:56:15Z"
     },
     {
-      "title": "Google Nest Camera and Doorbell leak shows off new colors and 2K video recording - The Verge",
-      "description": "Google Home is getting ready for 2K video and AI-powered capabilities in updated Nest Cams and Video Doorbells, according to Android Headlines.",
-      "url": "https://www.theverge.com/news/765373/google-home-nest-cam-doorbell-2k-video-leak-gemini",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/nest-leak.png?quality=90&strip=all&crop=0%2C20.549738219895%2C100%2C58.900523560209&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-08-25T18:54:18Z"
+      "title": "Final Fantasy 14 Is Running Out Of Room On PS4 Ahead Of Next Expansion - Kotaku",
+      "description": "A special carve-out for the MMORPG is reaching its limits on the last-gen console",
+      "url": "https://kotaku.com/final-fantasy-14-ps4-fanfest-2026-8-0-expansion-2000620418",
+      "urlToImage": "https://kotaku.com/app/uploads/2024/07/b15c9b4d5e4ad7d64aa6518f6c67d208-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-08-26T21:26:05Z"
     },
     {
-      "title": "Demonschool Gets Last-Minute Delay To Avoid Silksong - Nintendo Life",
-      "description": "Now coming in November",
-      "url": "https://www.nintendolife.com/news/2025/08/demonschool-gets-last-minute-delay-to-avoid-silksong",
-      "urlToImage": "https://images.nintendolife.com/c80459b665ebc/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-08-25T18:51:28Z"
+      "title": "Destiny 2 Desert Perpetual Epic Raid Rewards Leaked Ahead Of Release - The Game Post",
+      "description": "Last week, Bungie detailed Destiny 2’s Desert Perpetual Epic raid. Now we’ve got a first look at leaked rewards, including a Heavy grenade launcher, an Exotic Sparrow, and more.",
+      "url": "https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-rewards-leaked/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/08/destiny-2-desert-perpetual-epic-raid-rewards-leaked-11.webp",
+      "source": "Thegamepost.com",
+      "publishedAt": "2025-08-26T21:05:55Z"
     },
     {
-      "title": "New Apple TV 4K will get my upgrade for one feature alone - 9to5Mac",
-      "description": "A new Apple TV 4K is coming this fall, and I’m already planning to upgrade based on one rumored feature alone: the A17 Pro chip. Here’s why.",
-      "url": "https://9to5mac.com/2025/08/25/new-apple-tv-4k-will-get-my-upgrade-for-one-feature-alone/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-08-25T18:45:00Z"
-    },
-    {
-      "title": "Alphabet's Gemini Is Apple's Saving Grace: Who's The Bigger Winner? (NASDAQ:GOOGL) - Seeking Alpha",
-      "description": "Discover how Alphabet Inc. and Apple Inc.'s AI collaboration, Gemini in Siri, drives innovation and boosts competitive edge. Click for more on AAPL and GOOGL stock.",
-      "url": "https://seekingalpha.com/article/4816553-alphabet-gemini-apples-saving-grace-whos-the-bigger-winner",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1654535342/image_1654535342.jpg?io=getty-c-w1536",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-08-25T18:30:56Z"
-    },
-    {
-      "title": "Concord's Failure Led To Increased Oversight, Says Sony Exec - GameSpot",
-      "description": "Sony's Hermen Hulst argues that Concord's dismal reception proves that games need to be tested more frequently in development.",
-      "url": "https://www.gamespot.com/articles/concords-failure-led-to-increased-oversight-says-sony-exec/1100-6534243/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4555955-concord2.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-08-25T18:19:03Z"
-    },
-    {
-      "title": "YouTube secretly tested AI video enhancement without notifying creators - Ars Technica",
-      "description": "Google says this isn’t technically “GenAI,” but it is altering videos without warning.",
-      "url": "https://arstechnica.com/google/2025/08/youtube-secretly-tested-ai-video-enhancement-without-notifying-creators/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-1152x648-1740156964.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-08-25T18:16:43Z"
-    },
-    {
-      "title": "Gaming handheld prices are out of control, except for the Steam Deck - PCGamesN",
-      "description": "Can you really be expected to pay over $1,000 for a handheld gaming PC when Valve's handheld can be yours for as little as $399 brand new?",
-      "url": "https://www.pcgamesn.com/steam-deck/handheld-prices-feature",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/08/steam-deck-price-feature.jpg",
-      "source": "PCGamesN",
-      "publishedAt": "2025-08-25T18:15:12Z"
-    },
-    {
-      "title": "Samsung rolling out One UI with Now Brief and 7 years of updates to appliances soon - 9to5Google",
-      "description": "Starting in September, Samsung will be rolling out new software updates to its various appliances which includes One UI unification...",
-      "url": "http://9to5google.com/2025/08/25/samsung-rolling-out-one-ui-with-now-brief-and-7-years-of-updates-to-appliances-soon/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/samsung-one-ui-appliances-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Gmail rolls out Material 3 Expressive redesign on Android - 9to5Google",
+      "description": "Gmail was one of the first apps to start testing Material 3 Expressive in June and the redesign is now widely rolling out.",
+      "url": "http://9to5google.com/2025/08/26/gmail-material-3-expressive-redesign/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/gmail-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2025-08-25T18:15:00Z"
+      "publishedAt": "2025-08-26T20:48:00Z"
+    },
+    {
+      "title": "Anthropic launches a Claude AI agent that lives in Chrome - TechCrunch",
+      "description": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
+      "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+      "source": "TechCrunch",
+      "publishedAt": "2025-08-26T20:10:59Z"
+    },
+    {
+      "title": "Entry list: Portland 112 at Portland International Raceway - arcaracing.com",
+      "description": "Check out the full entry list for Friday's ARCA Menards Series West Portland 112 at Portland International Raceway.",
+      "url": "https://www.arcaracing.com/2025/08/26/entry-list-portland-112-at-portland-international-raceway-5/",
+      "urlToImage": "",
+      "source": "Arcaracing.com",
+      "publishedAt": "2025-08-26T19:21:57Z"
+    },
+    {
+      "title": "Call Of Duty: Black Ops 7 Won't Let You Transfer Black Ops 6 Operators, Skins, Or Weapons - GameSpot",
+      "description": "Activision backtracks on the Carry Forward program.",
+      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-7-will-no-longer-include-black-ops-6-operators-skins-and-weapons/1100-6534278/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4556807-blackops7large.jpeg",
+      "source": "GameSpot",
+      "publishedAt": "2025-08-26T18:24:51Z"
+    },
+    {
+      "title": "CRKD’s $99 Peak Design clone is great for handhelds - The Verge",
+      "description": "CRKD’s attempts to clone the Peak Design Everyday backpack at a third of the price are somewhat successful, but missing some key elements.",
+      "url": "https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/P8250251.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-26T17:10:33Z"
+    },
+    {
+      "title": "Google aims to be top banana in AI image editing - Axios",
+      "description": "The search giant confirmed it's behind the viral \"Nano Banana\" AI tool, and adds it to Gemini.",
+      "url": "https://www.axios.com/2025/08/26/nano-banana-google-ai-images",
+      "urlToImage": "https://images.axios.com/RyIffXDdNOop5M-Jt8ylNYGznYE=/0x0:1920x1080/1366x768/2025/08/25/1756165768330.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-08-26T16:30:29Z"
+    },
+    {
+      "title": "Atari Announces Strategic IP Agreement With Ubisoft To Revive Five Acclaimed Titles - Business Wire",
+      "description": null,
+      "url": "https://www.businesswire.com/news/home/20250826081788/en/Atari-Announces-Strategic-IP-Agreement-With-Ubisoft-To-Revive-Five-Acclaimed-Titles",
+      "urlToImage": null,
+      "source": "Business Wire",
+      "publishedAt": "2025-08-26T16:00:00Z"
+    },
+    {
+      "title": "Google is building a Duolingo rival into the Translate app - The Verge",
+      "description": "Google is launching new AI-powered language learning tools in its Translate app. The feature uses AI to generate lesson plans based on your skill level and goals.",
+      "url": "https://www.theverge.com/news/765872/google-translate-ai-language-learning-duolingo",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/google-translate-learning.png?quality=90&strip=all&crop=0%2C4.1223755883442%2C100%2C91.755248823312&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-26T16:00:00Z"
+    },
+    {
+      "title": "Silent Hill f loves combat so much, it feels like it's fighting itself - Rock Paper Shotgun",
+      "description": "Playing the first four hours of Silent Hill f confirms its action-heaviness, with a worrying impact on the more traditional horror.",
+      "url": "https://www.rockpapershotgun.com/silent-hill-f-loves-combat-so-much-it-feels-like-its-fighting-itself",
+      "urlToImage": "https://assetsio.gnwcdn.com/%E8%96%99%E5%88%80%E9%9B%9B%E5%AD%90_C.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Rock Paper Shotgun",
+      "publishedAt": "2025-08-26T15:53:30Z"
+    },
+    {
+      "title": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop - Ars Technica",
+      "description": "Older Ryzen 7040-based model will stick around at $1,299 as a lower-end option.",
+      "url": "https://arstechnica.com/gadgets/2025/08/framework-laptop-16-update-brings-nvidia-geforce-to-the-modular-gaming-laptop/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/FW16-Hero-Alt-1-1152x648.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-08-26T15:05:51Z"
+    },
+    {
+      "title": "iRacing Studios To Produce Standalone INDYCAR Video Game in 2026 - iRacing.com",
+      "description": "iRacing.com Motorsport Simulations and INDYCAR are pleased to announce a long-term licensing agreement for iRacing Studios to produce standalone INDYCAR titles for console and PC. As part of the agreement, iRacing Studios will release an INDYCAR title for Pla…",
+      "url": "https://www.iracing.com/iracing-studios-to-produce-standalone-indycar-video-game-in-2026/",
+      "urlToImage": "https://s100.iracing.com/wp-content/uploads/2025/08/Web-2-350x197.jpg",
+      "source": "Iracing.com",
+      "publishedAt": "2025-08-26T15:02:25Z"
+    },
+    {
+      "title": "Helldivers 2 Into the Unjust update takes the battle to the alien Hive Worlds - Eurogamer",
+      "description": "A new major update for Helldivers 2 has been unveiled, which will finally take the battle to the home of Super Earth's …",
+      "url": "https://www.eurogamer.net/helldivers-2-into-the-unjust-update-takes-the-battle-to-the-alien-hive-worlds",
+      "urlToImage": "https://assetsio.gnwcdn.com/helldivers-2-intotheunjust.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-08-26T14:34:40Z"
+    },
+    {
+      "title": "Google will verify Android developers distributing apps outside the Play store - The Verge",
+      "description": "Google is increasing security measures around sideloading apps by removing anonymity for Android developers who distribute outside of the Play Store.",
+      "url": "https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-26T14:02:47Z"
+    },
+    {
+      "title": "\"We Are Not Delaying\" - Dark Deity 2 Dev Stands Firm Against Silksong - Nintendo Life",
+      "description": "Godspeed",
+      "url": "https://www.nintendolife.com/news/2025/08/we-are-not-delaying-dark-deity-2-dev-stands-firm-against-silksong",
+      "urlToImage": "https://images.nintendolife.com/ecee49c4a1fc8/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-08-26T12:30:00Z"
     }
   ]
 }

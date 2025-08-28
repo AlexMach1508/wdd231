@@ -1,119 +1,79 @@
 {
-  "updatedAt": "2025-08-27T06:38:27.992Z",
+  "updatedAt": "2025-08-28T06:39:38.403Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Trump moves to fire Federal Reserve governor Lisa Cook - The Washington Post",
-      "description": "Trump moves to fire a Federal Reserve governor he has accused of mortgage fraud.",
-      "url": "https://www.washingtonpost.com/business/2025/08/25/trump-lisa-cook-federal-reserve/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M7ZIB7NRIRBHUPQUPCL3YF6JEU_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-08-26T05:18:00Z"
-    },
-    {
-      "title": "Asia stocks dip as US rate cut cheer eases; tech on edge before Nvidia - Investing.com",
-      "description": "Asia stocks dip as US rate cut cheer eases; tech on edge before Nvidia",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-us-rate-cut-cheer-eases-tech-on-edge-before-nvidia-4210034",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA9Q076_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2025-08-26T03:08:48Z"
-    },
-    {
-      "title": "Powerball estimated jackpot jumps to $815 million, game's 7th biggest, after no winners of $750 million grand prize - CBS News",
-      "description": "Wednesday night's Powerball jackpot will be an estimated $815 million, the game's seventh biggest, with an approximate cash value of $367.9 million, after no one won Monday's $750 million grand prize.",
-      "url": "https://www.cbsnews.com/news/powerball-winning-numbers-jackpot-monday/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/19/b9a0b413-1a51-4a8e-8d1c-a1d8d5580554/thumbnail/1200x630/3e1d2bb856d1f2e634988b3fdf10488a/gettyimages-505887146.jpg",
+      "title": "SpaceX launches giant Super Heavy-Starship rocket on critical test flight - CBS News",
+      "description": "SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures​ earlier this year.",
+      "url": "https://www.cbsnews.com/news/spacex-launches-super-heavy-starship-critical-10th-test-flight/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/27/2c9afa9a-3146-44d3-aff5-f2889901210b/thumbnail/1200x630/d9151e0e7de8f19ebdeea23b6f065297/2025-08-27t000302z-2130037024-rc2cfgat3eoj-rtrmadp-3-spacex-starship.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-08-26T03:05:00Z"
+      "publishedAt": "2025-08-27T02:13:55Z"
     },
     {
-      "title": "Intel says Trump’s plan for U.S. stake in company poses business risks - The Washington Post",
-      "description": "In an SEC filing, the chipmaker said the deal could cost it sales and open it up to backlash from other countries, business partners and even its own employees.",
-      "url": "https://www.washingtonpost.com/technology/2025/08/25/intel-government-stake-business-risks/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G3KSRBECJWPK5HZPGWJ7Z65GJE.JPG&w=1440",
+      "title": "Trump’s move to take over the Fed adds more uncertainty to the economy - The Washington Post",
+      "description": "By seeking to remove Fed governor Lisa Cook, Trump has taken his boldest step to bring the independent central bank under his control, with consequences for the economy.",
+      "url": "https://www.washingtonpost.com/politics/2025/08/26/trump-fed-control-lisa-cook-economy/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-08-26T00:45:18Z"
+      "publishedAt": "2025-08-27T02:07:23Z"
     },
     {
-      "title": "SpaceX scrubs crucial Starship Flight 10 launch again, this time due to weather - Space",
-      "description": "It was the second day in the row that Starship couldn't get off the ground.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-postpones-crucial-starship-flight-10-launch-again-due-to-weather",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xg77HbNpGtLBkKcV4uJubc.png",
-      "source": "Space.com",
-      "publishedAt": "2025-08-26T00:43:40Z"
+      "title": "White House takes credit for Cracker Barrel logo reversal - Politico",
+      "description": "Trump aides are tying the president’s attack on the rebrand to the company’s decision to scrap the new logo.",
+      "url": "https://www.politico.com/news/2025/08/26/white-house-credit-cracker-barrel-logo-00527928",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F69%2F80%2Fce45989b44d587d2c560fcf95c6e%2Fcracker-barrel-81318.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-08-27T01:42:04Z"
     },
     {
-      "title": "Cracker Barrel says it \"could've done a better job\" with release of new logo that angered some fans - AP News",
-      "description": "Cracker Barrel is sticking with its new logo. But the chain is also apologizing to fans who were angered when the change was announced last week. Cracker Barrel said Monday that it could have done a better job sharing the company's reasons for the new logo. I…",
-      "url": "https://apnews.com/article/cracker-barrel-logo-612b12dc6ffc17e0dcf3ba2185ced81d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5c265d5/2147483647/strip/true/crop/2420x1361+0+227/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2F44%2F20ebc485760051849073ca9e1a0a%2Fc709f22a8e5647188b34e96dfc43aab2",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-25T21:54:00Z"
+      "title": "Microsoft hosts emergency press conference after protesters ‘storm a building’ - The Verge",
+      "description": "Microsoft is “working every day” to investigate how Azure is being used in Israel, Smith said. But he said the protestors’ actions were “not ok.”",
+      "url": "https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Screenshot-2025-08-26-at-7.26.46%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.8212651564845%2C100%2C92.357469687031&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-27T00:22:00Z"
     },
     {
-      "title": "Trump Administration signals plans to nix US Wind project - WBOC TV",
-      "description": "The Trump Administration has announced its intent to withdraw approval of US Wind’s planned wind farm off the shores of Worcester and Sussex Counties, according to court documents acquired by",
-      "url": "https://www.wboc.com/news/trump-administration-signals-plans-to-nix-us-wind-project/article_bc60637d-43e0-4902-9c20-2276d5951804.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wboc.com/content/tncms/assets/v3/editorial/e/d3/ed326e9c-228a-11ef-a050-b7350c077d33/665f3924bf738.image.jpg?crop=960%2C504%2C0%2C68",
-      "source": "WBOC TV 16",
-      "publishedAt": "2025-08-25T21:22:30Z"
+      "title": "ChatGPT Lawsuit Over Teen’s Suicide Could Lead to Big Tech Reckoning - Rolling Stone",
+      "description": "First wrongful death lawsuit against OpenAI alleges that ChatGPT advised a 16-year-old on how to hang himself, and may trigger more complaints.",
+      "url": "http://www.rollingstone.com/culture/culture-features/chatgpt-suicide-teen-openai-lawsuit-1235415931/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/Sam-Altman-parents-of-teen.jpg?crop=0px%2C0px%2C1798px%2C1014px&resize=1600%2C900",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-08-27T00:16:09Z"
     },
     {
-      "title": "Southwest Airlines' new policy will affect plus-size travelers. Here's how - ABC News",
-      "description": "Southwest Airlines will soon require plus-size travelers to pay for an extra seat in advance if they can't fit within the armrests of one seat",
-      "url": "https://abcnews.go.com/Business/wireStory/southwest-airlines-new-policy-affect-size-travelers-124964419",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "source": "ABC News",
-      "publishedAt": "2025-08-25T20:23:15Z"
+      "title": "First-of-its-kind Stanford study: AI is starting to have a 'significant and disproportionate impact' - Fortune",
+      "description": "Something appears to have changed in late 2022, specifically for young workers ages 22 to 25 in the jobs most exposed to AI.",
+      "url": "https://fortune.com/2025/08/26/stanford-ai-entry-level-jobs-gen-z-erik-brynjolfsson/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2155123849-e1756223041310.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-08-26T21:00:00Z"
     },
     {
-      "title": "What Wall Street Analysts Think of Nvidia's Stock Ahead of Earnings Wednesday - Investopedia",
-      "description": "Nvidia is set to release its quarterly results after the market closes Wednesday, with analysts expecting sales could reach another record high, despite an anticipated hit from export curbs.",
-      "url": "https://www.investopedia.com/what-wall-street-analysts-think-of-nvidia-stock-ahead-of-earnings-wednesday-update-11796072",
-      "urlToImage": "https://www.investopedia.com/thmb/Yhq71TDE66MtMSX4Pg7NOFDDNWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2219674112-6b3a7001ea874945ab13f4607d03ea9a.jpg",
+      "title": "Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors - WIRED",
+      "description": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
+      "url": "https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/",
+      "urlToImage": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/191:100/w_1280,c_limit/GettyImages-2229149370.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-08-26T19:31:59Z"
+    },
+    {
+      "title": "After Months of Calm, Nvidia Earnings Could Spark a Big Stock Market Move - Investopedia",
+      "description": "All eyes are on Nvidia heading into the AI chip giant's second-quarter earnings report, due after markets close on Wednesday.",
+      "url": "https://www.investopedia.com/after-months-of-calm-nvidia-earnings-could-spark-a-big-stock-market-move-11797843",
+      "urlToImage": "https://www.investopedia.com/thmb/JeFHzfZsHjJy_uBhVNlxP08cTsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2231344336-7896931d52c04abfb99345f52496e52f.jpg",
       "source": "Investopedia",
-      "publishedAt": "2025-08-25T19:38:00Z"
+      "publishedAt": "2025-08-26T17:38:21Z"
     },
     {
-      "title": "Evergrande’s delisting in Hong Kong: key facts to know - NPR",
-      "description": "At its peak, China Evergrande Group was worth more than $50 billion. But it all came crashing down in 2021. It was massively in debt and unable to complete some existing projects.",
-      "url": "https://www.npr.org/2025/08/25/g-s1-85108/evergrandes-delisting-in-hong-kong-key-facts-to-know",
-      "urlToImage": "https://media.npr.org/assets/img/2024/01/29/ap24029148205025_wide-abf87b38a8d4fd042e015b5729ffe77668324f4e.jpg?s=1400&c=100&f=jpeg",
-      "source": "NPR",
-      "publishedAt": "2025-08-25T17:33:16Z"
-    },
-    {
-      "title": "NVIDIA Blackwell-Powered Jetson Thor Now Available, Accelerating the Age of General Robotics - NVIDIA Newsroom",
-      "description": "NVIDIA today announced the general availability of the NVIDIA Jetson AGX Thor™ developer kit and production modules, powerful new robotics computers designed to power millions of robots across industries including manufacturing, logistics, transportation, hea…",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-powered-jetson-thor-now-available-accelerating-the-age-of-general-robotics",
-      "urlToImage": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20257/68ac02723d63324a0c0e40da_jetson-thor/jetson-thor_bb527403-9ad7-4f74-8230-4914ff217fb6-prv.png",
-      "source": "Nvidia.com",
-      "publishedAt": "2025-08-25T15:06:03Z"
-    },
-    {
-      "title": "Trump Eyes New Tariffs on Furniture Imports. These Companies Could Be Hit Hardest. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/wayfair-stock-price-trump-furniture-tariffs-rh-b5685e76",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-08-25T13:38:00Z"
-    },
-    {
-      "title": "Thoma Bravo Acquires Verint to Join Forces with Calabrio to Create an AI-Driven Customer Experience Powerhouse - Business Wire",
-      "description": "Thoma Bravo, a leading software investment firm, announced today that it has entered into a definitive agreement to purchase Verint Systems, Inc. (Nasdaq: VR...",
-      "url": "https://www.businesswire.com/news/home/20250824564235/en/Thoma-Bravo-Acquires-Verint-to-Join-Forces-with-Calabrio-to-Create-an-AI-Driven-Customer-Experience-Powerhouse",
-      "urlToImage": "https://www.businesswire.com/bw-logo.png",
-      "source": "Business Wire",
-      "publishedAt": "2025-08-25T12:47:00Z"
-    },
-    {
-      "title": "Wall Street welcomes rate cuts but ignores the risks - Axios",
-      "description": "Investors may be ignoring several risks that could haunt them later.",
-      "url": "https://www.axios.com/2025/08/25/wall-street-rate-cuts-risks",
-      "urlToImage": "https://images.axios.com/gOVfoe9Pk_Jgj2w_fiupRXII2Rw=/1366x768/smart/2022/03/11/221137-1647036697332.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-08-25T11:42:46Z"
+      "title": "U.S. Intel - Stratechery by Ben Thompson",
+      "description": "The U.S. taking an equity stake in Intel is a terrible idea; it also happens to be the least bad idea to make Intel Foundry viable.",
+      "url": "https://stratechery.com/2025/u-s-intel/",
+      "urlToImage": "https://stratechery.com/wp-content/uploads/2020/05/tsmc-2.png",
+      "source": "Stratechery.com",
+      "publishedAt": "2025-08-26T10:01:31Z"
     }
   ]
 }
