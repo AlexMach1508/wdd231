@@ -1,79 +1,95 @@
 {
-  "updatedAt": "2025-08-28T06:39:38.403Z",
+  "updatedAt": "2025-08-29T06:38:43.935Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "SpaceX launches giant Super Heavy-Starship rocket on critical test flight - CBS News",
-      "description": "SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures​ earlier this year.",
-      "url": "https://www.cbsnews.com/news/spacex-launches-super-heavy-starship-critical-10th-test-flight/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/27/2c9afa9a-3146-44d3-aff5-f2889901210b/thumbnail/1200x630/d9151e0e7de8f19ebdeea23b6f065297/2025-08-27t000302z-2130037024-rc2cfgat3eoj-rtrmadp-3-spacex-starship.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-08-27T02:13:55Z"
+      "title": "Nvidia earnings recap: Stock slips despite earnings beat as China sales remain uncertain - Business Insider",
+      "description": "Nvidia released its highly anticipated Q2 earnings report — without any sales guidance for China chip sales in Q3.",
+      "url": "https://www.businessinsider.com/nvidia-nvda-stock-earnings-call-report-live-updates-2025-5",
+      "urlToImage": "https://i.insider.com/68aefa13cfc04e97619c1c12?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-08-28T04:39:00Z"
     },
     {
-      "title": "Trump’s move to take over the Fed adds more uncertainty to the economy - The Washington Post",
-      "description": "By seeking to remove Fed governor Lisa Cook, Trump has taken his boldest step to bring the independent central bank under his control, with consequences for the economy.",
-      "url": "https://www.washingtonpost.com/politics/2025/08/26/trump-fed-control-lisa-cook-economy/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-08-27T02:07:23Z"
+      "title": "FDA issues narrower approvals for Covid boosters, revokes emergency authorizations - statnews.com",
+      "description": "The end of Covid vaccine emergency authorizations may limit the availability of shots for young, healthy kids.",
+      "url": "https://www.statnews.com/2025/08/27/fda-covid-vaccines-kennedy-rescinds-emergency-use-authorization/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/08/AP21132668513138-1-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2025-08-28T02:26:15Z"
     },
     {
-      "title": "White House takes credit for Cracker Barrel logo reversal - Politico",
-      "description": "Trump aides are tying the president’s attack on the rebrand to the company’s decision to scrap the new logo.",
-      "url": "https://www.politico.com/news/2025/08/26/white-house-credit-cracker-barrel-logo-00527928",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F69%2F80%2Fce45989b44d587d2c560fcf95c6e%2Fcracker-barrel-81318.jpg",
+      "title": "‘It sickens me to the core’: Newsom slams Trump's Intel deal - Politico",
+      "description": "The California governor hit out at the president's deal for the federal government to take a stake in the Silicon Valley icon.",
+      "url": "https://www.politico.com/news/2025/08/27/it-sickens-me-to-the-core-newsom-slams-trumps-intel-deal-00533185",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2c%2Fe4%2Fbfe765624f6380813240e80ceea0%2Fsmj6127.jpg",
       "source": "Politico",
-      "publishedAt": "2025-08-27T01:42:04Z"
+      "publishedAt": "2025-08-28T01:52:36Z"
     },
     {
-      "title": "Microsoft hosts emergency press conference after protesters ‘storm a building’ - The Verge",
-      "description": "Microsoft is “working every day” to investigate how Azure is being used in Israel, Smith said. But he said the protestors’ actions were “not ok.”",
-      "url": "https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Screenshot-2025-08-26-at-7.26.46%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.8212651564845%2C100%2C92.357469687031&w=1200",
+      "title": "The Best Labor Day Sales of 2025 We've Found So Far - IGN",
+      "description": "Top deals to shop before summer ends.",
+      "url": "https://www.ign.com/articles/labor-day-sales-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/27/labor-day-sales-1724791574574-1756327592605.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-08-27T22:34:54Z"
+    },
+    {
+      "title": "New Jersey’s massive American Dream mall sued for selling clothes on a Sunday - AP News",
+      "description": "A lawsuit claims the American Dream mall in New Jersey is violating county blue laws by allowing retail sales on Sundays. These laws, rooted in religion, prohibit the sale of nonessential items like clothing and furniture. Officials in Paramus argue that the …",
+      "url": "https://apnews.com/article/american-dream-mall-sundays-blue-laws-b3b5db26c5b1bf0a69480feb0b2730e1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/145185c/2147483647/strip/true/crop/4032x2268+0+210/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2F53%2F89cc9277d9d7fc3b5eac7d8ab1a6%2F03516b833baf4114bd36ae63f77f280e",
+      "source": "Associated Press",
+      "publishedAt": "2025-08-27T21:48:00Z"
+    },
+    {
+      "title": "Elon Musk's DOGE copied entire Social Security database to an insecure cloud system, whistleblower says - Mashable",
+      "description": "DOGE's access to the Social Security system was known — but this takes things to a whole new level of concern.",
+      "url": "https://mashable.com/article/doge-live-social-security-database-cloud-whistleblower",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/029Z08GWj7jtvIWL9pUCUaE/hero-image.fill.size_1200x675.v1756318533.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-08-27T19:10:17Z"
+    },
+    {
+      "title": "What's next for SpaceX's Starship Mars rocket after Flight 10 success? - Space",
+      "description": "SpaceX is thinking even bigger with its megarocket.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-mars-rocket-after-flight-10-success",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/k53SBUyCyw4LCotBogjVki.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-08-27T18:43:57Z"
+    },
+    {
+      "title": "Cracker Barrel Stock Jumps After Dumping New Logo. Now Comes the Hard Part. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/cracker-barrel-stock-price-logo-trump-b276f79b",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-08-27T17:40:00Z"
+    },
+    {
+      "title": "Microsoft’s employee protests have reached a boiling point - The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/notepad-microsoft-newsletter/766683/microsoft-employee-protests-boiling-point-notepad",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/image-1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-08-27T00:22:00Z"
+      "publishedAt": "2025-08-27T17:30:00Z"
     },
     {
-      "title": "ChatGPT Lawsuit Over Teen’s Suicide Could Lead to Big Tech Reckoning - Rolling Stone",
-      "description": "First wrongful death lawsuit against OpenAI alleges that ChatGPT advised a 16-year-old on how to hang himself, and may trigger more complaints.",
-      "url": "http://www.rollingstone.com/culture/culture-features/chatgpt-suicide-teen-openai-lawsuit-1235415931/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/Sam-Altman-parents-of-teen.jpg?crop=0px%2C0px%2C1798px%2C1014px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-08-27T00:16:09Z"
+      "title": "AI is already cutting jobs — but only one age group is paying the price, Stanford study finds - San Francisco Chronicle",
+      "description": "A Stanford study finds generative AI is driving a 13% drop in entry-level jobs for 22–25-year-olds in exposed fields like coding and customer service.",
+      "url": "https://www.sfchronicle.com/california/article/stanford-ai-entry-level-jobs-study-21017046.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/31/01/28414055/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2025-08-27T17:09:25Z"
     },
     {
-      "title": "First-of-its-kind Stanford study: AI is starting to have a 'significant and disproportionate impact' - Fortune",
-      "description": "Something appears to have changed in late 2022, specifically for young workers ages 22 to 25 in the jobs most exposed to AI.",
-      "url": "https://fortune.com/2025/08/26/stanford-ai-entry-level-jobs-gen-z-erik-brynjolfsson/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2155123849-e1756223041310.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-08-26T21:00:00Z"
-    },
-    {
-      "title": "Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors - WIRED",
-      "description": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
-      "url": "https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/",
-      "urlToImage": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/191:100/w_1280,c_limit/GettyImages-2229149370.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-08-26T19:31:59Z"
-    },
-    {
-      "title": "After Months of Calm, Nvidia Earnings Could Spark a Big Stock Market Move - Investopedia",
-      "description": "All eyes are on Nvidia heading into the AI chip giant's second-quarter earnings report, due after markets close on Wednesday.",
-      "url": "https://www.investopedia.com/after-months-of-calm-nvidia-earnings-could-spark-a-big-stock-market-move-11797843",
-      "urlToImage": "https://www.investopedia.com/thmb/JeFHzfZsHjJy_uBhVNlxP08cTsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2231344336-7896931d52c04abfb99345f52496e52f.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-08-26T17:38:21Z"
-    },
-    {
-      "title": "U.S. Intel - Stratechery by Ben Thompson",
-      "description": "The U.S. taking an equity stake in Intel is a terrible idea; it also happens to be the least bad idea to make Intel Foundry viable.",
-      "url": "https://stratechery.com/2025/u-s-intel/",
-      "urlToImage": "https://stratechery.com/wp-content/uploads/2020/05/tsmc-2.png",
-      "source": "Stratechery.com",
-      "publishedAt": "2025-08-26T10:01:31Z"
+      "title": "Powerball jackpot increased to $850 million for tonight’s drawing - Powerball",
+      "description": "Strong ticket sales across the country have pushed the Powerball® jackpot even higher.",
+      "url": "https://www.powerball.com/powerball-jackpot-increased-to-850-million-for-tonights-drawing",
+      "urlToImage": "https://cdn.powerball.com/v01/images/opengraph/powerball-promote-7-1200.webp",
+      "source": "Powerball.com",
+      "publishedAt": "2025-08-27T15:34:57Z"
     }
   ]
 }
