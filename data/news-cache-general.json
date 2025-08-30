@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-08-29T06:38:43.735Z",
+  "updatedAt": "2025-08-30T06:35:09.887Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Nvidia earnings recap: Stock slips despite earnings beat as China sales remain uncertain - Business Insider",
-      "description": "Nvidia released its highly anticipated Q2 earnings report — without any sales guidance for China chip sales in Q3.",
-      "url": "https://www.businessinsider.com/nvidia-nvda-stock-earnings-call-report-live-updates-2025-5",
-      "urlToImage": "https://i.insider.com/68aefa13cfc04e97619c1c12?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-08-28T04:39:00Z"
+      "title": "Newly engaged Taylor Swift, Travis Kelce spotted at Arrowhead Stadium for date night - USA Today",
+      "description": "Newly engaged Taylor Swift and Travis Kelce attend the Cincinnati Bearcats and the Nebraska Cornhuskers game in Kansas City.",
+      "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2025/08/28/taylor-swift-travis-kelce-college-football-photos/85878971007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/29/USAT/85879183007-2232612911.jpg?crop=4444,2501,x0,y191&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-08-29T03:22:30Z"
     },
     {
-      "title": "Kim Jong Un to join Putin and other leaders at China military parade - BBC",
-      "description": "The parade will mark the 80th anniversary of China's war against Japan and the end of World War Two.",
-      "url": "https://www.bbc.com/news/articles/c17njr88ge4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b1e/live/43746cd0-83b8-11f0-aaba-17deb02f57ed.jpg",
+      "title": "Jerry Jones: Cap space and Kenny Clark give us a chance to be better - NBC Sports",
+      "description": "Jerry Jones insists the Cowboys got better Thursday despite trading a generational player to a conference rival.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-cap-space-and-kenny-clark-give-us-a-chance-to-be-better",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/634a279/2147483647/strip/true/crop/7842x4411+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2F38%2F6bd2c9884ac48c7931b6ca92d239%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2188772353",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-08-29T03:15:18Z"
+    },
+    {
+      "title": "White House taps top RFK Jr. deputy as acting CDC director - The Washington Post",
+      "description": "The decision comes a day after Trump fired Susan Monarez, the Senate-confirmed CDC director, prompting a series of resignations of other top officials at the agency.",
+      "url": "https://www.washingtonpost.com/politics/2025/08/28/cdc-director-jim-oneill/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YGEIWDZEHGPHTPU6PLEIMBR5FA_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-08-29T02:41:38Z"
+    },
+    {
+      "title": "7 Stocks Flash Buy Signals After Nvidia Test; What To Do - Investor's Business Daily",
+      "description": "Affirm and Iren soared late. The Fed's favorite inflation gauge is on tap.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nvidia-fed-inflation-data/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-cliffjump-02-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-08-29T02:36:00Z"
+    },
+    {
+      "title": "Live: NC State leads East Carolina 24-17 in the fourth quarter - WRAL.com",
+      "description": "NC State led 17-0 in the first half, but needed a fourth-down stop in the final minute to preserve its 24-17 victory over East Carolina on Thursday.",
+      "url": "https://www.wral.com/sports/sports-ncstate-eastcarolina-season-opener-august-2025/",
+      "urlToImage": "https://images.wral.com/dfd16eb1-7a46-4e9e-8c10-f2f573bf4b9d?w=1200&h=630",
+      "source": "WRAL.com",
+      "publishedAt": "2025-08-29T02:15:00Z"
+    },
+    {
+      "title": "‘SNL’ Alum Punkie Johnson Reacts To Cast Exits: “WTF Is Happening” - Deadline",
+      "description": "As Lorne Michaels cleans house following the milestone 50th season of 'Saturday Night Live', one cast alum is shocked at mass exodus.",
+      "url": "http://deadline.com/2025/08/snl-punkie-johnson-reacts-cast-exits-1236500905/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/Michael-Longfellow-Punkie-Johnson-Emil-Wakim-3-shot.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-08-29T02:09:00Z"
+    },
+    {
+      "title": "Trump housing director Pulte lodges new criminal referral for Lisa Cook - CNBC",
+      "description": "President Donald Trump is seeking to fire Fed Governor Lisa Cook from the board of the central bank.",
+      "url": "https://www.cnbc.com/2025/08/29/lisa-cook-pulte-criminal-mortgage.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190713-17562102842025-08-23t141819z_1735477837_rc21dgat5no9_rtrmadp_0_usa-fed-jacksonhole.jpeg?v=1756210312&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-08-29T02:05:00Z"
+    },
+    {
+      "title": "Officers found guilty in Tyre Nicholas case will have new trial - BBC",
+      "description": "The officers had been found guilty of witness tampering in the fatal 2023 beating",
+      "url": "https://www.bbc.com/news/articles/crevryze32jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c12c/live/38d712d0-8473-11f0-99dc-6148f512718d.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-08-28T03:26:28Z"
+      "publishedAt": "2025-08-29T01:47:46Z"
     },
     {
-      "title": "Missing New Orleans boy killed in alligator attack, police say - CBS News",
-      "description": "Bryan Vasquez's disappearance prompted a massive search that included multiple agencies, volunteers, airboats and bloodhounds.",
-      "url": "https://www.cbsnews.com/news/missing-new-orleans-boy-bryan-vasquez-drowned-blunt-trauma-alligator-attack/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/28/549b3d71-5830-4408-897d-5cd3b3671351/thumbnail/1200x630/12c76997ed30773b0871c1fbcb488b59/ap25239843604030.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-08-28T02:39:00Z"
-    },
-    {
-      "title": "FDA issues narrower approvals for Covid boosters, revokes emergency authorizations - statnews.com",
-      "description": "The end of Covid vaccine emergency authorizations may limit the availability of shots for young, healthy kids.",
-      "url": "https://www.statnews.com/2025/08/27/fda-covid-vaccines-kennedy-rescinds-emergency-use-authorization/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/08/AP21132668513138-1-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2025-08-28T02:26:15Z"
-    },
-    {
-      "title": "Padilla’s options, Porter’s brushback, and Newsom’s crusade: 7 takeaways from POLITICO’s California summit - Politico",
-      "description": "Politicians, policy experts and POLITICO reporters delved into issues confronting the state.",
-      "url": "https://www.politico.com/news/2025/08/27/padillas-options-porters-brushback-and-newsoms-crusade-seven-takeaways-from-politicos-california-summit-00533187",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F72%2Fe1%2Fc92a08d84f2fbb271b469724bfd8%2Fdsc-0293.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-08-28T02:19:38Z"
-    },
-    {
-      "title": "European ministers tell U.S. they'll trigger \"snapback\" sanctions against Iran - Axios",
-      "description": "The \"snapback\" mechanism automatically reimposes all UN Security Council sanctions that were lifted under the 2015 Iran nuclear deal.",
-      "url": "https://www.axios.com/2025/08/28/iran-snapback-sanctions-european-plan",
-      "urlToImage": "https://images.axios.com/Yp1m7DHNmh8Dt-eM2zUXdv8AB_4=/0x0:7230x4067/1366x768/2025/08/28/1756347078212.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-08-28T02:18:26Z"
-    },
-    {
-      "title": "Trump extends control over Washington by taking management of Union Station away from Amtrak - WTOP",
-      "description": "Transportation Secretary Sean Duffy announced Wednesday that his department is taking management of Union Station, the main transportation hub in Washington, away from Amtrak.",
-      "url": "https://wtop.com/government/2025/08/trump-extends-control-over-washington-by-taking-management-of-union-station-away-from-amtrak-2/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2025/08/DC_Federal_Intervention_Union_Station_61097-scaled.jpg",
-      "source": "WTOP",
-      "publishedAt": "2025-08-28T02:14:21Z"
-    },
-    {
-      "title": "Gavin Newsom: 'I don't think Donald Trump wants another election' - Politico",
-      "description": "The California governor painted a bleak picture of the state of American democracy under President Trump.",
-      "url": "https://www.politico.com/news/2025/08/27/newsom-donald-trump-another-election-00532972",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa3%2F6e%2Fc0bd6df948458fb8760c6efb77f8%2Fnewsom-thumb-4.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-08-28T01:29:47Z"
-    },
-    {
-      "title": "CDC director is out after less than a month; other agency leaders resign - NPR",
-      "description": "\"Susan Monarez is no longer director of the Centers for Disease Control and Prevention,\" the Department of Health and Human Services wrote in a social media post. Her lawyers said she had neither resigned nor been told she was fired.",
-      "url": "https://www.npr.org/2025/08/27/g-s1-85911/cdc-director-susan-monarez-ousted-leaders-resign",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5555x3124+0+271/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F7a%2F9dd566e14034a11fca884f98ee92%2Fap25210741634057.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-08-28T01:10:50Z"
-    },
-    {
-      "title": "Trump’s India tariffs take effect: Which sector will be hit, what’s exempt? - Al Jazeera",
-      "description": "A 50 percent tariff on India will impact trade worth billions of dollars and risk Washington-New Delhi ties.",
-      "url": "https://www.aljazeera.com/economy/2025/8/27/trumps-india-tariffs-take-effect-which-sector-will-be-hit-whats-exempt",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/02/2025-02-13T053057Z_1341772061_RC2GTCA4QO2J_RTRMADP_3_USA-INDIA-TRUMP-POLL-1739462892.jpg?resize=1200%2C675",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-08-28T00:56:15Z"
-    },
-    {
-      "title": "Two more people dead after eating Louisiana oysters infected with flesh-eating bacteria - WBRZ",
-      "description": "Two more people dead after eating Louisiana oysters infected with flesh-eating bacteria",
-      "url": "https://www.wbrz.com/news/two-more-people-dead-after-eating-louisiana-oysters-infected-with-flesh-eating-bacteria/",
-      "urlToImage": "https://dcer237tfveol.cloudfront.net/v2/I4SpW2C7MA-2PtZU8FfyFwqRA6OGLD3BPohsRXaxN6bvBcWDbU8kI9-f0bvWAc2wrZlduhFfMLs02-SFPnLvZ9BjHBqxMbGr6o0J4ZDPsJgg",
-      "source": "WBRZ",
-      "publishedAt": "2025-08-28T00:33:40Z"
-    },
-    {
-      "title": "Dispatcher shakes it off after announcing Taylor Swift and Travis Kelce's engagement over scanner - AP News",
-      "description": "A day after Taylor Swift and Travis Kelce announced their engagement, some wild details are emerging about how folks spread the news. A dispatcher in Michigan accidentally announced it over the police scanner. One major business broke the news over email, lig…",
-      "url": "https://apnews.com/article/taylor-swift-travis-kelce-engagement-b2be7df84d522b6db20999b3b4820fd2",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fc2e309/2147483647/strip/true/crop/2039x1147+0+106/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2F5c%2Fd84acfc56b109d3cf6a62a586798%2F87d9dc2a13e84c0d86b26b6675c77b08",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-28T00:31:00Z"
-    },
-    {
-      "title": "After a Flurry of Roster Moves, an Updated Position-by-Position Look at the Titans 53-Man Roster - Tennessee Titans",
-      "description": "The Titans have made a boatload of moves in the past 24-48 hours, from roster cuts to waiver claims to practice squad additions.",
-      "url": "https://www.tennesseetitans.com/news/after-a-flurry-of-roster-moves-an-updated-position-by-position-look-at-the-titans-53-man-roster",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/titans/u0zdggvprsm7foxtvjci",
-      "source": "Tennesseetitans.com",
-      "publishedAt": "2025-08-27T23:48:45Z"
-    },
-    {
-      "title": "'Stratus' COVID-19 strain surges in Bay Area as vaccine rollout sows confusion - SFGATE",
-      "description": "Stanford research says the new COVID-19 strain is driving most infections in the Bay Area as disease levels remain high at the start of the school year.",
-      "url": "https://www.sfgate.com/bayarea/article/stratus-covid-strain-bay-area-vaccine-rollout-21018600.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/31/23/28415222/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-08-27T23:48:45Z"
-    },
-    {
-      "title": "Special election win spurs excitement among Iowa Democrats, but Republicans in the state are confident - NBC News",
-      "description": "Iowa Democrats haven't had much to cheer in recent years.",
-      "url": "https://www.nbcnews.com/politics/elections/special-election-win-spurs-excitement-iowa-democrats-republicans-are-c-rcna227519",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250827-Iowa-State-Capitol-ch-1109-a01e73.jpg",
+      "title": "Two dead after getting flesh-eating bacteria from eating raw oysters - NBC News",
+      "description": "Two people are dead after they contracted a flesh-eating bacterium eating raw oysters in Louisiana, a state health official said",
+      "url": "https://www.nbcnews.com/news/us-news/flesh-eating-bacteria-raw-oysters-rcna227900",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-oysters-ch-2123-29fa51.jpg",
       "source": "NBC News",
-      "publishedAt": "2025-08-27T23:18:38Z"
+      "publishedAt": "2025-08-29T01:31:00Z"
     },
     {
-      "title": "Samsung is Unpacking again in early September - The Verge",
-      "description": "Buckle up for Techtember.",
-      "url": "https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/samsung_unpacked_sep2025.jpg?quality=90&strip=all&crop=0,10.684144721419,100,78.631710557162",
-      "source": "The Verge",
-      "publishedAt": "2025-08-27T23:00:00Z"
+      "title": "Kyle Schwarber posts 21st 4-homer game in MLB history as MVP campaign continues - Yahoo Sports",
+      "description": "Schwarber joins Eugenio Suarez and Nick Kurtz in accomplishing the feat in 2025, marking the first time MLB has ever seen three four-homer games in one...",
+      "url": "https://sports.yahoo.com/mlb/breaking-news/article/kyle-schwarber-posts-21st-4-homer-game-in-mlb-history-as-mvp-campaign-continues-011146343.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7HyqvJfi6Q6fAXxFXo3FqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c1cf6540-8475-11f0-b7ce-be77d15ef46d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-08-29T01:19:00Z"
     },
     {
-      "title": "Bayrou: France’s survival is at stake - politico.eu",
-      "description": "The French government appears likely to fall next month over the prime minister’s spending plans.",
-      "url": "https://www.politico.eu/article/france-francois-bayrou-government-collapse-budget-spending/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/08/27/GettyImages-2231668108-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-08-27T22:03:00Z"
-    },
-    {
-      "title": "KSL.com Sports' College Football Pick'em Week 1 preview - KSL.com",
-      "description": "The college football season officially begins this week, and there's a handful of great games in the first week of action.",
-      "url": "https://www.ksl.com/article/51366639/kslcom-sports-college-football-pickem-week-1-preview",
-      "urlToImage": "https://img.ksl.com/slc/3036/303610/30361002.jpg?filter=kslv2/responsive_story_lg",
-      "source": "KSL.com",
-      "publishedAt": "2025-08-27T21:04:12Z"
-    },
-    {
-      "title": "What we know about Minnesota school shooting suspect Robin Westman - ABC News",
+      "title": "Dana White Announces Title Fights For UFC 321 And UFC 322 - UFC.com",
       "description": null,
-      "url": "https://abcnews.go.com/US/minnesota-school-shooting-suspect-robin-westman/story?id\\\\u003d125029777",
+      "url": "https://www.ufc.com/news/dana-white-announces-title-fights-ufc-321-and-ufc-322",
+      "urlToImage": "https://ufc.com/images/styles/card/s3/2025-08/082725-hero-jack-della-maddalena-islam-makhachev_0.jpg?itok=7miXF_jj",
+      "source": "The Official Website of the Ultimate Fighting Championship",
+      "publishedAt": "2025-08-29T01:00:01Z"
+    },
+    {
+      "title": "Kilmar Abrego Garcia asks for gag order against Bondi, Noem - Politico",
+      "description": "It is the third time defense attorneys have complained that public statements from government officials are threatening Abrego’s right to a fair trial.",
+      "url": "https://www.politico.com/news/2025/08/28/kilmar-abrego-garcia-gag-order-bondi-noem-00535240",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F77%2Fad%2Fb8f009754aa090f4357389826bc1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2231303351",
+      "source": "Politico",
+      "publishedAt": "2025-08-29T00:56:30Z"
+    },
+    {
+      "title": "Border Patrol agents arrest fire crew members at Washington wildfire - NBC News",
+      "description": "Immigration agents arrested two Mexican contractors helping to tackle a wildfire in Olympic National Forest in Washington, a supervisor who oversees the crews said Thursday",
+      "url": "https://www.nbcnews.com/news/us-news/federal-agents-arrest-fire-crew-members-washington-wildfire-rcna227797",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250828-david-diaz-ch-1825-4e304b.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-08-29T00:01:00Z"
+    },
+    {
+      "title": "Microsoft fires two more employees for participating in Palestine protests on campus - The Verge",
+      "description": "Two other employees were fired last night in connection the protest inside the office of Microsoft president Brad Smith.",
+      "url": "https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Sign.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-08-28T22:51:24Z"
+    },
+    {
+      "title": "Adam Sandler and George Clooney Make Venice Swoon With 8.5-Minute Standing Ovation for Hollywood Bromance ‘Jay Kelly’ - Variety",
+      "description": "\"Jay Kelly,\" a comedic drama starring George Clooney and Adam Sandler, premiered at the Venice Film Festival on Thursday.",
+      "url": "https://variety.com/2025/film/festivals/george-clooney-adam-sandler-jay-kelly-premiere-venice-1236491961/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/08/george-adam.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-08-28T22:47:00Z"
+    },
+    {
+      "title": "Donald Trump hits small packages with fresh tariffs as duty-free exemption ends - Financial Times",
+      "description": "New levies on parcels worth less than $800 mark latest salvo in US president’s trade wars",
+      "url": "https://www.ft.com/content/43ae5c68-2f6b-4a6c-ba8e-3575a9fe685b",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d56005c-ccc7-416f-acf3-f59b90166294.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-08-28T22:00:50Z"
+    },
+    {
+      "title": "Father of one of the children killed in Annunciation Catholic school shooting speaks out - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/US/minneapolis-school-shooting-victims/story?id\\\\u003d125056096",
       "urlToImage": null,
       "source": "ABC News",
-      "publishedAt": "2025-08-27T21:00:00Z"
+      "publishedAt": "2025-08-28T21:33:44Z"
+    },
+    {
+      "title": "Trump preparing major immigration enforcement operations in Chicago next week similar to LA, DHS sources say - CBS News",
+      "description": "The Trump administration is preparing to launch major immigration enforcement operations in Chicago next week employing tactics that sparked protests in Los Angeles, sources tell CBS News.",
+      "url": "https://www.cbsnews.com/chicago/news/trump-immigration-enforcement-chicago-next-week/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/09/e0c1cbe3-27ec-4e9f-8f89-07d1247c15e8/thumbnail/1200x630/5a56cd0dd35c48f122795c5c22be865a/gettyimages-2223407979.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-08-28T21:16:00Z"
     }
   ]
 }

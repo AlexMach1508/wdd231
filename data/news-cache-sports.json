@@ -1,167 +1,111 @@
 {
-  "updatedAt": "2025-08-29T06:38:44.058Z",
+  "updatedAt": "2025-08-30T06:35:10.071Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Grading Biggest NFL Trades, Claims and Moves After 2025 Roster Cuts - Bleacher Report",
-      "description": "The NFL's annual cut-down to 53 players came and went on Tuesday afternoon. While the event brought no shortage of reactions, it's important to remember that initial regular-season rosters are anything but final.",
-      "url": "https://bleacherreport.com/articles/25242163-grading-biggest-nfl-trades-claims-and-moves-after-2025-roster-cuts",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/65cfe94257c4423aad9d880478292791/PACKERS_LIONS_54645_3651x2054_(0,226).jpg?w=3800&h=2000",
-      "source": "Bleacher Report",
-      "publishedAt": "2025-08-28T03:56:15Z"
+      "title": "Jerry Jones: Cap space and Kenny Clark give us a chance to be better - NBC Sports",
+      "description": "Jerry Jones insists the Cowboys got better Thursday despite trading a generational player to a conference rival.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-cap-space-and-kenny-clark-give-us-a-chance-to-be-better",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/634a279/2147483647/strip/true/crop/7842x4411+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2F38%2F6bd2c9884ac48c7931b6ca92d239%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2188772353",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-08-29T03:15:18Z"
     },
     {
-      "title": "Jelena Ostapenko says ‘disrespectful’ Taylor Townsend broke ‘rules of tennis’ before US Open dustup - New York Post",
-      "description": "Jeļena Ostapenko gave her side of the story.",
-      "url": "https://nypost.com/2025/08/27/sports/jelena-ostapenko-calls-out-disrespectful-taylor-townsend-at-us-open/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-e5whihgg8-1756351248201.jpg?quality=75&strip=all&1756336858&w=1024",
+      "title": "YouTube-Fox strike a deal - NBC Sports",
+      "description": "A day after YouTube and Fox reached a \"short-term extension\" to allow Fox networks to continue to stream to the customers of the YouTube TV service, the two sides have a longer-term deal.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-fox-strike-a-deal",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4b76b40/2147483647/strip/true/crop/6240x3510+0+325/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2Fcb%2F0ac251a84bf5a1aecce28eafd07d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2189642775",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-08-29T02:17:47Z"
+    },
+    {
+      "title": "Live: NC State leads East Carolina 24-17 in the fourth quarter - WRAL.com",
+      "description": "NC State led 17-0 in the first half, but needed a fourth-down stop in the final minute to preserve its 24-17 victory over East Carolina on Thursday.",
+      "url": "https://www.wral.com/sports/sports-ncstate-eastcarolina-season-opener-august-2025/",
+      "urlToImage": "https://images.wral.com/dfd16eb1-7a46-4e9e-8c10-f2f573bf4b9d?w=1200&h=630",
+      "source": "WRAL.com",
+      "publishedAt": "2025-08-29T02:15:00Z"
+    },
+    {
+      "title": "Kyle Schwarber posts 21st 4-homer game in MLB history as MVP campaign continues - Yahoo Sports",
+      "description": "Schwarber joins Eugenio Suarez and Nick Kurtz in accomplishing the feat in 2025, marking the first time MLB has ever seen three four-homer games in one...",
+      "url": "https://sports.yahoo.com/mlb/breaking-news/article/kyle-schwarber-posts-21st-4-homer-game-in-mlb-history-as-mvp-campaign-continues-011146343.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7HyqvJfi6Q6fAXxFXo3FqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c1cf6540-8475-11f0-b7ce-be77d15ef46d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-08-29T01:19:00Z"
+    },
+    {
+      "title": "Dana White Announces Title Fights For UFC 321 And UFC 322 - UFC.com",
+      "description": null,
+      "url": "https://www.ufc.com/news/dana-white-announces-title-fights-ufc-321-and-ufc-322",
+      "urlToImage": "https://ufc.com/images/styles/card/s3/2025-08/082725-hero-jack-della-maddalena-islam-makhachev_0.jpg?itok=7miXF_jj",
+      "source": "The Official Website of the Ultimate Fighting Championship",
+      "publishedAt": "2025-08-29T01:00:01Z"
+    },
+    {
+      "title": "Transfer Rumors: Man Utd Eye Amorim Replacement; Vinicius Jr to Leave Real Madrid for Free - Sports Illustrated",
+      "description": "Rodrygo, Morgan Rogers, Ben White, Nick Woltemade, Fermín López and more in today’s gossip.",
+      "url": "https://www.si.com/soccer/transfer-rumors-man-utd-eye-amorim-replacement-vinicius-jr-to-leave-real-madrid-for-free",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01k3rs49hhmbxcfrxvt0.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-08-28T23:05:00Z"
+    },
+    {
+      "title": "Buffalo Bills shakeup practice squad roster early in 2025 NFL season - Buffalo Rumblings",
+      "description": "Two players enter; one player leaves",
+      "url": "https://www.buffalorumblings.com/buffalo-bills-news/114546/buffalo-bills-shakeup-practice-squad-roster",
+      "urlToImage": "https://platform.buffalorumblings.com/wp-content/uploads/sites/51/2025/08/gettyimages-2230332642.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "Buffalo Rumblings",
+      "publishedAt": "2025-08-28T22:28:29Z"
+    },
+    {
+      "title": "Seven takeaways from general manager Dan Morgan - Panthers.com",
+      "description": "The GM spoke Thursday about the state of the roster, the decision to trade Adam Thielen, and more on the eve of the season.",
+      "url": "https://www.panthers.com/news/seven-takeaways-from-general-manager-dan-morgan-adam-thielen-hunter-renfrow-bryce-young",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/panthers/fhnusiem4efg3zlzqyyn",
+      "source": "Panthers.com",
+      "publishedAt": "2025-08-28T20:37:30Z"
+    },
+    {
+      "title": "Champions League draw results: Winners and losers as Arsenal and Spurs got it good; Real Madrid can't be happy - CBS Sports",
+      "description": "Los Blancos are going to have to fly 5,000 miles to face Kairat Almaty, and that doesn't sound like a fun in-season trip",
+      "url": "https://www.cbssports.com/soccer/news/champions-league-draw-results-winners-and-losers-as-arsenal-and-spurs-got-it-good-real-madrid-cant-be-happy/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/28/843de3bd-185f-4c4b-aa7c-b50ddfa774df/thumbnail/1200x675/36d55226a19c2bcc34814b0d8635e5d3/ucl-3.jpg",
+      "source": "CBS Sports",
+      "publishedAt": "2025-08-28T19:06:00Z"
+    },
+    {
+      "title": "A timeline of the last 18 months of Micah Parsons' contract situation with the Cowboys - Dallas Cowboys",
+      "description": "With one week until the Cowboys' kickoff the 2025 season, Micah Parsons remains without a contract extension. Here's a timeline of the last 18 months of what's occurred between the Cowboys and Parsons.",
+      "url": "https://www.dallascowboys.com/news/a-timeline-of-the-last-18-months-of-micah-parsons-contract-situation-with-the-cowboys",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/cowboys/clnctv9duap865qrlukw",
+      "source": "DallasCowboys.com",
+      "publishedAt": "2025-08-28T18:18:13Z"
+    },
+    {
+      "title": "College football Week 1 predictions: Texas vs. Ohio State, more picks against the spread - New York Post",
+      "description": "Howie Kussoy, also known as the Pigskin Profit, is taking the underdog in Texas-Ohio State on Saturday.",
+      "url": "https://nypost.com/2025/08/28/betting/college-football-week-1-predictions-texas-vs-ohio-state-more-picks-against-the-spread/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/texas-quarterback-arch-manning-looks-110154689.jpg?quality=75&strip=all&w=1024",
       "source": "New York Post",
-      "publishedAt": "2025-08-28T03:41:00Z"
+      "publishedAt": "2025-08-28T15:16:00Z"
     },
     {
-      "title": "MLB Gameday: Reds 1, Dodgers 5 Final Score (08/27/2025) - MLB.com",
-      "description": "Follow MLB results with FREE box scores, pitch-by-pitch strikezone info, and Statcast data for Reds vs. Dodgers at Dodger Stadium",
-      "url": "https://www.mlb.com/gameday/reds-vs-dodgers/2025/08/27/776562/live",
-      "urlToImage": "https://midfield.mlbstatic.com/v1/teams-matchup/113-119/ar_16:9/w_1440",
-      "source": "MLB.com",
-      "publishedAt": "2025-08-28T02:14:13Z"
+      "title": "Why the absence of a common act of tennis sportsmanship led to heated on-court argument at the US Open - CNN",
+      "description": "The post-match exchange between Taylor Townsend and Jelena Ostapenko on Wednesday at the US Open was a terse encounter but probably left many wondering what the big deal was that caused all the tension.",
+      "url": "https://www.cnn.com/2025/08/28/sport/tennis-us-open-ostapenko-townsend-explainer-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232430282.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-08-28T15:02:00Z"
     },
     {
-      "title": "YouTube-Fox reach \"short-term extension\" of carriage deal - NBC Sports",
-      "description": "No duration was disclosed.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-fox-reach-short-term-extension-of-carriage-deal",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f0ddd61/2147483647/strip/true/crop/636x358+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F7a%2F60a844f741021663d72d07221935%2Fgettyimages-1245726354-e1671584725287.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-08-28T02:03:45Z"
-    },
-    {
-      "title": "Minnesota Wild Announces 2025-26 National Broadcast Schedule - NHL.com",
-      "description": "SAINT PAUL, Minn. – The National Hockey League’s (NHL) Minnesota Wild announced today that 16 games will be nationally televised during the 2025-26 NHL season. Minnesota’s national broadcast schedule features three games on ESPN, six contests on ESPN+/Hulu an…",
-      "url": "https://www.nhl.com/wild/news/minnesota-wild-announces-2025-26-national-broadcast-schedule-082725",
-      "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/d5ll9xjdsimxbajnw8t5.jpg",
-      "source": "NHL News",
-      "publishedAt": "2025-08-28T00:46:37Z"
-    },
-    {
-      "title": "Report: Micah Parsons sought a second opinion on his back tightness - NBC Sports",
-      "description": "The Cowboys announced this week the edge rusher's MRI came back \"pretty clean.\"",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-micah-parsons-sought-a-second-opinion-on-his-back-tightness",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/134fec4/2147483647/strip/true/crop/5296x2979+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2Fff%2F2573f5db46ba8b6433ed90379737%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26908003",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-08-28T00:22:34Z"
-    },
-    {
-      "title": "After a Flurry of Roster Moves, an Updated Position-by-Position Look at the Titans 53-Man Roster - Tennessee Titans",
-      "description": "The Titans have made a boatload of moves in the past 24-48 hours, from roster cuts to waiver claims to practice squad additions.",
-      "url": "https://www.tennesseetitans.com/news/after-a-flurry-of-roster-moves-an-updated-position-by-position-look-at-the-titans-53-man-roster",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/titans/u0zdggvprsm7foxtvjci",
-      "source": "Tennesseetitans.com",
-      "publishedAt": "2025-08-27T23:48:45Z"
-    },
-    {
-      "title": "Titans Announce Seven Captains for 2025 Season - Tennessee Titans",
-      "description": "The team’s seven captains for the upcoming season: QB Cam Ward, WR Calvin Ridley, RB Tony Pollard, DT Jeffery Simmons, S Amani Hooker, LB Cody Barton, LS Morgan Cox.",
-      "url": "https://www.tennesseetitans.com/news/titans-announce-seven-captains-for-2025-season",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/titans/yfvpdypaswxmi8jdsbbu",
-      "source": "Tennesseetitans.com",
-      "publishedAt": "2025-08-27T23:48:45Z"
-    },
-    {
-      "title": "Broncos sign 16 players to practice squad - Denver Broncos",
-      "description": "A day after setting their initial 53-man roster, the Broncos have officially assembled their practice squad.",
-      "url": "https://www.denverbroncos.com/news/broncos-sign-16-players-to-practice-squad",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/broncos/hpxeo0riwehh22lhgj4u",
-      "source": "DenverBroncos.com",
-      "publishedAt": "2025-08-27T23:32:05Z"
-    },
-    {
-      "title": "Terry McLaurin on concerns about receivers over 30: There are outliers - NBC Sports",
-      "description": "During wide receiver Terry McLaurin's extended push for a new contract this offseason, one of the reasons cited for the Commanders' possible reluctance to a long-term commitment was his age.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-on-concerns-about-receivers-over-30-there-are-outliers",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0f4d86e/2147483647/strip/true/crop/3744x2106+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fe5%2F55a9d78c46baacaf71326bd2d98d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2194088880",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-08-27T22:55:53Z"
-    },
-    {
-      "title": "Panthers get back on the grass to begin life without Adam Thielen - Panthers.com",
-      "description": "After an early morning trade, Adam Thielen took a few minutes to say goodbye to teammates, and then the Panthers began to figure out what life looks like without their top receiver.",
-      "url": "https://www.panthers.com/news/panthers-get-back-on-the-grass-to-begin-life-without-adam-thielen",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/panthers/v3c9jbaesdapvqrfmaj7",
-      "source": "Panthers.com",
-      "publishedAt": "2025-08-27T22:38:20Z"
-    },
-    {
-      "title": "Former NFL quarterback Jay Cutler sentenced to 4 days in jail for DUI - AP News",
-      "description": "Former NFL quarterback Jay Cutler will spend four days in jail after pleading guilty to driving under the influence. That's according to a report by WSMV-TV in Nashville, Tennessee. Cutler was arrested in October after he rear-ended another vehicle with his p…",
-      "url": "https://apnews.com/article/jay-cutler-drunk-driving-jail-e6dce9b4e4fbe9e4ced23eb736d06c98",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c6a4307/2147483647/strip/true/crop/4628x2603+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F39%2F167db5ae52bb115743d31f69e232%2F992c1e60146a4ed1a929095d0d1fbeb4",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-27T21:51:00Z"
-    },
-    {
-      "title": "Four takeaways from Dave Canales: Hunter Renfrow still in talks, plus more - Panthers.com",
-      "description": "The veteran wideout is talking to his family and agent to determine next steps after his release on Tuesday. Plus more from the Panthers head coach on injuries and other moves.",
-      "url": "https://www.panthers.com/news/four-takeaways-from-dave-canales-hunter-renfrow-still-in-talks-plus-more-nic-scourton-hendon-hooker",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/panthers/twc2er8h77fcgnvd2wug",
-      "source": "Panthers.com",
-      "publishedAt": "2025-08-27T21:33:45Z"
-    },
-    {
-      "title": "Cup Series drivers see 2025 playoffs as a wide-open affair - NASCAR.com",
-      "description": "With the 2025 NASCAR Cup Series Playoffs beginning Sunday at Darlington (6 p.m. ET, USA), drivers view this year's postseason as wide open.",
-      "url": "https://www.nascar.com/news-media/2025/08/27/cup-series-drivers-see-2025-playoffs-as-a-wide-open-affair/",
-      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2025/08/27/GettyImages-2232394052-672x372.jpg",
-      "source": "NASCAR",
-      "publishedAt": "2025-08-27T21:27:34Z"
-    },
-    {
-      "title": "5 Takeaways: Updates on Najee Harris, Junior Colson & New Chargers Long Snapper - Los Angeles Chargers",
-      "description": "Chargers Head Coach Jim Harbaugh said that Najee Harris will return to practice on Wednesday",
-      "url": "https://www.chargers.com/news/najee-harris-eye-injury-week-1-2025",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/chargers/jffwdxmdg8cxsqzwqwxy",
-      "source": "Chargers.com",
-      "publishedAt": "2025-08-27T21:07:43Z"
-    },
-    {
-      "title": "KSL.com Sports' College Football Pick'em Week 1 preview - KSL.com",
-      "description": "The college football season officially begins this week, and there's a handful of great games in the first week of action.",
-      "url": "https://www.ksl.com/article/51366639/kslcom-sports-college-football-pickem-week-1-preview",
-      "urlToImage": "https://img.ksl.com/slc/3036/303610/30361002.jpg?filter=kslv2/responsive_story_lg",
-      "source": "KSL.com",
-      "publishedAt": "2025-08-27T21:04:12Z"
-    },
-    {
-      "title": "And then there were 4 again: Browns sign a veteran quarterback to the practice squad - Cleveland.com",
-      "description": "The Browns have signed a veteran quarterback to the practice squad.",
-      "url": "https://www.cleveland.com/browns/2025/08/and-then-there-were-4-again-browns-sign-a-veteran-quarterback-to-the-practice-squad.html",
-      "urlToImage": "https://www.cleveland.com/resizer/v2/PIDXPVWU5RAUVBYFE7SAQ7PGTU.JPG?auth=753d37f6e7ee45e6360d31f4e5a7dee50a436325b10ac9beabe070aea89f5a7f&width=1280&quality=90",
-      "source": "cleveland.com",
-      "publishedAt": "2025-08-27T20:38:00Z"
-    },
-    {
-      "title": "Where the Raiders roster comes from - Raiders.com",
-      "description": "The Raiders' initial 53-man roster features players from 24 states as well as Washington, D.C.",
-      "url": "https://www.raiders.com/news/where-the-raiders-53-man-roster-comes-from-nfl-texas-georgia-california",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/raiders/znwytk2jua6l9p4naia9",
-      "source": "Raiders.com",
-      "publishedAt": "2025-08-27T20:29:23Z"
-    },
-    {
-      "title": "Patriots Claim QB Tommy DeVito and CB Charles Woods; Release WR Javon Baker and WR Kendrick Bourne; Sign 16 Players to the Practice Squad - New England Patriots",
-      "description": "The Patriots announced today that they have released WR Javon Baker and WR Kendrick Bourne. The Patriots also claimed and were awarded QB Tommy DeVito from the New York Giants and CB Charles Woods from the Los Angeles Rams. In addition, the Patriots annou",
-      "url": "https://www.patriots.com/news/patriots-claim-qb-tommy-devito-and-cb-charles-woods-release-wr-javon-baker-and-wr-kendrick-bourne-sign-16-players-to-the-practice-squad",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/s5zvkgopsbnewtlfogy1",
-      "source": "Patriots.com",
-      "publishedAt": "2025-08-27T20:10:08Z"
-    },
-    {
-      "title": "Chiefs receiver Rashee Rice is suspended 6 games by NFL, beginning with opener next week in Brazil - AP News",
-      "description": "Kansas City Chiefs wide receiver Rashee Rice has been suspended for six games for violating the NFL’s personal conduct policy. The suspension follows his guilty plea to two third-degree felony charges related to a March 2024 crash in Dallas. The NFL’s decisio…",
-      "url": "https://apnews.com/article/kansas-city-chiefs-rashee-rice-suspended-db7c2a8f3521f044eae93709290564c8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ebfd3c9/2147483647/strip/true/crop/4618x2598+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F94%2Fb46df2ad138aa9f3861589c70be9%2F65d0cc2bfd574a1c8258d51e8c619599",
-      "source": "Associated Press",
-      "publishedAt": "2025-08-27T19:58:00Z"
+      "title": "Los Angeles Rams unveil new \"Midnight Mode\" uniform as part of NFL & Nike's rivalries program, connecting athletes & fans like never before - Rams",
+      "description": "Bold new look inspired by SoFi Stadium design will be available for purchase September 10 on RamsFanShop.com and The Equipment Room at SoFi Stadium. Rams to Wear Special Uniforms on Sunday, November 16 vs. Seattle Seahawks",
+      "url": "https://www.therams.com/news/rams-unveil-new-midnight-mode-uniform-as-part-of-nfl-nike-s-rivalries-program-connecting-athletes-fans-like-never-before",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/rams/xikrguowalzkiipbcj8v",
+      "source": "therams.com",
+      "publishedAt": "2025-08-28T14:04:50Z"
     }
   ]
 }
