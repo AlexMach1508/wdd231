@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2025-09-03T06:37:08.679Z",
+  "updatedAt": "2025-09-04T06:37:58.196Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Asian Stocks Seen Tepid, Japan to Auction Bonds: Markets Wrap - Bloomberg.com",
-      "description": "Stocks traded in a tight range as investors awaited Wall Street’s reopening after the long weekend for direction in what is historically the weakest month for US equities.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-01/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1cv81p.TeLI/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-02T04:13:00Z"
+      "title": "Futures Mixed; Google Soars On Antitrust Ruling - Investor's Business Daily",
+      "description": "Nvidia broke a key level Tuesday, but gold and biotechs stood out.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-apple-antitrust-ruling/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/08/Stock-Google-pie-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-09-03T03:13:00Z"
     },
     {
-      "title": "Powerball jackpot reaches $1.3 billion after Labor Day drawing sees no winner - ABC News",
+      "title": "Powerball jackpot data shows where winners could take home the most, and least - CBS News",
+      "description": "Monday's Powerball jackpot drawing came up empty. Here's a look at some numbers behind the game.",
+      "url": "https://www.cbsnews.com/news/powerball-jackpot-data/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/25/826045a0-0168-4574-b2f1-6d950900dec6/thumbnail/1200x630/8e3de0edb689b4da1e02427224f1a21b/cbsn-fusion-powerball-jackpot-climbs-to-750-million-10th-largest-in-history-thumbnail.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-02T22:24:22Z"
+    },
+    {
+      "title": "Trump Family’s WLFI Token Debuts 5 To 15 Times Above Early Sale Prices Despite Drop - Forbes",
+      "description": "Hours after its debut, World Liberty Financial proposed using trading fees to buy back and burn WLFI tokens, permanently shrinking supply.",
+      "url": "https://www.forbes.com/sites/zacheverson/2025/09/02/trump-crypto-token-wlfi-world-liberty-financial/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b746a8fa7ec20cbee7054f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-09-02T21:04:13Z"
+    },
+    {
+      "title": "S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers - Investopedia",
+      "description": "The S&P 500 fell 0.7% on Tuesday, Sept. 2, 2025, with stocks coming under pressure to start the abbreviated trading week as investors looked toward Friday's key jobs report.",
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-kraft-heinz-nvidia-fall-ulta-beauty-stock-recovers-11802164",
+      "urlToImage": "https://www.investopedia.com/thmb/--Dh0gdEddnQVIkHrpECgRAJHEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2232795335-5be33a9ce32040e38e679c8d31bcdd10.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-09-02T20:59:54Z"
+    },
+    {
+      "title": "Disney to Pay $10 Million for Collecting Children’s Data on YouTube - Variety",
+      "description": "Disney has agreed to a $10 million civil penalty for failing to designate videos from 'Coco,' 'The Incredibles' and 'Frozen' as 'made for kids.'",
+      "url": "https://variety.com/2025/digital/news/disney-pay-10-million-collecting-children-data-1236505102/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2015/12/coco_new_pixar_photo.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-02T20:33:00Z"
+    },
+    {
+      "title": "Amazon Ends Shared Prime Shipping Program for People Who Don't Live Together - CNET",
+      "description": "The company is ending the Prime Invitee program as part of a push for more subscription signups.",
+      "url": "https://www.cnet.com/tech/services-and-software/amazon-ends-shared-prime-shipping-program-for-people-who-dont-live-together/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/6aea1310938b361bc84ee3a5449c3edb91d440c5/hub/2025/09/02/734233cd-76ba-4d55-989c-025a5906cb07/gettyimages-2213559465.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-02T20:27:00Z"
+    },
+    {
+      "title": "Stocks Kick Off September on a Down Note Amid Rise in Bond Yields - The Wall Street Journal",
       "description": null,
-      "url": "https://abcnews.go.com/US/powerball-jackpot-reaches-11-billion-labor-day-drawing/story?id\\\\u003d125155756",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWk1zelVvcjdFUy0wMkJGb1lucEdKeW11ZHY5aDFsWjkyYnFEYnNHeXdTclRJa0NFbW9YTHg4emVRWE1Yd0VHQWtEWjU4dDVHSnU4d05lc2t4X2JDV3ZRNXhVVW1pZWVXazNkSjQ5YTRwQjJva29uUUViNTh6elAyVElPMDdaVGNUSnAzVE9iWTEwUQ?oc=5",
       "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-02T03:15:59Z"
+      "source": "Google News",
+      "publishedAt": "2025-09-02T20:24:00Z"
     },
     {
-      "title": "The best Labor Day sales our editors found at Amazon, Walmart and more — save up to 80% - yahoo.com",
-      "description": "Our team of deal-hunting pros found everything from AirPods at a near record-low price to the new Bissell Little Green Mini on rare markdown.",
-      "url": "https://www.yahoo.com/lifestyle/deals/live/the-best-labor-day-sales-our-editors-found-at-amazon-walmart-and-more--save-up-to-80-115929515.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/S36LOCNUfaPy27g9c7r4_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/8dba44b0-835c-11f0-bfd7-105b09990dac",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-02T02:01:00Z"
+      "title": "Treasury Yields Rise With 30-Year Near 5% Amid Global Bond Slump - Bloomberg.com",
+      "description": "US Treasuries sold off, following a slump in long-dated European bonds, with the 30-year yield climbing back toward 5% at the start of a month historically tough for long bonds.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-02/treasury-yields-rise-with-30-year-near-5-amid-global-bond-slump",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3mM9jJzXKWE/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-02T20:21:49Z"
     },
     {
-      "title": "Chinese renminbi strongest against dollar since Trump’s election win - Financial Times",
-      "description": "Rally comes after years of weakening and is seen as signal that Beijing will allow gradual appreciation",
-      "url": "https://www.ft.com/content/39250aa4-8e7b-4c8a-ac34-6de8353542f0",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F071e2f3f-b5ad-4811-b2c5-3e2130d82051.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-01T23:00:50Z"
+      "title": "Airplane leasing world shrinks with $7.4 billion takeover of Air Lease - CNBC",
+      "description": "A group of investors led by Sumitomo and SMBC Aviation Capital are taking Air Lease, founded by aviation mogul Steven Udvar-Házy, private for $7.4 billion.",
+      "url": "https://www.cnbc.com/2025/09/02/airplane-leasing-air-lease-takeover.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107108008-1661268780278-2015-09-14T120000Z_377904450_GF10000205020_RTRMADP_3_AIRBUS-GROUP-FACTORY-A321.jpg?v=1674540266&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-02T19:20:19Z"
     },
     {
-      "title": "Nvidia Says Two Buyers Drove 39% of Q2 Sales - PYMNTS.com",
-      "description": "Just two customers drove 39% of chipmaker Nvidia’s second-quarter revenue, TechCrunch reported Saturday (Aug. 30), citing a securities filing. The filing",
-      "url": "http://www.pymnts.com/news/artificial-intelligence/2025/nvidia-says-two-buyers-drove-39percent-q2-sales/",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/12/Nvidia.jpg",
-      "source": "pymnts.com",
-      "publishedAt": "2025-09-01T22:40:52Z"
-    },
-    {
-      "title": "Southwest Airlines’ new planes fly with barrier to protect the cockpit when the door is opened mid-flight - CNN",
-      "description": "Southwest Airlines’ newest jets are now flying with a barrier that can protect the cockpit when pilots need to open the door during flight, according to the airline.",
-      "url": "https://www.cnn.com/2025/09/01/travel/secondary-cockpit-barriers-takeoff",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21914086-25452-still.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-01T20:56:00Z"
-    },
-    {
-      "title": "Bitcoin, Ethereum and XRP Hold Steady as 'Red September' Kicks Off - Decrypt",
-      "description": "The crypto market is trading sideways today as traders appear to be positioning for what is historically the worst month of the year for Bitcoin.",
-      "url": "https://decrypt.co/337582/bitcoin-ethereum-xrp-price-red-september-analysis",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png",
-      "source": "Decrypt",
-      "publishedAt": "2025-09-01T19:04:00Z"
-    },
-    {
-      "title": "Bessent: Everything on table for housing affordability fixes - Axios",
-      "description": "\"We're trying to figure out what we can do, and we don't want to step into the business of states, counties, and municipal governments,\" he said.",
-      "url": "https://www.axios.com/2025/09/01/trump-tariff-exclusions-construction-housing-affordability",
-      "urlToImage": "https://images.axios.com/zYvvkbtzFTOeyxE39jg5OxivP-g=/0x370:5154x3270/1366x768/2025/09/01/1756747562258.jpg",
+      "title": "Anthropic now valued at $183 billion as AI race heats up - Axios",
+      "description": "It's worth 3x its valuation just five months ago.",
+      "url": "https://www.axios.com/2025/09/02/anthropic-183-billion-iconiq",
+      "urlToImage": "https://images.axios.com/Ft7hdDAdvcg3NLPHMZ6i-9OBR3A=/0x0:1920x1080/1366x768/2025/09/02/1756829524211.jpg",
       "source": "Axios",
-      "publishedAt": "2025-09-01T18:52:21Z"
+      "publishedAt": "2025-09-02T17:41:43Z"
     },
     {
-      "title": "Costco's new shopping hour change goes into effect this week - KING5.com",
-      "description": "Some members who arrive at Costco during the new exclusive shopping hour run the risk of being turned away by greeters at the door.",
-      "url": "https://www.king5.com/article/news/nation-world/costco-executive-members-new-shopping-hour/507-a875a24a-44c5-43c9-a322-e77fa7a957e3",
-      "urlToImage": "https://media.king5.com/assets/CCT/images/bcc3d0ab-0c55-4aef-9ba9-f36f7bb1b022/20250603T195933/bcc3d0ab-0c55-4aef-9ba9-f36f7bb1b022_1140x641.jpg",
-      "source": "KING5.com",
-      "publishedAt": "2025-09-01T18:47:00Z"
+      "title": "Tesla’s fourth ‘Master Plan’ reads like LLM-generated nonsense - TechCrunch",
+      "description": "Tesla's fourth \"Master Plan\" lacks an important building block of plans: specifics. Even Elon Musk agrees it was too generic.",
+      "url": "https://techcrunch.com/2025/09/02/teslas-4th-master-plan-reads-like-llm-generated-nonsense/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/musk-cpac-sunglasses-doge.jpg?resize=1200,977",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-02T17:18:12Z"
     },
     {
-      "title": "Visitors to US Plunge Amid Concerns About Donald Trump's Policies - Newsweek",
-      "description": "From border towns to major tourist draws, international visitor numbers have dropped since Trump returned to office in January.",
-      "url": "https://www.newsweek.com/visitors-us-plunge-donald-trump-policies-2122784",
-      "urlToImage": "https://d.newsweek.com/en/full/2713782/travelers-stand.jpg",
-      "source": "Newsweek",
-      "publishedAt": "2025-09-01T18:32:06Z"
+      "title": "Trader Joe's Just Recalled a Popular Frozen Item—Here’s What to Know - EatingWell",
+      "description": "There’s a public health alert on a popular Trader Joe’s frozen pizza due to lack of proper inspection. Read on for more information.",
+      "url": "https://www.eatingwell.com/trader-joes-frozen-pizza-alert-11801778",
+      "urlToImage": "https://www.eatingwell.com/thmb/Y_X4Aul6SyuujzQ5SDW-Kg3hnPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Trader-Joes-Is-Recalling-a-Popular-Frozen-Item-9ba9c08a10ed4bb89709db7cd0940c3b.jpg",
+      "source": "Eatingwell.com",
+      "publishedAt": "2025-09-02T16:42:39Z"
     },
     {
-      "title": "Tesla Registrations Tank 84% in Sweden, But Surge 161% in Spain - TipRanks",
-      "description": "EV maker Tesla ($TSLA) saw its European sales continue to slide in August due to rising competition and CEO Elon Musk‘s political views. In France, Tesla car regist...",
-      "url": "https://www.tipranks.com/news/tesla-registrations-tank-84-in-sweden-but-surge-161-in-spain",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2479471803-750x406.jpg",
+      "title": "Starbucks Goes all in on Protein: Announces Arrival of New Protein Lattes and Protein Cold Foam to the Menu on Sept. 29 - Starbucks",
+      "description": "Customers will soon be able to add approximately 15–36 grams of protein per grande beverage to their Starbucks visit.",
+      "url": "https://about.starbucks.com/press/2025/starbucks-goes-all-in-on-protein-announces-arrival-of-new-protein-lattes-and-protein-cold-foam-to-the-menu/",
+      "urlToImage": "https://about.starbucks.com/uploads/2025/09/Starbucks-Protein-Beverages-Trio.jpg",
+      "source": "Starbucks.com",
+      "publishedAt": "2025-09-02T16:00:00Z"
+    },
+    {
+      "title": "Biotech Rockets To Four-Year High After Hitting A 'Home Run' - Investor's Business Daily",
+      "description": "Ionis Pharmaceuticals scored a \"home run\" Tuesday after its experimental treatment for high triglycerides beat the placebo.",
+      "url": "https://www.investors.com/news/technology/ionis-pharmaceuticals-triglycerides-drug/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/05/Stock-IonisHQ-01-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-09-02T15:44:00Z"
+    },
+    {
+      "title": "The Haunting of Cracker Barrel | Online Only | n+1 | A. S. Hamrah, Will Tavlin, Lisa Borst - nplusonemag.com",
+      "description": "Semiotically, it's detached from all these kinds of things that it was originally designed for. But this kind of sign was always part of the corporate blandification of the American travel experience. The idea of the app is funny, because it turns out that ap…",
+      "url": "https://www.nplusonemag.com/online-only/online-only/the-haunting-of-cracker-barrel/",
+      "urlToImage": "https://www.nplusonemag.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-11.11.44-AM-scaled-e1756826300439-1280x947.png",
+      "source": "Nplusonemag.com",
+      "publishedAt": "2025-09-02T15:32:12Z"
+    },
+    {
+      "title": "SPOT, DB, SAP: Europe’s Inflation Rate Rises More Than Expected as Tariffs Bite - TipRanks",
+      "description": "Tariffs remain an issue within the European Union.",
+      "url": "https://www.tipranks.com/news/spot-db-sap-europes-inflation-rate-rises-more-than-expected-as-tariffs-bite",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/aaa-12-750x406.jpg",
       "source": "Tipranks.com",
-      "publishedAt": "2025-09-01T18:04:05Z"
+      "publishedAt": "2025-09-02T15:29:20Z"
     },
     {
-      "title": "Tesla (TSLA) Rival BYD’s Shares Slump in China after Q2 Profit Plunge - TipRanks",
-      "description": "The stock prices of BYD (HK:1211) ($BYDDY), one of Tesla’s ($TSLA) key rivals in the electric vehicle market, slumped on Monday at the market close in China and Hon...",
-      "url": "https://www.tipranks.com/news/tesla-tsla-rival-byds-shares-slump-in-china-after-q2-profit-plunge",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2500511767-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-09-01T17:37:30Z"
+      "title": "Major billionaire makes bombshell accusation against Trump: ‘Most people are silent’ - yahoo.com",
+      "description": "The hedge fund manager is intensifying his warnings about the president.",
+      "url": "https://www.nj.com/politics/2025/09/major-billionaire-makes-bombshell-accusation-against-trump-most-people-are-silent.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SBWh2s6kn7EQz50CPqEnuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/nj_com_articles_950/78cdc692a51b9c0c93c675ebdb51aef1",
+      "source": "nj.com",
+      "publishedAt": "2025-09-02T15:25:15Z"
     },
     {
-      "title": "Nestlé Board appoints Philipp Navratil as CEO following the departure of Laurent Freixe - GlobeNewswire",
-      "description": "[Ad hoc announcement pursuant to Art. 53 LR]  This press release is also available in Français (pdf) and Deutsch (pdf)  .............  Vevey, 1...",
-      "url": "https://www.globenewswire.com/news-release/2025/09/01/3142260/0/en/Nestl%C3%A9-Board-appoints-Philipp-Navratil-as-CEO-following-the-departure-of-Laurent-Freixe.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/d5ccbbed-3a60-4f83-b4df-f756d6133d1f",
-      "source": "GlobeNewswire",
-      "publishedAt": "2025-09-01T17:02:17Z"
-    },
-    {
-      "title": "Samsung and Nvidia (NVDA) Warned after New U.S. Crack Down on Chinese Chip Movements - TipRanks",
-      "description": "Shares in South Korean chip-making giants Samsung Electronics ($SSNLF) and SK Hynix were lower today because of new U.S. restrictions on imports to China. AI Battle...",
-      "url": "https://www.tipranks.com/news/samsung-and-nvidia-nvda-warned-after-new-u-s-crack-down-on-chinese-chip-movements",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/sammie-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-09-01T16:52:30Z"
-    },
-    {
-      "title": "Walmart, Sam's club, Target stores, USPS closed on Labor Day 2025? Check here - Mint",
-      "description": "Labor Day on Monday (September 1), will see closures at banks, post offices, stock market, and delivery services like UPS and FedEx. Major retailers including Walmart, Target, and Trader Joe’s will remain open. Sam’s Club will open from 8 am–6 pm for Plus mem…",
-      "url": "https://www.livemint.com/news/us-news/walmart-sams-club-target-stores-usps-closed-on-labor-day-2025-check-here-11756738345111.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/01/1600x900/a52594959a0ec54b923511f282c289793a8ff842aafd25c_1756739307968_1756739308095.jpg",
-      "source": "Livemint",
-      "publishedAt": "2025-09-01T15:10:15Z"
-    },
-    {
-      "title": "China EV global sales in August: Nio 31,305, HIMA 44,579, Geely 147,347, BYD 371,501 - CarNewsChina.com",
-      "description": "Nio Group was up 55%, Huawei's HIMA 32% up, Geely 95% up and BYD mostly flat 0.2% up",
-      "url": "https://carnewschina.com/2025/09/01/china-ev-global-sales-in-august-nio-31305-hima-44579-geely-147347-byd-371501/",
-      "urlToImage": "https://carnewschina.com/wp-content/uploads/2025/09/augustnev.jpg",
-      "source": "Carnewschina.com",
-      "publishedAt": "2025-09-01T15:04:00Z"
-    },
-    {
-      "title": "Retail Investors Pour $867 Million Into Nvidia (NVDA) as Palantir (PLTR) Draws $300 Million - TipRanks",
-      "description": "Retail investors have been active in the market comeback this year, and new data from JPMorgan ($JPM) shows many are focused on Nvidia ($NVDA) heading into Septembe...",
-      "url": "https://www.tipranks.com/news/retail-investors-pour-867-million-into-nvidia-nvda-as-palantir-pltr-draws-300-million",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-1-2025-04_40_26-PM-750x406.png",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-09-01T13:43:41Z"
+      "title": "Cytokinetics Shares are Jumping. Its Heart Drug Looks Better than Ever - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/cytokinetics-stock-heart-drug-bristol-myers-squibb-e6e6af83",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-09-02T15:09:00Z"
     }
   ]
 }
