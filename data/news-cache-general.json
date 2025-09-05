@@ -1,127 +1,151 @@
 {
-  "updatedAt": "2025-09-04T06:37:58.070Z",
+  "updatedAt": "2025-09-05T06:38:23.641Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Djokovic stays unbeaten against Fritz, sets showdown with Alcaraz - ATP Tour",
-      "description": "",
-      "url": "https://www.atptour.com/en/news/fritz-djokovic-us-open-2025-qf",
-      "urlToImage": "https://www.atptour.com/-/media/images/news/2025/09/03/02/31/djokovic-us-open-2025-tuesday.jpg",
-      "source": "ATP Tour",
-      "publishedAt": "2025-09-03T03:44:47Z"
+      "title": "Trump asks US Supreme Court to uphold his tariffs after lower court defeat - BBC",
+      "description": "The move is in response to a lower court ruling that some tariffs did not fall within the president's mandate.",
+      "url": "https://www.bbc.com/news/articles/cx209ew4nz7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ff7e/live/a309f100-891d-11f0-b663-f3bb91f7a7fe.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-04T02:37:20Z"
     },
     {
-      "title": "Futures Mixed; Google Soars On Antitrust Ruling - Investor's Business Daily",
-      "description": "Nvidia broke a key level Tuesday, but gold and biotechs stood out.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-apple-antitrust-ruling/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/08/Stock-Google-pie-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-03T03:13:00Z"
+      "title": "Mark Cuban makes his Clippers stance clear amid Kawhi Leonard endorsement scandal - New York Post",
+      "description": "One former Aspiration employee told Torre that Leonard’s deal with the company was to “circumvent the salary cap.”",
+      "url": "https://nypost.com/2025/09/03/sports/mark-cuban-defends-clippers-amid-kawhi-leonard-endorsement-scandal/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-ipq4wpviv-1756950584821.jpg?quality=75&strip=all&1756936211&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-09-04T02:13:00Z"
     },
     {
-      "title": "Trump to move U.S. Space Command headquarters from Colorado to Alabama - The Washington Post",
-      "description": "The president’s Oval Office announcement marks the latest twist in a years-long partisan battle over the agency’s home.",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/02/trump-space-command-alabama/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KC7O6AKVLBVDUISFJXV7EZ64R4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-03T02:40:45Z"
+      "title": "AI, lasers and chips: the science and tech of China’s military parade - South China Morning Post",
+      "description": "Weapons procession offers rare window on how China is reshaping modern warfare.",
+      "url": "https://www.scmp.com/news/china/science/article/3324226/ai-lasers-and-chips-science-and-tech-chinas-military-parade",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/09/04/5c9cd60b-8628-4504-8131-28c3d184d50b_711cd304.jpg?itok=RgwBUrN4&v=1756954157",
+      "source": "Post Magazine",
+      "publishedAt": "2025-09-04T02:00:11Z"
     },
     {
-      "title": "AP Top 25: Ohio State Grabs No. 1 Spot After Win Over Texas, LSU Jumps to No. 3 - FOX Sports",
-      "description": "Ohio State took the No. 1 spot away from Texas with its win, as the Longhorns fell to No. 7 in the AP Top 25 college football poll.",
-      "url": "https://www.foxsports.com/stories/college-football/ap-top-25-week-2-college-football-rankings",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/09/1408/814/carnell-tate.jpg?ve=1&tl=1",
-      "source": "Fox Sports",
-      "publishedAt": "2025-09-03T02:11:00Z"
+      "title": "Mamdani calls reports of White House meddling in NYC mayor's race an 'affront to our democracy' - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/Politics/mamdani-calls-reports-white-house-meddling-nyc-mayors/story?id\\\\u003d125232546",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-04T00:56:15Z"
     },
     {
-      "title": "Dwayne ‘The Rock’ Johnson’s slimmer look at Venice Film Festival has fans doing double takes - yahoo.com",
-      "description": "Dwayne Johnson shocked fans with his transformation at the Venice Film Festival, sparking viral reactions as he debuted a noticeably slimmer physique.",
-      "url": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnsons-slimmer-look-venice-film-festival-has-fans-doing-double-takes",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/dwayne-johnson-transformation.jpg",
-      "source": "Fox News",
-      "publishedAt": "2025-09-03T01:00:00Z"
+      "title": "Trump administration to open new ICE facility at notorious Louisiana prison - CNN",
+      "description": "The Trump administration is opening a new detention camp within a notorious state prison in Louisiana to house undocumented migrants accused of committing crimes, officials announced Wednesday.",
+      "url": "https://www.cnn.com/2025/09/03/politics/new-ice-facility-angola-louisiana-prison",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2018-05-31t112047z-826861202-rc1ca5f4dfd0-rtrmadp-3-usa-jails-louisiana.JPG?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-04T00:45:00Z"
     },
     {
-      "title": "Sabrina Carpenter On Controversial 'Man's Best Friend' Album Cover Art: \"The Reaction Is Fascinating To Me\" - Deadline",
-      "description": "Sabrina Carpenter is set to release her next studio album titled Man's Best Friend and is addressing the controversy surrounding it.",
-      "url": "http://deadline.com/2025/09/sabrina-carpenter-mans-best-friend-album-cover-art-1236504706/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/sabrina-carpenter-mans-best-friend.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-03T00:43:00Z"
+      "title": "American Eagle's shares soar as Sydney Sweeney boosts sales - BBC",
+      "description": "The US actress was part of the company's controversial \"Great Jeans\" campaign which drew a backlash.",
+      "url": "https://www.bbc.com/news/articles/cddm7z3p2vlo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b729/live/d4fc4a90-8923-11f0-b925-b728614782d0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-04T00:20:21Z"
     },
     {
-      "title": "Judge rules against National Guard in LA, and Trump vows to send them to Chicago - NPR",
-      "description": "After a federal court in California ruled that President Trump's use of the National Guard in Los Angeles was illegal, Trump touted his use of the Guard in Washington, D.C., and said Chicago is next.",
-      "url": "https://www.npr.org/2025/09/02/nx-s1-5525647/a-california-judge-rules-that-trumps-deployment-of-the-guard-to-la-was-illegal",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2214+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F5e%2F1dc21c954b8a8be7f2ea1aecd6e5%2Fap25168757877407.jpg",
+      "title": "Trump administration illegally froze billions in Harvard funds, judge rules - NPR",
+      "description": "The ruling is a legal victory for Harvard but the White House says it will appeal the decision.",
+      "url": "https://www.npr.org/2025/09/03/nx-s1-5527314/trump-harvard-court-ruling-funding-boston",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F2e%2Fe6e9448d49aa94cb2850ea965f70%2Fenadworny-harvard-library01.jpg",
       "source": "NPR",
-      "publishedAt": "2025-09-03T00:22:44Z"
+      "publishedAt": "2025-09-03T23:52:10Z"
     },
     {
-      "title": "How Trump's quiet holiday weekend fueled a viral death hoax - Axios",
-      "description": "\"How did you find out over the weekend that you were dead?\" a reporter asked Trump.",
-      "url": "https://www.axios.com/2025/09/02/trump-death-illness-white-house-rumors",
-      "urlToImage": "https://images.axios.com/fPQn8crw7VjHeZXi1UpDFVe32Vg=/0x198:8256x4842/1366x768/2025/09/02/1756851233088.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-03T00:06:18Z"
+      "title": "Florida moves to end all school vaccine mandates, first in nation to do so - The Washington Post",
+      "description": "Florida Surgeon General Joseph A. Ladapo criticized school vaccine mandates, which every state has, and likened them to slavery.",
+      "url": "https://www.washingtonpost.com/health/2025/09/03/florida-vaccine-mandates-ended/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJVBPFD64MI6ZDGIW2LFMS5HSY.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-03T23:37:18Z"
     },
     {
-      "title": "Mike Vrabel has a thought on Bill Belichick’s college-football debut - NBC Sports",
-      "description": "Patriots coach Mike Vrabel speaks his mind.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-has-a-thought-on-bill-belichicks-college-football-debut",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/93a5bd7/2147483647/strip/true/crop/3556x2000+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Ff0%2F4ed32ae34adaadb087ac5624866c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2227281522",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-02T23:27:46Z"
+      "title": "Patrick Gibson Cast As James Bond In ‘007 First Light’ Video Game: Photos, Trailer & Release Date Revealed - Deadline",
+      "description": "The 'Dexter: Original Sin' star, Patrick Gibson, has been cast as James Bond where he will voice the character in the '007 First Light' video game.",
+      "url": "https://deadline.com/gallery/patrick-gibson-cast-james-bond-007-first-light-playstation/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/james-bond-007-first-light-01.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-03T23:20:00Z"
     },
     {
-      "title": "The new Dolby Vision 2 HDR standard is probably going to be controversial - Ars Technica",
-      "description": "It addresses two scourges of modern TV viewing—but maybe not in the way we want.",
-      "url": "https://arstechnica.com/gadgets/2025/09/the-new-dolby-vision-2-hdr-standard-is-probably-going-to-be-controversial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/40b76700-879a-11f0-bdfd-4721c5ffeede-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-02T22:52:31Z"
+      "title": "Trump administration doubles down on Big Tech antitrust cases despite Google setback - Financial Times",
+      "description": "Tough enforcement continues even as tech bosses court the president",
+      "url": "https://www.ft.com/content/bc549a75-4d76-4775-9ccb-13b0de452179",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbebee606-b406-44e1-89bd-786c182a38f6.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-03T23:18:18Z"
     },
     {
-      "title": "OTC nasal spray seemed to cut COVID infections by 67% in mid-sized trial - Ars Technica",
-      "description": "The Phase 2 trial is not definitive, but it comes as vaccine access is severely restricted.",
-      "url": "https://arstechnica.com/health/2025/09/otc-nasal-spray-seemed-to-cut-covid-infections-by-67-in-mid-sized-trial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1456826064-2560x1440.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-02T22:36:26Z"
+      "title": "The U.S. is headed toward two very different vaccination realities - NBC News",
+      "description": "Turmoil at the Centers for Disease Control and Prevention and states’ beginning to take more control of their own vaccine decisions threaten to fracture the once-national consensus around immunization, setting the stage for a reorganization of the way vaccina…",
+      "url": "https://www.nbcnews.com/health/health-news/us-vaccine-split-realities-rcna228932",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/240217-cdc-mb-1426-e0828c.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-03T23:16:18Z"
     },
     {
-      "title": "Powerball jackpot data shows where winners could take home the most, and least - CBS News",
-      "description": "Monday's Powerball jackpot drawing came up empty. Here's a look at some numbers behind the game.",
-      "url": "https://www.cbsnews.com/news/powerball-jackpot-data/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/25/826045a0-0168-4574-b2f1-6d950900dec6/thumbnail/1200x630/8e3de0edb689b4da1e02427224f1a21b/cbsn-fusion-powerball-jackpot-climbs-to-750-million-10th-largest-in-history-thumbnail.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-02T22:24:22Z"
+      "title": "'Dangerous' Chagas disease confirmed in California, raising concerns for Bay Area - SFGATE",
+      "description": "Experts are worried that Chagas, a parasitic disease endemic to Latin America, will come to the Bay Area after cases were confirmed in Southern California.",
+      "url": "https://www.sfgate.com/bayarea/article/chagas-disease-spread-california-21029499.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/34/76/28430247/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2025-09-03T23:11:54Z"
     },
     {
-      "title": "GOP congresswoman joins 2026 Iowa Senate race after Sen. Joni Ernst confirms she won't run - AP News",
-      "description": "U.S. Sen. Joni Ernst is not seeking reelection next year. Ernst says she will retire after two terms in an announcement that followed months of speculation about her plans. Ernst’s departure opens up a Senate seat in the state known for its long-serving incum…",
-      "url": "https://apnews.com/article/election-2026-iowa-senate-ernst-5f1fcb82ed73f83a8342683efed847f0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/aa736f5/2147483647/strip/true/crop/3271x1840+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F3d%2Feff6d869650c9eb493b5f8da7de5%2F7c3474f64f164d61b6b9a139114d787d",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-02T22:02:00Z"
+      "title": "News network Newsmax files antitrust suit vs. Fox News - Politico",
+      "description": "“Fox’s behavior represents a textbook abuse of monopoly power,” Newsmax lawyer Michael J. Guzman said.",
+      "url": "https://www.politico.com/news/2025/09/03/news-network-newsmax-antitrust-lawsuit-fox-news-00543044",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa8%2F16%2F15fb74414bb7b79634691255dda8%2Fdominion-newsmax-defamation-case-17501.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-03T23:01:49Z"
     },
     {
-      "title": "Houston man charged with murder after boy killed playing ding dong ditch - Houston Chronicle",
-      "description": "Gonzalo Leon Jr., accused of shooting 11-year-old boy Julian Guzman, who rang his doorbell as part of a prank, has now been charged with murder.",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/crime/article/man-charged-murder-doorbell-prank-21026293.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/34/10/28426757/7/rawImage.jpg",
-      "source": "Houston Chronicle",
-      "publishedAt": "2025-09-02T21:33:45Z"
+      "title": "Trump Inc.’s $5.4 Billion Digital Coin Hit by Turbulence - Bloomberg",
+      "description": "Trump Inc.’s much-trumpeted crypto foray — the WLFI token — launched Monday with ambitions of serving as the backbone of a new digital ecosystem. Within hours, it was mired in the turbulence and instability that has long been the hallmarks of crypto trading.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-03/trump-inc-s-5-4-billion-digital-coin-hit-by-market-turbulence",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYRvkWcCERoI/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-03T22:34:12Z"
     },
     {
-      "title": "Dozens of mysterious blobs discovered inside Mars may be the remnants of 'failed planets' - Live Science",
-      "description": "\"Marsquake\" data collected by NASA's InSight lander have revealed dozens of mysterious blobs within the Red Planet's mantle. The structures may have been left by powerful impacts up to 4.5 billion years ago.",
-      "url": "https://www.livescience.com/space/mars/dozens-of-mysterious-blobs-discovered-inside-mars-may-be-the-remnants-of-failed-planets",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EHoV9n5pnrr7kZHQWmStCB.jpg",
+      "title": "Flash-bang grenades and early morning raids: How Trump is planning to target Chicago - Chicago Sun-Times",
+      "description": "Hundreds of federal agents are being sent to a suburban naval base from Los Angeles, where an immigration blitz spurred protests that pushed President Trump to call in the National Guard. Trump has since threatened to send the Guard to Chicago while promising…",
+      "url": "https://chicago.suntimes.com/the-watchdogs/2025/09/03/chicago-illinois-crime-immigration-ice-national-guard-donald-trump-jb-pritzker",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/37c7fd3/2147483647/strip/true/crop/3000x1713+0+142/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2Fb8%2F91942ca44ba2939f2af734ac5d2e%2Fcbp-08xx25-4.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-03T21:32:00Z"
+    },
+    {
+      "title": "James Webb telescope discovers 'exceptionally rare' 5-galaxy crash in the early universe - Live Science",
+      "description": "Near-infrared images from the James Webb Space Telescope revealed five early universe galaxies merging within a large halo.",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-exceptionally-rare-5-galaxy-crash-in-the-early-universe",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9aCinDUgXx7zWPz37KwF8H.jpg",
       "source": "Live Science",
-      "publishedAt": "2025-09-02T21:22:53Z"
+      "publishedAt": "2025-09-03T20:56:49Z"
+    },
+    {
+      "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
+      "description": "An AI Siri is in the works and it could be running Gemini under the hood.",
+      "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-03T20:50:38Z"
+    },
+    {
+      "title": "Lisbon funicular crash kills at least 15 people when popular streetcar derails - CBS News",
+      "description": "The cause of the deadly crash remains unclear after an electric streetcar derailed in Lisbon, Portugal.",
+      "url": "https://www.cbsnews.com/news/lisbon-funicular-rail-car-derails-crashes-portugal/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/03/a12ec170-3693-47e1-9674-03a6e94f4d59/thumbnail/1200x630/a2df616f6ca9dead602c0b43db4793fe/ap25246677363276.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-03T20:49:00Z"
     }
   ]
 }
