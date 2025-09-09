@@ -1,151 +1,127 @@
 {
-  "updatedAt": "2025-09-08T06:40:27.209Z",
+  "updatedAt": "2025-09-09T06:39:20.871Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Oklahoma 24-13 Michigan (Sep 6, 2025) Game Recap - ESPN",
+      "title": "MTV VMAs 2025: Watch All of the Performances - Pitchfork",
+      "description": "Mariah Carey, Sabrina Carpenter, Doja Cat and others performed at Long Island’s UBS Arena",
+      "url": "https://pitchfork.com/news/mtv-vmas-2025-performers-list-see-the-full-lineup-here/",
+      "urlToImage": "https://media.pitchfork.com/photos/68be3f801876755ade6a8de2/16:9/w_1280,c_limit/Sabrina-Carpenter.jpeg",
+      "source": "Pitchfork",
+      "publishedAt": "2025-09-08T03:22:05Z"
+    },
+    {
+      "title": "BMW and Mercedes Take On Tesla With New Luxury SUVs - The Wall Street Journal",
       "description": null,
-      "url": "https://www.espn.com/college-football/recap?gameId\\\\u003d401752690",
+      "url": "https://www.wsj.com/business/autos/bmw-mercedes-ev-suv-tesla-483024d9",
       "urlToImage": null,
-      "source": "ESPN",
-      "publishedAt": "2025-09-07T03:33:03Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-08T03:00:00Z"
     },
     {
-      "title": "Powerball winning numbers announced for estimated $1.8 billion jackpot - CBS News",
-      "description": "Saturday's jackpot has an estimated cash value of $826.4 million, Powerball said.",
-      "url": "https://www.cbsnews.com/news/powerball-winning-numbers-saturday-1-8-billion-jackpot/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/06/4d2c6b5e-7153-4cc8-bb7c-7efcb9380a3c/thumbnail/1200x630/03aba01cac37573431e0d8494e042f26/gettyimages-2233717328.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-07T03:04:47Z"
+      "title": "Mushroom murders: Erin Patterson, who served death to family at lunch, jailed for life; 3 died, but myste - Times of India",
+      "description": "Rest of World News: Erin Patterson, the central figure in the infamous \\\"mushroom murders\\\" case, received a life sentence from an Australian judge on Monday, with a possib",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/mushroom-murders-erin-patterson-who-served-death-to-family-at-lunch-jailed-for-life-3-died-but-mystery-is-still-alive/articleshow/123755460.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123755524,width-1070,height-580,imgsize-1344862,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "source": "The Times of India",
+      "publishedAt": "2025-09-08T02:20:00Z"
     },
     {
-      "title": "What Mike Gundy said after Oklahoma State was trounced by Oregon - OregonLive.com",
-      "description": "See Mike Gundy's postgame remarks",
-      "url": "https://www.oregonlive.com/ducks/2025/09/what-mike-gundy-said-after-oklahoma-state-was-trounced-by-oregon.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/HIV2VWVGMNET7NGXQ6PXYTQCTI.jpg?auth=60b424f8f57c9a6f26a330d204aa9b788c3b23363768fc97da7b19484f25c6a7&width=1280&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2025-09-07T02:19:00Z"
+      "title": "‘SNL 50,’ ‘The Traitors’ & ‘Pee-wee As Himself’ Among Winners On Night 2 Of Creative Arts Emmys — Updating Live - Deadline",
+      "description": "Here is the winners list for the 2025 Creative Arts Emmys, which are being handed out September 7 and September 8 in Los Angeles.",
+      "url": "http://deadline.com/2025/09/creative-arts-emmys-2025-winners-list-1236509478/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Creative-Arts-Emmys-Key-Art.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-08T02:14:00Z"
     },
     {
-      "title": "US Open asks broadcasters to avoid crowd reactions to Trump during men’s finals match - CNN",
-      "description": "Whether Trump is met by jeers or cheers at Arthur Ashe Stadium on Sunday, the US Tennis Association says it wants the focus to be on the court.",
-      "url": "https://www.cnn.com/2025/09/06/media/us-open-trump-usta-espn-abc-mens-finals",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-01t035130z-1144060839-mt1usatoday26975142-rtrmadp-3-tennis-us-open.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-07T02:08:00Z"
+      "title": "Milei on Track to Lose Buenos Aires Province by Landslide - Bloomberg",
+      "description": "Argentina’s President Javier Milei vowed no changes to his free-market economic program after a resounding defeat on Sunday to the center-left Peronist opposition in the province of Buenos Aires.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-08/milei-on-track-to-lose-buenos-aires-province-by-landslide",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibC0id2KQFZM/v0/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-08T01:46:00Z"
     },
     {
-      "title": "Creative Arts Emmys, Night One: Winners List (Updating Live) - The Hollywood Reporter",
-      "description": "Julianne Nicholson, Bryan Cranston, Merritt Wever and Shawn Hatosy are among the Night 1 winners for 'Hacks,' 'The Studio,' 'Severance' and 'The Pitt,' respectively.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/2025-creative-arts-emmys-winners-list-night-one-1236359615/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Julianne-Nicholson-Bryan-Cranston-Merritt-Wever-Shawn-Hatosy-publicity-everett-H-2025.png?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-07T01:30:00Z"
+      "title": "Game Report, 2025 Week 1: Jaguars 26, Panthers 10 - Jacksonville Jaguars",
+      "description": "A quick look at the Jaguars’ 26-10 over the Carolina Panthers in a 2025 Week 1 game at EverBank Stadium in Jacksonville Sunday",
+      "url": "https://www.jaguars.com/news/k000495-game-report-2025-week-1-jaguars-panthers",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jaguars/usrykxs5yr8usfjs7uh0",
+      "source": "jaguars.com",
+      "publishedAt": "2025-09-08T00:45:00Z"
     },
     {
-      "title": "Lisbon funicular cable disconnected before crash — report - dw.com",
-      "description": "Initial findings revealed that the funiculr accident occurred within 50 seconds. Officials called the deadly crash one of Lisbon's worst tragedies in recent memory.",
-      "url": "https://www.dw.com/en/lisbon-funicular-cable-disconnected-before-crash-report/a-73907543",
-      "urlToImage": "https://static.dw.com/image/73882594_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-09-07T01:06:54Z"
-    },
-    {
-      "title": "College football scores, live updates: Week 2 schedule features LSU, Alabama, Miami in action - CBS Sports",
-      "description": "NCAA football scores, live updates and highlights from the full slate of Week 2 action on Saturday",
-      "url": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-2-ncaa-top-25-games-today/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/07/258ce050-c2c6-4266-a70f-d25cebcdb9ab/thumbnail/1200x675/fc9c9ee565d5a951a7b70ae87d6ad67d/lsu.jpg",
-      "source": "CBS Sports",
-      "publishedAt": "2025-09-07T00:02:00Z"
-    },
-    {
-      "title": "Sydney Sweeney lands a knockout at TIFF with ‘Christy,’ stoking Oscar buzz - The Seattle Times",
-      "description": "Sydney Sweeney came to the Toronto International Film Festival wanting to talk about her film “Christy,” not her American Eagle ad campaign.",
-      "url": "https://www.seattletimes.com/entertainment/sydney-sweeney-lands-a-knockout-at-tiff-with-christy-stoking-oscar-buzz/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/urnpublicidap.orgea61f200563ec442587e9f7447c9a6a2Toronto_Film_Festival_Christy_07424.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-09-06T23:57:36Z"
-    },
-    {
-      "title": "Carlo Acutis: From London baptism to first millennial saint - BBC",
-      "description": "Before his death at 15, Carlo Acutis was known for his love of technology and had created a website to document miracles.",
-      "url": "https://www.bbc.com/news/articles/c5yg5me8dvlo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de0e/live/bc1429a0-8b83-11f0-9ded-07f8df19ee37.png",
-      "source": "BBC News",
-      "publishedAt": "2025-09-06T23:35:58Z"
-    },
-    {
-      "title": "At least 2 killed, including infant, 13 injured in Kyiv amid Russian drone, missile attacks on residential buildings - The Kyiv Independent",
-      "description": "Russia launched hundreds of attack drones towards Ukrainian cities overnight on Sept. 6-7, striking multiple residential buildings in Kyiv, officials reported.",
-      "url": "https://kyivindependent.com/explosions-heard-as-russia-launches-hundreds-of-drones-towards-ukrainian-cities/",
-      "urlToImage": "https://assets.kyivindependent.com/content/images/2025/09/img_7073.jpg",
-      "source": "Kyivindependent.com",
-      "publishedAt": "2025-09-06T22:47:42Z"
-    },
-    {
-      "title": "Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post",
-      "description": "The “We Are All D.C.” march is one of the first major organized protests since President Donald Trump deployed federal troops to the nation’s capital.",
-      "url": "https://www.washingtonpost.com/dc-md-va/2025/09/06/we-are-all-dc-march/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O5PADSJZEJZJJJJDWR6NOQWQAI_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-06T22:43:48Z"
-    },
-    {
-      "title": "RFK. Jr’s family members call for his resignation, say he is a ‘threat’ to Americans’ health - PBS",
-      "description": "Kennedy's sister, Kerry Kennedy, and his nephew, Joseph P. Kennedy III, issued scathing statements Friday, calling for him to step down as health secretary following a contentious congressional hearing this past week.",
-      "url": "https://www.pbs.org/newshour/politics/rfk-jrs-family-members-call-for-his-resignation-say-he-is-a-threat-to-americans-health",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T172719Z_447139848_RC25LGA7L3O0_RTRMADP_3_USA-HEALTH-CDC-1024x684.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-06T22:32:46Z"
-    },
-    {
-      "title": "Get Ready! The 'Blood Moon' Total Lunar Eclipse Is About to Happen - ScienceAlert",
-      "description": "Stargazers will have a chance to see a \"Blood Moon\" on Sunday night during a total lunar eclipse visible across Asia and swathes of Europe and Africa.",
-      "url": "https://www.sciencealert.com/get-ready-the-blood-moon-total-lunar-eclipse-is-about-to-happen",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/blood_moon_sept25_header.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-06T20:06:17Z"
-    },
-    {
-      "title": "South Sudan repatriates Mexican man deported from U.S. in July - CBS News",
-      "description": "The man, a Mexican identified as Jesus Munoz-Gutierrez, was among a group of eight who had been in South Sudan government custody since their deportation.",
-      "url": "https://www.cbsnews.com/news/jesus-munoz-gutierrez-south-sudan-repatriates-deported-us-mexico/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/06/3ab13eb0-7b08-4f1b-8ffc-841126f9a8c5/thumbnail/1200x630/054c049c67c2ca1d28468b7f13d837c7/ap25249616979469.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-06T19:49:13Z"
-    },
-    {
-      "title": "ICE arrests at a Georgia Hyundai plant create new tension with South Korea - NPR",
-      "description": "South Korea's foreign minister is considering a trip to the U.S. to meet with the Trump administration after hundreds of South Koreans were arrested in Georgia at an electric vehicle battery plant.",
-      "url": "https://www.npr.org/2025/09/06/nx-s1-5532604/hyundai-immigration-raid-georgia-south-korea",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F53%2F2f7215fb41adae35cb5deffe0f79%2Fgettyimages-2233256192.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-06T19:38:32Z"
-    },
-    {
-      "title": "'Godfather of AI' says the technology will create massive unemployment and send profits soaring — 'that is the capitalist system' - Fortune",
-      "description": "\"We are at a point in history where something amazing is happening, and it may be amazingly good, and it may be amazingly bad.\"",
-      "url": "https://fortune.com/2025/09/06/godfather-of-ai-geoffrey-hinton-massive-unemployment-soaring-profits-capitalist-system/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2188261416-e1757181693659.jpg?resize=1200,600",
+      "title": "Dow futures rise as recession fears grow while Wall Street awaits the one thing that could derail Fed rate cuts - Fortune",
+      "description": "On Thursday, the consumer price index is due, and Wall Street sees a 0.3% gain, accelerating from the 0.2% pace a month earlier.",
+      "url": "https://fortune.com/2025/09/07/stock-market-today-dow-futures-cpi-ppi-fed-rate-cuts-recession-inflation/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2232783307-e1757280449135.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2025-09-06T19:27:00Z"
+      "publishedAt": "2025-09-07T23:52:00Z"
     },
     {
-      "title": "Israel destroys second high-rise as assault on Gaza City intensifies - BBC",
-      "description": "Israel continues to expand its military operation in Gaza, urging Palestinians to leave Gaza City and move south.",
-      "url": "https://www.bbc.com/news/articles/cz9jpzql958o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67a0/live/d8f798e0-8b38-11f0-a23b-03b8d466a85d.png",
-      "source": "BBC News",
-      "publishedAt": "2025-09-06T18:44:36Z"
+      "title": "Powerball lottery player in Texas to split nearly $1.8 billion jackpot - Dallas News",
+      "description": "The winning ticket in Texas was sold in Fredericksburg.",
+      "url": "https://www.dallasnews.com/news/national/2025/09/07/powerball-lottery-player-in-texas-to-split-nearly-18-billion-jackpot/",
+      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/7S6VYWFGE5HDLHSVLNZ3S7LT3Q.jpg?auth=6d6112d32412890466348f5e7f33967f5392a347d35cc3c8a7c2d2f4c93e8e91&quality=80&width=1200&height=630&smart=true",
+      "source": "The Dallas Morning News",
+      "publishedAt": "2025-09-07T22:41:15Z"
     },
     {
-      "title": "SpaceX launches 24 Starlink satellites from California (video) - Space",
-      "description": "Liftoff occurred at 2:06 p.m. EDT on Saturday (Sept. 6).",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-9-b1075-vsfb-ocisly",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wx7EfuNPCCar4EXZF3VBuH.jpg",
+      "title": "Aaron Rodgers taunts Jets fans on way out of MetLife after Steelers statement - New York Post",
+      "description": "Aaron Rodgers heard all of the boos when he took the field at MetLife Stadium on Sunday. So he wanted to hear what the Jets fans had to say postgame.",
+      "url": "https://nypost.com/2025/09/07/sports/aaron-rodgers-taunts-jets-fans-on-way-out-of-metlife/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-v8pl1yldn-1757280728352.jpg?quality=75&strip=all&1757266377&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-09-07T21:59:00Z"
+    },
+    {
+      "title": "See the blood moon rise in 1st pictures of September 2025 total lunar eclipse - Space",
+      "description": "See the first photos of September's majestic total lunar eclipse.",
+      "url": "https://www.space.com/stargazing/lunar-eclipses/blood-moon-1st-pictures-september-7-2025-total-lunar-eclipse",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oWWKjrwCVotfFF4rbxiQMT.png",
       "source": "Space.com",
-      "publishedAt": "2025-09-06T18:32:05Z"
+      "publishedAt": "2025-09-07T19:30:22Z"
+    },
+    {
+      "title": "World premiere of the GLC EQ: Mercedes electrifies its bestseller - electrive.com",
+      "description": "Shortly before the IAA kicks off, Mercedes has unveiled the long-awaited GLC with EQ technology – calling it a “turning point in the midsize segment”. The",
+      "url": "https://www.electrive.com/2025/09/07/world-premiere-of-the-glc-eq-mercedes-electrifies-its-bestseller/",
+      "urlToImage": "https://www.electrive.com/media/2025/09/mercedes-benz-glc-400-4matic-eq-iaa-2025-08.jpg",
+      "source": "Electrive.com",
+      "publishedAt": "2025-09-07T18:50:00Z"
+    },
+    {
+      "title": "Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases - AP News",
+      "description": "Florida has a plan to drop school vaccine mandates. But it likely won’t take effect for 90 days and would include only chickenpox and a few others unless lawmakers decide to extend it to other diseases. The Florida health department shared some details Sunday…",
+      "url": "https://apnews.com/article/florida-vaccine-mandates-children-4e697db6085dc5dd4bd9b206ed9a51b6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5ad8aa7/2147483647/strip/true/crop/4200x2363+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2F18%2F3ccd81abbfa549b979e97538ecd6%2Fb1d74ff6b2db4a4a8a5f2b75adf50142",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-07T18:43:00Z"
+    },
+    {
+      "title": "Trump administration launches immigration enforcement surge in Massachusetts - CNN",
+      "description": "The Trump administration launched a new federal immigration enforcement effort in Massachusetts focused on deporting criminals who entered the country illegally, according to the Department of Homeland Security.",
+      "url": "https://www.cnn.com/2025/09/07/politics/immigration-enforcement-surge-in-massachusetts",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-19t162446z-42259325-rc2eagav710l-rtrmadp-3-usa-trump-boston.JPG?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-07T17:51:00Z"
+    },
+    {
+      "title": "Pope Leo XIV canonizes ‘God’s influencer’ Carlo Acutis as the first millennial saint - PBS",
+      "description": "Pope Leo XIV declared a 15-year-old computer whiz the Catholic Church’s first millennial saint Sunday, giving the next generation of Catholics a relatable role model who used technology to spread the faith and earn the nickname “God’s influencer.”",
+      "url": "https://www.pbs.org/newshour/world/pope-leo-xiv-canonizes-gods-influencer-carlo-acutis-as-the-first-millennial-saint",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-07T121411Z_1339148042_RC2XMGAGYY3S_RTRMADP_3_VATICAN-SAINTS-ACUTIS-BRAZIL-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-07T16:58:53Z"
+    },
+    {
+      "title": "Interstellar Object 3I/ATLAS: Four Telescopes unveil strange features and findings — all about the new sci - The Economic Times",
+      "description": "Astronomers around the globe are closely tracking a rare interstellar visitor: object 3I/ATLAS. First spotted in early July as it raced toward the Sun from deep space, it marks only the third interstellar body ever recorded, after ʻOumuamua in 2017 and Comet …",
+      "url": "https://economictimes.indiatimes.com/news/international/us/interstellar-object-3i/atlas-four-telescopes-unveil-strange-features-and-findings-all-about-the-new-scientific-puzzle/articleshow/123749632.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-123749670,width-1200,height-630,imgsize-36359,overlay-economictimes/articleshow.jpg",
+      "source": "The Times of India",
+      "publishedAt": "2025-09-07T16:46:08Z"
     }
   ]
 }
