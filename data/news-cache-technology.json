@@ -1,167 +1,31 @@
 {
-  "updatedAt": "2025-09-10T06:38:39.844Z",
+  "updatedAt": "2025-09-11T06:38:42.273Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Plex tells users to reset passwords after new data breach - BleepingComputer",
-      "description": "Media streaming platform Plex is warning customers to reset passwords after suffering a data breach in which a hacker was able to steal customer authentication data from one of its databases.",
-      "url": "https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/08/15/Plex_logo.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2025-09-09T01:03:02Z"
+      "title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
+      "description": "ZDNET is reporting on all the news surrounding this week's Apple event, including the iPhone 17 series, which starts at $799, Apple Watch Series 11, AirPods Pro 3, and more.",
+      "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f1d469c721e25a192a169f6d3f22eaa3f15c2a02/2025/09/09/80954138-b402-4af5-ba58-786eeb0fb785/17pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-09-10T01:37:00Z"
     },
     {
-      "title": "Xbox sale round-up September 9, 2025 - TrueAchievements",
-      "description": "New Xbox sales are now live, with big discounts on Grand Theft Auto V, Red Dead Redemption 2, Sea of Thieves, Call of Duty: Black Ops, Fallout 4, Red Dead Redemption, Call of Duty and more",
-      "url": "https://www.trueachievements.com/n60177/xbox-sale-roundup-september-9-2025",
-      "urlToImage": "https://www.trueachievements.com/imgs/113479/xbox-weekly-sales.jpg",
-      "source": "TrueAchievements",
-      "publishedAt": "2025-09-09T00:09:01Z"
+      "title": "AirPods Pro 3 get foam-infused ear tips in five different sizes - 9to5Mac",
+      "description": "Two AirPods Pro 3 announcements earlier today weren’t about performance improvements or new sensors, but comfort and further customization.",
+      "url": "https://9to5mac.com/2025/09/09/airpods-pro-3-get-foam-infused-ear-tips-in-five-different-sizes/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-foam.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-09T23:33:00Z"
     },
     {
-      "title": "What’s new in Android’s September 2025 Google System Updates [U] - 9to5Google",
-      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across...",
-      "url": "http://9to5google.com/2025/09/08/september-2025-google-system-updates/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-09T00:07:00Z"
-    },
-    {
-      "title": "Ubisoft Releasing Star Wars Outlaws Switch 2 Demo \"Later This Year\" - Nintendo Life",
-      "description": "\"We'll share more information soon\"",
-      "url": "https://www.nintendolife.com/news/2025/09/ubisoft-releasing-star-wars-outlaws-switch-2-demo-later-this-year",
-      "urlToImage": "https://images.nintendolife.com/143128a3cf75d/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-09-09T00:05:00Z"
-    },
-    {
-      "title": "Google pulls ‘Daily Hub’ preview on Pixel 10 as it works on improvements - 9to5Google",
-      "description": "On the Pixel 10, Daily Hub brings together your calendar, Magic Cue, and other suggestions. Google is now pausing the public preview...",
-      "url": "http://9to5google.com/2025/09/08/pixel-10-daily-hub-pause/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-Daily-Hub-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-08T23:50:00Z"
-    },
-    {
-      "title": "AirPods Pro 3 Won't Get 'Major' Audio or Active Noise Cancellation Improvements - MacRumors",
-      "description": "The upcoming AirPods Pro 3 that Apple is expected to unveil tomorrow will not include notable improvements to audio quality or Active Noise...",
-      "url": "https://www.macrumors.com/2025/09/08/airpods-pro-3-no-major-anc-improvement/",
-      "urlToImage": "https://images.macrumors.com/t/z2sZZhvZCmSf2ZVhWb-tH0zaPF0=/2500x/article-new/2025/04/AirPods-Pro-3-Mock-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-08T23:20:58Z"
-    },
-    {
-      "title": "“That it runs at all is a miracle” — Borderlands 4 pres on PC specs - Windows Central",
-      "description": "Pitchford warns that below‑minimum hardware will mean an unplayable experience.",
-      "url": "https://www.windowscentral.com/gaming/borderlands-4s-randy-pitchford-warns-of-unplayable-performance-if-you-dont-meet-the-pc-system-requirements",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W9zEbn9oimiAPKXxRMNhHe.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-09-08T22:37:23Z"
-    },
-    {
-      "title": "AMD’s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games - The Verge",
-      "description": "AMD’s FSR 4 AI upscaling tech can now be enabled for most games that support FSR 3.1 thanks to the latest driver.",
-      "url": "https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,10.654292878952,100,78.691414242097",
-      "source": "The Verge",
-      "publishedAt": "2025-09-08T22:10:10Z"
-    },
-    {
-      "title": "Nest Doorbell 2K retail box specifies resolution, wider FOV - 9to5Google",
-      "description": "Google’s upcoming camera lineup continues to appear in stores, and we now have more details about the Nest Doorbell 2K, like the resolution.",
-      "url": "http://9to5google.com/2025/09/08/nest-doorbell-2k-resolution/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-tv-doorbell-notification-responses-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-08T22:04:00Z"
-    },
-    {
-      "title": "iPhone 17: Last Minute Rumor Recap Ahead of Tomorrow's Apple Event - MacRumors",
-      "description": "It's almost time for the September 9 Apple event, and last minute rumors have been trickling in. For a quick catch up, we've recapped the new...",
-      "url": "https://www.macrumors.com/2025/09/08/apple-event-rumor-recap/",
-      "urlToImage": "https://images.macrumors.com/t/KjEkOi8npgPHW713--jRAzomSBQ=/2500x/article-new/2025/08/iPhone-17-Pro-Feature-Dual.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-08T20:48:10Z"
-    },
-    {
-      "title": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit - The Verge",
-      "description": "Nintendo has won yet another piracy lawsuit, with a judge ordering Modded Hardware operator Ryan Daley to pay $2 million for allegedly selling hacked Switch consoles and modchips.",
-      "url": "https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-08T20:40:51Z"
-    },
-    {
-      "title": "Google rolling out Flashcards, Quizzes, and redesigned Reports to NotebookLM - 9to5Google",
-      "description": "Google's NotebookLM is rolling out Flashcards, Quizzes, redesigned Reports, and more learning tools today...",
-      "url": "http://9to5google.com/2025/09/08/notebooklm-flashcards-quizzes/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/NotebookLM-Flashcards-Quizzes-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-08T19:33:00Z"
-    },
-    {
-      "title": "Woot Has Big Deals on 2025 Gaming Releases, Including Monster Hunter Wilds for Under $30 - IGN",
-      "description": "Amazon outlet Woot has savings on 2025 releases including Avowed, Monster Hunter Wilds, and more.",
-      "url": "https://www.ign.com/articles/woot-has-big-deals-on-2025-gaming-releases-including-monster-hunter-wilds-for-under-30",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/08/woot-deals-1757344153653.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-08T19:02:06Z"
-    },
-    {
-      "title": "This Is the New 911 Turbo S—Porsche's Most Powerful 911 Ever - Motor1.com",
-      "description": "Porsche took the Carrera GTS’s hybrid system and added another electric turbocharger for more power than any 911 before.",
-      "url": "https://www.motor1.com/news/771380/2026-porsche-911-turbo-s/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/VzBONl/s1/2026-porsche-911-turbo-s-hybrid.jpg",
-      "source": "Motor1 ",
-      "publishedAt": "2025-09-08T18:52:19Z"
-    },
-    {
-      "title": "Google’s AI Mode adds 5 new languages including Hindi, Japanese, and Korean - TechCrunch",
-      "description": "Google's AI Mode is rolling out in Hindi, Indonesian, Japanese, Korean, and Brazilian Portuguese.",
-      "url": "https://techcrunch.com/2025/09/08/googles-ai-mode-adds-5-new-languages-including-hindi-japanese-and-korean/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-08T18:46:10Z"
-    },
-    {
-      "title": "Apple's Upcoming 'Awe Dropping' Event With iPhone 17 Air Draws Criticism As Commentator Daniel Newman Slams 'Lack Of Innovation' - Yahoo Finance",
-      "description": "As Apple Inc. (NASDAQ:AAPL) gears up for its highly anticipated iPhone 17 launch, industry analyst Daniel Newman has criticized the company for relying on...",
-      "url": "https://finance.yahoo.com/news/apples-upcoming-awe-dropping-event-183059932.html",
-      "urlToImage": "https://media.zenfs.com/en/benzinga_79/5b54b10f0d18e8439e1952d6ca16cdab",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-08T18:30:59Z"
-    },
-    {
-      "title": "Where To Find All Mask Shards In Hollow Knight: Silksong - GameSpot",
-      "description": "Increase your maximum health by gathering Mask Shards in Hollow Knight: Silksong.",
-      "url": "https://www.gamespot.com/gallery/hollow-knight-silksong-mask-shard-locations-guide/2900-6992/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1816/18167535/4563526-hollow-knight-silksong-mask-shards-locations-guide-.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-09-08T18:09:09Z"
-    },
-    {
-      "title": "Nova Launcher’s founder and sole developer has left - The Verge",
-      "description": "Kevin Barry, the founder and only developer of the Nova Launcher for Android, has left after being told to stop work on the launcher and open sourcing it.",
-      "url": "https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot_2024_08_09_at_5.17.19_PM.png.webp?quality=90&strip=all&crop=0%2C10.642922330563%2C100%2C78.714155338873&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-08T17:45:53Z"
-    },
-    {
-      "title": "Asus The Prime RTX 50 Series Graphics Cards Are Back Down to MSRP (The RTX 5070 Is Below MSRP) - IGN",
-      "description": "If you have an RTX 30 series card are older, now would be a good time to upgrade.",
-      "url": "https://www.ign.com/articles/asus-prime-rtx-50-series-graphics-cards-are-back-down-to-msrp",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/08/asusprimertx5070-1757351718697.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-08T17:45:24Z"
-    },
-    {
-      "title": "Best Buy's Big PS5/Xbox Video Game Clearance Sale Is Live Now - Kotaku",
-      "description": "Physical copies of Tiny Tina's Wonderlands, Deatloop, Midnight Suns, Diablo IV, Neon White, and more are cheap right now",
-      "url": "https://kotaku.com/best-buys-video-game-clearance-sale-includes-some-good-deals-on-big-games-2000624096",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/New-Project-2-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-09-08T17:41:18Z"
+      "title": "The New Apple Watches Are Here. You Should Probably Upgrade - WIRED",
+      "description": "Blood oxygen sensor controversies aside, improved battery life, new hypertension notifications, and the addition of satellite messaging are all good reasons to get a new Apple Watch this year.",
+      "url": "https://www.wired.com/story/apple-watch-series-11-se-ultra-3/",
+      "urlToImage": "https://media.wired.com/photos/68c073139bd92b57ade151d3/191:100/w_1280,c_limit/Apple-Watch-Series-11-hero-250909.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-09-09T19:05:45Z"
     }
   ]
 }
