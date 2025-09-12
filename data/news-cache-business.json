@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-09-11T06:38:42.334Z",
+  "updatedAt": "2025-09-12T06:38:14.161Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Dow Jones Futures: Oracle Soars On Huge Backlog; Palantir Leads Buys As Nasdaq Hits High - Investor's Business Daily",
-      "description": null,
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oracle-soars-nasdaq-high-palantir-buy-signal/",
-      "urlToImage": null,
+      "title": "Larry Ellison surpasses Elon Musk as world’s richest person - The Washington Post",
+      "description": "A huge surge in the value of Oracle hoists the enterprise software company’s co-founder into the top spot above Tesla’s chief executive.",
+      "url": "https://www.washingtonpost.com/technology/2025/09/10/larry-ellison-oracle-worlds-richest-man/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XJ324PZIIY2PHFERRGP7RYEOBQ_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-11T03:49:14Z"
+    },
+    {
+      "title": "Futures Rise After Oracle Rockets; Five New AI Buys - Investor's Business Daily",
+      "description": "But the broader stock market had a lackluster session.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ge-vernova-oracle-ai-stocks-cpi-inflation/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2023/08/Stock-rocketpandoraboxAI-01-adobe.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-10T03:08:00Z"
+      "publishedAt": "2025-09-11T03:10:00Z"
     },
     {
-      "title": "Judge blocks Trump from firing Fed Governor Lisa Cook while her lawsuit plays out - CNBC",
-      "description": "The Supreme Court is likely to have the final say on whether President Donald Trump has legal cause to remove Lisa Cook from the Federal Reserve.",
-      "url": "https://www.cnbc.com/2025/09/09/fed-lisa-cook-trump-powell-judge-jia-cobb-pulte.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190706-1756210091316-gettyimages-1240862464-775816195.jpeg?v=1756237041&w=1920&h=1080",
+      "title": "Subprime Auto Lender Tricolor Files for Bankruptcy - Bloomberg.com",
+      "description": "Tricolor Holdings, a used car seller and subprime lender that focuses on undocumented immigrants in the US Southwest, filed to liquidate in bankruptcy. US prosecutors are also looking into allegations of fraud by the company.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-10/subprime-auto-lender-tricolor-files-for-bankruptcy",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0euvfWarzHM/v0/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-11T01:01:00Z"
+    },
+    {
+      "title": "Girl Scouts announces new cookie flavor after 2 favorites get the ax - SFGATE",
+      "description": "Girl Scouts has announced that a new cookie flavor will join the lineup in January 2026.",
+      "url": "https://www.sfgate.com/food/article/girl-scouts-new-cookie-flavor-21041728.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/41/06/28447122/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2025-09-10T23:56:14Z"
+    },
+    {
+      "title": "Stock futures are little changed ahead of closely watched inflation data: Live updates - CNBC",
+      "description": "The S&P 500 is coming off another record close.",
+      "url": "https://www.cnbc.com/2025/09/10/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196951-17575211122025-09-10t161648z_1625886033_rc21pgab7hlg_rtrmadp_0_klarna-ipo.jpeg?v=1757521296&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-09-10T01:59:00Z"
+      "publishedAt": "2025-09-10T23:26:00Z"
     },
     {
-      "title": "China's consumer prices fall more than expected in August as deflation woes persist - CNBC",
-      "description": "China's consumer prices fell more than expected in August while deflation in factory-gate prices persisted, as calls mounted for Beijing to ramp up stimulus measures.",
-      "url": "https://www.cnbc.com/2025/09/10/china-cpi-august-deflation-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108162611-1750697186058-gettyimages-2210040739-AFP_42LT4G3.jpeg?v=1757466236&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-10T01:42:00Z"
+      "title": "Tesla Stock Bulls Wanted Growth, They Got Elon’s $1 Trillion Growth Package – Morgan Stanley Reacts - TipRanks",
+      "description": "Tesla (NASDAQ:TSLA) has proposed what may be the most over-the-top pay package ever: $1 trillion for Elon Musk. Yes, trillion – as in one followed by twelve zeros. ...",
+      "url": "https://www.tipranks.com/news/tesla-stock-bulls-wanted-growth-they-got-elons-1-trillion-growth-package-morgan-stanley-reacts",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/TSLA-Elon-Musk-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-10T23:20:54Z"
     },
     {
-      "title": "Billionaire fund manager sends dire message on Fed - TheStreet",
-      "description": "The Wall Street veteran delivered a blunt message.",
-      "url": "https://www.thestreet.com/investing/billionaire-hedge-fund-mogul-drops-bombshell-on-the-economy",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE1MTA2MzMxNTMzNjQ5NDI3/new-york-times-holds-annual-dealbook-summit.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-09-10T01:25:20Z"
+      "title": "“Waste of Time”: Boeing Stock (NYSE:BA) Slips As St. Louis Strike Goes Unresolved After Mediation - TipRanks",
+      "description": "The St. Louis strike for aerospace stock Boeing ($BA) is still going on, even as Boeing looks to bring in permanent replacement workers for the strikers. And a rece...",
+      "url": "https://www.tipranks.com/news/waste-of-time-boeing-stock-nyseba-slips-as-st-louis-strike-goes-unresolved-after-mediation",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/boeing-shutterstock_2673928459-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-10T23:03:45Z"
     },
     {
-      "title": "Trump’s tariffs seen cutting into China sales of US companies, survey finds - AP News",
-      "description": "Many U.S. companies in China expect sales to take a hit this year because of the tariffs imposed by U.S. President Donald Trump and China's retaliatory measures. This is according to a survey by the American Chamber of Commerce in Shanghai, released Wednesday…",
-      "url": "https://apnews.com/article/china-us-shanghai-chamber-tariffs-3ea0e7dbef2ef0f313fed22a20db7fdf",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ef10aa2/2147483647/strip/true/crop/8064x4536+0+420/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2F98%2F4aa78eabe3f3d16c38c86c73df1b%2F3a235cd242e449e981fc5e8c849c8e64",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-10T00:20:00Z"
-    },
-    {
-      "title": "Apple Stock Slides After Surprise-Free iPhone 17 Reveal - Investor's Business Daily",
-      "description": "Apple unveiled its fall product lineup on Tuesday, including the iPhone 17 series smartphones. Apple stock dipped after the event.",
-      "url": "https://www.investors.com/news/technology/apple-stock-iphone-17-introduction/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Apple-eventLogo-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-09T22:18:00Z"
-    },
-    {
-      "title": "Judge puts Anthropic’s $1.5 billion book piracy settlement on hold - The Verge",
-      "description": "A federal judge has rejected the $1.5 billion settlement that Anthropic agreed to pay authors for allegedly using pirated copies of their books for AI training.",
-      "url": "https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle - The Verge",
+      "description": "According to the WSJ, their five-year deal starts in 2027.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-09-09T21:45:42Z"
+      "publishedAt": "2025-09-10T23:01:10Z"
     },
     {
-      "title": "Why SpaceX made a $17B bet on the direct-to-cell market - TechCrunch",
-      "description": "The deal is the most aggressive signal yet that SpaceX wants to rule the satellite-to-phone market.",
-      "url": "https://techcrunch.com/2025/09/09/why-spacex-made-a-17b-bet-on-the-direct-to-cell-market/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Starlink_DTC_32eb20dfcb.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-09T21:44:20Z"
+      "title": "Trump appeals judge's order letting Cook stay on Fed board - Axios",
+      "description": "Trump is racing against the clock to  get Cook off the Fed board before a rate-setting meeting next week.",
+      "url": "https://www.axios.com/2025/09/10/trump-lisa-cook-appeal-fed-board-meeting",
+      "urlToImage": "https://images.axios.com/LqYxk6rsFauRKH89f-eBssAApvk=/0x0:5379x3026/1366x768/2025/09/10/1757522291708.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-10T22:08:53Z"
     },
     {
-      "title": "Forbes 2025 list of wealthiest Americans is out – From tech titans to retail moguls, who tops the list? - Mint",
-      "description": "Forbes’ 2025 list of the 400 wealthiest Americans shows major shifts in wealth, highlighting trends across technology, finance, and retail. The list also includes several newcomers to the elite group.",
-      "url": "https://www.livemint.com/news/us-news/forbes-2025-list-of-wealthiest-americans-is-out-from-tech-titans-to-retail-moguls-who-tops-the-list-11757451903705.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/09/09/1600x900/3587d94ad1d27f553d4476146b832babdc067bae84a5_1757452848180_1757452848352.jpg",
-      "source": "Livemint",
-      "publishedAt": "2025-09-09T21:23:58Z"
-    },
-    {
-      "title": "Oracle shares surge 27% to record high on jump in future AI revenue - Financial Times",
-      "description": "CEO hails ‘astonishing quarter’ of new deals to supply artificial intelligence computing power",
-      "url": "https://www.ft.com/content/d467e51e-8e03-4390-9f91-6874bd48a7f2",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffdc1921a-9275-4a76-872c-cb868776c0ee.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-09T20:58:13Z"
-    },
-    {
-      "title": "Gasoline's hit to Americans' wallets expected to hit a 20-year low - Politico",
-      "description": "Spending on gasoline will average less than 2 percent of drivers' disposable income this year, the Energy Information Administration predicted in a bit of welcome economic news for President Donald Trump.",
-      "url": "https://www.politico.com/news/2025/09/09/eia-gasoline-prices-as-share-of-household-income-likely-to-hit-20-year-low-00552872",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0e%2F78%2F77b99d2346aca3a7ff86a2784b70%2Fcalifornia-gas-prices-24342.jpg",
+      "title": "Republican senator pumps the brakes on GOP crypto bill - Politico",
+      "description": "“I don’t think we’re ready,” said Sen. John Kennedy (R-La.).",
+      "url": "https://www.politico.com/live-updates/2025/09/10/congress/republican-senator-pumps-the-brakes-on-gop-crypto-bill-00556262",
+      "urlToImage": "https://www.politico.com/dims4/default/8856cfe/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fed%2F29%2F7382e0e74c98b35e60112b8ba900%2Fsenate-banking-04753.jpg",
       "source": "Politico",
-      "publishedAt": "2025-09-09T20:57:34Z"
+      "publishedAt": "2025-09-10T20:59:09Z"
     },
     {
-      "title": "Tylenol maker's stock lost billions after a rumor linking the medicine to autism. Wall Street says buy the dip as one bank sees a 'major overreaction' - Fortune",
-      "description": "Canaccord Genuity went on social media to gauge the reaction. Even the MAHA crowd was mixed on this one.",
-      "url": "https://fortune.com/2025/09/09/does-tylenol-cause-autism-kenvue-stock-loses-billions-kennedy/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2216099156-e1757449702454.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-09T20:47:55Z"
-    },
-    {
-      "title": "Safeway closing 10 stores in Colorado, including 4 in Denver metro area - CBS News",
-      "description": "Safeway is closing 10 stores in Colorado before the end of the year, including four stores in the Denver metro area.",
-      "url": "https://www.cbsnews.com/colorado/news/safeway-closing-10-stores-colorado-4-denver-metro-area/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/09/edae637d-d768-48de-8489-cc2ef31e06aa/thumbnail/1200x630/dc749f9c6560d19f81d20e690eb6b390/gettyimages-535060995.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-09T20:44:00Z"
-    },
-    {
-      "title": "GameStop Stock Rises After Earnings and Revenue Beat Estimates - Barron's",
+      "title": "Klarna IPO: Stock Climbs 15% in Trading Debut - Barron's",
       "description": null,
-      "url": "https://www.barrons.com/articles/gamestop-stock-price-earnings-b327937c",
+      "url": "https://www.barrons.com/articles/klarna-ipo-stock-price-ticker-75e2512e",
       "urlToImage": null,
       "source": "Barron's",
-      "publishedAt": "2025-09-09T20:42:00Z"
+      "publishedAt": "2025-09-10T20:55:00Z"
     },
     {
-      "title": "Inflation quashed household income gains in 2024, census finds - The Washington Post",
-      "description": "The U.S. Census Bureau found that the richest Americans’ income rose last year, and women and Black people lost ground.",
-      "url": "https://www.washingtonpost.com/nation/2025/09/09/census-household-income-inflation/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FXAJCO3Q6UDCXYO5OL3NSD4XL4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-09T20:40:23Z"
+      "title": "Inflation is creeping higher, with some Americans saying they're squeezed: \"It's really challenging\" - CBS News",
+      "description": "The Consumer Price Index likely inched higher in August, reflecting higher costs for food and other items, economists say.",
+      "url": "https://www.cbsnews.com/news/cpi-report-august-2025-inflation-prices-economy-trump-tariffs/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/11/dfaac0d5-d5e0-44c2-9504-54bc72d5c616/thumbnail/1200x630/d70c16e22193fdaad6d0f3bc83a3fde9/gettyimages-1470350052.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-10T20:41:07Z"
     },
     {
-      "title": "All Three Major Stock-Market Indexes Close at Records on Hopes for Deeper Rate Cuts - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-09-2025-1a04e395",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-09T20:32:00Z"
+      "title": "Labor Department watchdog launches probe into the Bureau of Labor Statistics - CBS News",
+      "description": "Internal review, which will focus on how BLS collects and reports economic data, follows claims by President Trump that the statistics bureau is politicized.",
+      "url": "https://www.cbsnews.com/news/bls-jobs-inflation-department-of-labor-trump/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/6fdb0b5a-69d9-461d-8983-81ad80291f3b/thumbnail/1200x630/e23ec7d3642db78adf296120a6c3274e/gettyimages-2233831094.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-10T20:23:00Z"
     },
     {
-      "title": "U.S. FDA approval of INLEXZO™ (gemcitabine intravesical system) set to transform how certain bladder cancers are treated - Johnson & Johnson",
-      "description": "First and only drug releasing system to provide extended local delivery of a cancer medication into the bladder, with 82 percent of patients achieving complete response without the need for reinduction1 Potential practice-changing treatment for certain patien…",
-      "url": "https://www.jnj.com/media-center/press-releases/u-s-fda-approval-of-inlexzo-gemcitabine-intravesical-system-set-to-transform-how-certain-bladder-cancers-are-treated",
-      "urlToImage": "https://jnj-content-lab2.brightspotcdn.com/dims4/default/775d1f8/2147483647/strip/true/crop/2468x1388+416+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fjnj-production-jnj.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2Ff4%2F59697f0f475a8d041211dca43dbb%2Finlexzo-optimized-logo-002.jpg",
-      "source": "Jnj.com",
-      "publishedAt": "2025-09-09T20:31:01Z"
+      "title": "SpaceX buys $17 billion worth of satellite spectrum to beef up Starlink broadband service - Space",
+      "description": "SpaceX promises a step change in performance for cell phone users around the world.",
+      "url": "https://www.space.com/space-exploration/satellites/spacex-buys-usd17-billion-worth-of-satellite-spectrum-to-beef-up-starlink-broadband-service",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QDDWjSEmxw8CXy24wo4sMd.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-10T20:00:00Z"
     },
     {
-      "title": "Stock Market News Review: SPY, QQQ Shrug Off Record-Breaking Jobs Revision and Warning from JPMorgan CEO Jamie Dimon - TipRanks",
-      "description": "Both the SP 500 ETF ($SPY) and the Nasdaq 100 ETF ($QQQ) closed in positive territory on Tuesday ahead of key inflation data later this week. In a resilient mo...",
-      "url": "https://www.tipranks.com/news/stock-market-news-review-spy-qqq-shrug-off-record-breaking-jobs-revision-and-warning-from-jpmorgan-ceo-jamie-dimon",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2671361983-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-09-09T20:30:00Z"
+      "title": "Cash yields set to fall as Fed cuts rates. Where to put your money to work instead - CNBC",
+      "description": "Investors should not waste any time moving out of excess cash ahead of the anticipated Federal Reserve rate cuts, many on Wall Street are warning.",
+      "url": "https://www.cnbc.com/2025/09/10/cash-yields-set-to-fall-as-fed-cuts-rates-where-to-put-your-money-to-work-instead.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197083-1757530631998-gettyimages-1222040206-dscf5863-----gi--30apr20.jpeg?v=1757530690&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-10T19:39:49Z"
     },
     {
-      "title": "U.S. employers added 911,000 fewer jobs than first reported, new BLS data shows - The Washington Post",
-      "description": "The revisions arrive as government statistics have become increasingly politicized. Last month, Trump took the unprecedented step of firing the BLS commissioner, Erika McEntarfer, over weak jobs data.",
-      "url": "https://www.washingtonpost.com/business/2025/09/09/us-jobs-economy/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HQX2FI4SS6UEOZVVWDLDNMK56U.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-09T20:11:20Z"
+      "title": "Mortgage Applications Today: New Homeowner Loan Demand Climbs to 3-Year High as Interest Rates Fall - Realtor.com",
+      "description": "Home loan demand reached the highest level in more than three years and refinance applications moved higher following a dip in interest rates.",
+      "url": "https://www.realtor.com/news/trends/mortgage-applications-apply-for-loan-september-10-2025/",
+      "urlToImage": "https://na.rdcpix.com/1e55ad1d0505d41cba217de3680139f2w-c518849607srd_q80.jpg",
+      "source": "Realtor.com News",
+      "publishedAt": "2025-09-10T19:30:00Z"
+    },
+    {
+      "title": "Potbelly is being acquired by gas station and convenience chain RaceTrac for $566 million - AP News",
+      "description": "Sandwich maker Potbelly is being acquired by the gas station and convenience story chain RaceTrac for $566 million. Potbelly, which was founded in Chicago in 1977, has 445 restaurants across the U.S. The company said the deal with RaceTrac will help it reach …",
+      "url": "https://apnews.com/article/potbelly-racetrac-sandwich-convenience-store-8d6e8be23040ef88ed4121a30eb55950",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f2733f4/2147483647/strip/true/crop/5084x2860+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2F83%2F61ca5dd89848a97a82297155302f%2F29ce53fbf6cb4cefaaab525c1c09c068",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-10T17:50:00Z"
+    },
+    {
+      "title": "Top Stock Movers Now: Oracle, GameStop, Synopsys, and More - Investopedia",
+      "description": "The S&P 500 and Nasdaq climbed to record highs Wednesday following a report showing wholesale inflation surprisingly fell in August.",
+      "url": "https://www.investopedia.com/top-stock-movers-now-oracle-gamestop-synopsys-and-more-11807167",
+      "urlToImage": "https://www.investopedia.com/thmb/m98py632K_4uaDVwzx_fspq636E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2205578283-f354a947c22843159e61686978d46e4d.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-09-10T17:29:17Z"
     }
   ]
 }

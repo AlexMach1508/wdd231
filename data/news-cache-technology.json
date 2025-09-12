@@ -1,31 +1,39 @@
 {
-  "updatedAt": "2025-09-11T06:38:42.273Z",
+  "updatedAt": "2025-09-12T06:38:14.104Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
-      "description": "ZDNET is reporting on all the news surrounding this week's Apple event, including the iPhone 17 series, which starts at $799, Apple Watch Series 11, AirPods Pro 3, and more.",
-      "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f1d469c721e25a192a169f6d3f22eaa3f15c2a02/2025/09/09/80954138-b402-4af5-ba58-786eeb0fb785/17pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-10T01:37:00Z"
+      "title": "New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trade-in offers and savings that add up - Verizon",
+      "description": "Get the new iPhone 17 lineup at Verizon with incredible offers, 5G power, and a 3-year price-lock guarantee. Pre-order starts Sept 12, available Sept 19.",
+      "url": "https://www.verizon.com/about/news/iphone-17-air-pro-max-verizon-offers",
+      "urlToImage": "https://www.verizon.com/about/sites/default/files/styles/webp_style/public/2025-09/iphone17family-1230x690.webp",
+      "source": "Verizon Communications",
+      "publishedAt": "2025-09-10T17:50:01Z"
     },
     {
-      "title": "AirPods Pro 3 get foam-infused ear tips in five different sizes - 9to5Mac",
-      "description": "Two AirPods Pro 3 announcements earlier today weren’t about performance improvements or new sensors, but comfort and further customization.",
-      "url": "https://9to5mac.com/2025/09/09/airpods-pro-3-get-foam-infused-ear-tips-in-five-different-sizes/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-foam.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-09T23:33:00Z"
+      "title": "Let’s compare the specs of the Apple Watch Series 11, Ultra 3, and SE 3 - The Verge",
+      "description": "Apple debuted the Watch Series 11, the Ultra 3, and the affordable third-gen SE. We’re breaking down their differences to help you decide which is best for you.",
+      "url": "https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Apple-Watch-Series-11.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-10T15:21:05Z"
     },
     {
-      "title": "The New Apple Watches Are Here. You Should Probably Upgrade - WIRED",
-      "description": "Blood oxygen sensor controversies aside, improved battery life, new hypertension notifications, and the addition of satellite messaging are all good reasons to get a new Apple Watch this year.",
-      "url": "https://www.wired.com/story/apple-watch-series-11-se-ultra-3/",
-      "urlToImage": "https://media.wired.com/photos/68c073139bd92b57ade151d3/191:100/w_1280,c_limit/Apple-Watch-Series-11-hero-250909.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-09-09T19:05:45Z"
+      "title": "watchOS 26 Adds Four New Apple Watch Faces - MacRumors",
+      "description": "When Apple previewed watchOS 26 in June at WWDC, the company didn't reveal any new watch faces, but now we know Apple was just holding them back...",
+      "url": "https://www.macrumors.com/2025/09/10/watchos-26-adds-four-new-apple-watch-faces/",
+      "urlToImage": "https://images.macrumors.com/t/bRitGdpGj5P96769gtCdRPuS1wc=/1920x/article-new/2025/09/watchos-26-faces.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-10T15:03:22Z"
+    },
+    {
+      "title": "Spotify Is Finally Launching Lossless Audio For Premium Subscribers - The Hollywood Reporter",
+      "description": "\"The wait is finally over,\" Spotify's Gustav Gyllenhammar said in a statement Wednesday, over four years after Spotify first announced plans for a HiFi offering back in 2021.",
+      "url": "http://www.hollywoodreporter.com/music/music-industry-news/spotify-lossless-audio-launch-1236366685/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-1461363374.jpg?crop=0px%2C12px%2C6000px%2C3357px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-10T11:03:45Z"
     }
   ]
 }
