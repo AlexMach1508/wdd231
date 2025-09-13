@@ -1,39 +1,151 @@
 {
-  "updatedAt": "2025-09-12T06:38:14.104Z",
+  "updatedAt": "2025-09-13T06:34:16.812Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trade-in offers and savings that add up - Verizon",
-      "description": "Get the new iPhone 17 lineup at Verizon with incredible offers, 5G power, and a 3-year price-lock guarantee. Pre-order starts Sept 12, available Sept 19.",
-      "url": "https://www.verizon.com/about/news/iphone-17-air-pro-max-verizon-offers",
-      "urlToImage": "https://www.verizon.com/about/sites/default/files/styles/webp_style/public/2025-09/iphone17family-1230x690.webp",
-      "source": "Verizon Communications",
-      "publishedAt": "2025-09-10T17:50:01Z"
+      "title": "Apple Watch hypertension alerts feature receives FDA clearance - 9to5Mac",
+      "description": "When Apple announced the new Apple Watch Series 11 and Apple Watch Ultra 3 this week, it unveiled its latest...",
+      "url": "https://9to5mac.com/2025/09/11/apple-watch-hypertension-alerts-feature-receives-fda-clearance/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.20.40.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-12T01:45:00Z"
     },
     {
-      "title": "Let’s compare the specs of the Apple Watch Series 11, Ultra 3, and SE 3 - The Verge",
-      "description": "Apple debuted the Watch Series 11, the Ultra 3, and the affordable third-gen SE. We’re breaking down their differences to help you decide which is best for you.",
-      "url": "https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Apple-Watch-Series-11.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-10T15:21:05Z"
+      "title": "\"We Fully Agree\": Bungie Admits Destiny 2 Ash & Iron Power Climb Feels \"Way Off,\" Promises Immediate Fixes and Reward Buffs - The Game Post",
+      "description": "Bungie admits Destiny 2’s Ash & Iron power progression is broken. The studio is rolling out immediate reward buffs, score changes, and Prime drop boosts, starting this week.",
+      "url": "https://thegamepost.com/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/09/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs-1.webp",
+      "source": "Thegamepost.com",
+      "publishedAt": "2025-09-11T19:48:05Z"
     },
     {
-      "title": "watchOS 26 Adds Four New Apple Watch Faces - MacRumors",
-      "description": "When Apple previewed watchOS 26 in June at WWDC, the company didn't reveal any new watch faces, but now we know Apple was just holding them back...",
-      "url": "https://www.macrumors.com/2025/09/10/watchos-26-adds-four-new-apple-watch-faces/",
-      "urlToImage": "https://images.macrumors.com/t/bRitGdpGj5P96769gtCdRPuS1wc=/1920x/article-new/2025/09/watchos-26-faces.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-10T15:03:22Z"
+      "title": "Borderlands 4 Launches To Mostly Negative Steam Reviews Over Performance Issues And Crashing - TheGamer",
+      "description": "Unreal Engine 5 strikes again.",
+      "url": "https://www.thegamer.com/borderlands-4-launches-to-mostly-negative-steam-reviews-performance-issues-crashing/",
+      "urlToImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/05/ss_75c6848a4cdcb6bd72b92f3d48625fa06974d3e3.jpg?w=1600&h=900&fit=crop",
+      "source": "TheGamer",
+      "publishedAt": "2025-09-11T19:19:00Z"
     },
     {
-      "title": "Spotify Is Finally Launching Lossless Audio For Premium Subscribers - The Hollywood Reporter",
-      "description": "\"The wait is finally over,\" Spotify's Gustav Gyllenhammar said in a statement Wednesday, over four years after Spotify first announced plans for a HiFi offering back in 2021.",
-      "url": "http://www.hollywoodreporter.com/music/music-industry-news/spotify-lossless-audio-launch-1236366685/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-1461363374.jpg?crop=0px%2C12px%2C6000px%2C3357px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-10T11:03:45Z"
+      "title": "Is Hollow Knight: Silksong too hard? Well, it depends on what you mean by “hard.” - Ars Technica",
+      "description": "The Ars Difficulty Matrix™ helps us analyze the many dimensions of Silksong’s challenges.",
+      "url": "https://arstechnica.com/gaming/2025/09/is-hollow-knight-silksong-too-hard-well-it-depends-on-what-you-mean-by-hard/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/silksong1-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-11T17:45:40Z"
+    },
+    {
+      "title": "Borderlands 4 Tips: 9 Ways To Master Gearbox's Looter-Shooter - GameSpot",
+      "description": "These handy tips for the Borderlands 4 early game will make your first steps on Kairos far smoother.",
+      "url": "https://www.gamespot.com/gallery/borderlands-4-tips/2900-7000/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1850/18507742/4564374-borderlands4screenshot-4playerco-op.png",
+      "source": "GameSpot",
+      "publishedAt": "2025-09-11T17:00:36Z"
+    },
+    {
+      "title": "Apple blocks translation AirPods in EU over regulatory concerns - politico.eu",
+      "description": "Europeans won’t be able to enjoy a shiny new feature Apple presented at this week’s unveiling of a set of new iPhones and AirPods. Apple introduced new AirPods on Tuesday, featuring real-time trans…",
+      "url": "https://www.politico.eu/article/apple-blocks-airpods-translation-eu-because-regulation/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/11/GettyImages-2233948447-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-11T16:09:13Z"
+    },
+    {
+      "title": "Get ready to discover and shop the next generation of iPhone, Apple Watch, and AirPods - Apple",
+      "description": "Apple fans can pre-order and upgrade to the groundbreaking iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone 17 Pro Max starting Friday, September 12.",
+      "url": "https://www.apple.com/newsroom/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/",
+      "urlToImage": "https://www.apple.com/newsroom/images/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/tile/Apple-September-2025-new-product-lineups-lp.jpg.og.jpg?202509111501",
+      "source": "Apple Newsroom",
+      "publishedAt": "2025-09-11T15:01:12Z"
+    },
+    {
+      "title": "Windows 11’s September patch secretly deletes two programs. Here’s why - PCWorld",
+      "description": "Anyone who installs the latest Windows 11 update will lose two programs that may still be present on the system.",
+      "url": "https://www.pcworld.com/article/2906615/windows-11s-september-patch-secretly-deletes-two-programs-heres-why.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Windows-11-key-on-keyboard-stylized-illustration-5.jpg?quality=50&strip=all&w=1024",
+      "source": "PCWorld",
+      "publishedAt": "2025-09-11T14:09:00Z"
+    },
+    {
+      "title": "Borderlands 4 Shift Codes to Redeem Now (September 2025) - Push Square",
+      "description": "Every active Borderlands 4 SHiFT Code listed",
+      "url": "https://www.pushsquare.com/guides/borderlands-4-shift-codes-to-redeem-now-september-2025",
+      "urlToImage": "https://images.pushsquare.com/110a62bb3c05c/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-09-11T14:00:00Z"
+    },
+    {
+      "title": "Cyberpunk 2077 Patch 2.31 Adds New Wreckless Auto-Driving Mode And More - GameSpot",
+      "description": null,
+      "url": "https://www.gamespot.com/articles/cyberpunk-2077-patch-2-31-adds-new-wreckless-auto-driving-mode-and-more/1100-6534643/",
+      "urlToImage": null,
+      "source": "GameSpot",
+      "publishedAt": "2025-09-11T13:55:15Z"
+    },
+    {
+      "title": "Football Manager 26 Preorders Are Now Live After Skipping Last Year - IGN",
+      "description": "Football Manager 26 is finally back after last year’s cancellation, launching November 4 with preorders live on PC now, including an immediate discount.",
+      "url": "https://www.ign.com/articles/football-manager-26-where-to-buy",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/11/fm26-release-date-preorders-ign-1757584971350.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-09-11T10:18:54Z"
+    },
+    {
+      "title": "Still Running Windows 10? Make Sure You Take This Step Before Oct. 14 - CNET",
+      "description": "If you don't plan to upgrade to Windows 11, you can still receive critical security updates -- and there's a way to get them for free.",
+      "url": "https://www.cnet.com/tech/services-and-software/still-running-windows-10-make-sure-you-take-this-step-before-oct-14/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/6bde21e6253f1809708545f3cc138569f0a8bbe6/hub/2020/07/02/de3cf4c1-15a3-4bb7-93c5-c03d48f80944/windows-10.png?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-11T09:45:00Z"
+    },
+    {
+      "title": "Fujifilm’s Cinema Camera is Called the GFX Eterna 55, Will Cost $16,500 - PetaPixel",
+      "description": "Fujifilm has fully announced the medium format cinema camera it has been slowly teasing over the past year.",
+      "url": "https://petapixel.com/2025/09/10/fujifilms-cinema-camera-is-called-the-gfx-eterna-55-will-cost-16500/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/09/Fujifilms-Cinema-Camera-is-Called-the-GFX-Eterna-55-Will-Cost-16500.jpg",
+      "source": "PetaPixel",
+      "publishedAt": "2025-09-11T01:01:31Z"
+    },
+    {
+      "title": "Elon Musk Says Starship Will Begin Launching 100 Tons to LEO in 2026 - extremetech.com",
+      "description": "Musk claims SpaceX will demonstrate full reusability, catching both the super heavy booster and Starship upper stage.",
+      "url": "https://www.extremetech.com/aerospace/elon-musk-says-starship-will-begin-launching-100-tons-to-leo-in-2026",
+      "urlToImage": "https://i.extremetech.com/imagery/content-types/00J308DpyFeBQfTDE1wTDJ2/hero-image.fill.size_1200x675.jpg",
+      "source": "ExtremeTech",
+      "publishedAt": "2025-09-10T17:45:07Z"
+    },
+    {
+      "title": "Atari's new retro console is my excuse to avoid real life - Creative Bloq",
+      "description": "Why I'm preordering the Gamestation Go.",
+      "url": "https://www.creativebloq.com/entertainment/gaming/why-im-pre-ordering-ataris-new-handheld-the-nintendo-switch-for-retro-gamers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bN9wPzN98LRvEPVcstcaiL.jpg",
+      "source": "Creative Bloq",
+      "publishedAt": "2025-09-10T15:00:00Z"
+    },
+    {
+      "title": "FromSoftware unveils Elden Ring Nightreign's new mode ahead of release tomorrow - Eurogamer",
+      "description": "FromSoftware has unveiled its new Deep of Night mode for Elden Ring Nightreign, ahead of its release tomorrow, 11th Sep…",
+      "url": "https://www.eurogamer.net/fromsoftware-unveils-elden-ring-nightreigns-new-mode-ahead-of-release-tomorrow",
+      "urlToImage": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-DeepOfNight-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-09-10T14:41:25Z"
+    },
+    {
+      "title": "Nvidia just started rolling out RTX 5080 for GeForce Now, and you can see exactly when it's available in your region - PC Guide",
+      "description": "Follow the rollout map for Blackwell RTX GeForce Now on Nvidia's website. You can see when your region is getting RTX 5080-level performance.",
+      "url": "https://www.pcguide.com/news/nvidia-just-started-rolling-out-rtx-5080-for-geforce-now-and-you-can-see-exactly-when-its-available-in-your-region/",
+      "urlToImage": "https://www.pcguide.com/wp-content/uploads/2025/09/GeForce-Now-RTX-5080-rollout-map.jpg",
+      "source": "Pcguide.com",
+      "publishedAt": "2025-09-10T13:06:14Z"
+    },
+    {
+      "title": "Daily Crossword: The Fishing Puzzle — September 10 - Vulture",
+      "description": "Can you solve the latest Vulture 10x10 daily crossword puzzle clue? 5-Across, Four Letters: Metacritic’s highest-rated album of 2024",
+      "url": "http://www.vulture.com/article/daily-crossword-puzzle-september-10-2025.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/9d5/a41/24ff9bfeb597945e6f52b435416a0ac4de-crossword-9-10-2025.1x.rsocial.w1200.jpg",
+      "source": "Vulture",
+      "publishedAt": "2025-09-10T09:00:51Z"
     }
   ]
 }
