@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2025-09-13T06:34:16.862Z",
+  "updatedAt": "2025-09-14T06:35:13.217Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "OpenAI Realignment to Give Nonprofit Over $100 Billion Stake - Bloomberg.com",
-      "description": "OpenAI said it’s closer to converting into a more traditional for-profit company — nearing the resolution of painful negotiations with top shareholder Microsoft Corp. and outlining terms of at least $100 billion in equity for its nonprofit arm.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-11/microsoft-openai-reach-early-agreement-in-for-profit-change",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4KiSn8bi79Y/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-12T01:26:00Z"
-    },
-    {
-      "title": "Stock futures are flat after rate-cut hopes send market to new highs: Live updates - CNBC",
-      "description": "Stocks had a winning session Thursday with all three major averages logging fresh closing highs.",
-      "url": "https://www.cnbc.com/2025/09/11/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-12T00:15:00Z"
-    },
-    {
-      "title": "Adobe Boosts Fiscal-Year View as AI Spending Starts to Pay Off - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/earnings/adobe-boosts-view-as-sales-profit-continue-to-rise-86f60936",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-11T23:34:00Z"
-    },
-    {
-      "title": "Housing costs squeeze owners and renters alike, outpacing inflation - The Washington Post",
-      "description": "The median increases in rent payments and homeowner costs outpaced inflation, according to new Census bureau data on the U.S. housing market.",
-      "url": "https://www.washingtonpost.com/nation/2025/09/11/mortgage-rent-costs-census/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WXNJC4CJHF5V574ILEPJ62QEQY_size-normalized.jpg&w=1440",
+      "title": "Fed governor Lisa Cook called condo a second home, documents show - The Washington Post",
+      "description": "The documents, first reported by Reuters on Friday evening, come as Trump is pushing to fire Cook over unproven allegations of mortgage fraud.",
+      "url": "https://www.washingtonpost.com/business/2025/09/12/lisa-cook-fed-mortgage-documents/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HSLMXHAKDXHMKMKJ2GAGLSA6TE.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-11T23:05:39Z"
+      "publishedAt": "2025-09-13T03:11:00Z"
     },
     {
-      "title": "Donald Trump asks appeals court to let him fire Lisa Cook before next week’s Fed meeting - Financial Times",
-      "description": "US central bank set to make a pivotal decision on interest rates",
-      "url": "https://www.ft.com/content/201ee59e-bb92-4352-98ca-b08e4fea1803",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F69306478-fc94-472f-bfb3-b5c518b00ee8.jpg?source=next-barrier-page",
+      "title": "Elon Musk's xAI lays off hundreds of data annotators - Business Insider",
+      "description": "XAI laid off at least 500 of the workers on its data annotation team on Friday night.",
+      "url": "https://www.businessinsider.com/elon-musk-xai-layoffs-data-annotators-2025-9",
+      "urlToImage": "https://i.insider.com/68c4dc5257d362d375e81fbf?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-13T02:33:00Z"
+    },
+    {
+      "title": "Trump Files to Cancel Approval of Maryland Offshore Wind Farm - Bloomberg.com",
+      "description": "The Trump administration asked a federal court to cancel the approval of a $6 billion wind project planned off the coast of Maryland as part of a wider effort to halt the development of the offshore clean- energy resource.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-13/trump-files-to-cancel-approval-of-maryland-offshore-wind-farm",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOj6NIJG3XaA/v0/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-13T01:49:00Z"
+    },
+    {
+      "title": "Lutnick says Musk was ‘backward’ in cutting government - The Washington Post",
+      "description": "The commerce secretary said the billionaire’s efforts focused too much on reducing the workforce rather than targeting waste.",
+      "url": "https://www.washingtonpost.com/politics/2025/09/12/lutnick-musk-doge-cuts-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QPFLJVDZIAXVGDOJQLE64ZNGHM.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-13T00:32:01Z"
+    },
+    {
+      "title": "‘Not All AI Bets Can Win,’ Warns Analyst on Oracle Stock (ORCL) - TipRanks",
+      "description": "It’s rare to see a company as large as Oracle ($ORCL) surge nearly 40% in a single trading day on the back of its blockbuster Q1 2026 earnings call. Although\n<d...",
+      "url": "https://www.tipranks.com/news/not-all-ai-bets-can-win-warns-analyst-on-oracle-stock-orcl",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2378604737-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-12T23:48:45Z"
+    },
+    {
+      "title": "Boeing’s (BA) Striking Defense Workers Reject Latest Contract Offer - TipRanks",
+      "description": "The workers turned down a 45% wage increase.",
+      "url": "https://www.tipranks.com/news/boeings-ba-striking-defense-workers-reject-latest-contract-offer",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/aaa-87-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-12T23:48:45Z"
+    },
+    {
+      "title": "Micron Stock (MU) Pops as Citi Hikes Price Target Ahead of Q4 Earnings - TipRanks",
+      "description": "Shares of Micron Technology ($MU) jumped after top analysts raised their price targets ahead of the company’s Q4 earnings report. The upgrades show confidence in st...",
+      "url": "https://www.tipranks.com/news/micron-stock-mu-pops-as-citi-hikes-price-target-ahead-of-q4-earnings",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_1951003531-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-12T23:48:45Z"
+    },
+    {
+      "title": "Moderna Falls as Trump Officials Tie Child Deaths to Covid Shots - Bloomberg.com",
+      "description": "Vaccine makers’ shares fell after a report that Trump health officials plan to link Covid shots to the deaths of around two dozen children in a presentation to advisers to the Centers for Disease Control and Prevention next week.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-12/moderna-falls-as-trump-officials-tie-child-deaths-to-covid-shots",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivNk5wQ48HcA/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-12T23:43:40Z"
+    },
+    {
+      "title": "Black Rock Coffee Bar, founded in Oregon, worth more than $1 billion after IPO - OregonLive.com",
+      "description": "Like Dutch Bros, Black Rock moved its headquarters to Arizona.",
+      "url": "https://www.oregonlive.com/business/2025/09/black-rock-coffee-bar-founded-in-oregon-worth-more-than-1-billion-after-ipo.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/ENEHE6M7JZF3TNCYRRXMATA6SY.jpeg?auth=67749a64f7b04e6194428d5cb2deb2b42df8669bca4652fe3957a6823f6b88b8&width=1280&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-09-12T22:32:00Z"
+    },
+    {
+      "title": "Tim Cook addresses iPhone Air battery life in new interview at Corning factory - 9to5Mac",
+      "description": "Tim Cook visited Corning’s factory in Kentucky, where he spoke with CNBC’s Jim Cramer about the company’s recent product announcements.",
+      "url": "https://9to5mac.com/2025/09/12/tim-cook-iphone-air-battery-interview/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-Air0003-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-12T22:12:00Z"
+    },
+    {
+      "title": "Bank of America chief Brian Moynihan shakes up leadership team - Financial Times",
+      "description": "Overhaul comes as lender hones list of candidates to replace longtime leader in the future",
+      "url": "https://www.ft.com/content/82e1d2db-cccc-4080-876a-fab28b1a2676",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6866663f-1ac7-4087-b34d-b7a13a84fd00.jpg?source=next-barrier-page",
       "source": "Financial Times",
-      "publishedAt": "2025-09-11T22:16:43Z"
+      "publishedAt": "2025-09-12T21:44:46Z"
     },
     {
-      "title": "OpenAI Needs Data Centers So Much, It Signed a $300B Deal With Oracle - CNET",
-      "description": "The ChatGPT maker has a big appetite for expensive data center capacity.",
-      "url": "https://www.cnet.com/tech/services-and-software/openai-needs-data-centers-so-much-it-signed-a-300b-deal-with-oracle/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/98c38eeffc9a1031e54173748761153697727d4a/hub/2025/09/11/20a5fc31-f635-4d05-98a0-a3a18dd5ca2e/stargate-advances-with-partnership-with-oracle-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-09-11T21:23:00Z"
+      "title": "Via shrugs off tepid open to end first day of trading slightly above IPO price - TechCrunch",
+      "description": "Transit tech software startup Via had its IPO debut on Friday, starting at below offering price before rising to close at nearly $50.",
+      "url": "https://techcrunch.com/2025/09/12/via-shrugs-off-tepid-open-to-end-first-day-of-trading-slightly-above-ipo-price/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/IMG_9392.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-12T21:16:00Z"
     },
     {
-      "title": "Popular sandwich shop to be bought by gas station chain in $566M deal - MLive.com",
-      "description": "The acquisition is expected to help the fast-causal restaurant quadruple its size.",
-      "url": "https://www.mlive.com/news/2025/09/popular-sandwich-shop-to-be-bought-by-gas-station-chain-in-566m-deal.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/NQ3Z6UZFJVHZVO66BDKKH357ZE.JPG?auth=9bb55ed852c9748c48877b4a930c6b3ab4fe2e5af97c336a5a90d51458781e4d&width=1280&quality=90",
-      "source": "mlive.com",
-      "publishedAt": "2025-09-11T21:00:00Z"
+      "title": "Massachusetts sues Kalshi alleging illegal sports gambling - CNBC",
+      "description": "Massachusetts argues Kalshi is making more money on sports wagers than legal, licensed sportsbooks.",
+      "url": "https://www.cnbc.com/2025/09/12/massachusetts-sues-kalshi-sports-gambling.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108141257-1746480026270-gettyimages-2198224769-CRYPTOCOM_KALSHI.jpeg?v=1757710299&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-12T20:54:59Z"
     },
     {
-      "title": "Opendoor brings back its founders and welcomes a new CEO from Shopify—who could earn $2.8 billion if he sends the stock soaring - Fortune",
-      "description": "If Kaz Nejatian can clear all the performance hurdles in his compensation package, he’ll own 11.6% of the tech company.",
-      "url": "https://fortune.com/2025/09/11/opendoor-technologies-ceo-founder-mode-stock/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1259681673-e1757622374307.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-11T20:58:00Z"
+      "title": "Stellantis cancels Ram 1500 REV as electric truck demand dims - The Verge",
+      "description": "Stellantis is axing its Ram 1500 REV electric truck, citing decreasing demand for heavy duty trucks.",
+      "url": "https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24338652/CN023_035RM.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-12T20:17:51Z"
     },
     {
-      "title": "Figure Stock Surges in Trading Debut. The Blockchain Lending Company Is Another Hot IPO. - Barron's",
+      "title": "Opendoor Stock Is Falling. ‘It’s Not a Meme Stock,’ New Chairman Says. - Barron's",
       "description": null,
-      "url": "https://www.barrons.com/articles/figure-technology-solutions-stock-ipo-blockchain-3b74cc61",
+      "url": "https://www.barrons.com/articles/opendoor-stock-price-meme-chairman-6165d4c3",
       "urlToImage": null,
       "source": "Barron's",
-      "publishedAt": "2025-09-11T20:27:00Z"
+      "publishedAt": "2025-09-12T20:09:00Z"
     },
     {
-      "title": "Stocks and bonds are sending very different messages about recession risks - MarketWatch",
-      "description": "The stock market keeps touching fresh record highs, while the bond market is girding for trouble in the economy",
-      "url": "https://www.marketwatch.com/story/stocks-and-bonds-are-sending-very-different-messages-about-recession-risks-fcd4d248",
-      "urlToImage": "https://images.mktw.net/im-04640374/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-11T20:20:00Z"
-    },
-    {
-      "title": "Will Boeing End Defense Workers Strike With Friday Vote? - Investor's Business Daily",
-      "description": "The roughly 3,200 members of Boeing's defense union have been striking since Aug. 4.",
-      "url": "https://www.investors.com/news/boeing-stock-dow-defense-union-strike-agreement-vote-due/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/04/stock-boeingSuperHornet-02-company.jpg",
+      "title": "Gemini IPO Soars In Nasdaq Debut, Triggers Trading Pause - Investor's Business Daily",
+      "description": "The Gemini crypto exchange sold fewer-than-expected shares.",
+      "url": "https://www.investors.com/news/gemini-ipo-gemi-stock-winklevoss-crypto-exchange-nasdaq/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/BIZ01winklevoss091125news.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-11T20:15:00Z"
+      "publishedAt": "2025-09-12T20:09:00Z"
     },
     {
-      "title": "Stagflation concerns rise with increased inflation and jobless claims - The Washington Post",
-      "description": "The consumer price index rose in August at a 2.9 percent annual rate, up from July. Jobless claims rose to the highest level since 2021, as the labor market weakens.",
-      "url": "https://www.washingtonpost.com/business/2025/09/11/august-inflation-trump-tariffs/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EU4O4WH22WBMYKMR5WIN672SME_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-11T19:31:50Z"
-    },
-    {
-      "title": "Subprime Auto Lender Collapse Delivers Blow to Risky Debt Market - Bloomberg.com",
-      "description": "The sudden collapse of a Texas subprime car lender is sending shock waves from border-town dealerships all the way to the upper echelons of Wall Street, ensnaring giants including JPMorgan Chase and BlackRock and raising concern that pain in the multibillion-…",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-11/subprime-auto-lender-collapse-delivers-blow-to-risky-abs-market",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikCtUUUowlJw/v1/1200x758.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-11T18:51:34Z"
-    },
-    {
-      "title": "Microsoft execs make the case for RTO in leaked meeting: In-person staff are 'thriving' - Business Insider",
-      "description": "Microsoft explained its new, stricter return-to-office policy by citing internal employee data.",
-      "url": "https://www.businessinsider.com/microsoft-execs-explain-rto-mandate-in-internal-meeting-2025-9",
-      "urlToImage": "https://i.insider.com/68af8ff8194a2d49b8af51cc?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-09-11T18:25:00Z"
-    },
-    {
-      "title": "Possible LIRR strike and service shutdown on September 18 - MTA",
-      "description": "Here's what you need to know about a possible LIRR strike and how that will impact your travel.",
-      "url": "https://www.mta.info/article/lirr-2025-strike-travel-alternatives",
-      "urlToImage": "https://files.mta.info/s3fs-public/2022-10/2-100322thirdtrack002.jpg",
-      "source": "Mta.info",
-      "publishedAt": "2025-09-11T18:21:46Z"
-    },
-    {
-      "title": "Novo Nordisk tells staff to return to office full-time amid CEO's revival effort - CNBC",
-      "description": "Drugmaker Novo Nordisk said it had told staff to return to the office as its new CEO tries to accelerate decision-making and improve its commercial execution.",
-      "url": "https://www.cnbc.com/2025/09/11/novo-nordisk-tells-staff-to-return-to-office-full-time.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178316-1753790274289-gettyimages-2197227495-AFP_36X97EV.jpeg?v=1753790301&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-11T18:09:06Z"
-    },
-    {
-      "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others - TechCrunch",
-      "description": "The federal consumer regulator seeks to learn about how AI companies evaluate the safety of their chatbots.",
-      "url": "https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1367281424.jpg?resize=1200,800",
+      "title": "Why the Oracle-OpenAI deal caught Wall Street by surprise - TechCrunch",
+      "description": "The $300B deal is a reminder that despite Oracle’s legacy status, it shouldn’t be overlooked when it comes to AI infrastructure. But key questions around power and how OpenAI will pay for this remain.",
+      "url": "https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2234339951.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2025-09-11T18:06:15Z"
+      "publishedAt": "2025-09-12T20:01:41Z"
     },
     {
-      "title": "Most of Elon Musk’s fortune now comes from his private companies - CNBC",
-      "description": "Together, Musk's stake in xAI and SpaceX are now worth nearly twice as much as his Tesla shares.",
-      "url": "https://www.cnbc.com/2025/09/11/elon-musk-fortune-private-companies.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108089372-17374190512025-01-21t002143z_1215629751_rc2rdcafco8n_rtrmadp_0_usa-trump-inauguration.jpeg?v=1737419154&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-11T18:02:53Z"
+      "title": "Ray Dalio calls for wealth ‘redistribution policy’ when AI and humanoid robots start to benefit the 1% to 10% more than everyone else - Fortune",
+      "description": "The hedge fund billionaire sees a \"limited number of winners and a bunch of losers\" with the 1% to 10% \"benefiting a lot.\"",
+      "url": "https://fortune.com/2025/09/12/ray-dalio-ai-winners-losers-jobs-redistribution-policy/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2216117034-e1757706090395.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-12T19:55:00Z"
+    },
+    {
+      "title": "TSLA: Tesla Stock Soars to Seven-Month High on Energy Business Momentum - Yahoo Finance",
+      "description": "Tesla Stock Rallies After Las Vegas Event Unveils Megapack 3, Megablock",
+      "url": "https://finance.yahoo.com/news/tsla-tesla-stock-soars-seven-195229231.html",
+      "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/1008bb60819e494e55049caaa788bf7b",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-12T19:52:29Z"
+    },
+    {
+      "title": "Solana Surges Again as Galaxy Digital Buys Over $700 Million in SOL - Decrypt",
+      "description": "Solana hit its highest price since January on Friday, following massive Galaxy buys likely tied to a treasury firm.",
+      "url": "https://decrypt.co/339338/solana-surges-again-galaxy-digital-buys-700-million-sol",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png",
+      "source": "Decrypt",
+      "publishedAt": "2025-09-12T19:40:58Z"
     }
   ]
 }

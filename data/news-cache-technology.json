@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2025-09-13T06:34:16.812Z",
+  "updatedAt": "2025-09-14T06:35:13.154Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple Watch hypertension alerts feature receives FDA clearance - 9to5Mac",
-      "description": "When Apple announced the new Apple Watch Series 11 and Apple Watch Ultra 3 this week, it unveiled its latest...",
-      "url": "https://9to5mac.com/2025/09/11/apple-watch-hypertension-alerts-feature-receives-fda-clearance/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.20.40.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-12T01:45:00Z"
+      "title": "Three Days Until iOS 26 Launch: What Are You Most Looking Forward To? - MacRumors",
+      "description": "iOS 26 is coming in just three days, and it brings a new Liquid Glass design with translucent UI elements, rounded menu bars, simplified navigation,...",
+      "url": "https://www.macrumors.com/2025/09/12/ios-26-launch-monday/",
+      "urlToImage": "https://images.macrumors.com/t/AvsVlDLYUDnH9IDgGXWrzEf6q7k=/2500x/article-new/2025/09/iOS-26-on-iPhone-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-12T21:41:04Z"
     },
     {
-      "title": "\"We Fully Agree\": Bungie Admits Destiny 2 Ash & Iron Power Climb Feels \"Way Off,\" Promises Immediate Fixes and Reward Buffs - The Game Post",
-      "description": "Bungie admits Destiny 2’s Ash & Iron power progression is broken. The studio is rolling out immediate reward buffs, score changes, and Prime drop boosts, starting this week.",
-      "url": "https://thegamepost.com/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/09/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs-1.webp",
-      "source": "Thegamepost.com",
-      "publishedAt": "2025-09-11T19:48:05Z"
+      "title": "Apple AI and Search Executive Robby Walker to Leave Company - Bloomberg.com",
+      "description": "Apple Inc.’s Robby Walker, one of the iPhone maker’s most senior artificial intelligence executives, is leaving the company, according to people with knowledge of the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-12/apple-ai-and-search-executive-robby-walker-to-leave-iphone-maker",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBDRJulM.9KE/v1/1200x675.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-12T19:05:09Z"
     },
     {
-      "title": "Borderlands 4 Launches To Mostly Negative Steam Reviews Over Performance Issues And Crashing - TheGamer",
-      "description": "Unreal Engine 5 strikes again.",
-      "url": "https://www.thegamer.com/borderlands-4-launches-to-mostly-negative-steam-reviews-performance-issues-crashing/",
-      "urlToImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/05/ss_75c6848a4cdcb6bd72b92f3d48625fa06974d3e3.jpg?w=1600&h=900&fit=crop",
-      "source": "TheGamer",
-      "publishedAt": "2025-09-11T19:19:00Z"
+      "title": "Pokémon Legends Z-A Game's Videos Reveal Paid DLC, Mega Evolutions of Pokémon X/Y Starters, Raichu - Anime News Network",
+      "description": "New paid DLC takes place after main story // The Pokémon Company International unveiled during the Nintendo Direct stream on Friday two videos for the Pokémon...",
+      "url": "https://www.animenewsnetwork.com/news/2025-09-12/pokemon-legends-z-a-game-videos-reveal-paid-dlc-mega-evolutions-of-pokemon-x-y-starters-raichu/.228725",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKG/youtube/PPTqA10lt-c.jpg",
+      "source": "Anime News Network",
+      "publishedAt": "2025-09-12T18:00:00Z"
     },
     {
-      "title": "Is Hollow Knight: Silksong too hard? Well, it depends on what you mean by “hard.” - Ars Technica",
-      "description": "The Ars Difficulty Matrix™ helps us analyze the many dimensions of Silksong’s challenges.",
-      "url": "https://arstechnica.com/gaming/2025/09/is-hollow-knight-silksong-too-hard-well-it-depends-on-what-you-mean-by-hard/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/silksong1-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-11T17:45:40Z"
-    },
-    {
-      "title": "Borderlands 4 Tips: 9 Ways To Master Gearbox's Looter-Shooter - GameSpot",
-      "description": "These handy tips for the Borderlands 4 early game will make your first steps on Kairos far smoother.",
-      "url": "https://www.gamespot.com/gallery/borderlands-4-tips/2900-7000/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1850/18507742/4564374-borderlands4screenshot-4playerco-op.png",
-      "source": "GameSpot",
-      "publishedAt": "2025-09-11T17:00:36Z"
-    },
-    {
-      "title": "Apple blocks translation AirPods in EU over regulatory concerns - politico.eu",
-      "description": "Europeans won’t be able to enjoy a shiny new feature Apple presented at this week’s unveiling of a set of new iPhones and AirPods. Apple introduced new AirPods on Tuesday, featuring real-time trans…",
-      "url": "https://www.politico.eu/article/apple-blocks-airpods-translation-eu-because-regulation/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/11/GettyImages-2233948447-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-11T16:09:13Z"
-    },
-    {
-      "title": "Get ready to discover and shop the next generation of iPhone, Apple Watch, and AirPods - Apple",
-      "description": "Apple fans can pre-order and upgrade to the groundbreaking iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone 17 Pro Max starting Friday, September 12.",
-      "url": "https://www.apple.com/newsroom/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/tile/Apple-September-2025-new-product-lineups-lp.jpg.og.jpg?202509111501",
-      "source": "Apple Newsroom",
-      "publishedAt": "2025-09-11T15:01:12Z"
-    },
-    {
-      "title": "Windows 11’s September patch secretly deletes two programs. Here’s why - PCWorld",
-      "description": "Anyone who installs the latest Windows 11 update will lose two programs that may still be present on the system.",
-      "url": "https://www.pcworld.com/article/2906615/windows-11s-september-patch-secretly-deletes-two-programs-heres-why.html",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/Windows-11-key-on-keyboard-stylized-illustration-5.jpg?quality=50&strip=all&w=1024",
-      "source": "PCWorld",
-      "publishedAt": "2025-09-11T14:09:00Z"
-    },
-    {
-      "title": "Borderlands 4 Shift Codes to Redeem Now (September 2025) - Push Square",
-      "description": "Every active Borderlands 4 SHiFT Code listed",
-      "url": "https://www.pushsquare.com/guides/borderlands-4-shift-codes-to-redeem-now-september-2025",
-      "urlToImage": "https://images.pushsquare.com/110a62bb3c05c/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-09-11T14:00:00Z"
-    },
-    {
-      "title": "Cyberpunk 2077 Patch 2.31 Adds New Wreckless Auto-Driving Mode And More - GameSpot",
+      "title": "Round Up: Everything Announced For Super Mario's 40th Anniversary - Nintendo Life",
       "description": null,
-      "url": "https://www.gamespot.com/articles/cyberpunk-2077-patch-2-31-adds-new-wreckless-auto-driving-mode-and-more/1100-6534643/",
+      "url": "https://www.nintendolife.com/news/2025/09/round-up-everything-announced-for-super-marios-40th-anniversary",
       "urlToImage": null,
-      "source": "GameSpot",
-      "publishedAt": "2025-09-11T13:55:15Z"
+      "source": "Nintendo Life",
+      "publishedAt": "2025-09-12T17:00:00Z"
     },
     {
-      "title": "Football Manager 26 Preorders Are Now Live After Skipping Last Year - IGN",
-      "description": "Football Manager 26 is finally back after last year’s cancellation, launching November 4 with preorders live on PC now, including an immediate discount.",
-      "url": "https://www.ign.com/articles/football-manager-26-where-to-buy",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/11/fm26-release-date-preorders-ign-1757584971350.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-11T10:18:54Z"
+      "title": "Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET",
+      "description": "ZDNET has rounded up everything announced at this week's Apple event - from iPhone 17 preorder deals to the Apple Watch Ultra 3, AirPods Pro 3, and more.",
+      "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-iphone-air-preorders-apple-watch-11-airpods-pro-3-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7f16e5c64a86d26d550098934a2d09bcf18d5392/2025/09/10/dee94d50-5e0e-4742-85d7-c1adf655fb46/iphone-17-pro-max-blue.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-09-12T16:55:00Z"
     },
     {
-      "title": "Still Running Windows 10? Make Sure You Take This Step Before Oct. 14 - CNET",
-      "description": "If you don't plan to upgrade to Windows 11, you can still receive critical security updates -- and there's a way to get them for free.",
-      "url": "https://www.cnet.com/tech/services-and-software/still-running-windows-10-make-sure-you-take-this-step-before-oct-14/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/6bde21e6253f1809708545f3cc138569f0a8bbe6/hub/2020/07/02/de3cf4c1-15a3-4bb7-93c5-c03d48f80944/windows-10.png?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-09-11T09:45:00Z"
-    },
-    {
-      "title": "Fujifilm’s Cinema Camera is Called the GFX Eterna 55, Will Cost $16,500 - PetaPixel",
-      "description": "Fujifilm has fully announced the medium format cinema camera it has been slowly teasing over the past year.",
-      "url": "https://petapixel.com/2025/09/10/fujifilms-cinema-camera-is-called-the-gfx-eterna-55-will-cost-16500/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2025/09/Fujifilms-Cinema-Camera-is-Called-the-GFX-Eterna-55-Will-Cost-16500.jpg",
-      "source": "PetaPixel",
-      "publishedAt": "2025-09-11T01:01:31Z"
-    },
-    {
-      "title": "Elon Musk Says Starship Will Begin Launching 100 Tons to LEO in 2026 - extremetech.com",
-      "description": "Musk claims SpaceX will demonstrate full reusability, catching both the super heavy booster and Starship upper stage.",
-      "url": "https://www.extremetech.com/aerospace/elon-musk-says-starship-will-begin-launching-100-tons-to-leo-in-2026",
-      "urlToImage": "https://i.extremetech.com/imagery/content-types/00J308DpyFeBQfTDE1wTDJ2/hero-image.fill.size_1200x675.jpg",
-      "source": "ExtremeTech",
-      "publishedAt": "2025-09-10T17:45:07Z"
-    },
-    {
-      "title": "Atari's new retro console is my excuse to avoid real life - Creative Bloq",
-      "description": "Why I'm preordering the Gamestation Go.",
-      "url": "https://www.creativebloq.com/entertainment/gaming/why-im-pre-ordering-ataris-new-handheld-the-nintendo-switch-for-retro-gamers",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bN9wPzN98LRvEPVcstcaiL.jpg",
-      "source": "Creative Bloq",
-      "publishedAt": "2025-09-10T15:00:00Z"
-    },
-    {
-      "title": "FromSoftware unveils Elden Ring Nightreign's new mode ahead of release tomorrow - Eurogamer",
-      "description": "FromSoftware has unveiled its new Deep of Night mode for Elden Ring Nightreign, ahead of its release tomorrow, 11th Sep…",
-      "url": "https://www.eurogamer.net/fromsoftware-unveils-elden-ring-nightreigns-new-mode-ahead-of-release-tomorrow",
-      "urlToImage": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-DeepOfNight-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Ever wanted to play a Pokémon Animal Crossing meets Minecraft? Pokémon Pokopia might be just that game - Eurogamer",
+      "description": "A new Minecraft meets Animal Crossing inspired Pokémon game is coming to Switch 2 in 2026.",
+      "url": "https://www.eurogamer.net/ever-wanted-to-play-a-pokemon-animal-crossing-meets-minecraft-pokemon-pokopia-might-be-just-that-game",
+      "urlToImage": "https://assetsio.gnwcdn.com/Pokopia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
-      "publishedAt": "2025-09-10T14:41:25Z"
+      "publishedAt": "2025-09-12T16:27:53Z"
     },
     {
-      "title": "Nvidia just started rolling out RTX 5080 for GeForce Now, and you can see exactly when it's available in your region - PC Guide",
-      "description": "Follow the rollout map for Blackwell RTX GeForce Now on Nvidia's website. You can see when your region is getting RTX 5080-level performance.",
-      "url": "https://www.pcguide.com/news/nvidia-just-started-rolling-out-rtx-5080-for-geforce-now-and-you-can-see-exactly-when-its-available-in-your-region/",
-      "urlToImage": "https://www.pcguide.com/wp-content/uploads/2025/09/GeForce-Now-RTX-5080-rollout-map.jpg",
-      "source": "Pcguide.com",
-      "publishedAt": "2025-09-10T13:06:14Z"
+      "title": "AirPods Pro 3 First Look - MacRumors",
+      "description": "Apple is planning to release the AirPods Pro 3 next week, but MacRumors videographer Dan Barbera was able to get an early look at the new earbuds...",
+      "url": "https://www.macrumors.com/2025/09/12/airpods-pro-3-first-look/",
+      "urlToImage": "https://images.macrumors.com/t/t1EurJYmAp19zuzHOXiXPWZyWT4=/2500x/article-new/2025/09/Apple%E2%80%99s-New-Watches-AirPods-Pro-3-Thumb.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-12T16:24:57Z"
     },
     {
-      "title": "Daily Crossword: The Fishing Puzzle — September 10 - Vulture",
-      "description": "Can you solve the latest Vulture 10x10 daily crossword puzzle clue? 5-Across, Four Letters: Metacritic’s highest-rated album of 2024",
-      "url": "http://www.vulture.com/article/daily-crossword-puzzle-september-10-2025.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/9d5/a41/24ff9bfeb597945e6f52b435416a0ac4de-crossword-9-10-2025.1x.rsocial.w1200.jpg",
-      "source": "Vulture",
-      "publishedAt": "2025-09-10T09:00:51Z"
+      "title": "It’s official: The Final Fantasy 7 Remake ‘trilogy’ will also release for Switch 2 and Xbox - Video Games Chronicle",
+      "description": "But it's not clear if the third game will be a timed PlayStation exclusive",
+      "url": "https://www.videogameschronicle.com/news/its-official-the-final-fantasy-7-remake-trilogy-will-also-release-for-switch-2-and-xbox/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2024/02/final-fantasy-7-rebirth-c.jpg",
+      "source": "Video Games Chronicle",
+      "publishedAt": "2025-09-12T15:44:26Z"
+    },
+    {
+      "title": "Don’t buy the standard Galaxy Watch 8 when the Classic is just $10 more - The Verge",
+      "description": "Samsung’s Galaxy Watch 8 Classic is on sale for $359.99 ($140 off) at Woot. Plus, Anker’s Soundcore Select 4 Go and Whisker’s Litter Robot 4 are also on sale.",
+      "url": "https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VERGE-DEALS-DAILY-IMAGE-19.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-12T15:35:07Z"
+    },
+    {
+      "title": "Nintendo Drops Surprise Trailer for New ‘Super Mario Galaxy Movie’ - WIRED",
+      "description": "“The Super Mario Bros. Movie” sequel, titled “The Super Mario Galaxy Movie,” will be released in 2026. The original cast, including Chris Pratt, Anya Taylor-Joy, and Jack Black, will reprise their roles.",
+      "url": "https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/",
+      "urlToImage": "https://media.wired.com/photos/68c428b8a29b822c3095e940/191:100/w_1280,c_limit/091225-culture-Super-Mario.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-09-12T15:19:40Z"
+    },
+    {
+      "title": "Watch all the new trailers from Nintendo Direct September 2025: Super Mario Galaxy, Yoshi, and Mortal Kombat Legacy - Mashable",
+      "description": "Sixty minutes of mayhem.",
+      "url": "https://mashable.com/article/nintendo-direct-september-2025-everything-announced",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04haaUKPCLlWi3UhwzkK2uv/hero-image.fill.size_1200x675.v1757690364.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-12T15:19:25Z"
+    },
+    {
+      "title": "Nintendo's Back in VR With a New Virtual Boy, Coming Next Year for Switch - CNET",
+      "description": "The long-lost console is being revived next February in cardboard and plastic form as a Switch accessory with Switch Online games.",
+      "url": "https://www.cnet.com/tech/gaming/nintendos-back-in-vr-with-a-new-virtual-boy-coming-next-year-for-switch/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/23f19a6e0bdf4c09c31fa759844a2c582d902eea/hub/2025/09/12/69f443d4-1dfe-4090-a519-a228e968c316/screenshot-2025-09-12-at-10-18-01am.png?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-12T14:36:00Z"
+    },
+    {
+      "title": "Hades 2 Is a Timed Console Exclusive on Nintendo Switch 1 and 2, Plays at 120fps in TV Mode - IGN",
+      "description": "Hades 2 is a timed console exclusive on Switch 1 and 2, Nintendo has announced, with a release date set for September 25, 2025.",
+      "url": "https://www.ign.com/articles/hades-2-is-a-timed-console-exclusive-on-nintendo-switch-1-and-2-plays-at-120fps-in-tv-mode",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/12/h2-1757684113432.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-09-12T13:40:09Z"
+    },
+    {
+      "title": "Rocket Report: Russia’s rocket engine predicament; 300th launch to the ISS - Ars Technica",
+      "description": "North Korea test-fired a powerful new solid rocket motor for its next-generation ICBM.",
+      "url": "https://arstechnica.com/space/2025/09/rocket-report-russias-rocket-engine-predicament-300th-launch-to-the-iss/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/progms32launch-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-12T12:29:03Z"
+    },
+    {
+      "title": "Ghost of Yotei Game Developer Drew Harrison Fired After Charlie Kirk Comments - Cosmic Book News",
+      "description": "Ghost of Yotei developer Drew Harrison fired after celebrating Charlie Kirk’s assassination with controversial social media posts.",
+      "url": "https://cosmicbook.news/ghost-of-yotei-dev-drew-harrison-fired-charlie-kirk-comments",
+      "urlToImage": "https://cosmicbook.news/wp-content/uploads/2025/09/ghosts-yotei-dev-drew-harrison-fired-charlie-kirk.webp",
+      "source": "Cosmic Book News",
+      "publishedAt": "2025-09-12T11:19:41Z"
+    },
+    {
+      "title": "Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge",
+      "description": "The blood pressure monitor arrives with watchOS 26 next week.",
+      "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&strip=all&crop=0%2C10.336347770903%2C100%2C79.327304458195&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-12T06:10:00Z"
     }
   ]
 }
