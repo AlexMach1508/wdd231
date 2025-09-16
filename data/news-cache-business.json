@@ -1,143 +1,167 @@
 {
-  "updatedAt": "2025-09-15T06:41:20.800Z",
+  "updatedAt": "2025-09-16T06:39:15.476Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Roblox, Discord sued after 15-year-old boy was allegedly groomed online before he died by suicide - NBC News",
-      "description": "The mother of a 15-year-old California boy who took his own life is now suing Roblox and Discord over his death, alleging her son was groomed and coerced to send explicit images on the apps",
-      "url": "https://www.nbcnews.com/news/us-news/roblox-discord-sued-15-year-old-boy-was-allegedly-groomed-online-died-rcna231049",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241118-roblox-mb-1226-e2c617.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-14T01:54:00Z"
-    },
-    {
-      "title": "How the Journal Analyzed More Than One Million FAA Reports - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/airlines/how-the-journal-analyzed-more-than-one-million-faa-reports-7e7e043a",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-14T00:57:00Z"
-    },
-    {
-      "title": "Trump administration launches trial program to fast-track electric air taxis - NPR",
-      "description": "The FAA is seeking proposals for projects that will include piloted and unmanned operations with a focus on electric air taxis, also called an electric vertical takeoff and landing aircraft.",
-      "url": "https://www.npr.org/2025/09/13/nx-s1-5540722/faa-air-taxi-pilot-program",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1998x1124+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F59%2F17e9bdde44fb89ad1dd0c07a1c65%2Fap24296658077207.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-13T23:38:26Z"
-    },
-    {
-      "title": "Fed governor Cook asks appeals court to reject White House's bid to remove her from Fed board - CNBC",
-      "description": "Federal Reserve Gov. Lisa Cook is asking a U.S. appeals court to reject the Trump administration's latest bid to remove her from her post.",
-      "url": "https://www.cnbc.com/2025/09/13/trump-fed-lisa-cook-appeals-court.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192448-1756477319590-gettyimages-1258906734-SENATE_FED_NOMINATION.jpeg?v=1756477417&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-13T22:36:33Z"
-    },
-    {
-      "title": "Robinhood CEO says just like every company became a tech company, every company will become an AI company - Fortune",
-      "description": "\"It'll be a helpful assistant to a trader and also to your broader financial life. But I think the humans will ultimately be calling the shots.”",
-      "url": "https://fortune.com/2025/09/13/ai-business-investment-platform-shift-transformation-robinhood-ceo/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2208749213-e1757799019558.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-13T21:51:00Z"
-    },
-    {
-      "title": "Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’ - TechCrunch",
-      "description": "Tesla's board chair is defending a proposed 10-year, $1 trillion compensation package for CEO Elon Musk.",
-      "url": "https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-13T21:33:34Z"
-    },
-    {
-      "title": "Fed Governor Cook declared her Atlanta property as ‘vacation home,’ documents show - CNN",
-      "description": "A loan estimate for an Atlanta home purchased by Lisa Cook, the Federal Reserve governor accused of mortgage fraud by the Trump administration, shows that Cook had declared the property as a “vacation home,” according to a document reviewed by Reuters.",
-      "url": "https://www.cnn.com/2025/09/13/business/lisa-cook-atlanta-house-fed",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1258902366-20250826154246204.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-13T21:16:25Z"
-    },
-    {
-      "title": "The ‘Gold Standard’ of Jobs Data Is Broken—And America Is Paying the Price - The Daily Signal",
-      "description": "On Tuesday, the Bureau of Labor Statistics published a revision of its latest job numbers, a report that shows just how far off its estimates of...",
-      "url": "https://www.dailysignal.com/2025/09/13/the-gold-standard-of-jobs-data-is-broken-and-america-is-paying-the-price/",
-      "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/09/20250912JoeBiden.jpg",
-      "source": "Daily Signal",
-      "publishedAt": "2025-09-13T20:02:17Z"
-    },
-    {
-      "title": "2026 Nissan Leaf First Drive: Good Enough To Put Nissan Back In The Game - InsideEVs",
-      "description": "Nissan used to be the leader in affordable EVs. I drove the redesigned 2026 Leaf to see if the company can reclaim that title.",
-      "url": "https://insideevs.com/reviews/772045/2026-nissan-leaf-first-drive/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/JOZxKM/s1/2026-nissan-leaf-first-drive.jpg",
-      "source": "InsideEVs ",
-      "publishedAt": "2025-09-13T19:38:11Z"
-    },
-    {
-      "title": "FAA seeks $3.1 million in fines from Boeing over safety violations, 2024 midair panel blowout - ABC News",
-      "description": "Proposed penalty is for safety violations from September 2023 to February 2024.",
-      "url": "https://abcnews.go.com/Business/wireStory/faa-seeks-31-million-fines-boeing-safety-violations-125542366",
-      "urlToImage": "https://i.abcnewsfe.com/a/91cc4028-b433-4558-9f4c-83e2d641f8c8/wirestory_c43ded236ae4ff85cdf0f0eb8dfc8fec_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-09-13T18:20:32Z"
-    },
-    {
-      "title": "Why stocks keep going up even as the economy softens - The Washington Post",
-      "description": "Major stock indexes have climbed steadily upward through one piece of bad economic news after another.",
-      "url": "https://www.washingtonpost.com/business/2025/09/13/stock-market-economy-jobs/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XDGV2DA55VB3MCC6D4ND62Y5BE_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-13T17:00:30Z"
-    },
-    {
-      "title": "Russia's central bank reveals GDP is shrinking, in a sign Putin's war economy has slipped into recession - Fortune",
-      "description": "A chart in a central bank report showed GDP shrank on a sequential basis in the first and second quarters, meeting the definition of a technical recession.",
-      "url": "https://fortune.com/2025/09/13/russia-economy-recession-gdp-q2-q1-central-bank-rate-cut/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2233009375-e1757776916593.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-13T16:45:00Z"
-    },
-    {
-      "title": "China Probes U.S. Chip Sector On Eve Of Trade Talks - Investor's Business Daily",
-      "description": "China launched two investigations vs. the U.S. semiconductor industry on Saturday.",
-      "url": "https://www.investors.com/news/technology/china-probes-u-s-chip-sector-with-trade-talks-on-tap/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/03/Stock-ChinaTech-ChipFlag-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-13T15:57:00Z"
-    },
-    {
-      "title": "Crypto investor who called bitcoin’s $120K rally now predicts it will double in next year - MarketWatch",
-      "description": "Pantera Capital’s Dan Morehead also outlines his broader forecasts for the future of crypto",
-      "url": "https://www.marketwatch.com/story/this-crypto-investor-correctly-predicted-bitcoin-would-hit-120k-in-2025-he-now-expects-it-to-double-in-the-next-year-250b5ab4",
-      "urlToImage": "https://images.mktw.net/im-72112826/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-13T14:00:00Z"
-    },
-    {
-      "title": "US electric grids under pressure from energy-hungry data centers are changing strategy - AP News",
-      "description": "As Big Tech’s data centers continue to grow threatening to overload U.S. electricity grids, policymakers are considering bumping the energy-hungry data centers off grids during power emergencies. Texas moved first to try to protect residents in the data-cente…",
-      "url": "https://apnews.com/article/big-tech-data-centers-electricity-energy-power-texas-pennsylvania-46b42f141d0301d4c59314cc90e3eab5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bd0c38b/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fa9%2F5bb92d268b7c09dcab39be76dcd6%2F01fb639c3c404f89b2ec6aa389023af7",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-13T13:54:00Z"
-    },
-    {
-      "title": "How The End Of The US EV Tax Credit Could Supercharge EV Sales - CleanTechnica",
-      "description": "Support CleanTechnica's work through a Substack subscription or on Stripe. This is actually a simple one, so I’ll keep it quick. I’m not sure if we’ve ever presented this argument at all, and certainly not as a standalone article. Because it’s a clear sequenc…",
-      "url": "https://cleantechnica.com/2025/09/13/how-the-end-of-the-us-ev-tax-credit-could-supercharge-ev-sales/",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/09/Chevy-Blazer-EV-SS.jpeg",
-      "source": "CleanTechnica",
-      "publishedAt": "2025-09-13T13:19:46Z"
-    },
-    {
-      "title": "The $14 Trillion US Stock Rally is Seeking a Fed Cut Playbook - Bloomberg.com",
-      "description": "A $14 trillion rally that has taken stocks to record highs is heading for an inflection point next week, with investors expecting the Federal Reserve to resume cutting interest rates at its long-awaited monetary policy meeting.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-13/the-14-trillion-us-stock-rally-is-seeking-a-fed-cut-playbook",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDxhzbFF6lH0/v1/1200x800.jpg",
+      "title": "Stocks Hold Near Record as Focus Turns to Fed Meet: Markets Wrap - Bloomberg.com",
+      "description": "Stocks hovered near record highs and the dollar steadied as a new week began, with investors focused on the Federal Reserve’s upcoming policy decision.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-14/dollar-steady-as-traders-turn-focus-to-fed-meeting-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iETNjyswQBXo/v0/1200x675.png",
       "source": "Bloomberg",
-      "publishedAt": "2025-09-13T13:00:00Z"
+      "publishedAt": "2025-09-15T02:17:00Z"
+    },
+    {
+      "title": "Nick Sirianni admits the Eagles haven’t created enough explosive plays - Bleeding Green Nation",
+      "description": "The Eagles head coach talks finding ways to win, Jalen Hurts throwing the deep ball, and more about the tush push.",
+      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-interviews-exclusive/158513/eagles-nick-sirianni-week-2-post-game-reactions-comments-win-chiefs-jalen-hurts-nfl",
+      "urlToImage": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2025/09/Sirianni6.jpg?quality=90&strip=all&crop=0,2.9424442987616,100,94.115111402477",
+      "source": "Bleeding Green Nation",
+      "publishedAt": "2025-09-15T02:14:00Z"
+    },
+    {
+      "title": "China retail sales, industrial output slow in August, missing estimates as real estate slump worsens - CNBC",
+      "description": "China's economic slowdown deepened in August with a raft of key indicators missing expectations amid sluggish domestic demand and Beijing's anti-involution campaign.",
+      "url": "https://www.cnbc.com/2025/09/15/china-retail-sales-industrial-output-slow-in-august-missing-estimates-as-real-estate-slump-worsens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166072-1751325393570-gettyimages-601908650-000103455483_Unapproved.jpeg?v=1757893030&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-15T02:12:00Z"
+    },
+    {
+      "title": "‘Hard Times Ahead,’ Says Investor About Archer Aviation Stock - TipRanks",
+      "description": "If Archer Aviation (NASDAQ:ACHR) achieves its vision, electric vertical takeoff and landing (eVTOL) vehicles could soon become a reality, reshaping how people move ...",
+      "url": "https://www.tipranks.com/news/hard-times-ahead-says-investor-about-archer-aviation-stock",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/ACHR-0212-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-15T00:53:33Z"
+    },
+    {
+      "title": "BYD’s $45 Billion Stock Wipeout Raises Doubts on China Outlook - Bloomberg.com",
+      "description": "BYD Co. faces pressure to restore investor confidence after a $45 billion stock selloff, with growing concerns over its ability to fend off competition amid a destructive price war in China.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-14/byd-s-45-billion-stock-wipeout-raises-doubts-on-china-outlook",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuFOXM1fSskE/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-14T23:58:39Z"
+    },
+    {
+      "title": "Stock futures are little changed after record Nasdaq close; investors await Fed meeting: Live updates - CNBC",
+      "description": "Investors are hopeful the Federal Reserve will cut interest rates at the conclusion of its meeting Wednesday.",
+      "url": "https://www.cnbc.com/2025/09/14/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197581-17576068682025-09-11t160422z_2012845875_rc2ppgaj8o3p_rtrmadp_0_usa-stocks.jpeg?v=1757607075&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-14T22:47:00Z"
+    },
+    {
+      "title": "Betty Crocker broke recipes by shrinking boxes - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45243635",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-09-14T22:33:03Z"
+    },
+    {
+      "title": "Prediction: These AI Stocks Could Outperform the \"Magnificent Seven\" Over the Next Decade - The Motley Fool",
+      "description": "These companies already are delivering solid growth, but more is on the horizon.",
+      "url": "https://www.fool.com/investing/2025/09/14/prediction-these-ai-stocks-to-outperform/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/831903/artificial-intelligence-ai.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2025-09-14T22:05:00Z"
+    },
+    {
+      "title": "Mikvah.org Marks 50 Years of Dedication to Taharas HaMishpacha - COLlive",
+      "description": "Mikvah.org proudly celebrated five decades of its tireless dedication to the mitzvah of Taharas HaMishpacha with a milestone gala event held at Albany Manor in Crown Heights. Full Story, Photos, Video",
+      "url": "https://collive.com/mikvah-org-marks-50-years-of-dedication-to-taharas-hamishpacha/",
+      "urlToImage": "https://collive.com/wp-content/uploads/2025/09/mikvah-org.jpg",
+      "source": "COLlive - Chabad News",
+      "publishedAt": "2025-09-14T21:59:39Z"
+    },
+    {
+      "title": "Employees Are Revealing Shocking \"Industry Secrets\" That Companies Won't Tell You - BuzzFeed",
+      "description": "\"I'm a corporate pilot. Not every flight is all fun and glorious. Some passengers are absolutely great, and others are conceited, entitled, rude, and disrespectful to pilots and flight attendants — and likely will be denied boarding privileges again.\"",
+      "url": "https://www.buzzfeed.com/lizmrichardson/shocking-job-industry-secrets-employees",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-09/11/21/thumb/L5O3xBChq.jpg?crop=2400:1257;0,0%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2025-09-14T21:31:02Z"
+    },
+    {
+      "title": "OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay) - TechCrunch",
+      "description": "Like OpenAI CEO Sam Altman, Bret Taylor thinks we're in an AI bubble — but he doesn't sound too worried about it.",
+      "url": "https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762614393.jpg?resize=1200,700",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-14T19:33:22Z"
+    },
+    {
+      "title": "Housing market: the 'most critical' variable for predicting recessions is at lowest since pandemic - Fortune",
+      "description": "Moody’s own leading economic indicator that uses machine learning has estimated the odds of a recession in the next 12 months are now at 48%.",
+      "url": "https://fortune.com/2025/09/14/housing-market-recession-warning-building-permits-residential-investment-zandi/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2229115477-e1757871936432.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-14T19:09:00Z"
+    },
+    {
+      "title": "Markets Gear Up for Series of Fed Cuts With Bullish Bets at Risk - Bloomberg.com",
+      "description": "A key question for investors this week is whether Federal Reserve officials push back against market bets on a series of interest-rate cuts extending into next year.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-14/markets-gear-up-for-series-of-fed-cuts-with-bullish-bets-at-risk",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUd2qBRDCJ40/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-14T19:00:00Z"
+    },
+    {
+      "title": "AI could use online images as a backdoor into your computer, alarming new study suggests - Live Science",
+      "description": "Artificial-intelligence agents — touted as AI's next wave — could be vulnerable to malicious code hidden in innocent-looking images on your computer screen",
+      "url": "https://www.scientificamerican.com/article/hacking-ai-agents-how-malicious-images-and-pixel-manipulation-threaten/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hb89B7aMthcdUR3mfh89FX.jpg",
+      "source": "Scientific American",
+      "publishedAt": "2025-09-14T18:33:00Z"
+    },
+    {
+      "title": "Everyone Thinks Elon Musk is Going to Build a SpaceX Mobile Network - Gizmodo",
+      "description": "The company is buying up spectrum.",
+      "url": "https://gizmodo.com/everyone-thinks-elon-musk-is-going-to-build-a-spacex-mobile-network-2000658656",
+      "urlToImage": "https://gizmodo.com/app/uploads/2020/11/gzclhylaa2afaj6hofx1.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-09-14T17:50:18Z"
+    },
+    {
+      "title": "The cheapest Cybertruck model has disappeared from Tesla's website - Mashable",
+      "description": "The Long Range Cybertruck started at nearly $70,000.",
+      "url": "https://mashable.com/article/cheapest-cybertruck-long-range-disappeared-from-tesla-website",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03P3dHvmhtoPGsU976ADnb7/hero-image.fill.size_1200x675.v1757868017.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-14T17:28:08Z"
+    },
+    {
+      "title": "Gold Price Eyes $4,000 as Fed Cuts and Inflation Fears Collide - FXEmpire",
+      "description": "Gold is surging as higher inflation, rising unemployment, a weakening dollar, and central bank buying fuel safe-haven demand ahead of expected Fed rate cuts.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-price-eyes-4000-as-fed-cuts-and-inflation-fears-collide-1548330",
+      "urlToImage": "https://responsive.fxempire.com/v7/_fxempire_/2025/09/ChatGPT-Image-Jun-8-2025-04_46_16-PM-2.jpg?func=cover&q=70&width=700",
+      "source": "FX Empire",
+      "publishedAt": "2025-09-14T17:21:00Z"
+    },
+    {
+      "title": "Political turbulence engulfs the Fed as Trump pushes to assert control - The Washington Post",
+      "description": "President Donald Trump’s aggressive steps to reshape the Fed could play out dramatically at this week’s regularly-scheduled Fed policy meeting.",
+      "url": "https://www.washingtonpost.com/business/2025/09/14/federal-reserve-interest-rates-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E5UUFYOCAW5JCZDWIR645XXTYE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-14T17:00:18Z"
+    },
+    {
+      "title": "Europe rebuffs automakers’ pleas to let them lose the EV race to China - Electrek",
+      "description": "Automakers already got leniency on emissions from EU multiple times, but keep begging for more. But EU is reportedly finally standing firm.",
+      "url": "http://electrek.co/2025/09/14/europe-rebuffs-automakers-pleas-to-let-them-lose-the-ev-race-to-china/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/2035-EU-ban-Commision.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2025-09-14T16:50:00Z"
+    },
+    {
+      "title": "Rolling Stone’s parent company sues Google over AI Overviews - The Verge",
+      "description": "Rolling Stone publisher Penske Media Corporation sued Google saying its AI Overviews are threatening its business.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-14T16:49:38Z"
     }
   ]
 }
