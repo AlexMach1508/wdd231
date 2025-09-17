@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2025-09-16T06:39:15.406Z",
+  "updatedAt": "2025-09-17T06:39:22.405Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Google's 27th birthday bash comes with Pixel freebies and big discounts - Android Authority",
-      "description": "Google is celebrating its 27th birthday with some sweet deals on the Pixel 10 Pro, Pixel 10 Pro XL, Pixel Watch 4, and more.",
-      "url": "https://www.androidauthority.com/google-store-birthday-pixel-deals-3597529/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-moonstone-xl-obsidian-4.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-09-15T03:11:11Z"
-    },
-    {
-      "title": "Top JUCO Prospect KJ Perry Talks BYU Basketball Official Visit - Vanquish The Foe",
-      "description": "",
-      "url": "https://www.vanquishthefoe.com/byu-basketball/25064/top-juco-prospect-kj-perry-talks-byu-basketball-official-visit-recruiting",
-      "urlToImage": "https://platform.vanquishthefoe.com/wp-content/uploads/sites/174/2025/09/kjperry.png?quality=90&strip=all&crop=0,2.1680880728575,100,35.549530732362",
-      "source": "Vanquish The Foe",
-      "publishedAt": "2025-09-14T21:39:40Z"
-    },
-    {
-      "title": "Meta Connect 2025: What We Expect, And What We Don't - UploadVR",
-      "description": "Meta Connect 2025 starts on Wednesday. Here's what we expect to see announced, and what we don't.",
-      "url": "https://www.uploadvr.com/meta-connect-2025-predictions-expectations/",
-      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/09/Meta-Connect-2025.png",
-      "source": "UploadVR",
-      "publishedAt": "2025-09-14T19:34:18Z"
-    },
-    {
-      "title": "What’s next for Apple after the iPhone 17? - The Verge",
-      "description": "Apple is supposedly launching an iPhone 17e, an M5 iPad Pro, a smart home hub, and more in the coming months.",
-      "url": "https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-14T19:18:59Z"
-    },
-    {
-      "title": "The Best Deals Today: Madden NFL 26, AirPods Pro 3, Fatal Fury: City of the Wolves, and More - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/best-deals-for-september-14-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/07/madden26review-blogroll-1754588370110.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-14T18:28:23Z"
-    },
-    {
-      "title": "Artists’ Graffiti-Filled Oregon House Is Flooded With Offers Just Days After Listing for $300K - Realtor.com",
-      "description": null,
-      "url": "https://www.realtor.com/news/unique-homes/oregon-salem-house-graffiti-artists-nic-sloy/",
-      "urlToImage": null,
-      "source": "Realtor.com News",
-      "publishedAt": "2025-09-14T17:15:00Z"
-    },
-    {
-      "title": "iPhone 17 vs iPhone 16 Pro: Similar displays, distinctly different packages - 9to5Mac",
-      "description": "Apple truly hit it out of the park with the base iPhone 17, making it one of the companies best...",
-      "url": "https://9to5mac.com/2025/09/14/apple-iphone-17-vs-iphone-16-pro-comparison-buyers-guide/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-vs-16-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-14T17:10:00Z"
-    },
-    {
-      "title": "Claude now has memory, but only for certain users - Mashable",
-      "description": "Anthropic also introduced incognito chats.",
-      "url": "https://mashable.com/article/anthropic-claude-ai-now-has-memory-for-some-users",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06g7Z4hmdGThLydElgJvOps/hero-image.fill.size_1200x675.v1757857674.jpg",
+      "title": "PSA: Your Samsung Galaxy phone has a security update you should install right now - Mashable",
+      "description": "The update fixes a bug that would allow attackers to take over your phone.",
+      "url": "https://mashable.com/article/samsung-issues-urgent-security-fix-galaxy-phones",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01bIIRTdq5CgJhQqKiMrAEI/hero-image.fill.size_1200x675.v1757977221.jpg",
       "source": "Mashable",
-      "publishedAt": "2025-09-14T17:03:45Z"
+      "publishedAt": "2025-09-15T23:06:03Z"
     },
     {
-      "title": "Verizon gives customers another reason to be angry - PhoneArena",
-      "description": "Verizon's Project 624 has somehow led to a degradation in customer service quality.",
-      "url": "https://www.phonearena.com/news/verizon-ai-customers-no-happy_id174015",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/174015-wide-two_1200/Verizon-gives-customers-another-reason-to-be-angry.jpg",
-      "source": "PhoneArena",
-      "publishedAt": "2025-09-14T16:57:44Z"
+      "title": "Snap unveils Snap OS 2.0 with native browser, WebXR support, and more - TechCrunch",
+      "description": "The launch comes as the company rolled out its fifth-generation Snap Spectacles for developers last year and plans to launch a consumer version sometime in 2026.",
+      "url": "https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-15T18:46:13Z"
     },
     {
-      "title": "Borderlands 4 SHiFT Codes Today (September 2025): All Working Codes and How to Redeem - The Game Post",
-      "description": "All working Borderlands 4 SHiFT codes today, how to redeem them, what rewards you’ll get, and which codes are expired or still active.",
-      "url": "https://thegamepost.com/borderlands-4-all-shift-codes/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/09/borderlands-4-all-shift-codes-1.webp",
-      "source": "Thegamepost.com",
-      "publishedAt": "2025-09-14T16:55:25Z"
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 to offer mouse controls on Nintendo Switch 2 - Nintendo Everything",
+      "description": "Nintendo has now confirmed mouse control support for Super Mario Galaxy + Super Mario Galaxy 2 on Switch 2 with the Joy-Con 2.",
+      "url": "https://nintendoeverything.com/super-mario-galaxy-super-mario-galaxy-2-to-offer-mouse-controls-on-nintendo-switch-2/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Galaxy-1-2-mouse-controls-Switch-2.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-09-15T18:43:34Z"
     },
     {
-      "title": "Five Pastel Pieces to Soften Your Fall Wardrobe - The Wall Street Journal",
-      "description": "Delicate hues are an unexpected addition to autumnal looks",
-      "url": "https://www.wsj.com/style/fashion/fall-fashion-pastel-accessories-2025-8ee1142b",
-      "urlToImage": "https://images.wsj.net/im-86093135/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-14T16:45:03Z"
+      "title": "React is winning by default and slowing innovation - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45252715",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-09-15T18:15:17Z"
     },
     {
-      "title": "M5 MacBook Pro: Here’s what to expect - 9to5Mac",
-      "description": "Apple is reportedly working on a new MacBook Pro refresh, as they tend to do almost every year. This refresh...",
-      "url": "https://9to5mac.com/2025/09/14/upcoming-m5-macbook-pro-refresh-what-to-expect-apple/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/m5-macbook-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-14T16:05:00Z"
+      "title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch",
+      "description": "Other features include a call screening assistant, a new gaming and preview app, in-app translation across the system, and updates to Genmoji and Image Playground apps.",
+      "url": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-4.08.52PM.jpg?w=1034",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-15T17:45:19Z"
     },
     {
-      "title": "Samsung Galaxy phones need a full redesign if they really want to embrace Qi2 - 9to5Google",
-      "description": "Samsung Galaxy phones are in need of a redesign for the sake of Qi2 and magnetic accessories, whether you like it or not.",
-      "url": "http://9to5google.com/2025/09/14/samsung-galaxy-phones-need-a-full-redesign-if-they-really-want-to-embrace-qi2/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-65.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-14T16:00:00Z"
+      "title": "Metroid Prime 4: Beyond Is Up for Preorder, Out December 4 - IGN",
+      "description": "Everything you need to know to preorder Metroid Prime 4: Beyond for Nintendo Switch or Switch 2, including how much it costs, where to find it, and more.",
+      "url": "https://www.ign.com/articles/metroid-prime-4-beyond-where-to-buy",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/15/untitled-design-1757953849026.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-09-15T17:23:39Z"
     },
     {
-      "title": "I put Gmail against Notion Mail and the results surprised me - Android Police",
-      "description": "Gmail has been the default inbox for years, but Notion Mail rethinks email as part of your workflow",
-      "url": "https://www.androidpolice.com/testing-notion-mail-vs-gmail/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/illustration-of-an-envelope-surrounded-by-notion-mail-logos-and-black-and-white-gmail-logos.png?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2025-09-14T15:53:00Z"
-    },
-    {
-      "title": "Samsung issues security warning for most Galaxy users to update their phones now — what you need to know - Tom's Guide",
-      "description": "WhatsApp at the center of yet another zero-click vulnerability",
-      "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-issues-security-warning-for-most-galaxy-users-to-update-their-phones-now-what-you-need-to-know",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AotcNKj6nhSo7ryq2Pw9iY.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2025-09-14T15:22:44Z"
-    },
-    {
-      "title": "Nudists Declare War on SpaceX - Futurism",
-      "description": "SpaceX may start launching Starships from Cape Canaveral — and the nudists who flock to a nearby clothing-optional beach are none too pleased.",
-      "url": "https://futurism.com/nudists-declare-war-spacex",
-      "urlToImage": "https://wordpress-assets.futurism.com/2025/09/nudists-declare-war-spacex-1.jpg",
-      "source": "Futurism",
-      "publishedAt": "2025-09-14T15:15:57Z"
-    },
-    {
-      "title": "The Helldivers community is coping with a spotlight it doesn’t want - The Verge",
-      "description": "Helldivers is a satire of fascism — now, it’s coping with a spotlight it doesn’t want.",
-      "url": "https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431967/LaserCannon1_2048x1152.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "The unbearable sameness of Liquid Glass - The Verge",
+      "description": "Apple’s new cross-platform design system, Liquid Glass, is coming to iPhone, Watch, and more. But its Vision Pro-inspired design doesn’t work everywhere.",
+      "url": "https://www.theverge.com/apple/778197/liquid-glass-iphone-watch-ipad-mac",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VPLG.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-09-14T15:00:00Z"
+      "publishedAt": "2025-09-15T17:07:08Z"
     },
     {
-      "title": "The next Apple TV draws closer, and it could be a true game-changer - Digital Trends",
-      "description": "Apple's next TV box will reportedly get a new processor, the N1 networking chip, and the next-gen AI-supercharged Siri assistant to overhaul voice-powered user experiences.",
-      "url": "https://www.digitaltrends.com/home-theater/the-next-apple-tv-draws-closer-and-it-could-be-a-true-game-changer/",
-      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/12/apple-fitness-plus-tv-e1757859950705.jpg?resize=1200%2C630&p=1",
-      "source": "Digital Trends",
-      "publishedAt": "2025-09-14T14:37:32Z"
+      "title": "Apple releases macOS Tahoe 26 with more powerful Spotlight search and its own Phone app - The Verge",
+      "description": "The last major macOS update for Intel-based Macs brings new translation capabilities and Apple Intelligence features.",
+      "url": "https://www.theverge.com/news/777521/apple-macos-tahoe-26-now-available-download-update",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/macos1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-15T17:07:06Z"
     },
     {
-      "title": "New VoidProxy phishing service targets Microsoft 365, Google accounts - BleepingComputer",
-      "description": "A newly discovered phishing-as-a-service (PhaaS) platform, named VoidProxy, targets Microsoft 365 and Google accounts, including those protected by third-party single sign-on (SSO) providers such as Okta.",
-      "url": "https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/10/06/Microsoft_365.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2025-09-14T14:23:32Z"
+      "title": "watchOS 26 is now available with a new wrist flick gesture and Notes on your wrist - The Verge",
+      "description": "First announced at WWDC 2025, watchOS 26 is now available and brings new health features, translation capabilities, and gestures.",
+      "url": "https://www.theverge.com/news/777319/apple-watchos-26-available-update-download",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/watchOS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-15T17:06:29Z"
+    },
+    {
+      "title": "Rumour: Journalist Suggests GTA 6 Release Date Could Be Delayed To October 2026 - Pure Xbox",
+      "description": "Water is wet?",
+      "url": "https://www.purexbox.com/news/2025/09/rumour-journalist-suggests-gta-6-release-date-could-be-delayed-to-october-2026",
+      "urlToImage": "https://images.purexbox.com/0d85488b8b4a6/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2025-09-15T16:40:23Z"
+    },
+    {
+      "title": "Gemini leapfrogs ChatGPT on a wave of AI-generated 3D figurines - The Verge",
+      "description": "After a viral AI trend, Gemini is ahead of ChatGPT on app store rankings.",
+      "url": "https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Gemini_Generated_Rob_Verge.png?quality=90&strip=all&crop=0,36.595336221168,100,38.205745012028",
+      "source": "The Verge",
+      "publishedAt": "2025-09-15T14:59:52Z"
+    },
+    {
+      "title": "Apple Stock Rises Amid Strong iPhone 17 Preorders - Investor's Business Daily",
+      "description": "Apple stock climbed Monday after Wall Street analysts noted strong preorders for the company's iPhone 17 series smartphones.",
+      "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-17-preorders/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-Apple-iPhone17color-company-1.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-09-15T14:58:00Z"
+    },
+    {
+      "title": "Donkey Kong Bananza: DK Island & Emerald Rush DLC review - Nintendo Everything",
+      "description": "Following the launch of Donkey Kong Bananza: DK Island & Emerald Rush, here's a review of the new DLC.",
+      "url": "https://nintendoeverything.com/donkey-kong-bananza-dk-island-emerald-rush-dlc-review/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Donkey-Kong-Bananza-DK-Island-Emerald-Rush-Review.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-09-15T14:12:15Z"
+    },
+    {
+      "title": "Apple Watch's New Hypertension Notifications Feature is Now Available - MacRumors",
+      "description": "Ahead of watchOS 26 being released today, Apple has enabled the new Hypertension Notifications feature on compatible Apple Watch models in the U.S....",
+      "url": "https://www.macrumors.com/2025/09/15/apple-watch-hypertension-notifications-now-live/",
+      "urlToImage": "https://images.macrumors.com/t/gMUbCxOok0aNno7r68O161Tgm5c=/2500x/article-new/2025/09/Hypertension-Notifications-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-15T14:00:34Z"
+    },
+    {
+      "title": "Silksong's surprise release was \"a little callous\", says Hell is Us creative director - Eurogamer",
+      "description": "Hell is Us creative director Jonathan Jacques-Belletête called the surprise release of Hollow Knight: Silksong \"a little callous\".",
+      "url": "https://www.eurogamer.net/silksongs-surprise-release-was-a-little-callous-says-hell-is-us-creative-director",
+      "urlToImage": "https://assetsio.gnwcdn.com/Hell-Is-Us_20250815162654.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-09-15T12:18:56Z"
+    },
+    {
+      "title": "Samsung Begins Official Rollout of One UI 8 to Galaxy Devices - Samsung Newsroom",
+      "description": "More users will be able to use advanced and personalized AI in their daily lives, taking one more step further towards AI democratization",
+      "url": "https://news.samsung.com/global/samsung-begins-official-rollout-of-one-ui-8-to-galaxy-devices",
+      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/09/Samsung-Mobile-One-UI-8-Rollout-Galaxy-AI-Multimodal-AI-Galaxy-S25-series_thumb728.jpg",
+      "source": "Samsung.com",
+      "publishedAt": "2025-09-15T12:03:39Z"
     }
   ]
 }
