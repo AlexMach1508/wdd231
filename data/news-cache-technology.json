@@ -1,135 +1,151 @@
 {
-  "updatedAt": "2025-09-17T06:39:22.405Z",
+  "updatedAt": "2025-09-18T06:38:55.970Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "PSA: Your Samsung Galaxy phone has a security update you should install right now - Mashable",
-      "description": "The update fixes a bug that would allow attackers to take over your phone.",
-      "url": "https://mashable.com/article/samsung-issues-urgent-security-fix-galaxy-phones",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01bIIRTdq5CgJhQqKiMrAEI/hero-image.fill.size_1200x675.v1757977221.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-15T23:06:03Z"
-    },
-    {
-      "title": "Snap unveils Snap OS 2.0 with native browser, WebXR support, and more - TechCrunch",
-      "description": "The launch comes as the company rolled out its fifth-generation Snap Spectacles for developers last year and plans to launch a consumer version sometime in 2026.",
-      "url": "https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-15T18:46:13Z"
-    },
-    {
-      "title": "Super Mario Galaxy + Super Mario Galaxy 2 to offer mouse controls on Nintendo Switch 2 - Nintendo Everything",
-      "description": "Nintendo has now confirmed mouse control support for Super Mario Galaxy + Super Mario Galaxy 2 on Switch 2 with the Joy-Con 2.",
-      "url": "https://nintendoeverything.com/super-mario-galaxy-super-mario-galaxy-2-to-offer-mouse-controls-on-nintendo-switch-2/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Galaxy-1-2-mouse-controls-Switch-2.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2025-09-15T18:43:34Z"
-    },
-    {
-      "title": "React is winning by default and slowing innovation - Hacker News",
-      "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d45252715",
-      "urlToImage": null,
-      "source": "Hacker News",
-      "publishedAt": "2025-09-15T18:15:17Z"
-    },
-    {
-      "title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch",
-      "description": "Other features include a call screening assistant, a new gaming and preview app, in-app translation across the system, and updates to Genmoji and Image Playground apps.",
-      "url": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-4.08.52PM.jpg?w=1034",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-15T17:45:19Z"
-    },
-    {
-      "title": "Metroid Prime 4: Beyond Is Up for Preorder, Out December 4 - IGN",
-      "description": "Everything you need to know to preorder Metroid Prime 4: Beyond for Nintendo Switch or Switch 2, including how much it costs, where to find it, and more.",
-      "url": "https://www.ign.com/articles/metroid-prime-4-beyond-where-to-buy",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/15/untitled-design-1757953849026.png?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "'My Advice to Users Is to Accept Reality and Tune, or to Not Play' — Randy Pitchford Is at the 'Get a Refund From Steam' Stage of the Borderlands 4 PC Performance Backlash - IGN",
+      "description": "Randy Pitchford has continued his social media push to address complaints about the performance of the PC version of Borderlands 4, telling some disgruntled players they can get a Steam refund if they’re unhappy with the game.",
+      "url": "https://www.ign.com/articles/my-advice-to-users-is-to-accept-reality-and-tune-or-to-not-play-randy-pitchford-is-at-the-get-a-refund-from-steam-stage-of-the-borderlands-4-pc-performance-backlash",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/16/gettyimages-2165616825-1758023789142.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2025-09-15T17:23:39Z"
+      "publishedAt": "2025-09-17T03:11:15Z"
     },
     {
-      "title": "The unbearable sameness of Liquid Glass - The Verge",
-      "description": "Apple’s new cross-platform design system, Liquid Glass, is coming to iPhone, Watch, and more. But its Vision Pro-inspired design doesn’t work everywhere.",
-      "url": "https://www.theverge.com/apple/778197/liquid-glass-iphone-watch-ipad-mac",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VPLG.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-15T17:07:08Z"
+      "title": "Mac Mini Sale: Get Into MacOS for Less Than $500 Today - WIRED",
+      "description": "The cheapest path into macOS is cheaper than normal today, thanks to this sale.",
+      "url": "https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/",
+      "urlToImage": "https://media.wired.com/photos/68c99b1771407ee7357f113e/191:100/w_1280,c_limit/Save%20$100%20or%20More%20on%20a%20Mac%20Mini.png",
+      "source": "Wired",
+      "publishedAt": "2025-09-16T23:17:16Z"
     },
     {
-      "title": "Apple releases macOS Tahoe 26 with more powerful Spotlight search and its own Phone app - The Verge",
-      "description": "The last major macOS update for Intel-based Macs brings new translation capabilities and Apple Intelligence features.",
-      "url": "https://www.theverge.com/news/777521/apple-macos-tahoe-26-now-available-download-update",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/macos1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-15T17:07:06Z"
-    },
-    {
-      "title": "watchOS 26 is now available with a new wrist flick gesture and Notes on your wrist - The Verge",
-      "description": "First announced at WWDC 2025, watchOS 26 is now available and brings new health features, translation capabilities, and gestures.",
-      "url": "https://www.theverge.com/news/777319/apple-watchos-26-available-update-download",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/watchOS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-15T17:06:29Z"
-    },
-    {
-      "title": "Rumour: Journalist Suggests GTA 6 Release Date Could Be Delayed To October 2026 - Pure Xbox",
-      "description": "Water is wet?",
-      "url": "https://www.purexbox.com/news/2025/09/rumour-journalist-suggests-gta-6-release-date-could-be-delayed-to-october-2026",
-      "urlToImage": "https://images.purexbox.com/0d85488b8b4a6/large.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2025-09-15T16:40:23Z"
-    },
-    {
-      "title": "Gemini leapfrogs ChatGPT on a wave of AI-generated 3D figurines - The Verge",
-      "description": "After a viral AI trend, Gemini is ahead of ChatGPT on app store rankings.",
-      "url": "https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Gemini_Generated_Rob_Verge.png?quality=90&strip=all&crop=0,36.595336221168,100,38.205745012028",
-      "source": "The Verge",
-      "publishedAt": "2025-09-15T14:59:52Z"
-    },
-    {
-      "title": "Apple Stock Rises Amid Strong iPhone 17 Preorders - Investor's Business Daily",
-      "description": "Apple stock climbed Monday after Wall Street analysts noted strong preorders for the company's iPhone 17 series smartphones.",
-      "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-17-preorders/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-Apple-iPhone17color-company-1.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-15T14:58:00Z"
-    },
-    {
-      "title": "Donkey Kong Bananza: DK Island & Emerald Rush DLC review - Nintendo Everything",
-      "description": "Following the launch of Donkey Kong Bananza: DK Island & Emerald Rush, here's a review of the new DLC.",
-      "url": "https://nintendoeverything.com/donkey-kong-bananza-dk-island-emerald-rush-dlc-review/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Donkey-Kong-Bananza-DK-Island-Emerald-Rush-Review.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2025-09-15T14:12:15Z"
-    },
-    {
-      "title": "Apple Watch's New Hypertension Notifications Feature is Now Available - MacRumors",
-      "description": "Ahead of watchOS 26 being released today, Apple has enabled the new Hypertension Notifications feature on compatible Apple Watch models in the U.S....",
-      "url": "https://www.macrumors.com/2025/09/15/apple-watch-hypertension-notifications-now-live/",
-      "urlToImage": "https://images.macrumors.com/t/gMUbCxOok0aNno7r68O161Tgm5c=/2500x/article-new/2025/09/Hypertension-Notifications-Feature.jpg",
+      "title": "26 New Features to Try in watchOS 26 - MacRumors",
+      "description": "Apple released watchOS 26 yesterday, and if you have a Series 9 or later or an Ultra 2 or later, there are a surprising number of useful new...",
+      "url": "https://www.macrumors.com/guide/watchos-26-new-features/",
+      "urlToImage": "https://images.macrumors.com/t/NNIGrElgUh5HSgLlnwS9SB3s5qg=/2000x/article-new/2025/06/watchos-26-main.jpg",
       "source": "MacRumors",
-      "publishedAt": "2025-09-15T14:00:34Z"
+      "publishedAt": "2025-09-16T22:04:03Z"
     },
     {
-      "title": "Silksong's surprise release was \"a little callous\", says Hell is Us creative director - Eurogamer",
-      "description": "Hell is Us creative director Jonathan Jacques-Belletête called the surprise release of Hollow Knight: Silksong \"a little callous\".",
-      "url": "https://www.eurogamer.net/silksongs-surprise-release-was-a-little-callous-says-hell-is-us-creative-director",
-      "urlToImage": "https://assetsio.gnwcdn.com/Hell-Is-Us_20250815162654.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "How Shift Codes And Gold Keys Work In Borderlands 4 - Kotaku",
+      "description": "I've been redeeming these things for over a decade now, let me help you out",
+      "url": "https://kotaku.com/how-shift-codes-gold-keys-work-borderlands-4-help-get-more-2000626107",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/borderlands-goldkeys-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-09-16T21:30:03Z"
+    },
+    {
+      "title": "Almost a week in, the iPhone Air doesn’t look like a pre-order hit - 9to5Mac",
+      "description": "Since last Friday, most iPhones have slipped to a 2–3 or 3–4 week delivery forecast, except for the iPhone Air.",
+      "url": "https://9to5mac.com/2025/09/16/iphone-air-pre-order-availability/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.42.11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-16T20:43:00Z"
+    },
+    {
+      "title": "Consumer Reports asks Microsoft to keep supporting Windows 10 - The Verge",
+      "description": "The organization argues that ending Windows 10 support will ‘strand millions of consumers.’",
+      "url": "https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-16T19:49:59Z"
+    },
+    {
+      "title": "Here are all the new features in iOS 26, iPadOS 26, macOS Tahoe - 9to5Mac",
+      "description": "iOS 26, iPadOS 26, and macOS Tahoe are here, and Apple has published comprehensive lists of their new features.",
+      "url": "https://9to5mac.com/2025/09/16/here-are-all-the-new-features-in-ios-26-ipados-26-macos-tahoe/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-apps-icons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-16T19:24:00Z"
+    },
+    {
+      "title": "Google rolls out new Windows desktop app with Spotlight-like search tool - TechCrunch",
+      "description": "The app will allow people to use an Alt + Space shortcut to instantly search for information from their computer files, installed apps, Google Drive files, and the web.",
+      "url": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-2.10.31PM.png?resize=1200,688",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-16T18:24:22Z"
+    },
+    {
+      "title": "Gemini tops the App Store thanks to new AI image model, Nano Banana - TechCrunch",
+      "description": "Though the month is only half over, Gemini's app has already gained 12.6 million downloads in September, up from 8.7 million in August.",
+      "url": "https://techcrunch.com/2025/09/16/gemini-tops-the-app-store-thanks-to-new-ai-image-model-nano-banana/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1217053689.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-16T18:07:40Z"
+    },
+    {
+      "title": "Moon helium deal is biggest purchase of natural resources from space - The Washington Post",
+      "description": "The feasibility of moon mining is not yet proven, but the future of supercomputing may depend on the ability to extract Helium-3 from the lunar surface.",
+      "url": "https://www.washingtonpost.com/technology/2025/09/16/moon-mining-helium-quantum-computing/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EHKTUXQNFBCZI2DR7WTA3Y7DM.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-16T17:00:25Z"
+    },
+    {
+      "title": "Bethesda deletes Indiana Jones clip after accusations that it mocks Charlie Kirk - PCGamesN",
+      "description": "Bethesda's now-deleted X post appears to have been part of a wider social media push for the new Indiana Jones and the Great Circle DLC.",
+      "url": "https://www.pcgamesn.com/indiana-jones-and-the-great-circle/clip-removed-fascism-row",
+      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/indiana-jones-and-the-great-circle-dlc-video-backlash-removed-order-of-giants.jpg",
+      "source": "PCGamesN",
+      "publishedAt": "2025-09-16T16:00:15Z"
+    },
+    {
+      "title": "Roku's first TV projector gives you a 150-inch screen - for less than $200 - ZDNET",
+      "description": "The Roku TV Smart Projector D1R Cube offers 1080p HD, 330 ANSI lumens, and dual 5W speakers, plus support for other Roku speakers.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/rokus-first-tv-projector-gives-you-a-150-inch-screen-for-less-than-200/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0e915bd6fb4b652a888ae5b6a5cf12dd35626843/2025/09/15/2269b475-bd0a-4cee-8e3c-e7cb407ceec3/roku-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-09-16T13:00:00Z"
+    },
+    {
+      "title": "Meta’s new smart glasses are coming this week - The Verge",
+      "description": "Mark Zuckerberg is set to keynote Meta Connect 2025 on Wednesday at 8PM ET, and we’re expecting to see news about AI and smart glasses.",
+      "url": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257856_Meta_Oakley_HSTN_AKrales_0053.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-16T12:00:00Z"
+    },
+    {
+      "title": "Xiaomi 's iPhone 17 killer has a secondary display on the back - Mashable",
+      "description": "Well, why not?",
+      "url": "https://mashable.com/article/xiaomi-17-pro-dual-screen",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DXb6nWArlmIPwMUeMz32d/hero-image.fill.size_1200x675.v1758019742.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-16T11:13:22Z"
+    },
+    {
+      "title": "Hollow Knight: Silksong is reportedly already about a third of the way to the original's total sales, with Steam leading the charge - Eurogamer",
+      "description": "Hollow Knight: Silksong has sold 3.2m copies on Steam alone since its release, according to analyst estimations.",
+      "url": "https://www.eurogamer.net/hollow-knight-silksong-is-reportedly-already-about-a-third-of-the-way-to-the-originals-total-sales-with-steam-leading-the-charge",
+      "urlToImage": "https://assetsio.gnwcdn.com/Hollow-Knight_-Silksong---Release-Trailer-0-24-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
-      "publishedAt": "2025-09-15T12:18:56Z"
+      "publishedAt": "2025-09-16T10:50:42Z"
     },
     {
-      "title": "Samsung Begins Official Rollout of One UI 8 to Galaxy Devices - Samsung Newsroom",
-      "description": "More users will be able to use advanced and personalized AI in their daily lives, taking one more step further towards AI democratization",
-      "url": "https://news.samsung.com/global/samsung-begins-official-rollout-of-one-ui-8-to-galaxy-devices",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/09/Samsung-Mobile-One-UI-8-Rollout-Galaxy-AI-Multimodal-AI-Galaxy-S25-series_thumb728.jpg",
-      "source": "Samsung.com",
-      "publishedAt": "2025-09-15T12:03:39Z"
+      "title": "Super Mario Galaxy 1 + 2 Switch Comparison Video Makes Nintendo's Upgrades Clearer - Nintendo Life",
+      "description": "Silver wallet linings?",
+      "url": "https://www.nintendolife.com/news/2025/09/super-mario-galaxy-1-plus-2-switch-comparison-video-makes-nintendos-upgrades-clearer",
+      "urlToImage": "https://images.nintendolife.com/0644332a8ee45/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-09-16T10:00:00Z"
+    },
+    {
+      "title": "macOS Tahoe is live now: 5 features to try first - Tom's Guide",
+      "description": "Get ready for your trip to Tahoe",
+      "url": "https://www.tomsguide.com/computing/macos/macos-tahoe-is-live-now-5-features-to-try-first",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W68GsYoGZvtMLuNBrmwxM7.jpg",
+      "source": "Tom's Guide",
+      "publishedAt": "2025-09-16T04:45:00Z"
+    },
+    {
+      "title": "Pixel 7 and 7 Pro units join the swollen battery club at alarming rates - Android Police",
+      "description": "Reports of swollen batteries causing screens to separate in Pixel 7 and 7 Pro devices raise safety concerns, putting pressure on Google to address the issue.",
+      "url": "https://www.androidpolice.com/pixel-7-7-pro-battery-swelling-more-reports/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/img_9484.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2025-09-15T16:06:13Z"
     }
   ]
 }
