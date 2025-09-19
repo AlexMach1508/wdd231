@@ -1,159 +1,103 @@
 {
-  "updatedAt": "2025-09-18T06:38:56.030Z",
+  "updatedAt": "2025-09-19T06:38:38.575Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Asian Stocks Slip as Investors Await Fed Decision: Markets Wrap - Bloomberg.com",
-      "description": "Asian stocks inched higher, extending their winning run to a 10th day, ahead of the Federal Reserve’s policy decision with investors speculating the central bank will cut interest rates for the first time this year.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-16/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWU3d.zVmASo/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-17T04:36:00Z"
-    },
-    {
-      "title": "Fired BLS Chief Breaks Silence, Calls Her Dismissal a ‘Dangerous Step’ - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/economy/jobs/fired-bls-chief-breaks-silence-calls-her-dismissal-a-dangerous-step-7e3a6a86",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-17T03:28:00Z"
-    },
-    {
-      "title": "U.S. wins release of American who had been barred from leaving China - The Washington Post",
-      "description": "Beijing has allowed Mao Chenyue, a Wells Fargo employee from Atlanta, to return to the United States, people familiar with the matter said.",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/16/china-exit-ban-us-citizen-released/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QCFYOH3MV5S27EJSB46FOAYXKI_size-normalized.jpg&w=1440",
+      "title": "Cracker Barrel expects fewer patrons after failed logo rebrand - The Washington Post",
+      "description": "The restaurant chain warned investors it expects reduced traffic this year, after recently reversing a logo change that drew criticism for being “woke.”",
+      "url": "https://www.washingtonpost.com/business/2025/09/17/cracker-barrel-reduced-traffic-logo/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTRFDYQBJEG66B54RFNF2GH6PE.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-17T03:18:36Z"
+      "publishedAt": "2025-09-18T02:40:54Z"
     },
     {
-      "title": "Rates Spark: A dovish 25bp or a hawkish 50bp rate cut - ING Think",
-      "description": "If it's a 25bp cut, Chair Powell must be dovish, else why deliver at all?",
-      "url": "https://think.ing.com/articles/rates-spark-a-dovish-25bp-or-a-hawkish-50bp/",
-      "urlToImage": "https://think.ing.com/uploads/hero/_w800h450/Fed_Chair_Powell_160925.jpg",
-      "source": "Ing.com",
-      "publishedAt": "2025-09-17T02:44:07Z"
+      "title": "Spirit CEO says struggling airline will slash flights, braces employees for more job cuts - CNBC",
+      "description": "Spirit is slashing its November schedule by 25% and is bracing staff for more job cuts.",
+      "url": "https://www.cnbc.com/2025/09/17/spirit-ceo-flight-cuts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108063980-1731706719266-gettyimages-2171702447-lax_airplanes_040.jpeg?v=1731706850&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-18T01:02:00Z"
     },
     {
-      "title": "Futures Await Fed; Seven Stocks Near Buy Points - Investor's Business Daily",
-      "description": "The stock market was quiet Tuesday, holding near record highs.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-rate-cut-powell-nvidia-meta-palantir-buy-points/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/06/stock-Federal_Reserve-09-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-17T02:05:00Z"
-    },
-    {
-      "title": "United Airlines makes major hiring announcement at Newark Airport - NJ.com",
-      "description": "United Airlines has announced a major hiring plan for its operations at Newark Airport.",
-      "url": "https://www.nj.com/news/2025/09/united-says-newark-airport-has-rebounded-from-air-traffic-control-problems-that-led-to-travel-nightmares.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/46KSMIBPIFHIHHJENV6U3VNS2I.jpg?auth=7946083c8a24a816bee46792578703f7e329a439debe52bf2b37dca32f084049&width=1280&quality=90",
-      "source": "nj.com",
-      "publishedAt": "2025-09-16T23:55:00Z"
-    },
-    {
-      "title": "Legacy Cannabis in Duluth opens for recreational sales Tuesday ... at 4:20 p.m. - Star Tribune",
-      "description": "The Lincoln Park shop has been prepared to sell product from White Earth for weeks.",
-      "url": "https://www.startribune.com/legacy-cannabis-will-open-in-duluth-today-at-420-pm/601475154",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/G625T3H5DVEFNAL7EJDFJWEM7M.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2025-09-16T23:26:15Z"
-    },
-    {
-      "title": "US tech firms pour £30B into UK as Trump lands - politico.eu",
-      "description": "The U.K. will get its own version of Nvidia and OpenAI’s Stargate project.",
-      "url": "https://www.politico.eu/article/us-tech-companies-uk-donald-trump-state-visit-openai-nscale-nvidia-stargate/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/16/GettyImages-2235742389-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-16T22:39:00Z"
-    },
-    {
-      "title": "Rivian Is Building a Georgia Factory in the Face of an EV Slump - The Wall Street Journal",
-      "description": "The plant, scheduled to open in 2028, would support the company’s R2 sport-utility vehicle and smaller R3 crossover model",
-      "url": "https://www.wsj.com/business/autos/rivian-is-building-a-georgia-factory-in-the-face-of-an-ev-slump-d18da2c3",
-      "urlToImage": "https://images.wsj.net/im-03133637/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-16T22:12:00Z"
-    },
-    {
-      "title": "Ford Stock (NYSE:F) Slips Despite German Layoff Plans - TipRanks",
-      "description": "Normally, news of layoffs tends to do good things for stock prices. That did not hit for legacy automaker Ford ($F), which recently announced that it was planning t...",
-      "url": "https://www.tipranks.com/news/ford-stock-nysef-slips-despite-german-layoff-plans",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/ford-shutterstock_2676441803-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-09-16T21:56:15Z"
-    },
-    {
-      "title": "Why are Oregon gas prices so high? Confluence of factors sends prices skyrocketing - OregonLive.com",
-      "description": "The Olympic Pipeline, which transports fuel from Washington to Oregon, sent gas prices rocketing when it shut down.",
-      "url": "https://www.oregonlive.com/commuting/2025/09/why-are-oregon-gas-prices-so-high-confluence-of-factors-sends-prices-skyrocketing.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/T5D734D6FFAMVA6MESJMPWBV3I.jpg?auth=3670eef81686420cffe98c0a44d97a078a773adb9b374353764bed09ad3a1084&width=1280&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2025-09-16T20:47:00Z"
-    },
-    {
-      "title": "Sam Altman says ChatGPT will stop talking about suicide with teens - The Verge",
-      "description": "He made the announcement ahead of a Senate panel on chatbots’ harm to minors.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-16T20:36:35Z"
-    },
-    {
-      "title": "Bond Traders Boost Bets on Half-Point Fed Rate Cuts by Year-End - Bloomberg.com",
-      "description": "Bond traders are stepping up options wagers that the Federal Reserve will deliver at least one half-point interest-rate cut across this year’s three remaining policy meetings.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-16/bond-traders-boost-bets-on-half-point-fed-rate-cuts-by-year-end",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQdzXdMVAowg/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-16T20:30:00Z"
-    },
-    {
-      "title": "US orders Delta and Aeromexico to dissolve their revenue-sharing partnership - Fortune",
-      "description": "U.S. Transportation Secretary Sean Duffy says Mexico isn't being fair to U.S. airlines.",
-      "url": "https://fortune.com/2025/09/16/us-transportation-delta-aeromexico-airlines-to-dissolve-partnership-price-schedule-flights-share-revenue/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2231496847-e1758050613536.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-16T19:53:17Z"
-    },
-    {
-      "title": "Publishers Clearing House, company that promised 'forever' payments to sweepstakes winners, says no - Fortune",
-      "description": "In a statement to the AP, the company that acquired PCH in bankruptcy said it was “committed to restoring and preserving the trust” of the brand going forward.",
-      "url": "https://fortune.com/2025/09/16/publishers-clearing-house-bankruptcy-not-forever-lifetime-payments/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1239764119-e1758051562431.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-16T19:41:00Z"
-    },
-    {
-      "title": "Ready, Set, Move. 8 Stocks That We Think Will Pop on Fed Day - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/stocks-small-caps-fed-rate-cut-295f287b",
-      "urlToImage": null,
+      "title": "S&P 500 Heads Lower as Rally Reverses After Fed Decision - Barron's",
+      "description": "The Dow rose while the S&P 500 and Nasdaq fell Wednesday as the stock market stalled after the Federal Reserve's rate cut.",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091725",
+      "urlToImage": "https://images.barrons.com/im-783602/social",
       "source": "Barron's",
-      "publishedAt": "2025-09-16T19:38:00Z"
+      "publishedAt": "2025-09-17T22:43:00Z"
     },
     {
-      "title": "Mortgage Rates Near 3 Year Lows Ahead of Fed - Mortgage News Daily",
-      "description": "Mortgage rates dropped sharply lower today relative to the amount of movement in the underlying bond market with the average lender right in line with the lowest levels since late 2022. Because rates are directly tied to the prices of those bonds, the correla…",
-      "url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-09162025",
-      "urlToImage": "https://a.mortgagenewsdaily.com/dsocial/68c9bb4171263d0df7687508/68c9bb4171263d0df7687508_0_202509162055.jpg?provider=facebook",
-      "source": "Mortgage News Daily",
-      "publishedAt": "2025-09-16T19:18:00Z"
+      "title": "US to invest £150bn in UK, promising thousands of jobs - BBC",
+      "description": "The UK government is calling this the largest commercial deal of its kind and expects it to create more than 7,600 \"high-quality jobs\".",
+      "url": "https://www.bbc.com/news/articles/cx2nllgl3q7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8102/live/3536f7e0-93f9-11f0-8750-ed240c52ff67.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-17T21:30:05Z"
     },
     {
-      "title": "Waymo gets green light for airport service in San Francisco - The Verge",
-      "description": "Waymo signed a permit to begin testing its robotaxi service to San Francisco International Airport.",
-      "url": "https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2231033749.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-16T18:18:14Z"
+      "title": "Ben & Jerry's co-founder Jerry Greenfield resigns over dispute with owner Unilever - NPR",
+      "description": "Greenfield said the Vermont ice cream maker \"has been silenced, sidelined for fear of upsetting those in power\" by Unilever, the multinational corporation that bought Ben & Jerry's in 2000.",
+      "url": "https://www.npr.org/2025/09/17/nx-s1-5544283/ben-jerrys-jerry-greenfield-resigns-unilever",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2225x1251+136+226/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F86%2F8bc338d9410394148f8462207526%2Fgettyimages-91014224.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-17T21:19:28Z"
     },
     {
-      "title": "FDA targets Lilly, Novartis, BMS and more in deluge of marketing letters - Fierce Pharma",
-      "description": "After the FDA announced it was cracking down on what it has determined | After the FDA announced it was cracking down on what it has determined to be “misleading” or “deceptive” direct-to-consumer pharmaceutical ads, the floodgates have opened.",
-      "url": "https://www.fiercepharma.com/marketing/fda-targets-lilly-novartis-bms-and-more-deluge-marketing-letters",
-      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1668542545.jpg?VersionId=j94xHIq5B4w8Pqqlwd5yWVWagEI2kRbl",
-      "source": "FiercePharma",
-      "publishedAt": "2025-09-16T17:55:06Z"
+      "title": "Tesla Is Redesigning Door Handles That Drew Safety Scrutiny - Bloomberg.com",
+      "description": "Tesla Inc. is working on a redesign of its door handles, which have drawn scrutiny over safety incidents that trapped passengers inside their vehicles.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-17/tesla-is-redesigning-door-handles-that-drew-scrutiny-over-safety",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1h3RZaTRREw/v1/1200x785.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-17T20:45:40Z"
+    },
+    {
+      "title": "Cracker Barrel stock falls as company reports mixed earnings after rebrand controversy - CNBC",
+      "description": "Cracker Barrel reported fourth-quarter earnings after the bell on Wednesday.",
+      "url": "https://www.cnbc.com/2025/09/17/cracker-barrel-q4-2025-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108191579-1756325780992-gettyimages-2232416729-dji_20250827140040_0492_d_xhdlqvmk.jpeg?v=1756325844&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-17T20:35:01Z"
+    },
+    {
+      "title": "China tells its tech companies they can’t buy AI chips from Nivida - TechCrunch",
+      "description": "After strongly discouraging tech companies from buying Nivdia's AI chips in August, the country is now banning the practice outright.",
+      "url": "https://techcrunch.com/2025/09/17/china-tells-its-tech-companies-they-cant-buy-ai-chips-from-nivida/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-17T19:39:28Z"
+    },
+    {
+      "title": "Elizabeth Warren says there's a hidden reason why Trump wants to end companies' quarterly earnings requirement - Business Insider",
+      "description": "\"It undermines transparency,\" Sen. Elizabeth Warren said of Trump's proposal. \"That is the whole point here.\"",
+      "url": "https://www.businessinsider.com/elizabeth-warren-trump-sec-quarterly-earnings-2025-9",
+      "urlToImage": "https://i.insider.com/68caf841183847aa39d6f40b?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-17T19:39:00Z"
+    },
+    {
+      "title": "New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together - CNBC",
+      "description": "Newly confirmed Federal Reserve Governor Stephen Miran dissented from the central bank's decision.",
+      "url": "https://www.cnbc.com/2025/09/17/new-trump-appointee-miran-calls-for-half-point-cut-in-only-dissent-as-rest-of-fed-bands-together.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200152-1758137673505-fomcDotPlot_2025sep_1.png?v=1758137676&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-17T18:19:00Z"
+    },
+    {
+      "title": "ICYMI: Mortgage Rates Fall to Three-Year Low - The White House (.gov)",
+      "description": "Mortgage rates have fallen to their lowest levels in three years, making the third straight week of declines as President Donald J. Trump continues to",
+      "url": "https://www.whitehouse.gov/articles/2025/09/icymi-mortgage-rates-fall-to-three-year-low/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+      "source": "Whitehouse.gov",
+      "publishedAt": "2025-09-17T15:59:17Z"
+    },
+    {
+      "title": "Trump crashes the Fed's consensus - Politico",
+      "description": "The threat of stagflation means the risk of getting the policy wrong is high for Powell — and no less so for Trump, whose presidency could ride on the outcome.",
+      "url": "https://www.politico.com/news/2025/09/17/trump-powell-fed-interest-rates-inflation-miran-00567989",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fff%2F2b%2Ffbf392ab451f9ddc0f4487100b0e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2227060961",
+      "source": "Politico",
+      "publishedAt": "2025-09-17T12:21:46Z"
     }
   ]
 }
