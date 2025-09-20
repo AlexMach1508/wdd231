@@ -1,39 +1,119 @@
 {
-  "updatedAt": "2025-09-19T06:38:38.530Z",
+  "updatedAt": "2025-09-20T06:35:31.428Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Galaxy S25 One UI 8 update going out to more users - SamMobile",
-      "description": "On Monday, Samsung released the stable version of Android 16-based One UI 8.0 to the Galaxy S25 series. However, the brand had rolled out the update only in its home country, South Korea. Now, the company has made the update available in three more countries:…",
-      "url": "https://www.sammobile.com/news/galaxy-s25-one-ui-8-update-going-out-more-users/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Ultra-One-UI-8-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-09-18T03:09:54Z"
-    },
-    {
-      "title": "Nintendo Expands Switch Online's GBA Library With Two More Titles - Nintendo Life",
-      "description": "Joining the 'Nintendo Classics' library next week",
-      "url": "https://www.nintendolife.com/news/2025/09/nintendo-expands-switch-onlines-gba-library-with-two-more-titles",
-      "urlToImage": "https://images.nintendolife.com/70068112f4efa/large.jpg",
+      "title": "New Limited-Time Pokémon Scarlet And Violet Distribution Now Available - Nintendo Life",
+      "description": null,
+      "url": "https://www.nintendolife.com/news/2025/09/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available",
+      "urlToImage": null,
       "source": "Nintendo Life",
-      "publishedAt": "2025-09-18T01:05:00Z"
+      "publishedAt": "2025-09-19T01:30:00Z"
     },
     {
-      "title": "Here's every new feature for Pixels in Android 16 QPR2 Beta 2 - Android Authority",
-      "description": "Google rolled out Android 16 QPR2 Beta 2 for Pixel devices, and it brings several exciting new features. Here's everything new!",
-      "url": "https://www.androidauthority.com/android-16-qpr2-beta-2-features-3598245/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Photo-of-Android-16-QPR2-Beta-2-logo-on-a-Pixel-phone.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-09-17T20:57:58Z"
+      "title": "‘I don’t know what happened’: AI glasses fail during Zuckerberg’s Meta Connect keynote - KRON4",
+      "description": "(KRON) — The AI-powered smart glasses that Meta CEO Mark Zuckerberg is calling “the next generation of Meta Ray-Ban glasses,” were the focus of multiple failed demonstrations during Zuckerberg’s keynote speech at the company’s annual conference Wednesday. The…",
+      "url": "https://www.kron4.com/news/technology-ai/i-dont-know-what-happened-ai-glasses-fail-during-zuckerbergs-meta-connect-keynote/",
+      "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2025/09/GettyImages-2235448062.jpg?w=1280",
+      "source": "KRON4",
+      "publishedAt": "2025-09-18T23:05:56Z"
     },
     {
-      "title": "Here’s how the iPhone 17 Pro vapor chamber actually works - 9to5Mac",
-      "description": "If you’ve never really looked into how this heat dissipation component works, the video below will tell you everything you need to know.",
-      "url": "https://9to5mac.com/2025/09/17/heres-how-the-iphone-17-pro-vapor-chamber-actually-works/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-vapor-chamber.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Sonic Racing: CrossWorlds’ final DLC collaboration leaked - nintendoeverything.com",
+      "description": "New image leak seems to reveal Sonic Racing: CrossWorlds' final DLC collaboration, and it's a big one.",
+      "url": "https://nintendoeverything.com/sonic-racing-crossworlds-final-dlc-collaboration-leaked/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-DLC-leak-Mega-Man.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-09-18T21:00:10Z"
+    },
+    {
+      "title": "iOS 26’s new Battery feature can help save a draining iPhone - 9to5Mac",
+      "description": "iOS 26 has a revamped Battery screen in Settings that makes it easier to identify and solve any excessive iPhone drain.",
+      "url": "https://9to5mac.com/2025/09/18/ios-26s-new-battery-feature-can-help-save-a-draining-iphone/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-26-battery-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2025-09-17T20:40:00Z"
+      "publishedAt": "2025-09-18T20:31:00Z"
+    },
+    {
+      "title": "First iPhone Air, iPhone 17, and iPhone 17 Pro Orders Now Arriving to Customers - MacRumors",
+      "description": "Apple customers in Australia and New Zealand are starting to receive their iPhone Air, iPhone 17, iPhone 17 Pro, and iPhone 17 Pro Max orders, since...",
+      "url": "https://www.macrumors.com/2025/09/18/first-iphone-17-orders-arriving/",
+      "urlToImage": "https://images.macrumors.com/t/_BM3WvQmnhsAKgHBPyn6qOWsvN4=/1958x/article-new/2025/09/iphone-air-thinness.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-18T20:11:53Z"
+    },
+    {
+      "title": "Google announces massive expansion of AI features in Chrome - Ars Technica",
+      "description": "Chrome’s future as an AI browser starts today.",
+      "url": "https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-18T19:27:58Z"
+    },
+    {
+      "title": "Dying Light: The Beast Tips - 11 Things To Know Before You Play - GameSpot",
+      "description": "From cracking safes without the codes to managing an unforgiving stamina system, here are 11 ways to stay alive and thriving in Dying Light: The Beast.",
+      "url": "https://www.gamespot.com/gallery/dying-light-the-beast-tips-11-things-to-know-before-you-play/2900-7048/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/4570140-ss_8391c35e0bdb345926596a62a72711e82008087d.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-09-18T18:47:18Z"
+    },
+    {
+      "title": "“Do Not Update Your PC”: Microsoft Stock (NASDAQ:MSFT) Slips as it Issues Bizarre New Warning - TipRanks",
+      "description": "Updating your PC regularly is one of the very first and potentially biggest rules of cybersecurity. It just is. But tech giant Microsoft ($MSFT) recently brought ou...",
+      "url": "https://www.tipranks.com/news/do-not-update-your-pc-microsoft-stock-nasdaqmsft-slips-as-it-issues-bizarre-new-warning",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/microsoft-shutterstock_2679706685-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-18T17:48:45Z"
+    },
+    {
+      "title": "How to use Apple Watch’s hypertension feature in watchOS 26 - 9to5Mac",
+      "description": "Hypertension notifications are a new feature in watchOS that comes to several older Apple Watch models, here’s how to set it up.",
+      "url": "https://9to5mac.com/2025/09/18/how-to-use-apple-watchs-hypertension-feature-in-watchos-26/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/hypertension-notifications-apple-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-18T15:55:00Z"
+    },
+    {
+      "title": "Samsung preparing next major Android 16 update as One UI 8 goes wide on Galaxy S25 - 9to5Google",
+      "description": "As Samsung rolls out One UI 8 to the Galaxy S25 lineup, it's also beginning internal testing on the software that will power the Galaxy S26.",
+      "url": "http://9to5google.com/2025/09/18/samsung-preparing-next-major-android-16-update-as-one-ui-8-goes-wide-on-galaxy-s25/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/samsung-galaxy-s25-ultra-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-18T15:22:00Z"
+    },
+    {
+      "title": "The Neighborhood Watch Event Continues: Get the Winter LSPD Officer Uniform and More - Rockstar Games",
+      "description": "The Neighborhood Watch Event enters its second week with an opportunity to unlock another LSPD uniform. Engage in off-the-books Dispatch Work for Vincent with any eligible Law Enforcement Vehicle, and earn 2X GTA$ and RP (4X for GTA+ Members) all week...",
+      "url": "https://www.rockstargames.com/newswire/article/2588o418a19k72/the-neighborhood-watch-event-continues-get-the-winter-lspd-officer-uni",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/2588o418a19k72/f68d80224a0aafdc350e887532bdb8485b9c9d18.jpg",
+      "source": "Rockstargames.com",
+      "publishedAt": "2025-09-18T14:26:38Z"
+    },
+    {
+      "title": "Borderlands 4 Boss Randy Pitchford Keeps Saying Wild Stuff - Kotaku",
+      "description": "Gearbox is investigating issues on PS5 and Xbox Series X/S as well",
+      "url": "https://kotaku.com/borderlands-4-pc-performance-patch-console-crash-pitchford-2000626826",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/ss_2c9839e5d1b699c41caea5f13c069ce8ac11906f.1920x1080-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-09-18T13:54:51Z"
+    },
+    {
+      "title": "Hollow Knight: Silksong devs admit it has \"moments of steep difficulty\" but also a \"higher level of freedom\" to avoid getting stonewalled - Eurogamer",
+      "description": "Team Cherry's long-awaited Hollow Knight follow-up Silksong has spawned lengthy discourse around difficulty in games.",
+      "url": "https://www.eurogamer.net/hollow-knight-silksong-devs-admit-it-has-moments-of-steep-difficulty-but-also-a-higher-level-of-freedom-to-avoid-getting-stonewalled",
+      "urlToImage": "https://assetsio.gnwcdn.com/IMG_7196.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-09-18T12:40:57Z"
+    },
+    {
+      "title": "Samsung’s biggest new phone in years may launch in the US this year - CNN",
+      "description": "The longtime rivalry between the world’s two largest smartphone makers is about to enter its next phase as Samsung prepares to launch its first tri-folding smartphone.",
+      "url": "https://www.cnn.com/2025/09/18/tech/samsung-trifold-phone-galaxy-s26-edge",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2223727381.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-18T09:00:06Z"
     },
     {
       "title": "Watch the iPhone Air survive 130 pounds of pressure in extreme bend test - Tom's Guide",
@@ -44,116 +124,12 @@
       "publishedAt": "2025-09-17T19:55:34Z"
     },
     {
-      "title": "Donkey Kong Bananza: DK Island and Emerald Rush Review - IGN",
-      "description": "Donkey Kong Bananza’s DLC is an enjoyable but inessential expansion to DK and Pauline’s grand adventure.",
-      "url": "https://www.ign.com/articles/donkey-kong-bananza-dk-island-and-emerald-rush-review",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/17/fykvooc7rwic6aduluhkbvu45bkoijggweu293c26y4-1758131478860.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-17T18:45:00Z"
-    },
-    {
-      "title": "AirPods Pro 3 vs AirPods Pro 1: What’s new after two generations? - 9to5Mac",
-      "description": "AirPods Pro 3 are set to launch in just two days, and they’re a rather notable upgrade – even if...",
-      "url": "https://9to5mac.com/2025/09/17/airpods-pro-3-vs-original-airpods-pro-1-comparison/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-vs-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-17T17:28:00Z"
-    },
-    {
-      "title": "Apple Details iOS 26 Features Like Call Screening, Live Translation, AutoMix, and More - MacRumors",
-      "description": "Apple has updated its iPhone User Guide, and published a series of support documents, with more details about a wide range of new iOS 26 features.  ...",
-      "url": "https://www.macrumors.com/2025/09/17/apple-details-ios-26-features/",
-      "urlToImage": "https://images.macrumors.com/t/p817t4gw5ljW1ROSxfadhn3mJew=/2500x/article-new/2025/06/iOS-26-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-17T17:11:18Z"
-    },
-    {
-      "title": "Two More Heroes Join Marvel Cosmic Invasion ‘s Already Large Roster - Kotaku",
-      "description": "We now know 12 of the 15 characters that will be playable when the co-op brawler launches later this year",
-      "url": "https://kotaku.com/two-new-heroes-marvel-cosmic-invasion-full-roster-black-panther-ghost-rider-2000626521",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/pixelmarvekl-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-09-17T17:04:20Z"
-    },
-    {
-      "title": "Vampire: The Masquerade - Bloodlines 2's controversial DLC clans will be in the base game after all - Rock Paper Shotgun",
-      "description": "After a big wave of negative feedback, Vampire: The Masquerade - Bloodlines 2's DLC clans will now be available for free at launch.",
-      "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2s-controversial-dlc-clans-will-be-in-the-base-game-after-all",
-      "urlToImage": "https://assetsio.gnwcdn.com/vampire-the-masq-clans-change.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Rock Paper Shotgun",
-      "publishedAt": "2025-09-17T16:47:52Z"
-    },
-    {
-      "title": "Airbuds is the music social network Apple and Spotify wish they had built - TechCrunch",
-      "description": "Airbuds, a music social app aimed at Gen Z, raises $5M as the app reaches 5 million monthly users.",
-      "url": "https://techcrunch.com/2025/09/17/airbuds-is-the-music-social-network-apple-and-spotify-wish-they-had-built/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/cover.jpg?resize=1200,788",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-17T16:36:38Z"
-    },
-    {
-      "title": "33.4.2 Patch Notes — Hearthstone - Blizzard News",
-      "description": "Check out the latest updates for Hearthstone and Battlegrounds, along with a few bug fixes.",
-      "url": "https://news.blizzard.com/en-us/article/24223779/33-4-2-patch-notes",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/fy/FYA02RD3007Z1757630708305.jpg",
-      "source": "Blizzard.com",
-      "publishedAt": "2025-09-17T15:50:00Z"
-    },
-    {
-      "title": "5 Metroidvania Games To Play If You’ve Been Defeated By Hollow Knight: Silksong - Kotaku",
-      "description": "If you want all the platform action without the brutal difficulty, here are five excellent alternatives",
-      "url": "https://kotaku.com/metroidvania-hollow-knight-silksong-islets-ori-2000626458",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/metroids-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-09-17T14:25:54Z"
-    },
-    {
-      "title": "Randy Pitchford calls Borderlands 4 \"pretty damn optimal\" amidst PC performance complaints - GamesIndustry.biz",
-      "description": "\"Every PC gamer must accept the reality of the relationship between their hardware and what the software they are running is doing,\" the CEO says",
-      "url": "https://www.gamesindustry.biz/randy-pitchford-calls-borderlands-4-pretty-damn-optimal-amidst-pc-performance-complaints",
-      "urlToImage": "https://assetsio.gnwcdn.com/Borderlands-4-Vex_xvZ3lrM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2025-09-17T14:15:09Z"
-    },
-    {
-      "title": "\"Who's Getting Hypertension Alerts\": Apple Watch Series 11 Will Secretly Monitor Your Blood Pressure And Notify Doctors Without Permission - Rude Baguette",
-      "description": "Sliding the Apple Watch Series 11 onto your wrist might feel like rekindling an old friendship rather than embarking on a new experience. While the device",
-      "url": "https://www.rudebaguette.com/en/2025/09/they-knew-since-october-apple-watch-series-11-secretly-exposes-terrifying-revolution-that-shatters-everything-we-know/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/they-knew-since-october-apple-watch-series-11-secretly-exposes-terrifying-revolution-that-shatters-everything-we-know.jpg",
-      "source": "Rudebaguette.com",
-      "publishedAt": "2025-09-17T13:54:45Z"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator - WIRED",
-      "description": "The Nvidia CEO reveals his consuming love for Google’s image generator, the artsy side of Grok, and what exactly he uses Perplexity, Gemini, and ChatGPT for right now.",
-      "url": "https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/",
-      "urlToImage": "https://media.wired.com/photos/68cab7d93e5e2149419670d9/191:100/w_1280,c_limit/JensenBanana.png",
-      "source": "Wired",
-      "publishedAt": "2025-09-17T13:53:12Z"
-    },
-    {
-      "title": "The Assassin’s Creed Black Flag remake will release early 2026 and swaps modern-day sections for more piracy, claims report - Rock Paper Shotgun",
-      "description": "Ubisoft are aiming to release the still unannounced Assassin’s Creed Black Flag remake in early 2026, claims a new report.",
-      "url": "https://www.rockpapershotgun.com/the-assassins-creed-black-flag-remake-will-release-early-2026-and-swaps-modern-day-sections-for-more-piracy-claims-report",
-      "urlToImage": "https://assetsio.gnwcdn.com/assassins-creed-black-flag-remake-seemingly-teased-voice-actor-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Rock Paper Shotgun",
-      "publishedAt": "2025-09-17T13:04:37Z"
-    },
-    {
-      "title": "No, Nintendo and Pokémon did not patent ‘summoning characters and making them battle’ - The Verge",
-      "description": "The patent, which was filed in March 2023 and recently granted in the US, is complicated — and dubious.",
-      "url": "https://www.theverge.com/games/779062/nintendo-pokemon-summoning-battle-patent",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Pokemon_SV_Floragato_2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-17T12:30:00Z"
-    },
-    {
-      "title": "With players stuck in lengthy queues for online-only Skate, those who made it in are comparing its bouncing, belly-flopping traversal to Mario 64 - Eurogamer",
-      "description": "Skate released into early access yesterday and has proven so popular there are long queues to get in, with the team fixing ongoing outage issues.",
-      "url": "https://www.eurogamer.net/with-players-stuck-in-lengthy-queues-for-online-only-skate-those-who-made-it-in-are-comparing-its-bouncing-belly-flopping-traversal-to-mario-64",
-      "urlToImage": "https://assetsio.gnwcdn.com/The_Grind_Final_1.2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-09-17T11:40:10Z"
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 Gets A Seven-Minute Overview Trailer - Nintendo Life",
+      "description": "Going beyond the Mushroom Kingdom",
+      "url": "https://www.nintendolife.com/news/2025/09/super-mario-galaxy-plus-super-mario-galaxy-2-gets-a-seven-minute-overview-trailer",
+      "urlToImage": "https://images.nintendolife.com/d76f8b64b9c8c/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-09-17T05:26:11Z"
     }
   ]
 }
