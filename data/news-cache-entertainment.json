@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2025-09-20T06:35:31.811Z",
+  "updatedAt": "2025-09-21T06:36:39.006Z",
   "country": "us",
   "category": "entertainment",
-  "articles": []
+  "articles": [
+    {
+      "title": "Bill Maher Voices Support For Jimmy Kimmel, Compares It To His ‘Politically Incorrect’ Cancellation: “ABC Stands For Always Be Caving” - Deadline",
+      "description": "Bill Maher addressed ABC's suspension of Jimmy Kimmel Live!, comparing it to his own cancellation over two decades ago by the same network.",
+      "url": "http://deadline.com/2025/09/bill-maher-jimmy-kimmel-suspension-abc-real-time-1236550158/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/maher.jpg?w=1000",
+      "source": "Deadline",
+      "publishedAt": "2025-09-20T03:37:00Z"
+    },
+    {
+      "title": "Marvel Stars Stand for Jimmy Kimmel: Pedro Pascal Defends Free Speech While Others Endorse Boycott - The Hollywood Reporter",
+      "description": "Hollywood stars — including those with Disney, ABC, Hulu and Marvel Cinematic Universe credits — are continuing to show their support for the ‘Jimmy Kimmel Live!’ host in the wake of his suspension.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-suspension-reactions-marvel-disney-stars-1236376120/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/Pedro-Pascal-getty-H-2025.png?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-20T00:45:00Z"
+    },
+    {
+      "title": "Brett James: 'Jesus, Take the Wheel' songwriter dies in plane crash in North Carolina - BBC",
+      "description": "Friends and co-artists remember the Grammy-winning writer as \"a songwriting force of nature\".",
+      "url": "https://www.bbc.com/news/articles/c24rzgrez59o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/750f/live/3250ead0-95ad-11f0-8b02-ff721f50dc42.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-19T23:10:14Z"
+    },
+    {
+      "title": "Body Discovered Inside Singer D4vd’s Tesla Identified as Teen Missing for Over a Year - The Hollywood Reporter",
+      "description": "Celeste Rivas had been missing for nearly 18 months before her remains were found at Hollywood Tow on Sept. 8. Since the remains were identified, the singer's tour has been canceled.",
+      "url": "http://www.hollywoodreporter.com/news/general-news/d4vd-tesla-body-discovered-celeste-rivas-1236376153/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/241121_d4vd_Withering0057-Edit_R-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-19T20:26:15Z"
+    },
+    {
+      "title": "‘Taylor Swift: The Official Release Party of a Showgirl’ to Hit Theaters in October With ‘Fate of Ophelia’ Music Video Premiere and Album Commentary (EXCLUSIVE) - Variety",
+      "description": "'Taylor Swift: The Official Release Party of a Showgirl' will hit the big screen to coincide with the launch of her 'The Life of a Showgirl' album.",
+      "url": "https://variety.com/2025/music/news/taylor-swift-film-theaters-october-showgirl-1236524158/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2197381242.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-19T16:00:00Z"
+    }
+  ]
 }
