@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2025-09-21T06:36:38.921Z",
+  "updatedAt": "2025-09-22T06:41:21.195Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Former Gamecock, NFL player Jadeveon Clowney arrested in South Carolina - WYFF News 4",
-      "description": "Former South Carolina Gamecock and NFL player Jadeveon Clowney was arrested in Rock Hill on Sept. 12.",
-      "url": "https://www.wyff4.com/article/former-gamecock-nfl-player-jadeveon-clowney-arrested-in-south-carolina/67972161",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/jadeveon-clowney-0090-68cde6b83a7dc.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "source": "WYFF4 Greenville",
-      "publishedAt": "2025-09-20T03:28:00Z"
+      "title": "3 takeaways from BYU’s win over East Carolina - Deseret News",
+      "description": "The Cougars move to 3-0 following a convincing road victory over the Pirates.",
+      "url": "https://www.deseret.com/sports/2025/09/20/byu-cougars-defeat-east-carolina-pirates-football-3-takeaways/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/J3XDOV2LVVDFPKXPYJY3FHXRBQ.JPG?focal=1487%2C657&auth=31ec5fcf9cf4bf817645e7593422ba47c139654693c952e4a065f1ecd80e45ac&width=1200&height=630",
+      "source": "Deseret News",
+      "publishedAt": "2025-09-21T03:24:00Z"
     },
     {
-      "title": "Liberty vs. Mercury score, highlights: Phoenix earns final spot in WNBA semifinals with dramatic Game 3 win - CBS Sports",
-      "description": "The Mercury will face the top-seeded Lynx in the next round",
-      "url": "https://www.cbssports.com/wnba/news/liberty-vs-mercury-score-highlights-phoenix-earns-final-spot-in-wnba-semifinals-with-dramatic-game-3-win/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/20/50f8dbca-2ebb-41f8-8ee9-c840c188c154/thumbnail/1200x675/827f944800e047fcea15977e39c2dbff/091925-mercury.jpg",
+      "title": "Indiana football vs Illinois: Hoosiers dominatie No. 8 team with 63-10 victory - IndyStar",
+      "description": "The Indiana Hoosiers destroyed No. 8 Illinois, 63-10, as Fernando Mendoza firmly establishing himself in the Heisman Trophy race",
+      "url": "https://www.indystar.com/story/sports/college/indiana/2025/09/20/indiana-illinois-live-updates-score-college-football-where-watch-tv-channel-how-stream-highlights/86223903007/",
+      "urlToImage": "https://www.indystar.com/gcdn/authoring/authoring-images/2025/09/13/NHEN/86122915007-iu-isu-ncaa-fb-41.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+      "source": "The Indianapolis Star",
+      "publishedAt": "2025-09-21T03:22:30Z"
+    },
+    {
+      "title": "Mizzou Football: Five Takeaways from the 29-20 win over South Carolina - Rock M Nation",
+      "description": "Mizzou survived some big punches from LaNorris Sellers and kept their perfect record intact.",
+      "url": "https://www.rockmnation.com/missouri-tigers-football/122679/five-takeaways-from-mizzous-29-20-win-over-south-carolina",
+      "urlToImage": "https://platform.rockmnation.com/wp-content/uploads/sites/135/2025/09/J1A1341.jpg?quality=90&strip=all&crop=0%2C6.0349398819106%2C100%2C72.638221430655&w=1200",
+      "source": "Rockmnation.com",
+      "publishedAt": "2025-09-21T03:09:00Z"
+    },
+    {
+      "title": "College Football Week 4 Winners and Losers: Lubbock or Leave It - Sports Illustrated",
+      "description": "This isn't your parents' Texas Tech team.",
+      "url": "https://www.si.com/college-football/college-football-week-4-winners-and-losers-lubbock-leave-it",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3109,h_1748,x_0,y_271/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k5mshpss02me03bb6r.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-09-21T02:12:44Z"
+    },
+    {
+      "title": "Lynx guard DiJonai Carrington ruled out for rest of season because of left foot injury - Star Tribune",
+      "description": "The midseason acquisition, who just returned from a shoulder injury, had a magnetic resonance imaging exam that revealed a mid-foot sprain.",
+      "url": "https://www.startribune.com/lynx-guard-dijonai-carrington-ruled-out-for-rest-of-season-because-of-left-foot-injury/601477905",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/W2CKBAK6LVCMLNBGTEQR7XAKVU.JPG?&w=1200&ar=1.91:1&fit=crop",
+      "source": "Minneapolis Star Tribune",
+      "publishedAt": "2025-09-21T01:37:01Z"
+    },
+    {
+      "title": "Qualifying results: ARCA Menards Series at Salem Speedway - arcaracing.com",
+      "description": "Here are the complete results from qualifying for today's Kentuckiana Ford Dealers ARCA 200 at Salem Speedway.",
+      "url": "https://www.arcaracing.com/2025/09/20/qualifying-results-kentuckiana-ford-dealers-arca-200-at-salem-speedway/",
+      "urlToImage": "",
+      "source": "Arcaracing.com",
+      "publishedAt": "2025-09-21T01:31:29Z"
+    },
+    {
+      "title": "Florida vs. Miami live updates: Game score, analysis as No. 4 Hurricanes battle with struggling Gators - CBS Sports",
+      "description": "The speculation around Billy Napier's job security will definitely get louder after this rivalry loss",
+      "url": "https://www.cbssports.com/college-football/news/miami-florida-game-score-live-updates-carson-beck-dj-lagway/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/21/3053a763-7cf4-45a6-9ba9-275d4bbeb733/thumbnail/1200x675/c95fc8cf0875f427760b696280cb5b03/miami-florida-final-lb-1.jpg",
       "source": "CBS Sports",
-      "publishedAt": "2025-09-20T03:25:43Z"
+      "publishedAt": "2025-09-21T01:18:30Z"
     },
     {
-      "title": "Jayden Daniels out, Marcus Mariota to start for Commanders on Sunday - The Washington Post",
-      "description": "Washington Coach Dan Quinn announces that the second-year quarterback will miss a game for the first time in his NFL career.",
-      "url": "https://www.washingtonpost.com/sports/2025/09/19/commanders-jayden-daniels-injury-update/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FN2P23QMUZKJX7MKT3K5OIWV3Q_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-20T02:22:08Z"
+      "title": "5 plays that cost Auburn a chance to win at Oklahoma - 247Sports",
+      "description": "There were many reasons why Auburn couldnt finish off the upset but 5 plays stand out in the 2417 defeat",
+      "url": "https://247sports.com/college/auburn/article/there-were-many-reasons-why-auburn-couldnt-finish-off-the-upset-but-5-plays-stand-out-254322612/",
+      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/718/296/13296718.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+      "source": "247Sports",
+      "publishedAt": "2025-09-21T01:06:04Z"
     },
     {
-      "title": "Mariners’ Bryan Woo leaves start vs. Astros with possible injury - The Seattle Times",
-      "description": "Mariners starter Bryan Woo exited early after throwing five scoreless innings vs. the Astros on Friday night and will undergo a precautionary MRI on Saturday.",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-bryan-woo-leaves-start-vs-astros/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09192025_tzr_tzr_190003.jpg?d=1200x630",
+      "title": "MSR Acura Loses Pole; AXR Cadillac to Start First at Indy - Sportscar365",
+      "description": "No. 31 Action Express Racing Cadillac V-Series.R inherits pole after No. 60 MSR Acura flunks post-qualifying tech...",
+      "url": "https://sportscar365.com/imsa/iwsc/msr-acura-stripped-of-indy-pole-axr-cadillac-to-start-first/",
+      "urlToImage": "https://sportscar365.com/wp-content/uploads/2025/09/GALSTAD-IMS-0925-418260.jpg",
+      "source": "Sportscar365",
+      "publishedAt": "2025-09-21T00:11:15Z"
+    },
+    {
+      "title": "Cal Raleigh surpasses Griffey to become Mariners’ single-season home run king - The Seattle Times",
+      "description": "Cal Raleigh blasted his 57th home run of the season on Saturday, passing Ken Griffey Jr.'s record for most homers by a Mariners player in a single season. Here's a look at how he did it.",
+      "url": "https://www.seattletimes.com/sports/mariners/cal-raleigh-surpasses-griffey-to-become-mariners-single-season-home-run-king/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09202025_tzr_tzr_171126.jpg?d=1200x630",
       "source": "The Seattle Times",
-      "publishedAt": "2025-09-20T02:02:59Z"
+      "publishedAt": "2025-09-20T23:58:21Z"
     },
     {
-      "title": "Lyles wins his fourth 200-meter world title. Jefferson-Wooden completes a sprint sweep - AP News",
-      "description": "Noah Lyles pulled ahead of Kenny Bednarek heading into the straightaway then held him off down the stretch to capture his fourth title in a much-awaited 200 meters at the world championships. Lyles finished in 19.52 seconds for a .06-second margin over Bednar…",
-      "url": "https://apnews.com/article/lyles-bednarek-tebogo-track-200-b8142b7e9a766bf12915ed2b37fa4848",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f54dd50/2147483647/strip/true/crop/5889x3313+0+307/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fe1%2F1598b2ab67095c62180ac2f3d6c5%2F18c8d5a110054871b7e998932bf25139",
+      "title": "Gio Lopez injured as UCF powers past North Carolina, 34-9 - WRALSportsFan.com",
+      "description": "UCF's Tavyen Jackson threw for 223 yards with a passing and rushing touchdown to send UCF past a struggling North Carolina team 34-9. The Tar Heels threw two critical interceptions and could not gain much ground before quarterback Gio Lopez left the game in t…",
+      "url": "https://www.wralsportsfan.com/gio-lopez-injured-as-ucf-powers-past-north-carolina-34-9/22168007/",
+      "urlToImage": "https://wwwcache.wralsportsfan.com/asset/2025/09/16/22161569/screenshot__38_-DMID1-68cd1giod-640x480.jpg",
+      "source": "WRALSportsFan.com",
+      "publishedAt": "2025-09-20T23:56:42Z"
+    },
+    {
+      "title": "Angeli, Syracuse upset Clemson 34-21; Dabo Swinney off to worst start of his career - AP News",
+      "description": "Steve Angeli threw for 244 yards and two touchdowns before leaving with a lower leg injury, Justus Ross-Simmons caught two TD passes as Syracuse upset Clemson 34-21. The Tigers are 1-3 for the first time under coach Dabo Swinney. Angeli connected with Ross-Si…",
+      "url": "https://apnews.com/article/syracuse-clemson-score-99c1149e785e0219e44b9241efcef24d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/671e271/2147483647/strip/true/crop/7832x4406+0+408/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F0c%2F33749c74aa4d9b24662d2191d979%2Ff2e226f7587842babb3c1d8cd84d8ef8",
       "source": "Associated Press",
-      "publishedAt": "2025-09-20T00:53:00Z"
+      "publishedAt": "2025-09-20T23:43:00Z"
     },
     {
-      "title": "Falcons release kicker Younghoe Koo after Parker Romo’s huge game - New York Post",
-      "description": "Younghoe Koo’s time with the Falcons has come to an end.",
-      "url": "https://nypost.com/2025/09/19/sports/falcons-release-younghoe-koo-after-parker-romos-huge-game/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-vui4o9ics-1758325181435.jpg?quality=75&strip=all&1758310817&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-09-20T00:22:00Z"
+      "title": "Duke hands mistake-prone NC State its first loss of the season - WRALSportsFan.com",
+      "description": "The Blue Devils earned their fifth win in their last six games against NC State.",
+      "url": "https://www.wralsportsfan.com/ncstate-duke-football-game-live-updates-september-2025/22167784/",
+      "urlToImage": "https://wwwcache.wralsportsfan.com/asset/colleges/ncsu/2025/09/20/22167930/stateduke01AN6Q2630-DMID1-68e0gfy4e-640x426.jpg",
+      "source": "WRALSportsFan.com",
+      "publishedAt": "2025-09-20T23:34:02Z"
     },
     {
-      "title": "Rafael Fiziev out of UFC Rio main event fight with Charles Oliveira - MMA Fighting",
-      "description": "Charles Oliveira needs a new opponent for the main event of UFC Rio in October",
-      "url": "https://www.mmafighting.com/ufc/404929/rafael-fiziev-out-ufc-rio-main-event-fight-with-charles-oliveira",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/08/gettyimages-2221382590.jpg?quality=90&strip=all&crop=0%2C10.73813541686%2C100%2C78.52372916628&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2025-09-20T00:14:00Z"
+      "title": "5 standout players during Michigan Football’s 30-27 win at Nebraska - Maize n Brew",
+      "description": "Michigan is off to a 1-0 start in Big Ten play after a nail-biting win at Nebraska. Here are the Wolverines that get to take home a game ball for their efforts",
+      "url": "https://www.maizenbrew.com/football/92937/michigan-wolverines-football-nebraska-cornhuskers-game-balls-justice-haynes-cole-sullivan-jayden-sanders-jordan-marshall",
+      "urlToImage": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2025/09/gettyimages-2235971730.jpg?quality=90&strip=all&crop=0%2C10.729375524174%2C100%2C78.541248951653&w=1200",
+      "source": "Maize n Brew",
+      "publishedAt": "2025-09-20T23:30:00Z"
     },
     {
-      "title": "Derrick Henry wants Ravens’ opponents to keep calling DeAndre Hopkins “washed” - NBC Sports",
-      "description": "The Ravens took a flier on receiver DeAndre Hopkins, signing him to a one-year, $5 million deal.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-wants-ravens-opponents-to-keep-calling-deandre-hopkins-washed",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/cff36fc/2147483647/strip/true/crop/3000x1688+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F50%2F3cd1e1414b088666233d8c18dfb2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235827398",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-19T22:42:42Z"
+      "title": "Will Smith Suffering From Hairline Fracture In Hand - MLB Trade Rumors",
+      "description": "Will Smith's hand injury is more serious than the Dodgers had previously believed. Read more at MLB Trade Rumors.",
+      "url": "https://www.mlbtraderumors.com/2025/09/will-smith-suffering-from-hairline-fracture-in-hand.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/09/WillSmith-2025-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2025-09-20T23:26:15Z"
     },
     {
-      "title": "Toffoli Talks Sharks’ Captaincy, Impressions of Misa, Hiking With Celebrini - San Jose Hockey Now",
-      "description": "For Tyler Toffoli, the next step for the San Jose Sharks is obvious. “Not being in last place?” he quipped. The veteran was in fine form on the opening day of training camp, zinging Macklin Celebrini for abandoning him on a hike. The alternate captain also di…",
-      "url": "https://sanjosehockeynow.com/san-jose-sharks-tyler-toffoli-misa-celebrini-training-camp/",
-      "urlToImage": "https://sanjosehockeynow.com/wp-content/uploads/sites/7/2025/09/Toffoli-Screen-Shot-2025-09-19-at-2.54.33-PM-1000x600.jpeg",
-      "source": "Sanjosehockeynow.com",
-      "publishedAt": "2025-09-19T22:27:19Z"
+      "title": "College football scores, live updates: Week 4 schedule features Illinois, Indiana, Texas, LSU in action - CBS Sports",
+      "description": "NCAA football scores, live updates and highlights from the full slate of Week 4 action on Saturday",
+      "url": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-4-ncaa-top-25-games-today/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/21/a58321e5-9465-48a5-934c-bec58cc6d0b0/thumbnail/1200x675/9c1a68ed708ee1b330c4f9ce1a53b4ad/indiana.png",
+      "source": "CBS Sports",
+      "publishedAt": "2025-09-20T23:25:00Z"
     },
     {
-      "title": "Nick Sirianni on tush-push officiating emphasis: We address it, coach play the same way - NBC Sports",
-      "description": "The tush push found its way back into the spotlight this week after officials failed to call false starts on the play during the Eagles' 20-17 win over the Eagles last Sunday.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-on-tush-push-officiating-emphasis-we-address-it-coach-play-the-same-way",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/65b2fea/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2F1a%2F2dd56e7f46738f40ab0437fcbc71%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235832471",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-19T22:16:40Z"
+      "title": "FSU breaks multiple rushing records in blowout of Kent State - Tomahawk Nation",
+      "description": "",
+      "url": "https://www.tomahawknation.com/florida-state-football-fsu-seminoles-college-cfb-acc-norvell-team-roster-schedule-game/118995/touchdown-recap-score-stats-highlights-video",
+      "urlToImage": "https://platform.tomahawknation.com/wp-content/uploads/sites/168/2025/09/BAK_2427.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+      "source": "Tomahawk Nation",
+      "publishedAt": "2025-09-20T23:18:34Z"
     },
     {
-      "title": "Purdy, Jennings, Colby Questionable for Week 3; Injury Report Ahead of #AZvsSF - San Francisco 49ers",
-      "description": "The San Francisco 49ers released their latest injury updates headed into the Week 3 contest versus the Arizona Cardinals.",
-      "url": "https://www.49ers.com/news/purdy-jennings-colby-questionable-for-week-3-injury-report-ahead-of-azvssf",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/49ers/p4co1wbbaaox6fcqssmh",
-      "source": "49ers.com",
-      "publishedAt": "2025-09-19T22:16:38Z"
+      "title": "Fever's Clark says she was fined for ref comment - ESPN",
+      "description": "Caitlin Clark was fined $200 for a comment on social media where she criticized officiating from the team's recent playoff series win over the Dream.",
+      "url": "https://www.espn.com/wnba/story/_/id/46327232/caitlin-clark-says-was-fined-comment-officiating",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0920%2Fr1548569_1024x576_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2025-09-20T23:01:00Z"
     },
     {
-      "title": "Seahawks Release WR Cody White, Sign Him To Practice Squad - Seattle Seahawks",
-      "description": "The Seahawks released receiver Cody White, freeing up a spot on the 53-man roster.",
-      "url": "https://www.seahawks.com/news/seahawks-release-wr-cody-white-sign-him-to-practice-squad",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/seahawks/fhgqpow5y6urwdtnnrxq",
-      "source": "Seahawks.com",
-      "publishedAt": "2025-09-19T22:00:10Z"
+      "title": "Badgers AD backs team amid 'Fire Fickell' chants - ESPN",
+      "description": "Wisconsin AD Chris McIntosh expressed \"belief in the program and the people around our program\" after the Badgers' 27-10 loss to Maryland drew \"Fire Fickell!\" chants from the student section.",
+      "url": "https://www.espn.com/college-football/story/_/id/46327103/wisconsin-fickell-gets-support-ad-loss-maryland",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0920%2Fr1548581_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2025-09-20T22:48:00Z"
     },
     {
-      "title": "Seahawks-Saints injury report: Julian Love, Zach Charbonnet among 4 doubtful to play - Field Gulls",
-      "description": "Not an ideal final injury report for the Seahawks ahead of Week 3 against the Saints.",
-      "url": "https://www.fieldgulls.com/seattle-seahawks-injury-report/150718/seahawks-vs-saints-injury-report-julian-love-zach-charbonnet-among-4-doubtful-nfl-news",
-      "urlToImage": "https://platform.fieldgulls.com/wp-content/uploads/sites/81/2025/09/gettyimages-2235148777.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "Field Gulls",
-      "publishedAt": "2025-09-19T20:50:46Z"
-    },
-    {
-      "title": "Injury Report, Week 3 at Eagles: Steve Avila doubtful, Braden Fiske and Colby Parkinson questionable - Rams",
-      "description": "The final injury report heading into Sunday's Week 3 regular season game between the Rams and the Eagles at Lincoln Financial Field.",
-      "url": "https://www.therams.com/news/injury-report-week-3-at-eagles-steve-avila-doubtful-braden-fiske-and-colby-parkinson-questionable",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/rams/edu7ax5mw97juxc60r7a",
-      "source": "therams.com",
-      "publishedAt": "2025-09-19T20:48:23Z"
-    },
-    {
-      "title": "Packers list two questionable vs. Browns | Week 3 Injury Report - Green Bay Packers",
-      "description": "TE Tucker Kraft, T Zach Tom both questionable for Sunday",
-      "url": "https://www.packers.com/news/packers-browns-injury-report-week-3-sept-19-2025",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/wvr57cwph5flumeaxanj",
-      "source": "Packers.com",
-      "publishedAt": "2025-09-19T20:20:34Z"
-    },
-    {
-      "title": "Chiefs-Giants final injury report: 2 players out, 2 more questionable - Arrowhead Pride",
-      "description": "For the NFL’s Week 3, the New York Giants host the Kansas City Chiefs on “Sunday Night Football.”",
-      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-injuries/181934/chiefs-giants-week-3-final-injury-report-2-players-out-2-more-questionable",
-      "urlToImage": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2025/09/gettyimages-2222301263.jpg?quality=90&strip=all&crop=0%2C0%2C86.8%2C68.167543427632&w=1200",
-      "source": "Arrowhead Pride",
-      "publishedAt": "2025-09-19T19:56:22Z"
-    },
-    {
-      "title": "Injury Report Analysis: Patriots CB Christian Gonzalez is Officially Questionable for Sunday's Week 3 Matchup vs. the Steelers - New England Patriots",
-      "description": "The Patriots star cornerback is questionable for Sunday's game vs. the Steelers as he nears a return from a hamstring injury.",
-      "url": "https://www.patriots.com/news/injury-report-analysis-patriots-cb-christian-gonzalez-is-officially-questionable-for-sunday-s-week-3-matchup-vs-the-steelers",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/m80ujy9bxxdqlnadwjav",
-      "source": "Patriots.com",
-      "publishedAt": "2025-09-19T19:52:30Z"
-    },
-    {
-      "title": "Sophie Cunningham Confronted By Police During Fever Playoff Game - Yahoo Sports",
-      "description": "For the first time since 2015, the Indiana Fever have won a playoff round. But their win over the Atlanta Dream to secure their trip to the semifinals...",
-      "url": "https://thespun.com/wnba/sophie-cunningham-confronted-by-police-during-fever-playoff-game",
-      "urlToImage": "https://media.zenfs.com/en/the_spun_articles_751/e0c22bfa8ce0cf3ab89cb9f17931dac4",
-      "source": "The Spun",
-      "publishedAt": "2025-09-19T19:25:16Z"
-    },
-    {
-      "title": "Eagles rookie storylines for the Rams game - Bleeding Green Nation",
-      "description": "Let’s see if Philadelphia’s top two picks from the 2025 NFL Draft can keep up their hot start.",
-      "url": "https://www.bleedinggreennation.com/eagles-game-preview/158881/eagles-rookie-storylines-for-the-rams-game",
-      "urlToImage": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2025/09/gettyimages-2233755750.jpg?quality=90&strip=all&crop=0%2C10.725466197137%2C100%2C78.549067605727&w=1200",
-      "source": "Bleeding Green Nation",
-      "publishedAt": "2025-09-19T19:03:00Z"
+      "title": "Bitter: Despite Rough Water Ahead, Hokies Navigate Calm Seas Against Wofford - TechSideline.com",
+      "description": "Though rough water lies ahead for the Hokies over the next few weeks and months, they navigated the calm seas on Saturday.",
+      "url": "https://virginiatech.sportswar.com/?p=9229357",
+      "urlToImage": "https://virginiatech.sportswar.com/wp-content/uploads/sites/15/2025/09/IVM.250920.WOFF_.1233.jpg",
+      "source": "Sportswar.com",
+      "publishedAt": "2025-09-20T22:44:10Z"
     }
   ]
 }
