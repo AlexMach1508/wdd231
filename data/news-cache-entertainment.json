@@ -1,119 +1,159 @@
 {
-  "updatedAt": "2025-09-22T06:41:21.237Z",
+  "updatedAt": "2025-09-23T06:39:31.602Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "WWE Wrestlepalooza results, grades, analysis: Rhodes, Vaquer win; Brock Lesnar destroys John Cena - Yahoo Sports",
-      "description": "The five-match card featured two championship bouts as well as the highly anticipated return to in-ring action for AJ Lee.",
-      "url": "https://sports.yahoo.com/wrestling/breaking-news/live/wwe-wrestlepalooza-live-results-full-card-start-time-winners-and-losers-updates-and-highlights-060021615.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XoWeMElYOuilmA4bI91Hrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/223bec30-94d6-11f0-bd33-764a419da84e",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-21T04:28:00Z"
-    },
-    {
-      "title": "Live: Neil Young takes the stage at Farm Aid 40 - Star Tribune",
-      "description": "The Farm Aid founder will close out the night at Huntington Bank Stadium.",
-      "url": "https://www.startribune.com/live-farm-aid-40-kicks-off-at-huntington-bank-stadium-in-minneapolis/601475512",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/3NYTSCI5YJDV7E2LTMWXGU4PC4.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2025-09-21T03:16:30Z"
-    },
-    {
-      "title": "Christopher Nolan Elected President of Directors Guild of America - Variety",
-      "description": "Christopher Nolan has been elected president of the Directors Guild of America, succeeding Lesli Linka Glatter.",
-      "url": "https://variety.com/2025/film/news/christopher-nolan-directors-guild-elect-president-1236525332/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/12/GettyImages-2074751584-e1734992373146.jpg?crop=0px%2C31px%2C1845px%2C1037px&resize=1000%2C563",
+      "title": "John Oliver Slams Jimmy Kimmel Suspension: Disney Must Say No to Trump - Variety",
+      "description": "John Oliver used most of his 'Last Week Tonight' episode to condemn ABC's suspension of Jimmy Kimmel.",
+      "url": "https://variety.com/2025/tv/news/john-oliver-slams-jimmy-kimmel-suspension-disney-trump-1236525844/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/John-Oliver-Jimmy-Kimmel-.png?w=1000&h=563&crop=1",
       "source": "Variety",
-      "publishedAt": "2025-09-21T02:29:00Z"
+      "publishedAt": "2025-09-22T04:14:00Z"
     },
     {
-      "title": "Vietnam’s Duc Phuc wins Intervision, Russia’s family-friendly answer to the Eurovision - CNN",
-      "description": "With cheering crowds, glowing lights, a hint of political intrigue and a winning act in Vietnamese singer Duc Phuc, Russia’s answer to the Eurovision song contest – “Intervision” – gave off similar vibes as the competition that inspired it when it returned to…",
-      "url": "https://www.cnn.com/2025/09/20/world/duc-phuc-intervision-russian-song-contest-latam-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235971809.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-20T23:31:25Z"
-    },
-    {
-      "title": "Results of John Cena vs. Brock Lesnar at WWE Wrestlepalooza 2025 - NoDQ.com",
-      "description": "The latest WWE and AEW backstage wrestling news, rumors, opinions, and special features.",
-      "url": "https://nodq.com/news/results-of-john-cena-vs-brock-lesnar-at-wwe-wrestlepalooza-2025/",
-      "urlToImage": "https://nodq.com/wp-content/uploads/2025/08/Screenshot-2025-08-20-at-16-40-16-21-WWE-@WWE-_-X.png",
-      "source": "Nodq.com",
-      "publishedAt": "2025-09-20T23:14:32Z"
-    },
-    {
-      "title": "Even Disney stars are joining calls to boycott the media giant after ABC suspended Jimmy Kimmel's show - Fortune",
-      "description": "The internet was already lighting up with users sharing screenshots of canceled subscriptions to Disney-owned streaming services or canceled vacations at Disney properties.",
-      "url": "https://fortune.com/2025/09/20/disney-boycott-subscriptions-marvel-stars-abc-tv-jimmy-kimmel-fcc/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2234218792_a7e5d3-e1758400391141.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-20T22:46:00Z"
-    },
-    {
-      "title": "Taylor Swift upcoming 'The Life of a Showgirl' to hit movie theatres - NPR",
-      "description": "The global music icon is celebrating the release of her 12th studio album in theaters next month. Her Eras Tour movie, released with AMC in 2023, is the highest-grossing concert film of all time.",
-      "url": "https://www.npr.org/2025/09/20/nx-s1-5548557/taylor-swift-movie-showgirl-amc",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x288+0+27/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fb8%2F3ba352b34cbeb3f69a78a0350df9%2Fap25150571172149.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-20T21:18:50Z"
-    },
-    {
-      "title": "Melania Trump’s Fashion Statement at the Palace Came With a Royal Protocol Warning - SheKnows",
-      "description": "Melania might have missed the fashion mark.",
-      "url": "https://www.sheknows.com/entertainment/articles/1234926718/melania-trump-yellow-gown-royal-dinner/",
-      "urlToImage": "https://www.sheknows.com/wp-content/uploads/2024/06/melania-trump.jpg?w=1024",
-      "source": "SheKnows",
-      "publishedAt": "2025-09-20T17:24:00Z"
-    },
-    {
-      "title": "D4vd tour dates removed from websites after the discovery of a girl’s body in Los Angeles - CNN",
-      "description": "The last two remaining dates in singer d4vd’s US tour and multiple stops in his upcoming European tour have been removed from ticketing websites, as authorities continue to investigate the discovery of the decomposed body of a teenage girl in Los Angeles.",
-      "url": "https://www.cnn.com/2025/09/20/entertainment/d4vd-tour-removed-discovery-girls-body",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210941206.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-20T16:10:19Z"
-    },
-    {
-      "title": "\"You Didn't Deserve That\": Passenger Attacks Plus-Size Seatmate, Telling Him He’s “Too Fat to Fly” - Bored Panda",
-      "description": "“You’re hardly svelte yourself.”",
-      "url": "https://www.boredpanda.com/delta-passenger-stay-on-board-after-attacking-too-fat-to-fly-seatmate/",
-      "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/09/delta-passenger-stay-on-board-after-attacking-too-fat-to-fly-seatmate-fb-68ced2edd3dc4.png",
-      "source": "Boredpanda.com",
-      "publishedAt": "2025-09-20T15:46:47Z"
-    },
-    {
-      "title": "Reese Witherspoon Reflects on Leaving an Abusive Relationship - Yahoo",
-      "description": "Reese Witherspoon reflected on gaining back her confidence and self-esteem after leaving an abusive relationship early on in her career: “I had to rewire my brain.\"",
-      "url": "https://www.eonline.com/news/1422830/reese-witherspoon-on-leaving-abusive-relationship",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250920/47401f0c-3cc7-4fd3-b827-f4cb7a4f8576_1758380555.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "source": "Eonline.com",
-      "publishedAt": "2025-09-20T15:31:00Z"
-    },
-    {
-      "title": "Box Office: ‘Demon Slayer’ Edging Out ‘Him’ for No. 1, ‘A Big Bold Beautiful Journey’ Bombing - The Hollywood Reporter",
-      "description": "Margot Robbie and Colin Farrell's new romantic fantasy is coming in sixth place.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/box-office-demon-slayer-edging-out-him-for-no-1-1236376666/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Still-2-Copyright_-Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable-H-2025.jpg?w=1296&h=730&crop=1",
+      "title": "Disney’s ‘Lilith Fair’ Doc Premiere: Sarah McLachlan Says Musical Performances Canceled Amid Calls for Free Speech Following Jimmy Kimmel Suspension - Yahoo",
+      "description": "A source tells The Hollywood Reporter that Sarah McLachlan and Jewel were the artists who were going to take the stage at the event. \"We have collectively decided not to perform but instead to stand in solidarity in support of free speech,\" McLachlan told tho…",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/disney-lilith-fair-sarah-mclachlan-free-speech-jimmy-kimmel-1236377086/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2235260555.jpg?crop=1782px%2C146px%2C1441px%2C806px&resize=1440%2C810",
       "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-20T15:13:24Z"
+      "publishedAt": "2025-09-22T02:42:00Z"
     },
     {
-      "title": "I Can’t Believe That NBC Let Jordan Peele Make This Movie - Slate",
-      "description": "The new horror satire of the NFL sure doesn’t pull any punches.",
-      "url": "https://slate.com/culture/2025/09/him-movie-2025-nfl-football-nbc-jordan-peele.html",
-      "urlToImage": "https://compote.slate.com/images/4f44af9f-5952-4ab5-bee4-6fef3b8b24a3.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "source": "Slate Magazine",
-      "publishedAt": "2025-09-19T20:41:00Z"
+      "title": "Harry Styles Runs Berlin Marathon in Under 3 Hours - Rolling Stone",
+      "description": "Harry Styles clocked an impressive finish at the Berlin Marathon over the weekend, completing the race in under three hours.",
+      "url": "http://www.rollingstone.com/music/music-news/harry-styles-berlin-marathon-runs-under-3-hours-1235432080/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/GettyImages-1438307550.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-22T01:35:04Z"
     },
     {
-      "title": "Brett James Dead In Plane Crash: “Jesus Take The Wheel” Songwriter Was 57 - Deadline",
-      "description": "Brett James, who wrote the Carrie Underwood hit \"Jesus Take The Wheel\" and songs for Taylor Swift and others, died September 18 in a plane crash. He was 57.",
-      "url": "http://deadline.com/2025/09/brett-james-dead-1236549242/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-1425727732-e1758291945231.jpg?w=1024",
+      "title": "Tom Holland Suffers Concussion on ‘Spider-Man’ Set, Takes Break from Filming - The Hollywood Reporter",
+      "description": "The Marvel star is expected to return in several days.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/tom-holland-suffers-concussion-spider-man-set-1236377062/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-at-12.07.43-PM.png?crop=179px%2C260px%2C2346px%2C1314px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-22T01:18:45Z"
+    },
+    {
+      "title": "James Van Der Beek Exits 'Dawson's Creek' Reunion Due to Illness - Variety",
+      "description": "James Van Der Beek has dropped out of the 'Dawson's Creek' reunion and Lin-Manuel Miranda will take his place in the script read.",
+      "url": "https://variety.com/2025/tv/news/james-van-der-beek-dawsons-creek-reunion-lin-manuel-miranda-1236525776/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/MixCollage-21-Sep-2025-04-39-PM-3529.jpg?crop=14px%2C14px%2C1170px%2C657px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-09-21T23:45:00Z"
+    },
+    {
+      "title": "‘Harry Potter’s Jessie Cave Claims She Was Blocked From Convention Over Her OnlyFans: “Baffling To Me” - Deadline",
+      "description": "As a new 'Harry Potter' cast takes on Hogwarts, one franchise alum has faced recent controversy about her career choice since graduating.",
+      "url": "http://deadline.com/2025/09/harry-potter-jessie-cave-blocked-from-convention-onlyfans-1236551971/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/MCDHAP2_EC223.jpg?w=1024",
       "source": "Deadline",
-      "publishedAt": "2025-09-19T14:21:00Z"
+      "publishedAt": "2025-09-21T23:20:00Z"
+    },
+    {
+      "title": "Internal WWE Reaction to AJ Lee’s Performance at WrestlePalooza Revealed - Ringside News",
+      "description": "AJ Lee returned to the ring at WWE WrestlePalooza and fans weren’t the only ones thrilled to see her back. The former Divas Champion not only impressed",
+      "url": "https://www.ringsidenews.com/internal-wwe-reaction-aj-lees-performance-wrestlepalooza-revealed/",
+      "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2025/09/internal-wwe-reaction-to-aj-lees-performance-at-wrestlepalooza-revealed-50.jpg",
+      "source": "Ringside News",
+      "publishedAt": "2025-09-21T21:22:30Z"
+    },
+    {
+      "title": "Bad Bunny’s Residency Finale Breaks Record for Most-Watched Amazon Music Livestream - Rolling Stone",
+      "description": "Bad Bunny closed his Puerto Rico residency with Marc Anthony, surprise songs, and a record-breaking Amazon livestream watched worldwide.",
+      "url": "http://www.rollingstone.com/music/music-latin/bad-bunny-breaks-record-most-watched-amazon-music-stream-1235432020/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/bad-bunny-record.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-21T20:55:41Z"
+    },
+    {
+      "title": "Marlon Wayans Defends New Movie ‘Him’ From Bad Reviews: ‘Some Movies Are Ahead of the Curve’ - Variety",
+      "description": "Marlon Wayans is loyal to his new sports horror film \"Him,\" supporting it even as the critical reaction is weak.",
+      "url": "https://variety.com/2025/film/news/marlon-wayans-him-bad-reviews-1236525691/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Him.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-21T19:49:00Z"
+    },
+    {
+      "title": "Matthew McConaughey Reveals the Bed-Related Secret to His 13 Year Marriage to Camila Alves - Just Jared",
+      "description": "Find out what he said.",
+      "url": "https://www.justjared.com/2025/09/21/matthew-mcconaughey-reveals-the-bed-related-secret-to-his-13-year-marriage-to-camila-alves/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/09/mcconaughey-marriage-social.jpg",
+      "source": "Just Jared",
+      "publishedAt": "2025-09-21T19:28:58Z"
+    },
+    {
+      "title": "Jude Law and Jason Bateman Unpack the Agony and Ecstasy of That ‘Black Rabbit’ Ending - The Hollywood Reporter",
+      "description": "The co-stars and executive producers who play brothers in Netflix's latest binge dive into the twisty NYC-set tale about “what we forgive in those who we are related to.”",
+      "url": "http://www.hollywoodreporter.com/tv/tv-features/black-rabbit-finale-vince-death-jude-law-jason-bateman-interview-1236376327/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Black_Rabbit_S1_E8_00012-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-21T19:00:52Z"
+    },
+    {
+      "title": "After two big weekends, the North American box office takes a hit - AP News",
+      "description": "The North American box office has slowed down after a strong September. \"Demon Slayer: Kimetsu no Yaiba Infinity Castle\" remains at the top, adding $17.3 million over the weekend. This makes it the highest-grossing anime film ever in North America. \"Him,\" a f…",
+      "url": "https://apnews.com/article/box-office-demon-slayer-him-74fcfdd2aba478e19a2f045d9596a36d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/04c00a6/2147483647/strip/true/crop/2811x1581+95+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Fe2%2F5dd02066d1c2c1be9a8d8f493652%2Fa512e9da2fc74e40bbaa80f504d610d3",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-21T18:37:00Z"
+    },
+    {
+      "title": "Farm Aid 40 photos: Willie Nelson, Bob Dylan and more hold benefit concert for U.S. farmers - NBC News",
+      "description": "Held annually to raise money and draw awareness to the headwinds noncorporate farmers face, this year’s concert was held amid a backdrop of a fresh crop of challenges.",
+      "url": "https://www.nbcnews.com/pop-culture/music/farm-aid-40-photos-rcna232553",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250921-willie-nelson-vl-134p-c4f782.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-21T18:11:31Z"
+    },
+    {
+      "title": "‘Demon Slayer: Infinity Castle’ Is Biggest Japanese Movie Ever WW With $555M+; ‘Last Rites’ Becomes Top Conjuring Universe Title At $400M & Sends New Line Across $1B For 2025 – International Box Office - Deadline",
+      "description": "Demon Slayer Infinity Castle is biggest Japanese movie ever worldwide; Conjuring: Last Rites highest of franchise, tips New Line past $1B global box office",
+      "url": "http://deadline.com/2025/09/demon-slayer-infinity-castle-conjuring-last-rites-global-box-office-milestones-1236551794/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/MixCollage-21-Sep-2025-05-47-PM-5193.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-21T18:02:00Z"
+    },
+    {
+      "title": "Elvis called while Priscilla Presley was in bed with Rob Kardashian, she feared violence - fox4beaumont.com",
+      "description": "In her new tell-all memoir, Priscilla Presley recalls one romance Elvis 'never knew' about.",
+      "url": "https://thenationaldesk.com/news/entertainment/elvis-called-while-priscilla-presley-was-in-bed-with-rob-kardashian-she-feared-violence",
+      "urlToImage": "https://fox4beaumont.com/resources/media2/16x9/1920/986/center/90/b59469bb-5b97-487c-8965-e3cf0114ad09-SplitVIDPIC1.png",
+      "source": "Thenationaldesk.com",
+      "publishedAt": "2025-09-21T16:04:34Z"
+    },
+    {
+      "title": "Robert Redford’s lasting mark on indie film - Salon.com",
+      "description": "For all of his accomplishments, it's Redford's work with the Sundance Institute that changed Hollywood forever.",
+      "url": "https://www.salon.com/2025/09/21/robert-redfords-lasting-mark-on-indie-film/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/09/robert-redford-sundance-771957.jpg",
+      "source": "Salon",
+      "publishedAt": "2025-09-21T16:00:20Z"
+    },
+    {
+      "title": "Sinclair's ABC Stations Air 'Celebrity Family Feud' Rerun Instead of Promised Charlie Kirk Special - Rolling Stone",
+      "description": "Despite Sinclair's promise to air a Charlie Kirk special in Jimmy Kimmel's slot Friday, their ABC affiliates instead broadcast 'Celebrity Family Feud.'",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/sinclair-charlie-kirk-special-celebrity-family-feud-1235431986/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/GettyImages-2216875659.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-21T15:31:51Z"
+    },
+    {
+      "title": "Dwayne Johnson on tackling a dramatic role in \"The Smashing Machine\" - CBS News",
+      "description": "The action movie star, who tapped into some childhood trauma to play mixed martial arts fighter Mark Kerr in his new film, reveals that he told costar Emily Blunt and director Benny Safdie he was scared to take on the dramatic role.",
+      "url": "https://www.cbsnews.com/news/dwayne-johnson-on-tackling-a-dramatic-role-in-the-smashing-machine/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/21/d8d7037d-0261-422e-8e93-0d30d31f4211/thumbnail/1200x630g2/3dac4ca7963bbac19bfba649499aa5db/dwayne-johnson-interview-1280.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-21T13:40:00Z"
+    },
+    {
+      "title": "See Dua Lipa Bring Out Nile Rodgers to Perform Chic’s ‘Le Freak’ at MSG - Rolling Stone",
+      "description": "Dua Lipa brought out surprise guest Nile Rodgers to perform Chic’s \"Le Freak\" Saturday at New York’s Madison Square Garden",
+      "url": "http://www.rollingstone.com/music/music-news/dua-lipa-nile-rodgers-chic-le-freak-msg-1235431953/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/GettyImages-2236505834.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-21T13:35:17Z"
     }
   ]
 }
