@@ -1,15 +1,63 @@
 {
-  "updatedAt": "2025-09-24T06:38:57.413Z",
+  "updatedAt": "2025-09-25T06:39:46.221Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Disney brings back Jimmy Kimmel, sidelined after Charlie Kirk comments - The Washington Post",
-      "description": "“Jimmy Kimmel Live!” on ABC was taken off air following backlash from President Donald Trump, FCC Chairman Brendan Carr, Nexstar, Sinclair and a bevy of conservative critics.",
-      "url": "https://www.washingtonpost.com/business/2025/09/22/kimmel-kirk-abc-disney/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2LW7DAGEGMI6ZDH7GOYFT5GBW4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-23T03:21:36Z"
+      "title": "Jimmy Kimmel Met The Moment In His Return, With A Little Help From Robert De Niro - Deadline",
+      "description": "Analysis: Jimmy Kimmel's return Tuesday to his late-night ABC TV show after a week long suspension may prove a true turning point for him and his show.",
+      "url": "http://deadline.com/2025/09/kimmel-return-analysis-review-1236553344/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/jimmy-kimmel-robert-de-niro-getty.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-24T04:45:00Z"
+    },
+    {
+      "title": "‘Dancing With the Stars’ Ends One-Hit Wonders Night With a Four-Way Tie for Top of the Leaderboard: See All the Scores, Who Went Home - The Hollywood Reporter",
+      "description": "Last week's season 34 premiere delivered the strongest debut episode for the franchise in five years, reflecting the newfound virality of the competitive dance show.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-34-episode-2-scores-elimination-1236376913/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/179176_EM100799-e1758680212473.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-24T03:00:00Z"
+    },
+    {
+      "title": "‘Alien: Earth’ Creator Noah Hawley on Wendy’s Endgame, That Alien Eyeball and Waiting for a Season 2 Renewal - Variety",
+      "description": "The 'Alien: Earth' creator Noah Hawley talks about about everything that happened in the Season 1 finale.",
+      "url": "https://variety.com/2025/tv/news/alien-earth-finale-wendy-xenomorph-eyeball-season-2-1236526914/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/AlienEarth-finale.1.jpg?crop=128px%2C135px%2C1032px%2C580px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-09-24T01:09:00Z"
+    },
+    {
+      "title": "Priscilla Presley Calls Michael Jackson 'Manipulative': 7 Things We Learned From New Memoir - Rolling Stone",
+      "description": "Priscilla Presley had some choice words about Michael Jackson in her new memoir. Here are 7 things we learned from the bombshell new book.",
+      "url": "http://www.rollingstone.com/music/music-news/priscilla-presley-lisa-marie-michael-jackson-memoir-1235433055/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/priscilla-presley-book-2.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-23T19:37:28Z"
+    },
+    {
+      "title": "Ahead of sentencing, ‘Diddy’ attorneys argue he has served enough time behind bars - PBS",
+      "description": "Lawyers for music mogul Sean “Diddy” Combs are urging a judge to sentence him early next month to no more than 14 months in prison for his conviction on two prostitution-related charges.",
+      "url": "https://www.pbs.org/newshour/nation/ahead-of-sentencing-diddy-attorneys-argue-he-has-served-enough-time-behind-bars",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/10/2024-09-18T230643Z_532101855_RC233AA6GKQK_RTRMADP_3_PEOPLE-SEAN-COMBS-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-23T18:59:11Z"
+    },
+    {
+      "title": "Woman convicted in Graceland fraud scheme sentenced to nearly 5 years in federal prison - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.go.com/US/woman-convicted-graceland-fraud-scheme-sentenced-5-years/story?id\\\\u003d125855456",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-23T17:12:33Z"
+    },
+    {
+      "title": "‘The Bride!’ Trailer Spotlights Christian Bale’s Turn As Frankenstein & Jessie Buckley’s As His Bride - Deadline",
+      "description": "'The Bride!'s first trailer teases Christian Bale's transformative turn as Frankenstein and Jessie Buckley's as his bride.",
+      "url": "http://deadline.com/2025/09/the-bride-trailer-christian-bale-jessie-buckley-warner-bros-1236553381/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/download_99ac7f.png?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-23T16:26:00Z"
     }
   ]
 }
