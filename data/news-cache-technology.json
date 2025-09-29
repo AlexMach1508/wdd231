@@ -1,159 +1,159 @@
 {
-  "updatedAt": "2025-09-28T06:36:09.929Z",
+  "updatedAt": "2025-09-29T06:41:34.024Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Woman hospitalized with pain and vomiting—diet soda cured her - Ars Technica",
-      "description": "Doctor’s dissolve mass in woman’s stomach by getting her to chug soda.",
-      "url": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2207002011-2560x1440.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-26T22:02:57Z"
-    },
-    {
-      "title": "Secret Lair: The PlayStation® Superdrop - Magic: The Gathering",
-      "description": "We're revealing some all-new Secret Lair drops featuring PlayStation franchises.",
-      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/3kGkcPuQgXKbHLibyja7Vp/4e50642633e072610bd613707e13a555/SL_Playstation_Superdrop.jpg",
-      "source": "Wizards.com",
-      "publishedAt": "2025-09-26T22:02:53Z"
-    },
-    {
-      "title": "Game over for pure LLMs. Even Turing Award Winner Rich Sutton has gotten off the bus. - Marcus on AI",
-      "description": "One by one, all the big names have turned around. What should we do next?",
-      "url": "https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Z3Th!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3d696f0-899e-4fe0-86a6-dfbb8434d464_1356x830.png",
-      "source": "Substack.com",
-      "publishedAt": "2025-09-26T21:45:09Z"
-    },
-    {
-      "title": "Microsoft Photos will soon auto-categorize your pictures - The Verge",
-      "description": "A test uses AI to sort your receipts, screenshots, identity documents, and notes into specific folders.",
-      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-26T21:40:35Z"
-    },
-    {
-      "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
-      "description": "Apple's flagship earbuds are updated and better than ever, especially if you crave silence.",
-      "url": "https://www.wired.com/review/apple-airpods-pro-3/",
-      "urlToImage": "https://media.wired.com/photos/68d6f512a10e9fa625d46eac/191:100/w_1280,c_limit/Review-%20Apple%20AirPods%20Pro%203.png",
-      "source": "Wired",
-      "publishedAt": "2025-09-26T20:25:37Z"
-    },
-    {
-      "title": "JPLers Get Layoff Update Letter - NASA Watch",
-      "description": "JPLers got this email this morning from JPL Human Resources",
-      "url": "https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/",
-      "urlToImage": "https://nasawatch.com/wp-content/uploads/2025/09/JPL-logo.jpg",
-      "source": "Nasawatch.com",
-      "publishedAt": "2025-09-26T19:06:14Z"
-    },
-    {
-      "title": "Planeswalker's Guide to Lorwyn Eclipsed - Magic: The Gathering",
-      "description": "Take a trip to a plane of shadows, secrets, and slippery bogles. Lorwyn Eclipsed brings us back to one of Magic's most beloved settings.",
-      "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-lorwyn-eclipsed",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/2QbR0TeC7cFR6T7ea9LRaN/ec95e10f4b8d28f704e487fdc9041df2/ECL_Planeswalker-s_Guide_960x540.jpg",
-      "source": "Wizards.com",
-      "publishedAt": "2025-09-26T18:55:21Z"
-    },
-    {
-      "title": "EA Sports FC 26 review – The best football game in years - Dexerto",
-      "description": "EA FC 26 brings the best on-pitch action the series has produced in years, thanks to the genius decision to change the gameplay based on mode",
-      "url": "https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-football-game-in-years-3257637/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/09/26/EA-FC-26-review.jpg",
-      "source": "Dexerto",
-      "publishedAt": "2025-09-26T18:39:04Z"
-    },
-    {
-      "title": "Apple Testing LLM Siri With ChatGPT-Like App - MacRumors",
-      "description": "Apple designed a ChatGPT-like app to help its engineers test the overhauled version of Siri, reports Bloomberg. Unfortunately, the Siri app isn't...",
-      "url": "https://www.macrumors.com/2025/09/26/apple-llm-siri-app/",
-      "urlToImage": "https://images.macrumors.com/t/wccLNgtu2uBa78hkDFTa4mENJus=/2500x/article-new/2025/08/Finder-Siri-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-26T18:01:40Z"
-    },
-    {
-      "title": "FF7 Remake’s Third Chapter Is ‘Going Extremely Well’ - Kotaku",
-      "description": "Contrary to what some may think, FF7 Rebirth’s sales have not hindered part three’s development",
-      "url": "https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/BBFF7-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-09-26T17:39:21Z"
-    },
-    {
-      "title": "Xiaomi's Newest Phone Sports a Rear Display and Skips a Number to Take Aim at iPhone 17 - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/xiaomis-newest-phone-sports-a-rear-display-and-skips-a-number-to-take-aim-at-iphone-17",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/26/7cf08d52f00ca3b6aa5ccd4547cafbd8-1758899475991.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-26T17:31:35Z"
-    },
-    {
-      "title": "Final Fantasy Tactics – The Ivalice Chronicles Review - A Historic Undertaking - Game Informer",
-      "description": "Final Fantasy Tactics is back to prove the grandfather of so many tactics titles hasn't lost a single step.",
-      "url": "https://gameinformer.com/review/final-fantasy-tactics-the-ivalice-chronicles/a-historic-undertaking",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/09/25/d8f4dec8/final_fantasy_tactics_-_the_ivalice_chronicles_20250920234727.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2025-09-26T17:03:42Z"
-    },
-    {
-      "title": "AJ McCarron shares how Bengals saved money with “garage sale” - Cincy Jungle",
-      "description": "According to former Cincinnati Bengals QB AJ McCarron, the Bengals used to host a garage sale to save money.",
-      "url": "https://www.cincyjungle.com/cincinnati-bengals-news/175829/cincinnati-bengals-cheap-aj-mccaarron-garage-sale",
-      "urlToImage": "https://platform.cincyjungle.com/wp-content/uploads/sites/65/2025/09/gettyimages-1831291025.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.520187939011&w=1200",
-      "source": "Cincy Jungle",
-      "publishedAt": "2025-09-26T17:00:07Z"
-    },
-    {
-      "title": "The Video-Game Industry Has a Problem: There Are Too Many Games - Bloomberg.com",
-      "description": "A crowded September for video-game releases illustrates a broader challenge in the market",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-09-26/the-video-game-industry-has-a-problem-there-are-too-many-games",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAtA6lKVv2B4/v1/1200x675.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-26T17:00:06Z"
-    },
-    {
-      "title": "\"This Game Is Finally Dying\": Destiny 2 Steam Player Count Drops Over 80% Since Edge of Fate Launch as Players Say the Game Is \"Punishing\" and \"Ridiculously Hard\" - The Game Post",
-      "description": "Destiny 2 Steam player count drops over 80% after Edge of Fate as bugs, system changes, and blocked access in major regions push players away.",
-      "url": "https://thegamepost.com/dying-destiny-2-steam-player-count-edge-of-fate/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/09/dying-destiny-2-steam-player-count-edge-of-fate-3.webp",
-      "source": "Thegamepost.com",
-      "publishedAt": "2025-09-26T16:56:26Z"
-    },
-    {
-      "title": "GeForce RTX 5080 now 10% below MSRP, RTX 5070 and 5060 Ti down 13–14% at MicroCenter - VideoCardz.com",
-      "description": "MicroCenter has double-digit deals on RTX 50 GPUs, but only for in-store pickups MicroCenter reached out to let us know they are offering three RTX 50 cards at record low prices. We have no affiliation with the store, and while it’s unusual that they sent the…",
-      "url": "https://videocardz.com/newz/geforce-rtx-5080-now-10-below-msrp-rtx-5070-and-5060-ti-down-13-14-at-microcenter",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/09/MIcroCenter-RTX-50.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2025-09-26T16:35:00Z"
-    },
-    {
-      "title": "Silksong patch made a bunch of sneaky changes it didn't tell you about - Polygon",
-      "description": "Hollow Knight Silksong's second patch quietly made changes to some tools, crests, and attacks, all of which players need to know",
-      "url": "https://www.polygon.com/silksong-charge-attack-volt-filament-architect-crest-cogwork-wheel-saw-changes-nerfs-buffs-patch/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/hollow-knight-silksong-last-judge-boss-guide.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2025-09-26T16:27:00Z"
-    },
-    {
-      "title": "Samsung Galaxy TriFold leak offers glimpse into multitasking on a giant foldable - 9to5Google",
-      "description": "Newly leaked software animations from Samsung give us a bigger glimpse into the Galaxy TriFold’s multitasking, and it looks like...",
-      "url": "http://9to5google.com/2025/09/26/samsung-galaxy-trifold-leaks-show-multitasking/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Big Google Home app redesign with ‘Ask Home’ starts rolling out on iPhone - 9to5Google",
+      "description": "We previously spotted that the Google Home app was getting a redesign with \"Ask Home\" and it’s now beginning to roll out...",
+      "url": "http://9to5google.com/2025/09/27/google-home-ask-redesign-iphone/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-Home-Ask-redesign-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2025-09-26T16:16:00Z"
+      "publishedAt": "2025-09-28T04:48:00Z"
     },
     {
-      "title": "Head Magic: The Gathering Designer Apologizes For Misogynistic Card From 27 Years Ago - Kotaku",
-      "description": "The woman who Ghazbán Ogress was based on recently spoke out about it",
-      "url": "https://kotaku.com/magic-gathering-mtg-ghazban-ogress-mark-rosewater-2000629186",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/Wtich-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-09-26T15:43:52Z"
+      "title": "Penn State-Oregon Fourth Quarter Open Thread - Black Shoe Diaries",
+      "description": "Fourth quarter!",
+      "url": "https://www.blackshoediaries.com/open_threads/79261/penn-state-nittany-lions-football-oregon-fourth-quarter-open-thread-bsd",
+      "urlToImage": "https://platform.blackshoediaries.com/wp-content/uploads/sites/32/2025/09/gettyimages-2188895979.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "Black Shoe Diaries",
+      "publishedAt": "2025-09-28T02:00:00Z"
+    },
+    {
+      "title": "Little Nightmares Enhanced Edition upgrade for Nintendo Switch players unavailable because of \"technical constraints\" - Nintendo Everything",
+      "description": "Bandai Namco explains why the Little Nightmares Enhanced Edition free upgrade won't be available for Nintendo Switch players.",
+      "url": "https://nintendoeverything.com/little-nightmares-enhanced-edition-switch-upgrade/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Little-Nightmares-Enhanced-Edition-Nintendo-Switch-upgrade-scaled.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-09-28T01:30:00Z"
+    },
+    {
+      "title": "iOS 26.0.1 coming soon for iPhone users [Updated] - 9to5Mac",
+      "description": "Update September 27, 2025: We’re still waiting on Apple to release iOS 26.0.1 to everyone, but it seems very close....",
+      "url": "https://9to5mac.com/2025/09/27/ios-26-0-1-coming-soon-for-iphone-users/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iOS-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-28T00:07:00Z"
+    },
+    {
+      "title": "Samsung One UI 8 Update: Third wave of Global rollout - Sammy Fans",
+      "description": "Earlier this month, Samsung began the One UI 8 stable update rollout for its Galaxy phones. The update started with the new Galaxy S25 series. After that, the Galaxy S24 series, Galaxy Z Fold 6, Galaxy Z Flip 6, Galaxy A56, and Galaxy A36 also got this major …",
+      "url": "https://www.sammyfans.com/2025/09/27/samsung-one-ui-8-update-third-wave-of-global-rollout/",
+      "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2025/09/one-ui-8-image-1000x576.jpg",
+      "source": "Sammyfans.com",
+      "publishedAt": "2025-09-27T21:16:04Z"
+    },
+    {
+      "title": "PlayStation Secret Lair Superdrop Brings The Last of Us, God of War, and More to Magic: The Gathering in October - IGN",
+      "description": "Magic: The Gathering is getting a collection of PlayStation cards as part of an upcoming Secret Lair Superdrop next month.",
+      "url": "https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/26/magic-the-gathering-playstation-secret-lair-1758925931552.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-09-27T19:10:20Z"
+    },
+    {
+      "title": "Minecraft's Mounts Of Mayhem Update Will Mix Up Combat - GameSpot",
+      "description": "Take to the seas with a new mount, and fend off enemies with a new weapon.",
+      "url": "https://www.gamespot.com/articles/minecraft-live-mounts-of-mayhem/1100-6535060/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1603/16030002/4575908-nautiluscoldocean_screenshot_2.jpeg",
+      "source": "GameSpot",
+      "publishedAt": "2025-09-27T18:30:00Z"
+    },
+    {
+      "title": "Only three days left until the 'Copper Age' update comes to Minecraft - Windows Central",
+      "description": "The 'Copper Age' update is bringing oxidizing objects and copper golems to Minecraft. Here's everything you need to know about this new content.",
+      "url": "https://www.windowscentral.com/gaming/minecraft/minecraft-copper-age-update-launching-soon",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rxSPTXTLGTR8SQYBFu8KYD.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2025-09-27T17:30:12Z"
+    },
+    {
+      "title": "Silent Hill f Looks Incredible With Its Hidden “True Epic” Settings - DSOGaming",
+      "description": "There are some hidden \"True Epic\" settings that you can unlock that can greatly improve the image quality of Silent Hill f.",
+      "url": "https://www.dsogaming.com/pc-performance-analyses/silent-hill-f-looks-incredible-with-its-hidden-true-epic-settings/",
+      "urlToImage": "https://www.dsogaming.com/wp-content/uploads/2025/09/SHf-Win64-Shipping_2025_09_27_00_55_04_995-scaled.jpg",
+      "source": "DSOGaming",
+      "publishedAt": "2025-09-27T17:07:53Z"
+    },
+    {
+      "title": "Destiny 2 Desert Perpetual Epic Raid Loot Table: All Weapons and Armor - The Game Post",
+      "description": "Here's the full Destiny 2 Desert Perpetual Epic raid loot table, including all raid weapons, armor, cosmetics, and more.",
+      "url": "https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-loot-table/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/09/destiny-2-desert-perpetual-epic-raid-loot-table-1.webp",
+      "source": "Thegamepost.com",
+      "publishedAt": "2025-09-27T17:06:09Z"
+    },
+    {
+      "title": "Leak Reveals New Details on Halo Combat Evolved Remake: Hybrid Unreal Engine 5 and Blam Engine, Sprint Mechanic, Co-Dev Studio, and More - The Game Post",
+      "description": "A new leak claims Halo Combat Evolved’s remake will use a hybrid Unreal Engine 5 and Blam tech, feature sprint, reworked missions, and is being developed with help from another studio.",
+      "url": "https://thegamepost.com/leak-reveals-new-details-on-halo-combat-evolved-remake/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/09/leak-reveals-new-details-on-halo-combat-evolved-remake-46.webp",
+      "source": "Thegamepost.com",
+      "publishedAt": "2025-09-27T16:20:49Z"
+    },
+    {
+      "title": "Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week - The Verge",
+      "description": "Our weekend deal roundup features a discount on EasySMX’s excellent S10 controller, Ugreen’s latest Bluetooth tracker, the OnePlus Watch 3, and more.",
+      "url": "https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/easysmxs10lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-27T16:09:15Z"
+    },
+    {
+      "title": "\"They're Mining Millions Of Tons On The Moon\": Space Officials Reveal Helium-3 Extraction Making Oil Worthless - Rude Baguette",
+      "description": "As humanity looks beyond Earth, the Moon emerges as a potential treasure trove, specifically for the rare isotope helium-3. This material, embedded in the",
+      "url": "https://www.rudebaguette.com/en/2025/09/theyre-mining-millions-of-tons-on-the-moon-space-officials-reveal-helium-3-extraction-making-oil-worthless/",
+      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/this-moon-discovery-reveals-hidden-resource-that-terrifies-governments-and-could-change-everything-for-energy-independence.jpg",
+      "source": "Rudebaguette.com",
+      "publishedAt": "2025-09-27T15:50:50Z"
+    },
+    {
+      "title": "T-Mobile Rolls Out iPhone 17 With ‘On Us’ Deals and Satellite Coverage Edge - Variety",
+      "description": "T-Mobile is offering iPhone 17 and iPhone 17 Pro deals for both new and existing customers, with promotions available online.",
+      "url": "https://variety.com/2025/shopping/tech/t-mobile-iphone-17-deal-buy-online-1236530754/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/iphone-17-models.jpg?w=800&h=450&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-27T15:49:00Z"
+    },
+    {
+      "title": "Pokémon TCG: Mega Evolution review — pull rates, top cards, and strategies revealed - Mashable",
+      "description": "New mechanics, how Mega Evolution has changed, and deck buiding guides with affordable Pokémon TCG cards.",
+      "url": "https://mashable.com/article/pokemon-tcg-mega-evolution-review",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03N9ICSTYjiYX1cgGfKk0Of/hero-image.fill.size_1200x675.v1758900555.png",
+      "source": "Mashable",
+      "publishedAt": "2025-09-27T15:34:41Z"
+    },
+    {
+      "title": "New Jersey Theme Park Puts Animatronic Dinosaurs on Facebook Marketplace as It Shuts Down - Gizmodo",
+      "description": "\"Just be sure you’ve got a big backyard.\"",
+      "url": "https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/new-jersey-dinosaur-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-09-27T14:35:08Z"
+    },
+    {
+      "title": "Dynasty Warriors Origins is 30 FPS on Nintendo Switch 2, Koei Tecmo explains why - Nintendo Everything",
+      "description": "Koei Tecmo comments on the frame rate for the Nintendo Switch 2 version of Dynasty Warriors Origins.",
+      "url": "https://nintendoeverything.com/dynasty-warriors-origins-switch-2-frame-rate/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Dynasty-Warriors-Origins-Switch-2-frame-rate.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-09-27T14:02:40Z"
+    },
+    {
+      "title": "NASA Couldn’t Get Its Rover to the Moon, So Blue Origin Will Do It Instead - Gizmodo",
+      "description": "Jeff Bezos's Blue Origin will deliver VIPER to the lunar surface in 2027.",
+      "url": "https://gizmodo.com/nasa-couldnt-get-its-rover-to-the-moon-so-blue-origin-will-do-it-instead-2000662706",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/viper-lunar-rover-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-09-27T14:00:34Z"
+    },
+    {
+      "title": "Who Is Destiny Rising’s Audience? Not Enough People, Says Revenue Report - Forbes",
+      "description": "Destiny Rising is a great entry in the Destiny series, but a lack of interest in the IP may ultimately sink what's a very good game.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/09/27/who-is-destiny-risings-audience-not-enough-people-says-revenue-report/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68adb608392ee4f4ceaa9991/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-09-27T13:23:10Z"
     }
   ]
 }

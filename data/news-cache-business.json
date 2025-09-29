@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2025-09-28T06:36:10.031Z",
+  "updatedAt": "2025-09-29T06:41:34.094Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Listeria found in Walmart, Trader Joe’s meals may be linked to deadly fettuccine outbreak - AP News",
-      "description": "Federal health officials are warning consumers not to eat certain pasta meals sold at Walmart and Trader Joe's stores nationwide. Marketside Linguine with Beef Meatballs & Marinara Sauce sold at Walmart and Trader Joe's Cajun Style Blackened Chicken Brest Fet…",
-      "url": "https://apnews.com/article/walmart-meatball-chicken-alfredo-listeria-70ffb419f0ac7dfc13d2a1b655c1578f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ffa5766/2147483647/strip/true/crop/2352x1323+0+130/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F60%2F4bed745509b7657248136cd77105%2Ff424fc68e0b640debdd2353e113c36d3",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-27T00:47:00Z"
+      "title": "Electronic Arts nears $50 billion buyout by Saudi Arabia and Jared Kushner's firm - Mashable",
+      "description": "Silver Lake, Saudi Arabia's PIF, and Affinity Partners are lining up to take EA private.",
+      "url": "https://mashable.com/article/electronic-arts-buyout-silver-lake-saudi-arabia-jared-kushner",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02Oy0Vb1vrqclFEHt31tkHD/hero-image.fill.size_1200x675.v1758987440.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-28T01:52:30Z"
     },
     {
-      "title": "A new wave of Starbucks closures suddenly hits the Bay Area - sfgate.com",
-      "description": "Starbucks announced that it plans to close hundreds of stores in North America. This week, a popular store in SF's Castro District announced its closure.",
-      "url": "https://www.sfgate.com/food/article/bay-area-starbucks-store-closures-21069937.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/27/01/00/22810628/4/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-09-27T00:23:45Z"
+      "title": "Move over Murdochs, the Ellisons are the new family dynasty shaking up US media - BBC",
+      "description": "Larry Ellison's relationship with Donald Trump has drawn scrutiny as the tech billionaire and his son strive to become major media moguls.",
+      "url": "https://www.bbc.com/news/articles/cr4qwwk0g0yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f10/live/68429800-9b02-11f0-92db-77261a15b9d2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-28T00:30:14Z"
     },
     {
-      "title": "What Trump’s new tariffs mean for pharmaceuticals and patented drugs - The Washington Post",
-      "description": "Trump said branded pharmaceutical products would face 100 percent tariffs unless certain exemptions applied, sparking some confusion over how the policy would be implemented.",
-      "url": "https://www.washingtonpost.com/business/2025/09/26/trump-pharmaceutical-tariffs-drugs-impacts/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6Z26VOI32M2XWAD44YWESYCRU4_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-26T22:46:35Z"
-    },
-    {
-      "title": "Pacific Fusion chooses Albuquerque for $1 billion nuclear fusion site - Albuquerque Journal",
-      "description": "Pacific Fusion, a California-based commercial nuclear fusion energy company, will build its $1 billion research and manufacturing campus at Albuquerque’s Mesa del Sol, officials announced Friday.",
-      "url": "https://www.abqjournal.com/business/article_354dbfa4-79f6-48f4-87c2-6fda68367881.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/abqjournal.com/content/tncms/assets/v3/editorial/c/8d/c8d24ece-c113-4e04-bbd8-dd58a7ec93d4/68d59e621b10c.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
-      "source": "Albuquerque Journal",
-      "publishedAt": "2025-09-26T21:08:28Z"
-    },
-    {
-      "title": "Trump moves toward deal to give US an equity stake in company developing Nevada lithium mine - AP News",
-      "description": "The White House is moving forward with a deal that would allow the U.S. government to take a small equity stake in a Canadian company that is developing one of the world’s largest lithium mines. The Department of Energy and Lithium Americas, developer of the …",
-      "url": "https://apnews.com/article/lithium-mine-nevada-trump-gm-electric-cars-9e343fbe558b57a59697556b41ed840b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fff74f3/2147483647/strip/true/crop/5400x3038+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2F71%2Fe5aa38091b307e6cd7a7b733356c%2F172d264722c14d59bd553f053c5ab79d",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-26T21:05:00Z"
-    },
-    {
-      "title": "U.S. government scrambles to stop new hacking campaign blamed on China - The Washington Post",
-      "description": "U.S. cybersecurity officials ordered civilian federal agencies to check for vulnerable Cisco equipment being exploited by attackers targeting the government.",
-      "url": "https://www.washingtonpost.com/technology/2025/09/25/cisa-federal-hacks-cisco/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XARSYVE3TUI6XMXVPUXQDATVBU.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-26T20:45:26Z"
-    },
-    {
-      "title": "Spirit Airlines is halting 40 routes, hires ex-Amazon network planning exec - CNBC",
-      "description": "Spirit said it is halting 40 routes to focus on stronger markets.",
-      "url": "https://www.cnbc.com/2025/09/26/spirit-airlines-routes-network-planning.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409734-1714681228947-gettyimages-2006559720-01-b0005020-_hya9z9q0.jpeg?v=1747149844&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-26T20:12:51Z"
-    },
-    {
-      "title": "Markets won't care if Trump fires Fed Governor Cook, DOJ tells Supreme Court - CNBC",
-      "description": "Governor Lisa Cook has urged the Supreme Court not to let President Donald Trump's attempt to fire her take effect while her lawsuit against him plays out.",
-      "url": "https://www.cnbc.com/2025/09/26/trump-fed-cook-scotus-markets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190852-1756222889494-gettyimages-1243772503-COOK_FED.jpeg?v=1758916049&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-26T19:48:54Z"
-    },
-    {
-      "title": "Crypto’s $300 Billion Wipeout Marks Harshest Selloff in Months - Bloomberg.com",
-      "description": "Cryptocurrencies shed roughly $300 billion in value this week as a wave of leveraged bets unraveled, battering the sector’s biggest tokens and dragging market sentiment to its weakest point since early summer.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-26/crypto-s-300-billion-wipeout-marks-harshest-selloff-in-months",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipCYXhZQtQag/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-26T19:36:33Z"
-    },
-    {
-      "title": "Trump’s tariffs are bringing in serious revenue—and it’d be even higher if not for tariff dodgers costing the government $40 billion a year, Goldman Sachs says - Fortune",
-      "description": "Analysts have seen patterns in data indicating countries are taking action to evade the U.S.’s sweeping levies.",
-      "url": "https://fortune.com/2025/09/26/trump-tariffs-revenue-loss-40-billion-tariff-evasion-goldman-sachs/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2236950400-e1758910855561.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-26T18:55:00Z"
-    },
-    {
-      "title": "FAA allows Boeing to help certify 737 MAX and 787 planes are safe to fly - The Seattle Times",
-      "description": "The Federal Aviation Administration said it would “allow limited delegation to Boeing” to issue airworthiness certificates on some 737s and 787s, starting Monday.",
-      "url": "https://www.seattletimes.com/business/boeing-aerospace/faa-allows-boeing-to-certify-737-max-and-787-planes-are-safe-to-fly/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09262025_tzr_tzr_100728.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-09-26T17:45:29Z"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Says OpenAI Will Be the Next ‘Multi-Trillion-Dollar’ Company - Barron's",
+      "title": "The Hillshire Brands Company Recalls Corn Dog and Sausage On A Stick Products Due To Possible Extraneous Matter Contamination | Food Safety and Inspection Service - fsis.usda.gov",
       "description": null,
-      "url": "https://www.barrons.com/articles/nvidia-openai-trillion-dollar-company-d5b20efb",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-09-26T17:08:00Z"
+      "url": "http://www.fsis.usda.gov/recalls-alerts/hillshire-brands-company-recalls-corn-dog-and-sausage-a-stick-products-due-possible",
+      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+      "source": "Usda.gov",
+      "publishedAt": "2025-09-27T22:32:54Z"
     },
     {
-      "title": "Costco Stock (COST) Investors Prepare for Seesaw Trade Post-Earnings - TipRanks",
-      "description": "Costco Wholesale ($COST), the nation’s largest wholesaler, faces a volatile session this morning after releasing a mixed earnings report late Thursday. Shares slipp...",
-      "url": "https://www.tipranks.com/news/costco-stock-cost-investors-prepare-for-seesaw-trade-post-earnings",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2643084011-1-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-09-26T17:03:45Z"
+      "title": "Walmart CEO wants 'everybody to make it to the other side' and the retail giant will keep headcount flat for now even as AI changes every job - Fortune",
+      "description": "But Walmart's 2.1 million-strong workforce will change in composition due to AI.",
+      "url": "https://fortune.com/2025/09/27/ai-ceos-job-market-transformation-walmart-accenture-salesforce/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1920821231-e1759010745640.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-27T22:24:00Z"
     },
     {
-      "title": "How Trump’s Case Against Revolution Wind Fell Apart - Heatmap News",
-      "description": "When the Trump administration ordered work on Orsted’s Revolution Wind offshore wind project to shut down in late August, it cited national security concerns as the reason for the delay. Within weeks, a federal judge had lifted the stop work order, allowing c…",
-      "url": "https://heatmap.news/energy/revolution-wind-defense-claims",
-      "urlToImage": "https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82MTU2MDIyNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MzU3NDE4MX0.uxruXDZx2PuZ6jz7qbJeKHT1yxf43Z38g6YSUO0-24U/image.jpg?width=1200&height=600&coordinates=0%2C100%2C0%2C100",
-      "source": "Heatmap.news",
-      "publishedAt": "2025-09-26T16:58:52Z"
+      "title": "White House may give Intel a huge gift - TheStreet",
+      "description": "Intel could benefit from an unexpected proposal.",
+      "url": "https://www.thestreet.com/technology/white-house-may-give-intel-a-huge-gift-",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE2OTk4NTMxNzIwODE2MTQ3/trump-says-intel-ceo-has-amazing-story-sets-cabinet-talks.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-09-27T22:15:58Z"
     },
     {
-      "title": "Consumer sentiment is back to near-record lows. But Americans are still spending. Here’s why - CNN",
-      "description": "Americans are souring on the economy again to levels seen rarely in the post-World War II era, raising the question of what it means for spending, economic growth and other key metrics gauging the world’s largest economy.",
-      "url": "https://www.cnn.com/2025/09/26/economy/us-consumer-sentiment-september",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236344335.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-26T14:07:35Z"
+      "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell - CNBC",
+      "description": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
+      "url": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176780-17533928602025-07-24t211046z_1404996714_rc28tfahau0e_rtrmadp_0_usa-trump-fed.jpeg?v=1753392902&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-27T21:16:35Z"
     },
     {
-      "title": "Amazon will refund Prime subscribers in major FTC settlement. How to get yours - Houston Chronicle",
-      "description": "Amazon reached a $2.5 billion settlement with the Federal Trade Commission days after a lawsuit over its Prime subscriptions went to trial in Seattle",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/amazon-prime-lawsuit-settlement-21068049.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/47/53/45/27179364/6/rawImage.jpg",
-      "source": "Houston Chronicle",
-      "publishedAt": "2025-09-26T11:12:25Z"
+      "title": "Government to guarantee £1.5bn Jaguar Land Rover loan after cyber shutdown - BBC",
+      "description": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
+      "url": "https://www.bbc.com/news/articles/cgl15ykerlro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-27T21:00:13Z"
     },
     {
-      "title": "BMW recalling more than 196,000 cars in U.S. over potential fire risk - CBS News",
-      "description": "Tens of thousands of BMW vehicles, and some Toyotas, are being recalled due to an engine starter relay that can corrode, increasing the risk of a fire.",
-      "url": "https://www.cbsnews.com/news/bmw-recalling-more-than-196000-cars-in-u-s-over-potential-fire-risk/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/26/4e90a0c6-997a-4230-a03e-d381f94716ba/thumbnail/1200x630g3/e6456c828a6cbe3c1dc322edda6c69f8/bmw-usa-2223867328.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-26T08:50:53Z"
+      "title": "Beware coworkers who produce AI-generated ‘workslop’ - TechCrunch",
+      "description": "Researchers at consulting firm BetterUp Labs, in collaboration with Stanford Social Media Lab, have coined a new term to describe low-quality, AI-generated work",
+      "url": "https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-939845776.jpg?resize=1200,801",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-27T19:36:04Z"
+    },
+    {
+      "title": "Brooklyn woman killed by Tesla driver in hit and run, NYPD says - Gothamist",
+      "description": "Police are searching for the driver of a blue Tesla who fled the scene.",
+      "url": "https://gothamist.com/news/brooklyn-woman-killed-in-hit-and-run-by-tesla-driver-nypd-says",
+      "urlToImage": "https://api-prod.gothamist.com/images/352921/fill-1200x650|format-webp|webpquality-85/",
+      "source": "Gothamist",
+      "publishedAt": "2025-09-27T19:00:00Z"
+    },
+    {
+      "title": "Wall Street billionaire sends one-word AI warning - TheStreet",
+      "description": "Hyperscalers are plowing hundreds of billions into artificial intelligence.",
+      "url": "https://www.thestreet.com/technology/wall-street-billionaire-sends-one-word-ai-warning",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE4MDMyODM0NDcwNzQ5Nzk4/david-einhorn-lead-1.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-09-27T18:03:00Z"
+    },
+    {
+      "title": "The U.S. economy is running even hotter than previously thought, and GDP growth could reach 4% in Q3 - Fortune",
+      "description": "Stronger GDP also means the Federal Reserve will be under less pressure to lower rates aggressively.",
+      "url": "https://fortune.com/2025/09/27/economic-outlook-gdp-forecast-q3-4-percent-consumer-spending-income-recession-warning/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2236488788-e1758988274288.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-27T17:21:00Z"
+    },
+    {
+      "title": "BMW vehicles recalled over potential fire risk - NBC News",
+      "description": "The owners of nearly 200,000 BMWs should park their vehicles outside because they risk catching fire while parked or being driven, the National Highway Traffic Safety Administration announced Friday",
+      "url": "https://www.nbcnews.com/business/business-news/bmw-recall-fire-risk-rcna234069",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241015-bmw-car-dealership-vl-358p-e9952a.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-27T17:10:00Z"
+    },
+    {
+      "title": "After massive shrimp recalls, the FDA finds radioactive contamination in spices too - ABC News - Breaking News, Latest News and Videos",
+      "description": "Federal regulators have detected possible radioactive contamination in spices exported from Indonesia",
+      "url": "https://abcnews.go.com/Business/wireStory/after-massive-shrimp-recalls-fda-finds-radioactive-contamination-125977394",
+      "urlToImage": "https://i.abcnewsfe.com/a/d7408f38-d235-4c6d-baba-0558b3247360/wirestory_6b99a284026274c0f1c4fc3f62dc0798_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-09-27T16:12:37Z"
+    },
+    {
+      "title": "The AI hype is starting to fade on Wall Street. Here’s what investors need to know. - MarketWatch",
+      "description": "Oracle’s decision to tap the debt markets has helped revive scrutiny of AI spending. Wall Street analysts highlighted key risks in reports published this week.",
+      "url": "https://www.marketwatch.com/story/the-ai-hype-is-starting-to-fade-on-wall-street-heres-what-investors-need-to-know-2606749a",
+      "urlToImage": "https://images.mktw.net/im-93657462/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-09-27T13:19:00Z"
+    },
+    {
+      "title": "Recession seems far off — that’s the good news. Yet the economy is also far from trouble-free. - MarketWatch",
+      "description": "Inflation is still a sore spot for Americans",
+      "url": "https://www.marketwatch.com/story/recession-seems-far-off-thats-the-good-news-yet-the-economy-is-also-far-from-trouble-free-5c782803",
+      "urlToImage": "https://images.mktw.net/im-47977320/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-09-27T13:00:00Z"
+    },
+    {
+      "title": "How Jensen Huang is Using Nvidia Cash to Rule the AI Economy - The Information",
+      "description": "Even by the standards of one of the most prodigious dealmakers in tech, the past month or so has been a head-spinning one for Nvidia’s Jensen Huang. Just in September, Nvidia agreed to buy any unused Nvidia graphics processing units that cloud provider CoreWe…",
+      "url": "https://www.theinformation.com/articles/jensen-huang-using-nvidia-cash-rule-ai-economy",
+      "urlToImage": "https://tii.imgix.net/production/articles/15828/7a1efe4b-e7fc-4582-9fed-c96b94edad2c.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+      "source": "The Information",
+      "publishedAt": "2025-09-27T13:00:00Z"
+    },
+    {
+      "title": "Can Google be trusted without a break up? - The Verge",
+      "description": "The Justice Department argued that Google will likely continue to monopolize ad tech markets unless a judge removes its incentives to do so.",
+      "url": "https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-27T13:00:00Z"
+    },
+    {
+      "title": "\"They Built Reactors That Think For Themselves\": Nuclear Scientists Reveal Autonomous Microreactors Operating Without Human Control - Energy Reporters",
+      "description": "In a significant advancement for nuclear energy, scientists in the United States have developed a groundbreaking physics-based algorithm designed for nuclear",
+      "url": "https://www.energy-reporters.com/industry/they-built-reactors-that-think-for-themselves-nuclear-scientists-reveal-autonomous-microreactors-operating-without-human-control/",
+      "urlToImage": "https://www.energy-reporters.com/wp-content/uploads/2025/09/nuclear-microreactors-reveal-secret-power-trick-that-could-change-everything-about-your-homes-energy-bills-forever.jpg",
+      "source": "Energy-reporters.com",
+      "publishedAt": "2025-09-27T12:59:27Z"
+    },
+    {
+      "title": "Spirit Airlines to end services at Minneapolis-St. Paul International Airport - Bring Me The News",
+      "description": "Spirit Airlines will no longer serve Minneapolis-St. Paul International Airport as of December, the company has confirmed.",
+      "url": "https://bringmethenews.com/minnesota-lifestyle/spirit-airlines-to-end-services-at-minneapolis-st-paul-international-airport",
+      "urlToImage": "https://bringmethenews.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTczODcwNDUyNTMwMjI3MDQx/spirit_a319_exterior_3_newlivery.jpg",
+      "source": "Bring Me The News",
+      "publishedAt": "2025-09-27T12:38:30Z"
     }
   ]
 }
