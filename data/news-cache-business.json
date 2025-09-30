@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-09-29T06:41:34.094Z",
+  "updatedAt": "2025-09-30T06:40:13.184Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Electronic Arts nears $50 billion buyout by Saudi Arabia and Jared Kushner's firm - Mashable",
-      "description": "Silver Lake, Saudi Arabia's PIF, and Affinity Partners are lining up to take EA private.",
-      "url": "https://mashable.com/article/electronic-arts-buyout-silver-lake-saudi-arabia-jared-kushner",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02Oy0Vb1vrqclFEHt31tkHD/hero-image.fill.size_1200x675.v1758987440.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-28T01:52:30Z"
+      "title": "First Brands files for bankruptcy, threatening multibillion-dollar losses - Financial Times",
+      "description": "Collapse of US auto parts maker that borrowed billions in private markets has unnerved Wall Street",
+      "url": "https://www.ft.com/content/095a60a4-9bde-4f40-bb20-95c02c95727b",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea12bf5b-8de3-4a86-b8be-674bb6a9f5e1.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-29T04:47:41Z"
     },
     {
-      "title": "Move over Murdochs, the Ellisons are the new family dynasty shaking up US media - BBC",
-      "description": "Larry Ellison's relationship with Donald Trump has drawn scrutiny as the tech billionaire and his son strive to become major media moguls.",
-      "url": "https://www.bbc.com/news/articles/cr4qwwk0g0yo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f10/live/68429800-9b02-11f0-92db-77261a15b9d2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-28T00:30:14Z"
+      "title": "AI groups bet on world models in race for ‘superintelligence’ - Financial Times",
+      "description": "Google DeepMind, Meta and Nvidia are developing systems that aim to better understand the physical world",
+      "url": "https://www.ft.com/content/ae1c6de2-691e-448d-8bf3-8837cc1e6efb",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe2b00238-26a6-4b00-a34d-554af81b203f.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-29T04:00:16Z"
     },
     {
-      "title": "The Hillshire Brands Company Recalls Corn Dog and Sausage On A Stick Products Due To Possible Extraneous Matter Contamination | Food Safety and Inspection Service - fsis.usda.gov",
-      "description": null,
-      "url": "http://www.fsis.usda.gov/recalls-alerts/hillshire-brands-company-recalls-corn-dog-and-sausage-a-stick-products-due-possible",
-      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "source": "Usda.gov",
-      "publishedAt": "2025-09-27T22:32:54Z"
+      "title": "Albertsons recalls several deli items due to potential listeria contamination - KOB.com",
+      "description": "Albertsons Companies has recalled several deli products due to potential listeria contamination. The recall follows federal warnings about similar contamination concerns with pasta meals sold at Walmart and Trader Joe’s. On Saturday, Albertsons announced it w…",
+      "url": "https://www.kob.com/ap-top-news/ap-top-news-business/albertsons-recalls-several-deli-items-due-to-potential-listeria-contamination/",
+      "urlToImage": "https://www.kob.com/wp-content/uploads/apimg/2025/09/Albertsons_Listeria_Recall_41405.jpg",
+      "source": "KOB",
+      "publishedAt": "2025-09-29T03:43:11Z"
     },
     {
-      "title": "Walmart CEO wants 'everybody to make it to the other side' and the retail giant will keep headcount flat for now even as AI changes every job - Fortune",
-      "description": "But Walmart's 2.1 million-strong workforce will change in composition due to AI.",
-      "url": "https://fortune.com/2025/09/27/ai-ceos-job-market-transformation-walmart-accenture-salesforce/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1920821231-e1759010745640.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-27T22:24:00Z"
-    },
-    {
-      "title": "White House may give Intel a huge gift - TheStreet",
-      "description": "Intel could benefit from an unexpected proposal.",
-      "url": "https://www.thestreet.com/technology/white-house-may-give-intel-a-huge-gift-",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE2OTk4NTMxNzIwODE2MTQ3/trump-says-intel-ceo-has-amazing-story-sets-cabinet-talks.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-09-27T22:15:58Z"
-    },
-    {
-      "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell - CNBC",
-      "description": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
-      "url": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176780-17533928602025-07-24t211046z_1404996714_rc28tfahau0e_rtrmadp_0_usa-trump-fed.jpeg?v=1753392902&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-27T21:16:35Z"
-    },
-    {
-      "title": "Government to guarantee £1.5bn Jaguar Land Rover loan after cyber shutdown - BBC",
-      "description": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
-      "url": "https://www.bbc.com/news/articles/cgl15ykerlro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-27T21:00:13Z"
-    },
-    {
-      "title": "Beware coworkers who produce AI-generated ‘workslop’ - TechCrunch",
-      "description": "Researchers at consulting firm BetterUp Labs, in collaboration with Stanford Social Media Lab, have coined a new term to describe low-quality, AI-generated work",
-      "url": "https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-939845776.jpg?resize=1200,801",
+      "title": "The AI services transformation may be harder than VCs think - TechCrunch",
+      "description": "Early warning signs suggest this whole services-industry metamorphosis may be more complicated than VCs anticipate.",
+      "url": "https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/startup-wind-down.jpg?resize=1200,675",
       "source": "TechCrunch",
-      "publishedAt": "2025-09-27T19:36:04Z"
+      "publishedAt": "2025-09-29T01:20:12Z"
     },
     {
-      "title": "Brooklyn woman killed by Tesla driver in hit and run, NYPD says - Gothamist",
-      "description": "Police are searching for the driver of a blue Tesla who fled the scene.",
-      "url": "https://gothamist.com/news/brooklyn-woman-killed-in-hit-and-run-by-tesla-driver-nypd-says",
-      "urlToImage": "https://api-prod.gothamist.com/images/352921/fill-1200x650|format-webp|webpquality-85/",
+      "title": "Oil Drops as OPEC+ Seen Increasing Output Again: Markets Wrap - Bloomberg.com",
+      "description": "Asian shares and US equity-index futures rose, suggesting that Wall Street’s advance after an in-line inflation reading could extend.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-28/oil-drops-as-opec-seen-increasing-output-again-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOdadB9Zspac/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-29T01:03:00Z"
+    },
+    {
+      "title": "Citi’s Wall Street Rebound Turns Raghavan Into CEO Contender - Bloomberg.com",
+      "description": "When Vis Raghavan heard that Citigroup Inc. Chief Jane Fraser was struggling to find someone to oversee investment banking last year, he called her with an audacious pitch: The London-based banker, whose star was dimming at Jamie Dimon’s JPMorgan Chase &amp; …",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-29/citi-s-wall-street-rebound-turns-raghavan-into-ceo-contender",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iflK0.LwQPYI/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-29T00:44:00Z"
+    },
+    {
+      "title": "I went to an anti-tech rally, where Gen Z dressed as gnomes and smashed iPhones. Here's what I learned. - Business Insider",
+      "description": "A growing constellation of groups, mostly led by young people, are advocating for reduced reliance on technology. I went to a rally to learn more.",
+      "url": "https://www.businessinsider.com/anti-tech-rally-apple-iphone-elon-musk-tesla-luddite-movement-2025-9",
+      "urlToImage": "https://i.insider.com/68d9b9d1cc993f9955cf1252?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-29T00:23:00Z"
+    },
+    {
+      "title": "MTA revises some of its proposed fare hikes following public outcry - Gothamist",
+      "description": "The agency will revise its proposed hike on the seven-day fare cap and allow all commuter rail tickets to be usable until 4 a.m. the following day.",
+      "url": "https://gothamist.com/news/mta-revises-some-of-its-proposed-fare-hikes-following-public-outcry",
+      "urlToImage": "https://api-prod.gothamist.com/images/330688/fill-1200x650|format-webp|webpquality-85/",
       "source": "Gothamist",
-      "publishedAt": "2025-09-27T19:00:00Z"
+      "publishedAt": "2025-09-28T23:24:00Z"
     },
     {
-      "title": "Wall Street billionaire sends one-word AI warning - TheStreet",
-      "description": "Hyperscalers are plowing hundreds of billions into artificial intelligence.",
-      "url": "https://www.thestreet.com/technology/wall-street-billionaire-sends-one-word-ai-warning",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE4MDMyODM0NDcwNzQ5Nzk4/david-einhorn-lead-1.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-09-27T18:03:00Z"
-    },
-    {
-      "title": "The U.S. economy is running even hotter than previously thought, and GDP growth could reach 4% in Q3 - Fortune",
-      "description": "Stronger GDP also means the Federal Reserve will be under less pressure to lower rates aggressively.",
-      "url": "https://fortune.com/2025/09/27/economic-outlook-gdp-forecast-q3-4-percent-consumer-spending-income-recession-warning/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2236488788-e1758988274288.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-27T17:21:00Z"
-    },
-    {
-      "title": "BMW vehicles recalled over potential fire risk - NBC News",
-      "description": "The owners of nearly 200,000 BMWs should park their vehicles outside because they risk catching fire while parked or being driven, the National Highway Traffic Safety Administration announced Friday",
-      "url": "https://www.nbcnews.com/business/business-news/bmw-recall-fire-risk-rcna234069",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241015-bmw-car-dealership-vl-358p-e9952a.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-27T17:10:00Z"
-    },
-    {
-      "title": "After massive shrimp recalls, the FDA finds radioactive contamination in spices too - ABC News - Breaking News, Latest News and Videos",
-      "description": "Federal regulators have detected possible radioactive contamination in spices exported from Indonesia",
-      "url": "https://abcnews.go.com/Business/wireStory/after-massive-shrimp-recalls-fda-finds-radioactive-contamination-125977394",
-      "urlToImage": "https://i.abcnewsfe.com/a/d7408f38-d235-4c6d-baba-0558b3247360/wirestory_6b99a284026274c0f1c4fc3f62dc0798_16x9.jpg?w=1600",
+      "title": "Soybean farmers caught in looming crisis as US trade war with China cripples sales - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.go.com/Politics/soybean-farmers-caught-looming-crisis-us-trade-war/story?id\\\\u003d125943171",
+      "urlToImage": null,
       "source": "ABC News",
-      "publishedAt": "2025-09-27T16:12:37Z"
+      "publishedAt": "2025-09-28T23:05:02Z"
     },
     {
-      "title": "The AI hype is starting to fade on Wall Street. Here’s what investors need to know. - MarketWatch",
-      "description": "Oracle’s decision to tap the debt markets has helped revive scrutiny of AI spending. Wall Street analysts highlighted key risks in reports published this week.",
-      "url": "https://www.marketwatch.com/story/the-ai-hype-is-starting-to-fade-on-wall-street-heres-what-investors-need-to-know-2606749a",
-      "urlToImage": "https://images.mktw.net/im-93657462/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-27T13:19:00Z"
+      "title": "China’s Markets Shed ‘Uninvestable’ Tag as Global Funds Return - Bloomberg.com",
+      "description": "Global money managers are venturing back into China after years of aversion, piqued by a world-beating stock rally and the country’s advances in high-tech industries.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-28/china-sheds-uninvestable-tag-as-2-7-trillion-gain-draws-inflows",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuPmfjY73uLw/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-28T23:00:00Z"
     },
     {
-      "title": "Recession seems far off — that’s the good news. Yet the economy is also far from trouble-free. - MarketWatch",
-      "description": "Inflation is still a sore spot for Americans",
-      "url": "https://www.marketwatch.com/story/recession-seems-far-off-thats-the-good-news-yet-the-economy-is-also-far-from-trouble-free-5c782803",
-      "urlToImage": "https://images.mktw.net/im-47977320/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-27T13:00:00Z"
+      "title": "MotorTrend Finally Found Its Missing Fisker Ocean In A Scrap Yard 60 Miles Away - Jalopnik",
+      "description": "The magazine took its long-term Ocean in for a service appointment and never got it back.",
+      "url": "https://www.jalopnik.com/1979725/motortrend-found-missing-fisker-ocean-in-scrap-yard/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/motortrend-finally-found-its-missing-fisker-ocean-in-a-scrap-yard-60-miles-away/l-intro-1758920066.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2025-09-28T22:25:00Z"
     },
     {
-      "title": "How Jensen Huang is Using Nvidia Cash to Rule the AI Economy - The Information",
-      "description": "Even by the standards of one of the most prodigious dealmakers in tech, the past month or so has been a head-spinning one for Nvidia’s Jensen Huang. Just in September, Nvidia agreed to buy any unused Nvidia graphics processing units that cloud provider CoreWe…",
-      "url": "https://www.theinformation.com/articles/jensen-huang-using-nvidia-cash-rule-ai-economy",
-      "urlToImage": "https://tii.imgix.net/production/articles/15828/7a1efe4b-e7fc-4582-9fed-c96b94edad2c.jpg?fm=jpg&auto=compress&w=1200&frame=0",
-      "source": "The Information",
-      "publishedAt": "2025-09-27T13:00:00Z"
+      "title": "Stock futures are flat in overnight trading following a losing week: Live updates - CNBC",
+      "description": "All eyes are turning to the September nonfarm payrolls report, which is due Friday morning.",
+      "url": "https://www.cnbc.com/2025/09/28/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-28T22:03:00Z"
     },
     {
-      "title": "Can Google be trusted without a break up? - The Verge",
-      "description": "The Justice Department argued that Google will likely continue to monopolize ad tech markets unless a judge removes its incentives to do so.",
-      "url": "https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Chevy Dealership Tells Driver It'll Be $260 for a new His Key Fob. Then He Goes to O'Reilly - Motor1.com",
+      "description": "GM dealership told a Chevrolet Silverado driver it would cost $260 to program his key fob. So he went to O'Reilly and did it himself",
+      "url": "https://www.motor1.com/news/773852/oreilly-auto-parts-program-chevrolet-key-fob/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/QebbxZ/s1/gm-dealership-tells-chevrolet-driver-it-ll-be-260-to-program-his-key-fob.-then-he-goes-to-o-reilly-instead.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2025-09-28T22:00:29Z"
+    },
+    {
+      "title": "NJ TRANSIT - NJ Transit",
+      "description": "NJTransit Website Twitter image ||undefined",
+      "url": "https://www.njtransit.com/node/1985595",
+      "urlToImage": "NJTransit Website OG image || https://www.njtransit.com/njt_thumbnail_logo.png",
+      "source": "Njtransit.com",
+      "publishedAt": "2025-09-28T21:50:47Z"
+    },
+    {
+      "title": "58M pounds of corn dogs and sausage-on-a-stick products recalled because wood pieces may be inside - ABC News - Breaking News, Latest News and Videos",
+      "description": "Several consumers have reported injuries to date.",
+      "url": "https://abcnews.go.com/Health/wireStory/58m-pounds-corn-dogs-sausage-stick-products-recalled-126018737",
+      "urlToImage": "https://i.abcnewsfe.com/a/3525b213-521f-46c2-98c7-e888f76cb6a1/wirestory_a617f421508dd1ae10cd76e30e425126_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-09-28T21:17:20Z"
+    },
+    {
+      "title": "TikTok is just another tool in Larry Ellison’s quest to run the world. - The Verge",
+      "description": "TikTok is the latest prize in the Silicon Valley billionaire’s second act as a media mogul.",
+      "url": "https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13653876/456303498.jpg.jpg?quality=90&strip=all&crop=0%2C7.5491722088581%2C100%2C84.901655582284&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-09-27T13:00:00Z"
+      "publishedAt": "2025-09-28T19:32:05Z"
     },
     {
-      "title": "\"They Built Reactors That Think For Themselves\": Nuclear Scientists Reveal Autonomous Microreactors Operating Without Human Control - Energy Reporters",
-      "description": "In a significant advancement for nuclear energy, scientists in the United States have developed a groundbreaking physics-based algorithm designed for nuclear",
-      "url": "https://www.energy-reporters.com/industry/they-built-reactors-that-think-for-themselves-nuclear-scientists-reveal-autonomous-microreactors-operating-without-human-control/",
-      "urlToImage": "https://www.energy-reporters.com/wp-content/uploads/2025/09/nuclear-microreactors-reveal-secret-power-trick-that-could-change-everything-about-your-homes-energy-bills-forever.jpg",
-      "source": "Energy-reporters.com",
-      "publishedAt": "2025-09-27T12:59:27Z"
+      "title": "Bond Traders Say Rally Hinges on Jobs Data at Risk From Shutdown - Bloomberg.com",
+      "description": "The big question for bond investors in the days ahead is whether the monthly US jobs report will shake their already-wavering conviction in another Federal Reserve interest-rate cut as soon as October.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-28/bond-traders-say-rally-hinges-on-jobs-data-at-risk-from-shutdown",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9KZBQEP5.Eo/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-28T19:00:00Z"
     },
     {
-      "title": "Spirit Airlines to end services at Minneapolis-St. Paul International Airport - Bring Me The News",
-      "description": "Spirit Airlines will no longer serve Minneapolis-St. Paul International Airport as of December, the company has confirmed.",
-      "url": "https://bringmethenews.com/minnesota-lifestyle/spirit-airlines-to-end-services-at-minneapolis-st-paul-international-airport",
-      "urlToImage": "https://bringmethenews.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTczODcwNDUyNTMwMjI3MDQx/spirit_a319_exterior_3_newlivery.jpg",
-      "source": "Bring Me The News",
-      "publishedAt": "2025-09-27T12:38:30Z"
+      "title": "Filtered out: NYC Starbucks locations to shutter amid coffee giant’s ongoing nation-wide closures, hundreds of layoffs - amNewYork",
+      "description": "Dozens of NYC Starbucks locations to close, including ones in Manhattan, Queens and Brooklyn, amid nationwide closures.",
+      "url": "http://www.amny.com/news/nyc-starbucks-locations-closures-coffee/",
+      "urlToImage": "https://www.amny.com/wp-content/uploads/2025/09/starbucks-times-square.jpg?quality=51&w=1200&p=q",
+      "source": "amNY",
+      "publishedAt": "2025-09-28T18:00:00Z"
     }
   ]
 }
