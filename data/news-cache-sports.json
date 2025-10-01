@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2025-09-30T06:40:13.275Z",
+  "updatedAt": "2025-10-01T06:39:42.795Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Packers tie Cowboys, 40-40 in OT - Green Bay Packers",
-      "description": "Shootout ends with teams trading field goals in the extra period",
-      "url": "https://www.packers.com/news/in-game-updates-week-4-cowboys-2025",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/z2obfeoq1gkrbi2smhl3",
-      "source": "Packers.com",
-      "publishedAt": "2025-09-29T04:18:45Z"
-    },
-    {
-      "title": "Packers vs. Cowboys on Sunday Night Football: In Micah Parsons' return to Dallas, game ends in a tie 40-40 - Yahoo Sports",
-      "description": "The 40-40 tie was an unsatisfying ending to what turned out to be a thrilling game, which had a huge audience due to Micah Parsons’ return to Dallas.",
-      "url": "https://sports.yahoo.com/nfl/live/packers-vs-cowboys-on-sunday-night-football-in-micah-parsons-return-to-dallas-game-ends-in-a-tie-40-40-225043772.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K1OHub3AMDL.qNUrQfle0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/29529150-9ceb-11f0-bf7d-a36245576bf8",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-29T04:12:00Z"
-    },
-    {
-      "title": "DeMeco Ryans made a change in play-calling duties, and Texans responded - Houston Chronicle",
-      "description": "Texans coach DeMeco Ryans gave up play-calling duties on defense to focus on the entire operation. His decision paid off with a resounding win over the Titans.",
-      "url": "https://www.houstonchronicle.com/sports/texans/article/demeco-ryans-defense-win-titans-21071895.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/53/45/28490092/3/rawImage.jpg",
-      "source": "Houston Chronicle",
-      "publishedAt": "2025-09-29T03:31:30Z"
-    },
-    {
-      "title": "49ers, Jaguars coaches have to be restrained in fiery postgame exchange - SFGATE",
-      "description": "49ers defensive coordinator Robert Saleh and Jaguars head coach Liam Coen had to be physically separated after Jacksonville beat San Francisco on Sunday.",
-      "url": "https://www.sfgate.com/49ers/article/49ers-jaguars-coaches-restrained-postgame-exchange-21072370.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/53/46/28490119/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-09-29T02:48:45Z"
-    },
-    {
-      "title": "Denny Hamlin falls short of 60th win after late contact with Bubba Wallace - NASCAR.com",
-      "description": "Denny Hamlin finished second after late contact with Bubba Wallace at Kansas, falling just short of his 60th career NASCAR Cup Series win.",
-      "url": "https://www.nascar.com/news-media/2025/09/28/cup-series-denny-hamlin-falls-short-kansas/",
-      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2025/09/29/2025-sept28-hamlin-bubba-split-672x372.jpg",
-      "source": "NASCAR",
-      "publishedAt": "2025-09-29T02:01:53Z"
-    },
-    {
-      "title": "Labriola on the win over the Vikings - Steelers.com",
-      "description": "Wilson's effort in running down Addison came at a critical time in the game",
-      "url": "https://www.steelers.com/news/labriola-on-the-win-over-the-vikings",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/rkd24ugajh5xkvbcpt1r",
-      "source": "Steelers.com",
-      "publishedAt": "2025-09-29T01:42:17Z"
-    },
-    {
-      "title": "Philadelphia Union extend Shield lead, FC Cincinnati miss out & more from Matchday 37 - MLSsoccer.com",
-      "description": "Let's try a new format, making our way through the top of the Supporters’ Shield table before pivoting to the Audi 2025 MLS Cup Playoffs races. Since that’s what matters most right now, right?",
-      "url": "https://www.mlssoccer.com/news/philadelphia-union-extend-shield-lead-fc-cincinnati-miss-out-more-from-matchday-37",
-      "urlToImage": "https://images.mlssoccer.com/image/private/t_editorial_landscape_3_4_desktop/mls/ee7lvunp36pl5d4zivfp.jpg",
-      "source": "MLSsoccer.com",
-      "publishedAt": "2025-09-29T01:30:18Z"
-    },
-    {
-      "title": "After Malik Nabers injury, OBJ pleads with owners to dump turf for grass - NBC Sports",
-      "description": "The Giants fear that they've lost receiver Malik Nabers for the season, after a non-contact knee injury suffered by the second-year star in the second quarter of Sunday's game.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-malik-nabers-injury-obj-pleads-with-owners-to-dump-turf-for-grass",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9e4cef9/2147483647/strip/true/crop/3778x2125+0+197/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F27%2F3af56c3449328cffd9da5b913244%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27194427",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-29T01:26:45Z"
-    },
-    {
-      "title": "Eagles vs. Buccaneers: The good, the bad, and the ugly - Bleeding Green Nation",
-      "description": "Highlights and lowlights from Philadelphia’s Week 4 win.",
-      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-scores-results/159915/eagles-vs-buccaneers-the-good-the-bad-and-the-ugly",
-      "urlToImage": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2025/09/gettyimages-2237929768.jpg?quality=90&strip=all&crop=0%2C10.736701704507%2C100%2C78.526596590985&w=1200",
-      "source": "Bleeding Green Nation",
-      "publishedAt": "2025-09-29T01:26:00Z"
-    },
-    {
-      "title": "Rory McIlroy calls out 'unacceptable and abusive behavior' from Bethpage fans at Ryder Cup - AP News",
-      "description": "Rory McIlroy won the Ryder Cup and then called out the hostile New York crowd for “unacceptable and abusive behavior.” Over his five matches at Bethpage Black, McIlroy endured a torrent of insults about everything from his personal life to past failures on th…",
-      "url": "https://apnews.com/article/ryder-cup-rory-mcilroy-fans-behavior-86b5a189f6699a0734a77d27c9ebd8aa",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c444942/2147483647/strip/true/crop/2847x1601+0+148/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F32%2F6cc5613df9c141b7d0d8786a1948%2Fb400e9e209a7476da5fcb56214b2d47b",
+      "title": "Giants fire veteran manager Bob Melvin after two years as Buster Posey seeks 'different voice' - AP News",
+      "description": "Manager Bob Melvin has been fired by the San Francisco Giants after the club missed the playoffs for a fourth straight season. Giants President of Baseball Operations Buster Posey had shown his confidence in Melvin by exercising the veteran manager’s contract…",
+      "url": "https://apnews.com/article/giants-bob-melvin-fired-da8601e27e07ffec4713a1f188856480",
+      "urlToImage": "https://dims.apnews.com/dims4/default/94100ae/2147483647/strip/true/crop/5000x2813+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2Fb4%2F4dc82ec6a0be1ad3681db2a75e55%2Fb60d9afb9fa047b3bddb72ef802d1f4f",
       "source": "Associated Press",
-      "publishedAt": "2025-09-29T01:08:00Z"
+      "publishedAt": "2025-09-30T01:45:00Z"
     },
     {
-      "title": "Top 3 things we learned from Bills vs. Saints - Buffalo Bills",
-      "description": "Josh Allen's timely scrambles, big plays from Dalton Kincaid and Cole Bishop",
-      "url": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-saints",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bills/bawymkektklmhurlxtvv",
-      "source": "BuffaloBills.com",
-      "publishedAt": "2025-09-29T00:50:12Z"
+      "title": "Dolphins WR Tyreek Hill suffers a graphic knee injury and is carted off, taken to hospital - Yahoo Sports",
+      "description": "Hill suffered what looked to be a bad leg injury.",
+      "url": "https://sports.yahoo.com/nfl/article/dolphins-wr-tyreek-hill-suffers-a-graphic-knee-injury-and-is-carted-off-taken-to-hospital-005821049.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gM2mWKl6HOI22oYYD6YYUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/903f5310-9da1-11f0-b77d-8d2f83707423",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-30T01:26:00Z"
     },
     {
-      "title": "Keegan Bradley deserves blame for Team USA’s Ryder Cup disaster —including key mistake he’d like back - New York Post",
-      "description": "Once Europe retaining the Ryder Cup by defeating the U.S. 15-13 on Sunday sinks in, don’t lose sight of what occurred the first two days of these 45 matches.",
-      "url": "https://nypost.com/2025/09/28/sports/keegan-bradley-deserves-blame-for-uss-ryder-cup-disaster-including-key-mistake/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/15-13-win-team-united-112378052.jpg?quality=75&strip=all&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-09-29T00:49:00Z"
+      "title": "Bruce Bochy Will Not Return As Rangers Manager In 2026 - MLB Trade Rumors",
+      "description": "The Rangers will not be managed by Bruce Bochy in 2026 after the club missed the postseason this year. Read more at MLB Trade Rumors.",
+      "url": "https://www.mlbtraderumors.com/2025/09/bruce-bochy-will-not-return-as-rangers-manager-in-2026.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/05/bruce-bochy-rangers-manager-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2025-09-30T00:59:18Z"
     },
     {
-      "title": "Lamar Jackson suffered hamstring strain, further evaluation coming Monday - NBC Sports",
-      "description": "Ravens quarterback Lamar Jackson left Sunday's 37-20 loss to the Chiefs in the third quarter with a hamstring injury and there is expected to be more clarity about his status on Monday.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-suffered-hamstring-strain-further-evaluation-coming-monday",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4c0ecef/2147483647/strip/true/crop/4792x2696+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2F7c%2F5c726d2244b8a9f32a4047c8eceb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237950173",
+      "title": "Hamlin defends last-lap dive on Wallace at Kansas: ‘On Sunday, I am the driver’ - NASCAR.com",
+      "description": "In the latest episode of his \"Actions Detrimental\" podcast, Denny Hamlin said he holds no regrets for how he raced Bubba Wallace at Kansas.",
+      "url": "https://www.nascar.com/news-media/2025/09/29/cup-series-denny-hamlin-kansas-fallout-podcast-remarks-bubba-wallace/",
+      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2025/09/29/2025-sept29-denny-hamlin-kansas-main-image-672x372.jpg",
+      "source": "NASCAR",
+      "publishedAt": "2025-09-29T22:52:30Z"
+    },
+    {
+      "title": "Nick Sirianni has no question about A.J. Brown’s desire to be an Eagle - NBC Sports",
+      "description": "Sirianni said he has spoken to Brown about a tweet that seemed to suggest otherwise.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-has-no-question-about-a-j-browns-desire-to-be-an-eagle",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/abdab84/2147483647/strip/true/crop/3871x2177+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F18%2Fe8ef2a204e8bb6ea761afaf22712%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191807100",
       "source": "NBCSports.com",
-      "publishedAt": "2025-09-29T00:25:51Z"
+      "publishedAt": "2025-09-29T22:46:45Z"
     },
     {
-      "title": "David Stearns, Carlos Mendoza are on clock after Mets’ heartless flop - New York Post",
-      "description": "There will be calls for Mendoza’s job, and they are 100 percent fair. There will be those who lobby for David Stearns to answer for this, and that is equally just since Stearns just had as bad a ye…",
-      "url": "https://nypost.com/2025/09/28/sports/david-stearns-carlos-mendoza-are-on-clock-after-mets-heartless-flop/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-564bg0r5h-1759104267227.jpg?quality=75&strip=all&1759089921&w=1024",
+      "title": "After seven seasons, Twins part ways with manager Rocco Baldelli - Star Tribune",
+      "description": "Rocco Baldelli was the American League manager of the year in his first season with the Twins, but was fired Monday after missing the playoffs in four of the past five seasons.",
+      "url": "https://www.startribune.com/minnesota-twins-fire-manager-rocco-baldelli-derek-falvey-american-league-central/601480116",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/XB2VMCSHIRB5RIKY6T2AAVKEJQ.JPG?&w=1200&ar=1.91:1&fit=crop",
+      "source": "Minneapolis Star Tribune",
+      "publishedAt": "2025-09-29T21:22:30Z"
+    },
+    {
+      "title": "The Alexes, the aces and the rest of the Red Sox roadblocks staring down the Yankees - New York Post",
+      "description": "The historic battle is Red Sox vs. Yankees. The current context is the Alexes vs. the Aarons. Red Sox manager Alex Cora and third baseman Alex Bregman have as much as anyone stood in the way — frus…",
+      "url": "https://nypost.com/2025/09/29/sports/al-wild-card-the-red-sox-roadblocks-staring-down-the-yankees/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-344ae2b8x-1759178424794.jpg?quality=75&strip=all&1759164187&w=1024",
       "source": "New York Post",
-      "publishedAt": "2025-09-29T00:24:00Z"
+      "publishedAt": "2025-09-29T21:11:00Z"
     },
     {
-      "title": "This rule has to change before the next Ryder Cup, Keegan Bradley says - NBC Sports",
-      "description": "In the aftermath of his side’s defeat at Bethpage Black, the U.S. captain was already calling for a rule change.",
-      "url": "https://www.nbcsports.com/golf/news/this-rule-has-to-change-before-the-next-ryder-cup-keegan-bradley-says",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4c0f9d3/2147483647/strip/true/crop/3244x1825+0+169/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2Fbe%2F42edc9e943629074530101c94aac%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237662467",
+      "title": "Adonai Mitchell addressed Colts to start Monday’s team meeting - NBC Sports",
+      "description": "After committing a game-altering fumble out of the end zone in the second half of Sunday’s eventual loss to the Rams, Colts receiver Adonai Mitchell told reporters that his play was “unacceptable.”",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adonai-mitchell-addressed-colts-to-start-mondays-team-meeting",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4ef4c97/2147483647/strip/true/crop/5063x2848+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F05%2F442fc78e48c795be63f5d5913634%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237943805",
       "source": "NBCSports.com",
-      "publishedAt": "2025-09-29T00:12:49Z"
+      "publishedAt": "2025-09-29T21:07:17Z"
     },
     {
-      "title": "Oregon in OT? Virginia's stunner? Bama's redemption? Ranking the 25 best games of Week 5﻿﻿ - ESPN",
-      "description": "The heavyweight battles brought the goods, but there were even more thrillers. We rank Week 5's games.",
-      "url": "https://www.espn.com/college-football/story/_/id/46410952/college-football-week-5-recapping-25-amazing-games-alabama-georgia-oregon-penn-state",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0928%2Fr1552612_1296x729_16%2D9.jpg",
+      "title": "2025 MLB Postseason Power Rankings - Covering the Corner",
+      "description": "Looking at MLB’s playoff teams",
+      "url": "https://www.coveringthecorner.com/cleveland-guardians-analysis/62978/2025-mlb-postseason-power-rankings",
+      "urlToImage": "https://platform.coveringthecorner.com/wp-content/uploads/sites/69/2025/09/graphic-1.png?quality=90&strip=all&crop=0%2C30.366492146597%2C100%2C39.267015706806&w=1200",
+      "source": "Coveringthecorner.com",
+      "publishedAt": "2025-09-29T21:00:00Z"
+    },
+    {
+      "title": "Carlos Mendoza To Return As Mets’ Manager In 2026 - MLB Trade Rumors",
+      "description": "Despite their stunning collapse, the Mets aren't making a change at manager. Carlos Mendoza will be back in 2026. Read more at MLB Trade Rumors.",
+      "url": "https://www.mlbtraderumors.com/2025/09/carlos-mendoza-returns-mets-manager-2026.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/09/carlos-mendoza-mets-manager-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2025-09-29T20:03:46Z"
+    },
+    {
+      "title": "Big Ten Power Rankings: Oregon Overtakes Ohio State at No. 1; Indiana Enters Top 3 - FOX Sports",
+      "description": null,
+      "url": "https://www.foxsports.com/stories/college-football/big-ten-power-rankings-oregon-overtakes-ohio-state-no-1-indiana-enters-top-3",
+      "urlToImage": null,
+      "source": "Fox Sports",
+      "publishedAt": "2025-09-29T19:54:18Z"
+    },
+    {
+      "title": "MLB playoffs bold predictions: Experts give Wild Card stunners, World Series picks - FanSided",
+      "description": "FanSided's MLB experts make their postseason picks for each Wild Card series, the World Series, postseason MVP and LVP, and so much more.",
+      "url": "https://fansided.com/mlb/mlb-playoffs-bold-predictions-experts-wild-card-stunners-world-series-picks",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1917,h_1078/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/TheMoonshotcora-6d9bfeca2a511a2c8376a8a5288837dc.jpg",
+      "source": "FanSided",
+      "publishedAt": "2025-09-29T19:45:13Z"
+    },
+    {
+      "title": "John Harbaugh: Lamar Jackson was not re-entering the game, his injury precluded it - NBC Sports",
+      "description": "Harbaugh did not say anything about Jackson's potential availability for Week 5 on Monday, but the QB's injury was significant enough to sideline him on Sunday.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-lamar-jackson-was-not-re-entering-the-game-his-injury-precluded-it",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b140dfe/2147483647/strip/true/crop/5540x3116+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2Fae%2F2566f9a14aa7a4aa45dc6772cccc%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237951895",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-29T19:42:05Z"
+    },
+    {
+      "title": "Myles Garrett on Lions run offense: They’re gritty and tough, hats off to them - NBC Sports",
+      "description": "Lions offensive coordinator John Morton got some notice last week when he said \"I don't think they've seen a running game like ours\" when he was asked about the Browns allowing the fewest rushing yards in the league through the first three games.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-on-lions-run-ofense-theyre-gritty-and-tough-hats-off-to-them",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a4549a2/2147483647/strip/true/crop/4401x2476+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F01%2Fc9d1fb0d418e9e1eb147513eef21%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237683579",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-29T19:35:54Z"
+    },
+    {
+      "title": "Giants co-owner Mara being treated for cancer - ESPN",
+      "description": "Giants co-owner John Mara announced Monday that he recently was diagnosed with cancer and is following the treatment plan recommended by his doctors.",
+      "url": "https://www.espn.com/nfl/story/_/id/46423958/giants-co-owner-john-mara-undergoing-treatment-cancer",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0929%2Fr1553048_1296x729_16%2D9.jpg",
       "source": "ESPN",
-      "publishedAt": "2025-09-29T00:09:00Z"
+      "publishedAt": "2025-09-29T19:34:00Z"
     },
     {
-      "title": "Game Recap: Matthew Stafford's late 88-yard touchdown pass to Tutu Atwell, Kam Curl's second interception seal thrilling 27-20 Rams comeback win over Colts - Rams",
-      "description": "Rams overcome sluggish third quarter with timely playmaking in the fourth in Week 4 win over Colts at SoFi Stadium.",
-      "url": "https://www.therams.com/news/game-recap-rams-colts-week-4-2025",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/rams/rupug7h57uluonjwlqlk",
-      "source": "therams.com",
-      "publishedAt": "2025-09-29T00:00:00Z"
+      "title": "Nnamdi Madubuike’s Season Is Over, Long-Term Questions Linger - Baltimore Ravens",
+      "description": "Head Coach John Harbaugh said Nnamdi Madubuike will be the person to address his long-term prognosis.",
+      "url": "https://www.baltimoreravens.com/news/nnamdi-madubuike-season-over-injured-reserve-long-term-questions",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/srvfuyqhvyvhr0rdu3dj",
+      "source": "BaltimoreRavens.com",
+      "publishedAt": "2025-09-29T19:20:39Z"
     },
     {
-      "title": "Fever upset Aces, force deciding Game 5: How Aliyah Boston's career day saved Indiana's season - CBS Sports",
-      "description": "Game 5 will be played on Tuesday night in Las Vegas",
-      "url": "https://www.cbssports.com/wnba/news/fever-upset-aces-force-deciding-game-5-how-aliyah-bostons-career-day-saved-indianas-season/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/28/e7596e67-a6af-4cb9-94b8-91923d1546d2/thumbnail/1200x675/b81d1c56025fc25dabd4f5b001056d1c/untitled-design-11.png",
-      "source": "CBS Sports",
-      "publishedAt": "2025-09-28T23:52:00Z"
+      "title": "Rickie Collins, Fran Brown rewatched Duke loss immediately after game: ‘He’s who we need at quarterback’ - Syracuse.com",
+      "description": "Collins called Brown after the loss to Duke, and the two spent most of the night together at the Lally complex.",
+      "url": "https://www.syracuse.com/orangefootball/2025/09/rickie-collins-fran-brown-rewatched-duke-loss-immediately-after-game-hes-who-we-need-at-quarterback.html",
+      "urlToImage": "https://www.syracuse.com/resizer/v2/UXYVD72ISZGRROHJMR3SAFK7UA.jpg?auth=c4cbb4d032745d21ec27051c27aa32291e24bf394ff0729866866e87c89e2404&width=1280&smart=true&quality=90",
+      "source": "syracuse.com",
+      "publishedAt": "2025-09-29T19:08:00Z"
     },
     {
-      "title": "Alex Cora announces Red Sox Game 2 starter for Wild Card Series vs. Yankees - MassLive",
-      "description": "The Red Sox' Game 2 starter has a 2.35 ERA in 11 career starts vs. the Yankees.",
-      "url": "https://www.masslive.com/redsox/2025/09/alex-cora-announces-red-sox-game-2-starter-for-wild-card-series-vs-yankees.html",
-      "urlToImage": "https://www.masslive.com/resizer/v2/QXESHAQKTJHCZPQJBMO4YOFXCU.jpg?auth=3f56a8ea46d6299308433eccb6e98da97ad2bcf2694904a8c053aa68b32e673c&width=1280&smart=true&quality=90",
-      "source": "MassLive.com",
-      "publishedAt": "2025-09-28T23:41:00Z"
-    },
-    {
-      "title": "Jaguars use four 49ers turnovers for 26-21 win - NBC Sports",
-      "description": "Travis Etienne ran for 124 yards and the Jaguars defense forced four San Francisco turnovers in a 26-21 win.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-use-four-49ers-turnovers-for-26-21-win",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f83ea12/2147483647/strip/true/crop/4855x2731+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F70%2F752dacdb47d581c45c35f056dd28%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237931572",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-28T23:36:29Z"
+      "title": "Arkansas football fires defensive coordinator Travis Williams, more defensive staff - Whole Hog Sports",
+      "description": "Whole Hog Sports",
+      "url": "https://www.wholehogsports.com/news/2025/sep/29/report-arkansas-football-fires-defensive-coordinator-travis-williams/",
+      "urlToImage": "https://wehco.media.clients.ellingtoncms.com/img/photos/2025/09/29/Untitled_design_7_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+      "source": "WholeHogSports",
+      "publishedAt": "2025-09-29T19:07:30Z"
     }
   ]
 }

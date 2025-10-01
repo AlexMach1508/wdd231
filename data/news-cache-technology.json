@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2025-09-30T06:40:13.072Z",
+  "updatedAt": "2025-10-01T06:39:42.517Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "ROG Xbox Ally X Buying Guide - Preorders Available At Best Buy (September 29) - GameSpot",
-      "description": "The Xbox-branded Asus ROG Ally releases October 16 with two different editions priced at $600/$1,000.",
-      "url": "https://www.gamespot.com/articles/rog-xbox-ally-preorder-guide/1100-6535007/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4574329-xboxrogallypreorders.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-09-29T04:27:29Z"
-    },
-    {
-      "title": "One of Destiny 2's Biggest Streamers Is Stepping Away Amid Ongoing Player Frustration With the State of the Game, Saying He's \"Tired\" of Relentless Community Toxicity: \"Community Will Push Me Out Well Before the Game Does\" - The Game Post",
-      "description": "Another top Destiny 2 streamer, Datto, has announced that he's stepping away from the game, joining GrenaderJake and Gladd in taking a break amid burnout and frustration.",
-      "url": "https://thegamepost.com/destiny-2-biggest-streamers-stepping-away-game-tired-community-toxicity/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/09/destiny-2-biggest-streamers-stepping-away-game-tired-community-toxicity-5.webp",
-      "source": "Thegamepost.com",
-      "publishedAt": "2025-09-28T22:24:55Z"
-    },
-    {
-      "title": "Tweets of the Week: Miz beat up on golf course, Darby Allin body bag stunt, more! - Cageside Seats",
-      "description": "Let’s have some fun with social media again.",
-      "url": "https://www.cagesideseats.com/cageside-seats-features/386066/tweets-of-the-week-miz-beat-up-on-golf-course-darby-allin-body-bag-stunt-more",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/09/Screenshot-2025-09-28-at-00-04-50-Instagram.png?quality=90&strip=all&crop=0,34.255796559461,100,31.488406881077",
-      "source": "Cageside Seats",
-      "publishedAt": "2025-09-28T22:00:00Z"
-    },
-    {
-      "title": "New MacBook Pro Nears Mass Production, But Four Bigger Upgrades Expected Next Year - MacRumors",
-      "description": "Apple's next MacBook Pro models will enter mass production soon, according to the latest information shared by Bloomberg's Mark Gurman.   In...",
-      "url": "https://www.macrumors.com/2025/09/28/next-macbook-pro-nears-mass-production-report/",
-      "urlToImage": "https://images.macrumors.com/t/sbQEiSsX5TFjzeIHvxvIsvkG4W0=/3840x/article-new/2024/10/Apple-MacBook-Pro-M4-hero.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-28T21:08:35Z"
-    },
-    {
-      "title": "Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades - The Verge",
-      "description": "There’s no plans for a public release of Apple’s internal Veritas chatbot and will likely lean on Google’s Gemini for Siri’s AI-powered search.",
-      "url": "https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485663/Siri_new_logo_WWDC_2024.jpg?quality=90&strip=all&crop=0%2C2.2344358700777%2C100%2C95.531128259845&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-28T21:01:41Z"
-    },
-    {
-      "title": "Apple Continues to Prepare iOS 26.0.1 With Multiple Bug Fixes Expected - MacRumors",
-      "description": "Apple is preparing to release iOS 26.0.1, according to a private account on X with a proven track record of sharing information about future iOS...",
-      "url": "https://www.macrumors.com/2025/09/28/ios-26-0-1-what-to-expect/",
-      "urlToImage": "https://images.macrumors.com/t/QJs0KuD-HEuIAd8ioge9O3lG8As=/2500x/article-new/2025/09/iOS-26.0.1-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-28T20:30:00Z"
-    },
-    {
-      "title": "These Are The Rarest Ford Vehicles You've Probably Never Heard Of - Jalopnik",
-      "description": "Some of the rarest Fords ever built include models like the Fairlane 500 R-Code, Mustang V10, Mustang McLaren M81, Escort RS1700T, and GTX1 Roadster.",
-      "url": "https://www.jalopnik.com/1976913/rarest-ford-vehicles-never-heard-of/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/these-are-the-rarest-ford-vehicles-youve-probably-never-heard-of/l-intro-1758655014.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2025-09-28T20:05:00Z"
-    },
-    {
-      "title": "Google Pixel 10 vs. Pixel 10 Pro - GSMArena.com",
-      "description": "Which small Pixel is the right fit for you? For another year, Google's hardware department is outing not one but two compact-sized flagship phones. You've...",
-      "url": "https://www.gsmarena.com/google_pixel_10_vs_pixel_10_pro_review_battery_camera_price_compared-news-69594.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/09/google-pixel-10-vs-pixel-10-pro/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2025-09-28T20:04:01Z"
-    },
-    {
-      "title": "Here’s how Apple Stores are combating iPhone 17 scratches - 9to5Mac",
-      "description": "Apple Stores are taking two important steps to try and prevent scratches and marks on their display units. Since the...",
-      "url": "https://9to5mac.com/2025/09/28/heres-how-apple-stores-are-combating-iphone-17-scratches/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Apple-Ginza-Japan-media-preview-interior.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-28T18:47:00Z"
-    },
-    {
-      "title": "Persona 3 Reload director discusses the \"graphics quality\" of the Switch 2 version - GoNintendo",
-      "description": "Does Reload need a revamp?",
-      "url": "https://gonintendo.com/contents/53374-persona-3-reload-director-discusses-the-graphics-quality-of-the-switch-2-version",
-      "urlToImage": "https://gonintendo.com/attachments/image/71293/file/medium-12cd74c1d5a6f2b8b3b81029b0e8cf7f.jpg",
+      "title": "Decades-old Nintendo Power issue explains Nintendo's choice of A/B/X/Y buttons - GoNintendo",
+      "description": "Buttoned up",
+      "url": "https://www.gonintendo.com/contents/53405-decades-old-nintendo-power-issue-explains-nintendo-s-choice-of-a-b-x-y-buttons",
+      "urlToImage": "https://gonintendo.com/attachments/image/71333/file/medium-b2c122ff0ffb9f53268f95fcb1f426e3.jpg",
       "source": "GoNintendo",
-      "publishedAt": "2025-09-28T18:17:09Z"
+      "publishedAt": "2025-09-30T04:01:23Z"
     },
     {
-      "title": "Pokémon GO Events This Week (29 September – 5 October 2025) - Pokémon GO Hub",
-      "description": "Pokémon GO’s September 29 to October 5 schedule brings to a close the first month in of the Tales of Transformation season! Enjoy the Steel Skyline event, Mega Metagross Raid Day and more! Plus weekly Spotlight Hour, daily Raid/ Hours, Dynamax Battles, Mega R…",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-29-september-5-october-2025/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/09/unnamed-2.jpg",
-      "source": "Pokemon GO Hub",
-      "publishedAt": "2025-09-28T18:16:35Z"
+      "title": "Xbox sale round-up September 30, 2025 - TrueAchievements",
+      "description": "New Xbox sales are now live, with big discounts on Dying Light, Cuphead, Dragon Ball FighterZ, Insurgency: Sandstorm, Dragon Ball Xenoverse 2, Naruto Shippuden: Ultimate Ninja Storm 4, Dying Light 2: Stay Human and more",
+      "url": "https://www.trueachievements.com/n60363/xbox-sale-roundup-september-30-2025",
+      "urlToImage": "https://www.trueachievements.com/imgs/113479/xbox-weekly-sales.jpg",
+      "source": "TrueAchievements",
+      "publishedAt": "2025-09-30T00:20:59Z"
     },
     {
-      "title": "Ferrari's Family Car Is Now Cheaper Than A Brand-New BMW M5 - CarBuzz",
-      "description": "While the new BMW M5 is as much of a powerhouse as ever, if you play the used market correctly, you could have Ferrari's family car for less.",
-      "url": "https://carbuzz.com/ferrari-ff-family-car-cheaper-than-bmw-m5/",
-      "urlToImage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/04/2012-ferrari-ff.jpg?w=1600&h=900&fit=crop",
-      "source": "CarBuzz",
-      "publishedAt": "2025-09-28T18:08:00Z"
+      "title": "Reddit Mods Sued by YouTuber Ethan Klein Fight Efforts to Unmask Them - 404 Media",
+      "description": "Klein has attempted to subpoena Discord and Reddit for information that would reveal the identity of moderators of a subreddit critical of him. The moderators' lawyers fear their clients will be physically attacked if the subpoenas go through.",
+      "url": "https://www.404media.co/reddit-mods-sued-by-youtuber-ethan-klein-fight-efforts-to-unmask-them/",
+      "urlToImage": "https://www.404media.co/content/images/size/w1200/2025/09/Klein.png",
+      "source": "404media.co",
+      "publishedAt": "2025-09-30T00:20:01Z"
     },
     {
-      "title": "This Week’s Japanese Game Releases: Ghost of Yotei, Digimon Story: Time Stranger, Final Fantasy Tactics: The Ivalice Chronicles, more - Gematsu",
-      "description": "Ghost of Yotei for PlayStation 5, Digimon Story: Time Stranger for PlayStation 5, Xbox Series, and PC, and Final Fantasy Tactics: The Ivalice Chronicles for PlayStation 5, Xbox Series, Switch 2, Pl…",
-      "url": "https://www.gematsu.com/2025/09/this-weeks-japanese-game-releases-ghost-of-yotei-digimon-story-time-stranger-final-fantasy-tactics-the-ivalice-chronicles-more",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/09/Weekly-Japanese-Game-Releases_09-28-25.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2025-09-28T17:45:10Z"
+      "title": "WhatsApp for iOS gets Live Photos support - 9to5Mac",
+      "description": "Today, Meta officially confirmed what some WhatsApp users had already been noticing for the past few days: the app now supports Live Photos.",
+      "url": "https://9to5mac.com/2025/09/29/whatsapp-for-ios-gets-live-photos-support/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-29T23:21:00Z"
     },
     {
-      "title": "MSI confirms MAX and EVO refresh motherboards feature 64MB BIOS - VideoCardz.com",
-      "description": "MSI talks about its MAX/EVO motherboards MSI has clarified the meaning behind the “MAX” and “EVO” suffixes introduced in its mid-generation refresh of AMD 800 series motherboards. The first wave of X870 and X870E boards launched on September 30, 2024, making …",
-      "url": "https://videocardz.com/newz/msi-confirms-max-and-evo-refresh-motherboards-feature-64mb-bios",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/09/MSI-MAX-EVO-HERO.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2025-09-28T17:28:00Z"
+      "title": "Microsoft is bringing its Windows engineering teams back together again - The Verge",
+      "description": "Microsoft has announced an internal reorg of its Windows teams. The server and client engineering teams are now under a single leader again.",
+      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-29T22:07:32Z"
     },
     {
-      "title": "I tried this OneNote, Google Keep, and Evernote alternative on Android and it blew my mind - Android Police",
-      "description": "This unknown note-taking app deserves your attention",
-      "url": "https://www.androidpolice.com/tried-onenote-google-keep-evernote-alternative-on-android/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/reasons-to-use-hypernotes-on-android.png?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2025-09-28T17:14:00Z"
+      "title": "\"Scientists Built Water-Walking Robots\": University Team Creates Insect-Inspired Machines While Polymer Technology Revolution Changes Disaster Response Forever - Energy Reporters",
+      "description": "Researchers at the University of Virginia have made a groundbreaking advancement in robotics, drawing inspiration from nature's own engineers—water striders.",
+      "url": "https://www.energy-reporters.com/news/scientists-built-water-walking-robots-university-team-creates-insect-inspired-machines-while-polymer-technology-revolution-changes-disaster-response-forever/",
+      "urlToImage": "https://www.energy-reporters.com/wp-content/uploads/2025/09/these-incredible-robots-shatter-beliefs-by-walking-on-water-scientists-reveal-mind-blowing-aquatic-feat-that-changes-everything.jpg",
+      "source": "Energy-reporters.com",
+      "publishedAt": "2025-09-29T21:53:38Z"
     },
     {
-      "title": "BrokenLore: DON’T LIE announced for PS5, Xbox Series, and PC - Gematsu",
-      "description": "Publisher Wired Productions and developer Serafini Productions have announced BrokenLore: DON’T LIE, the new BrokenLore game previously teased for a Tokyo Game Show 2025 reveal. It will be av…",
-      "url": "https://www.gematsu.com/2025/09/brokenlore-dont-lie-announced-for-ps5-xbox-series-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/09/BrokenLore-DONT-LIE_2025_09-28-25_007.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2025-09-28T17:11:55Z"
+      "title": "Ask HN: What are you working on? (September 2025) - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45418675",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-09-29T21:20:19Z"
     },
     {
-      "title": "Outward 2 launches in summer 2026 - Gematsu",
-      "description": "Outward 2 will launch for PC via Steam in summer 2026, developer Nine Dots Studio announced.",
-      "url": "https://www.gematsu.com/2025/09/outward-2-launches-in-summer-2026",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/09/Outward-2-Window_09-28-25.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2025-09-28T16:55:56Z"
+      "title": "PlayStation is getting a big, fancy art book full of unused designs - The Verge",
+      "description": "Available early next year, PlayStation: The First 30 Years highlights Sony Interactive Entertainment prototypes, concepts, and design models across 400 pages.",
+      "url": "https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/playstation1.jpg?quality=90&strip=all&crop=0%2C10.718894944178%2C100%2C78.562210111644&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-29T21:00:20Z"
     },
     {
-      "title": "Another SpaceX Test Gone Wrong - Here's Why Metal Tiles Aren't Going To Work - SlashGear",
-      "description": "SpaceX is determined to build a rocket that can reach Mars. However, another test has gone wrong. Here's what you need to know about its metal tile failure.",
-      "url": "https://www.slashgear.com/1975156/spacex-test-goes-wrong-reason-metal-tiles-problem-solution/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/another-spacex-test-gone-wrong-heres-why-metal-tiles-arent-going-to-work/l-intro-1758554422.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2025-09-28T16:45:00Z"
+      "title": "5 under-the-radar games to check out in Steam's big autumn sale - Polygon",
+      "description": "From short and sweet summer adventures to the coolest action games you've never heard of, Steam's sale has got plenty for the discerning PC gamer",
+      "url": "https://www.polygon.com/when-is-steam-sale-autumn-what-to-buy-pc-gaming/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/shooter2.JPG?w=1200&h=675&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2025-09-29T20:16:00Z"
     },
     {
-      "title": "Blizzard has to put aside Diablo 4's \"super high\" expectations to move forward, series creator David Brevik says - PCGamesN",
-      "description": "We ask Diablo co-creator David Brevik about the challenges faced by Diablo 4 today, and if he likes Diablo 2 Resurrected's preservation.",
-      "url": "https://www.pcgamesn.com/diablo-4/david-brevik-interview-expectations-preservation",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/david-brevik-interview-diablo-4-thoughts-d2r-impressions-arpgs-vs-roguelikes.jpg",
-      "source": "PCGamesN",
-      "publishedAt": "2025-09-28T16:28:29Z"
+      "title": "How Apple is fixing #scratchgate on the iPhone 17 Pro models in Apple Stores and why it is important - PhoneArena",
+      "description": "Apple wants demo iPhone 17 Pro and Pro Max models in the Apple Store to look pristine.",
+      "url": "https://www.phonearena.com/news/apple-fixing-scratchgate-demo-iphone-17-pro-models_id174490",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/174490-wide-two_1200/How-Apple-is-fixing-scratchgate-on-the-iPhone-17-Pro-models-in-Apple-Stores-and-why-it-is-important.jpg",
+      "source": "PhoneArena",
+      "publishedAt": "2025-09-29T19:57:06Z"
     },
     {
-      "title": "Snapdragon 8 Elite Gen 5 dominates Apple's A19 Pro in gaming tests aboard the Xiaomi 17 Pro Max - Notebookcheck",
-      "description": "The Xiaomi 17 Pro Max and Apple's iPhone 17 Pro Max are the two most powerful smartphones on the market at the moment. Gaming tests show, however, that the Snapdragon 8 Elite Gen 5-powered phone holds consistent advantages in gaming performance, efficiency, a…",
-      "url": "https://www.notebookcheck.net/Snapdragon-8-Elite-Gen-5-dominates-Apple-s-A19-Pro-in-gaming-tests-aboard-the-Xiaomi-17-Pro-Max.1126322.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-pro-max-AnRan0420-3.jpg",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2025-09-28T16:27:00Z"
+      "title": "Florida woman wins Mortal Kombat tournament playing with newborn baby in arms - Dexerto",
+      "description": "A mother is going viral after winning a Mortal Kombat tournament while holding her five-day-old daughter in her arms.",
+      "url": "https://www.dexerto.com/mortal-kombat/florida-woman-wins-mortal-kombat-tournament-playing-with-newborn-baby-in-arms-3259005/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/09/29/mom-wins-mortal-kombat-tournament-with-newborn-in-arms.jpg",
+      "source": "Dexerto",
+      "publishedAt": "2025-09-29T19:49:06Z"
+    },
+    {
+      "title": "Microsoft just added AI agents to Word, Excel, and PowerPoint - how to use them - ZDNET",
+      "description": "Available for Microsoft 365 Copilot users, the new agents will help you create, edit, and analyze your documents, spreadsheets, and presentations.",
+      "url": "https://www.zdnet.com/article/microsoft-just-added-ai-agents-to-word-excel-and-powerpoint-how-to-use-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/02fac8e791bb3924c21c94e8692282a950d60316/2025/09/29/f6711e9b-47eb-4926-a3a3-25f7ddb05df3/ms-sign5556gettyimages-2205047725.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-09-29T19:34:00Z"
+    },
+    {
+      "title": "F-Droid says Google’s new sideloading restrictions will kill the project - Ars Technica",
+      "description": "F-Droid sees Google’s plans as a threat to FOSS apps.",
+      "url": "https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-29T19:09:24Z"
+    },
+    {
+      "title": "MTG Announces Secret Lair: The PlayStation Superdrop - Star City Games",
+      "description": "The Last of Us, God of War, and more iconic PlayStation titles come to Magic in new Superdrop",
+      "url": "https://articles.starcitygames.com/magic-the-gathering/mtg-announces-secret-lair-the-playstation-superdrop/",
+      "urlToImage": "https://scg-static.starcitygames.com/articles/2025/09/93ba8794-copy-of-copy-of-article-summary-card-202260.png",
+      "source": "Starcitygames.com",
+      "publishedAt": "2025-09-29T18:24:28Z"
+    },
+    {
+      "title": "Apple's iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 updates fix multiple issues - AppleInsider",
+      "description": "Apple has released updates for iOS 26.0.1, macOS Tahoe 26.0.1, and others with the patches fixing various issues in both operating systems.",
+      "url": "https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/65263-136428-64774-135230-63919-132965-Apple-WWDC25-iOS-26-hero-250609-xl-xl-xl.jpg",
+      "source": "AppleInsider",
+      "publishedAt": "2025-09-29T17:43:00Z"
+    },
+    {
+      "title": "Pokémon Partners With GameStop To Give Out Shinies, Goes Poorly - Kotaku",
+      "description": "The store is giving out free codes for Scarlet and Violet. Well, they’re supposed to be free",
+      "url": "https://kotaku.com/pokemon-shiny-koraidon-miraidon-gamestop-codes-scalper-2000629926",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/bafkreifctucywa3yyxv7lxp652yx6aw-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-09-29T17:18:15Z"
+    },
+    {
+      "title": "😸 Is ChatGPT Pulse OpenAI's first attempt at a social network?? - The Neuron",
+      "description": "OpenAI's Pulse feature makes ChatGPT proactive. Plus AI passes brutal CFA exam, enables psychedelic states, and produces 160K automated podcast episodes for $1.",
+      "url": "https://www.theneurondaily.com/p/is-chatgpt-pulse-openai-s-first-attempt-at-a-social-network",
+      "urlToImage": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/94a4a277-4ea3-4723-9236-2a240553f412/The_Neuron_Header_-_9.29.2025.png?t=1759104589",
+      "source": "Theneurondaily.com",
+      "publishedAt": "2025-09-29T17:03:45Z"
+    },
+    {
+      "title": "33.6 Patch Notes — Hearthstone - Blizzard News",
+      "description": "Preview Hearthstone’s upcoming Across the Timeways expansion, check out the big Battlegrounds update, and explore what else is new in Patch 33.6.",
+      "url": "https://news.blizzard.com/en-us/article/24232759/33-6-patch-notes",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/xb/XBUT21T86CY51758411254241.jpg",
+      "source": "Blizzard.com",
+      "publishedAt": "2025-09-29T16:55:00Z"
     }
   ]
 }
