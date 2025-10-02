@@ -1,23 +1,127 @@
 {
-  "updatedAt": "2025-10-01T06:39:42.886Z",
+  "updatedAt": "2025-10-02T06:38:14.182Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "‘Reading Rainbow’ Returns: Classic PBS Show Rebooted 20 Years After Final Episode - The Hollywood Reporter",
-      "description": "The revival will live as a digital series through Sony's Kidzuko platform, with creator Mychal Threets serving as host.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/reading-rainbow-returns-pbs-show-youtube-mychal-threets-1236388745/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2224559174.jpg?crop=0px%2C22px%2C3183px%2C1781px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-30T01:42:04Z"
+      "title": "‘Dancing With The Stars’ Week 3: See Who Said She Was “Pissed” After Getting The Boot - Deadline",
+      "description": "Dancing with the Stars week 3 results: Who went home on TikTok Night",
+      "url": "http://deadline.com/2025/09/dancing-with-the-stars-week-3-who-went-home-1236566890/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/179226_EM209078.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-01T02:01:00Z"
     },
     {
-      "title": "Kimmel Corporate Fallout Continues: Irate Shareholders Have Nothing Yet From Disney About Suspension; Legal Threat Looms With Tuesday Expiration Date For Documents - Deadline",
-      "description": "Jimmy Kimmel's benching could find Disney's board, CEO & other execs in legal hot water unless they handed over documents ASAP about what really went down",
-      "url": "http://deadline.com/2025/09/kimmel-disney-shareholders-deadline-legal-threat-1236565674/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Jimmy-Kimmel-and-Bob-Iger.jpg?w=1024",
+      "title": "With ‘One Battle After Another,’ Paul Thomas Anderson Captures the Shortcomings of His Generation - The Hollywood Reporter",
+      "description": "Though Leonardo DiCaprio's Bob, Anderson explores limits and frustrations of a revolutionary in an America where the disenfranchisement of Black and Latino populations has grown beyond his generation's ability to combat.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-features/one-battle-after-another-leonardo-dicaprio-2-1236389167/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/rev-1-OBAA-SS-p3d65_High_Res_JPEG-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-01T00:56:15Z"
+    },
+    {
+      "title": "End Of The Road: Sean Combs Denied New Trial Or Acquittal; Sentencing In Sex-Trafficking Case This Week - Deadline",
+      "description": "Having run out of court options for now, Diddy is now looking at how much prison time his Oct. 3 sentencing on prostitution charges will bring",
+      "url": "http://deadline.com/2025/09/diddy-no-new-trial-1236556188/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/Diddy-1.jpg?w=1024",
       "source": "Deadline",
-      "publishedAt": "2025-09-30T01:30:00Z"
+      "publishedAt": "2025-10-01T00:22:00Z"
+    },
+    {
+      "title": "Tyrese Gibson failed to turn himself in following arrest warrant for cruelty to animals, police say - AP News",
+      "description": "Georgia police say Tyrese Gibson failed to turn himself in late last week after an arrest warrant was issued for cruelty to animals. The warrant was issued for the “Fast & Furious” actor after his four Cane Corso dogs mauled and killed a neighbor’s dog in Geo…",
+      "url": "https://apnews.com/article/tyrese-gibson-arrest-warrant-cane-corso-dogs-010afb04823cfc197943b29cb047a0b0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8f65291/2147483647/strip/true/crop/2500x1406+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2Ffe%2Fc18182d09bb554e60c8a813cc016%2F3d8bebf4a74a4454a3a4c0489d3e0fb3",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-30T23:44:00Z"
+    },
+    {
+      "title": "Nicole Kidman files for divorce from Keith Urban, citing \"irreconcilable differences\" - CBS News",
+      "description": "Nicole Kidman and Keith Urban have been married since 2006 and have two daughters together.",
+      "url": "https://www.cbsnews.com/news/nicole-kidman-files-divorce-keith-urban/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/30/76886af2-93f8-4e7c-bef2-70bfc639de16/thumbnail/1200x630/bfa9a688d8075dec7165556f2988ddaa/gettyimages-2214162692.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-30T22:15:00Z"
+    },
+    {
+      "title": "'Reading Rainbow' to return, with viral librarian Mychal Threets as its host - NBC News",
+      "description": "Young readers can once again be like butterflies in the sky.",
+      "url": "https://www.nbcnews.com/news/nbcblk/reading-rainbow-reboot-viral-librarian-mychal-threets-host-rcna234777",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/240929-Mychal-Threets-ew-316p-4b4aad.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-30T21:06:33Z"
+    },
+    {
+      "title": "AI-generated actress Tilly Norwood sparks Hollywood backlash - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.go.com/GMA/Culture/ai-generated-actress-tilly-norwood-sparks-hollywood-backlash/story?id\\\\u003d126081156",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-30T21:00:00Z"
+    },
+    {
+      "title": "All the Easter eggs we saw at the Taylor Swift Spotify pop-up, from new lyrics to handwritten notes - Page Six",
+      "description": "Page Six got a sneak peek at the pop-up on opening day.",
+      "url": "https://pagesix.com/2025/09/30/entertainment/all-the-easter-eggs-we-saw-at-the-taylor-swift-spotify-pop-up/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/09/112510952.jpg?quality=75&strip=all&w=1024",
+      "source": "Page Six",
+      "publishedAt": "2025-09-30T20:57:00Z"
+    },
+    {
+      "title": "Texas official declares culture war over Bad Bunny Super Bowl choice - Chron",
+      "description": "Ken Paxton weighed in on Bad Bunny's upcoming Super Bowl show, calling for a replacement to bring patriotism back to the NFL halftime show.",
+      "url": "https://www.chron.com/politics/article/paxton-bad-bunny-superbowl-halftime-21074876.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/37/22/52/24980113/3/rawImage.jpg",
+      "source": "Chron.com",
+      "publishedAt": "2025-09-30T20:37:30Z"
+    },
+    {
+      "title": "J.K. Rowling Unloads on Emma Watson for Being ‘Ignorant to How Ignorant She Is’ on the Trans Issue - Megyn Kelly – The Devil May Care",
+      "description": "Megyn and Stu Burguiere react to J.K. Rowling's 'surgical' response to 'Harry Potter' actress Emma Watson.",
+      "url": "https://www.megynkelly.com/2025/09/30/jk-rowling-unloads-on-emma-watson-for-being-ignorant-on-trans-issue/",
+      "urlToImage": "https://mk-a1.freetls.fastly.net/uploads/2025/09/93025_JKRowling-600x315.jpeg",
+      "source": "Megynkelly.com",
+      "publishedAt": "2025-09-30T19:50:52Z"
+    },
+    {
+      "title": "David Cross Slams Bill Burr, Dave Chappelle and Others Performing at Saudi Comedy Festival: “Disgusted” - The Hollywood Reporter",
+      "description": "In a scathing open letter, Cross is the latest to criticize his fellow comedians for participating in the Riyadh Comedy Festival: \"I am deeply disappointed in this whole gross thing. How can any of us take you seriously again?\"",
+      "url": "http://www.hollywoodreporter.com/news/general-news/david-cross-bill-burr-dave-chappelle-riyadh-comedy-festival-1236388959/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2019/05/david-cross-ashville-orange-peel-8619-h_2019.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-30T19:07:30Z"
+    },
+    {
+      "title": "Josh Hartnett hospitalized after car crash with police vehicle while in Canada filming Netflix series - NBC News",
+      "description": "Josh Hartnett is back to work after being hospitalized because of a car crash last week in Canada, his representatives said Tuesday.",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/josh-hartnett-hospitalized-car-crash-police-vehicle-canada-filming-net-rcna234666",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250930-josh-hartnett-rs-c69c80.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-30T15:37:38Z"
+    },
+    {
+      "title": "Country star’s wife slams ‘shallow’ comments about husband’s weight loss - MassLive",
+      "description": "\"I think the most appropriate thing here to say is he looks so much more healthier.\"",
+      "url": "https://www.masslive.com/entertainment/2025/09/country-stars-wife-slams-shallow-comments-about-husbands-weight-loss.html",
+      "urlToImage": "https://www.masslive.com/resizer/v2/537FGCGUOFBLBGHR643RPHUO2A.jpg?auth=b51c1f3638d6b3b8d3194ffb9f92d809460a6c65720abeac666b7308a7055f9c&width=1280&smart=true&quality=90",
+      "source": "MassLive.com",
+      "publishedAt": "2025-09-30T15:23:00Z"
+    },
+    {
+      "title": "We Now Have Our Ted Lasso of College Football. It’s Surprisingly Great. - Slate",
+      "description": "Chad Powers feels true to the scenery and the characters of college football.",
+      "url": "https://slate.com/culture/2025/09/glen-powell-chad-powers-show-eli-manning-hulu-football.html",
+      "urlToImage": "https://compote.slate.com/images/7cd007cf-1e26-486f-9c31-2ad6f88a51c0.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "source": "Slate Magazine",
+      "publishedAt": "2025-09-30T15:00:00Z"
+    },
+    {
+      "title": "Daily Horoscope Predictions for Each Sign for September 30, 2025 - TODAY.com",
+      "description": "Read your daily horoscope for Tuesday, Sept. 30 for every Zodiac sign.",
+      "url": "https://www.today.com/life/astrology/daily-horoscope-september-30-rcna226612",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-09/daily-horoscope-sept30-cz-250403-ec0644.jpg",
+      "source": "TODAY",
+      "publishedAt": "2025-09-30T09:00:00Z"
     },
     {
       "title": "Body Found in D4vd’s Tesla: Cops Explain Lack of Named Suspects, Charges - Rolling Stone",
@@ -26,86 +130,6 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/D4vd-cops-explain.jpg?crop=0px%2C83px%2C1800px%2C1014px&resize=1600%2C900",
       "source": "Rolling Stone",
       "publishedAt": "2025-09-29T23:53:02Z"
-    },
-    {
-      "title": "David Cross Slams Bill Burr For Performing at Riyadh Comedy Festival - Variety",
-      "description": "David Cross shared a statement slamming Bill Burr and other comedians for performing at Saudi Arabia's Riyadh Comedy Festival.",
-      "url": "https://variety.com/2025/tv/news/david-cross-slams-bill-burr-riyadh-comedy-festival-1236534601/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-1146598526.jpg?crop=0px%2C62px%2C3000px%2C1687px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-09-29T23:35:00Z"
-    },
-    {
-      "title": "Emily Blunt Calls AI Actress Tilly Norwood ‘Really Scary’ and Warns Hollywood Agencies: ‘Don’t Do That’ - Variety",
-      "description": "Emily Blunt learned mid-interview about AI-generated actress Tilly Norwood, revealed at the Zurich Summit and already attracting talent agents.",
-      "url": "https://variety.com/2025/film/news/emily-blunt-ai-actress-tilly-norwood-reaction-1236534547/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/05/GettyImages-2150896970.jpg?crop=0px%2C186px%2C4995px%2C2812px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-09-29T22:31:00Z"
-    },
-    {
-      "title": "Bad Bunny’s Super Bowl Halftime Show Will Make History for Being Entirely in Spanish - Rolling Stone",
-      "description": "Bad Bunny is set to deliver the first Super Bowl halftime performance in Spanish.",
-      "url": "http://www.rollingstone.com/music/music-news/bad-bunny-super-bowl-lx-halftime-show-non-english-spanish-1235437568/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/bad-bunny-spanish-only.jpg?crop=0px%2C171px%2C1800px%2C1014px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-29T22:27:05Z"
-    },
-    {
-      "title": "‘One Battle After Another’: How Leonardo DiCaprio’s Radical Action Pic Fared In Blue & Red Counties - Deadline",
-      "description": "'One Battle After Another' about government radicals, played heavily in blue county theaters.",
-      "url": "http://deadline.com/2025/09/one-battle-after-another-box-office-blue-red-states-1236565307/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/MCDONBA_WB033.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-29T21:06:00Z"
-    },
-    {
-      "title": "All About Selena Gomez’s Breathtaking Halter Wedding Dress (And Her Sheer Second Gown) - instyle.com",
-      "description": "Selena Gomez wore two Ralph Lauren dresses at her wedding to producer Benny Blanco. Here’s every detail about her stunning bridal looks.",
-      "url": "https://www.instyle.com/selena-gomez-wedding-dress-designer-details-11820620",
-      "urlToImage": "https://www.instyle.com/thmb/6N-p8pbGcSVfmDegBrfzZccqqwQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22354801262-11e8920fa7c34127b3942e30ceaa6454.jpg",
-      "source": "InStyle",
-      "publishedAt": "2025-09-29T19:06:10Z"
-    },
-    {
-      "title": "Sydney Sweeney and Glen Powell have 'Anyone But You' reunion at her space-themed birthday party - Entertainment Weekly",
-      "description": "Glen Powell has touched down on Planet Syd! The actor recently reunited with his 'Anyone But You' costar Sydney Sweeney at her space-themed birthday party.",
-      "url": "https://ew.com/sydney-sweeney-and-glen-powell-reunite-at-her-space-themed-birthday-party-11820756",
-      "urlToImage": "https://ew.com/thmb/MCT77fgOOxBGDlrJMZI2FbNX2Hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Anyone-But-You-111623-7666423eee284a38aa4a8901cd887613.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2025-09-29T18:56:55Z"
-    },
-    {
-      "title": "Jeremy Allen White Didn’t Consult Timothée Chalamet, Austin Butler or Rami Malek About Playing Rock Icons Before Filming Springsteen Biopic: ‘Sometimes I Wish I Had’ - Variety",
-      "description": "Jeremy Allen White, who plays Bruce Springsteen in the biopic 'Deliver Me From Nowhere,' bonded with Austin Butler over playing rock icons.",
-      "url": "https://variety.com/2025/film/news/jeremy-allen-austin-butler-rock-icons-1236534087/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/MixCollage-29-Sep-2025-11-37-AM-1149-e1759160243361.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-29T16:53:00Z"
-    },
-    {
-      "title": "Get a 1st Look at Masquerade , the Immersive Phantom of the Opera - Playbill",
-      "description": "The NYC return of the Andrew Lloyd Webber musical officially opens September 29.",
-      "url": "https://playbill.com/article/get-a-1st-look-at-masquerade-the-immersive-phantom-of-the-opera",
-      "urlToImage": "https://assets.playbill.com/editorial/_facebookOpenGraph/Kyle-Scatliffe-and-Eryn-LeCroy-in-MASQUERADE-Photo-by-Oscar-Ouk.jpg",
-      "source": "Playbill.com",
-      "publishedAt": "2025-09-29T14:13:00Z"
-    },
-    {
-      "title": "‘KPop Demon Hunters’ Singers Set First-Ever Live Performance on ‘Tonight Show Starring Jimmy Fallon’ - Variety",
-      "description": "The singers behind Huntr/x in 'KPop Demon Hunters' will make their debut live performance on 'The Tonight Show Starring Jimmy Fallon.'",
-      "url": "https://variety.com/2025/tv/news/kpop-demon-hunters-perform-jimmy-fallon-tonight-show-1236533601/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2220510406-1-e1759109274866.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-29T14:00:00Z"
-    },
-    {
-      "title": "Together Again at Last! Keanu Reeves and Alex Winter in Godot - Vulture",
-      "description": "Keanu Reeves and Alex Winter do a credible job with Waiting for Godot. But director Jamie Lloyd’s hand is visible, verging on intrusive, at every turn.",
-      "url": "http://www.vulture.com/article/godot-keanu-reeves-alex-winter-jamie-lloyd-beckett.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/c8d/5f9/79f1c1fdf40fdf90870fc3bee0e1e408f4-godot-reeves-winter-thornton-dirden.1x.rsocial.w1200.jpg",
-      "source": "Vulture",
-      "publishedAt": "2025-09-29T02:00:26Z"
     }
   ]
 }
