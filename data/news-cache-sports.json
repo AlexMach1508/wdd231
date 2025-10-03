@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2025-10-02T06:38:14.136Z",
+  "updatedAt": "2025-10-03T06:38:06.520Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Report: Lamar Jackson could miss 2-3 weeks with hamstring injury - NBC Sports",
-      "description": "Cooper Rush will start for the Ravens if Jackson can't go.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lamar-jackson-could-miss-2-3-weeks-with-hamstring-injury",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8ea8421/2147483647/strip/true/crop/8069x4539+0+420/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2F9a%2F0dce56074932993c07ec6741bfba%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238265651",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-10-01T06:43:18Z"
-    },
-    {
-      "title": "WNBA playoffs 2025: A'ja Wilson, Aces fend off Fever in overtime to reach WNBA Finals - Yahoo Sports",
-      "description": "The Aces are headed to the WNBA Finals for the third time in four seasons.",
-      "url": "https://sports.yahoo.com/wnba/live/wnba-playoffs-2025-aja-wilson-aces-fend-off-fever-in-overtime-to-reach-wnba-finals-003009582.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KwRNk1XBHsxENja8WkITug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/fe048340-9e7b-11f0-bbf3-ca282ebc59d8",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-10-01T04:12:00Z"
-    },
-    {
-      "title": "Aaron Boone may have cost Yankees their season with fateful Max Fried decision - New York Post",
-      "description": "Alex Cora entrusted his ace, Garrett Crochet, to throw a career-high 117 pitches. Aaron Boone pulled his ace, Max Fried, after 102.",
-      "url": "https://nypost.com/2025/10/01/sports/aaron-boone-may-have-cost-yankees-their-season-with-fateful-max-fried-decision/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-u9ypu2ybl-1759289530309.jpg?quality=75&strip=all&1759275176&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-10-01T04:01:00Z"
-    },
-    {
-      "title": "Napheesa Collier Torches WNBA: ‘Worst Leadership in the World’ - Front Office Sports",
-      "description": "Collier said commissioner Cathy Engelbert and the league office lack accountability, and are “tone-deaf” and “dismissive” toward players.",
-      "url": "http://frontofficesports.com/napheesa-collier-wnba-worst-leadership/",
-      "urlToImage": "https://frontofficesports.com/wp-content/uploads/2025/09/phe-scaled-e1759256572468.jpg?quality=100",
-      "source": "Frontofficesports.com",
-      "publishedAt": "2025-10-01T03:56:15Z"
-    },
-    {
-      "title": "Quick turnaround makes it tougher for Brock Purdy to play with toe injury on Thursday night - NBC Sports",
-      "description": null,
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quick-turnaround-makes-it-tougher-for-brock-purdy-to-play-with-toe-injury-on-thursday-night",
-      "urlToImage": null,
-      "source": "NBCSports.com",
-      "publishedAt": "2025-10-01T03:37:56Z"
-    },
-    {
-      "title": "49ers’ Mac Jones says what appears obvious: He, not Brock Purdy, will start vs. Rams - San Francisco Chronicle",
-      "description": "Niners QB Brock Purdy re-aggravated his toe injury in Sunday’s loss to Jacksonville. On a short week, San Francisco will likely turn to Mac Jones on Thursday.",
-      "url": "https://www.sfchronicle.com/sports/49ers/article/49ers-qb-jones-says-seems-obvious-he-not-21075523.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/54/57/28494837/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-10-01T03:00:00Z"
-    },
-    {
-      "title": "\"Felt Like A Cartoon\": Mohsin Naqvi Explains Asia Cup Trophy Act, BCCI Issues Warning - NDTV Sports",
-      "description": "Mohsin Naqvi, the Pakistan Cricket Board and Asian Cricket Council chief, said that he was made to look like a cartoon as he stood on the dais, waiting for the Indian team to collect the Asia Cup 2025 trophy.",
-      "url": "https://sports.ndtv.com/asia-cup-2025/felt-like-a-cartoon-mohsin-naqvi-explains-asia-cup-trophy-act-bcci-issues-warning-9375413",
-      "urlToImage": "https://c.ndtvimg.com/2025-09/vganc0mg_suryakumar-and-naqvi-afp_625x300_29_September_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "source": "NDTV News",
-      "publishedAt": "2025-10-01T02:56:40Z"
-    },
-    {
-      "title": "Trail Blazers Work to ‘Make ‘Em Uncomfortable’ at Training Camp - Blazer's Edge",
-      "description": "Intel from the first day of camp.",
-      "url": "https://www.blazersedge.com/practice-report/103541/portland-trail-blazers-nba-practice-report-yang-hansen-toumani-camara-deni-avdija-chauncey-billups",
-      "urlToImage": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2025/09/gettyimages-2238136224.jpg?quality=90&strip=all&crop=0%2C1.4328389784232%2C100%2C78.534031413613&w=1200",
-      "source": "Blazer's Edge",
-      "publishedAt": "2025-10-01T02:33:00Z"
-    },
-    {
-      "title": "Padres-Cubs NL Wild Card Series Game 2 FAQ (Wed., 3 ET, ABC) - MLB.com",
-      "description": "CHICAGO -- The season is on the line for the Padres, who will try to stave off elimination in the best-of-three NL Wild Card Series when they face the Cubs once more at Wrigley Field on Wednesday. First pitch is scheduled for 2:08 p.m. CT/12:08 p.m. PT.\nBut a…",
-      "url": "https://www.mlb.com/news/padres-vs-cubs-nl-wild-card-series-game-2-starting-lineups-pitching-matchup",
-      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1759273030/mlb/pmegkimxdjbuanq8xbhy.jpg",
-      "source": "MLB.com",
-      "publishedAt": "2025-10-01T02:25:29Z"
-    },
-    {
-      "title": "Ryder Cup emcee Heather McMahan breaks silence after ‘f–k you, Rory’ chant led to resignation - New York Post",
-      "description": "Rory McIlroy faced a barrage of jeers and over-the-line comments during the Ryder Cup at Bethpage Black on Long Island on Saturday and Sunday.",
-      "url": "https://nypost.com/2025/09/30/sports/heather-mcmahan-breaks-silence-after-fk-you-rory-mcilroy-chant/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-kfbx1urbn-1759283394659.jpg?quality=75&strip=all&1759269024&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-10-01T02:00:00Z"
-    },
-    {
-      "title": "Alex Pereira responds to Magomed Ankalaev’s coach, possible move to heavyweight - MMA Fighting",
-      "description": "Alex Pereira responds to Magomed Ankalaev’s trash talk ahead of UFC 320, possible move to heavyweight.",
-      "url": "https://www.mmafighting.com/latest-news/406474/alex-pereira-responds-to-magomed-ankalaevs-coach-possible-move-to-heavyweight",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/09/PEREIRA.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2025-10-01T01:42:00Z"
-    },
-    {
-      "title": "Eagles open as more than standard home favorites against Broncos in Week 5 - Bleeding Green Nation",
-      "description": "Are you betting on the Birds?",
-      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-odds/160095/eagles-open-as-more-than-standard-home-favorites-against-broncos-in-week-5",
-      "urlToImage": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2025/09/imagn-17166160.jpg?quality=90&strip=all&crop=0%2C10.198190424859%2C100%2C79.603619150281&w=1200",
-      "source": "Bleeding Green Nation",
-      "publishedAt": "2025-10-01T01:39:00Z"
-    },
-    {
-      "title": "BREAKING: UCLA agrees to part ways with important coach, shakes up staff - On3",
-      "description": ".",
-      "url": "https://www.on3.com/college/ucla-bruins/news/report-ucla-tino-sunseri-agree-to-mutually-part-ways-jerry-neuheisel-to-take-over-playcalling/",
-      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2022/04/07172517/UCLA-helmet-3.jpg",
-      "source": "On3.com",
-      "publishedAt": "2025-10-01T00:59:21Z"
-    },
-    {
-      "title": "Syracuse basketball great Moten dies at age 53 - ESPN",
-      "description": "Lawrence Moten, a basketball star at Syracuse in the early 1990s who still holds the program scoring record, has died. He was 53.",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/46441523/syracuse-basketball-great-lawrence-moten-dies-age-53",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0930%2Fr1553677_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2025-09-30T23:36:00Z"
-    },
-    {
-      "title": "Kuminga, Warriors agree on 2-year, $48M deal - ESPN",
-      "description": "Jonathan Kuminga and the Warriors ended a monthslong stalemate Tuesday, reaching agreement on a two-year deal worth $48.5 million.",
-      "url": "https://www.espn.com/nba/story/_/id/46441474/warriors-jonathan-kuminga-agree-2-year-485-million-deal",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0311%2Fr1462739_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2025-09-30T22:42:00Z"
-    },
-    {
-      "title": "Fantasy Football Waiver Wire 2025: Top Week 5 Pickups At Each Position - Seattle Seahawks",
-      "description": "Seahawks fantasy insider Scott Engel has waiver tips to get you ready for Week 5.",
-      "url": "https://www.seahawks.com/news/fantasy-football-waiver-wire-2025-top-week-5-pickups-at-each-position",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/seahawks/opwjze76qf8cxrtkrd8n",
-      "source": "Seahawks.com",
-      "publishedAt": "2025-09-30T22:25:11Z"
-    },
-    {
-      "title": "Robert Saleh: I used a poor choice of words to compliment Liam Coen - NBC Sports",
-      "description": "Saleh and Coen had an animated exchange at the end of last Sunday's Jaguars win.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-i-used-a-poor-choice-of-words-to-compliment-liam-coen",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b226a8c/2147483647/strip/true/crop/5078x2856+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff3%2F07%2F716684054b1b8f1d3a279c1db08a%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27199029",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-30T22:12:50Z"
-    },
-    {
-      "title": "Rays' sale finalized; stadium search to restart - ESPN",
-      "description": "A group led by real estate developer Patrick Zalupski closed on its purchase of the Rays, finalizing the sale of the team from former owner Stuart Sternberg.",
-      "url": "https://www.espn.com/mlb/story/_/id/46439054/tampa-bay-rays-sale-finalized-group-led-florida-based-realtor",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1206%2Fr1424174_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2025-09-30T21:41:00Z"
-    },
-    {
-      "title": "Guardians fans, what did you expect ... something easy? – Terry Pluto - Cleveland.com",
-      "description": "The Guardians must win Wednesday, or their season is over.",
-      "url": "https://www.cleveland.com/guardians/2025/09/guardians-fans-what-did-you-expect-something-easy-terry-pluto.html",
-      "urlToImage": "https://www.cleveland.com/resizer/v2/KQA3XOBDCVAJRKBU4OUVVNJCI4.JPG?auth=c9a43f789f434f55b7c55bdc79c61b396c8eef6a830d59206d86ce200c3dd37f&width=1280&smart=true&quality=90",
-      "source": "cleveland.com",
-      "publishedAt": "2025-09-30T21:34:00Z"
-    },
-    {
-      "title": "Dolphins' Tyreek Hill suffers season-ending knee injury in win vs. Jets on MNF - CBS Sports",
-      "description": "Miami has lost its top offensive weapon for the season after an injury on Monday Night Football",
-      "url": "https://www.cbssports.com/nfl/news/dolphins-tyreek-hill-suffers-season-ending-knee-injury-vs-jets/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/30/e92c3292-8b26-4a08-8ac4-6582efc1297f/thumbnail/1200x675/5bd168d66e87510596c92821a54503e5/hill.png",
+      "title": "NFL tier rankings for every team after one month of '25 season: From 'see you at the draft' to 'inner circle' - CBS Sports",
+      "description": "A quarter of the way through the NFL's 2025 season, here's a tiered look at which teams' are still in the mix",
+      "url": "https://www.cbssports.com/nfl/news/nfl-tier-rankings-for-all-32-teams-at-quarter-point/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/30/a89751b5-0845-4981-9d5c-2dbe776f4fe5/thumbnail/1200x675/9be1eed84b1a7dc9e9ee25e56549bfaa/bengals.jpg",
       "source": "CBS Sports",
-      "publishedAt": "2025-09-30T21:19:00Z"
+      "publishedAt": "2025-10-02T06:02:00Z"
+    },
+    {
+      "title": "Need an extra outfielder to scrimmage? Just call Ichiro! - MLB.com",
+      "description": "SEATTLE -- The player-intro ovation echoed at a level loud enough to sound like a regular-season game, if not more. Yet this was a mid-week, mid-afternoon, split-squad scrimmage with roughly 5,000 fans, far more akin to the atmosphere found at Spring Training…",
+      "url": "https://www.mlb.com/news/ichiro-plays-in-mariners-scrimmage-ahead-of-alds",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zdzzta7bnrfxupcgw3ne.jpg",
+      "source": "MLB.com",
+      "publishedAt": "2025-10-02T02:16:21Z"
+    },
+    {
+      "title": "Shedeur Sanders’ bizarre mime show a response to Rex Ryan’s ‘embarrassment’ ripjob - New York Post",
+      "description": "Shedeur Sanders turned heads when he turned from a quarterback into a mime when reporters asked him questions on Wednesday.",
+      "url": "https://nypost.com/2025/10/01/sports/shedeur-sanders-mime-show-a-response-to-rex-ryans-ripjob/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-vow5g6eig-1759363976796.jpg?quality=75&strip=all&1759349609&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-10-02T01:20:00Z"
+    },
+    {
+      "title": "John Harbaugh is mum on Lamar Jackson’s injury - NBC Sports",
+      "description": "A Tuesday report indicates Lamar Jackson could miss 2-3 weeks with a hamstring injury.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-is-mum-on-lamar-jacksons-injury",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/03b71e8/2147483647/strip/true/crop/3980x2239+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F38%2F91e6e92947d88c8883d0c0f1184f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238575711",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-10-02T01:15:09Z"
+    },
+    {
+      "title": "Tigers-Guardians AL Wild Card Series Game 3 FAQ (1 ET, ESPN) - MLB.com",
+      "description": "CLEVELAND -- They’ve been embroiled in a battle that transcends what’s transpired these past couple days.\nThe 2025 Tigers and Guardians will forever be linked in the record books because of the saga staged in September, when Cleveland made a historic AL Centr…",
+      "url": "https://www.mlb.com/news/tigers-vs-guardians-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1759379336/mlb/rnawemcb7s8rkjl6byij.jpg",
+      "source": "MLB.com",
+      "publishedAt": "2025-10-02T01:12:04Z"
+    },
+    {
+      "title": "Conor McGregor planning ‘6-month operation’ for UFC White House card: ‘There’s a lot at stake’ - MMA Fighting",
+      "description": "Conor McGregor won’t address his future until after competing at the UFC White House card",
+      "url": "https://www.mmafighting.com/bkfc/406676/conor-mcgregor-planning-6-month-operation-for-ufc-white-house-card-theres-a-lot-at-stake",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/10/gettyimages-2205047853.jpg?quality=90&strip=all&crop=0%2C8.9761101710291%2C100%2C78.496347137502&w=1200",
+      "source": "MMA Fighting",
+      "publishedAt": "2025-10-02T01:00:00Z"
+    },
+    {
+      "title": "A.J. Brown apologizes for Sunday tweet, while also downplaying it - NBC Sports",
+      "description": "After Sunday's win over the Buccaneers, Eagles receiver A.J.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-apologizes-for-sunday-tweet-while-also-downplaying-it",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f1df590/2147483647/strip/true/crop/3264x1836+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F06%2F8a62ed054d5e8c936d10c6db2fdb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236765240",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-10-02T00:29:27Z"
+    },
+    {
+      "title": "Big Ten reportedly has private $2B deal on table; Michigan regent urges school to say no - MLive.com",
+      "description": "Regent Jordan Acker took to social media Wednesday to warn against \"selling off Michigan's precious public university assets.\"",
+      "url": "https://www.mlive.com/wolverines/2025/10/big-ten-reportedly-has-private-2b-deal-on-table-michigan-regent-urges-school-to-say-no.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/AH3AQ7FHINEZZJMLG47YNBI7SY.jpg?auth=97d4d708cacd672d4fcd4ba75a66a1e1c4b6ee2d36951a34aa7387941b9308d4&width=1280&smart=true&quality=90",
+      "source": "mlive.com",
+      "publishedAt": "2025-10-01T23:27:00Z"
+    },
+    {
+      "title": "Heather McMahan opens up on ‘toxic’ Rory McIlroy moment that turned her into Ryder Cup scapegoat - New York Post",
+      "description": "The crowds at Bethpage Black were widely criticized for their behavior.",
+      "url": "https://nypost.com/2025/10/01/sports/heather-mcmahan-opens-up-on-rory-mcilroy-ryder-cup-moment/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-zcvrxc259-1759359824639.jpg?quality=75&strip=all&1759345522&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-10-01T23:05:00Z"
+    },
+    {
+      "title": "Colts place CB Xavien Howard on Reserve/Retired list, sign S Trey Washington to 53-man roster from practice squad - Colts.com",
+      "description": "The Colts made the roster move on Wednesday.",
+      "url": "https://www.colts.com/news/colts-place-cb-xavien-howard-on-reserve-retired-list-sign-s-trey-washington-to-53-man-roster-from-practice-squad",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/colts/cmuufrjkkhpatrixasln",
+      "source": "Colts.com",
+      "publishedAt": "2025-10-01T22:17:42Z"
+    },
+    {
+      "title": "UFC legend Frankie Edgar pulled from BKFC 82 debut against Jimmie Rivera just days before event - Yahoo Sports",
+      "description": "The UFC Hall of Famer will no longer be making his bare-knuckle boxing debut this Saturday.",
+      "url": "https://sports.yahoo.com/mma/article/ufc-legend-frankie-edgar-pulled-from-bkfc-82-debut-against-jimmie-rivera-just-days-before-event-221459140.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JWeY8tAIf9a._cUrKUm7QA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/0df0c2d0-9f14-11f0-8eb5-800a1f7e888e",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-01T22:15:00Z"
+    },
+    {
+      "title": "5 players to watch for the short-handed 49ers vs. the Rams on TNF - Niners Nation",
+      "description": "Who needs to step up for the San Francisco 49ers on Thursday against the Los Angeles Rams? Let’s break down 5 key players that need to have an impact.",
+      "url": "https://www.ninersnation.com/san-francisco-49ers-news/150992/san-francisco-49ers-news-5-players-to-watch-vs-los-angeles-rams",
+      "urlToImage": "https://platform.ninersnation.com/wp-content/uploads/sites/115/2025/10/gettyimages-2237177290.jpg?quality=90&strip=all&crop=0%2C9.5613136835077%2C100%2C80.877372632985&w=1200",
+      "source": "Niners Nation",
+      "publishedAt": "2025-10-01T21:55:23Z"
+    },
+    {
+      "title": "Why Cubs pitched to Manny Machado in pivotal Game 2 loss to Padres | Cubs News - Marquee Sports Network",
+      "description": "An in-depth look at the game-turning -- and potential series-altering -- sequence that took place in the fifth inning of Wednesday's Cubs-Padres NL Wild Card Series Game 2.",
+      "url": "https://www.marqueesportsnetwork.com/nl-wild-card-series-chicago-cubs-san-diego-padres-game-2-shota-imanaga-manny-machado/",
+      "urlToImage": "https://dupvhm5r1oaxt.cloudfront.net/uploads/2025/10/Shota-Imanaga-reacting-to-Machado-HR-1024x579.png",
+      "source": "Marqueesportsnetwork.com",
+      "publishedAt": "2025-10-01T21:54:40Z"
+    },
+    {
+      "title": "Fantasy Football Week 5 Start 'Em & Sit 'Em Running Backs: Cardinals, Bucs, Panthers injuries change landscape - CBS Sports",
+      "description": "Running backs you want in Week 5 lineups and those you should avoid",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-5-start-em-sit-em-running-backs-cardinals-bucs-panthers-injuries-change-landscape/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/22/b3cad7d0-ed33-4400-9e5b-ed4ee20d4ab4/thumbnail/1200x675/bb005ead71c86edcf42e789be492a470/cam-skattebo-getty.jpg",
+      "source": "CBS Sports",
+      "publishedAt": "2025-10-01T21:54:06Z"
+    },
+    {
+      "title": "Aaron Boone only cares about one thing after Jazz Chisholm’s Yankees displeasure - New York Post",
+      "description": "When it came down to it, his manager had a simple message before the Yankees star got back in the lineup for Game 2.",
+      "url": "https://nypost.com/2025/10/01/sports/aaron-boone-only-cares-about-one-thing-after-jazz-chisholms-yankees-displeasure/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-e64wfoa1p-1759352138468.jpg?quality=75&strip=all&1759337757&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-10-01T21:02:00Z"
+    },
+    {
+      "title": "Is the Husker Spread vs Michigan State Realistic? - Sports Illustrated",
+      "description": "Nebraska and the Spartans are both 3-1 overall and 0-1 in conference play",
+      "url": "https://www.si.com/college/nebraska/football/is-the-husker-spread-vs-michigan-state-realistic",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3467,h_1950,x_1201,y_80/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_huskers/01k6grh20fkxwt2ct34t.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-10-01T20:58:01Z"
+    },
+    {
+      "title": "Purdy, Jennings, Pearsall OUT vs. Rams; Injury Report Ahead of #SFvsLAR - San Francisco 49ers",
+      "description": "The San Francisco 49ers released their latest injury updates headed into the Week 5 contest versus the Los Angeles Rams.",
+      "url": "https://www.49ers.com/news/purdy-jennings-pearsall-out-vs-rams-injury-report-ahead-of-sfvslar",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/49ers/faryhat23qenccbasmhq",
+      "source": "49ers.com",
+      "publishedAt": "2025-10-01T20:55:45Z"
+    },
+    {
+      "title": "How Browns quarterback Joe Flacco is handling his demotion to backing up Dillon Gabriel - Cleveland.com",
+      "description": "Joe Flacco will back up Dillon Gabriel after Browns head coach Kevin Stefanski decided to go with the rookie against the Vikings on Sunday.",
+      "url": "https://www.cleveland.com/browns/2025/10/how-browns-quarterback-joe-flacco-is-handling-his-demotion-to-backup-quarterback.html",
+      "urlToImage": "https://www.cleveland.com/resizer/v2/BCQWXERPYBBM7GLQ5FYSCMLGM4.JPG?auth=347ddaa6d6f583ffcfac70a14b456e6e90ee89a3d7a49f0e7536648b08a01d86&width=1280&smart=true&quality=90",
+      "source": "cleveland.com",
+      "publishedAt": "2025-10-01T20:16:00Z"
     }
   ]
 }

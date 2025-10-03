@@ -1,31 +1,71 @@
 {
-  "updatedAt": "2025-10-02T06:38:14.074Z",
+  "updatedAt": "2025-10-03T06:38:06.443Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Change is brewing in the coffee industry. What lies ahead? - NPR",
-      "description": "Coffee growers are facing climate change, labor shortages and incomes below the poverty line. On International Coffee Day, we take stock of the industry behind the beverage.",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5553625/coffee-day-farmers-industry-climate-change-labor-stenophylla",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+860/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F78%2Fb201a2a1483495695d6103d30064%2Fgettyimages-2225489968.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-01T03:09:24Z"
-    },
-    {
-      "title": "US Futures Slip as Washington Approaches Shutdown: Markets Wrap - Bloomberg.com",
-      "description": "S&amp;P 500 and Nasdaq 100 index futures fell as the US government neared a shutdown after a stopgap funding bill to avoid the closure failed.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-30/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU9Ekz_.FHGU/v1/1200x800.jpg",
+      "title": "Stocks Hit Record as Traders Shrug Off US Shutdown: Markets Wrap - Bloomberg.com",
+      "description": "A record-breaking global stock rally stretched into Asia, with equities advancing after OpenAI’s agreement with South Korean chipmakers reinforced enthusiasm for artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-01/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIrIVHo8cK2w/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-10-01T02:16:00Z"
+      "publishedAt": "2025-10-02T05:58:00Z"
     },
     {
-      "title": "Univision Goes Dark on YouTube TV - Variety",
-      "description": "Google's YouTube TV has dropped Univision's local TV stations along with other TelevisaUnivision networks after the two sides failed to come to terms on a contract renewal Tuesday.",
-      "url": "https://variety.com/2025/tv/news/univision-goes-dark-on-youtube-tv-blackout-televisaunivision-1236535360/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-1312549437.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-10-01T01:51:00Z"
+      "title": "Two Delta planes collide on taxiway of New York's LaGuardia Airport - CBS News",
+      "description": "There were no serious injuries after two passenger jets had a collision on the taxiway of LaGuardia Airport, officials said.",
+      "url": "https://www.cbsnews.com/newyork/news/laguardia-airport-delta-planes-collide-on-taxiway/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/02/e648370e-3f0b-4d5a-ade9-7add6cc3699d/thumbnail/1200x630/43b735185244847322ea2df62042db1c/tarmac-plane.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-02T04:16:02Z"
+    },
+    {
+      "title": "Musk becomes first person ever to see wealth top $500bn - BBC",
+      "description": "The rise has been driven by a sharp increase in the value of his electric car company Tesla.",
+      "url": "https://www.bbc.com/news/articles/c89d3547npjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1507/live/787fe140-9f1d-11f0-9667-7bc33bda5819.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-02T01:45:44Z"
+    },
+    {
+      "title": "Starbucks closes San Jose stores as competitor moves in - San José Spotlight",
+      "description": "Four Starbucks locations in San Jose have closed, following the company announcing it would shutter 1% of its stores across North America. Two other locations in Mountain View and one each in Cupertino, Santa Clara and Milpitas have also closed.",
+      "url": "https://sanjosespotlight.com/starbucks-closes-san-jose-stores-as-competitor-dutch-bros-moves-in/",
+      "urlToImage": "https://sanjosespotlight.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/09/30093914/IMG_2013-1200x630.jpg",
+      "source": "San José Spotlight",
+      "publishedAt": "2025-10-02T01:18:45Z"
+    },
+    {
+      "title": "SK Hynix shares hit 25-year high, Samsung also surges as chipmakers partner with OpenAI - CNBC",
+      "description": "The partnership will \"focus on increasing the supply of advanced memory chips essential for next-generation AI and expanding data center capacity in Korea.\"",
+      "url": "https://www.cnbc.com/2025/10/02/sk-hynix-samsung-shares-openai-stargate-korea.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1753922875&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-02T00:26:00Z"
+    },
+    {
+      "title": "Stock futures are little changed as investors look past government shutdown: Live updates - CNBC",
+      "description": "Major U.S. stock indexes closed in the green on Wednesday on hopes that the funding stoppage would be brief and limit any serious effects on the economy.",
+      "url": "https://www.cnbc.com/2025/10/01/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206502-1759334012356-Traders-OB-Photo-20251001-CC-PRESS-15.jpg?v=1759334321&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-01T23:24:00Z"
+    },
+    {
+      "title": "Supreme Court allows Lisa Cook to remain on Fed board for now - The Washington Post",
+      "description": "The Supreme Court ruling means Cook can remain on the Fed board at least until January, when the court will hear the case. Trump has pushed to remove her.",
+      "url": "https://www.washingtonpost.com/politics/2025/10/01/trump-supreme-court-lisa-cook-federal-reserve/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47EA5WARQSMUTTDHXJR33RIX4_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-01T22:57:17Z"
+    },
+    {
+      "title": "Trump 2.0 tariff tracker - Trade Compliance Resource Hub",
+      "description": "According to President Trump, “Tariff is the most beautiful word in the dictionary.” Throughout his presidential campaign, Trump promised to use tariffs",
+      "url": "https://www.tradecomplianceresourcehub.com/2025/10/01/trump-2-0-tariff-tracker/",
+      "urlToImage": "https://www.tradecomplianceresourcehub.com/wp-content/uploads/sites/63/2023/04/opengraph.jpg",
+      "source": "Tradecomplianceresourcehub.com",
+      "publishedAt": "2025-10-01T22:09:49Z"
     },
     {
       "title": "Prime Big Deal Days 2025: Everything We Know About Amazon's October Sale - IGN",
@@ -33,119 +73,87 @@
       "url": "https://www.ign.com/articles/amazon-prime-big-deal-days-2025-news-and-predictions",
       "urlToImage": "https://assets-prd.ignimgs.com/2025/09/15/october-prime-day-sale-announced-dates-ign-1757936495080.png?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2025-10-01T00:23:11Z"
+      "publishedAt": "2025-10-01T21:45:00Z"
     },
     {
-      "title": "California police pull over a self-driving Waymo for an illegal U-turn, but they can’t ticket - AP News",
-      "description": "Police in Northern California pulled over a self-driving Waymo taxi after it made an illegal U-turn. But without a driver behind the wheel, they could not issue a moving violation ticket. The San Bruno Police Department wrote up the weekend encounter in socia…",
-      "url": "https://apnews.com/article/waymo-no-driver-traffic-ticket-0a0dffb19bf38c5ee85681a6f83591ff",
-      "urlToImage": "https://dims.apnews.com/dims4/default/405a94b/2147483647/strip/true/crop/5414x3045+0+282/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2Fb9%2F01991fedd006aab14d3be82753a3%2F3fa3941765ca4d87bd0d462552842c8d",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-30T22:29:00Z"
-    },
-    {
-      "title": "Expiration of NBC, YouTube TV deal will suspend PFT content on YouTube - NBC Sports",
-      "description": "I'm sharing the following information not in an effort to tip the scales in NBC's favor.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/expiration-of-nbc-youtube-tv-deal-will-suspend-pft-content-on-youtube",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b0538ac/2147483647/strip/true/crop/4000x2250+0+375/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2Fce%2F21ca99e24731bf5c0178c399f129%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235294487",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-30T20:57:32Z"
-    },
-    {
-      "title": "The 'Warren Buffett Indicator' has surged above 200%, meaning the market's price is far ahead of the economy's size - Fortune",
-      "description": "Buffett has likened investing in this environment to \"playing with fire.\"",
-      "url": "https://fortune.com/2025/09/30/warren-buffett-indicator-surge-markets-economy-what-it-means/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-840923178-1.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-30T20:54:25Z"
-    },
-    {
-      "title": "Here are all 34 Starbucks locations that are closing in NYC—is your coffee shop on the list? - Time Out Worldwide",
-      "description": "Check out the full list of locations set to close",
-      "url": "https://www.timeout.com/newyork/news/here-are-all-34-starbucks-locations-that-are-closing-in-nycis-your-coffee-shop-on-the-list-093025",
-      "urlToImage": "https://media.timeout.com/images/106325311/image.jpg",
-      "source": "Time Out",
-      "publishedAt": "2025-09-30T20:52:31Z"
-    },
-    {
-      "title": "Simpson Thacher & Bartlett LLP - SEC.gov",
+      "title": "Marketing Is Helping Carnival Charge More for Its Cruises - The Wall Street Journal",
       "description": null,
-      "url": "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-investment-management-staff-no-action-interpretive-letters/simpsonthacherbartlett093025",
-      "urlToImage": null,
-      "source": "Sec.gov",
-      "publishedAt": "2025-09-30T20:37:30Z"
-    },
-    {
-      "title": "Recalled ready-to-eat pasta meals may be linked to multistate deadly listeria outbreak - king5.com",
-      "description": "Federal officials are warning consumers about meals sold at Walmart, Albertsons and Safeway, and Trader Joe's that are potentially contaminated with listeria.",
-      "url": "https://www.king5.com/article/news/nation-world/listeria-outbreak-recalled-ready-to-eat-pasta-meals-trader-joes-walmart-albertsons/507-dcc1d1d9-4df6-4653-9b95-574b2ed3fc32",
-      "urlToImage": "https://media.king5.com/assets/CCT/images/d859fb32-6f0e-495e-b4ef-c7007dc46b95/20250926T233411/d859fb32-6f0e-495e-b4ef-c7007dc46b95_1140x641.jpg",
-      "source": "KING5.com",
-      "publishedAt": "2025-09-30T20:35:00Z"
-    },
-    {
-      "title": "Firefly Stock Tumbles. Why Its Exploding Rocket Is a Big Deal. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/firefly-stock-prioce-rocket-explodes-ec9146a8",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-09-30T20:34:00Z"
-    },
-    {
-      "title": "Ford CEO says America is ‘far behind’ rivals like China on blue-collar industry. ‘It is pretty humbling when you look at where we are’ - Fortune",
-      "description": "Michigan Gov. Gretchen Whitmer, speaking at Ford’s event on Tuesday, warned that she’s “very sober” about the stakes: “China will dominate.”",
-      "url": "https://fortune.com/2025/09/30/ford-ceo-jim-farley-gretchen-whitmer-america-far-behind-china-humbling/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1247112810.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-30T20:15:00Z"
-    },
-    {
-      "title": "Exclusive | Berkshire Hathaway Near $10 Billion Deal for Occidental’s Petrochemical Unit - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/deals/berkshire-hathaway-occidental-petroleum-deal-80a78f2e",
+      "url": "https://www.wsj.com/articles/marketing-is-helping-carnival-charge-more-for-its-cruises-5ed5e4e2",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-30T19:49:00Z"
+      "publishedAt": "2025-10-01T21:08:00Z"
     },
     {
-      "title": "How OpenAI and Stripe’s latest move could blow up online shopping as we know it - Fortune",
-      "description": "By putting payments inside an AI chat, OpenAI and Stripe have set off a race to control the future of e-commerce—forcing brands, retailers, and even tech giants to rethink their playbooks.",
-      "url": "https://fortune.com/2025/09/30/openai-stripe-acp-chatgpt-instant-checkout-could-blow-up-online-shopping/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Instant-Checkout.png?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-30T19:33:00Z"
+      "title": "Gold prices soar to new records amid US government shutdown - AP News",
+      "description": "As uncertainty deepens amid the U.S. government’s first shutdown in almost seven years, the gold frenzy continues to climb to new heights. The going price for New York spot gold hit a record $3,858.45 per troy ounce — the standard for measuring precious metal…",
+      "url": "https://apnews.com/article/gold-prices-today-us-government-shutdown-0e74346a95a663e4e6bf0abb64cbda5d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a1a6ed5/2147483647/strip/true/crop/5647x3176+0+294/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2Fed%2Fd5e0ac458afb49f11cad0c1c94dc%2F54c6fc701be2445aad67cd7f775aec43",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-01T20:22:00Z"
     },
     {
-      "title": "General Motors And Ford Found A Way To Keep The EV Lease Credit Alive - InsideEVs",
-      "description": "For a few months more, anyway. The two American automakers are working with dealers to extend the $7,500 EV tax credit a bit longer.",
-      "url": "https://insideevs.com/news/774256/gm-ford-ev-tax-credit-december/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/vx08wK/s1/gm-ford-ev-tax-credit.jpg",
-      "source": "InsideEVs ",
-      "publishedAt": "2025-09-30T19:28:00Z"
+      "title": "Elon Musk says he canceled his Netflix account — and urges his followers to as well - Business Insider",
+      "description": "Elon Musk's posts come amid some online criticism of the Netflix animated show, \"Dead End: Paranormal Park,\" and its creator.",
+      "url": "https://www.businessinsider.com/elon-musk-says-cancel-netflix-2025-10",
+      "urlToImage": "https://i.insider.com/68dd662acc993f9955cf5078?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-10-01T19:52:00Z"
     },
     {
-      "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model - TechCrunch",
-      "description": "The social app Sora will let users generate videos of themselves and their friends, which they can share in a TikTok-like feed.",
-      "url": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-30T18:28:53Z"
+      "title": "Trump delaying triple-digit pharma tariffs to negotiate drug price deals - Politico",
+      "description": "Trump threatened 100 percent tariffs on certain brand-name drugs last week. The administration is using the threat to secure drug pricing deals with major pharma companies.",
+      "url": "https://www.politico.com/news/2025/10/01/trump-delays-triple-digit-pharma-tariffs-to-negotiate-drug-price-deals-00590051",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe0%2F03%2Fe69946514ae88ca8c11a77640e75%2Fwhite-house-36749.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-01T19:15:53Z"
     },
     {
-      "title": "Silver Lake Cements Power Broker Status With $55 Billion EA Deal - Bloomberg.com",
-      "description": "For years, record books for the biggest leveraged buyouts had the expected names at the top: industry pioneer KKR &amp; Co., trillion-dollar behemoth Blackstone Inc.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-30/silver-lake-cements-power-broker-status-with-55-billion-ea-deal",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9OQn.78Yv_8/v0/1200x800.jpg",
+      "title": "Automakers Extend $7,500 EV Discount After Federal Subsidy Expires - Bloomberg.com",
+      "description": "General Motors Co., Hyundai Motor Co. and Ford Motor Co. said they would extend discounts on certain electric models after a $7,500 federal tax credit expired Tuesday, a bid to maintain momentum after a surge in third-quarter sales.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-01/automakers-extend-7-500-ev-discount-as-federal-subsidy-expires",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imBJdRRaZwWU/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-09-30T18:03:24Z"
+      "publishedAt": "2025-10-01T18:56:44Z"
     },
     {
-      "title": "FTC Sues Zillow and Redfin Over Illegal Agreement to Suppress Rental Advertising Competition - Federal Trade Commission (.gov)",
-      "description": "Today, the Federal Trade Commission sued Zillow and Redfin over an unlawful agreement that eliminates Redfin as a competitor in the market for placing advertising of rental housing on internet list",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-sues-zillow-redfin-over-illegal-agreement-suppress-rental-advertising-competition",
-      "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
-      "source": "Ftc.gov",
-      "publishedAt": "2025-09-30T17:12:32Z"
+      "title": "General Motors (GM) Sets New EV Record in Q3 ahead of Tax Credit Expiration - TipRanks",
+      "description": "General Motors ($GM) delivered a strong third-quarter performance, reporting 710,347 vehicle sales in the U.S., up 7.7% year-over-year. The upside was driven by sur...",
+      "url": "https://www.tipranks.com/news/general-motors-gm-sets-new-ev-record-in-q3-ahead-of-tax-credit-expiration",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2051133062-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-01T18:44:08Z"
+    },
+    {
+      "title": "The economy is just getting stronger, not weaker, and ‘we in the economics profession need to look ourselves in the mirror,’ top analyst says - Fortune",
+      "description": "“The consensus has been wrong since January,” Apollo Global Management chief economist Torsten Sløk wrote on Wednesday.",
+      "url": "https://fortune.com/2025/10/01/us-economy-getting-stronger-not-weaker-apollo-torsten-slok-growth-gdp-spending-jobs/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2235415163-e1759341959363.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-01T18:38:22Z"
+    },
+    {
+      "title": "Peloton Slides After Hiking Prices in Sweeping Product Revamp - Bloomberg.com",
+      "description": "Peloton Interactive Inc. shares fell Wednesday after the company raised prices on both hardware and membership fees in a sweeping product overhaul, dampening the first major attempt under new leadership to overcome a multi-year slump.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-01/peloton-launches-new-bike-tread-row-with-ai-and-cameras-raises-prices",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCM8UfnYKR0g/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-01T18:37:19Z"
+    },
+    {
+      "title": "US government takes equity stake in one of the world’s largest lithium mines - The Verge",
+      "description": "The US government announced that it’ll take a 5 percent stake in the massive, controversial lithium mine at Thacker Pass.",
+      "url": "https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1234090934.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-01T18:31:27Z"
+    },
+    {
+      "title": "OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment - WIRED",
+      "description": "OpenAI’s latest app encourages users to generate a personal digital avatar and scroll AI-generated videos of themselves and their friends.",
+      "url": "https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/",
+      "urlToImage": "https://media.wired.com/photos/68dc76a64608abdd1e38d590/191:100/w_1280,c_limit/OpenAI-Sora-App-Sells-AI-Deepfakes-as-Entertainment-Business-2234232933.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-10-01T18:21:00Z"
     }
   ]
 }
