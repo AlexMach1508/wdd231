@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2025-10-03T06:38:06.443Z",
+  "updatedAt": "2025-10-04T06:35:31.974Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stocks Hit Record as Traders Shrug Off US Shutdown: Markets Wrap - Bloomberg.com",
-      "description": "A record-breaking global stock rally stretched into Asia, with equities advancing after OpenAI’s agreement with South Korean chipmakers reinforced enthusiasm for artificial intelligence.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-01/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIrIVHo8cK2w/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-02T05:58:00Z"
+      "title": "Parents of college student killed in Tesla crash allege design flaw trapped her in the burning car - AP News",
+      "description": "A lawsuit filed Thursday by parents of a college student killed in a Tesla crash says she was trapped inside as the car burned because of a design flaw that makes it difficult to open the doors in fires. The suit filed in California state court by the parents…",
+      "url": "https://apnews.com/article/tesla-crash-doors-musk-regulators-accident-burning-trapped-2a710dbbb859436090e0a4cb8a7c8f4c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b7b9b43/2147483647/strip/true/crop/4479x2519+0+175/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F22%2F674d21bd362a7ae495e896758c20%2F14a69037612a425d92ca646394db1e3e",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-03T01:15:00Z"
     },
     {
-      "title": "Two Delta planes collide on taxiway of New York's LaGuardia Airport - CBS News",
-      "description": "There were no serious injuries after two passenger jets had a collision on the taxiway of LaGuardia Airport, officials said.",
-      "url": "https://www.cbsnews.com/newyork/news/laguardia-airport-delta-planes-collide-on-taxiway/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/02/e648370e-3f0b-4d5a-ade9-7add6cc3699d/thumbnail/1200x630/43b735185244847322ea2df62042db1c/tarmac-plane.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-02T04:16:02Z"
-    },
-    {
-      "title": "Musk becomes first person ever to see wealth top $500bn - BBC",
-      "description": "The rise has been driven by a sharp increase in the value of his electric car company Tesla.",
-      "url": "https://www.bbc.com/news/articles/c89d3547npjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1507/live/787fe140-9f1d-11f0-9667-7bc33bda5819.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-02T01:45:44Z"
-    },
-    {
-      "title": "Starbucks closes San Jose stores as competitor moves in - San José Spotlight",
-      "description": "Four Starbucks locations in San Jose have closed, following the company announcing it would shutter 1% of its stores across North America. Two other locations in Mountain View and one each in Cupertino, Santa Clara and Milpitas have also closed.",
-      "url": "https://sanjosespotlight.com/starbucks-closes-san-jose-stores-as-competitor-dutch-bros-moves-in/",
-      "urlToImage": "https://sanjosespotlight.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/09/30093914/IMG_2013-1200x630.jpg",
-      "source": "San José Spotlight",
-      "publishedAt": "2025-10-02T01:18:45Z"
-    },
-    {
-      "title": "SK Hynix shares hit 25-year high, Samsung also surges as chipmakers partner with OpenAI - CNBC",
-      "description": "The partnership will \"focus on increasing the supply of advanced memory chips essential for next-generation AI and expanding data center capacity in Korea.\"",
-      "url": "https://www.cnbc.com/2025/10/02/sk-hynix-samsung-shares-openai-stargate-korea.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1753922875&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-02T00:26:00Z"
-    },
-    {
-      "title": "Stock futures are little changed as investors look past government shutdown: Live updates - CNBC",
-      "description": "Major U.S. stock indexes closed in the green on Wednesday on hopes that the funding stoppage would be brief and limit any serious effects on the economy.",
-      "url": "https://www.cnbc.com/2025/10/01/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206502-1759334012356-Traders-OB-Photo-20251001-CC-PRESS-15.jpg?v=1759334321&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-01T23:24:00Z"
-    },
-    {
-      "title": "Supreme Court allows Lisa Cook to remain on Fed board for now - The Washington Post",
-      "description": "The Supreme Court ruling means Cook can remain on the Fed board at least until January, when the court will hear the case. Trump has pushed to remove her.",
-      "url": "https://www.washingtonpost.com/politics/2025/10/01/trump-supreme-court-lisa-cook-federal-reserve/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47EA5WARQSMUTTDHXJR33RIX4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-01T22:57:17Z"
-    },
-    {
-      "title": "Trump 2.0 tariff tracker - Trade Compliance Resource Hub",
-      "description": "According to President Trump, “Tariff is the most beautiful word in the dictionary.” Throughout his presidential campaign, Trump promised to use tariffs",
-      "url": "https://www.tradecomplianceresourcehub.com/2025/10/01/trump-2-0-tariff-tracker/",
-      "urlToImage": "https://www.tradecomplianceresourcehub.com/wp-content/uploads/sites/63/2023/04/opengraph.jpg",
-      "source": "Tradecomplianceresourcehub.com",
-      "publishedAt": "2025-10-01T22:09:49Z"
-    },
-    {
-      "title": "Prime Big Deal Days 2025: Everything We Know About Amazon's October Sale - IGN",
-      "description": "Everything you need to know ahead of the sales event.",
-      "url": "https://www.ign.com/articles/amazon-prime-big-deal-days-2025-news-and-predictions",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/15/october-prime-day-sale-announced-dates-ign-1757936495080.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-10-01T21:45:00Z"
-    },
-    {
-      "title": "Marketing Is Helping Carnival Charge More for Its Cruises - The Wall Street Journal",
+      "title": "Warren Buffett’s Berkshire Comes to the Aid of Occidental Petroleum—Again - The Wall Street Journal",
       "description": null,
-      "url": "https://www.wsj.com/articles/marketing-is-helping-carnival-charge-more-for-its-cruises-5ed5e4e2",
+      "url": "https://www.wsj.com/business/energy-oil/berkshire-hathaway-occidental-petroleum-acquisition-db3f7c14",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-01T21:08:00Z"
+      "publishedAt": "2025-10-03T00:00:00Z"
     },
     {
-      "title": "Gold prices soar to new records amid US government shutdown - AP News",
-      "description": "As uncertainty deepens amid the U.S. government’s first shutdown in almost seven years, the gold frenzy continues to climb to new heights. The going price for New York spot gold hit a record $3,858.45 per troy ounce — the standard for measuring precious metal…",
-      "url": "https://apnews.com/article/gold-prices-today-us-government-shutdown-0e74346a95a663e4e6bf0abb64cbda5d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a1a6ed5/2147483647/strip/true/crop/5647x3176+0+294/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2Fed%2Fd5e0ac458afb49f11cad0c1c94dc%2F54c6fc701be2445aad67cd7f775aec43",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-01T20:22:00Z"
-    },
-    {
-      "title": "Elon Musk says he canceled his Netflix account — and urges his followers to as well - Business Insider",
-      "description": "Elon Musk's posts come amid some online criticism of the Netflix animated show, \"Dead End: Paranormal Park,\" and its creator.",
-      "url": "https://www.businessinsider.com/elon-musk-says-cancel-netflix-2025-10",
-      "urlToImage": "https://i.insider.com/68dd662acc993f9955cf5078?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-10-01T19:52:00Z"
-    },
-    {
-      "title": "Trump delaying triple-digit pharma tariffs to negotiate drug price deals - Politico",
-      "description": "Trump threatened 100 percent tariffs on certain brand-name drugs last week. The administration is using the threat to secure drug pricing deals with major pharma companies.",
-      "url": "https://www.politico.com/news/2025/10/01/trump-delays-triple-digit-pharma-tariffs-to-negotiate-drug-price-deals-00590051",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe0%2F03%2Fe69946514ae88ca8c11a77640e75%2Fwhite-house-36749.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-01T19:15:53Z"
-    },
-    {
-      "title": "Automakers Extend $7,500 EV Discount After Federal Subsidy Expires - Bloomberg.com",
-      "description": "General Motors Co., Hyundai Motor Co. and Ford Motor Co. said they would extend discounts on certain electric models after a $7,500 federal tax credit expired Tuesday, a bid to maintain momentum after a surge in third-quarter sales.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-01/automakers-extend-7-500-ev-discount-as-federal-subsidy-expires",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imBJdRRaZwWU/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-01T18:56:44Z"
-    },
-    {
-      "title": "General Motors (GM) Sets New EV Record in Q3 ahead of Tax Credit Expiration - TipRanks",
-      "description": "General Motors ($GM) delivered a strong third-quarter performance, reporting 710,347 vehicle sales in the U.S., up 7.7% year-over-year. The upside was driven by sur...",
-      "url": "https://www.tipranks.com/news/general-motors-gm-sets-new-ev-record-in-q3-ahead-of-tax-credit-expiration",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2051133062-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-10-01T18:44:08Z"
-    },
-    {
-      "title": "The economy is just getting stronger, not weaker, and ‘we in the economics profession need to look ourselves in the mirror,’ top analyst says - Fortune",
-      "description": "“The consensus has been wrong since January,” Apollo Global Management chief economist Torsten Sløk wrote on Wednesday.",
-      "url": "https://fortune.com/2025/10/01/us-economy-getting-stronger-not-weaker-apollo-torsten-slok-growth-gdp-spending-jobs/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2235415163-e1759341959363.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-01T18:38:22Z"
-    },
-    {
-      "title": "Peloton Slides After Hiking Prices in Sweeping Product Revamp - Bloomberg.com",
-      "description": "Peloton Interactive Inc. shares fell Wednesday after the company raised prices on both hardware and membership fees in a sweeping product overhaul, dampening the first major attempt under new leadership to overcome a multi-year slump.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-01/peloton-launches-new-bike-tread-row-with-ai-and-cameras-raises-prices",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCM8UfnYKR0g/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-01T18:37:19Z"
-    },
-    {
-      "title": "US government takes equity stake in one of the world’s largest lithium mines - The Verge",
-      "description": "The US government announced that it’ll take a 5 percent stake in the massive, controversial lithium mine at Thacker Pass.",
-      "url": "https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1234090934.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network - The Verge",
+      "description": null,
+      "url": "https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn",
+      "urlToImage": null,
       "source": "The Verge",
-      "publishedAt": "2025-10-01T18:31:27Z"
+      "publishedAt": "2025-10-02T23:20:53Z"
     },
     {
-      "title": "OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment - WIRED",
-      "description": "OpenAI’s latest app encourages users to generate a personal digital avatar and scroll AI-generated videos of themselves and their friends.",
-      "url": "https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/",
-      "urlToImage": "https://media.wired.com/photos/68dc76a64608abdd1e38d590/191:100/w_1280,c_limit/OpenAI-Sora-App-Sells-AI-Deepfakes-as-Entertainment-Business-2234232933.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-10-01T18:21:00Z"
+      "title": "FICO Shakes Up Credit-Score Market - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/personal-finance/credit/fico-stock-pricing-model-434ff3e7",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-02T21:32:00Z"
+    },
+    {
+      "title": "Bitcoin Hits 2-Month High Above $120k, This Crypto Stock Soars 150% - Investor's Business Daily",
+      "description": "Bitcoin, cryptocurrency prices continue to rally amid government shutdown. Bakkt vaults on transformation, streamlining efforts.",
+      "url": "https://www.investors.com/news/bitcoin-price-cryptocurrency-rally-bakkt-holdings-150-gain-bkkt-stock/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-bitcoin-02-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-02T20:23:00Z"
+    },
+    {
+      "title": "Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/tesla-ev-deliveries-stock-price-bbebb4fb",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-10-02T20:10:00Z"
+    },
+    {
+      "title": "Fannie Mae predicts major mortgage rate change coming soon - TheStreet",
+      "description": "The government-sponsored enterprise has a key forecast for homebuyers.",
+      "url": "https://www.thestreet.com/real-estate/fannie-mae-predicts-major-mortgage-rate-change-homebuyers",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTg4NjQyMTQwNzk5MTE3MDQ0/affordable-housing_2-lead.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-10-02T19:07:30Z"
+    },
+    {
+      "title": "Pension funds call to vote down Musk’s $1T pay package, replace Tesla board - Electrek",
+      "description": "A group representing several large pension funds sent a letter with concerns about Tesla's board, opposing its proposals.",
+      "url": "http://electrek.co/2025/10/02/investor-group-calls-to-vote-down-musks-1t-pay-package-replace-tesla-board/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/05/Elon-Musk-Tesla-Money-hero.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2025-10-02T18:45:00Z"
+    },
+    {
+      "title": "Coming soon! Kick-start your holiday shopping Oct. 7–8 with Amazon Prime Big Day Deals - Yahoo Finance",
+      "description": "Amazon’s fall version of Amazon Prime Day is back in 2025 from Oct. 7-8. Expect big discounts on countless items, exclusively for Amazon Prime members.",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/amazon-prime-big-day-deals-183656266.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/l94G3v1jKok7ZuGVd83PjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/e16b4460-80c9-11ef-b7ff-78326d955f2e",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-02T18:36:56Z"
+    },
+    {
+      "title": "“…Not Radical”: Boeing Stock (NYSE:BA) Gains as Bernie Sanders Comes out in Support - TipRanks",
+      "description": "So the union troubles at aerospace stock Boeing ($BA) are still carrying on, despite a new offer being submitted to Boeing by the union. And now, someone fairly hig...",
+      "url": "https://www.tipranks.com/news/not-radical-boeing-stock-nyseba-gains-as-bernie-sanders-comes-out-in-support",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/boeing-shutterstock_2205763897-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-02T18:36:32Z"
+    },
+    {
+      "title": "OpenAI’s Sora soars to No. 3 on the US App Store - TechCrunch",
+      "description": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
+      "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-02T18:24:54Z"
+    },
+    {
+      "title": "Elizabeth Warren calls for Trump to release the jobs report despite shutdown - CNN",
+      "description": "Democratic Sen. Elizabeth Warren is calling on the Trump administration to release the September jobs report on Friday despite the ongoing government shutdown, a Senate aide told CNN on Thursday.",
+      "url": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15471257d.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-02T17:07:55Z"
+    },
+    {
+      "title": "Nuclear fusion was always 30 years away—now it’s a matter of when, not if, fusion comes online to power AI - Fortune",
+      "description": "Fusion has the potential to solve the world's energy demand and climate goals, but questions remain about crossing the technology finish line and scaling up economically.",
+      "url": "https://fortune.com/2025/10/02/nuclear-fusion-online-commercial-ai-power/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/SPARC-Tokamak-Hall-in-Devens.png?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-02T17:00:00Z"
+    },
+    {
+      "title": "Rigetti Stock Hits Record High. D-Wave and IonQ Shares Also Rise. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/rigetti-stock-quantum-computing-d-wave-onq-d4479175",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-10-02T16:56:39Z"
+    },
+    {
+      "title": "US stocks drift near their records as tech keeps rising and Wall Street keeps ignoring DC's shutdown - AP News",
+      "description": "U.S. stocks edged up to more records. The S&P 500 rose 0.1% Thursday. The Dow Jones Industrial Average added 0.2%, while the Nasdaq composite climbed 0.4%. All three set all-time highs. Technology stocks helped lead the way after OpenAI announced partnerships…",
+      "url": "https://apnews.com/article/markets-stocks-shutdown-korea-openai-trump-a08c07307c4483a3583fe2aaa1609637",
+      "urlToImage": "https://dims.apnews.com/dims4/default/adcd2ca/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2Fd9%2Fa81e503053fc224b90737c89793e%2F070049b720e34fe5ac2c3abc3c3b2d6d",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-02T16:45:00Z"
+    },
+    {
+      "title": "Maxwell House coffee has officially changed its name - Salon.com",
+      "description": "The coffee giant is revamping its brand name for the first time in 133 years",
+      "url": "https://www.salon.com/2025/10/02/maxwell-house-coffee-has-officially-changed-its-name/",
+      "urlToImage": "https://www.salon.com/app/uploads/2024/03/coffee_pouring_in_two_mugs_1754488912.jpg",
+      "source": "Salon",
+      "publishedAt": "2025-10-02T16:30:08Z"
+    },
+    {
+      "title": "Six months later, the future of Trump's tariffs is murkier than ever - Axios",
+      "description": "President Trump's April tariff announcement panicked markets and sparked recession fears, but the economy is still solid.",
+      "url": "https://www.axios.com/2025/10/02/trump-tariffs-supreme-court-recession",
+      "urlToImage": "https://images.axios.com/OyYFwLJoK26WI49q-IrwIxhI9yc=/1366x768/smart/2025/05/23/193102-1748028662510.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-10-02T16:03:55Z"
     }
   ]
 }
