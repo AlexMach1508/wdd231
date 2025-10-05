@@ -1,167 +1,95 @@
 {
-  "updatedAt": "2025-10-04T06:35:32.103Z",
+  "updatedAt": "2025-10-05T06:35:43.921Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Taylor Swift Releases New Album The Life of a Showgirl : Listen and Read the Full Credits - Pitchfork",
-      "description": null,
-      "url": "https://pitchfork.com/news/taylor-swift-releases-new-album-the-life-of-a-showgirl-listen-and-read-the-full-credits/",
-      "urlToImage": null,
-      "source": "Pitchfork",
-      "publishedAt": "2025-10-03T04:00:54Z"
-    },
-    {
-      "title": "Golden Globes: Podcasts Eligible for New Best Podcast Award Revealed - hollywoodreporter.com",
-      "description": "The winner will be announced during the awards ceremony on Jan. 11, 2026.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/golden-globes-best-podcast-eligible-submission-revealed-1236392267/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Dax-Shepard-Alex-Cooper-Joe-Rogan-getty-H-2025.png?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-10-03T02:28:56Z"
-    },
-    {
-      "title": "Lori Loughlin and Mossimo Giannulli separate after 27 years of marriage - USA Today",
-      "description": "\"Full House\" star Lori Loughlin and fashion designer Mossimo Giannulli have decided to take a break from their marriage after nearly 28 years.",
-      "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/10/02/lori-loughlin-mossimo-giannulli-separate/86486248007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/02/USAT/86486428007-20190403-t-200110-z-1482889686-rc-1356-fdc-8-a-0-rtrmadp-3-usaeducationcheating.JPG?crop=2016,1134,x0,y105&width=2016&height=1134&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-10-03T00:06:37Z"
-    },
-    {
-      "title": "Dave Chappelle On Saudi Arabia: “It’s Easier To Talk Here Than It Is In America” - Deadline",
-      "description": "Chappelle and others have been criticized for taking part in the Riyadh Comedy Festival, given the kingdom's record on human rights and free speech.",
-      "url": "http://deadline.com/2025/10/dave-chappelle-saudi-arabia-critcism-1236568963/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/02/Dave-Chappelle.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-02T23:57:00Z"
-    },
-    {
-      "title": "'I take full responsibility' Sean Combs asks for light sentence in apology letter to judge - ABC7 Los Angeles",
-      "description": "In a letter to the judge overseeing his case, Sean Combs directly apologized to both Cassie Ventura and the woman who testified under the name \"Jane\" at trial for hurting them.",
-      "url": "https://abc7.com/post/take-full-responsibility-sean-combs-asks-light-sentence-apology-letter-judge/17925929/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/17925692_100225-wabc-ap-diddy-img.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2025-10-02T21:30:32Z"
-    },
-    {
-      "title": "George Michael Estate Thanks Taylor Swift for Incorporating ‘Father Figure’ into ‘The Life of a Showgirl’: ‘We Had No Hesitation in Agreeing to This’ - Variety",
-      "description": "The George Michael estate thanked Taylor Swift for incorporating 'Father Figure' into 'The Life of a Showgirl.'",
-      "url": "https://variety.com/2025/music/news/george-michael-taylor-swift-father-figure-life-of-showgirl-1236537399/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/08/Promo-C-1-e1755538738705.jpg?crop=0px%2C0px%2C3196px%2C1798px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-10-02T21:10:00Z"
-    },
-    {
-      "title": "Dad of Keith Urban’s 25-Year-Old Guitarist Adds Fuel to Affair Rumors - Yahoo",
-      "description": "Further scrutiny over Keith Urban’s relationship with his 25-year-old guitarist was deepened by a surprising source on Thursday—her father. Amid the news of ...",
-      "url": "https://www.thedailybeast.com/obsessed/dad-of-keith-urbans-25-year-old-guitarist-adds-fuel-to-affair-rumors/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QlI7pWZbxD_HCve2jJ_MOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/c1701964c51fd3daa4e9219c6be72ec7",
-      "source": "Daily Beast",
-      "publishedAt": "2025-10-02T20:15:53Z"
-    },
-    {
-      "title": "Carleton College grad joins writing staff at ‘Saturday Night Live’ - Star Tribune",
-      "description": "At least three Minnesotans will be part of the new season.",
-      "url": "https://www.startribune.com/carleton-college-grad-joins-writing-staff-at-saturday-night-live/601485198",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/DAKZONVTNNH6JKC5WUOVB7T2DI.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2025-10-02T20:12:04Z"
-    },
-    {
-      "title": "From Taylor Swift to Marilyn Monroe: A Brief History of Cinematic Showgirls - Vanity Fair",
-      "description": "As The Life of a Showgirl bows, these are the other bejeweled blondes who may have inspired the new album—and the unexpected song that started this era.",
-      "url": "https://www.vanityfair.com/hollywood/story/from-taylor-swift-to-marilyn-monroe-a-brief-history-of-cinematic-showgirls",
-      "urlToImage": "https://media.vanityfair.com/photos/68de835bdb184bb8fd8fd7e2/16:9/w_1280,c_limit/A-Brief-History-of-Cinematic-Showgirls-site-story-image.jpg",
-      "source": "Vanity Fair",
-      "publishedAt": "2025-10-02T17:11:52Z"
-    },
-    {
-      "title": "Nicole Kidman's Six-Word Clapback About Her Divorce from Tom Cruise Goes Viral amid Her Keith Urban Split - People.com",
-      "description": "Nicole Kidman's August 2001 appearance on The Late Show is going viral in the wake of her split from husband Keith Urban. Kidman famously told host David Letterman, \"Well, I can wear heels now,\" with a smirk as he asked about her divorce from Tom Cruise that …",
-      "url": "https://people.com/nicole-kidman-comment-tom-cruise-divorce-goes-viral-after-keith-urban-split-11823041",
-      "urlToImage": "https://people.com/thmb/0RMiyTFzBCu-KXrGkZXs4_KL9K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(783x333:785x335)/nicole-kidman-tom-cruise-keith-urban-100225-c63d11aae0e44c3db5d13e8e5f82d1a9.jpg",
-      "source": "PEOPLE",
-      "publishedAt": "2025-10-02T17:06:03Z"
-    },
-    {
-      "title": "Henry Cavill Shares Photos Of Injured Leg Rehab, Writes “In Enduring, Grow Strong” - Deadline",
-      "description": "Henry Cavill seems to be on the mend - or at least in the gym - as evidenced by Instagram photos posted by the star of the upcoming Highlander reboot.",
-      "url": "http://deadline.com/2025/10/henry-cavill-leg-injury-photos-1236568555/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-2219689905.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-02T16:47:00Z"
-    },
-    {
-      "title": "Jane Fonda relaunches McCarthy-era committee to defend free speech - The Washington Post",
-      "description": "The actor said the Committee for the First Amendment — first backed by her father in 1947 — would fight the Trump administration’s attempts to silence critics.",
-      "url": "https://www.washingtonpost.com/style/2025/10/02/trump-jane-fonda-mccarthy-free-speech/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUPQ35XIFPKAND7K7VU45MWHPE.jpg&w=1440",
+      "title": "Diddy sentencing recap: Sean Combs sentenced to over 4 years in prison on prostitution-related charges - The Washington Post",
+      "description": "The judge ordered Combs to pay a fine of $500,000 and imposed five years of supervised release once he completes his sentence. His defense is planning to appeal.",
+      "url": "https://www.washingtonpost.com/entertainment/music/2025/10/03/diddy-sentenced-prison-time-sean-combs/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X26OA6H7IRCDVFG4VTWXSDSDFY.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-10-02T16:46:52Z"
+      "publishedAt": "2025-10-04T03:54:53Z"
     },
     {
-      "title": "Prince William makes heartbreaking admission about Kate Middleton’s cancer diagnosis - Yahoo",
-      "description": "The Prince of Wales, 43, spoke out about his wife's health battle with Eugene Levy for the actor's Apple TV+ series, “The Reluctant Traveler.”",
-      "url": "https://nypost.com/2025/10/02/entertainment/prince-william-makes-heartbreaking-admission-about-kate-middletons-cancer-diagnosis/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q8a6i69Z_i18oCW2vU54MQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ny_post_articles_869/7244060a0efd9a23a21ef2476ee8edf7",
-      "source": "New York Post",
-      "publishedAt": "2025-10-02T16:18:58Z"
+      "title": "‘Real Time’: Louis C.K. Explains Why He Wants “To Be Part Of” Riyadh Comedy Festival After “Mixed Feelings”: “A Positive Thing” - deadline.com",
+      "description": "Louis C.K. is the latest comedian to address his decision to perform at Saudi Arabia's inaugural Riyadh Comedy Festival.",
+      "url": "http://deadline.com/2025/10/louis-ck-explains-riyadh-comedy-festival-mixed-feelings-1236570184/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/Louis-CK.png?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-04T02:46:00Z"
     },
     {
-      "title": "Paul Thomas Anderson rockets Thomas Pynchon into the present - AV Club",
-      "description": "One Battle After Another and Paul Thomas Anderson smooth Thomas Pynchon's sensibilities into a big-budget Hollywood tentpole.",
-      "url": "https://www.avclub.com/one-battle-after-another-paul-thomas-anderson-thomas-pynchon-vineland-adaptation",
-      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/20121238/MixCollage-20-Mar-2025-12-12-PM-3097.jpg",
-      "source": "The A.V. Club",
-      "publishedAt": "2025-10-02T16:00:00Z"
+      "title": "'Golden Bachelor' Gerry Turner Announces Surprising Engagement News - TV Insider",
+      "description": "The Bachelor Nation star went public with his new girlfriend earlier this year.",
+      "url": "https://www.swooon.com/1233737/golden-bachelor-gerry-turner-engaged-girlfriend-lana-sutton/",
+      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2025/04/gerry-turner-lana-sutton-1-1420x798.jpg",
+      "source": "Swooon.com",
+      "publishedAt": "2025-10-04T02:08:37Z"
     },
     {
-      "title": "Lionel Richie Details 'Massive Confrontation' Between First and Second Wives for First Time - TooFab",
-      "description": "Lionel Richie is speaking out on a fight that ended his marriage to first wife Brenda Harvey -- one between her and the woman who would become his second wife, Diane Alexander.",
-      "url": "https://toofab.com/2025/10/02/lionel-richie-wives-fight/",
-      "urlToImage": "https://images.toofab.com/image/b0/16by9/2025/10/02/b0f564bf1d0643d6bb308b8e5cdf3ce9_xl.jpg",
-      "source": "TooFab",
-      "publishedAt": "2025-10-02T15:56:00Z"
-    },
-    {
-      "title": "Mark Kerr Went To Set While The Rock Was Playing Him, But It Was His Son's Reaction To The Smashing Machine That Stuck With Him: 'He's Almost Like Whispering' - Yahoo",
-      "description": "Sounds like this will be a powerful movie-going experience.",
-      "url": "https://www.cinemablend.com/movies/mark-kerr-the-rock-his-sons-reaction-the-smashing-machine-stuck-with-him",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gJFhXQbg8rplWL3LhVt5fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/cinemablend_388/88b4b90825fba0befdb88ad738301bc0",
-      "source": "CinemaBlend",
-      "publishedAt": "2025-10-02T15:35:19Z"
-    },
-    {
-      "title": "'Chicago Fire' Season 14 Premiere Recap: Stella Pregnancy Twist - TVLine",
-      "description": "A 'Chicago Fire' star and EP unpack the Season 14 premiere for us, including the #Stellaride shocker and the Mouch/Herrmann divide.",
-      "url": "https://tvline.com/interviews/chicago-fire-season-14-premiere-recap-stella-pregnant-miscarriage-1235527178/",
-      "urlToImage": "https://tvline.com/wp-content/uploads/2025/09/Chicago-Fire-Season-14-episode-1-premiere.jpg?w=650",
-      "source": "TVLine",
-      "publishedAt": "2025-10-02T14:49:28Z"
-    },
-    {
-      "title": "Kylie Kelce breaks down in tears recalling miscarriage: ‘Everything went into slow motion’ - New York Post",
-      "description": "The mother of four and wife of retired Eagles center Jason Kelce opened up about the harrowing ordeal Thursday on her “Not Gonna Lie” podcast.",
-      "url": "https://nypost.com/2025/10/02/sports/kylie-kelce-breaks-down-recalling-heartbreaking-miscarriage/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-cdzq585py-1759414093140.jpg?quality=75&strip=all&1759400563&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-10-02T14:17:00Z"
-    },
-    {
-      "title": "‘Peaky Blinders’ Sequel Series Gets Two-Season Order at Netflix, Cillian Murphy Executive Producing - Variety",
-      "description": "\"Peaky Blinders\" is coming back to the small screen with a sequel series that Cillian Murphy is executive producing.",
-      "url": "https://variety.com/2025/tv/global/peaky-blinders-sequel-series-two-season-order-netflix-1236537129/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2023/07/TCDPEBL_EC010.jpg?w=1000&h=563&crop=1",
+      "title": "Jim Mitchum, ‘Thunder Road’ and ‘Moonrunners’ Actor, Dies at 84 - Variety",
+      "description": "Jim Mitchum, the actor and son of Robert Mitchum, who appeared in 'Thunder Road' and 'Moonrunners,' died Sept. 20 in Arizona.",
+      "url": "https://variety.com/2025/film/obituaries-people-news/jim-mitchum-dead-robert-mitchum-1236538445/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/JIM-Petrine-e1759538011971.jpg?crop=0px%2C92px%2C2243px%2C1262px&resize=1000%2C563",
       "source": "Variety",
-      "publishedAt": "2025-10-02T13:53:00Z"
+      "publishedAt": "2025-10-04T00:48:00Z"
     },
     {
-      "title": "Tilly Norwood Slammed by Equity as AI Tool, Concerned About Origin - Variety",
-      "description": "Equity execs have questioned the source material used to make controversial AI actress Tilly Norwood and whether consent was given.",
-      "url": "https://variety.com/2025/film/global/tilly-norwood-slammed-equity-ai-tool-concerned-origin-1236537042/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Tilly-Norwood.jpg?w=1000&h=563&crop=1",
+      "title": "50 Cent Celebrates Taylor Swift’s Shoutout on ‘Popping’ Album ‘Life of a Showgirl’ - Rolling Stone",
+      "description": "50 Cent reacts to Taylor Swift name-dropping him on ‘Ruin the Friendship' on 'The Life of a Showgirl.'",
+      "url": "http://www.rollingstone.com/music/music-news/50-cent-taylor-swift-the-life-of-a-showgirl-shoutout-1235440780/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/10/50-cent-taylor-swift.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-10-04T00:43:35Z"
+    },
+    {
+      "title": "6 true crime TV shows to stream after 'Monster: The Ed Gein Story' on Netflix - Yahoo",
+      "description": "The new true crime TV shows you should watch now after you check out \"Monster: The Ed Gein Story.\"",
+      "url": "https://www.yahoo.com/entertainment/tv/article/6-true-crime-tv-shows-to-stream-after-monster-the-ed-gein-story-on-netflix-200049456.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r69pty_ZrDa7rpHEOiaI.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/4f1612a0-9e34-11f0-9b7d-87f3d851f907",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-03T20:00:49Z"
+    },
+    {
+      "title": "Taylor Swift’s ‘Wood’: The Best Reactions to Her Horny Song About Travis Kelce’s D**k - hollywoodreporter.com",
+      "description": "Here are some of the best reactions to Swift praising Kelce's \"magic Redwood tree\" on 'The Life of a Showgirl.'",
+      "url": "http://www.hollywoodreporter.com/music/music-news/taylor-swift-wood-travis-kelce-sex-song-1236392632/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/GettyImages-1998834953-copy-e1759545411408.jpg?w=1000&h=563&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-03T18:08:07Z"
+    },
+    {
+      "title": "Does Tilly Norwood Need a Publicist? The AI Actress ‘Is Not Available to Speak’ Yet, but ‘Everyone Wants an Interview’ - Variety",
+      "description": "A publicist for the company that created Tilly Norwood turned down Variety's request for an interview with the AI creation saying she \"is not available to speak to at present.”",
+      "url": "https://variety.com/2025/film/news/tilly-norwood-backlash-hollywood-publicists-divided-1236537900/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Tilly-Norwood.jpg?crop=0px%2C1px%2C1000px%2C562px&resize=1000%2C563",
       "source": "Variety",
-      "publishedAt": "2025-10-02T12:06:00Z"
+      "publishedAt": "2025-10-03T17:17:00Z"
+    },
+    {
+      "title": "Taylor Swift Has a Weird Understanding of ‘Being Canceled’ - Vulture",
+      "description": "Is her song ‘CANCELLED!’ about Blake Lively? Brittany Mahomes? Matty Healy? Swift says she likes her friends canceled, but history says otherwise.",
+      "url": "http://www.vulture.com/article/taylor-swift-cancelled-meaning.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/132/391/869947253dce9992a766a53140915723db-blake-taylor.1x.rsocial.w1200.jpg",
+      "source": "Vulture",
+      "publishedAt": "2025-10-03T16:39:34Z"
+    },
+    {
+      "title": "Get Ready for Bad Bunny’s Explosive Super Bowl Trump Protest - The Bulwark",
+      "description": "“He will have the room to be as political as he wants to be.”",
+      "url": "https://www.thebulwark.com/p/get-ready-for-bad-bunnys-explosive-super-bowl-trump-protest",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!dryE!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F133faa1c-be57-40b9-8c8d-b44b64043339_1000x714.gif",
+      "source": "The Bulwark",
+      "publishedAt": "2025-10-03T15:09:18Z"
+    },
+    {
+      "title": "Taylor Swift is done pretending she doesn’t absolutely love this life - vox.com",
+      "description": "Conservatives are telling Taylor Swift to be a tradwife. In her new album, she refuses.",
+      "url": "https://www.vox.com/culture/463721/taylor-swift-life-of-a-showgirl",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2184874626.jpg?quality=90&strip=all&crop=0%2C10.742798593545%2C100%2C78.514402812909&w=1200",
+      "source": "Vox",
+      "publishedAt": "2025-10-03T15:05:00Z"
     }
   ]
 }

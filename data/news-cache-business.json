@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2025-10-04T06:35:31.974Z",
+  "updatedAt": "2025-10-05T06:35:43.725Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Parents of college student killed in Tesla crash allege design flaw trapped her in the burning car - AP News",
-      "description": "A lawsuit filed Thursday by parents of a college student killed in a Tesla crash says she was trapped inside as the car burned because of a design flaw that makes it difficult to open the doors in fires. The suit filed in California state court by the parents…",
-      "url": "https://apnews.com/article/tesla-crash-doors-musk-regulators-accident-burning-trapped-2a710dbbb859436090e0a4cb8a7c8f4c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b7b9b43/2147483647/strip/true/crop/4479x2519+0+175/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F22%2F674d21bd362a7ae495e896758c20%2F14a69037612a425d92ca646394db1e3e",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-03T01:15:00Z"
+      "title": "Palantir Rebuts Claims of Security Flaws After Stock Falls - Bloomberg.com",
+      "description": "Palantir Technologies Inc.’s stock fell 7.5% on Friday following a report that a battlefield communications system it worked on with defense tech firm Anduril Industries Inc. was seriously flawed — a claim both companies said was out of date and inaccurate.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-03/palantir-rebuts-claims-of-security-flaws-after-stock-falls",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5sfEtSOAATE/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-03T23:04:53Z"
     },
     {
-      "title": "Warren Buffett’s Berkshire Comes to the Aid of Occidental Petroleum—Again - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/energy-oil/berkshire-hathaway-occidental-petroleum-acquisition-db3f7c14",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-03T00:00:00Z"
-    },
-    {
-      "title": "NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network - The Verge",
-      "description": null,
-      "url": "https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn",
-      "urlToImage": null,
-      "source": "The Verge",
-      "publishedAt": "2025-10-02T23:20:53Z"
-    },
-    {
-      "title": "FICO Shakes Up Credit-Score Market - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/personal-finance/credit/fico-stock-pricing-model-434ff3e7",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-02T21:32:00Z"
-    },
-    {
-      "title": "Bitcoin Hits 2-Month High Above $120k, This Crypto Stock Soars 150% - Investor's Business Daily",
-      "description": "Bitcoin, cryptocurrency prices continue to rally amid government shutdown. Bakkt vaults on transformation, streamlining efforts.",
-      "url": "https://www.investors.com/news/bitcoin-price-cryptocurrency-rally-bakkt-holdings-150-gain-bkkt-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-bitcoin-02-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-02T20:23:00Z"
-    },
-    {
-      "title": "Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/tesla-ev-deliveries-stock-price-bbebb4fb",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-10-02T20:10:00Z"
-    },
-    {
-      "title": "Fannie Mae predicts major mortgage rate change coming soon - TheStreet",
-      "description": "The government-sponsored enterprise has a key forecast for homebuyers.",
-      "url": "https://www.thestreet.com/real-estate/fannie-mae-predicts-major-mortgage-rate-change-homebuyers",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTg4NjQyMTQwNzk5MTE3MDQ0/affordable-housing_2-lead.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-02T19:07:30Z"
-    },
-    {
-      "title": "Pension funds call to vote down Musk’s $1T pay package, replace Tesla board - Electrek",
-      "description": "A group representing several large pension funds sent a letter with concerns about Tesla's board, opposing its proposals.",
-      "url": "http://electrek.co/2025/10/02/investor-group-calls-to-vote-down-musks-1t-pay-package-replace-tesla-board/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/05/Elon-Musk-Tesla-Money-hero.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2025-10-02T18:45:00Z"
-    },
-    {
-      "title": "Coming soon! Kick-start your holiday shopping Oct. 7–8 with Amazon Prime Big Day Deals - Yahoo Finance",
-      "description": "Amazon’s fall version of Amazon Prime Day is back in 2025 from Oct. 7-8. Expect big discounts on countless items, exclusively for Amazon Prime members.",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/amazon-prime-big-day-deals-183656266.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/l94G3v1jKok7ZuGVd83PjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/e16b4460-80c9-11ef-b7ff-78326d955f2e",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-10-02T18:36:56Z"
-    },
-    {
-      "title": "“…Not Radical”: Boeing Stock (NYSE:BA) Gains as Bernie Sanders Comes out in Support - TipRanks",
-      "description": "So the union troubles at aerospace stock Boeing ($BA) are still carrying on, despite a new offer being submitted to Boeing by the union. And now, someone fairly hig...",
-      "url": "https://www.tipranks.com/news/not-radical-boeing-stock-nyseba-gains-as-bernie-sanders-comes-out-in-support",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/boeing-shutterstock_2205763897-750x406.jpg",
+      "title": "Nike Stock (NKE) Crawls Forward as Investors Pay Up for a Shaky Comeback - TipRanks",
+      "description": "Nike investors are eager to see the sportswear giant back on its feet—so much so that even a modest 1% annual sales gain is being celebrated. After years of underpe...",
+      "url": "https://www.tipranks.com/news/nike-stock-nke-crawls-forward-as-investors-pay-up-for-a-shaky-comeback",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2680484135-750x406.jpg",
       "source": "Tipranks.com",
-      "publishedAt": "2025-10-02T18:36:32Z"
+      "publishedAt": "2025-10-03T21:59:12Z"
     },
     {
-      "title": "OpenAI’s Sora soars to No. 3 on the US App Store - TechCrunch",
+      "title": "Spirit Airlines to halve fleet amid deep bankruptcy cuts - The Points Guy",
+      "description": "Spirit Airlines will slash its fleet and retire all Airbus A320neos as part of its bankruptcy restructuring.",
+      "url": "https://thepointsguy.com/news/spirit-airlines-slashes-fleet-bankruptcy-cuts/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/JetBlue-Mint-FLL-PHX-Zach-Griff-16.jpg",
+      "source": "The Points Guy",
+      "publishedAt": "2025-10-03T20:35:33Z"
+    },
+    {
+      "title": "Stock Market News Review: SPY, QQQ Mixed as Fed ‘Flying Blind’ without Economic Data on Third Day of Government Shutdown - TipRanks",
+      "description": "The SP 500 ETF ($SPY) was just barely able to close in positive territory on Friday, while the Nasdaq 100 ETF ($QQQ) finished in the red. The indexes fell vict...",
+      "url": "https://www.tipranks.com/news/stock-market-news-review-spy-qqq-mixed-as-fed-flying-blind-without-economic-data-on-third-day-of-government-shutdown",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2339956111-1-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-03T20:23:51Z"
+    },
+    {
+      "title": "Lawsuit blames Cybertruck door handles for death of three teens in Tesla crash - Electrek",
+      "description": "The families of two college students who died in a Cybertruck crash filed lawsuits claiming the deaths were caused by Tesla design defects.",
+      "url": "http://electrek.co/2025/10/03/lawsuit-claims-cybertrucks-door-handles-led-to-teens-death-after-tesla-crash/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/10/Screenshot-2025-10-03-at-12.40.15-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2025-10-03T19:35:00Z"
+    },
+    {
+      "title": "YouTube TV Standoff With NBC Is a Warning Shot to the Industry - hollywoodreporter.com",
+      "description": "Good luck in the next round, all channel providers.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/youtube-tv-nbc-carriage-deal-industry-power-shift-1236392578/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2189642775-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-03T19:17:05Z"
+    },
+    {
+      "title": "Exclusive-Trump considering significant tariff relief for US vehicle production, senator says - Yahoo",
+      "description": "WASHINGTON (Reuters) -U.S. President Donald Trump is considering significant tariff relief for U.S. auto production that could effectively eliminate much of ...",
+      "url": "https://ca.finance.yahoo.com/news/exclusive-trump-considering-significant-tariff-190542249.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.ca/8da263599fa46c74af9e22f439feecbf",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-03T19:05:42Z"
+    },
+    {
+      "title": "Stock Market Today: Indexes Head For Weekly Gains But Chip Leader Falls On Warning (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: Small caps lead the way Friday. Shopify jumps, but sellers hit several AI stocks, including Palantir.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-astera-nvidia-tesla/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-03T18:59:00Z"
+    },
+    {
+      "title": "Shutdown has already delayed the jobs report. More critical reports could be held up - NPR",
+      "description": "The government's monthly jobs report was not published Friday as a result of the federal shutdown.  That's left businesses and policymakers in the dark about the strength of the U.S. job market.",
+      "url": "https://www.npr.org/2025/10/03/nx-s1-5561750/shutdown-jobs-labor-economy-wall-street",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5352x3011+0+227/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F6e%2F89d9f2094e77ae6b163e2a8c4fd2%2Fgettyimages-1495450736.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-03T18:44:39Z"
+    },
+    {
+      "title": "Lithium Americas Shares Surge After DOE Loan Agreement Advances - Benzinga",
+      "description": "",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/10/48023352/lithium-americas-shares-surge-after-doe-loan-agreement-advances",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/03/Lithium-Americas.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "publishedAt": "2025-10-03T17:15:45Z"
+    },
+    {
+      "title": "Tesla Stock Slipped Despite Record Q3 Deliveries: Can The Company Make It Big With AI? - Barchart.com",
+      "description": "Tesla stock came off record highs yesterday despite the company reporting record Q3 deliveries. The company is eyeing growth from AI products at a time when the core automotive business is showing signs of stagnation.",
+      "url": "https://www.barchart.com/story/news/35221453/tesla-stock-slipped-despite-record-q3-deliveries-can-the-company-make-it-big-with-ai",
+      "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Famous%20People/Image%20of%20CEO%20Elon%20Musk%20by%20Kathy%20Hutchins%20via%20Shutterstock.jpg",
+      "source": "Barchart.com",
+      "publishedAt": "2025-10-03T17:00:40Z"
+    },
+    {
+      "title": "OpenAI’s Sora soars to No. 1 on Apple’s US App Store - TechCrunch",
       "description": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
-      "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
+      "url": "https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
       "source": "TechCrunch",
-      "publishedAt": "2025-10-02T18:24:54Z"
+      "publishedAt": "2025-10-03T16:48:32Z"
     },
     {
-      "title": "Elizabeth Warren calls for Trump to release the jobs report despite shutdown - CNN",
-      "description": "Democratic Sen. Elizabeth Warren is calling on the Trump administration to release the September jobs report on Friday despite the ongoing government shutdown, a Senate aide told CNN on Thursday.",
-      "url": "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15471257d.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-02T17:07:55Z"
+      "title": "Plug Power skyrockets as H.C. Wainwright hikes price target to Street-high $7 (PLUG:NASDAQ) - Seeking Alpha",
+      "description": "Plug Power rises to a new 52-week high $3.95 as HC Wainwright raised its price target to a Wall Street-high $7 and maintained a Buy rating, extending gains since October 1 to nearly 70%.",
+      "url": "https://seekingalpha.com/news/4501752-plug-power-skyrockets-as-h-c-wainwright-hikes-price-target-to-street-high-7",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "publishedAt": "2025-10-03T16:28:28Z"
     },
     {
-      "title": "Nuclear fusion was always 30 years away—now it’s a matter of when, not if, fusion comes online to power AI - Fortune",
-      "description": "Fusion has the potential to solve the world's energy demand and climate goals, but questions remain about crossing the technology finish line and scaling up economically.",
-      "url": "https://fortune.com/2025/10/02/nuclear-fusion-online-commercial-ai-power/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/SPARC-Tokamak-Hall-in-Devens.png?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-02T17:00:00Z"
+      "title": "Elon Musk Says “Good” To Rep. Tim Burchett’s Proposal To Question Netflix About ‘Dead End: Paranormal Park’ - Deadline",
+      "description": "Elon Musk apparently supports an effort by Republican Congressman Tim Burchett to have Netflix officials answer questions on transgender issues.",
+      "url": "http://deadline.com/2025/10/elon-musk-netflix-tim-burchett-dead-end-paranormal-park-1236569218/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/Musk-Congressman-Tim-Burchett-a.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-03T16:27:00Z"
     },
     {
-      "title": "Rigetti Stock Hits Record High. D-Wave and IonQ Shares Also Rise. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/rigetti-stock-quantum-computing-d-wave-onq-d4479175",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-10-02T16:56:39Z"
+      "title": "Bitcoin Approaches Record as ‘Debasement’ Trade Spurs Risk Rally - Bloomberg.com",
+      "description": "Bitcoin approached its all-time high as a broader risk rally around the US government shutdown buoyed the world’s largest cryptocurrency.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-03/bitcoin-approaches-record-as-debasement-trade-spurs-risk-rally",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2uWWjGDa1Yg/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-03T16:24:37Z"
     },
     {
-      "title": "US stocks drift near their records as tech keeps rising and Wall Street keeps ignoring DC's shutdown - AP News",
-      "description": "U.S. stocks edged up to more records. The S&P 500 rose 0.1% Thursday. The Dow Jones Industrial Average added 0.2%, while the Nasdaq composite climbed 0.4%. All three set all-time highs. Technology stocks helped lead the way after OpenAI announced partnerships…",
-      "url": "https://apnews.com/article/markets-stocks-shutdown-korea-openai-trump-a08c07307c4483a3583fe2aaa1609637",
-      "urlToImage": "https://dims.apnews.com/dims4/default/adcd2ca/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2Fd9%2Fa81e503053fc224b90737c89793e%2F070049b720e34fe5ac2c3abc3c3b2d6d",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-02T16:45:00Z"
+      "title": "MN PUC greenlights BlackRock takeover—Minnesotans lose - Private Equity Stakeholder Project PESP",
+      "description": "MN PUC Decision to Approve BlackRock Takeover of Minnesota Power is a Bad Deal for Minnesotans By ignoring the ALJ’s recommendation, commissioners handed Minnesota Power to private equity…",
+      "url": "https://pestakeholder.org/news/mn-puc-greenlights-blackrock-takeover-minnesotans-lose/",
+      "urlToImage": "https://pestakeholder.org/wp-content/uploads/2025/10/cropped-BlackRock-MN-takeover-MN-PUC.jpg",
+      "source": "Pestakeholder.org",
+      "publishedAt": "2025-10-03T16:18:52Z"
     },
     {
-      "title": "Maxwell House coffee has officially changed its name - Salon.com",
-      "description": "The coffee giant is revamping its brand name for the first time in 133 years",
-      "url": "https://www.salon.com/2025/10/02/maxwell-house-coffee-has-officially-changed-its-name/",
-      "urlToImage": "https://www.salon.com/app/uploads/2024/03/coffee_pouring_in_two_mugs_1754488912.jpg",
-      "source": "Salon",
-      "publishedAt": "2025-10-02T16:30:08Z"
+      "title": "Tesla Stock (TSLA) Gets Sell Rating as EV Tax Credits in U.S. Expire - TipRanks",
+      "description": "UBS is not convinced the EV maker will thrive moving forward.",
+      "url": "https://www.tipranks.com/news/tesla-stock-tsla-gets-sell-rating-as-ev-tax-credits-in-u-s-expire",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/aaa-19-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-03T16:17:14Z"
     },
     {
-      "title": "Six months later, the future of Trump's tariffs is murkier than ever - Axios",
-      "description": "President Trump's April tariff announcement panicked markets and sparked recession fears, but the economy is still solid.",
-      "url": "https://www.axios.com/2025/10/02/trump-tariffs-supreme-court-recession",
-      "urlToImage": "https://images.axios.com/OyYFwLJoK26WI49q-IrwIxhI9yc=/1366x768/smart/2025/05/23/193102-1748028662510.jpg",
+      "title": "Hiring data suggests an unusual economic dynamic at play - Axios",
+      "description": "In the absence of a jobs report, the ADP report was this week's headliner.",
+      "url": "https://www.axios.com/2025/10/03/government-shutdown-jobs-report-september-adp",
+      "urlToImage": "https://images.axios.com/v0Z3RdXg3Xlr6Y_zhkABWT2ON5M=/1366x768/smart/2022/06/17/182112-1655490072698.jpg",
       "source": "Axios",
-      "publishedAt": "2025-10-02T16:03:55Z"
+      "publishedAt": "2025-10-03T16:08:49Z"
     }
   ]
 }
