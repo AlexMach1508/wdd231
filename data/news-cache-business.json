@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2025-10-06T06:40:02.569Z",
+  "updatedAt": "2025-10-07T06:39:00.489Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "DC’s shutdown hasn’t stopped the stock market. Here’s what may - AP News",
-      "description": "The U.S. stock market continues to rise despite the government's latest shutdown. The S&P 500 and Dow Jones Industrial Average hit all-time highs on Friday. It's not just big tech driving the market; the Russell 2000 index of smaller stocks and gold also reac…",
-      "url": "https://apnews.com/article/stock-market-rates-records-shutdown-earnings-ai-251fefd075ac658ce498c9d1953efc70",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3a71e0e/2147483647/strip/true/crop/7680x4320+0+400/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2F6e%2F82d51664765ae2b03c6bcc20df68%2F4edc6f608d604541806293ef6b76cd0f",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-04T22:47:00Z"
-    },
-    {
-      "title": "Startups and the U.S. government: It’s getting complicated - TechCrunch",
-      "description": "Equity co-hosts Anthony Ha, Kirsten Korosec, and Max Zeff explore the how startups are navigating a topsy-turvy relationship with the U.S. government.",
-      "url": "https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/bryce-durbin-capitol.jpeg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-04T19:10:05Z"
-    },
-    {
-      "title": "Rite Aid closing all locations after decades in business - CBS News",
-      "description": "Rite Aid announced on its website that all locations will be closing.",
-      "url": "https://www.cbsnews.com/news/rite-aid-closing-all-locations-after-decades-in-business/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/08/15/9121b6b3-fdcb-4854-b134-9a0ba48a986e/thumbnail/1200x630/54d2ea4d56170d58437cf359eddbd888/gettyimages-1727592591.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-04T17:48:00Z"
-    },
-    {
-      "title": "U.S. Postal Service mail carrier shot by Amazon driver - FreightWaves",
-      "description": "An Amazon driver shot a U.S. Postal Service worker when they crossed paths at an apartment complex.",
-      "url": "https://www.freightwaves.com/news/u-s-postal-service-mail-carrier-shot-by-amazon-driver",
-      "urlToImage": "https://www.freightwaves.com/wp-content/uploads/2025/10/04/USPS-Amazon-shooting_1.jpg",
-      "source": "FreightWaves",
-      "publishedAt": "2025-10-04T17:20:20Z"
-    },
-    {
-      "title": "This billionaire Trump ally and his son are building an unprecedented media empire - The Washington Post",
-      "description": "Larry and David Ellison’s holdings span movies, TV networks, CBS and soon a stake in TikTok, in a paradigm-shifting portfolio with huge influence.",
-      "url": "https://www.washingtonpost.com/technology/2025/10/04/larry-david-ellison-media-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PV5UGEH5OFZPTN2V75X4TRZXBQ.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-04T17:00:00Z"
-    },
-    {
-      "title": "Sam Altman says Sora will add ‘granular,’ opt-in copyright controls - TechCrunch",
-      "description": "OpenAI may be reversing course on how it approaches copyright and intellectual property in its new video app Sora.",
-      "url": "https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-04T16:26:50Z"
-    },
-    {
-      "title": "Shutdown pauses Amazon, Apple antitrust cases - Politico",
-      "description": "Here's what's happening to Washington's high-profile push against Big Tech",
-      "url": "https://www.politico.com/news/2025/10/04/washingtons-push-to-break-up-big-tech-hits-a-shutdown-00593635",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd6%2F2b%2F43af1e0a4d0e960d775601bc86c0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2166081752",
-      "source": "Politico",
-      "publishedAt": "2025-10-04T16:00:00Z"
-    },
-    {
-      "title": "The New Age of Entrepreneurship: 70 to 79 - The Wall Street Journal",
-      "description": "Septuagenarians starting new businesses leverage technology, experience and decades worth of contacts",
-      "url": "https://www.wsj.com/health/wellness/the-new-age-of-entrepreneurship-70-to-79-e0ae1b9a",
-      "urlToImage": "https://images.wsj.net/im-32206887/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-04T16:00:00Z"
-    },
-    {
-      "title": "Daniel Ek stepping down changes nothing for the artists boycotting Spotify - The Verge",
-      "description": "Musicians who’ve pulled their music from Spotify over royalties, AI, or drones aren’t impressed by Daniel Ek’s shift from CEO to chairman.",
-      "url": "https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKP217_Daniel_Ek_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-04T16:00:00Z"
-    },
-    {
-      "title": "Novo to offer Wegovy, Ozempic to Costco members at half price - Seeking Alpha",
-      "description": "Novo Nordisk (NVO) reaches a deal to offer its weight loss and diabetes drugs, Wegovy and Ozempic, for cash paying members of Costco (COST). Read more here.",
-      "url": "https://seekingalpha.com/news/4501832-novo-to-offer-wegovy-ozempic-half-price-costco",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072266090/image_1072266090.jpg?io=getty-c-w750",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-10-04T15:05:14Z"
-    },
-    {
-      "title": "32-year-old couldn't get hired due to his criminal record—now his food truck brings in over $1 million a year - CNBC",
-      "description": "Due to his criminal record, Dawon Matthews struggled to find a job. Today, his five businesses bring in seven figures yearly, including his Houston food truck.",
-      "url": "https://www.cnbc.com/2025/10/04/how-this-32-year-olds-houston-food-truck-brings-in-over-1-million-a-year.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207608-1759507422981-Dawon_Matthews_cover.jpg?v=1759512235&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-04T13:50:01Z"
-    },
-    {
-      "title": "Why Fears of a Trillion-Dollar AI Bubble Are Growing - Bloomberg.com",
-      "description": "Investors have parted with unprecedented sums of money to help AI fulfil its lofty promise. But no one really knows how it will all pay off",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-04/why-ai-bubble-concerns-loom-as-openai-microsoft-meta-ramp-up-spending",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is40L4EgxPxE/v0/1200x630.jpg",
+      "title": "Gold, Bitcoin Surge on Concerns Over Global Debt Pile - Bloomberg.com",
+      "description": "Growing fiscal concerns in some of the world’s biggest economies are adding momentum to a so-called “debasement trade,” as investors flock to the perceived safety of Bitcoin, gold and silver while pulling away from major currencies.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-06/gold-bitcoin-btc-extend-rally-as-us-dollar-japanese-yen-fall-on-politics",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icd7QpPrlsUk/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-10-04T13:00:08Z"
+      "publishedAt": "2025-10-06T03:32:00Z"
     },
     {
-      "title": "Breaking up (Google) is hard to do - The Verge",
-      "description": "Google warned that if a court adopts the Justice Department’s proposals to break up its ad tech monopoly, it could backfire on publishers.",
-      "url": "https://www.theverge.com/policy/792055/google-doj-ad-tech-remedies-trial-defense",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS487_Antitrust_STK093_Google_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-04T13:00:00Z"
+      "title": "US pharmacy chain Rite Aid closes final stores - BBC",
+      "description": "The company was once one of the largest pharmacy chains in the country, but struggled financially in recent years.",
+      "url": "https://www.bbc.com/news/articles/c3w50gjyyxwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e7fe/live/107a7de0-a228-11f0-9a8d-55d7ff06f061.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-06T02:07:46Z"
     },
     {
-      "title": "Are we in a recession? Yes — if you live in one of these 22 states. - MarketWatch",
-      "description": "Moody’s economist Mark Zandi warns the U.S. is close to a damaging economic contraction",
-      "url": "https://www.marketwatch.com/story/are-we-in-a-reccession-yes-if-you-live-in-one-of-these-22-states-3947b4cd",
-      "urlToImage": "https://images.mktw.net/im-00322523/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-10-04T13:00:00Z"
-    },
-    {
-      "title": "3 Best Dividend Stocks to Buy Now, According to Analysts, 10/4/2025 - TipRanks",
-      "description": "Dividend-paying stocks are a great way to generate passive income and can be considered a safe bet in the current uncertain market situation. Furthermore, these sto...",
-      "url": "https://www.tipranks.com/news/3-best-dividend-stocks-to-buy-now-according-to-analysts-10-4-2025",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/dividend-stocks-750x406.jpg",
+      "title": "U.S. Stock Futures Steady after Record Rally, Despite Government Shutdown - TipRanks",
+      "description": "U.S. stock futures held steady on Sunday night after Wall Street’s record rally last week, even as the government shutdown showed no sign of ending. Futures on the&...",
+      "url": "https://www.tipranks.com/news/u-s-futures-steady-after-record-rally-despite-government-shutdown",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/stock-market-1-750x406.jpg",
       "source": "Tipranks.com",
-      "publishedAt": "2025-10-04T12:34:01Z"
+      "publishedAt": "2025-10-06T01:44:34Z"
     },
     {
-      "title": "With CoreWeave Stock (CRWV) Up 264%, Let’s Look at Who Owns It - TipRanks",
-      "description": "CoreWeave ($CRWV) stock is up 264% this year, fueled by soaring demand for its high-performance computing services and a string of major contracts. The latest is a ...",
-      "url": "https://www.tipranks.com/news/with-coreweave-stock-crwv-up-264-lets-look-at-who-owns-it",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2666602971-750x406.jpg",
+      "title": "Jaguar Land Rover to restart some production after cyber-attack - BBC",
+      "description": "Work is to resume first at the carmaker's engine factory in Wolverhampton on Monday.",
+      "url": "https://www.bbc.com/news/articles/ckge0ex5g27o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c916/live/235006e0-a261-11f0-b741-177e3e2c2fc7.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-05T23:14:18Z"
+    },
+    {
+      "title": "The EV Tax Credit Just Expired -- 3 Stocks That Could Still Win Without It - The Motley Fool",
+      "description": "Not all EV makers will be crushed by the expiring sales incentive.",
+      "url": "https://www.fool.com/investing/2025/10/05/the-ev-tax-credit-just-expired-3-stocks-that-could/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/835731/gettyimages-934267934-1201x794-b35ce42.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2025-10-05T23:05:00Z"
+    },
+    {
+      "title": "How China is challenging Nvidia's AI chip dominance - BBC",
+      "description": "Beijing has urged local firms to use homemade chips. But is China ready to turn away from Nvidia?",
+      "url": "https://www.bbc.com/news/articles/cgmz2vm3yv8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-05T23:00:21Z"
+    },
+    {
+      "title": "Germany outfitted half a million balconies with solar panels - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45485806",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-10-05T22:58:42Z"
+    },
+    {
+      "title": "Stock futures are little changed after a record-setting week as government shutdown continues: Live updates - CNBC",
+      "description": "Stock futures were little changed Sunday night as a U.S. government shutdown carried on following a week in which Wall Street scaled to record highs.",
+      "url": "https://www.cnbc.com/2025/10/05/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200047-17581256502025-09-17t160240z_726583784_rc2ptgaq293y_rtrmadp_0_usa-stocks.jpeg?v=1758125920&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-05T22:20:00Z"
+    },
+    {
+      "title": "Trump calls on Google to bring back Univision to YouTube TV, calls it ‘very bad’ for GOP ahead of midterms - CNN",
+      "description": "Portraying Univision as a crucial political tool for Republicans, President Trump is publicly pressing Google to restore access to Univision on the YouTube TV streaming platform.",
+      "url": "https://www.cnn.com/2025/10/05/business/trump-univision-youtube-google-midterms",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178042795.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-05T22:14:10Z"
+    },
+    {
+      "title": "Foster Poultry Farms recalls nearly 4 million pounds of chicken corn dogs due to wood in batter - AP News",
+      "description": "Foster Poultry Farms is recalling over 3.8 million pounds of chicken corn dog products after wood was found in the batter. The Agriculture Department’s Food Safety and Inspection Service posted a notice on Saturday about the recall. The company, based in Livi…",
+      "url": "https://apnews.com/article/recall-corn-dogs-wood-batter-68edfe482dfe16a60dd34f0d8f18937a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-05T21:42:00Z"
+    },
+    {
+      "title": "‘What a Banger’: George Gianarikas Says Load Up on Tesla Stock - TipRanks",
+      "description": "Tesla (NASDAQ:TSLA) blew past expectations in Q3, delivering the kind of numbers investors had been hoping to see after a sluggish first half of the year. The EV le...",
+      "url": "https://www.tipranks.com/news/what-a-banger-george-gianarikas-says-load-up-on-tesla-stock",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/George-Gianarikas-TSLA-750x406.jpg",
       "source": "Tipranks.com",
-      "publishedAt": "2025-10-04T12:23:58Z"
+      "publishedAt": "2025-10-05T21:38:43Z"
     },
     {
-      "title": "Federal EV Credits Disappeared. This State Just Upped Its Own Incentive To Help Replace Them - InsideEVs",
-      "description": "Forget $7,500 from the feds. How about $9,000 from the state? Colorado plans to step up its EV incentives to keep its momentum in the EV transition.",
-      "url": "https://insideevs.com/news/774654/colorado-vxc-program-explained/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/KjMVl/s1/lucid-motors-beverly-hills-showroom.jpg",
-      "source": "InsideEVs ",
-      "publishedAt": "2025-10-04T12:04:13Z"
+      "title": "Buyers could save hundreds in new house buying shakeup - BBC",
+      "description": "Housing Secretary Steve Reed claims the changes would \"fix the broken system\" and put more money \"back into working people's pockets\".",
+      "url": "https://www.bbc.com/news/articles/cy0v7zwp0dlo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0623/live/488de0c0-a226-11f0-a2b9-abdd67c14f44.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-05T21:30:27Z"
     },
     {
-      "title": "Long Beach is first city in the nation to impose new check-out lane rules - LAist",
-      "description": "The new ordinance applies to certain grocers operating in the city and has led to some self-checkout lanes to shutter.",
-      "url": "https://laist.com/news/food/long-beach-first-in-nation-to-impose-new-check-out-lane-rules",
-      "urlToImage": "https://scpr.brightspotcdn.com/dims4/default/4648899/2147483647/strip/true/crop/6192x3251+0+439/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F78%2Fd6%2F0b6c2d5242d99748b14e2b92d7fc%2Fgettyimages-2158917743.jpg",
-      "source": "LAist",
-      "publishedAt": "2025-10-04T12:00:00Z"
+      "title": "Shell US chief says Trump’s halting of wind projects harms investment: report - New York Post",
+      "description": "Hirstius told FT that energy projects with proper permits should be allowed to continue and warned the political pendulum in the US could eventually swing back against the oil and gas sector.",
+      "url": "https://nypost.com/2025/10/05/business/shell-us-chief-says-trumps-halting-of-wind-projects-harms-investment-report/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/Comp-Shell-Wind.jpg?quality=75&strip=all&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-10-05T20:51:00Z"
+    },
+    {
+      "title": "‘Gold-plated Fomo’ powers bullion’s record-breaking rally - Financial Times",
+      "description": "Price has rocketed nearly 50% this year, its best performance since 1979, as institutional investors pile in",
+      "url": "https://www.ft.com/content/54dc2b76-8c24-4dd7-a01a-7d1f38b5ea6d",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F78a3edd9-3203-4dea-99d1-327314535f68.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-05T20:00:08Z"
+    },
+    {
+      "title": "Sam Altman Warns That AI Industry Is Due for a Spectacular Implosion - Futurism",
+      "description": "OpenAI CEO Sam Altman is once again forecasting what sounds awfully like the catastrophic burst of the AI bubble.",
+      "url": "https://futurism.com/artificial-intelligence/sam-altman-warns-ai-industry-implosion",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/sam-altman-warns-ai-industry-implosion.jpg?quality=85",
+      "source": "Futurism",
+      "publishedAt": "2025-10-05T19:00:00Z"
+    },
+    {
+      "title": "OpenAI and Jony Ive may be struggling to figure out their AI device - TechCrunch",
+      "description": "OpenAI and Jony Ive reportedly face significant technical challenges as they work to develop a screen-less, AI-powered device.",
+      "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-05T16:34:26Z"
+    },
+    {
+      "title": "Could Crypto and Stocks Face a Major Correction if This Unlikely Scenario Unfolds? - CoinDesk",
+      "description": "Most traders seem confident in a 25-basis-point Fed cut on Oct. 29. But with the U.S. federal government shutdown, is it really a foregone conclusion?",
+      "url": "https://www.coindesk.com/markets/2025/10/05/the-fed-s-next-move-on-oct-29-how-a-scenario-few-expect-could-derail-u-s-stocks-and-crypto",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a4ad4f55d03e901deb643ac41fcc8acb8ae08015-1920x1080.jpg?auto=format",
+      "source": "CoinDesk",
+      "publishedAt": "2025-10-05T16:11:18Z"
     }
   ]
 }
