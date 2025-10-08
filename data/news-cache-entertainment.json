@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2025-10-07T06:39:00.708Z",
+  "updatedAt": "2025-10-08T06:39:39.648Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Britney Spears Says She Fell Down Stairs, Knee Snaps Out Occasionally - TMZ",
-      "description": "Britney Spears says she hurt her knee badly after taking a tumble at her friends house ... but, it's alright now -- 'cause she says it popped back into place???",
-      "url": "https://www.tmz.com/2025/10/05/britney-spears-says-she-fell-down-stairs-knee-snapped-out/",
-      "urlToImage": "https://imagez.tmz.com/image/a9/16by9/2025/10/05/a9cb5d562be04970aaa9b6a262712902_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-10-06T00:22:20Z"
-    },
-    {
-      "title": "See Taylor Swift's Dark Brunette Hair Transformation in \"Fate of Ophelia\" Music Video - E! News",
-      "description": "In the music video for Taylor Swift’s new song “Fate of Ophelia,” seemingly about her fiancé Travis Kelce, the Life of a Showgirl singer showed off a dramatic dark brown hair transformation.",
-      "url": "https://www.eonline.com/news/1423384/taylor-swifts-the-life-of-a-showgirl-music-video-hair-transformation",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20251003/595ce3a5-fec5-4c81-8c18-efda04f1cf8b_1759532080.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "source": "Eonline.com",
-      "publishedAt": "2025-10-05T23:10:00Z"
-    },
-    {
-      "title": "How thieves stole 24,000 bottles of Guy Fieri's tequila in a highway heist - CBS News",
-      "description": "Trucks carrying Santo Tequila, a brand founded by Food Network host Guy Fieri and former Van Halen frontman Sammy Hagar, vanished last year. This is how the sophisticated highway heist was pulled off.",
-      "url": "https://www.cbsnews.com/news/how-thieves-stole-24000-bottles-of-guy-fieris-tequila-highway-heist-60-minutes-transcript/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/03/f5dccd98-383e-40ed-8793-f4f416fda9ed/thumbnail/1200x630/1ec5ad7a82f7f90aeede91ee9e3866ea/tequila-heist-video-alfonsi.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-05T23:00:25Z"
-    },
-    {
-      "title": "Hollywood fights back again, Jane Fonda revives Committee for the First Amendment - Salon.com",
-      "description": "Jane Fonda revives of father’s McCarthy-era free speech coalition, warn of government efforts to silence dissent",
-      "url": "https://www.salon.com/2025/10/05/hollywood-fights-back-again-jane-fonda-revives-committee-for-the-first-amendment/",
-      "urlToImage": "https://www.salon.com/app/uploads/2025/10/GettyImages-2237786366.jpg",
-      "source": "Salon",
-      "publishedAt": "2025-10-05T20:45:13Z"
-    },
-    {
-      "title": "Nicole Kidman steps out for powerful cause after filing for divorce from Keith Urban - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.go.com/GMA/Culture/nicole-kidman-makes-public-appearance-after-filing-divorce/story?id\\\\u003d126236512",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-05T20:37:30Z"
-    },
-    {
-      "title": "White House Slams 'SNL' After Cold Open Targets Trump and Brendan Carr - Variety",
-      "description": "A White House rep has responded to the first cold open of 'Saturday Night Live' season 51, which targeted Donald Trump and FCC chair Brendan Carr.",
-      "url": "https://variety.com/2025/tv/news/white-house-responds-snl-trump-brendan-carr-fcc-late-night-1236540655/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/MixCollage-05-Oct-2025-12-54-PM-2582.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-10-05T20:09:00Z"
-    },
-    {
-      "title": "Taylor Swift’s ‘Showgirl’ Rocks Box Office With $33M, Dwayne Johnson’s ‘Smashing Machine’ Opens to Career-Worst $6M - The Hollywood Reporter",
-      "description": "'Showgirl' pulled in huge numbers for a 89-minute \"cinematic experience\" that's neither a concert film nor a doc but rather a (smart) promotional stunt for Swift's new album. Overseas, it took in $46 million.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/taylor-swift-showgirl-box-office-dwayne-johnson-1236392420/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/TLOASPromo-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-10-05T20:05:19Z"
-    },
-    {
-      "title": "Dwayne Johnson's Smashing Machine is no match for Taylor Swift's Showgirl at the box office - AV Club",
-      "description": "Dwayne Johnson's Smashing Machine is no match for Taylor Swift's Showgirl at the box office",
-      "url": "https://www.avclub.com/weekend-box-office-taylor-swift-smashing-machine",
-      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2025/04/29093054/videoframe_86599.jpg",
-      "source": "The A.V. Club",
-      "publishedAt": "2025-10-05T18:01:00Z"
-    },
-    {
-      "title": "Bad Bunny Fires Back at 2026 Super Bowl Halftime Show Backlash in ‘SNL’ Monologue: Watch - Billboard",
-      "description": "Bad Bunny addressed the backlash surrounding his selection as the 2026 Super Bowl Halftime Show headliner on \"Saturday Night Live.\"",
-      "url": "http://www.billboard.com/music/music-news/bad-bunny-snl-super-bowl-backlash-monologue-1236082237/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/10/bad-bunny-snl-monologue-billboard-1800.jpg?w=1024",
-      "source": "Billboard",
-      "publishedAt": "2025-10-05T17:57:54Z"
-    },
-    {
-      "title": "‘One Battle After Another’ Tops $100M WW; Swifties Shell Out $13M Overseas & ‘Avatar’ Resurfaces – International Box Office - Deadline",
-      "description": "Paul Thomas Anderson’s One Battle After Another has topped $100M global; Taylor Swift’s Party of a Showgirl grossed $46M worldwide in its opening frame",
-      "url": "http://deadline.com/2025/10/one-battle-taylor-swift-showgirl-demon-slayer-global-international-box-office-1236570525/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/MixCollage-05-Oct-2025-06-48-PM-6890.jpg?w=1024",
+      "title": "Jennifer Lopez And Ben Affleck Reunite On ‘Kiss Of The Spider Woman’ Red Carpet - Deadline",
+      "description": "Lopez wore a daring, spider-themed dress; brought her rarely-seen teen twins Max and Emme; and received a celebratory smooch from ex Ben Affleck.",
+      "url": "https://deadline.com/gallery/jennifer-lopez-ben-affleck-reunion-red-carpet/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/lopez-affleck-spider2.png?w=1024",
       "source": "Deadline",
-      "publishedAt": "2025-10-05T17:09:00Z"
+      "publishedAt": "2025-10-07T03:33:00Z"
     },
     {
-      "title": "Balenciaga spring-summer 2026: Meghan Markle, Anne Hathaway show up for Paris debut of fashion’s great romantic - CNN",
-      "description": "Designer Pierpaolo Piccioli staged his first collection for Balenciaga, taking the Paris-based luxury house away from viral buzz and back to its elegant roots.",
-      "url": "https://www.cnn.com/2025/10/05/style/balenciaga-pierpaolo-piccioli-paris-fashion-week-debut",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239236995.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-05T16:40:13Z"
-    },
-    {
-      "title": "Amy Schumer Shows Off Major Weight Loss in New Photo: 'Legs for Days' - AOL.com",
-      "description": "The actress and comedian previously opened up about her experiences with weight loss drugs, including Ozempic and Mounjaro",
-      "url": "https://people.com/amy-schumer-shows-off-dramatic-weight-loss-in-las-vegas-11824532",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PcwtuuRx1IYBLn.wBTRk8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/cee18467ecc4e352d49d328fdfefdba6",
+      "title": "Jennifer Lopez Poses with Her Twins, 17, at “Kiss of the Spider Woman” N.Y.C Screening - Yahoo News UK",
+      "description": "Jennifer Lopez poses with twins Max and Emme at the New York City special screening of her 'Kiss of the Spider Woman' red carpet event.",
+      "url": "https://people.com/jennifer-lopez-poses-with-twins-17-at-kiss-of-the-spider-woman-n-y-c-screening-11825389",
+      "urlToImage": "https://people.com/thmb/LGLbyrgRFUtPsCvQcl8FBcmCyQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(982x547:984x549)/Jennifer-Lopez-Max-and-Emme-Kiss-Of-The-Spider-Woman-screening-100625-3-14ca406d1bbd4c8eb219372e59dc0e0c.jpg",
       "source": "PEOPLE",
-      "publishedAt": "2025-10-05T15:40:53Z"
+      "publishedAt": "2025-10-07T03:04:00Z"
     },
     {
-      "title": "Lana Del Rey and Jeremy Dufrene Make a Rare Couple Appearance at Valentino - Vogue",
-      "description": "The married couple sat front row at the spring 2026 Valentino show in Paris; Lana Del Rey in a vintage-inspired look, Jeremy Dufrene in his usual comfy casuals.",
-      "url": "https://www.vogue.com/article/lana-del-rey-jeremy-dufrene-valentino-paris-fashion-week",
-      "urlToImage": "https://assets.vogue.com/photos/68e280418cc04cc9ca2bbac9/16:9/w_1280,c_limit/GettyImages-2239356902-1.jpg",
-      "source": "Vogue",
-      "publishedAt": "2025-10-05T15:04:18Z"
+      "title": "Instagram Is Launching Its Own Awards for Creators: “Rings” (Exclusive) - The Hollywood Reporter",
+      "description": "Spike Lee, Marc Jacobs and Instagram head Adam Mosseri will be among the judges of the Rings program, which will honor the platform's top creators with rings, both physical and digital.",
+      "url": "http://www.hollywoodreporter.com/business/digital/instagram-rings-awards-program-creators-1236392836/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/RINGS_Hero-Comms-Image_16-9.png?crop=0px%2C8px%2C4000px%2C2238px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-07T02:31:17Z"
     },
     {
-      "title": "All Eyes Are on These 3 Singers Who’ve Worked Closely With Keith Urban Amid ‘Other Woman’ Rumors - SheKnows",
-      "description": "Who could it be?",
-      "url": "https://www.sheknows.com/entertainment/articles/1234931395/keith-urban-other-woman-rumors-singers/",
-      "urlToImage": "https://www.sheknows.com/wp-content/uploads/2025/09/keith-urban-nicole-kidman1.jpg?w=1024",
-      "source": "SheKnows",
-      "publishedAt": "2025-10-05T14:43:00Z"
+      "title": "Andy Cohen Will Interview Howard Stern as SiriusXM Talks Continue - The Hollywood Reporter",
+      "description": "SiriusXM says they believe they will reach a deal with Stern, but has also drawn in other big names, including Alex Cooper, because of their talent-friendly approach.",
+      "url": "http://www.hollywoodreporter.com/business/digital/andy-cohen-interview-howard-stern-siriusxm-talks-continue-1236394490/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-1771551364-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-07T02:16:58Z"
     },
     {
-      "title": "Who Was Ed Gein's Mother? Inside the “Monster” Serial Killer's Childhood (and How It Allegedly Inspired His Crimes) - Yahoo News Canada",
-      "description": "Netflix’s 'Monster: The Ed Gein Story' documents the crimes of notorious serial killer Ed Gein. Here’s everything to know about his mother, Augusta Gein, and her relationship with Ed Gein.",
-      "url": "https://people.com/who-was-ed-gein-mother-11819491",
-      "urlToImage": "https://people.com/thmb/B6E8Aoafbg76LFTAzQVwZsPIC7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(988x472:990x474)/ed-gein-mom-augusta-gein-093025-93f43ec255f54dd689feb29c8605ab55.jpg",
-      "source": "PEOPLE",
-      "publishedAt": "2025-10-05T12:00:00Z"
+      "title": "Trump Addresses Bad Bunny’s Super Bowl Booking, But Gets Sidetracked by His Hatred for NFL’s New Kick-Off Rule - Consequence of Sound",
+      "description": "Donald Trump has broken his silence on the NFL's decision to book Bad Bunny as the 2026 Super Bowl Halftime performer, though he seems much more bothered by the league's new kick-off rules.",
+      "url": "https://consequence.net/2025/10/trump-bad-bunny-super-bowl-booking/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2025/10/Trump-on-Newsmax.jpeg",
+      "source": "Consequence.net",
+      "publishedAt": "2025-10-07T02:04:13Z"
     },
     {
-      "title": "Bad Bunny fires back at Super Bowl halftime show backlash in ‘SNL’ monologue: ‘You have four months to learn’ - New York Post",
-      "description": "Rapper Bad Bunny responded to the backlash surrounding the NFL’s decision to book him for this year’s Super Bowl Halftime show as he kicked off the 51st season of “Saturday Night …",
-      "url": "https://nypost.com/2025/10/05/entertainment/bad-bunny-fires-back-at-super-bowl-halftime-backlash-in-snl-monologue-you-have-four-months-to-learn/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-0n0isxefu-1759655186801.jpg?quality=75&strip=all&1759640813&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-10-05T09:21:00Z"
+      "title": "Taylor Swift Sparkles in an Unexpected, Super Short Silver Minidress for 'Tonight Show' Return - instyle.com",
+      "description": "Taylor Swift returned to 'The Tonight Show Starring Jimmy Fallon' after three years, wearing an unexpected silver minidress with off-the-shoulder design and sparkles all over. See her look, here.",
+      "url": "https://www.instyle.com/taylor-swift-silver-minidress-tonight-show-starring-jimmy-fallon-11822793",
+      "urlToImage": "https://www.instyle.com/thmb/ojSyLTe7_PZ4_ufHNEd0a5pCzFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/taylor-8ed3bff4531c4c25af3be3eddc5998c8.jpg",
+      "source": "InStyle",
+      "publishedAt": "2025-10-07T01:39:54Z"
     },
     {
-      "title": "You’ll Never Guess Who Singer D4vd Hired to Be His Lawyer After Teen’s Body Found in His Tesla - The Root",
-      "description": "Celeste Rivas' dead body was found inside of a car trunk, and although police haven't made arrests, one person connected to the case hired counsel.",
-      "url": "https://www.theroot.com/youll-never-guess-who-singer-d4vd-hired-to-be-his-lawye-2000065836",
-      "urlToImage": null,
-      "source": "The Root",
-      "publishedAt": "2025-10-05T02:01:02Z"
+      "title": "‘Marty Supreme’ Makes Surprise World Premiere As New York Film Festival Secret Screening - Deadline",
+      "description": "Timothée Chalamet and Josh Safdie just surprised a New York Film Festival crowd by announcing it would see the world premiere of Marty Supreme.",
+      "url": "http://deadline.com/2025/10/marty-supreme-surprise-world-premiere-new-york-1236571807/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/Marty-Supreme.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-07T01:02:00Z"
     },
     {
-      "title": "Chiefs Star Travis Kelce Gets Disappointing News Before His Birthday - Heavy Sports",
-      "description": "Chiefs tight Travis Kelce gets snubbed before Kansas City's primetime Week 5 matchup and amid Taylor Swift's record-breaking album release.",
-      "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/travis-kelce-gets-disappointing-news-birthday",
-      "urlToImage": "https://heavy.com/wp-content/uploads/2025/10/GettyImages-2237916429-e1759623215536.jpg?quality=65&strip=all",
-      "source": "Heavy.com",
-      "publishedAt": "2025-10-05T00:26:00Z"
+      "title": "Taylor Swift Sure Had a Great Time at Selena Gomez’s Wedding - The Cut",
+      "description": "On Monday, Swift went on SiriusXM’s ‘The Morning Mash Up’ and said her longtime bestie, Selena Gomez, was the ‘most beautiful’ bride at her wedding.",
+      "url": "http://www.thecut.com/article/taylor-swift-selena-gomez-wedding-benny-blanco-comments.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/d08/98d/ff0579820f938530783cc6ec35f1c57cf2-swiftgomez-lede.1x.rsocial.w1200.jpg",
+      "source": "The Cut",
+      "publishedAt": "2025-10-07T00:52:03Z"
     },
     {
-      "title": "Sean 'Diddy' Combs' lawyers plan to appeal as convicted hip-hop star faces more years behind bars - AP News",
-      "description": "Attorneys for Sean “Diddy” Combs are planning to appeal after the Grammy-winning artist and music executive was sentenced Friday to more than four years in prison. He was sentenced for transporting people across state lines for sexual encounters. The case sha…",
-      "url": "https://apnews.com/article/sean-diddy-combs-conviction-sentencing-b0717306a88214efcaef8a2aee0cd04e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/02b7021/2147483647/strip/true/crop/6007x3379+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F45%2F93eb2eb988b3b645d698d74c278e%2F89efd9539a39475eb25aeb3fd096e332",
+      "title": "Jilly Cooper, British author of bestselling risqué novels, including ‘Rivals,’ dies at 88 - AP News",
+      "description": "British author Jilly Cooper, known for her bestselling novels, including “Rivals” and “Riders,” has died. She was 88. The author died on Sunday after a fall, a statement from her agency Curtis Brown said. Her agent, Felicity Blunt, praised Cooper for defining…",
+      "url": "https://apnews.com/article/jilly-cooper-british-author-dies-64f6a2d60b4fdaee0ef7d4b7255a4a35",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5f239b3/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F75%2F9c62d7ff52977ffe20eee158f355%2Fdd4fa6f8f70949d995244e7fcdf820f9",
       "source": "Associated Press",
-      "publishedAt": "2025-10-04T19:24:00Z"
+      "publishedAt": "2025-10-07T00:46:00Z"
+    },
+    {
+      "title": "Zelda Williams Finds AI Videos Of Robin Williams & Other Celebrities \"Gross\" & \"Maddening\": \"Stop Believing I Wanna See It\" - Deadline",
+      "description": "Zelda Williams is asking people to stop sending her AI-generated videos of her late father, Robin Williams.",
+      "url": "http://deadline.com/2025/10/zelda-williams-ai-videos-robin-williams-1236571767/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/zelda-robin-williams.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-07T00:17:00Z"
+    },
+    {
+      "title": "Pedro Pascal, Margot Robbie, Nicole Kidman and More Celeb Photos at the Chanel Fashion Show - Variety",
+      "description": "Chanel hosted the debut collection of its new artistic director, Matthieu Blazy, who wowed guests with his resolutely modern take.",
+      "url": "https://variety.com/gallery/pedro-pascal-margot-robbie-nicole-kidman-chanel-fashion-show/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-2239607658_08761a.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-06T23:44:00Z"
+    },
+    {
+      "title": "Sean 'Diddy' Combs' lawyers want him sent to a New Jersey federal prison that offers drug treatment - AP News",
+      "description": "Sean “Diddy” Combs’ lawyers want the hip-hop mogul sent to a low-security federal prison in New Jersey to serve his four-year, two-month prison sentence. They told a judge Monday that the facility’s drug treatment program will help him stay clean. Combs’ lawy…",
+      "url": "https://apnews.com/article/sean-diddy-combs-sentencing-prison-9f9140853aceb96705865f851af40526",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b52e7eb/2147483647/strip/true/crop/4032x2268+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F21%2F10bc1c4575acb792482033787b24%2F2090cc4f6e5d4f25970fc5f8f320a0d2",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-06T23:43:00Z"
+    },
+    {
+      "title": "Rush announce reunion tour five years after the death of drummer Neil Peart - AP News",
+      "description": "Five years after their influential drummer Neil Peart died of glioblastoma, the Canadian band Rush have announced a reunion tour Monday. Rush co-founders Geddy Lee and Alex Lifeson revealed a 12-date, seven city tour is scheduled for summer 2026. It will kick…",
+      "url": "https://apnews.com/article/rush-reunion-tour-neil-peart-new-drummer-anika-nilles-9527015b58124236e8f9413dd074db77",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0183169/2147483647/strip/true/crop/4050x2278+0+211/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2Fb4%2Fa0f62213a57a301ca2ddf1d3556a%2F13e9e869aa0049c18ac3a26fb0228348",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-06T22:37:00Z"
+    },
+    {
+      "title": "Zach Bryan Newest Song Takes Aim At ICE, Says America Is ‘Fading’ - Forbes",
+      "description": "A teaser for the seemingly liberal-leaning song “Bad News” claims “ICE is gonna come knock down your door.”",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2025/10/06/what-to-know-about-zach-bryans-new-song-bad-news-and-what-it-says-about-ice/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e41426562d441c3bf29dc3/0x0.jpg?format=jpg&crop=2982,1679,x0,y153,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-10-06T19:39:53Z"
+    },
+    {
+      "title": "Nicole Kidman Nails Classic French Style at Chanel - Vogue",
+      "description": "In a crisp white shirt and jeans, the Oscar-winning actor embodied effortless French style.",
+      "url": "https://www.vogue.com/article/nicole-kidman-chanel-show-french-style",
+      "urlToImage": "https://assets.vogue.com/photos/68e40fbb025c8b7667d2bf5a/16:9/w_1280,c_limit/GettyImages-2239607716-1.jpg",
+      "source": "Vogue",
+      "publishedAt": "2025-10-06T19:23:43Z"
+    },
+    {
+      "title": "Dwayne Johnson on Smashing Machine Being Worst Box Office Opening Ever - Variety",
+      "description": "Dwayne Johnson says you can't always look at box office as 'The Smashing Machine' becomes his worst opening ever.",
+      "url": "https://variety.com/2025/film/news/dwayne-johnson-smashing-machine-worst-box-office-opening-1236541398/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-2233858666.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-06T19:19:00Z"
+    },
+    {
+      "title": "Taylor Swift shuts down 'shockingly offensive' fan theory about her and Travis Kelce - KRCR",
+      "description": "Taylor Swift loves a good fan theory and Easter egg, but she shut down one about the future of her career and marriage to Travis Kelce.",
+      "url": "https://thenationaldesk.com/news/entertainment/taylor-swift-shuts-down-shockingly-offensive-fan-theory-about-her-and-travis-kelce",
+      "urlToImage": "https://krcrtv.com/resources/media2/16x9/3237/986/0x325/90/b49f003b-73f7-47f5-8258-940a4c670158-GettyImages2005781567.jpg",
+      "source": "Thenationaldesk.com",
+      "publishedAt": "2025-10-06T19:00:00Z"
+    },
+    {
+      "title": "‘SNL’ shouts out ‘war-torn’ Portland in first cold open of the season - OregonLive.com",
+      "description": "The sketch featured Colin Jost as Defense Secretary Pete Hegseth.",
+      "url": "https://www.oregonlive.com/trending/2025/10/snl-shouts-out-war-torn-portland-in-first-cold-open-of-the-season.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/3TAAQ7ISYBG47HN2O55AEOKQC4.png?auth=f3062a276337ad01885de67c21a40b9b06cdc04509243574c86863d3da5644e3&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-10-06T18:12:00Z"
+    },
+    {
+      "title": "Finally, everyone can say bad things about Taylor Swift - CNN",
+      "description": "It’s finally open season on America’s sweetheart. Even the fans are finding “Life of a Showgirl” — and its messy attendant movie — rough going.",
+      "url": "https://www.cnn.com/2025/10/06/entertainment/being-mean-to-taylor-swift",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182404627.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-06T17:01:08Z"
+    },
+    {
+      "title": "The Best New Artist Field at the 2026 Grammy Awards Is Anyone’s Guess - Rolling Stone",
+      "description": null,
+      "url": "https://www.rollingstone.com/music/music-features/grammys-2026-best-new-artist-predictions-nominees-1235441076/",
+      "urlToImage": null,
+      "source": "Rolling Stone",
+      "publishedAt": "2025-10-06T14:59:29Z"
     }
   ]
 }
