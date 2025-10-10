@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2025-10-09T06:40:21.356Z",
+  "updatedAt": "2025-10-10T06:39:34.987Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Gold surges past record $4,000 an ounce as uncertainty fuels rally - BBC",
-      "description": "Analysts point to delays in the reporting of economic data due to the US government shutdown as one reason for the rise.",
-      "url": "https://www.bbc.com/news/articles/c8ex3wgjlexo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bf57/live/95f02230-a3eb-11f0-90de-cfdf69951f7c.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T02:59:25Z"
+      "title": "Futures Rise After AI-Led Rally Hits Highs; Tesla's New Buy Point - Investor's Business Daily",
+      "description": "Tesla has forged a new handle buy point.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-huang-ai-market-tesla-buy-point/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Nvidia-CES25Huang-companh.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-09T00:10:00Z"
     },
     {
-      "title": "We dug through thousands of Prime Day deals to find 60 standouts for $50 or less - The Verge",
-      "description": "If you’re on a tight budget, here are our favorite Prime Big Deal Days deals under $50, including security cameras, games, chargers, streaming devices, and more.",
-      "url": "https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25810375/blink_outdoor_4.jpg?quality=90&strip=all&crop=0,10.707269155206,100,78.585461689587",
-      "source": "The Verge",
-      "publishedAt": "2025-10-08T02:01:00Z"
-    },
-    {
-      "title": "Stock futures were little changed after S&P 500 snaps 7-day win streak: Live updates - CNBC",
-      "description": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
-      "url": "https://www.cnbc.com/2025/10/07/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206414-1759874774335-108206414-1759329302141-gettyimages-2238557509-anotherday123715883_pygnxms1.jpeg?v=1759874795&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-07T23:24:00Z"
-    },
-    {
-      "title": "Tesla offers cheaper versions of 2 electric vehicles in bid to win back market share in tough year - AP News",
-      "description": "Tesla announced the launch of cheaper versions of two of its electric vehicles Tuesday in hopes of reviving flagging sales. The new Model Y, costing just under $40,000 with a stripped-down interior, comes after sales have plunged for most of the past year. Th…",
-      "url": "https://apnews.com/article/tesla-model-y-cheaper-musk-7dd6213c456fa2c16a676176081a3227",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fa2c948/2147483647/strip/true/crop/5608x3155+0+292/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F5c%2F288feb40cc64b7fe571951e72e8d%2F9ef8d93a473d4312bfef99abf8a2b05d",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-07T23:07:00Z"
-    },
-    {
-      "title": "USDA warns that Hello Fresh subscription meals may contain listeria-tainted spinach - AP News",
-      "description": "Federal health officials have issued a public health alert for certain Hello Fresh subscription meals containing spinach that may be contaminated with listeria. The U.S. Agriculture Department on Monday warned people not to eat Hello Fresh Ready Made Meals Ch…",
-      "url": "https://apnews.com/article/hello-fresh-listeria-usda-public-health-alert-1f2d88b93c7433c408befeb786ec3693",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9a8001d/2147483647/strip/true/crop/1747x983+0+152/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2F66%2F19e14983d54940272aaa0d9adcce%2Ffb0b145ec06049b9b1870025d214cd22",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-07T22:12:00Z"
-    },
-    {
-      "title": "Peter Marks, FDA vaccine regulator ousted by RFK Jr., joins Eli Lilly - statnews.com",
-      "description": "Peter Marks, the former top vaccine regulator at the FDA, has joined Eli Lilly — a move likely to rile up critics of the revolving door between FDA and industry",
-      "url": "https://www.statnews.com/2025/10/07/peter-marks-former-fda-vaccine-official-joins-eli-lilly/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/10/AP21077598459437-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2025-10-07T21:25:47Z"
-    },
-    {
-      "title": "Top analyst on concerns about Nvidia fueling an AI bubble: 'We've seen this movie before. It was called Enron, Tyco' - Fortune",
-      "description": "\"The guy at the epicenter [is] basically starting to do what all ultimate bad actors do in the final inning,\" Morgan Stanley's Lisa Shalett tells Fortune.",
-      "url": "https://fortune.com/2025/10/07/ai-bubble-cisco-moment-dotcom-crash-nvidia-jensen-huang-top-analyst/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2225192613-e1759530128473.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-07T21:15:25Z"
-    },
-    {
-      "title": "Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases - TechCrunch",
-      "description": "AMD's unusual deal to finance OpenAI's chip purchases could grant the AI model maker up to $100 billion, analyst estimates.",
-      "url": "https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1165704565.jpg?w=1024",
+      "title": "Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says - TechCrunch",
+      "description": "By some estimates, OpenAI has this year inked $1 trillion worth of infrastructure deals. Altman says to expect even more.",
+      "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
       "source": "TechCrunch",
-      "publishedAt": "2025-10-07T21:00:19Z"
+      "publishedAt": "2025-10-08T23:00:06Z"
     },
     {
-      "title": "Inhalers produce as much carbon emissions as over 500,000 cars each year, study finds - CBS News",
-      "description": "\"These emissions drive global warming, exacerbating the very respiratory conditions inhalers are meant to relieve,\" researchers wrote.",
-      "url": "https://www.cbsnews.com/news/inhalers-produce-carbon-emissions-study/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/18/a11cea62-bb7a-45cd-8164-3881556cd6a3/thumbnail/1200x630/327627f7e2362b3b01977969ae9da855/gettyimages-1153236079.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-07T20:58:55Z"
+      "title": "Google tells employees: If you want health benefits, sign up with a third-party AI tool - Business Insider",
+      "description": "Employees must provide access to a third-party AI tool to receive health benefits, sparking concerns about data privacy and consent among Googlers.",
+      "url": "https://www.businessinsider.com/google-ai-health-tool-opt-in-risk-losing-benefits-2025-10",
+      "urlToImage": "https://i.insider.com/68e6c0785dbc4fd10daa79fb?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-10-08T22:19:00Z"
     },
     {
-      "title": "Purrfect ending: Missing Virginia store cat found after hitching a ride to another state - AP News",
-      "description": "Francine the cat is back home at a Lowe’s store in Virginia after going missing for a few weeks. The calico cat hitched a ride to a sister facility in another state. After employees at the Richmond store discovered Francine was missing, surveillance footage r…",
-      "url": "https://apnews.com/article/missing-lowes-store-cat-francine-found-e65a342b7fbe6611bc4e2f6ba2765b48",
-      "urlToImage": "https://dims.apnews.com/dims4/default/77957f6/2147483647/strip/true/crop/7096x3992+0+370/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2F01%2F84d46dfbcb5b20727dca0164e232%2F6c246ae1f9f34849a4b6c46b7c06e26a",
+      "title": "Fed minutes: Most officials supported further rate cuts as worries about jobs rose - AP News",
+      "description": "Most members of the Federal Reserve’s interest-rate setting committee supported further reductions to its key interest rate this year, minutes from last month’s meeting showed. Still, the minutes released Wednesday underscored the deep division on the 19-pers…",
+      "url": "https://apnews.com/article/inflation-powell-federal-reserve-jobs-da274909e44aed4ac4c78625db587026",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dfb2200/2147483647/strip/true/crop/7642x4299+0+398/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F16%2Ff1813a1b468a30dadd901741ef86%2F50352ccb900d498685166516c3b152fc",
       "source": "Associated Press",
-      "publishedAt": "2025-10-07T20:55:00Z"
+      "publishedAt": "2025-10-08T22:06:00Z"
     },
     {
-      "title": "Bitcoin Miners Jump On Iren AI Contract News - Investor's Business Daily",
-      "description": "Iren continues to expand its AI cloud services business. Bitcoin miners rally. Bitcoin holds near record highs.",
-      "url": "https://www.investors.com/news/bitcoin-miner-iren-stock-ai-cloud-deal-nvidia-hive-bitfarms-bitcoin-record-high/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/Stock-bitcoin-35-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-07T20:14:00Z"
+      "title": "Bank of England warns AI stock bubble rivals 2000 dotcom peak - Ars Technica",
+      "description": "Central bank says market concentration hasn’t been this extreme in 50 years.",
+      "url": "https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/bank_of_england-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-08T21:18:30Z"
     },
     {
-      "title": "OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of Circular Deals - Bloomberg.com",
-      "description": "A wave of deals and partnerships are escalating concerns that the trillion-dollar AI boom is being propped up by interconnected business transactions.",
-      "url": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVCmWYBLxgq0/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-07T20:00:10Z"
+      "title": "Elon Settles! Musk Makes Deal To End $128M Severance Pay Suit From Ex-Twitter CEO, Others – Update - Deadline",
+      "description": "Elon Musk has come to a deal with ex-Twitter execs to end their $128M severance pay lawsuit",
+      "url": "http://deadline.com/2025/10/elon-musk-sued-twitter-executives-1235845700/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/Elon-Musk-Court.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-08T21:17:00Z"
     },
     {
-      "title": "UBS fund holds 30% exposure linked to First Brands - Financial Times",
-      "description": "Switzerland’s largest bank has multiple investments tied to bankrupt auto parts maker",
-      "url": "https://www.ft.com/content/39da5f5a-e7e6-4678-9c82-60e5a5e023e8",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff5a33abb-f479-4cc4-850f-c83a1820a24c.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-07T20:00:04Z"
-    },
-    {
-      "title": "Oracle Stock Slides On Report Its Cloud Business Is Seeing Lower Margins On Nvidia Chips - Investor's Business Daily",
-      "description": "Oracle stock slid following a report that the company has slim profit margins on AI cloud computing compared to the rest of its business.",
-      "url": "https://www.investors.com/news/technology/oracle-stock-falls-ai-nvidia-chips-margins/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/stock-Oracle-03-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-07T18:25:00Z"
-    },
-    {
-      "title": "Our Favorite Prime Day Deals From Stores That Aren't Amazon - WIRED",
-      "description": "You don't have to shop Amazon Big Deal Days to save on WIRED-approved favorites.",
-      "url": "https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025/",
+      "title": "Don’t Miss These Prime Day Deals From Stores That Aren’t Amazon - WIRED",
+      "description": "Time is running out to save! You don't have to shop Amazon Big Deal Days to save on WIRED-approved favorites.",
+      "url": "https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025-1/",
       "urlToImage": "https://media.wired.com/photos/68e4519d12ed85bfcf40b6a3/191:100/w_1280,c_limit/The%20Best%20Anti-Amazon%20Prime%20Day%20Deals.png",
       "source": "Wired",
-      "publishedAt": "2025-10-07T17:23:13Z"
+      "publishedAt": "2025-10-08T21:16:07Z"
     },
     {
-      "title": "Dead celebrities are apparently fair game for Sora 2 video manipulation - Ars Technica",
-      "description": "OpenAI’s likeness protections for living “public figures” don’t apply to “historical figures.”…",
-      "url": "https://arstechnica.com/ai/2025/10/dj-bruce-lee-and-jackass-mr-rogers-dead-celebrities-become-puppets-in-sora-2-videos/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/jacksonbanana-1152x648-1759855287.png",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-07T17:08:05Z"
-    },
-    {
-      "title": "Why are US medicines so darn expensive? - vox.com",
-      "description": "The price of medications in the US has long been a frustration for patients and doctors. But Trump’s deal with Pfizer may not do much to reduce pharmaceutical costs.",
-      "url": "https://www.vox.com/health/463956/us-medicine-drug-prices-trump-rx-pfizer",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2237916933.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "source": "Vox",
-      "publishedAt": "2025-10-07T16:40:00Z"
-    },
-    {
-      "title": "Short-Term Inflation Expectations Continue to Tick Up; Labor Market Expectations Deteriorate - Federal Reserve Bank of New York",
-      "description": "",
-      "url": "https://www.newyorkfed.org/newsevents/news/research/2025/20251007",
+      "title": "Salesforce says it won’t pay extortion demand in 1 billion records breach - Ars Technica",
+      "description": null,
+      "url": "https://arstechnica.com/security/2025/10/salesforce-says-it-wont-pay-extortion-demand-in-1-billion-records-breach/",
       "urlToImage": null,
-      "source": "Newyorkfed.org",
-      "publishedAt": "2025-10-07T15:04:14Z"
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-08T20:02:46Z"
+    },
+    {
+      "title": "Why gold’s surge shows it’s more than just a hedge for the stock market’s record run - MarketWatch",
+      "description": "",
+      "url": "https://www.marketwatch.com/story/why-golds-surge-shows-its-more-than-just-a-hedge-for-the-stock-markets-record-run-19cd9ddb",
+      "urlToImage": "https://images.mktw.net/im-478404/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-10-08T20:02:00Z"
+    },
+    {
+      "title": "What are your holiday shopping plans? NPR wants to hear from you - NPR",
+      "description": "Is this the season of cutbacks or splurges? As we prepare to cover holiday shopping and deals, NPR wants to hear from you, whatever your plans may be.",
+      "url": "https://www.npr.org/2025/10/08/nx-s1-5566783/holiday-shopping-black-friday-christmas-gifts",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ffc%2F1ec9aa9b4b7ea6848192e6198c0a%2Fgettyimages-2186822529.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-08T19:45:12Z"
+    },
+    {
+      "title": "Goldman Banker Exits After Posts Against Trump, Spain’s Sánchez - Bloomberg.com",
+      "description": "Goldman Sachs Group Inc.’s co-head of Spain and Portugal is leaving the bank after he wrote scathing political articles about US President Donald Trump and Spanish Prime Minister Pedro Sánchez.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-08/goldman-banker-exits-after-posts-against-trump-spain-s-sanchez",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijcfZqSFUS58/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-08T18:47:58Z"
+    },
+    {
+      "title": "BlackRock Seeks Cash From Jefferies Fund Exposed to First Brands - Bloomberg.com",
+      "description": "BlackRock Inc. has requested to pull some money it invested in a Jefferies Financial Group Inc. fund with large exposure to the trade debt of bankrupt auto-parts supplier First Brands Group Inc., according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-08/blackrock-seeks-cash-from-jefferies-fund-exposed-to-first-brands",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOlcIpKn3Qy8/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-08T18:39:31Z"
+    },
+    {
+      "title": "Nvidia's Jensen Huang Says AI Demand Is Up 'Substantially' This Year, and Still Growing - Investopedia",
+      "description": "The CEO said his only regret is not investing more in major AI players like ChatGPT maker OpenAI.",
+      "url": "https://www.investopedia.com/nvidia-jensen-huang-says-ai-demand-is-up-substantially-this-year-and-still-growing-11826549",
+      "urlToImage": "https://www.investopedia.com/thmb/NKBCZWWLRbkStqhXhPi7C4x96-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2235491023-3d9cea1d65dc4d40884c5f134d512f81.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-10-08T18:38:45Z"
+    },
+    {
+      "title": "Sora’s downloads in its first week was nearly as big as ChatGPT’s launch - TechCrunch",
+      "description": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
+      "url": "https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-08T18:12:54Z"
+    },
+    {
+      "title": "How a 23-year-old former OpenAI researcher turned a viral AI prophecy into profit, with a $1.5 billion hedge fund and outsize influence from Silicon Valley to D.C. - Fortune",
+      "description": "Aschenbrenner is a Wall Street novice. So why have some of Silicon Valley’s biggest names trusted him to manage billions?",
+      "url": "https://fortune.com/2025/10/08/leopold-aschenbrenner-openai-ftx-1-5-billion-hedge-fund-situational-awareness/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/Leophold-Headshot-expand.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-08T17:05:59Z"
+    },
+    {
+      "title": "Tesla's Cheaper Models Have Arrived And The World Says 'Meh' - InsideEVs",
+      "description": "Despite a strong third quarter, Tesla is dealing with slumping sales worldwide. But the new Standard models don't feel like enough.",
+      "url": "https://insideevs.com/news/775121/tesla-model-y-model-3-standard-cm/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/wlWjlo/s1/model-y-standard-cm.jpg",
+      "source": "InsideEVs ",
+      "publishedAt": "2025-10-08T16:58:03Z"
     }
   ]
 }

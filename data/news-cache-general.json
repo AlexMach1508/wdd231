@@ -1,167 +1,127 @@
 {
-  "updatedAt": "2025-10-09T06:40:21.211Z",
+  "updatedAt": "2025-10-10T06:39:34.876Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Israeli military intercepts Gaza Freedom Flotilla vessels - Al Jazeera",
-      "description": "The Israeli military has intercepted and boarded several boats sailing towards Gaza.",
-      "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-05-03T134541Z_192353309_RC2BAEAWQQKX_RTRMADP_3_ISRAEL-PALESTINIANS-NGO-GAZA-MALTA-1759900852.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-10-08T04:52:30Z"
-    },
-    {
-      "title": "Federal government shutdown grinds into a second week, but quiet talks emerging - AP News",
-      "description": "As the federal government shutdown enters a second week, there’s no discernible endgame in sight. No negotiations, at least publicly, are underway. But signs of political discomfort, and quiet talks, are emerging. The Republicans who have majority control in …",
-      "url": "https://apnews.com/article/trump-shutdown-federal-workers-pay-health-care-415768faa14b4e54525d5e6d18ac97b4",
-      "urlToImage": "https://dims.apnews.com/dims4/default/44c920d/2147483647/strip/true/crop/5219x2936+0+272/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2F32%2Fe6278e68aa45efdbd184ca90fb2a%2F929ba8e89d1e4635a2274f26dde769ac",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-08T04:02:00Z"
-    },
-    {
-      "title": "Portland leaders seek dialogue, while Kristi Noem slams local electeds as ‘pansies’ - OregonLive.com",
-      "description": "“We believe a constitutional federal government must be accountable to the community,” Mayor Keith Wilson said.",
-      "url": "https://www.oregonlive.com/portland/2025/10/portland-leaders-seek-dialogue-while-kristi-noem-slams-local-electeds-as-pansies.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/FAH3Z7INWJATRA35GS7MMQX3XI.jpg?auth=419c4c8b9ff7f7fb2e955c6bfc85eff5d9889dc5dfde089ba3fadca970f478d4&width=1280&smart=true&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2025-10-08T03:49:00Z"
-    },
-    {
-      "title": "Dolly Parton's sister asks fans to pray for country singer - BBC",
-      "description": "The message comes a week after the 79-year-old musician postponed gigs due to health issues.",
-      "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
+      "title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan - BBC",
+      "description": "Israel agreed to withdraw troops and all Israeli hostages will be released, the US president says, although timings remain unclear.",
+      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/058f/live/0f190400-a497-11f0-928c-71dbb8619e94.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-10-08T03:07:22Z"
+      "publishedAt": "2025-10-09T00:43:29Z"
     },
     {
-      "title": "Gold surges past record $4,000 an ounce as uncertainty fuels rally - BBC",
-      "description": "Analysts point to delays in the reporting of economic data due to the US government shutdown as one reason for the rise.",
-      "url": "https://www.bbc.com/news/articles/c8ex3wgjlexo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bf57/live/95f02230-a3eb-11f0-90de-cfdf69951f7c.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T02:59:25Z"
-    },
-    {
-      "title": "Nearly 900 people rescued from Mount Everest - The Seattle Times",
-      "description": "A severe storm struck the area Saturday night, cutting off access to where the hikers were staying in tents at an altitude of more than 16,000 feet.",
-      "url": "https://www.seattletimes.com/nation-world/hundreds-of-hikers-rescued-from-mount-everest-after-severe-snowstorm/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/10/10072025_dgxdfbhfbh_tzr_194142.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-10-08T02:51:28Z"
-    },
-    {
-      "title": "Yankees' Aaron Judge smashes three-run home run, knots Game 3 against Blue Jays - ESPN",
-      "description": "Aaron Judge's home run helped the Yankees come back against the Blue Jays in Game 3 in the ALDS.",
-      "url": "https://www.espn.com/mlb/story/_/id/46525990/new-york-yankees-aaron-judge-three-homer-home-run-blue-jays-alds-game-3",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1008%2Fr1557227_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2025-10-08T02:33:00Z"
-    },
-    {
-      "title": "Dazzling supermoon illuminates skylines around the world - BBC",
-      "description": "From Paris to Taipei, this week's supermoon, also known as the Harvest and Hunter's moons, was captured in photos.",
-      "url": "https://www.bbc.com/news/articles/cx2xzk1nd2eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cfaf/live/efe8af80-a3d9-11f0-bc95-1520d15cd340.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T02:17:19Z"
-    },
-    {
-      "title": "National Guard members from Texas are in Illinois in Trump's latest move to send troops to cities - AP News",
-      "description": "National Guard members from Texas are at an Army Reserve center in Illinois. It's the most visible sign yet of the Trump administration’s plan to deploy troops to the Chicago area despite a lawsuit and vigorous opposition from Democratic elected leaders. The …",
-      "url": "https://apnews.com/article/national-guard-chicago-portland-trump-5c8666818de9f18e9e26860aab814d17",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3bffe4a/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F25%2Fa3%2Fe396180c1d7aa5b2e66e3cea1c4f%2Fea19e8132f3e48129608c7834f09fdf3",
+      "title": "Trump receives urgent note from Rubio on Mideast peace deal during antifa roundtable - AP News",
+      "description": "Secretary of State Marco Rubio passed President Donald Trump a note during a White House event, hinting that a Mideast peace deal was close. An AP photographer in the room zoomed in on the handwriting that read, “You need to approve a Truth Social post soon s…",
+      "url": "https://apnews.com/article/trump-rubio-note-middle-east-peace-f570658c65daefab6d0af9b29e851dd7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/862bc47/2147483647/strip/true/crop/3165x1780+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fa0%2Fd153b1ccd7c053d1c19eca38d6ef%2F5bc9b2b8f2344a4b85f6bac006060ce5",
       "source": "Associated Press",
-      "publishedAt": "2025-10-08T02:02:00Z"
+      "publishedAt": "2025-10-09T00:34:00Z"
     },
     {
-      "title": "We dug through thousands of Prime Day deals to find 60 standouts for $50 or less - The Verge",
-      "description": "If you’re on a tight budget, here are our favorite Prime Big Deal Days deals under $50, including security cameras, games, chargers, streaming devices, and more.",
-      "url": "https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25810375/blink_outdoor_4.jpg?quality=90&strip=all&crop=0,10.707269155206,100,78.585461689587",
-      "source": "The Verge",
-      "publishedAt": "2025-10-08T02:01:00Z"
+      "title": "Quick Hits | Joe Flacco Reaction: A Mims Moment, A Humming Huddle, And 'A Smooth, Clean Day' - Bengals.com",
+      "description": "The Bengals locker room reacts to the arrival of Joe Flacco.",
+      "url": "https://www.bengals.com/news/joe-flacco-reaction-ted-karras-chase-brown-zac-taylor",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/edcu370mklcflbmzghbk",
+      "source": "Bengals.com",
+      "publishedAt": "2025-10-09T00:29:33Z"
     },
     {
-      "title": "‘Dancing With The Stars’ Week 4 Ends With Another Shocking Elimination - Deadline",
-      "description": "'Dancing With The Stars' Week 4 Ends With Another Shocking Elimination",
-      "url": "http://deadline.com/2025/10/dancing-with-the-stars-week-4-recap-who-went-home-1236572683/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/179417_ST_8264.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-08T02:00:00Z"
+      "title": "Anxiety grows in Portland, Oregon, amid Trump's effort to send in National Guard - CBS News",
+      "description": "Portland, Oregon, has been a focal point in President Trump's deployment of the National Guard to quell opposition to ICE activity in blue cities.",
+      "url": "https://www.cbsnews.com/news/anxiety-grows-portland-trump-effort-to-send-in-national-guard/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/09/c974d976-2f44-412a-a6f5-c6bf9565d124/thumbnail/1200x630/5ab7b1a0d48f089bd05ca317701014e9/gettyimages-2239338861.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-09T00:17:00Z"
     },
     {
-      "title": "Gaza peace talks appear to gain momentum on the war’s anniversary - AP News",
-      "description": "Peace talks between Israel and Hamas have resumed in Egypt. The second day of indirect talks Tuesday took place on the two-year anniversary of Hamas' surprise attack on Israel that triggered the war. The talks focus on a plan proposed by U.S. President Donald…",
-      "url": "https://apnews.com/article/egypt-peace-kushner-witkoff-israel-palestinians-hamas-war-news-10-07-2025-31a44f54ab2d87c2083ab0a49aafd785",
-      "urlToImage": "https://dims.apnews.com/dims4/default/15c8d41/2147483647/strip/true/crop/5139x2891+0+268/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2Fa8%2Fba4cca97edb59bc2e04dab59ba76%2Fc9b7754d753d4aa0ad9025d598713775",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-08T01:50:00Z"
-    },
-    {
-      "title": "Taylor Swift Shows Off Her Showgirl Style in NYC Amid New Album - TMZ",
-      "description": "Taylor Swift is keeping her Showgirl sparkle going strong ... stepping out in New York City for dinner during her whirlwind press tour for her new album, The Life of a Showgirl.",
-      "url": "https://www.tmz.com/2025/10/07/taylor-swift-shows-off-her-showgirl-style-in-nyc-amid-new-album/",
-      "urlToImage": "https://imagez.tmz.com/image/fe/16by9/2025/10/08/fe60c77165994e4d80e047994d438efa_xl.jpg",
+      "title": "Demi Lovato's Ex-Fiancé Max Ehrich Arrested for Domestic Violence - TMZ",
+      "description": "Max Ehrich, an actor who was once engaged to Demi Lovato, is dealing with a legal mess down in Florida ... because he got arrested for allegedly getting violent with a family member.",
+      "url": "https://www.tmz.com/2025/10/08/demi-lovato-ex-fiance-max-ehrich-arrested-domestic-violence/",
+      "urlToImage": "https://imagez.tmz.com/image/ff/16by9/2025/10/08/ff7f14adc9dc4fa7bacf84206bfc7b25_xl.jpg",
       "source": "TMZ",
-      "publishedAt": "2025-10-08T01:42:42Z"
+      "publishedAt": "2025-10-08T23:52:50Z"
     },
     {
-      "title": "US airports continue to see delays as shutdown hits air travel - BBC",
-      "description": "Air traffic controllers, expected to work without pay during the shutdown, have been calling out sick.",
-      "url": "https://www.bbc.com/news/articles/cx27z97ryr0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c90/live/c9b1c220-a370-11f0-b6c8-ab6f97553cbf.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T01:06:16Z"
+      "title": "Texas National Guard expected to be deployed in Chicago area tonight - Chicago Sun-Times",
+      "description": "The deployment will entail 200 soldiers from the Texas National Guard and 300 soldiers from the Illinois National Guard, according to the military.",
+      "url": "https://chicago.suntimes.com/immigration/2025/10/08/texas-national-guard-broadview-illinois",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/68b9cb4/2147483647/strip/true/crop/5712x3261+0+512/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F22%2F9ca8aadc446bab879f1daa150865%2Fimg-7504.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-10-08T22:59:00Z"
     },
     {
-      "title": "Supreme Court sharply questions law banning conversion therapy - The Washington Post",
-      "description": "The Supreme Court sharply questions a Colorado law that bans efforts to change minors’ sexual identity, suggesting it violates therapists’ free-speech rights.",
-      "url": "https://www.washingtonpost.com/politics/2025/10/07/supreme-court-gay-conversion-therapy-ban/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6CUQ2NPDNVBRA5L6PHSDM6LYM.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-08T01:02:10Z"
+      "title": "Jimmy Kimmel Grills Aziz Ansari on Riyadh Comedy Performance in Tense Interview: It’s a ‘Brutal Regime’ and ‘These Are Not Good People’ - Variety",
+      "description": "Jimmy Kimmel pressed Aziz Ansari on performing at the controversial Riyadh Comedy Festival, calling the Saudi government a 'brutal regime.'",
+      "url": "https://variety.com/2025/tv/news/jimmy-kimmel-grills-aziz-ansari-riyadh-comedy-festival-1236543742/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/MixCollage-08-Oct-2025-05-56-PM-8064-e1759960618391.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-08T22:34:00Z"
     },
     {
-      "title": "Trump-endorsed Matt Van Epps wins GOP primary for vacant House seat in Tennessee - NBC News",
-      "description": "Matt Van Epps, a former state official who earned an endorsement from President Donald Trump last week, won the Republican nomination Tuesday in the special election for Tennessee’s 7th Congressional District House seat, NBC News projects",
-      "url": "https://www.nbcnews.com/politics/elections/trump-endorsed-matt-van-epps-wins-gop-primary-vacant-house-seat-tennes-rcna235651",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251004-Matt-Van-Epps-ch-1651-195ce7.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-10-08T00:35:00Z"
+      "title": "LeBron James Subject of Lawsuit From Lakers Fan Over 'The Second Decision' Video - Bleacher Report",
+      "description": "LeBron James' \"Second Decision\" stunt that ended up being nothing more than an advertisement for Hennessy generated plenty of criticism, but one Los Angeles Lakers fan took it far more seriously than it was intended.&nbsp;",
+      "url": "https://bleacherreport.com/articles/25258630-lebron-james-subject-lawsuit-lakers-fan-over-second-decision-video",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2238154920_large_cropped.jpg?w=3800&h=2000",
+      "source": "Bleacher Report",
+      "publishedAt": "2025-10-08T22:10:13Z"
     },
     {
-      "title": "Russian forces seized nearly 5,000 square km of Ukrainian land in 2025, says Putin - France 24",
-      "description": "Russian President Vladimir Putin said on Tuesday Russian forces had captured nearly 5,000 square km (1,930 square miles) of Ukrainian territory this year, claiming Moscow retained “complete strategic initiative” on the battlefield. The gains represent about 1…",
-      "url": "https://www.france24.com/en/europe/20251007-putin-russia-5-000-square-km-ukraine",
-      "urlToImage": "https://s.france24.com/media/display/bcc1d5dc-9939-11f0-b146-005056bfb2b6/w:1280/p:16x9/978a0436e3b7a7c5dc66c5958a2805ba47417e07.jpg",
-      "source": "FRANCE 24 English",
-      "publishedAt": "2025-10-07T23:19:00Z"
-    },
-    {
-      "title": "Cardinals fine coach Jonathan Gannon $100,000 for sideline interaction with Emari Demercado - NBC Sports",
-      "description": "NFL will take no separate action against Cardinals coach.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-fine-coach-jonathan-gannon-100-000-for-sideline-interaction-with-emari-demercado",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c1c887d/2147483647/strip/true/crop/8192x4608+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2F7a%2F272460ee44afaf832063fa8b4ed8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239460999",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-10-07T23:07:23Z"
-    },
-    {
-      "title": "Tesla offers cheaper versions of 2 electric vehicles in bid to win back market share in tough year - AP News",
-      "description": "Tesla announced the launch of cheaper versions of two of its electric vehicles Tuesday in hopes of reviving flagging sales. The new Model Y, costing just under $40,000 with a stripped-down interior, comes after sales have plunged for most of the past year. Th…",
-      "url": "https://apnews.com/article/tesla-model-y-cheaper-musk-7dd6213c456fa2c16a676176081a3227",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fa2c948/2147483647/strip/true/crop/5608x3155+0+292/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F5c%2F288feb40cc64b7fe571951e72e8d%2F9ef8d93a473d4312bfef99abf8a2b05d",
+      "title": "Fed minutes: Most officials supported further rate cuts as worries about jobs rose - AP News",
+      "description": "Most members of the Federal Reserve’s interest-rate setting committee supported further reductions to its key interest rate this year, minutes from last month’s meeting showed. Still, the minutes released Wednesday underscored the deep division on the 19-pers…",
+      "url": "https://apnews.com/article/inflation-powell-federal-reserve-jobs-da274909e44aed4ac4c78625db587026",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dfb2200/2147483647/strip/true/crop/7642x4299+0+398/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F16%2Ff1813a1b468a30dadd901741ef86%2F50352ccb900d498685166516c3b152fc",
       "source": "Associated Press",
-      "publishedAt": "2025-10-07T23:07:00Z"
+      "publishedAt": "2025-10-08T22:06:00Z"
     },
     {
-      "title": "Google’s latest AI model uses a web browser like you do - The Verge",
-      "description": "Google has released a new Gemini AI model to developers that’s designed to use a browser to navigate around and interact with web pages designed for people.",
-      "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-07T22:43:33Z"
+      "title": "How escaped New Orleans inmate Derrick Groves was captured after 5 months - CBS News",
+      "description": "The last of 10 inmates who escaped a New Orleans jail in mid-May was captured Wednesday, after a tip led law enforcement to an Atlanta home.",
+      "url": "https://www.cbsnews.com/news/how-new-orleans-inmate-derrick-groves-captured-after-5-months-marshals/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/08/19336607-f6ce-4cf7-9a32-ac7d0b9df679/thumbnail/1200x630/fd6f3ce0b77d377833ddb1aae7653b65/derrick-groves-copy.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-08T21:44:00Z"
+    },
+    {
+      "title": "Federal appeals court ruling keeps Oregon National Guard federalized ahead of oral arguments - Oregon Public Broadcasting - OPB",
+      "description": "The ruling does not allow troops onto Portland streets.",
+      "url": "https://www.opb.org/article/2025/10/08/federal-appeals-court-ruling-oregon-national-guard-federalized-portland-deployment/",
+      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/TK3ODCMIM5AOHHUCK2Z455LDGI.jpg?auth=1fcf5a6b727c510057c0997e5ea1a9408f94397c468b4f7364081ed74c618614&width=1200&height=675&smart=true",
+      "source": "OPB News",
+      "publishedAt": "2025-10-08T21:24:07Z"
+    },
+    {
+      "title": "IRS tells employees furlough backpay guaranteed, while WH counters in memo - Axios",
+      "description": "That comes after Axios reported on a White House memo saying workers weren't guaranteed compensation.",
+      "url": "https://www.axios.com/2025/10/08/trump-furlough-government-shutdown-back-pay-irs",
+      "urlToImage": "https://images.axios.com/IK_fLtNRh6U148m9SFHBV9JWx0c=/0x143:4000x2393/1366x768/2025/10/08/1759950994636.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-10-08T20:22:01Z"
+    },
+    {
+      "title": "\"Tennessee Three\" member Justin Pearson runs to oust Rep. Steve Cohen - Axios",
+      "description": "Pearson is one of the most high-profile primary challengers to an older House Democrat.",
+      "url": "https://www.axios.com/2025/10/08/justin-pearson-tennessee-three-steve-cohen",
+      "urlToImage": "https://images.axios.com/X_vVRuaMHm0HiNgjesSiaVObH8w=/0x424:5790x3681/1366x768/2025/10/08/1759882464064.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-08T20:16:14Z"
+    },
+    {
+      "title": "Macron to name new PM in next 48 hours - politico.eu",
+      "description": "The Elysée’s statement comes after consultations with the current prime minister on the crisis that has engulfed France.",
+      "url": "https://www.politico.eu/article/sebastien-lecornu-france-prime-minister-french-political-crisis/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239146930-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-10-08T19:55:00Z"
+    },
+    {
+      "title": "What are your holiday shopping plans? NPR wants to hear from you - NPR",
+      "description": "Is this the season of cutbacks or splurges? As we prepare to cover holiday shopping and deals, NPR wants to hear from you, whatever your plans may be.",
+      "url": "https://www.npr.org/2025/10/08/nx-s1-5566783/holiday-shopping-black-friday-christmas-gifts",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ffc%2F1ec9aa9b4b7ea6848192e6198c0a%2Fgettyimages-2186822529.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-08T19:45:12Z"
     }
   ]
 }
