@@ -1,127 +1,151 @@
 {
-  "updatedAt": "2025-10-10T06:39:34.876Z",
+  "updatedAt": "2025-10-11T06:35:13.062Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan - BBC",
-      "description": "Israel agreed to withdraw troops and all Israeli hostages will be released, the US president says, although timings remain unclear.",
-      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/058f/live/0f190400-a497-11f0-928c-71dbb8619e94.jpg",
+      "title": "Thursday Night Football: Giants thrash Eagles 34-17 - NBC Sports",
+      "description": null,
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-giants-thrash-eagles-34-17",
+      "urlToImage": null,
+      "source": "NBCSports.com",
+      "publishedAt": "2025-10-10T03:22:42Z"
+    },
+    {
+      "title": "7.4-magnitude earthquake strikes offshore from southern Philippines and may cause tsunami - ABC News - Breaking News, Latest News and Videos",
+      "description": "An offshore earthquake with a preliminary magnitude of 7.4 hit off a southern Philippine province Friday morning and a tsunami was possible nearby",
+      "url": "https://abcnews.go.com/Technology/wireStory/76-magnitude-earthquake-strikes-offshore-southern-philippines-126385978",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "source": "ABC News",
+      "publishedAt": "2025-10-10T03:12:06Z"
+    },
+    {
+      "title": "Grey’s Anatomy Kills Off [Spoiler] in Season 22 Premiere, Surviving Co-Star Reacts: ‘It Definitely Hurt to See That’ - TVLine",
+      "description": "Not everyone made it out of Thursday's 'Grey's Anatomy' Season 22 premiere alive. Read TVLine's full interview with one of the lucky survivors.",
+      "url": "https://tvline.com/recaps/greys-anatomy-season-22-premiere-recap-monica-dies-natalie-morales-1235529562/",
+      "urlToImage": "https://tvline.com/wp-content/uploads/2025/10/greys-anatomy-season-22-episode-1-monica-beltran-dies.jpg?w=650",
+      "source": "TVLine",
+      "publishedAt": "2025-10-10T03:00:00Z"
+    },
+    {
+      "title": "Who are the five Nobel Peace Prize judges deciding whether Trump gets it? - Al Jazeera",
+      "description": "Donald Trump insists he wins the prize, which will be announced on Friday. These five people decide who gets it.",
+      "url": "https://www.aljazeera.com/news/2025/10/10/who-are-the-five-nobel-peace-prize-judges-deciding-whether-trump-gets-it",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2023-10-06T082552Z_1294653203_RC2WM3AK2C3C_RTRMADP_3_NOBEL-PRIZE-PEACE-1760004585.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-10-10T02:15:50Z"
+    },
+    {
+      "title": "Durham resident detained by Israeli forces while attempting to bring aid into Gaza - WRAL.com",
+      "description": "Friends of Durham native Kyle Kaptain rallied downtown after he was detained by Israeli forces during an aid mission to Gaza. Supporters call for his release and an end to the Gaza conflict.",
+      "url": "https://www.wral.com/news/local/durham-resident-detained-israeli-forces-aid-gaza-oct2025/",
+      "urlToImage": "https://images.wral.com/83dd14ff-0915-4f21-8e33-62d590d1d8c2?w=1200&h=630",
+      "source": "WRAL.com",
+      "publishedAt": "2025-10-10T01:28:34Z"
+    },
+    {
+      "title": "Abigail Spanberger and Winsome Earle-Sears clash over Jay Jones' violent texts in lone Virginia governor's debate - NBC News",
+      "description": "Democrat Abigail Spanberger and Republican Winsome Earle-Sears sparred frequently and bitterly Thursday during their only debate of this fall's Virginia governor’s race — and much of it wasn’t even about the two candidates onstage",
+      "url": "https://www.nbcnews.com/politics/elections/abigail-spanberger-winsome-earle-sears-virgina-governor-debate-rcna235418",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241217-split-Spanberger-Earle-ch-1623-7ae977.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-10T01:28:00Z"
+    },
+    {
+      "title": "Ukraine says ‘massive’ Russian attack underway targeting energy infrastructure - CNN",
+      "description": "Russia is carrying out a “massive attack” on Ukraine’s energy infrastructure, top Ukrainian officials said early Friday, with parts of the capital Kyiv left without power.",
+      "url": "https://www.cnn.com/2025/10/09/europe/russia-ukraine-infrastructure-attack-hnk-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239619912.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-10T00:55:00Z"
+    },
+    {
+      "title": "Judge blocks Trump from deploying troops in Illinois for now - The Washington Post",
+      "description": "Officials in Oregon and Illinois had challenged the Trump administration’s push to dispatch the National Guard in both states.",
+      "url": "https://www.washingtonpost.com/politics/2025/10/09/trump-portland-chicago-national-guard-appeal/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCWSD77V3OZ7YUYWC4C5WM5BW4_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-10T00:50:30Z"
+    },
+    {
+      "title": "Katie Porter camp rallies allies to her defense - Politico",
+      "description": "The support from more than half a dozen groups and officials comes a day after POLITICO surfaced a video of Porter berating a staffer in 2021.",
+      "url": "https://www.politico.com/news/2025/10/09/katie-porter-camp-rallies-allies-to-her-defense-00601500",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fec%2Ffc%2Fc9472a474e949904c4c4e41c6b00%2Felection-2024-house-open-seats-25090.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-10T00:35:20Z"
+    },
+    {
+      "title": "Fossil found on UK coast is unique 'sword dragon' species - BBC",
+      "description": "Scientists say the newly discovered species of marine reptile probably met a grisly end.",
+      "url": "https://www.bbc.com/news/articles/cdjzvzzy0mxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7eb1/live/cdd866d0-a530-11f0-b741-177e3e2c2fc7.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-10-09T00:43:29Z"
+      "publishedAt": "2025-10-10T00:20:07Z"
     },
     {
-      "title": "Trump receives urgent note from Rubio on Mideast peace deal during antifa roundtable - AP News",
-      "description": "Secretary of State Marco Rubio passed President Donald Trump a note during a White House event, hinting that a Mideast peace deal was close. An AP photographer in the room zoomed in on the handwriting that read, “You need to approve a Truth Social post soon s…",
-      "url": "https://apnews.com/article/trump-rubio-note-middle-east-peace-f570658c65daefab6d0af9b29e851dd7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/862bc47/2147483647/strip/true/crop/3165x1780+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fa0%2Fd153b1ccd7c053d1c19eca38d6ef%2F5bc9b2b8f2344a4b85f6bac006060ce5",
+      "title": "Cosplayers unite! Best looks as NYC Comic Con takes over Javits Center - New York Post",
+      "description": "Comic Con has come back to the Javits Center.",
+      "url": "https://nypost.com/2025/10/09/us-news/best-looks-as-nyc-comic-con-takes-over-javits-center/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/comiccon-comp.jpg?quality=90&strip=all&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-10-09T23:50:00Z"
+    },
+    {
+      "title": "Wild about nature: Four health benefits of the outdoors - BBC",
+      "description": "Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels.",
+      "url": "https://www.bbc.com/news/articles/cvg0yvdjgn5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-09T23:45:15Z"
+    },
+    {
+      "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting - Ars Technica",
+      "description": "The committee aims to take on the entire childhood vaccine schedule.",
+      "url": "https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-09T22:17:09Z"
+    },
+    {
+      "title": "US sending about 200 troops to Israel to help support and monitor ceasefire deal in Gaza - AP News",
+      "description": "The United States is sending about 200 troops to Israel to help support and monitor the ceasefire deal in Gaza as part of a team that includes partner nations, nongovernmental organizations and private-sector players. That's according to U.S. officials who sp…",
+      "url": "https://apnews.com/article/mideast-gaza-israel-hamas-us-military-c19caf7b193dbb3bfaf056366f9e2369",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d8ebb70/2147483647/strip/true/crop/7179x4038+0+374/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2F42%2F35fc5a42f914d441cf831482c691%2Fbca6da7bbf0248478044c8ba14db4980",
       "source": "Associated Press",
-      "publishedAt": "2025-10-09T00:34:00Z"
+      "publishedAt": "2025-10-09T22:08:00Z"
     },
     {
-      "title": "Quick Hits | Joe Flacco Reaction: A Mims Moment, A Humming Huddle, And 'A Smooth, Clean Day' - Bengals.com",
-      "description": "The Bengals locker room reacts to the arrival of Joe Flacco.",
-      "url": "https://www.bengals.com/news/joe-flacco-reaction-ted-karras-chase-brown-zac-taylor",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/edcu370mklcflbmzghbk",
-      "source": "Bengals.com",
-      "publishedAt": "2025-10-09T00:29:33Z"
-    },
-    {
-      "title": "Anxiety grows in Portland, Oregon, amid Trump's effort to send in National Guard - CBS News",
-      "description": "Portland, Oregon, has been a focal point in President Trump's deployment of the National Guard to quell opposition to ICE activity in blue cities.",
-      "url": "https://www.cbsnews.com/news/anxiety-grows-portland-trump-effort-to-send-in-national-guard/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/09/c974d976-2f44-412a-a6f5-c6bf9565d124/thumbnail/1200x630/5ab7b1a0d48f089bd05ca317701014e9/gettyimages-2239338861.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-09T00:17:00Z"
-    },
-    {
-      "title": "Demi Lovato's Ex-Fiancé Max Ehrich Arrested for Domestic Violence - TMZ",
-      "description": "Max Ehrich, an actor who was once engaged to Demi Lovato, is dealing with a legal mess down in Florida ... because he got arrested for allegedly getting violent with a family member.",
-      "url": "https://www.tmz.com/2025/10/08/demi-lovato-ex-fiance-max-ehrich-arrested-domestic-violence/",
-      "urlToImage": "https://imagez.tmz.com/image/ff/16by9/2025/10/08/ff7f14adc9dc4fa7bacf84206bfc7b25_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-10-08T23:52:50Z"
-    },
-    {
-      "title": "Texas National Guard expected to be deployed in Chicago area tonight - Chicago Sun-Times",
-      "description": "The deployment will entail 200 soldiers from the Texas National Guard and 300 soldiers from the Illinois National Guard, according to the military.",
-      "url": "https://chicago.suntimes.com/immigration/2025/10/08/texas-national-guard-broadview-illinois",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/68b9cb4/2147483647/strip/true/crop/5712x3261+0+512/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F22%2F9ca8aadc446bab879f1daa150865%2Fimg-7504.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2025-10-08T22:59:00Z"
-    },
-    {
-      "title": "Jimmy Kimmel Grills Aziz Ansari on Riyadh Comedy Performance in Tense Interview: It’s a ‘Brutal Regime’ and ‘These Are Not Good People’ - Variety",
-      "description": "Jimmy Kimmel pressed Aziz Ansari on performing at the controversial Riyadh Comedy Festival, calling the Saudi government a 'brutal regime.'",
-      "url": "https://variety.com/2025/tv/news/jimmy-kimmel-grills-aziz-ansari-riyadh-comedy-festival-1236543742/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/MixCollage-08-Oct-2025-05-56-PM-8064-e1759960618391.jpg?w=1000&h=563&crop=1",
+      "title": "Charlie Kirk’s Turning Point USA Sets ‘All American Halftime Show’ in Protest of Bad Bunny’s Super Bowl Performance - Variety",
+      "description": "Charlie Kirk's Turning Point USA announced the 'All American Halftime Show,' a Super Bowl alternative in protest of headliner Bad Bunny.",
+      "url": "https://variety.com/2025/tv/news/turning-point-usa-super-bowl-halftime-show-bad-bunny-1236544746/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-2205625250-e1760038535296.jpg?crop=0px%2C45px%2C2414px%2C1358px&resize=1000%2C563",
       "source": "Variety",
-      "publishedAt": "2025-10-08T22:34:00Z"
+      "publishedAt": "2025-10-09T20:22:00Z"
     },
     {
-      "title": "LeBron James Subject of Lawsuit From Lakers Fan Over 'The Second Decision' Video - Bleacher Report",
-      "description": "LeBron James' \"Second Decision\" stunt that ended up being nothing more than an advertisement for Hennessy generated plenty of criticism, but one Los Angeles Lakers fan took it far more seriously than it was intended.&nbsp;",
-      "url": "https://bleacherreport.com/articles/25258630-lebron-james-subject-lawsuit-lakers-fan-over-second-decision-video",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2238154920_large_cropped.jpg?w=3800&h=2000",
-      "source": "Bleacher Report",
-      "publishedAt": "2025-10-08T22:10:13Z"
-    },
-    {
-      "title": "Fed minutes: Most officials supported further rate cuts as worries about jobs rose - AP News",
-      "description": "Most members of the Federal Reserve’s interest-rate setting committee supported further reductions to its key interest rate this year, minutes from last month’s meeting showed. Still, the minutes released Wednesday underscored the deep division on the 19-pers…",
-      "url": "https://apnews.com/article/inflation-powell-federal-reserve-jobs-da274909e44aed4ac4c78625db587026",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dfb2200/2147483647/strip/true/crop/7642x4299+0+398/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F16%2Ff1813a1b468a30dadd901741ef86%2F50352ccb900d498685166516c3b152fc",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-08T22:06:00Z"
-    },
-    {
-      "title": "How escaped New Orleans inmate Derrick Groves was captured after 5 months - CBS News",
-      "description": "The last of 10 inmates who escaped a New Orleans jail in mid-May was captured Wednesday, after a tip led law enforcement to an Atlanta home.",
-      "url": "https://www.cbsnews.com/news/how-new-orleans-inmate-derrick-groves-captured-after-5-months-marshals/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/08/19336607-f6ce-4cf7-9a32-ac7d0b9df679/thumbnail/1200x630/fd6f3ce0b77d377833ddb1aae7653b65/derrick-groves-copy.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-08T21:44:00Z"
-    },
-    {
-      "title": "Federal appeals court ruling keeps Oregon National Guard federalized ahead of oral arguments - Oregon Public Broadcasting - OPB",
-      "description": "The ruling does not allow troops onto Portland streets.",
-      "url": "https://www.opb.org/article/2025/10/08/federal-appeals-court-ruling-oregon-national-guard-federalized-portland-deployment/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/TK3ODCMIM5AOHHUCK2Z455LDGI.jpg?auth=1fcf5a6b727c510057c0997e5ea1a9408f94397c468b4f7364081ed74c618614&width=1200&height=675&smart=true",
-      "source": "OPB News",
-      "publishedAt": "2025-10-08T21:24:07Z"
-    },
-    {
-      "title": "IRS tells employees furlough backpay guaranteed, while WH counters in memo - Axios",
-      "description": "That comes after Axios reported on a White House memo saying workers weren't guaranteed compensation.",
-      "url": "https://www.axios.com/2025/10/08/trump-furlough-government-shutdown-back-pay-irs",
-      "urlToImage": "https://images.axios.com/IK_fLtNRh6U148m9SFHBV9JWx0c=/0x143:4000x2393/1366x768/2025/10/08/1759950994636.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-08T20:22:01Z"
-    },
-    {
-      "title": "\"Tennessee Three\" member Justin Pearson runs to oust Rep. Steve Cohen - Axios",
-      "description": "Pearson is one of the most high-profile primary challengers to an older House Democrat.",
-      "url": "https://www.axios.com/2025/10/08/justin-pearson-tennessee-three-steve-cohen",
-      "urlToImage": "https://images.axios.com/X_vVRuaMHm0HiNgjesSiaVObH8w=/0x424:5790x3681/1366x768/2025/10/08/1759882464064.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-08T20:16:14Z"
-    },
-    {
-      "title": "Macron to name new PM in next 48 hours - politico.eu",
-      "description": "The Elysée’s statement comes after consultations with the current prime minister on the crisis that has engulfed France.",
-      "url": "https://www.politico.eu/article/sebastien-lecornu-france-prime-minister-french-political-crisis/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239146930-scaled.jpg",
+      "title": "Trump’s trade war has India hugging Britain close - politico.eu",
+      "description": "The U.S. president’s second stint in office is   binding the two countries together — and prompting London to look the other way on contentious issues.",
+      "url": "https://www.politico.eu/article/donald-trump-trade-war-india-britain-tariffs-keir-starmer-narendra-modi/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2240063717-scaled.jpg",
       "source": "POLITICO.eu",
-      "publishedAt": "2025-10-08T19:55:00Z"
+      "publishedAt": "2025-10-09T19:33:45Z"
     },
     {
-      "title": "What are your holiday shopping plans? NPR wants to hear from you - NPR",
-      "description": "Is this the season of cutbacks or splurges? As we prepare to cover holiday shopping and deals, NPR wants to hear from you, whatever your plans may be.",
-      "url": "https://www.npr.org/2025/10/08/nx-s1-5566783/holiday-shopping-black-friday-christmas-gifts",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ffc%2F1ec9aa9b4b7ea6848192e6198c0a%2Fgettyimages-2186822529.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-08T19:45:12Z"
+      "title": "Shedeur Sanders Reveals Message to Dillon Gabriel After He Became Browns' Starter - Sports Illustrated",
+      "description": "Shedeur Sanders shares what he said to Dillon Gabriel after he became the Browns' starter.",
+      "url": "https://www.si.com/nfl/shedeur-sanders-reveals-message-dillon-gabriel-after-he-became-browns-starter-quarterback",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3742,h_2104,x_0,y_100/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k755xzzd1g4m9mwv7n.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-10-09T19:31:27Z"
+    },
+    {
+      "title": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing - Nature",
+      "description": "Four subtle changes to an enzyme might explain the hairless rodents’ longevity.",
+      "url": "https://www.nature.com/articles/d41586-025-03279-y",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03279-y/d41586-025-03279-y_51546490.jpg",
+      "source": "Nature.com",
+      "publishedAt": "2025-10-09T18:08:54Z"
     }
   ]
 }
