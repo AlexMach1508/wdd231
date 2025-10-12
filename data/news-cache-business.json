@@ -1,135 +1,159 @@
 {
-  "updatedAt": "2025-10-11T06:35:13.167Z",
+  "updatedAt": "2025-10-12T06:35:24.512Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Dow Jones Futures Rise After Bullish Stock Market Pause; Palantir, Netflix, Oracle Right At Buy Points - Investor's Business Daily",
-      "description": "The S&P 500 and Nasdaq are still above their 10-day moving averages.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-palantir-netflix-oracle-buy-points/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/12/Stock-mountaintophike-01-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-10T03:00:00Z"
+      "title": "How hackers forced brewing giant Asahi back to pen and paper - BBC",
+      "description": "The maker of Japan's most popular beer, Super Dry, was hit by a major cyber-attack last month.",
+      "url": "https://www.bbc.com/news/articles/cly64g5y744o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8158/live/45652770-a571-11f0-b928-f10695b5e201.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-11T00:43:35Z"
     },
     {
-      "title": "Tensions over crypto bill boil over in the Senate - Politico",
-      "description": "A GOP-led effort to pass a landmark crypto bill this year is in jeopardy.",
-      "url": "https://www.politico.com/news/2025/10/09/tensions-over-crypto-bill-boil-over-in-the-senate-00601479",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffb%2F10%2F619386ea49f596ed5b9590418bde%2Fgovernment-shutdown-02574.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-10T02:13:03Z"
-    },
-    {
-      "title": "PepsiCo Taps Walmart Executive as New CFO - The Wall Street Journal",
+      "title": "Four Things to Know About Beijing’s Rare-Earths Bombshell - The Wall Street Journal",
       "description": null,
-      "url": "https://www.wsj.com/articles/pepsico-posts-higher-revenue-profit-falls-a22216b3",
+      "url": "https://www.wsj.com/world/asia/four-things-to-know-about-beijings-rare-earths-bombshell-ec6d1b51",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-09T21:08:00Z"
+      "publishedAt": "2025-10-11T00:30:00Z"
     },
     {
-      "title": "Nvidia Stock Spikes To Record High On UAE Trade Approval - Investor's Business Daily",
-      "description": "Nvidia stock surged to a record high after the U.S. gave final clearance for the company to export AI chips to the United Arab Emirates.",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-record-high-uae-trade-approval/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Nvidia-humanRobot-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-09T20:39:00Z"
+      "title": "A tangled web of deals stokes AI bubble fears in Silicon Valley - BBC",
+      "description": "Some are worried that the rapid rise in the value of AI tech companies may be a bubble waiting to burst.",
+      "url": "https://www.bbc.com/news/articles/cz69qy760weo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bf9b/live/ff11e480-a5e2-11f0-920e-cb66ee1d5eb0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-10T23:55:36Z"
     },
     {
-      "title": "Levi Strauss raises prices, helping to boost profit and outlook - CNBC",
-      "description": "Levi Strauss is raising prices across its assortment but said consumer demand is so far holding steady.",
-      "url": "https://www.cnbc.com/2025/10/09/levi-strauss-levi-q3-2025-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210161-1760032328943-gettyimages-2240145291-_75a8447_csa8awli.jpeg?v=1760032440&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-09T20:26:19Z"
+      "title": "Atlanta air traffic control tower evacuated after fire alarm and gas smell - CNN",
+      "description": "The air traffic control tower at Hartsfield-Jackson Atlanta International Airport was evacuated for a time Friday night after a fire alarm and a gas smell were detected, according to a statement from the Federal Aviation Administration.",
+      "url": "https://www.cnn.com/2025/10/10/us/atlanta-control-tower-evacuated",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-10-01t003814z-1759886532-rc2jieau0n71-rtrmadp-3-usa-shutdown-faa.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-10T23:31:51Z"
     },
     {
-      "title": "Bernie Sanders Has a Fascinating Idea About How to Prevent AI From Wiping Out the Economy - Futurism",
-      "description": "In a new report, Sanders asserts that AI and automation has the potential to put some 100 million US workers out of the job.",
-      "url": "https://futurism.com/artificial-intelligence/bernie-sanders-economy-ai",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/bernie-sanders-economy-ai.jpg?w=1200",
-      "source": "Futurism",
-      "publishedAt": "2025-10-09T19:41:50Z"
-    },
-    {
-      "title": "New California law aims to stabilize insurance for people who can’t get private coverage - AP News",
-      "description": "California Gov. Gavin Newsom has signed a bill to prevent the state’s plan that provides insurance to homeowners who can’t get private coverage from running out of money. The FAIR Plan is designed as a temporary option until homeowners can find permanent cove…",
-      "url": "https://apnews.com/article/california-fair-plan-insurance-newsom-90329bb78f5d35615a60423f24aa42a3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9e95e0a/2147483647/strip/true/crop/3870x2177+0+202/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2F48%2F1bb16a4c485ed1ec1ab7608588b1%2F32d4d8d2a2f344caba5222a998edb01c",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-09T19:32:00Z"
-    },
-    {
-      "title": "Tesla hit with probe after crashes involving a self-driving feature that Musk has boasted about - AP News",
-      "description": "Federal regulators have opened yet another investigation into Tesla’s so-called full-self driving technology after dozens of incidents in which the electric vehicle maker’s cars ran red lights or drove on the wrong side of the road, sometimes crashing into ot…",
-      "url": "https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9ac3a3a/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F8d%2Fa623c19997c684b66e238c4269be%2F4ac4cd5f4eeb4a1d9e44c14ee8655b47",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-09T19:21:00Z"
-    },
-    {
-      "title": "Discord says hackers stole government IDs of 70,000 users - Ars Technica",
-      "description": "As more sites require IDs for user age verification, expect more such breaches to come.",
-      "url": "https://arstechnica.com/security/2025/10/discord-says-hackers-stole-government-ids-of-70000-users/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-09T18:24:13Z"
-    },
-    {
-      "title": "Delta’s bet on wealthy Americans driving the economy is working: Premium seats are set to overtake main cabin for the first time in history - Fortune",
-      "description": "Premium is on track to overtake main cabin in 2026, a year ahead of schedule, per the third-quarter earnings call from America’s most profitable airline.",
-      "url": "https://fortune.com/2025/10/09/delta-earnings-premium-seat-surpass-main-cabin-wealthy-americans-economy/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2234065531.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-09T17:21:25Z"
-    },
-    {
-      "title": "Column | I tracked Amazon’s Prime Day prices. We’ve been played. - The Washington Post",
-      "description": "Here’s what you should do to actually get a good deal on Amazon.",
-      "url": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZJWTJ5NQLJCANBFAC7G2YETX4I.jpg&w=1440",
+      "title": "Trump announces new 100 percent tariffs on China, may cancel Xi meeting - The Washington Post",
+      "description": "President Donald Trump said he is unhappy about China’s “hostile” move to limit access to rare minerals and may cancel an upcoming meeting with Xi Jinping.",
+      "url": "https://www.washingtonpost.com/politics/2025/10/10/trump-xi-china-meeting/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZNH5MHBRSABTMHNKTI55U6ZN3M.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-10-09T17:00:00Z"
+      "publishedAt": "2025-10-10T22:31:04Z"
     },
     {
-      "title": "Ferrari reveals features of first fully electric vehicle, but its financial outlook mars the debut - AP News",
-      "description": "Italian luxury sports carmaker Ferrari raised its 2025 guidance in the face of global 15% tariffs on foreign car imports to the United States as the company unveiled the new powertrain and chassis of its first fully electric production vehicle. Yet the debut …",
-      "url": "https://apnews.com/article/ferrari-first-fully-electric-sports-car-italy-d854d8f7e65baf822239e9170ff96442",
-      "urlToImage": "https://dims.apnews.com/dims4/default/030214d/2147483647/strip/true/crop/7290x4101+0+379/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F9e%2Fa6d356251132bdf4398f06838027%2F7cb99b4351b04de3b6e70ce31ef3b2c7",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-09T16:35:00Z"
+      "title": "Morgan Stanley Asks to Pull Cash From Jefferies’ Point Bonita - Bloomberg.com",
+      "description": "Morgan Stanley’s asset-management business asked to redeem some money it invested in a Jefferies Financial Group Inc. fund with large exposure to the trade debt of bankrupt auto-parts supplier First Brands Group, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-10/morgan-stanley-asks-to-pull-cash-from-jefferies-point-bonita",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYFTRGOIYB4c/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-10T21:36:49Z"
     },
     {
-      "title": "‘Right up against it’: Economic data blackout leaves Wall Street in the dark - Politico",
-      "description": "The quality of Labor Department reports guides everything from investment decisions around the globe to Federal Reserve deliberations on interest rates.",
-      "url": "https://www.politico.com/news/2025/10/09/government-economic-data-shutdown-00599614",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fba%2F7a%2Fe4fa75ac4ae783f102d9d97387a6%2Fwhite-house-20075.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-09T15:26:04Z"
-    },
-    {
-      "title": "How China could pull ahead in the AI race - Financial Times",
-      "description": "It has the advantage on both energy and practical application",
-      "url": "https://www.ft.com/content/9f6c2f35-933f-4e14-85f1-1192488dda4e",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2bd35c3-171e-42c8-8534-aef74cc9b31a.jpg?source=next-barrier-page",
+      "title": "US moves to cancel one of the world’s largest solar farms - Financial Times",
+      "description": "Trump administration scraps approval for 6.2 gigawatt Nevada project",
+      "url": "https://www.ft.com/content/7a3cd922-88ed-4188-86ab-ba09fbe24d42",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e09c807-6737-4d62-93d3-fd0bcd784adc.jpg?source=next-barrier-page",
       "source": "Financial Times",
-      "publishedAt": "2025-10-09T14:43:08Z"
+      "publishedAt": "2025-10-10T21:25:02Z"
     },
     {
-      "title": "Nvidia Stock Jumps Again. What TSMC Has to Do With It. - Barron's",
+      "title": "Why soaring gold prices could be a warning sign for the economy - ABC News - Breaking News, Latest News and Videos",
       "description": null,
-      "url": "https://www.barrons.com/articles/nvidia-stock-tsmc-ai-demand-2b1419bf",
+      "url": "https://abcnews.go.com/Business/soaring-gold-prices-warning-sign-economy/story?id\\\\u003d126414464",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-10T21:00:29Z"
+    },
+    {
+      "title": "Tesla Stock Falls as Reviews of ‘New’ EVs Trickle In - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/tesla-stock-price-new-car-reviews-de6317d3",
       "urlToImage": null,
       "source": "Barron's",
-      "publishedAt": "2025-10-09T14:27:00Z"
+      "publishedAt": "2025-10-10T20:13:00Z"
     },
     {
-      "title": "The Tesla Model Y Standard's Fabric Roof Makes No Sense - InsideEVs",
-      "description": "Tesla made a new headliner that covers up the glass roof in the Model Y Standard, so it’s still there, but you can’t see through it.",
-      "url": "https://insideevs.com/news/775062/tesla-model-y-standard-roof/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/VzBLQz/s1/tesla-roof-fabric.jpg",
-      "source": "InsideEVs ",
-      "publishedAt": "2025-10-09T13:33:00Z"
+      "title": "China Goes All In on U.S. Trade Battle, With Qualcomm in the Crosshairs - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/tech/china-goes-all-in-on-u-s-trade-battle-with-qualcomm-in-the-crosshairs-9b6a2bc7",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-10T16:13:00Z"
+    },
+    {
+      "title": "Labor Department recalls furloughed workers to compile critical inflation data - Politico",
+      "description": "The quality of data produced by the agency is key to Federal Reserve interest rate decisions that affect everything from mortgages to corporate debt.",
+      "url": "https://www.politico.com/news/2025/10/10/labor-department-recalls-furloughed-workers-to-compile-critical-inflation-data-00601915",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fba%2Fd6%2F0e33d4fb492fb8e1ca6eaea6e551%2Fgovernment-shutdown-33635.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-10T16:11:45Z"
+    },
+    {
+      "title": "AMD’s Missing (Ultra Accelerator) Link (NASDAQ:AMD) - Seeking Alpha",
+      "description": "Discover the risks in AMD's OpenAI partnership as it trails Nvidia in AI hardware. Learn why Nvidia remains the top pick.",
+      "url": "https://seekingalpha.com/article/4829129-amds-missing-ultra-accelerator-link",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191006237/image_2191006237.jpg?io=getty-c-w1536",
+      "source": "Seeking Alpha",
+      "publishedAt": "2025-10-10T15:20:36Z"
+    },
+    {
+      "title": "What Is the One Trait That Makes for a Great Manager? You Might Be Surprised - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/c-suite/manager-strengths-rellocating-talent-f0add2da",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-10T15:00:00Z"
+    },
+    {
+      "title": "So much for Ford and GM’s scheme to extend the EV tax credit - The Verge",
+      "description": "Ford and GM are killing their plan to extend the $7,500 EV tax credit to customers through the end of the year, after a couple of Republican senators snitched.",
+      "url": "https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK437_ELECTRIC_VEHICLE_EVS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-10T14:55:36Z"
+    },
+    {
+      "title": "High inflation and lack of jobs leave Americans frustrated with the economy - MarketWatch",
+      "description": "Consumer sentiment stays at recession levels even though the economy is growing",
+      "url": "https://www.marketwatch.com/story/high-inflation-and-lack-of-jobs-leave-americans-frustrated-with-the-economy-bcc5af86",
+      "urlToImage": "https://images.mktw.net/im-66229652/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-10-10T14:24:00Z"
+    },
+    {
+      "title": "Despite A Cautious CEO, This Major Bank Is Trending Higher Ahead Of Earnings Report - Investor's Business Daily",
+      "description": "JPMorgan stock is outperforming the S&P 500 this year, as Wall Street gets ready for an avalanche of earnings reports in the financial sector.",
+      "url": "https://www.investors.com/research/earnings-preview/jpmorgan-stock-uptrend-q3-earnings-ceo-jamie-dimon/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-JPMorgan-05-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-10T14:22:00Z"
+    },
+    {
+      "title": "Coal making a comeback as US datacenters demand power - theregister.com",
+      "description": ": High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack",
+      "url": "https://www.theregister.com/2025/10/10/datacenter_coal_power/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/14/shutterstock_coalpowerstation.jpg",
+      "source": "Theregister.com",
+      "publishedAt": "2025-10-10T13:44:00Z"
+    },
+    {
+      "title": "Race to Replace Powell Narrowed Down to Five Finalists - TipRanks",
+      "description": "Treasury Secretary Scott Bessent has conducted interviews during the past few weeks to find Fed Chair Jerome Powell’s successor, with the list now narrowed down to ...",
+      "url": "https://www.tipranks.com/news/race-to-replace-powell-narrowed-down-to-five-finalists",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2679852499-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-10T13:33:56Z"
+    },
+    {
+      "title": "OpenAI video app Sora hits 1 million downloads faster than ChatGPT - BBC",
+      "description": "The popular AI tool generates ten second long realistic-looking videos from simple text prompts.",
+      "url": "https://www.bbc.com/news/articles/crkjgrvg6z4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d25b/live/a79c0710-a5cb-11f0-92db-77261a15b9d2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-10T12:30:07Z"
     }
   ]
 }
