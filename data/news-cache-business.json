@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-10-13T06:42:14.310Z",
+  "updatedAt": "2025-10-14T06:38:50.507Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "China defends rare earth export curbs as ‘legitimate,’ hits back at U.S. tariffs as Trump-Xi meeting hangs in balance - CNBC",
-      "description": "The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of Beijing's effort to \"better safeguard world peace and regional stability.\"",
-      "url": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210930-1760237541506-gettyimages-121393135-65965310.jpeg?v=1760237569&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-12T02:53:00Z"
-    },
-    {
-      "title": "Consumer sentiment sours as government shutdown threatens economic damage - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.go.com/Business/consumer-sentiment-sours-government-shutdown-threatens-economic-damage/story?id\\\\u003d126398088",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-11T22:52:03Z"
-    },
-    {
-      "title": "Silicon Valley tech boss Marc Benioff says he's all for Trump sending troops to San Francisco since 'we don't have enough cops' - Fortune",
-      "description": "“We don’t have enough cops, so if they can be cops, I’m all for it,” Benioff told The New York Times on Friday.",
-      "url": "https://fortune.com/2025/10/11/tech-ceo-marc-benioff-trump-national-guard-troops-san-francisco/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2221463515-e1760219753931.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-11T22:08:00Z"
-    },
-    {
-      "title": "Stock Bubble Dread Grips Central Bankers in Washington - Yahoo Finance",
-      "description": "Global policymakers and finance ministers will gather in Washington for the International Monetary Fund/World Bank fall meetings after a chorus of warnings...",
-      "url": "https://finance.yahoo.com/news/stock-bubble-dread-grips-central-200000324.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vnLchbPyXpabNIvOtluQvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/501903c24d069d5954d3493d66690ceb",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-10-11T20:00:00Z"
-    },
-    {
-      "title": "The 2026 Nissan Leaf After A Week: Surprisingly Great, Slightly Maddening - InsideEVs",
-      "description": "The third-generation Nissan Leaf opens a new frontier for affordable EVs in America. Here are five things I loved about it, and two things I didn’t.",
-      "url": "https://insideevs.com/reviews/775427/2026-nissan-leaf-5-things-we-love/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/g4gG4N/s1/2026-nissan-leaf-top.jpg",
-      "source": "InsideEVs ",
-      "publishedAt": "2025-10-11T19:27:46Z"
-    },
-    {
-      "title": "Thinking Machines Lab co-founder Andrew Tulloch heads to Meta - TechCrunch",
-      "description": "AI researcher Andrew Tulloch reportedly announced his departure to employees in a message on Friday.",
-      "url": "https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-11T19:10:37Z"
-    },
-    {
-      "title": "Your Social Security check is safe during the shutdown, but there’s a catch you need to know about - SILive.com",
-      "description": "While payments will continue on schedule, many support services are suspended and field offices are operating with significant limitations that could affect your access to important documents.",
-      "url": "https://www.silive.com/news/2025/10/your-social-security-check-is-safe-during-the-shutdown-but-theres-a-catch-you-need-to-know-about.html",
-      "urlToImage": "https://www.silive.com/resizer/v2/MJFH4MZO5REOJLQPHBFWMH7ORU.jpg?auth=6ef989cd1ba3762cbb1a6ecb83a46c28cad3ca7a3cdef6a81e36773a1a0188a1&width=1280&smart=true&quality=90",
-      "source": "SILive.com",
-      "publishedAt": "2025-10-11T17:30:00Z"
-    },
-    {
-      "title": "Another legendary sporting goods retailer closing multiple stores - TheStreet",
-      "description": "The chain is closing a flagship store in a historic location.",
-      "url": "https://www.thestreet.com/retail/90-year-old-sporting-goods-chain-closing-multiple-locations",
-      "urlToImage": "https://www.thestreet.com/.image/t_share/MjE2NjU5NjUzNzAwODg3OTE5/store_closed_cp_072925.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-11T17:07:17Z"
-    },
-    {
-      "title": "New tariff threats crush stocks during a big week for Nvidia and key portfolio moves - CNBC",
-      "description": "Things were not so bad until President Donald Trump's new China trade threats tanked the stock market.",
-      "url": "https://www.cnbc.com/2025/10/11/new-tariff-threats-crush-stocks-during-a-big-week-for-nvidia-and-key-portfolio-moves.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196238-17574378542025-09-09t170710z_101730336_rc2dogafrgz1_rtrmadp_0_usa-stocks.jpeg?v=1757438034&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-11T17:05:10Z"
-    },
-    {
-      "title": "China’s New Weapon in US Trade Talks: Batteries - Bloomberg.com",
-      "description": "The US is heavily reliant on Chinese batteries as it seeks to stabilize the grid and support explosive data center demand for power.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-11/us-china-trade-talks-battery-export-controls-provide-new-leverage",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iabVsKMGpD7M/v0/1200x800.jpg",
+      "title": "China’s Export Growth Hits Six-Month High as Trade War Escalates - Bloomberg.com",
+      "description": "Chinese shipments overseas grew at the fastest in six months, far exceeding forecasts in a sign of resilience that’s giving Beijing a stronger hand in the latest trade war with the US.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-13/china-s-exports-rise-faster-than-expected-as-trade-war-escalates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9xFnq_qq_Zw/v0/1200x674.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-10-11T16:09:49Z"
+      "publishedAt": "2025-10-13T04:02:00Z"
     },
     {
-      "title": "The Gold Rush in Manhattan’s Diamond District - The Wall Street Journal",
-      "description": "Buyers and sellers are flooding the crowded Midtown block that holds more than 2,600 businesses",
-      "url": "https://www.wsj.com/finance/commodities-futures/the-gold-rush-in-manhattans-diamond-district-b5cb8671",
-      "urlToImage": "https://images.wsj.net/im-79060223/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-11T16:00:00Z"
+      "title": "Bitcoin, Ethereum Rebound Following 'Largest Single-Day Wipeout in Crypto History' - Decrypt",
+      "description": "Crypto prices are rebounding after a tariff-shock selloff that triggered one of the market’s largest single-day liquidation waves.",
+      "url": "https://decrypt.co/343967/bitcoin-ethereum-rebound-largest-single-day-wipeout-crypto-history",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-13T00:46:19Z"
     },
     {
-      "title": "Behind the Collapse of an Auto-Parts Giant: $2 Billion Hole and Mysterious CEO - The Wall Street Journal",
+      "title": "Denver area café bans unsupervised teens due to repeated incidents - CBS News",
+      "description": "After multiple incidents involving middle and high school students, one Denver area café announced that it will no longer allow them inside without an adult.",
+      "url": "https://www.cbsnews.com/colorado/news/denver-area-cafe-bans-unsupervised-teens/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/13/f8c736a6-98b1-4787-9d94-b350db5c7d9e/thumbnail/1200x630/3e1d9e407f162297734b6ea193a1150a/gettyimages-665420632.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-13T00:44:00Z"
+    },
+    {
+      "title": "‘The only solution’: Elon Musk backs call to deploy federal troops to San Francisco - San Francisco Chronicle",
+      "description": "Elon Musk joined Marc Benioff in urging federal troops to San Francisco, backing President Trump’s push for intervention amid the city’s fentanyl crisis.",
+      "url": "https://www.sfchronicle.com/sf/article/elon-musk-benioff-federal-troops-san-francisco-21097096.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/63/50/28523035/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2025-10-12T23:31:44Z"
+    },
+    {
+      "title": "AI boom propping up economy as some guardrails are coming off, journalist Andrew Ross Sorkin warns - CBS News",
+      "description": "Stocks on Wall Street have rallied in recent months, but author Andrew Ross Sorkin sees a crash coming. The question is: when will the bubble pop, and how much will the market slump when it does?",
+      "url": "https://www.cbsnews.com/news/ai-boom-propping-up-economy-as-some-guardrails-coming-off-andrew-ross-sorkin-60-minutes-transcript/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/12/942d8b76-078c-4afe-b7fc-cf3e32041545/thumbnail/1200x630/6fa19429315a480e5f5f1ae612d6e513/andrew-ross-sorkin-stocks-video-stahl.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-12T23:30:28Z"
+    },
+    {
+      "title": "Five carmakers go on trial over emissions cheat claims - BBC",
+      "description": "The trial is the latest chapter of what has become known as the \"dieselgate\" scandal.",
+      "url": "https://www.bbc.com/news/articles/cjr5epw8dweo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6baf/live/c309be20-a760-11f0-af68-63d6dbe14439.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-12T23:26:16Z"
+    },
+    {
+      "title": "Meet the Supercharged Growth Stock That's One of This Year's Big Winners. The Company Could Hit $50 Trillion by 2034, According to 1 World-Renowned Analyst - The Motley Fool",
+      "description": "A track record of innovation, strong tailwinds, and an industry-leading position could drive this household name to new highs.",
+      "url": "https://www.fool.com/investing/2025/10/12/supercharged-growth-stock-artificial-intelligence/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/836609/nvidia-data-center-with-nvidia-units-installed-showing-nvidia-logo.png",
+      "source": "Motley Fool",
+      "publishedAt": "2025-10-12T23:02:00Z"
+    },
+    {
+      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia - Financial Times",
+      "description": "Move by The Hague escalates frictions between western countries and Beijing over access to high-end technology",
+      "url": "https://www.ft.com/content/605e5456-9437-47ff-be6a-edc5c82810f2",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7000ce33-0cea-437b-a426-e3374fb7ebe3.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-12T22:33:52Z"
+    },
+    {
+      "title": "Vacate order issued in Bethlehem as shifting ground threatens safety - WRGB",
+      "description": "A Bethlehem business has been ordered to vacate as experts say shifting ground at the location poses an imminent threat.The Town of Bethlehem, along with the pr",
+      "url": "https://cbs6albany.com/news/local/vacate-order-issued-in-bethlehem-as-shifting-ground-threatens-safety",
+      "urlToImage": "https://cbs6albany.com/resources/media2/16x9/640/986/0x60/90/772b3d56-fd3c-4948-be57-3e756e431183-Delawareslide.jpg",
+      "source": "WRGB",
+      "publishedAt": "2025-10-12T22:21:29Z"
+    },
+    {
+      "title": "Warner Bros. Discovery Rejected Paramount Skydance Acquisition Offer of $20 per Share as Too Low (Report) - Variety",
+      "description": "Warner Bros. Discovery rejected a takeover offer of around $20 per share from David Ellison's Paramount Skydance in recent weeks as 'too low.'",
+      "url": "https://variety.com/2025/tv/news/warner-bros-discovery-rejects-paramount-skydance-acquisition-offer-1236547551/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-2159247899.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-12T21:52:00Z"
+    },
+    {
+      "title": "Last chance: I've got 138 expert-recommended Amazon discounts you can still nab before the Prime sale ends at midnight - TechRadar",
+      "description": "There's still time to save on Kindles, AirPods, Echo speakers, iPads, Fire TV Sticks and more",
+      "url": "https://www.techradar.com/live/news/amazon-au-prime-big-deal-days-2025-last-chance",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tk3bUHPDKHMmWd82cGRfHJ-1920-80.jpg",
+      "source": "TechRadar",
+      "publishedAt": "2025-10-12T21:03:38Z"
+    },
+    {
+      "title": "Ask HN: What are you working on? (October 2025) - Hacker News",
       "description": null,
-      "url": "https://www.wsj.com/business/first-brands-collapse-patrick-james-306d7869",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45561428",
       "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-10-12T20:32:37Z"
+    },
+    {
+      "title": "Wall Street investment banking revenues poised to top $9bn - Financial Times",
+      "description": "Dealmaking rebound finally arrives with large banks expected to report highest advisory and capital markets fees since 2021",
+      "url": "https://www.ft.com/content/a8824829-da4b-4401-8cbf-6b3bc6b5802c",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4f5e804-21ee-4703-83b3-569d92ec68ca.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-12T20:00:01Z"
+    },
+    {
+      "title": "China Markets Under Threat From Risk of Renewed US Trade War - Bloomberg.com",
+      "description": "The prospect of a revived trade war between Beijing and Washington threatens to undermine this year’s blistering rally in Chinese stocks and weigh on the yuan.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-12/china-s-markets-under-threat-from-risk-of-renewed-us-trade-war",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im5EZFY8kGm4/v2/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-12T19:59:58Z"
+    },
+    {
+      "title": "“Everything Now Rests on AI”: America’s Entire Economy Is Balancing on One Fragile Industry (and the Cracks Are Showing) - Rude Baguette",
+      "description": "The current state of the U.S. economy paints a picture of uncertainty, with various sectors facing significant challenges. Rising utility bills, the",
+      "url": "https://www.rudebaguette.com/en/2025/10/everything-now-rests-on-ai-americas-entire-economy-is-balancing-on-one-fragile-industry-and-the-cracks-are-showing/",
+      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/10/the-future-terrifies-us-this-ai-dependency-could-shatter-your-world-and-its-already-in-your-pocket.jpg",
+      "source": "Rudebaguette.com",
+      "publishedAt": "2025-10-12T19:46:13Z"
+    },
+    {
+      "title": "GM’s Rare-Earth Gamble Pays Off as China Tightens Magnet Exports - The Wall Street Journal",
+      "description": "Automaker has quietly seeded the revival of the domestic magnet industry, locking down supply amid trade tensions",
+      "url": "https://www.wsj.com/business/autos/gms-rare-earth-gamble-pays-off-as-china-tightens-magnet-exports-b115ef72",
+      "urlToImage": "https://images.wsj.net/im-44330372/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-11T15:32:07Z"
+      "publishedAt": "2025-10-12T18:50:22Z"
     },
     {
-      "title": "Major analyst drops 5-word take on market pullback - TheStreet",
-      "description": "It's an unexpected turn from a market constant.",
-      "url": "https://www.thestreet.com/investing/major-analyst-drops-5-word-take-on-market-pullback",
-      "urlToImage": "https://www.thestreet.com/.image/t_share/MjA1MTMyODQyMjE2OTkwNDYw/tom-lee-4-lead_db_082123.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-11T13:02:19Z"
+      "title": "When The Market Structure Breaks: How To Survive The Next Phase - Barchart.com",
+      "description": "The market is shifting from story to structure. Liquidity, leverage, and belief are breaking down, and only disciplined investors who prepare, not predict, will own the next cycle.",
+      "url": "https://www.barchart.com/story/news/35397527/when-the-market-structure-breaks-how-to-survive-the-next-phase",
+      "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Charts%2C%20tickers%2C%20traders/Red%20down%20arrow%20inside%20of%20magnifier%20glass%20and%20USD%20dollar%20banknote_%20Image%20by%20Dilok%20Klaisataporn%20via%20Shutterstock_.jpg",
+      "source": "Barchart.com",
+      "publishedAt": "2025-10-12T18:16:00Z"
     },
     {
-      "title": "Amazon October Prime Day is officially over — these are 20 of the very best extended deals you can still shop in Canada up to 88% off - Yahoo Lifestyle Canada",
-      "description": "Save up to 88 per cent on everyday essentials, vacuums, kitchen appliances and more post-fall Prime Day.",
-      "url": "https://ca.style.yahoo.com/amazon-october-prime-day-is-officially-over--these-are-20-of-the-very-best-extended-deals-you-can-still-shop-in-canada-up-to-88-off-130138044.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IifFXjdDCN3ev44DPfKjKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/f2a62770-80c6-11ef-a7ee-869733924db2",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-10-11T13:01:38Z"
-    },
-    {
-      "title": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing? - MarketWatch",
-      "description": "As two of the biggest states in the country, their economies ‘may be canaries in the coal mine,’ one economist notes",
-      "url": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9",
-      "urlToImage": "https://images.mktw.net/im-01644744/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-10-11T13:00:00Z"
-    },
-    {
-      "title": "How to measure the economy when the government isn't doing it - Axios",
-      "description": "Companies and investors are scrambling for alternatives to the data put out by the Bureau of Labor Statistics.",
-      "url": "https://www.axios.com/2025/10/11/shutdown-data-jobs-cpi",
-      "urlToImage": "https://images.axios.com/F9-Ne-Uhhk8NEE4Hd4bffToVXVQ=/1366x768/smart/2024/10/15/160944-1729008584913.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-11T11:38:04Z"
-    },
-    {
-      "title": "'Heartbreaking': Once thriving Calif. downtown is on the brink - SFGATE",
-      "description": "Downtown San Luis Obispo, long a popular destination for locals, students and tourists, is facing dark times and closure after closure.",
-      "url": "https://www.sfgate.com/centralcoast/article/downtown-slo-dying-21086622.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/62/44/28518663/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-10-11T11:10:03Z"
-    },
-    {
-      "title": "China’s lesson for the US: it takes more than chips to win the AI race - South China Morning Post",
-      "description": "The AI war is increasingly waged among ‘hyperscalers’ – companies with full-stack capabilities across software, hardware and applications.",
-      "url": "https://www.scmp.com/tech/tech-war/article/3328568/chinas-lesson-us-it-takes-more-chips-win-ai-race",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/10/10/93e1b0d4-d854-4545-9ac0-002a50ab7b9c_1528cfc5.jpg?itok=qqmnGBjf&v=1760093836",
-      "source": "Post Magazine",
-      "publishedAt": "2025-10-11T04:00:13Z"
-    },
-    {
-      "title": "Trump administration cancels massive Nevada solar power project - upi.com",
-      "description": "The Trump administration has canceled the proposed Esmeralda 7 Solar Project in Nevada that would have been among the world's largest solar power facilities.",
-      "url": "https://www.upi.com",
-      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/8711760135191/2025/1/cc3bde9eabe1957698dc462e601fb0fe/v1.5/Trump-administration-cancels-massive-Nevada-solar-power-project.jpg",
-      "source": "UPI.com",
-      "publishedAt": "2025-10-10T22:52:08Z"
+      "title": "The $1.5 billion engineer: Meta’s latest hire shows how costly the AI talent race has become - CTech",
+      "description": "Zuckerberg’s relentless pursuit of elite researchers is redrawing tech’s balance of power, with Thinking Machines’ Andrew Tulloch becoming the latest elite engineer to join Meta’s AI crusade.",
+      "url": "https://www.calcalistech.com/ctechnews/article/skr56vtpgl",
+      "urlToImage": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/08/04/ryGk0X0wlx/ryGk0X0wlx_0_0_700_398_0_large.jpg",
+      "source": "CTech",
+      "publishedAt": "2025-10-12T18:08:00Z"
     }
   ]
 }
