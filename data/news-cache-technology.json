@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2025-10-14T06:38:50.430Z",
+  "updatedAt": "2025-10-15T06:39:42.611Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Samsung just released an even better foldable than the Galaxy Z Fold 7 - Android Authority",
-      "description": "Samsung has launched the W26, a luxurious version of the Galaxy Z Fold 7 that brings satellite connectivity, a premium design, and more",
-      "url": "https://www.androidauthority.com/samsung-w26-3606529/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/samsung-w26-color-red.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-10-13T02:17:07Z"
-    },
-    {
-      "title": "No, Target and Walmart are not removing Xbox products from their stores — as Xbox misinformation reaches new levels - Windows Central",
-      "description": "One thing after another, Microsoft is forced to respond time and time again to ongoing rumors that it's leaving the hardware space.",
-      "url": "https://www.windowscentral.com/gaming/no-target-and-walmart-are-not-removing-xbox-products-from-their-stores-as-xbox-misinformation-reaches-new-levels",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jZVgdFkfBM5jQpQ6t8Nfpi-2000-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-10-13T01:39:00Z"
-    },
-    {
-      "title": "Tweets of the Week: Rhea Ripley & Iyo Sky shoey, Harley Cameron ventriloquism, more! - Cageside Seats",
-      "description": "Let’s have some fun with social media again.",
-      "url": "https://www.cagesideseats.com/cageside-seats-features/389512/tweets-of-the-week-rhea-ripley-iyo-sky-shoey-harley-cameron-ventriloquism-more",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/10/Screenshot-2025-10-12-at-13-21-50-Instagram.png?quality=90&strip=all&crop=0,34.096764201476,100,31.806471597048",
-      "source": "Cageside Seats",
-      "publishedAt": "2025-10-13T01:00:00Z"
-    },
-    {
-      "title": "Pokémon GO Events This Week (13 October – 19 October 2025) - Pokémon GO Hub",
-      "description": "Pokémon GO’s October 6 to October 12 schedule brings the spooky season month in the Tales of Transformation season! Enjoy the release of new levels in Pokémon GO, the end of the Harvest Festival, the Pokémon Legends: Z-A Celebration Event and Mega Rayquaza Ra…",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-13-october-19-october-2025/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/10/level-80.jpg",
-      "source": "Pokemon GO Hub",
-      "publishedAt": "2025-10-13T00:27:04Z"
-    },
-    {
-      "title": "‘Real American’ debuts, but that’s not Hulk Hogan walking out, brother - Cageside Seats",
-      "description": "Hulk Hogan’s iconic WWE entrance theme turns 40 — but it wasn’t originally meant for the Hulkster.",
-      "url": "https://www.cagesideseats.com/wwe/389484/hulk-hogan-real-american-entrance-theme-40th-anniversary-wwe",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/10/Screenshot-2025-10-12-11.23.01.png?quality=90&strip=all&crop=0%2C10.564817202372%2C100%2C78.870365595255&w=1200",
-      "source": "Cageside Seats",
-      "publishedAt": "2025-10-13T00:00:00Z"
-    },
-    {
-      "title": "The biggest risers from the Spurs’ preseason, so far - Pounding The Rock",
-      "description": "A look at who’s making the most out of their preseason minutes for the new-look Spurs.",
-      "url": "https://www.poundingtherock.com/spurs-analysis/88458/the-biggest-risers-from-the-spurs-preseason-so-far",
-      "urlToImage": "https://platform.poundingtherock.com/wp-content/uploads/sites/126/2025/10/imagn-27292551.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.544638387061&w=1200",
-      "source": "Pounding The Rock ",
-      "publishedAt": "2025-10-12T22:42:58Z"
-    },
-    {
-      "title": "Everything we know about Final Sentence - Dexerto",
-      "description": "Final Sentence is swapping trigger fingers for fast APM with its unique spin on the battle royale formula, replacing bullets with words.",
-      "url": "https://www.dexerto.com/gaming/everything-we-know-about-final-sentence-3265822/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/12/final-sentence-game-cover.jpg",
-      "source": "Dexerto",
-      "publishedAt": "2025-10-12T21:22:27Z"
-    },
-    {
-      "title": "VALORANT: Everything about Patch 11.08, including weapons, agents, and map changes - Sheep Esports",
-      "description": "Explore expert insights and breaking news in League of Legends Esports, brought to you by Sheep Esports.",
-      "url": "https://www.sheepesports.com/articles/valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes/en",
-      "urlToImage": "https://sheepesports.com/api/og?url=valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes&language=en",
-      "source": "Sheepesports.com",
-      "publishedAt": "2025-10-12T20:56:30Z"
-    },
-    {
-      "title": "What Google Material 3 Expressive redesigns are rolling out [Updated] - 9to5Google",
-      "description": "Material 3 Expressive redesigns are rolling out to Google apps, and here’s our list of what’s available and still to come on Android phones.",
-      "url": "http://9to5google.com/2025/10/12/google-material-3-expressive-redesign/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Material-3-Expressive-Google-apps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-10-12T19:45:00Z"
-    },
-    {
-      "title": "Battlefield 6 issues \"fix\" for jump momentum bug and is \"monitoring\" Breakthrough player counts - Eurogamer",
-      "description": "Battlefield 6 has issued a fix for an issue where jump momentum gets \"unintentionally interrupted\" depending on what we…",
-      "url": "https://www.eurogamer.net/battlefield-6-issues-fix-for-jump-momentum-bug-and-is-monitoring-breakthrough-player-counts",
-      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-soldiers-running-from-explosion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-10-12T18:47:50Z"
-    },
-    {
-      "title": "Time is running out for millions of Windows 10 users, but here's the 1 trick for a free one-year extension - Tom's Guide",
-      "description": "Put off upgrading to Windows 11 for another 12 months without paying a dime",
-      "url": "https://www.tomsguide.com/computing/windows-operating-systems/time-is-running-out-for-millions-of-windows-10-users-but-heres-the-1-trick-for-a-free-one-year-extension",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9Lsu7b4eoVLUYJ86oBhSgj-1920-80.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2025-10-12T18:46:36Z"
-    },
-    {
-      "title": "Stephanie Vaquer just gave Becky Lynch a reason to come after her title - Cageside Seats",
-      "description": "A friendly glance between Crown Jewel champions is enough to start a storyline between “The Man” and “La Primera.”",
-      "url": "https://www.cagesideseats.com/wwe/389375/stephanie-vaquer-just-gave-becky-lynch-a-reason-to-come-after-her-title",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2025/10/Screenshot-2025-10-12-03.00.36.png?quality=90&strip=all&crop=0,6.5036678382359,100,86.992664323528",
-      "source": "Cageside Seats",
-      "publishedAt": "2025-10-12T18:00:00Z"
-    },
-    {
-      "title": "Report: Screenshots for Rare’s Everwild Unveiled, Featuring UI and More - MP1st",
-      "description": "MP1st uncovered posthumous details and exclusive screenshots from Rare's cancelled title, Everwild, with a first look at the game's UI.",
-      "url": "https://mp1st.com/news/screenshots-rares-everwild-featuring-ui-gameplay-details",
-      "urlToImage": "https://mp1st.com/wp-content/uploads/2025/10/evthmb.jpg",
-      "source": "http://mp1st.com/category/news",
-      "publishedAt": "2025-10-12T17:58:46Z"
-    },
-    {
-      "title": "Seattle man discovers the world’s rarest Xbox at a yard sale for $50, a similar one once drew bids 400 times higher - supercarblondie.com",
-      "description": "A Seattle man once discovered a super-rare Xbox at a garage sale and snapped it up for just $50, before going on to sell it for a lot more",
-      "url": "https://supercarblondie.com/seattle-man-discovered-rare-xbox-yard-sale-for-50/",
-      "urlToImage": "https://supercarblondie.com/wp-content/uploads/orange_xbox-2.webp",
-      "source": "Supercarblondie.com",
-      "publishedAt": "2025-10-12T17:13:00Z"
-    },
-    {
-      "title": "Expedition 33 is \"85% of the original vision,\" but one character deserves more - PCGamesN",
-      "description": "Clair Obscur Expedition 33's Guillaume Broche and Francois Meurisse tell us about development regrets and what we might still see ahead.",
-      "url": "https://www.pcgamesn.com/clair-obscur-expedition-33/interview-vision",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/clair-obscur-expedition-33-interview-original-vision-sandfall-interactive-rpg-guillaume-broche-francois-meurisse.jpg",
-      "source": "PCGamesN",
-      "publishedAt": "2025-10-12T16:40:39Z"
-    },
-    {
-      "title": "No I don't want to turn on Windows Backup with One Drive - Hacker News",
+      "title": "SpaceX launches 24 Amazon Kuiper satellites following days of weather delays - Spaceflight Now",
       "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d45559023",
+      "url": "https://spaceflightnow.com/2025/10/13/live-coverage-spacex-poised-to-launch-24-amazon-kuiper-satellites-following-days-of-weather-delays/",
+      "urlToImage": null,
+      "source": "Spaceflight Now",
+      "publishedAt": "2025-10-14T02:20:21Z"
+    },
+    {
+      "title": "Croc's Remaster Returns This Week With A Free 'Platinum Edition' Update - Nintendo Life",
+      "description": "Including achievements and a new name...",
+      "url": "https://www.nintendolife.com/news/2025/10/crocs-switch-remaster-returns-this-week-with-a-free-platinum-edition-update",
+      "urlToImage": "https://images.nintendolife.com/0eebae3a96543/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-10-14T01:55:00Z"
+    },
+    {
+      "title": "Pokémon TCG Pocket Announces \"New And Updated\" Features For First Anniversary - Nintendo Life",
+      "description": "Get ready, trainers",
+      "url": "https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary",
+      "urlToImage": "https://images.nintendolife.com/40eb17ac2e531/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-10-14T01:19:11Z"
+    },
+    {
+      "title": "Netflix makes a major move to win over subscribers - TheStreet",
+      "description": "Netflix goes beyond streaming to keep customers happy.",
+      "url": "https://www.thestreet.com/entertainment/netflix-makes-a-major-move-to-win-over-subscribers",
+      "urlToImage": "https://www.thestreet.com/.image/t_share/MjAxNTYzOTAxODI4MDE1NDg5/video-streaming-platforms-stock-photos.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-10-13T22:03:00Z"
+    },
+    {
+      "title": "Hackers can steal 2FA codes and private messages from Android phones - Ars Technica",
+      "description": "Malicious app required to make “Pixnapping” attack work requires no permissions.",
+      "url": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-13T21:36:35Z"
+    },
+    {
+      "title": "American Airlines adding Google Wallet support for boarding passes - 9to5Google",
+      "description": "American Airlines has just announced that it will support Google Wallet with its boarding passes, an overdue addition for the...",
+      "url": "http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/american-airlines.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-13T21:30:00Z"
+    },
+    {
+      "title": "Microsoft AI announces first image generator created in-house - The Verge",
+      "description": "Microsoft AI announced a new text-to-image generator developed in-house.",
+      "url": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-13T21:24:05Z"
+    },
+    {
+      "title": "Google’s Nano Banana AI image editor is coming to search, Photos, and NotebookLM - Ars Technica",
+      "description": "After more than 5 billion AI image edits, Nano Banana is expanding.",
+      "url": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/BananaLens-2096x1182.width-2200.format-webp-copy-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-13T19:52:23Z"
+    },
+    {
+      "title": "Ask HN: Has AI stolen the satisfaction from programming? - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45572130",
       "urlToImage": null,
       "source": "Hacker News",
-      "publishedAt": "2025-10-12T16:14:33Z"
+      "publishedAt": "2025-10-13T19:50:33Z"
     },
     {
-      "title": "Tekken 8 DLC Character Miary Zo Launches December 4 - Final Weapon",
-      "description": "Bandai Namco announced Tekken 8 DLC character Miary Zo launches on December 4 worldwide as the game's latest roster addition for Season 2.",
-      "url": "https://finalweapon.net/2025/10/12/tekken-8-dlc-character-miary-zo-december-4-release-date/",
-      "urlToImage": "https://finalweapon.net/wp-content/uploads/2025/10/Tekken-8-Miary-Zo.webp",
-      "source": "Finalweapon.net",
-      "publishedAt": "2025-10-12T16:11:15Z"
+      "title": "The Final Mega Randoms - Bespoked Show Dresden 2025 - Pinkbike",
+      "description": "A final round of the creative bike creations on display in Dresden this year.",
+      "url": "https://www.pinkbike.com/news/the-final-mega-randoms-bespoked-show-dresden-2025.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb28877204/p4pb28877204.jpg",
+      "source": "Pinkbike.com",
+      "publishedAt": "2025-10-13T19:00:00Z"
     },
     {
-      "title": "Why does Samsung feel the need to ruin Android notifications? - 9to5Google",
-      "description": "In my switch to the Galaxy Z Fold 7 as my main phone in recent months, there’s just one thing...",
-      "url": "http://9to5google.com/2025/10/12/why-does-samsung-feel-the-need-to-ruin-android-notifications/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-10-lockscreen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-10-12T16:00:00Z"
+      "title": "Microsoft denies U.S. retailers like Target and Walmart have removed Xbox products from stores - GamesIndustry.biz",
+      "description": "Microsoft has refuted claims U.S. retailers have withdrawn sales of its Xbox Series X and S consoles, insisting major c…",
+      "url": "https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores",
+      "urlToImage": "https://assetsio.gnwcdn.com/Xbox-Series-X%7CS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2025-10-13T18:47:08Z"
     },
     {
-      "title": "Security Bite: This old school alias trick will show you who’s selling or leaking your email - 9to5Mac",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe...",
-      "url": "https://9to5mac.com/2025/10/12/security-bite-this-old-school-alias-trick-will-show-you-whos-selling-or-leaking-your-email/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/Copy-of-Copy-of-Untitled-Design.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "iOS 26.1 beta 3 reveals new third-party AI integrations may be coming soon - 9to5Mac",
+      "description": "Updated code in iOS 26.1 beta 3 reveals Apple is preparing to add at least one new third-party AI integration soon.",
+      "url": "https://9to5mac.com/2025/10/13/ios-26-1-beta-3-reveals-new-third-party-ai-integrations-may-be-coming-soon/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-ios-26-04.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2025-10-12T15:09:00Z"
+      "publishedAt": "2025-10-13T18:08:00Z"
     },
     {
-      "title": "Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025 - TechCrunch",
-      "description": "Cerca is a dating app that sets users up with mutual friends.",
-      "url": "https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Myles-Slayton.png?resize=831,1200",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-12T14:51:10Z"
+      "title": "Microsoft previews People grouping in OneDrive photos - theregister.com",
+      "description": ": Then shalt thee change the setting three times, no more!",
+      "url": "https://www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/",
+      "urlToImage": "https://regmedia.co.uk/2015/09/02/metal_faces_iron.jpg",
+      "source": "Theregister.com",
+      "publishedAt": "2025-10-13T17:48:00Z"
+    },
+    {
+      "title": "Battlefield 6 is already the biggest game of the franchise by Steam concurrent user count - GamesIndustry.biz",
+      "description": "Battlefield 6 is the franchise's biggest ever game on Steam, clocking up over 700,000 concurrent players within 24 hour…",
+      "url": "https://www.gamesindustry.biz/battlefield-6-is-already-the-biggest-game-of-the-franchise-by-steam-concurrent-user-count",
+      "urlToImage": "https://assetsio.gnwcdn.com/2_HWFI6zJ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2025-10-13T17:44:28Z"
+    },
+    {
+      "title": "Environment variables are a legacy mess: Let's dive deep into them - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45570537",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-10-13T17:21:01Z"
+    },
+    {
+      "title": "Community: 32 Switch Games We Missed, As Recommended By You - Nintendo Life",
+      "description": "Part 11 - Playing catch-up",
+      "url": "https://www.nintendolife.com/guides/community-32-switch-games-we-missed-as-recommended-by-you",
+      "urlToImage": "https://images.nintendolife.com/aed6249d648a4/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-10-13T17:19:34Z"
+    },
+    {
+      "title": "Your Pokémon Go level is about to go up - Polygon",
+      "description": "Niantic rebalances Pokémon Go's leveling system, raising the max level cap from 50 to 80. Read what's changing and how much XP you'll need to hit 80.",
+      "url": "https://www.polygon.com/pokmon-go-new-level-cap-changes-rewards-daily-adventure-egg/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/pokemon-go-leveling-2025-update.jpg?w=1600&h=900&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2025-10-13T17:00:00Z"
+    },
+    {
+      "title": "[Updated 10/13] Midnight Prologue: \"The Warning\" Content Update and Housing Early Access - Blizzard News",
+      "description": "With the Ghosts of K’aresh behind us, Azeroth stands on the precipice of a future overshadowed by Xal’atath and the relentless advance of the Void. In The Warning, the stage is set for what comes next before continuing the story in the Midnight expansion. Pla…",
+      "url": "https://news.blizzard.com/en-us/article/24241096/updated-10-13-midnight-prologue-the-warning-content-update-and-housing-early-access",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/hk/HK3BNKK5YV2K1759970928084.png",
+      "source": "Blizzard.com",
+      "publishedAt": "2025-10-13T16:57:00Z"
+    },
+    {
+      "title": "Apple TV+ Rebrands to Apple TV, Ditching the Plus Sign for ‘Vibrant New Identity’ - Variety",
+      "description": "It's just Apple TV now, no plus.",
+      "url": "https://variety.com/2025/tv/news/apple-tv-plus-rebrands-streaming-service-1236551345/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/TheMorningShow.JenniferAniston-solo.1.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-13T15:57:00Z"
     }
   ]
 }
