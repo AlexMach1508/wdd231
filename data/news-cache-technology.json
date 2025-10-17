@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2025-10-16T06:39:22.370Z",
+  "updatedAt": "2025-10-17T06:38:36.419Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple SVP On Why They Dropped The \"Plus\" From Apple TV & Hints At Subscriber Numbers - Deadline",
-      "description": "Eddy Cue, Senior Vice President of Services at Apple, is giving insight into the rebrand of Apple TV+ into simply Apple TV.",
-      "url": "http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/apple-tv-logo.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-15T00:30:00Z"
-    },
-    {
-      "title": "Samsung officially teases Moohan headset launch for next week - The Verge",
-      "description": "Samsung is finally about to reveal more details about its Project Moohan mixed reality headset at a new “Worlds Wide Open” Galaxy event on October 21st.",
-      "url": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/image002.jpg?quality=90&strip=all&crop=0%2C3.4846106844621%2C100%2C93.030778631076&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-14T23:00:51Z"
-    },
-    {
-      "title": "Pixel 10 Pro Fold bends and breaks in durability test, just like its predecessors - 9to5Google",
-      "description": "The Pixel 10 Pro Fold is supposed to have a stronger hinge and be rated for IP68 water and dust...",
-      "url": "http://9to5google.com/2025/10/14/pixel-10-pro-fold-durability-test/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-Fold-Durability-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-10-14T20:59:00Z"
-    },
-    {
-      "title": "Exclusive: Inaudible sound might be the next frontier in wildfire defense - TechCrunch",
-      "description": "Sonic Fire Tech has developed a device that can extinguish flames using acoustic energy below the range of human hearing. The startup is building a demo capable of protecting a home.",
-      "url": "https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192375010.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-14T19:54:34Z"
-    },
-    {
-      "title": "New powerful M5 MacBook Pro teased by Greg Joswiak - AppleInsider",
-      "description": "A new MacBook Pro is \"coming soon,\" according to a social media post by Greg \"Joz\" Joswiak on Tuesday.",
-      "url": "https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65407-136815-img_2983-xl.jpg",
-      "source": "AppleInsider",
-      "publishedAt": "2025-10-14T19:20:00Z"
-    },
-    {
-      "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws - BleepingComputer",
-      "description": "Today is Microsoft's October 2025 Patch Tuesday, which includes security updates for 172 flaws, including six zero-day vulnerabilities. Get patching!",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2025-10-14T18:02:50Z"
-    },
-    {
-      "title": "Battlefield 6 is a smash-hit launch: 6.5m+ sold and counting - Substack",
-      "description": "A BIG data deep dive into the triumphant return of the Battlefield franchise. But can EA keep up the momentum?",
-      "url": "https://alineaanalytics.substack.com/p/battlefield-6-is-a-smash-hit-launch",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Pejm!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5382de4e-65bf-4277-ba3f-3cad9a08d302_1920x1080.png",
-      "source": "Substack.com",
-      "publishedAt": "2025-10-14T18:01:00Z"
-    },
-    {
-      "title": "Borderlands 4 Discounted A Month After Launch Despite Boss' Warning - Kotaku",
-      "description": "Also: Helldivers hiatus, Sucker Punch's future, and more veteran developer departures",
-      "url": "https://kotaku.com/borderlands-4-sale-discount-everwild-leak-helldivers-performance-2000635349",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/10/borderlands-4-photo-1-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-10-14T17:24:21Z"
-    },
-    {
-      "title": "Apple releases iPadOS 26.1 public beta 3 and more, here’s what’s new - 9to5Mac",
-      "description": "Public beta 3 is here for iPadOS 26.1 and more. Here’s what’s new in Apple’s just-released wave of new beta...",
-      "url": "https://9to5mac.com/2025/10/14/apple-releases-ipados-26-1-public-beta-3-and-more-heres-whats-new/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPadOS-26.1-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-14T17:17:00Z"
-    },
-    {
-      "title": "Nvidia sells tiny new computer that puts big AI on your desktop - Ars Technica",
-      "description": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K.",
-      "url": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-14T16:58:21Z"
-    },
-    {
-      "title": "Your Nest Learning Thermostat is no longer a bland circle - Android Central",
-      "description": "Meet the new Farsight faces.",
-      "url": "https://www.androidcentral.com/accessories/smart-home/google-nest-thermostats-get-a-visual-overhaul-with-new-animated-faces",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uxuyBUSfwF6bNdVougL4km-2500-80.jpg",
-      "source": "Android Central",
-      "publishedAt": "2025-10-14T16:41:00Z"
-    },
-    {
-      "title": "You can test Microsoft's new in-house AI image generator model now - here's how - ZDNET",
-      "description": "It's already scoring in the top ten at the AI leaderboard LMArena.",
-      "url": "https://www.zdnet.com/article/you-can-test-microsofts-new-in-house-ai-image-generator-model-now-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8270da20b8f878684eb08f59c1f00a0f734bd3fc/2025/10/14/da187e9d-4cb8-4df2-8ad0-6478a492abce/gettyimages-2128592701.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-10-14T15:52:00Z"
-    },
-    {
-      "title": "‘Destiny 2’ Reverts Yet Another Hated ‘Edge Of Fate’ Addition - Forbes",
-      "description": "Destiny 2 is deleting Unstable Cores, a currency that was a bad idea from the moment The Edge of Fate launched, but it's being changed now.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/10/14/destiny-2-reverts-yet-another-hated-edge-of-fate-addition/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ee5fa0c782f38762085f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-10-14T14:40:46Z"
-    },
-    {
-      "title": "Pokémon TCG Pocket updates will soon make completing your collection easier, as mobile game approaches first anniversary - Eurogamer",
-      "description": "Pokémon TCG Pocket is fast approaching its first anniversary, and to celebrate new updates are on the way that will make it easier to complete your collection.",
-      "url": "https://www.eurogamer.net/pokemon-tcg-pocket-updates-will-soon-make-completing-your-collection-easier-as-mobile-game-approaches-first-anniversary",
-      "urlToImage": "https://assetsio.gnwcdn.com/Pok%C3%A9mon-TCG-Pocket-_-Deluxe-Pack-ex-%E2%9C%A8-0-21-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-10-14T14:27:56Z"
-    },
-    {
-      "title": "Call of Duty only exists because \"EA were dicks\", claims Battlefield lead Vince Zampella - Eurogamer",
-      "description": "Call of Duty only exists because \"EA were dicks\", claims Battlefield lead Vince Zampella.",
-      "url": "https://www.eurogamer.net/call-of-duty-only-exists-because-ea-were-dicks-claims-battlefield-lead-vince-zampella",
-      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-10-14T13:50:48Z"
-    },
-    {
-      "title": "Pokémon Legends Z-A Mega Starters Leaked: Stats and New Mega Evolutions Revealed - VICE",
-      "description": "The Pokémon Legends Z-A Mega Starters have leaked ahead of launch. Here is are the PLZA Starters new Mega Evolutions and stats.",
-      "url": "http://www.vice.com/en/article/pokemon-legends-z-a-mega-starters-leaked-stats-and-new-mega-evolutions-revealed/",
-      "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2025/10/Pokemon-Legends-Z-A-Mega-Starters-Leaked-Stats-and-New-Mega-Evolutions-Revealed.jpg?resize=2000,1028",
-      "source": "Vice News",
-      "publishedAt": "2025-10-14T12:39:07Z"
-    },
-    {
-      "title": "Square Enix Announces Dissidia Duellum Final Fantasy Mobile Game - Anime News Network",
+      "title": "I'm recomming my customers switch to Linux rather that Upgrade to Windows 11 - Hacker News",
       "description": null,
-      "url": "https://www.animenewsnetwork.com/news/2025-10-14/square-enix-announces-dissidia-duellum-final-fantasy-mobile-game/.229917",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45600338",
       "urlToImage": null,
-      "source": "Anime News Network",
-      "publishedAt": "2025-10-14T12:28:11Z"
+      "source": "Hacker News",
+      "publishedAt": "2025-10-16T01:36:06Z"
     },
     {
-      "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions - The Hacker News",
-      "description": "Pixnapping side-channel can steal 2FA codes pixel-by-pixel on Android 13–16; CVE-2025-48561 patched Sept 2025 but workaround exists.",
-      "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bfM1yEcw7WZjx2RKEktuieKPwlv2Gh_rraTzrK0iBYOD-OM6VBRfDT-oHF_gTv5ymkrZP7lkdsvLIJnSK_btwdFQttvQvCcBkVXZpD69epbk6n3sxOPbnCTOfQque59TqfdRrRdN4F_MCrIw5TR_r5kqWHjLm-_oL1Kd05Y6CEz-H61ebIZvXJAB1kzG/s790-rw-e365/android-opt.jpg",
-      "source": "Internet",
-      "publishedAt": "2025-10-14T11:18:00Z"
+      "title": "Roku might've just solved the biggest problem with home TV streaming - here's how - ZDNET",
+      "description": "Your favorite city is also getting an interactive update.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/roku-mightve-just-solved-the-biggest-problem-with-home-tv-streaming-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d4b66186045321c7697e3423f936df2cc899c764/2025/05/05/369c550c-7117-4c04-ab58-a4627d676ce5/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-10-15T23:30:00Z"
+    },
+    {
+      "title": "What do you think of YouTube’s new video player redesign? [Poll] - 9to5Google",
+      "description": "YouTube just launched a massive redesign across practically every platform. Do you love it, hate it, or is it something in between?",
+      "url": "http://9to5google.com/2025/10/15/what-do-you-think-of-youtubes-new-video-player-redesign-poll/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/youtube-redesign-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-15T23:00:00Z"
+    },
+    {
+      "title": "Apple’s Head of ChatGPT-Like AI Search Effort to Leave for Meta - Bloomberg.com",
+      "description": "The Apple Inc. executive leading an effort to develop AI-driven web search is stepping down, marking the latest in a string of high-profile exits from the company’s artificial intelligence division.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwvc_lfDNONI/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-15T22:57:51Z"
+    },
+    {
+      "title": "Google’s AI video generator is getting better editing and more audio - The Verge",
+      "description": "It’ll be harder than ever to tell what is real with Google’s latest Flow updates.",
+      "url": "https://www.theverge.com/news/800371/google-veo-3-1-flow-audio",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-15-at-4.52.06%E2%80%AFPM.png?quality=90&strip=all&crop=6.0433133732535%2C0%2C87.913373253493%2C100&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-15T21:46:38Z"
+    },
+    {
+      "title": "Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets - Ars Technica",
+      "description": "“We’re trying to crawl, then walk, then run into our reuse strategy.”…",
+      "url": "https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/jsc2025e016293large-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-15T20:22:24Z"
+    },
+    {
+      "title": "Google rolling out Android 16 QPR2 Beta 3 for Pixel - 9to5Google",
+      "description": "The Android 16 Beta Program should be nearing completion with QPR2 Beta 3 for Google Pixel devices now available.",
+      "url": "http://9to5google.com/2025/10/15/android-16-qpr2-beta-3-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Android-16-QPR1-logo-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-15T20:04:00Z"
+    },
+    {
+      "title": "Sarah Bond Shows Off Where Microsoft Is 'Prototyping For The Next Generation Of Xbox' - Pure Xbox",
+      "description": "\"This is where the team is actually designing, prototyping and testing\"",
+      "url": "https://www.purexbox.com/news/2025/10/sarah-bond-shows-off-where-microsoft-is-prototyping-for-the-next-generation-of-xbox",
+      "urlToImage": "https://images.purexbox.com/61dfe9e731608/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2025-10-15T18:04:46Z"
+    },
+    {
+      "title": "Axiom Space Appoints Dr. Jonathan Cirtain as CEO and President - Axiom Space",
+      "description": "Oct 15, 2025 -",
+      "url": "https://www.axiomspace.com/release/jonathan-cirtain-ceo",
+      "urlToImage": "https://cdn.prod.website-files.com/671fb31e0ed79c76c93e1019/68efa99eb571323960df5fdd_Logo_Blue.webp",
+      "source": "Axiomspace.com",
+      "publishedAt": "2025-10-15T18:01:39Z"
+    },
+    {
+      "title": "New PvZ Replanted Trailer Is Very Cringey And Not Good - Kotaku",
+      "description": "I never want to hear from SpudBoi or NoCapShroom ever again, thank you very much",
+      "url": "https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/10/pvsszzz-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-10-15T17:39:02Z"
+    },
+    {
+      "title": "Pokemon Legends: Z-A datamine reveals returning Pokemon and new Mega Evolutions for DLC - Nintendo Everything",
+      "description": "Pokemon Legends: Z-A has started to launch (at least in some regions), and now that the full game is here, we have a look at returning Pokemon and forms as well as Pokemon receiving new forms in the upcoming Mega Dimension DLC. This comes thanks to a new data…",
+      "url": "https://nintendoeverything.com/pokemon-legends-z-a-datamine-reveals-returning-pokemon-and-new-mega-evolutions-for-dlc/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-DLC-returning-Pokemon-new-Mega-Evolutions.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-10-15T17:14:30Z"
+    },
+    {
+      "title": "Here are our PS Plus Extra and Premium games for October - Eurogamer",
+      "description": "Halloween season is well and truly upon us, and there's plenty of spookiness to be found in Sony newly unveiled October…",
+      "url": "https://www.eurogamer.net/here-are-our-ps-plus-extra-and-premium-games-for-october",
+      "urlToImage": "https://assetsio.gnwcdn.com/playstation-plus-premium-extra-october-25.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-10-15T16:29:58Z"
+    },
+    {
+      "title": "Apple Launches iPad Pro, Vision Pro and MacBook Pro With M5 Chip - Bloomberg.com",
+      "description": "Apple Inc. rolled out updated versions of the iPad Pro, Vision Pro and entry-level MacBook Pro with the new M5 chip, refreshing the products just ahead of the all-important holiday season.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-15/apple-updates-ipad-pro-macbook-pro-vision-pro-with-its-m5-chip",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSztvLqOEtzQ/v0/1200x661.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-15T16:12:22Z"
+    },
+    {
+      "title": "Review: BALL x PIT (Switch) - Ballsy, Beautifully Balanced, Mercilessly Addictive - Nintendo Life",
+      "description": "Bouncing off the walls",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch/ball-x-pit",
+      "urlToImage": "https://images.nintendolife.com/152dc299ac423/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-10-15T16:00:00Z"
+    },
+    {
+      "title": "Microsoft Suddenly Offers Windows 10 Update In Store—Buy Now - Forbes",
+      "description": "You can now get this in store, if you want to keep using Windows 10.",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/10/15/microsoft-suddenly-offers-windows-10-update-in-store-buy-now/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6805d764e9216bb6ed674264/0x0.jpg?format=jpg&crop=1920,1080,x365,y369,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-10-15T15:06:54Z"
+    },
+    {
+      "title": "How Sam Altman Played Hollywood With OpenAI's Sora 2 - The Hollywood Reporter",
+      "description": "OpenAI’s CEO brazenly regurgitated major studios’ characters to allow video app Sora 2 to spit out clips tailor-made for users. Insiders at the major agencies are alarmed — and some wonder whether the studios are doing enough.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/sam-altman-openai-sora-agencies-talent-1236401618/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/28rep_opener.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-15T13:52:34Z"
+    },
+    {
+      "title": "‘Borderlands 4’ Is On Sale After A Month As It Trails ‘Borderlands 3’ - Forbes",
+      "description": "Borderlands 4 is on sale on Steam right now, and it's pretty clear that it is still underperforming Borderlands 3.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/10/15/borderlands-4-is-on-sale-after-a-month-as-it-trails-borderlands-3/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68cd60f9a51619fea5dd7c54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-10-15T13:44:55Z"
+    },
+    {
+      "title": "Google will let friends help you recover an account - The Verge",
+      "description": "Google is introducing new recovery tools that aim to make it less frustrating to regain access when you’re locked out of your account.",
+      "url": "https://www.theverge.com/news/799780/google-account-recovery-trusted-contacts-mobile-number",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-15T13:00:00Z"
+    },
+    {
+      "title": "Battlefield 6 sells over 7m units across PC and console in five days - GamesIndustry.biz",
+      "description": "Data shared exclusively with GamesIndustry.biz also reveals Steam leads player count with a 55% share",
+      "url": "https://www.gamesindustry.biz/battlefield-6-sells-over-7m-units-across-pc-and-console-in-five-days",
+      "urlToImage": "https://assetsio.gnwcdn.com/battlefield.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2025-10-15T12:51:27Z"
+    },
+    {
+      "title": "Study Reveals The Surprising Age at Which Your Brain Reaches Its Peak - ScienceAlert",
+      "description": "As your youth fades further into the past, you may start to fear growing older.",
+      "url": "https://www.sciencealert.com/study-reveals-the-surprising-age-at-which-your-brain-reaches-its-peak",
+      "urlToImage": "https://www.sciencealert.com/images/2025/10/Young-old.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-10-15T12:02:08Z"
     }
   ]
 }
