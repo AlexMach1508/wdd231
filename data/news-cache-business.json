@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2025-10-18T06:36:16.022Z",
+  "updatedAt": "2025-10-19T06:37:19.759Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Futures: Oracle, IBKR Fall After Bank-Led Market Slide - Investor's Business Daily",
-      "description": null,
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-regional-bank-fears-interactive-brokers/",
-      "urlToImage": null,
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-17T03:03:00Z"
-    },
-    {
-      "title": "Study: Tariffs to cost companies $1.2T this year, mostly hitting consumers - Axios",
-      "description": "S&P Global said its estimate of additional expenses for companies is likely conservative.",
-      "url": "https://www.axios.com/2025/10/16/trump-tariffs-cost-china",
-      "urlToImage": "https://images.axios.com/X2j3_RbFA6fdAg0mVPRmkDmgdnI=/0x0:6000x3375/1366x768/2025/10/16/1760643338883.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-17T02:22:09Z"
-    },
-    {
-      "title": "FDA unveils drugs to receive expedited review in support of ‘national priorities’ - AP News",
-      "description": "The Food and Drug Administration is announcing the first round of drugs that will receive drastically expedited reviews at the agency. It's part of an effort by the Trump administration to prioritize medicines that are seen as supporting U.S. national interes…",
-      "url": "https://apnews.com/article/fda-drugs-review-voucher-ivf-trump-makary-e16e87d99dcd8d45e6e41bcc8faf2138",
-      "urlToImage": "https://dims.apnews.com/dims4/default/51e2f6b/2147483647/strip/true/crop/4887x2749+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fb4%2F85a37e8c56856632b488cb9570e8%2F6a92dcd251f84c45b50c16bcba008b6c",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-16T22:31:00Z"
-    },
-    {
-      "title": "Gold and Silver Hit Records on Credit Fears, US-China Tensions - Bloomberg.com",
-      "description": "Gold and silver rose to record highs as fears about credit quality in the US economy and heightened frictions between Washington and Beijing strengthened demand for havens.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-16/gold-and-silver-hit-records-on-credit-fears-us-china-tensions",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieuU8WnDvM4g/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-16T22:26:15Z"
-    },
-    {
-      "title": "China has found Trump's pain point - rare earths - BBC",
-      "description": "China holds a near-monopoly in the processing of the elements crucial for making everything from smartphones to fighter jets.",
-      "url": "https://www.bbc.com/news/articles/ckg1jr18z4ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0744/live/7aa46040-aa94-11f0-b2a1-6f537f66f9aa.jpg",
+      "title": "Salesforce CEO Marc Benioff apologises for San Francisco deployment remark - BBC",
+      "description": "Salesforce boss and Time Magazine owner Marc Benioff posted the apology on X following days of backlash",
+      "url": "https://www.bbc.com/news/articles/clykvypl9gxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5579/live/f454e930-abae-11f0-ba75-093eca1ac29b.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-10-16T22:03:42Z"
+      "publishedAt": "2025-10-18T01:12:06Z"
     },
     {
-      "title": "AI Companies Now ‘Disrupting’ SF Rental Market By Giving People Free Apartments, Rent Stipends - SFist",
-      "description": "It will make renters sick that they have to compete with AI sector workers whose cash-flush companies pay their rent for them. It will make renters even sicker to hear those AI companies do this to make their workplaces like “a frat house.”",
-      "url": "https://sfist.com/2025/10/16/ai-companies-now-disrupting-sf-rental-market-by-giving-people-free-apartments-rent-stipends/",
-      "urlToImage": "https://img.sfist.com/2025/10/555Bryant.jpg",
-      "source": "SFist",
-      "publishedAt": "2025-10-16T21:41:38Z"
+      "title": "Dhanteras: Why India's Diwali gold rush is different this year - BBC",
+      "description": "Soaring gold prices have dented jewellery demand but Indians are not ready to give up on the metal yet.",
+      "url": "https://www.bbc.com/news/articles/c3vnk3w0z69o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c0b7/live/0041d8c0-ab64-11f0-8210-51f58cb86203.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-17T23:44:09Z"
     },
     {
-      "title": "US Nears Tariff Relief for Auto Industry After Lobbying Push - Bloomberg.com",
-      "description": "The White House is poised to ease tariffs on the US auto industry, a move that would deliver a major win for carmakers that have aggressively lobbied to stem the fallout from record-level import duties.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-16/us-nears-tariff-relief-for-auto-industry-after-lobbying-push",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9p7ub.N9Vd0/v1/1200x800.jpg",
+      "title": "Stock Market Today: Dow Rises; Trump Says Extra China Tariffs 'Not Sustainable' - The Wall Street Journal",
+      "description": "Regional bank stocks make up ground after Thursday's jitters",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-17-2025",
+      "urlToImage": "https://images.wsj.net/im-34062673/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-17T23:06:00Z"
+    },
+    {
+      "title": "The US has a new roadmap for fusion energy, without the funds to back it up - The Verge",
+      "description": "The Trump administration released a roadmap to deploy the first generation of nuclear fusion power plants, but it still faces a lot of obstacles.",
+      "url": "https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1448790394.jpg?quality=90&strip=all&crop=0%2C10.73652856756%2C100%2C78.52694286488&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-17T22:21:39Z"
+    },
+    {
+      "title": "Lamborghini swerves away from all-electric future - BBC",
+      "description": "Customers still want \"the sound and the emotion\" of internal combustion engines, the company's boss Stephan Winkelmann said.",
+      "url": "https://www.bbc.com/news/articles/clykvq2955qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d984/live/fe4e1280-ab78-11f0-adb1-afd098d794f7.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-17T21:45:04Z"
+    },
+    {
+      "title": "Boeing can hike 737 MAX production to 42 planes per month, FAA says - CNN",
+      "description": "Boeing can hike 737 MAX production to 42 planes per month after the Federal Aviation Administration lifted a 38-plane-per-month cap that had been in place since January 2024, the agency and planemaker said on Friday.",
+      "url": "https://www.cnn.com/2025/10/17/business/boeing-737-production-planes",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-10-06t104959z-1922937266-rc2ji8aiseji-rtrmadp-3-aircraft-istat.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-17T21:32:57Z"
+    },
+    {
+      "title": "Tesla Holders Urged to Reject Musk’s $1 Trillion Pay Package - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/autos/proxy-adviser-iss-urges-tesla-holders-to-reject-musk-1-trillion-pay-package-d7b4822c",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-17T21:12:00Z"
+    },
+    {
+      "title": "Stock Market Today: Indexes Up In Strong Week On Trump News; Oracle Dives (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index and other indexes headed higher to end the week on a high note after Trump allays some fears.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-bank-fears-eli-lilly-novo-trump/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/08/WallStreetFinance-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-17T20:38:00Z"
+    },
+    {
+      "title": "Rattled Wall Street on Alert After Trillion-Dollar Risk Runup - Bloomberg.com",
+      "description": "After two months of market bliss, Wall Street is stirring from its slumber.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-17/rattled-wall-street-on-alert-after-trillion-dollar-risk-runup",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iej55l131RXQ/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-10-16T21:40:00Z"
+      "publishedAt": "2025-10-17T20:30:07Z"
     },
     {
-      "title": "Stocks Give Up Gains Again. Here's Why. - Barron's",
-      "description": "The Dow, S&P 500, and Nasdaq fell Thursday as the stock market reacted to bank worries and the latest in the Trump-China trade war. The 10-year yield dropped below 4%.",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-101625",
-      "urlToImage": "https://images.barrons.com/im-783602/social",
-      "source": "Barron's",
-      "publishedAt": "2025-10-16T20:57:08Z"
+      "title": "Trump Pledges To Cut Obesity Drug Prices. Novo Nordisk, Eli Lilly Stocks Dive. - Investor's Business Daily",
+      "description": "Novo Nordisk and Eli Lilly stocks slumped Friday after President Donald Trump said he would cut the price of obesity drugs.",
+      "url": "https://www.investors.com/news/technology/novo-nordisk-eli-lilly-stocks-trump-weight-loss-drugs-price/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/09/stock-NovoNordisk-02-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-17T20:23:00Z"
     },
     {
-      "title": "Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks - WIRED",
-      "description": "Networking software company F5 disclosed a long-term breach of its systems this week. The fallout could be severe.",
-      "url": "https://www.wired.com/story/f5-hack-networking-software-big-ip/",
-      "urlToImage": "https://media.wired.com/photos/68f1155b7fe66c9366128ec2/191:100/w_1280,c_limit/GettyImages-2226652563.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-10-16T20:42:29Z"
+      "title": "One of Biden’s Most Disastrous Decisions Is Finally Coming Home to Roost - Slate",
+      "description": "This is a bad time to give Trump de facto control of one of the most popular social media apps in history—and that’s exactly what Biden did.",
+      "url": "https://slate.com/technology/2025/10/tiktok-ban-biden-trump-conservatives-propaganda.html",
+      "urlToImage": "https://compote.slate.com/images/7dc7d60d-329e-4225-a66a-26b2298afc88.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "source": "Slate Magazine",
+      "publishedAt": "2025-10-17T19:37:00Z"
     },
     {
-      "title": "Oracle’s stock rises as Wall Street’s AI profitability concerns are put to rest - MarketWatch",
-      "description": "The tech giant raises its long-term financial targets and projects strong cloud margins, reassuring investors that its massive AI spending spree is on a path to profitability",
-      "url": "https://www.marketwatch.com/story/oracles-stock-rises-as-wall-streets-ai-profitability-concerns-are-put-to-rest-f151b580",
-      "urlToImage": "https://images.mktw.net/im-272502/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-10-16T20:36:00Z"
+      "title": "Customers sue maker of popular On Cloud shoes over 'noisy and embarrassing' squeaks - BBC",
+      "description": "Athletic shoe company On is facing a lawsuit from customers who claim that its sneakers produce annoying squeaks.",
+      "url": "https://www.bbc.com/news/articles/c803lzr87yno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/934d/live/b1270cf0-ab82-11f0-9dd5-0bcfdec15686.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-17T19:07:59Z"
     },
     {
-      "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in. - Ars Technica",
-      "description": "Despite connection hiccups, we covered OpenAI’s finances, nuclear power, and Sam Altman.",
-      "url": "https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
+      "title": "The Mango Founder’s Son Is Now a Suspect in His Death - The Cut",
+      "description": "Months after Mango founder Isak Andic died after falling off a cliff in Spain, his son, Jonathan Andic, has been named a suspect in the possible homicide.",
+      "url": "http://www.thecut.com/article/mango-founder-isak-andik-death-what-we-know.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/3e7/4e0/7bf4ac8876270d515e27c9d8b93704313f-isak-andic-jonathan-andic.1x.rsocial.w1200.jpg",
+      "source": "The Cut",
+      "publishedAt": "2025-10-17T17:59:33Z"
+    },
+    {
+      "title": "Big Tech sues Texas, says age-verification law is “broad censorship regime” - Ars Technica",
+      "description": "Texas app law compared to checking IDs at bookstores and shopping malls.",
+      "url": "https://arstechnica.com/tech-policy/2025/10/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
       "source": "Ars Technica",
-      "publishedAt": "2025-10-16T20:25:08Z"
+      "publishedAt": "2025-10-17T17:55:19Z"
     },
     {
-      "title": "Mortgage Rates Quickly Approaching Long-Term Lows - Mortgage News Daily",
-      "description": "Despite a stark absence of any truly inspiring events, interest rates have managed to put in two fairly serious days of movement. In today's case specifically, there was an obvious intraday surge in the underlying bond market. While that surge wasn't readily …",
-      "url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-10162025",
-      "urlToImage": "https://a.mortgagenewsdaily.com/dsocial/68f14cac2b726c7589a1d53c/68f14cac2b726c7589a1d53c_0_202510170050.jpg?provider=facebook",
-      "source": "Mortgage News Daily",
-      "publishedAt": "2025-10-16T19:53:48Z"
+      "title": "Oracle Stock Slumps as Management Discusses Outlook - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/oracle-stock-price-analyst-meeting-earnings-guidance-e3fe72de",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-10-17T15:33:00Z"
     },
     {
-      "title": "2026 FEHB and PSHB available plans and premium update - Federal News Network",
-      "description": "This Open Season, it’s more important than ever to review how your plan’s premium has changed and evaluate whether your current coverage still meets your needs.",
-      "url": "https://federalnewsnetwork.com/feds-with-benefits/2025/10/2026-fehb-and-pshb-available-plans-and-premium-update/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2024/11/GettyImages-1757997137.jpg",
-      "source": "Federal News Network",
-      "publishedAt": "2025-10-16T19:40:18Z"
+      "title": "CoreWeave’s (CRWV) Acquisition Bid for Core Scientific Faces Major Pushback - TipRanks",
+      "description": "CoreWeave’s ($CRWV) planned acquisition of bitcoin mining firm Core Scientific ($CORZ) is facing rising pushback. Core Scientific’s largest active shareholder, Two ...",
+      "url": "https://www.tipranks.com/news/coreweaves-crwv-acquisition-bid-for-core-scientific-faces-major-pushback",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2606506923-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-17T15:27:16Z"
     },
     {
-      "title": "Agencies announce withdrawal of principles for climate-related financial risk management - Federal Reserve Board (.gov)",
-      "description": "The federal bank regulatory agencies today announced the withdrawal of interagency Principles for Climate-Related Financial Risk Management for Large Financial",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251016a.htm",
-      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
-      "source": "Federalreserve.gov",
-      "publishedAt": "2025-10-16T19:00:55Z"
-    },
-    {
-      "title": "Jerome Powell may have just given stock investors a new reason to be worried - MarketWatch",
-      "description": "Fed plans to end its ‘quantitative tightening’ — but stocks do better under those conditions",
-      "url": "https://www.marketwatch.com/story/jerome-powell-may-have-just-given-stock-investors-a-new-reason-to-be-worried-d2ce23ad",
-      "urlToImage": "https://images.mktw.net/im-32429501/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-10-16T18:37:00Z"
-    },
-    {
-      "title": "Energy Department offers $1.6 billion loan guarantee to upgrade transmission lines across Midwest - AP News",
-      "description": "The Department of Energy says it has finalized a $1.6 billion loan guarantee to a subsidiary of one of the nation’s largest power companies to upgrade nearly 5,000 miles of transmission lines across five states, mostly in the Midwest, for largely fossil fuel-…",
-      "url": "https://apnews.com/article/trump-energy-loan-power-transmission-lines-midwest-df38cc75193e29317d706c2d7c03c1eb",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f476c44/2147483647/strip/true/crop/4822x2712+0+251/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2F56%2F64fcbd3ae389e973e4106b643e88%2F74dbfe848d1e42769417ea585d121498",
+      "title": "Sex is a big market for the AI industry. ChatGPT won’t be the first to try to profit from it - AP News",
+      "description": "OpenAI has announced that ChatGPT will soon engage in \"erotica for verified adults.\" CEO Sam Altman says the company aims to allow more user freedom for adults while setting limits for teens. OpenAI isn't the first to explore sexualized AI, but previous attem…",
+      "url": "https://apnews.com/article/ai-erotica-chatgpt-openai-sam-altman-d52e00cedf34a8120af7af66981da295",
+      "urlToImage": "https://dims.apnews.com/dims4/default/294ec61/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F3e%2Fe25a45d4ee0acd02b21a62b45f1f%2Fdc45c8aa40114c39aa3c4c84dc364693",
       "source": "Associated Press",
-      "publishedAt": "2025-10-16T18:01:00Z"
-    },
-    {
-      "title": "Trump Family Has Already Made Over $1 Billion in Profit on Crypto, Says Eric Trump - Decrypt",
-      "description": "President Trump's family has already secured north of $1 billion worth of profits on crypto businesses, Eric Trump estimated, amid criticism over conflicts.",
-      "url": "https://decrypt.co/344663/trump-family-already-made-1-billion-profit-crypto-eric-trump",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/bitcoin_conf-E-Trump-gID_7.png",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-16T17:36:42Z"
-    },
-    {
-      "title": "If You Were Bankrolling OpenAI, the Percent of ChatGPT Users Willing to Pay for It Might Make You Break Out in a Cold Sweat - Futurism",
-      "description": "Only a tiny sliver — roughly five percent — of the 800 million people using ChatGPT are actually paying for a subscription.",
-      "url": "https://futurism.com/artificial-intelligence/openai-percent-chatgpt-users-pay",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/openai-percent-chatgpt-users-pay.jpg?w=1200",
-      "source": "Futurism",
-      "publishedAt": "2025-10-16T17:07:29Z"
-    },
-    {
-      "title": "A study found lead in popular protein powders. Here's why you shouldn't panic - NPR",
-      "description": "Consumer Reports expressed concern about high levels of lead in some two dozen protein powders, but only with repeated high exposure. Here's what to know before you make your next grocery run.",
-      "url": "https://www.npr.org/2025/10/16/nx-s1-5576294/protein-powder-lead-consumer-reports",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6142x3455+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fcf%2F82e7e4b341bbbf6554cc8fcfa85f%2Fgettyimages-2227791218.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-16T16:52:52Z"
-    },
-    {
-      "title": "After Stellantis dumps Canada for $13 billion move to U.S., Ontario premier urges fight back against 'real piece of work' Trump - Fortune",
-      "description": "Ontario Premier Doug Ford blamed Trump for the company's decision to shift production of the SUV from Brampton, Ontario, to Illinois.",
-      "url": "https://fortune.com/2025/10/16/stellantis-leaves-brampton-ontario-canada-for-illinois-doug-ford-trump/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25288795600580-e1760633075555.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-16T16:46:00Z"
+      "publishedAt": "2025-10-17T15:05:00Z"
     }
   ]
 }
