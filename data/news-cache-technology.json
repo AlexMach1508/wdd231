@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2025-10-22T06:42:02.389Z",
+  "updatedAt": "2025-10-23T06:40:05.789Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Ninja Gaiden 4 is the perfect place to jump into the series - The Verge",
-      "description": "Ninja Gaiden 4 has action-packed fights and a ridiculous new protagonist. The game will be available on Xbox Series X / S, PS5, and Steam.",
-      "url": "https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ss_7ac7675da6a80f66c9fe88709f277eddc5cf9caa.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-20T23:00:00Z"
+      "title": "Samsung’s Galaxy XR Headset Debuts at Half the Price of Apple’s Vision Pro - Bloomberg",
+      "description": "The $1,800 headset is a precursor to smart glasses launching “pretty soon.”",
+      "url": "https://www.bloomberg.com/news/features/2025-10-22/samsung-s-galaxy-xr-headset-costs-1-800-undercutting-apple-s-vision-pro",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inDLmT0xS16U/v2/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-22T02:00:00Z"
     },
     {
-      "title": "Snapchat is down — live updates on AWS outage and its impact on the social media app - Tom's Guide",
-      "description": "Snapchat has stopped working for a lot of users",
-      "url": "https://www.tomsguide.com/news/live/snapchat-outage-live-october-20",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4RfLKHxcaY9XNe9AabGzJn-2560-80.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2025-10-20T22:32:56Z"
-    },
-    {
-      "title": "Apple will let users roll back the Liquid Glass look with new ‘tinted’ option - TechCrunch",
-      "description": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users more control over interface opacity after complaints that Liq…",
-      "url": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?resize=1200,694",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-20T21:40:41Z"
-    },
-    {
-      "title": "Apple Watch Ultra 3 after one month: The feature I can’t give up - 9to5Mac",
-      "description": "Apple Watch Ultra 3 after one month: Here’s what my experience has been like as someone new to the Ultra line.",
-      "url": "https://9to5mac.com/2025/10/20/apple-watch-ultra-3-after-one-month-feature-cant-give-up/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-ultra-3-photo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-20T20:57:00Z"
-    },
-    {
-      "title": "Duffy says NASA will open Artemis 3 lander contract to competition - SpaceNews",
-      "description": null,
-      "url": "https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/",
-      "urlToImage": null,
-      "source": "SpaceNews",
-      "publishedAt": "2025-10-20T20:50:04Z"
-    },
-    {
-      "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones - Ars Technica",
-      "description": "Selected testers will have to sign an NDA and use a disguised case.",
-      "url": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-20T20:14:29Z"
-    },
-    {
-      "title": "Take Your Apple Watch Experience to the Next Level With These 8 Tips and Tricks - CNET",
-      "description": "Get the most out of your Apple Watch with these expert-approved tips.",
-      "url": "https://www.cnet.com/tech/mobile/take-your-apple-watch-experience-to-the-next-level-with-these-8-tips-and-tricks/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/935603302b1ad6228595e22a20b5e85611c74ccc/hub/2025/01/30/a4422cd4-6d77-4ab5-bd55-31cc8afe5693/watch-tips-hero-vitals.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-10-20T19:45:00Z"
-    },
-    {
-      "title": "IgNobel 'Butt Breathing' idea from 2024 moves closer to real treatment - Medical Xpress",
-      "description": "The technique sounds so outlandish that it won an IgNobel prize in 2024. But the science behind rescuing people with blocked airways and clogged lungs by rectally delivering oxygen to the body is no joke.",
-      "url": "https://medicalxpress.com/news/2025-10-ignobel-butt-idea-closer-real.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ignobel-butt-breathing.jpg",
-      "source": "Medical Xpress",
-      "publishedAt": "2025-10-20T19:19:35Z"
-    },
-    {
-      "title": "SEGA discusses the potential for more Sonic Racing: CrossWorlds DLC - GoNintendo",
-      "description": "See you on the second lap",
-      "url": "https://www.gonintendo.com/contents/54063-sega-discusses-the-potential-for-more-sonic-racing-crossworlds-dlc",
-      "urlToImage": "https://gonintendo.com/attachments/image/72144/file/medium-34b1a9e4a56c4c06fe909ed8d40cfe97.jpg",
-      "source": "GoNintendo",
-      "publishedAt": "2025-10-20T19:03:47Z"
-    },
-    {
-      "title": "Five New Exploited Bugs Land in CISA's Catalog — Oracle and Microsoft Among Targets - The Hacker News",
-      "description": "CISA adds five exploited vulnerabilities, including Oracle, Microsoft, Kentico, and Apple flaws, requiring fixes by Nov 10, 2025.",
-      "url": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnNo6sry2Rb7QLB26quJDY1T7IX2CM01saJ2AG2Lkw9BCBks3wQK6iBakiQG8ncEJZb13nsWnHvLAuiSihA13ytfmuco6899Q5O7Whmtccu0hQfH_XN8DnGcK3mgS3h9GPzM4xGuUaqBIrrvdvt2DeKen4Ae9XR6QnECqoQ40WenBoS1jE5ujVjuF0GgyM/s790-rw-e365/CISA.jpg",
-      "source": "Internet",
-      "publishedAt": "2025-10-20T19:00:00Z"
-    },
-    {
-      "title": "Google Has a Bedbug Infestation in Its New York Offices - WIRED",
-      "description": "Employees at the company’s Chelsea campus were told to stay home after exterminators found “credible evidence” of an infestation.",
-      "url": "https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/",
-      "urlToImage": "https://media.wired.com/photos/68f67f0f0159e300cdd3ba9c/191:100/w_1280,c_limit/Bed-Bug-Google-Business-927681020.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-10-20T18:42:00Z"
-    },
-    {
-      "title": "Battlefield 6 is dominating Call of Duty on Xbox right now - TrueAchievements",
-      "description": "The converstation in this week's edition of the most popular Xbox games is Battlefield 6 versus Call of Duty as EA's destructive shooter finds its feet!",
-      "url": "https://www.trueachievements.com/news/most-popular-xbox-games-battlefield-6-vs-call-of-duty",
-      "urlToImage": "https://img.trueachievements.com/chart/383",
-      "source": "TrueAchievements",
-      "publishedAt": "2025-10-20T18:30:27Z"
-    },
-    {
-      "title": "Josh Brown says Apple's AI chatbot efforts create a 'whole different story' for stock - CNBC",
-      "description": "Investors are overlooking the company's internal AI chatbot work, Brown said.",
-      "url": "https://www.cnbc.com/2025/10/20/josh-brown-says-apples-ai-chatbot-efforts-create-a-whole-different-story-for-stock.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107427223-1718117800932-gettyimages-2156425945-AA_10062024_1723029.jpeg?v=1760982293&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-20T18:07:09Z"
-    },
-    {
-      "title": "A Hotfix Is Coming for a Windows 11 Security Update That Introduced Some Major Bugs - CNET",
-      "description": "Microsoft is working on a solution for a security update that's causing multiple issues for some people.",
-      "url": "https://www.cnet.com/tech/services-and-software/a-hotfix-is-coming-for-a-windows-11-security-update-that-introduced-some-major-bugs/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/41cbf63cc57421d68ae07db0cc8032645b856d8e/hub/2024/06/07/04465c5d-f5bd-4b26-acc4-92f333df34e2/windows-11-sale.png?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-10-20T17:34:00Z"
-    },
-    {
-      "title": "Jim Cramer: Patient Apple bulls are vindicated, and the stock is just getting started - CNBC",
-      "description": "Shares jumped to a record high Monday following positive chatter from Wall Street analysts on  iPhone 17 demand.",
-      "url": "https://www.cnbc.com/2025/10/20/jim-cramer-patient-apple-bulls-are-vindicated-and-the-stock-is-just-getting-started.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201263-1758290491792-gettyimages-2235712789-AFP_764J3VL.jpeg?v=1760970266&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-20T17:27:21Z"
-    },
-    {
-      "title": "Absolum And Ball X Pit Post Excellent Initial Sales, But They Deserve More - Nintendo Life",
-      "description": "They're very good, y'know?",
-      "url": "https://www.nintendolife.com/news/2025/10/absolum-and-ball-x-pit-post-excellent-initial-sales-but-they-deserve-more",
-      "urlToImage": "https://images.nintendolife.com/5376a2b039629/large.jpg",
+      "title": "Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic - Nintendo Life",
+      "description": "Horrifyingly good news",
+      "url": "https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic",
+      "urlToImage": "https://images.nintendolife.com/66522a0770ddd/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2025-10-20T17:16:44Z"
+      "publishedAt": "2025-10-22T01:05:00Z"
     },
     {
-      "title": "Iniu’s tiny 10,000mAh power bank is almost half off right now - The Verge",
-      "description": "The Iniu P55-E2 is a tiny power bank that’s about the size of an AirPods Pro case, yet it features a 10,000mAh capacity and an output of 45W.",
-      "url": "https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Iniu-P55-E2-lifestyle.png?quality=90&strip=all&crop=0,10.818757590937,100,78.362484818126",
+      "title": "Next Xbox won’t be cheap — Sarah Bond teases a “very premium, high-end next-gen console experience” - Windows Central",
+      "description": "The next Xbox sounds powerful and expensive, but after months of controversy, Microsoft must win back player trust.",
+      "url": "https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vy8JPQLndGy9kpYZ3S9sz3-2560-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2025-10-21T19:50:18Z"
+    },
+    {
+      "title": "Android’s new flashlight brightness slider now has a clever design like a real flashlight - Android Authority",
+      "description": "Android is finally adding native flashlight brightness controls to the Quick Settings panel, and it'll resemble an actual flashlight.",
+      "url": "https://www.androidauthority.com/android-flashlight-brightness-design-3608998/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/New-flashlight-brightness-control-UI-on-Android-scaled.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-10-21T19:31:32Z"
+    },
+    {
+      "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass - Ars Technica",
+      "description": "Apple backs down from some aspects of Liquid Glass, but not others.",
+      "url": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_6225-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-21T19:12:30Z"
+    },
+    {
+      "title": "Apple’s Planned Foldable iPad With 18-inch Screen Hits Development Snags - Bloomberg.com",
+      "description": "Apple Inc.’s effort to reinvent the iPad by adding a giant foldable screen has hit development hurdles, potentially delaying the planned launch.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/apple-s-planned-foldable-ipad-with-18-inch-screen-hits-development-snags",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieVG5oGihUjA/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-21T18:21:43Z"
+    },
+    {
+      "title": "Commander Brackets Beta Update – October 21, 2025 - Magic: The Gathering",
+      "description": "Gavin discusses changes to the Commander Brackets beta test.",
+      "url": "https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-october-21-2025",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg",
+      "source": "Wizards.com",
+      "publishedAt": "2025-10-21T18:07:19Z"
+    },
+    {
+      "title": "Teamfight Tactics patch 15.7 notes - Teamfight Tactics",
+      "description": "A smaller balance patch for K.O. Coliseum and a Dragon-sized entrance for our Uncharted Realms revival!",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-15-7-notes/",
+      "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cf9250c24f2119158ae0a7452727aeda9110b551-4516x2676.png?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "source": "Leagueoflegends.com",
+      "publishedAt": "2025-10-21T18:00:00Z"
+    },
+    {
+      "title": "Google Fi is getting enhanced web calls and messaging, AI bill summaries - Ars Technica",
+      "description": "Google’s MVNO gets better web support, clearer audio, and yes, more AI.",
+      "url": "https://arstechnica.com/gadgets/2025/10/google-fi-is-getting-enhanced-web-calls-and-messaging-ai-bill-summaries/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/Google-Fi-1152x648.png",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-21T17:00:13Z"
+    },
+    {
+      "title": "All Romance Options In Vampire: The Masquerade Bloodlines 2 - GameSpot",
+      "description": "Just because you're undead doesn't mean you can't find a special connection.",
+      "url": "https://www.gamespot.com/gallery/all-romance-options-in-vampire-the-masquerade-bloodlines-2/2900-7153/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/4588564-bloodlines2romanceoptions%282%29.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-10-21T17:00:00Z"
+    },
+    {
+      "title": "YouTube’s likeness-detection technology has officially launched - TechCrunch",
+      "description": "YouTube’s detection technology identifies and manages AI-generated content featuring the likeness of creators, such as their face and voice.",
+      "url": "https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?resize=1200,631",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-21T15:57:18Z"
+    },
+    {
+      "title": "PlayStation veteran Shuhei Yoshida can’t get enough of his Xbox Ally — Ninja Gaiden 4 included - Windows Central",
+      "description": "A former PlayStation boss shows that good games matter more than platforms.",
+      "url": "https://www.windowscentral.com/gaming/playstation-veteran-shuhei-yoshida-cant-get-enough-of-xbox-ally",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/soroi2vtgcQas25n2wt2o5-1920-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2025-10-21T15:04:14Z"
+    },
+    {
+      "title": "TARmageddon Strikes: High Profile Security Vulnerability In Popular Rust Library - Phoronix",
+      "description": "Going public today is CVE-2025-62518, or better known by the name given by the security researchers involved: TARmageddon",
+      "url": "https://www.phoronix.com/news/Rust-TARmageddon",
+      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=tarmageddon",
+      "source": "Phoronix",
+      "publishedAt": "2025-10-21T14:38:00Z"
+    },
+    {
+      "title": "M4 vs. M5 Chip Buyer's Guide: How Much Better Really Is M5? - MacRumors",
+      "description": "Apple's newly introduced M5 chip takes Apple silicon to the next level, delivering meaningful gains across CPU, GPU, and AI workloads, but how...",
+      "url": "https://www.macrumors.com/guide/m4-vs-m5-chip/",
+      "urlToImage": "https://images.macrumors.com/t/YezYwQaLX-riDnJuFNBraAkINsI=/2500x/article-new/2025/10/M4-vs-M5-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-10-21T14:30:01Z"
+    },
+    {
+      "title": "Tapo’s new solar floodlight camera soaks up the sun to light up your yard at night - The Verge",
+      "description": "Tapo’s C615F is its first solar-powered security camera with pan-tilt capabilities and an 800-lumen floodlight.",
+      "url": "https://www.theverge.com/news/802947/tp-link-tapo-c615f-kit-floodlight-2k-security-camera-pan-tilt-solar-power",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/tapo1.jpg?quality=90&strip=all&crop=0%2C10.716844952583%2C100%2C78.566310094835&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-10-20T17:11:58Z"
+      "publishedAt": "2025-10-21T14:19:56Z"
+    },
+    {
+      "title": "Microsoft’s emergency Windows 11 update fixes a nasty system recovery bug - The Verge",
+      "description": "Microsoft has released a new emergency patch for Windows 11. It fixes USB mouse and keyboards not working in the recovery envrionment.",
+      "url": "https://www.theverge.com/news/803373/microsoft-windows-11-emergency-update-usb-mouse-keyboard-recovery-environment-issues",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-21T14:03:24Z"
+    },
+    {
+      "title": "Exclusive: Samsung inks Perplexity deal to bring AI to the TV - Axios",
+      "description": "Get ready for chatbots in your living room.",
+      "url": "https://www.axios.com/2025/10/21/samsung-perplexity-ai-deal-tv",
+      "urlToImage": "https://images.axios.com/AU-_0BSxIE3CePyVyRVCwBitK-k=/0x0:1920x1080/1366x768/2025/10/20/1760989704409.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-10-21T13:31:40Z"
+    },
+    {
+      "title": "Kirby Air Riders gets second dedicated Nintendo Direct later this week - Eurogamer",
+      "description": "Nintendo has announced a second Direct later this week covering Kirby Air Riders.",
+      "url": "https://www.eurogamer.net/kirby-air-riders-gets-second-dedicated-nintendo-direct-later-this-week",
+      "urlToImage": "https://assetsio.gnwcdn.com/kirby-air-rider-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-10-21T13:18:25Z"
     }
   ]
 }

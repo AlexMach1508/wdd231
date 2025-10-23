@@ -1,95 +1,151 @@
 {
-  "updatedAt": "2025-10-22T06:42:02.429Z",
+  "updatedAt": "2025-10-23T06:40:05.849Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Japan stocks surge as Sanae Takaichi becomes prime minister - Financial Times",
-      "description": "‘Takaichi trade’ reflects optimism that ruling coalition will increase defence spending and cut some taxes",
-      "url": "https://www.ft.com/content/c2a92ef6-5f9a-40c7-9846-58ade4db688d",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28a22b38-249e-4d94-88f8-e933d86d7d2e.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-21T04:53:10Z"
+      "title": "Gold, Silver Hold Losses as Stocks Take a Breather: Markets Wrap - Bloomberg",
+      "description": "Gold and silver extended their plunge from record highs, while Asian stocks slid after a rally on Wall Street showed signs of fatigue.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/gold-silver-hold-losses-as-stocks-take-a-breather-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCwT.zx1WbFI/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-22T02:03:00Z"
     },
     {
-      "title": "Plane makes emergency landing after pilots lose contact with flight attendants and hear knocking on cockpit door - CNN",
-      "description": "An American Airlines flight, operated by SkyWest Airlines, made an emergency landing in Nebraska Monday night after the pilots could not reach the flight attendants and they heard someone outside the cockpit door, according to the Federal Aviation Administrat…",
-      "url": "https://www.cnn.com/2025/10/20/us/omaha-emergency-landing",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shiromaleialoha-x.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-21T02:25:00Z"
+      "title": "Gold and Silver Stabilize After Massive Drops as Rally Cools - Bloomberg",
+      "description": "Gold and silver wavered, after suffering their steepest selloffs in years on Tuesday as concern their dizzying rallies in recent weeks had left them overvalued.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/gold-xauusd-and-silver-stabilize-after-massive-drops-as-rally-cools",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifD6APbzD5vE/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-22T02:02:00Z"
     },
     {
-      "title": "AMD and Intel (INTC): Top Bernstein Analyst Remains Cautious on These 2 Chip Stocks amid AI Hype - TipRanks",
-      "description": "Shares of semiconductor giants Intel ($INTC) and Advanced Micro Devices ($AMD) remain in focus as Top Bernstein analyst Stacy Rasgon updated his outlook on both com...",
-      "url": "https://www.tipranks.com/news/amd-and-intel-intc-top-bernstein-analyst-remains-cautious-on-these-2-chip-stocks-amid-ai-hype",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2677985719-750x406.jpg",
+      "title": "Inside The Surprise Brazilian Tax That Rattled Netflix Earnings - Deadline",
+      "description": "Netflix CFO stressed that there's no other tax like this in other countries where the streamer operates and it won't impact results going forward.",
+      "url": "http://deadline.com/2025/10/netfxli-earnings-rattled-by-surprise-brazil-tax-hit-1236593633/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/NETFLIX_RIO2C_2025R2.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-22T01:07:00Z"
+    },
+    {
+      "title": "Amazon Plans to Replace 600,000 Human Workers With Robots, Report Says - CNET",
+      "description": "The retail giant has used robots in its warehouses for years, but it appears that the company is ramping up in a big way.",
+      "url": "https://www.cnet.com/tech/amazon-plans-to-replace-600000-human-workers-with-robots-report-says/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/eef8a5af0284b8ac02dcee731e24a673af3080e6/hub/2025/10/21/f49158c0-ff4c-421f-bf19-bfa802296baf/amazon-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-10-22T00:01:00Z"
+    },
+    {
+      "title": "Anthropic and Google in Talks Over Multibillion-Dollar Cloud Deal to Power AI Growth - TipRanks",
+      "description": "Artificial intelligence (AI) startup Anthropic (PC:ANTPQ) is in early discussions with Alphabet’s ($GOOGL) subsidiary, Google, about a cloud computing deal that cou...",
+      "url": "https://www.tipranks.com/news/anthropic-and-google-in-talks-over-multibillion-dollar-cloud-deal-to-power-ai-growth",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2570283165-750x406.jpg",
       "source": "Tipranks.com",
-      "publishedAt": "2025-10-21T01:59:13Z"
+      "publishedAt": "2025-10-21T23:03:08Z"
     },
     {
-      "title": "‘Sad, if not damning’: Cathie Wood blasts the proxy firms who say Elon Musk’s $1 trillion pay package is just too rich - Fortune",
-      "description": "“Index-based investing is a form of socialism. Our investment system is broken,” the longtime Tesla bull said, calling proxy firms “menaces to innovation.”",
-      "url": "https://fortune.com/2025/10/20/sad-if-not-damning-cathie-wood-blasts-proxy-firms-opposing-elon-musks-1-trillion-pay-package/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2236199333-e1760995084371.jpg?resize=1200,600",
+      "title": "Stock futures are little changed after record session for Dow; Netflix slides on earnings miss: Live updates - CNBC",
+      "description": "Tesla's earnings expected Wednesday after the bell will kick off highly-awaited reports from the \"Magnificent Seven.\"",
+      "url": "https://www.cnbc.com/2025/10/21/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214418-1760993164502-gettyimages-2242244696-anotherday131721927_ayn11urr.jpeg?v=1760993219&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-21T23:01:00Z"
+    },
+    {
+      "title": "A United Airlines emergency landing likely caused by collision with a weather balloon - AP News",
+      "description": "A recent United Airlines emergency landing appears to have been the result of a collision with a weather balloon over Utah. Layers of the aircraft's windshield fractured during the flight last week. Windborne Systems says it started looking into the incident …",
+      "url": "https://apnews.com/article/united-plane-weather-balloon-windborne-a54cce7687c2a734a41485a1e4380695",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f572b5f/2147483647/strip/true/crop/4256x2394+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F12%2F70%2F6c1dae15aed12766c82a9e840bea%2F38b6619b35b14ebc9c2766fa57ae4da2",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-21T21:21:00Z"
+    },
+    {
+      "title": "Companies Are 'Sprinkling Protein Everywhere.' Here's What Coke Is Doinjg - Investopedia",
+      "description": "Coca-Cola is opening one of the largest dairy processing plants in the U.S. as consumers' hunger for protein ripples through the food and beverage industry.",
+      "url": "https://www.investopedia.com/coke-is-leaning-into-the-protein-craze-as-it-lands-in-more-drinks-snacks-and-pet-foods-11834340",
+      "urlToImage": "https://www.investopedia.com/thmb/bJJP1KFH4UrrZv5wQrOFkUTQ7dA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2161499359-85e1f29435354bbe934e3eaf82ca8774.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-10-21T21:20:46Z"
+    },
+    {
+      "title": "Walmart Pauses Job Offers to Candidates Needing H-1B Visas - Bloomberg",
+      "description": "Walmart Inc. has paused offers to candidates requiring H-1B visas, people familiar with the matter said, the latest example of how the Trump administration’s $100,000 visa fees are disrupting workforces.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/walmart-pauses-job-offers-to-candidates-needing-h-1b-visas",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXlbK.UpGplU/v1/1200x758.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-21T21:01:03Z"
+    },
+    {
+      "title": "JPMorgan Chase unveils new 60-story headquarters, reshaping New York City’s skyline - AP News",
+      "description": "JPMorgan Chase unveiled its new 60-story headquarters in New York City on Monday. The building replaces the Union Carbide Building at 270 Park Avenue. It's one of the first major office towers constructed after the COVID-19 pandemic. The bank plans to house a…",
+      "url": "https://apnews.com/article/jpmorgan-chase-270-park-headquarters-jamie-dimon-3a3a7ae96ae8255bd2d2063be72d61e2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6000d7f/2147483647/strip/true/crop/4284x2410+0+223/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F84%2F2d%2F6d9c8d1c14207a6988dcbb275d87%2Fab4bdc9e9e614759934ed23af9245cb9",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-21T20:47:00Z"
+    },
+    {
+      "title": "Exclusive | Travis Kelce Teams Up With Investor for Activist Campaign at Six Flags - The Wall Street Journal",
+      "description": "Jana Partners built 9% stake in theme-park operator with group that includes the Kansas City Chiefs tight end",
+      "url": "https://www.wsj.com/business/deals/travis-kelce-teams-up-with-investor-for-activist-campaign-at-six-flags-cb1d9369",
+      "urlToImage": "https://images.wsj.net/im-66189674/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-21T20:43:00Z"
+    },
+    {
+      "title": "Corporate America Is Crushing It, Proving Stock Rally Isn’t Just About Tech. - Barron's",
+      "description": "",
+      "url": "https://www.barrons.com/articles/earnings-rally-beyond-tech-ce4f5212",
+      "urlToImage": "https://images.barrons.com/im-12237756/social",
+      "source": "Barron's",
+      "publishedAt": "2025-10-21T20:25:00Z"
+    },
+    {
+      "title": "Musk rages at Trump's Transportation head on X: He \"is trying to kill NASA!\" - Axios",
+      "description": "\"The person responsible for America's space program can't have a 2 digit IQ,\" Musk wrote on X.",
+      "url": "https://www.axios.com/2025/10/21/elon-musk-trump-nasa-spacex-duffy",
+      "urlToImage": "https://images.axios.com/jU-UUkzoARQ2RbEIeWs1k4P3le4=/0x153:3090x1891/1366x768/2025/10/21/1761072570626.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-21T20:13:06Z"
+    },
+    {
+      "title": "Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center - Meta Investor Relations",
+      "description": "Meta Platforms, Inc. (NASDAQ: META) and funds managed by Blue Owl Capital entered into a joint venture agreement which will develop and own the Hyperion data center campus. Meta will provide construction management and property management services for the pro…",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center/default.aspx",
+      "urlToImage": "https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png",
+      "source": "Atmeta.com",
+      "publishedAt": "2025-10-21T20:08:41Z"
+    },
+    {
+      "title": "AWS outage: Are we relying too much on US big tech? - BBC",
+      "description": "Monday's enormous outage has sharpened the debate over whether the world is too reliant on a few US firms.",
+      "url": "https://www.bbc.com/news/articles/c0jdgp6n45po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a62/live/309d3c60-ae90-11f0-b0ec-2949909959e5.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-21T19:14:08Z"
+    },
+    {
+      "title": "‘We Are Absolutely in an AI Bubble Now. It Is Going to Burst,’ Says Investor - TipRanks",
+      "description": "Lauren Taylor Wolfe, the managing partner at Impactive Capital, says that the current wave of excitement around AI is a bubble that will eventually burst. In an int...",
+      "url": "https://www.tipranks.com/news/we-are-absolutely-in-an-ai-bubble-now-it-is-going-to-burst-says-investor",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2547021041-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-21T19:13:30Z"
+    },
+    {
+      "title": "Did an OpenAI cofounder just pop the AI bubble? ‘The models are not there’ - Fortune",
+      "description": "Andrej Karpathy’s timeline for AGI is much slower than the consensus among Silicon Valley types.",
+      "url": "https://fortune.com/2025/10/21/andrej-karpathy-openai-ai-bubble-pop-dwarkesh-patel-interview/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1321808933-e1761067666663.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2025-10-20T21:39:00Z"
+      "publishedAt": "2025-10-21T17:37:03Z"
     },
     {
-      "title": "ZION Earnings: Zions’ Third-Quarter Financial Results Beat Wall Street Estimates - TipRanks",
-      "description": "Concerns have been raised about the company’s loans.",
-      "url": "https://www.tipranks.com/news/zion-earnings-zions-third-quarter-financial-results-beat-wall-street-estimates",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/aaa-74-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-10-20T20:38:35Z"
-    },
-    {
-      "title": "Apple Stock Hits Buy Point On Improving Sentiment, Notches Record High - Investor's Business Daily",
-      "description": "Apple stock rose Monday after the consumer electronics giant received several positive reports from Wall Street analysts.",
-      "url": "https://www.investors.com/news/technology/apple-stock-buy-point-improving-sentiment/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Apple-5thAve-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-20T20:33:00Z"
-    },
-    {
-      "title": "China’s economy grows at slowest pace in a year as trade war bites - The Washington Post",
-      "description": "Official data put the annual growth rate at 4.8 percent, a sobering number for Chinese Communist Party leaders as they begin an important planning meeting.",
-      "url": "https://www.washingtonpost.com/world/2025/10/20/china-economy-gdp-growth/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TAVEW74ZCLUVXHA4DGOVY6SAH4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-20T19:44:20Z"
-    },
-    {
-      "title": "Gas Prices Hit Four-Year Low Under President Trump ⛽ - The White House (.gov)",
-      "description": "Americans are seeing some of the lowest prices at the gas pump in more than four years as President Donald J. Trump’s relentless commitment to American",
-      "url": "https://www.whitehouse.gov/articles/2025/10/gas-prices-hit-four-year-low-under-trump/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2025-10-20T16:48:06Z"
-    },
-    {
-      "title": "Ticketmaster Claims New Rules Will Limit Scalpers As It Faces FTC Lawsuit - Forbes",
-      "description": "Ticketmaster, the online ticketing platform accused by the Federal Trade Commission of jacking up ticket resale prices, announced changes to its ticket sale practices in a letter to Sens. Marsha Blackburn, R-Tenn., and Ben Ray Luján, D-N.M.",
-      "url": "https://www.forbes.com/sites/conormurray/2025/10/20/ticketmaster-promises-overhaul-crackdown-targets-scalpers/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f659407987c680ba04b257/0x0.jpg?format=jpg&crop=7451,4192,x0,y176,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-10-20T15:47:36Z"
-    },
-    {
-      "title": "General Motors (GM) Is About to Report Q3 Earnings Tomorrow. Here’s What to Expect - TipRanks",
-      "description": "General Motors will report earnings before the opening bell on Tuesday and TipRanks offers insight into the latest analyst estimates.",
-      "url": "https://www.tipranks.com/news/general-motors-gm-is-about-to-report-q3-earnings-tomorrow-heres-what-to-expect",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/gmstock-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-10-20T14:55:55Z"
-    },
-    {
-      "title": "RJ Scaringe Is Betting His New Electric SUV Will Make Rivian The Next Tesla - Forbes",
-      "description": "The Rivian founder and CEO expects its small SUV R2, priced from $45,000, to be fully competitive with Tesla’s top-selling Model Y when sales begin early next year.",
-      "url": "https://www.forbes.com/sites/alanohnsman/2025/10/20/rj-scaringe-is-betting-his-new-electric-suv-will-make-rivian-the-next-tesla/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f2b08fb3c7f35694c2f810/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-10-20T10:30:00Z"
+      "title": "Swiss Watch Exports to the U.S. Plummeted 56% in September - Robb Report",
+      "description": "Swiss watch exports to the U.S. plummeted 55.6 percent in September, with the industry still reeling from the effects of Trump's 39 percent tariff.",
+      "url": "http://robbreport.com/style/watch-collector/swiss-watch-exports-us-drop-september-1237312939/",
+      "urlToImage": "https://robbreport.com/wp-content/uploads/2025/10/swiss-watch-exports-rolex-boutique.jpg?w=681&h=383&crop=1",
+      "source": "Robb Report",
+      "publishedAt": "2025-10-21T17:30:00Z"
     }
   ]
 }
