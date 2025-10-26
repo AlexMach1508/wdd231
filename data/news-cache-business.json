@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-10-25T06:35:59.863Z",
+  "updatedAt": "2025-10-26T06:37:52.258Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Asia to Join Global Equity Rally Ahead of US CPI: Markets Wrap - Bloomberg.com",
-      "description": "Stocks in Asia and European and US equity futures climbed as a plan for Donald Trump and Xi Jinping to meet eased nerves around a trade war. Treasuries were steady ahead of US inflation data.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-23/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV1pkyhgcZcA/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-24T01:39:00Z"
-    },
-    {
-      "title": "Target eliminating 1,800 positions, laying off 1,000 workers - Star Tribune",
-      "description": "The Minneapolis-based retailer said the goal is not to cut costs but to make operations more agile. Affected employees won’t find out until Tuesday.",
-      "url": "https://www.startribune.com/target-layoffs-1000-employees-global-team-restructuring-fiddelke/601502247",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/P4RW6T267BHUXLPTYMGFCJ5JAE.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2025-10-23T23:07:59Z"
-    },
-    {
-      "title": "Tesla profits plunge nearly 40 percent in third quarter, and it gets worse - Mashable",
-      "description": "Tesla's bad year continues, even during a quarter where EV sales are up.",
-      "url": "https://mashable.com/article/tesla-profits-plunge-q3-2025-earnings",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07D16LGxa24dvfIaLAfTJl4/hero-image.fill.size_1200x675.v1761240028.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-10-23T22:52:30Z"
-    },
-    {
-      "title": "Record $38 Billion Debt Sale Nears for Oracle-Tied Data Centers - Bloomberg.com",
-      "description": "Banks are preparing to launch a $38 billion debt offering as soon as Monday that will help fund data centers tied to Oracle Corp. in what would be the largest such deal for artificial intelligence infrastructure to come to market, according to people with kno…",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-23/record-38-billion-debt-sale-nears-for-oracle-tied-data-centers",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilfAWpPGFE9g/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-23T22:32:44Z"
-    },
-    {
-      "title": "Chen Zhi: The mysterious 'scam empire' owner accused of stealing $14bn in crypto - BBC",
-      "description": "The Cambodian national is charged with running scam compounds that stole from people all over the world.",
-      "url": "https://www.bbc.com/news/articles/c70jz8e00g1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5d76/live/4f1afe20-b01b-11f0-b2a1-6f537f66f9aa.png",
+      "title": "US beef prices are soaring. Will Trump's plans lower them? - BBC",
+      "description": "Trump is under fire from ranchers, who say his ideas to lower prices address \"symptoms not the problems\".",
+      "url": "https://www.bbc.com/news/articles/cr7m2pd3810o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1d77/live/8e1858c0-b147-11f0-a7ea-b10cef74104a.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-10-23T22:27:47Z"
+      "publishedAt": "2025-10-25T02:02:58Z"
     },
     {
-      "title": "Kroger issues new checkout policy which will make it harder to pay for groceries - The US Sun",
-      "description": "The foreseeable penny shortage will bring changes to cash transactions",
-      "url": "https://www.the-sun.com/money/15389667/kroger-new-checkout-policy-penny-shortage/",
-      "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/10/NINTCHDBPICT000946485833.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "source": "The-sun.com",
-      "publishedAt": "2025-10-23T21:00:11Z"
-    },
-    {
-      "title": "Ford Grinds Out an Earnings Beat in a Quarter of Setbacks. What It Means for the Stock. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/ford-earnings-stock-price-3186b9b4",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-10-23T20:49:00Z"
-    },
-    {
-      "title": "Trump rips CNN reporter asking about pardon of crypto exchange founder: ‘You know nothing about nothing’ - AL.com",
-      "description": "\"You're fake news,\" Trump told CNN's Kaitlan Collins.",
-      "url": "https://www.al.com/politics/2025/10/trump-rips-cnn-reporter-asking-about-pardon-of-crypto-exchange-founder-you-know-nothing-about-nothing.html",
-      "urlToImage": "https://www.al.com/resizer/v2/AOFSSOQ5UVDEBASCVJPJJIGQOY.jpg?auth=fbf8cf64e0edff8311c3cbeac5efd10655a1efed7801061c517ec78e87eb2e66&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-10-23T20:47:00Z"
-    },
-    {
-      "title": "How the AWS outage happened: Amazon blames rare software bug and ‘faulty automation’ for massive glitch - GeekWire",
-      "description": "(GeekWire Photo / Todd Bishop) A detailed explanation of this week’s Amazon Web Services outage, released Thursday morning, confirms that it wasn’t a",
-      "url": "https://www.geekwire.com/2025/how-the-aws-outage-happened-amazon-blames-rare-software-bug-and-faulty-automation-for-massive-glitch/",
-      "urlToImage": "https://cdn.geekwire.com/wp-content/uploads/2025/10/IMG_9809.jpg",
-      "source": "GeekWire",
-      "publishedAt": "2025-10-23T20:46:07Z"
-    },
-    {
-      "title": "Anthropic to Expand Use of Google Cloud TPUs and Services - Google Cloud Press Corner",
-      "description": "[auto]",
-      "url": "https://www.googlecloudpresscorner.com/2025-10-23-Anthropic-to-Expand-Use-of-Google-Cloud-TPUs-and-Services",
-      "urlToImage": "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg?p=facebook",
-      "source": "Googlecloudpresscorner.com",
-      "publishedAt": "2025-10-23T20:32:41Z"
-    },
-    {
-      "title": "FDA delivers split decision on GSK’s blood cancer drug Blenrep, approving its use in some cases - statnews.com",
-      "description": "The FDA delivers a split decision on GSK’s blood cancer drug Blenrep, approving its use in some cases.",
-      "url": "https://www.statnews.com/2025/10/23/fda-approves-blenrep-gsk-drug-multiple-myeloma/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/10/GettyImages-1345341684-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2025-10-23T20:13:19Z"
-    },
-    {
-      "title": "Intel Stock Rises After Strong Earnings. CFO Says Chip Demand Will Outpace Supply Into Next Year. - Barron's",
-      "description": "",
-      "url": "https://www.barrons.com/articles/intel-earnings-stock-price-d05fab01",
-      "urlToImage": "https://images.barrons.com/im-94058991/social",
-      "source": "Barron's",
-      "publishedAt": "2025-10-23T20:09:00Z"
-    },
-    {
-      "title": "Tesla Stock Nears Early Entry As Elon Musk Stresses Need For 'Control' - Investor's Business Daily",
-      "description": "Tesla stock fell before Thursday's stock market open following earnings and Elon Musk's comments on the conference call.",
-      "url": "https://www.investors.com/news/tesla-stock-elon-musk-needs-control-execution/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-elonmusk-new2024-01-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-23T20:03:00Z"
-    },
-    {
-      "title": "US Weighs Quantum Computing Boost in Effort to Counter China - Bloomberg.com",
-      "description": "The Trump administration is in early-stage conversations with quantum computing companies to discuss potential financial support for an industry that’s part of the growing race with China for technology supremacy.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-23/us-weighs-quantum-computing-boost-in-effort-to-counter-china",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibxfuMxodFgc/v2/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-23T19:42:21Z"
-    },
-    {
-      "title": "The government is belatedly releasing inflation data on Friday. Here's what economists are expecting. - CBS News",
-      "description": "Economists think inflation around the U.S. continued to climb in September, edging farther away from the Fed's 2% annual target.",
-      "url": "https://www.cbsnews.com/news/cpi-report-inflation-september-2025-forecast-social-security-cola/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/11/dfaac0d5-d5e0-44c2-9504-54bc72d5c616/thumbnail/1200x630/d70c16e22193fdaad6d0f3bc83a3fde9/gettyimages-1470350052.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-23T19:03:44Z"
-    },
-    {
-      "title": "Average long-term mortgage rate drops to lowest level in more than a year - PBS",
-      "description": "The average rate on a 30-year U.S. mortgage fell again this week, dropping to its lowest level in more than a year.",
-      "url": "https://www.pbs.org/newshour/nation/average-long-term-mortgage-rate-drops-to-lowest-level-in-more-than-a-year",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/03/GettyImages-2166343571-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-10-23T18:18:08Z"
-    },
-    {
-      "title": "David Ellison may have a ‘Trump card’ — literally — in Warner Bros. Discovery pursuit - CNN",
-      "description": "The Paramount Skydance CEO is “undeterred” after WBD rebuffed his first three offers, sources say, and Ellison’s allies are privately arguing he’s the only buyer who’d pass muster with Trump administration regulators.",
-      "url": "https://www.cnn.com/2025/10/23/media/ellison-wbd-trump-warner-bros-discovery-bid",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15424084av.jpg?c=16x9&q=w_800,c_fill",
+      "title": "The young tycoon accused of masterminding a multibillion-dollar international fraud network - CNN",
+      "description": "He is a baby-faced tycoon who rose to the highest echelons of power in his adopted home of Cambodia, where he bestows scholarships and runs philanthropy programs while overseeing one of the country’s largest and best-connected conglomerates.",
+      "url": "https://www.cnn.com/2025/10/24/asia/cambodia-scams-chen-zhi-prince-group-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2240700296.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2025-10-23T17:19:12Z"
+      "publishedAt": "2025-10-25T00:25:00Z"
     },
     {
-      "title": "The real trouble with the Fed's jobs data turmoil - Axios",
-      "description": "There's no replacement for the government's might in collecting data from all corners of the economy.",
-      "url": "https://www.axios.com/2025/10/23/fed-reserve-jobs-data-adp",
-      "urlToImage": "https://images.axios.com/jm498GuyUcHamIyDEnCzYQEBmBE=/1366x768/smart/2023/05/02/220619-1683065179354.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-23T16:03:00Z"
+      "title": "Do Social Security adjustments stack up against Seattle inflation? - The Seattle Times",
+      "description": "Every year, the federal government adjusts social security payments to reflect inflation. But benefits lag in the pricey Seattle area.",
+      "url": "https://www.seattletimes.com/business/do-social-security-adjustments-stack-up-against-seattle-inflation/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/10/10242025_tzr_tzr_110304.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2025-10-24T23:50:32Z"
     },
     {
-      "title": "Gold Price Rebounds After Sharp Selloff. Why It's Back in Demand. - Barron's",
+      "title": "JPMorgan Chase wants out of paying $115M legal tab for convicted fraudsters - AP News",
+      "description": "JPMorgan Chase wants to stop paying millions in legal fees for two convicted fraudsters. The bank said in a court filing Friday that Charlie Javice and Olivier Amar have racked up an astronomical $115 million legal bill. The bank said it shouldn't have to pay…",
+      "url": "https://apnews.com/article/jpmorgan-chase-fraud-charlie-javice-olivier-amar-c62bbc17505ccb02884778a19924e84d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/136e924/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5c%2Fb8%2F210c7ca854ec6c1f8cf0a5ba811f%2F83b0186ffa4e416bac46533d1711013e",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-24T23:19:00Z"
+    },
+    {
+      "title": "What A WBD Week: As Bidders Circle, Paramount’s Shock And Awe Signals A New Media Age - Deadline",
+      "description": "Warner Bros Discovery put itself on the sales block this week with Paramount in pole position. A look at the process and other potential suitors.",
+      "url": "http://deadline.com/2025/10/warner-bros-discovery-deal-suitors-1236596524/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/warner-bros_fb8120.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-24T23:06:00Z"
+    },
+    {
+      "title": "Trump Is Rewriting History to Justify His Sketchy Pardon of a Crypto King - The Intercept",
+      "description": "Trump claimed that the Binance founder was “persecuted” by Biden’s Justice Department as part of what the White House called a “war on cryptocurrency.”",
+      "url": "https://theintercept.com/2025/10/24/trump-pardon-crypto-binance-cz/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/10/GettyImages-2150370970-e1761342341722.jpg?fit=4200%2C2100&w=1200&h=800",
+      "source": "The Intercept",
+      "publishedAt": "2025-10-24T22:41:21Z"
+    },
+    {
+      "title": "Earnings Update Exposes Tesla’s (TSLA) Stalled Growth Engine - TipRanks",
+      "description": "After all the trials and tribulations of the past quarter, Tesla’s ($TSLA) Q3 report finally landed this week—and to be honest, it was rather underwhelming. Yes, th...",
+      "url": "https://www.tipranks.com/news/earnings-update-exposes-teslas-tsla-stalled-growth-engine",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2685807731-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-24T22:27:55Z"
+    },
+    {
+      "title": "A single point of failure triggered the Amazon outage affecting millions - Ars Technica",
+      "description": "A DNS manager in a single region of Amazon’s sprawling network touched off a 16-hour debacle.",
+      "url": "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-24T21:53:20Z"
+    },
+    {
+      "title": "Markets News, Oct. 24, 2025: Stocks Close at Record Highs After Tame CPI Inflation Reading; Dow Ends Above 47000 for First Time - Investopedia",
+      "description": "Major stock indexes hit record highs Friday after the release of slightly cooler-than-expected September inflation data that reinforced expectations the Federal Reserve will cut interest rates next week.",
+      "url": "https://www.investopedia.com/dow-jones-today-10242025-11836317",
+      "urlToImage": "https://www.investopedia.com/thmb/SbBzRirqXqppcYLRykIQvMh8e-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2241623053-0412eb534ca14cb998db03cba6361500.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-10-24T21:29:38Z"
+    },
+    {
+      "title": "FDA Announces Nationwide Recall of Cholesterol Medication—More Than 140,000 Bottles Affected - health.com",
+      "description": "The FDA announced a nationwide recall of Atorvastatin Calcium tablets, a statin used to lower cholesterol, due to potential efficacy issues. Here's what to know.",
+      "url": "https://www.health.com/atorvastatin-calcium-recall-october-2025-11837002",
+      "urlToImage": "https://www.health.com/thmb/D3Li-qd1biv_uzg7DcePpY9SjOA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/CopyofStockPhotoRedBadge1-2cf45a30b5834fa592715da77a3ec0dd.png",
+      "source": "Health.com",
+      "publishedAt": "2025-10-24T21:13:19Z"
+    },
+    {
+      "title": "General Motors cuts 200 jobs at Michigan tech center - MLive.com",
+      "description": "Design engineering team members received early morning notices on Oct. 24, with the company eliminating computer-aided design roles.",
+      "url": "https://www.mlive.com/news/2025/10/general-motors-cuts-200-jobs-at-michigan-tech-center.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/HIALS6KM2ZA5RHMPTZSFK276RM.jpg?auth=cabd04300d1c4314eb98c208b9d777df4e60fbce9f324829f10e80b363999223&width=1280&smart=true&quality=90",
+      "source": "mlive.com",
+      "publishedAt": "2025-10-24T20:51:00Z"
+    },
+    {
+      "title": "GSK Crumbles As Blood Cancer Comeback Falls Unexpectedly Short - Investor's Business Daily",
+      "description": "The company won approval for its drug, Blenrep. But it wasn't enough.",
+      "url": "https://www.investors.com/news/technology/gsk-stock-blenrep-approval-multiple-myeloma-treatment/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/07/Stock-GSK-02-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-24T20:12:00Z"
+    },
+    {
+      "title": "It's been a rollercoaster few years for Six Flags. Can Travis Kelce help? - NPR",
+      "description": "Travis Kelce is teaming up with activist investors in hopes of transforming the embattled theme park operator Six Flags. No word yet on a Taylor Swift-themed rollercoaster.",
+      "url": "https://www.npr.org/2025/10/24/nx-s1-5584940/travis-kelce-six-flags-activist-investors",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5675x3192+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F8b%2F9362c00640fa91bd920eb5b3eb3d%2Fap25286768056483.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-24T18:41:52Z"
+    },
+    {
+      "title": "Up 145% in 2025, This AI Infrastructure Stock Is Still Deeply Discounted - Yahoo Finance",
+      "description": "When it comes to artificial intelligence, a few names dominate the conversation like Nvidia (NASDAQ:NVDA), Taiwan Semiconductor Manufacturing (NYSE:TSM), or ...",
+      "url": "https://247wallst.com/investing/2025/10/24/up-145-in-2025-this-ai-infrastructure-stock-is-still-deeply-discounted/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KyNqvt_eyebBQEQno_3rsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI-/https://media.zenfs.com/en/24_7_wall_st__718/45d05b92ee9a46dcfc0b9cd8354f865e",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2025-10-24T18:39:31Z"
+    },
+    {
+      "title": "Intel Stock Pops on Estimate-Beating Q3. Options Data Tells Us INTC Could Be Headed Here Next. - Barchart.com",
+      "description": "Intel stock inches higher on better-than-expected Q3 financial results. Options data suggests INTC shares could push higher from here through the end of 2025.",
+      "url": "https://www.barchart.com/story/news/35666187/intel-stock-pops-on-estimate-beating-q3-options-data-tells-us-intc-could-be-headed-here-next",
+      "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20A%20-%20I)/Intel%20Corp_%20Santa%20Clara%20campus-by%20jejim%20via%20Shutterstock.jpg",
+      "source": "Barchart.com",
+      "publishedAt": "2025-10-24T18:33:29Z"
+    },
+    {
+      "title": "Broadcom, IBD Stock Of The Day, Gains Custom AI Chip Business - Investor's Business Daily",
+      "description": "Broadcom is the IBD Stock Of The Day as it gains more business for the artificial intelligence processor it designed with Alphabet's Google.",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/broadcom-stock-avgo-custom-ai-chip-business-2/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/sotd-for-10-24-2025-desktop.png",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-24T17:07:00Z"
+    },
+    {
+      "title": "Ford Stock Has Quadrupled Tesla’s Gains. What’s Behind Its Meteoric Rise. - Barron's",
       "description": null,
-      "url": "https://www.barrons.com/articles/gold-price-rebounds-today-bc6e61a8",
+      "url": "https://www.barrons.com/articles/ford-tesla-stock-tariffs-electric-vehicles-2dc8e62d",
       "urlToImage": null,
       "source": "Barron's",
-      "publishedAt": "2025-10-23T14:36:00Z"
+      "publishedAt": "2025-10-24T16:57:00Z"
+    },
+    {
+      "title": "Nebius (NBIS) Stock Is Surging Friday: What's Going On? - Benzinga",
+      "description": "Shares of AI infrastructure firm Nebius are surging on Friday, building on momentum from the previous session.",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/10/48411560/nebius-nbis-stock-is-surging-friday-whats-going-on",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2025/10/24/Nebius-Group.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "publishedAt": "2025-10-24T16:51:38Z"
     }
   ]
 }
