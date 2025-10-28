@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2025-10-27T06:46:03.749Z",
+  "updatedAt": "2025-10-28T06:43:01.529Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "The ‘Hands Problem’ Holding Back the Humanoid Revolution - The Wall Street Journal",
-      "description": "Researchers face huge challenges in creating robotic hands equal to the real thing, but they’re getting closer. One big question: How many fingers?",
-      "url": "https://www.wsj.com/tech/the-hands-problem-holding-back-the-humanoid-revolution-c1aa6123",
-      "urlToImage": "https://images.wsj.net/im-54541483/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-26T01:21:19Z"
-    },
-    {
-      "title": "Tax rises could push food prices higher, warn supermarkets - BBC",
-      "description": "The bosses of the UK's largest supermarkets warn the chancellor against imposing higher taxes on the industry.",
-      "url": "https://www.bbc.com/news/articles/c620gy43pe4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9f69/live/0c5cf5a0-b0ea-11f0-a072-177e9709dffa.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-25T23:00:58Z"
-    },
-    {
-      "title": "Exxon Mobil sues California over climate disclosure laws - CNBC",
-      "description": "Exxon Mobil is suing the state of California over a pair of 2023 climate disclosure laws that the company says infringe upon its free speech rights.",
-      "url": "https://www.cnbc.com/2025/10/25/exxonmobil-sues-california-over-climate-disclosure-laws.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108067665-1732555784404-gettyimages-2165441063-dsc_0596_tzl7lmku.jpeg?v=1749825178&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-25T21:53:08Z"
-    },
-    {
-      "title": "4.9 million pounds of frozen, boneless chicken have been recalled - AP News",
-      "description": "The U.S. Department of Agriculture’s Food Safety and Inspection Service has announced Hormel Foods is recalling nearly 4.9 million pounds of frozen boneless chicken products it sold to restaurants, cafeterias and other foodservice outlets. Customers have repo…",
-      "url": "https://apnews.com/article/hormel-recall-frozen-boneless-chicken-food-companies-c89f0739ca69213abe395ae10e8ab4b0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "title": "China’s C919 jet faces turbulent skies amid US-China trade tensions - AP News",
+      "description": "China's ambition to rival Boeing and Airbus with its homegrown C919 passenger jet is hitting turbulent skies. The C919, made by China's state-owned COMAC, relies heavily on Western components and trade friction has raised risks for securing those parts. As of…",
+      "url": "https://apnews.com/article/china-us-aircraft-trade-comac-8eaf0e9f235b989cd8100152bd5c3f66",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6ffa8c7/2147483647/strip/true/crop/3858x2170+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2F9e%2F924c93efcaf2a53f5c66a3f10a56%2F5ecbeef3803f4d3992540e0988b5d1c2",
       "source": "Associated Press",
-      "publishedAt": "2025-10-25T21:13:00Z"
+      "publishedAt": "2025-10-27T04:12:00Z"
     },
     {
-      "title": "Target announces a major change affecting its entire business - Yahoo Finance",
-      "description": "Over the last year, Target has found itself at the center of intense backlash and boycotts due to a series of controversial business decisions that verge on ...",
-      "url": "https://www.thestreet.com/retail/target-announces-a-major-change-affecting-its-entire-business",
-      "urlToImage": "https://media.zenfs.com/en/thestreet_881/33ad72448ba88aaf3088cc8443689f7d",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-25T18:03:00Z"
+      "title": "Japanese stocks hit record on optimism over Sanae Takaichi - Financial Times",
+      "description": "Japan’s Nikkei index breaches 50,000 as Donald Trump heads for Tokyo to meet Prime Minister Sanae Takaichi",
+      "url": "https://www.ft.com/content/5d1d38bd-147e-4140-abed-cf548d8d62f3",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99d37475-a632-4c13-a7c5-1cf5f67c2d07.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-27T03:11:15Z"
     },
     {
-      "title": "AI is about to supercharge cyberattacks - Axios",
-      "description": "It's a ticking time bomb facing U.S. companies",
-      "url": "https://www.axios.com/2025/10/25/ai-is-about-to-supercharge-cyberattacks",
-      "urlToImage": "https://images.axios.com/LPzCZQqAimWLeOZLdrKBIS15RhQ=/0x0:1920x1080/1366x768/2025/10/15/1760561809127.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-25T17:00:07Z"
+      "title": "Massive Upside for Bitcoin? Author Adam Livingston on 'Mother-of-All Liquidity Pivots' - CoinDesk",
+      "description": "Author Adam Livingston says a potential U.S. liquidity squeeze from falling bank reserves at the Fed could spark an explosive bitcoin rally.",
+      "url": "https://www.coindesk.com/markets/2025/10/27/bitcoin-set-for-massive-surge-as-bank-reserves-near-danger-zone-says-adam-livingston",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/cea9f4fef04e3ac91c879f25c3304b72561be4c9-1920x1080.jpg?auto=format",
+      "source": "CoinDesk",
+      "publishedAt": "2025-10-27T03:03:49Z"
     },
     {
-      "title": "JPMorgan balks at legal tab for fraudsters and says Javice's lawyers treat it 'like a blank check' - Fortune",
-      "description": "A court previously ruled JPMorgan was required to advance Javice and Amar for any legal fees, which was part of the bank’s agreement when Frank was acquired in 2021.",
-      "url": "https://fortune.com/2025/10/25/jpmorgan-115-million-legal-tab-frank-fraud-charlie-javice-olivier-amar/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25297828102905.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-25T16:25:00Z"
-    },
-    {
-      "title": "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead - Investor's Business Daily",
-      "description": "Big market implications for Apple, Microsoft, Meta, Amazon and Google results.",
-      "url": "https://www.investors.com/research/investing-action-plan/apple-google-meta-amazon-microsoft-earnings-fed-rate-cut-trump-xi-ahead/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/03/Stock-binoculars-01-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-25T15:52:00Z"
-    },
-    {
-      "title": "Nancy Pelosi Is Crushing The S&P 500 And These Are Her 3 Best Positions - Yahoo Finance",
-      "description": "Warren Buffett may be considered the greatest investor of our time, but even he can’t touch the prowess of California congresswoman Nancy Pelosi (D-CA). As...",
-      "url": "https://247wallst.com/investing/2025/10/25/nancy-pelosi-is-crushing-the-sp-500-and-these-are-her-3-best-positions/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/F1HiXPCb6PNke3MDvcauIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/59b043bb1a46d45df464bc62fe6e47b8",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2025-10-25T15:32:46Z"
-    },
-    {
-      "title": "This Week In Space podcast: Episode 183 — Lunar Lander Wanted! Apply Within - Space",
-      "description": "Artemis III Contract Opening Up?",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-183-lunar-lander-wanted-apply-within",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mfDd4EeC66TVgupN2T2QSh-720-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-25T14:40:19Z"
-    },
-    {
-      "title": "Tesla’s ‘Mad Max’ Mode is Now Being Investigated by U.S. Regulators - Gizmodo",
-      "description": "Social media users have complained that Teslas using the mode named after a lead-footed dystopian drifter were exceeding the speed limit.",
-      "url": "https://gizmodo.com/tesla-mad-max-investigated-2000677005",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Tesla-brand-logo.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-10-25T14:35:37Z"
-    },
-    {
-      "title": "New CPI data resets December Fed interest rate cut - TheStreet",
-      "description": "Economists say softer CPI data gives the Federal Reserve breathing room as labor markets weaken.",
-      "url": "https://www.thestreet.com/fed/new-cpi-data-resets-december-fed-interest-rate-cut",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE1NTI4OTEwNDEzMTEyNjg3/us-economy-banking-powell.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-25T14:17:00Z"
-    },
-    {
-      "title": "New Trump Administration Energy Rule Would Enable Data Centers with ‘Large Loads’ - Gizmodo",
-      "description": "The \"urgent\" regulatory amendment from the Energy Department would benefit AI companies.",
-      "url": "https://gizmodo.com/ai-large-loads-2000676957",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/data-center-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-10-25T14:00:39Z"
-    },
-    {
-      "title": "Binance founder’s pardon shows power of Trump allies on K Street - Politico",
-      "description": "The president’s pardon for Binance founder Changpeng Zhao came after he and his company hired multiple lobbyists with connections to Trump’s inner circle.",
-      "url": "https://www.politico.com/news/2025/10/25/binance-zhao-pardon-lobby-00621788",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffb%2Fdb%2F9e6e006e43a18a6ee1f2ece8444e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240660323",
-      "source": "Politico",
-      "publishedAt": "2025-10-25T14:00:00Z"
-    },
-    {
-      "title": "Jeff Bezos Makes Major Financial Decision After Report He & Lauren Sanchez Are Going to Court For Money - Yahoo",
-      "description": "Does it have something to do with Amazon?",
-      "url": "https://stylecaster.com/entertainment/celebrity-news/1234860455/jeff-bezos-seattle-house-lauren-sanchez/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QwmESlJGmP9SRvmoCwi7Zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/stylecaster_935/b4034cf758a4c13e1971fdc5f99df7f2",
-      "source": "STYLECASTER",
-      "publishedAt": "2025-10-25T14:00:00Z"
-    },
-    {
-      "title": "Trump taps crypto regulator Mike Selig as new CFTC chair nominee - Politico",
-      "description": "Selig’s selection comes after Brian Quintenz’s nomination ran into resistance from MAGA donors Tyler and Cameron Winklevoss.",
-      "url": "https://www.politico.com/news/2025/10/25/trump-mike-selig-cftc-00621525",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F3b%2Ff4%2Fe497485642bea28f7641fc741457%2F20170823-cftc-politico.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-25T13:16:10Z"
-    },
-    {
-      "title": "Amazon Reveals Smart Glasses That Effectively Turn Its Delivery Drivers Into Cyborg Drones - Futurism",
-      "description": "Amazon revealed smart glasses for delivery drivers that can scan packages and give directions without discussing ethical implications.",
-      "url": "http://futurism.com/advanced-transport/amazon-reveals-smart-glasses-delivery-drivers",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/amazon-reveals-smart-glasses-delivery-drivers.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "publishedAt": "2025-10-25T13:00:00Z"
-    },
-    {
-      "title": "Read the leaked email Meta sent to the employees it just fired - TheStreet",
-      "description": "Meta is doubling down on its bold layoff plan.",
-      "url": "https://www.thestreet.com/employment/read-the-leaked-email-meta-sent-to-the-employees-it-just-fired",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjEzNjI2NTQyNjk2MTc5MTUx/markzuckerbergshirt.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-25T12:07:00Z"
-    },
-    {
-      "title": "The mystery of a cracked United Airlines flight’s windshield set social media abuzz. A Utahn says he solved it. - The Salt Lake Tribune",
-      "description": "A Utahn thinks he figured out what hit a United plane that was diverted to Salt Lake City International Airport.",
-      "url": "https://www.sltrib.com/news/2025/10/25/united-flight-diverted-slc-may/",
-      "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2F75QFKIY7NZFWTDBXKBGLRVAA2Y.jpg?auth=0d0a60fbac70af9996de0efd55de02854e07a63389e47c44abd2002fbb228c5e&width=1200",
-      "source": "Salt Lake Tribune",
-      "publishedAt": "2025-10-25T12:01:52Z"
-    },
-    {
-      "title": "AI spending is boosting the economy, but many businesses are in survival mode - CNBC",
-      "description": "As AI lifts the economy and stock market, businesses in retail, travel and construction are struggling with high costs and a downbeat consumer.",
-      "url": "https://www.cnbc.com/2025/10/25/ai-spending-is-boosting-the-economy-many-businesses-in-survival-mode.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117869-17423291702025-03-18t201546z_1889548261_rc2ufda8bhgm_rtrmadp_0_nvidia-gtc-keynote.jpeg?v=1742329238&w=1920&h=1080",
+      "title": "CNBC Daily Open: Cooler-than-expected U.S. consumer inflation adds to market cheer - CNBC",
+      "description": "However, the lack of data, such as the jobs report, because of the U.S. government shutdown, means we don't know what the overall economic picture looks like.",
+      "url": "https://www.cnbc.com/2025/10/27/cnbc-daily-open-cooler-than-expected-us-consumer-inflation-adds-to-market-cheer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196736-1757505302907-gettyimages-2234008239-AFP_73YG3ZQ.jpeg?v=1757505407&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-10-25T12:00:01Z"
+      "publishedAt": "2025-10-27T01:28:00Z"
+    },
+    {
+      "title": "‘The Quantum Play to Bet On,’ Says Top Investor About IONQ Stock - TipRanks",
+      "description": "IonQ (NYSE:IONQ) stock has been on a rollercoaster lately, climbing to around $82 in mid-October before tumbling nearly 30% within days. The rally took off on Octob...",
+      "url": "https://www.tipranks.com/news/the-quantum-play-to-bet-on-says-top-investor-about-ionq-stock",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/IONQ-1026-2-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-27T00:41:45Z"
+    },
+    {
+      "title": "The striking Swedish workers taking on carmaker Tesla - BBC",
+      "description": "The industrial action against the company's operation in Sweden has reached its second anniversary.",
+      "url": "https://www.bbc.com/news/articles/c5y9082q0jjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3bad/live/a10c43c0-af52-11f0-8c56-6315cfcbbba0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-26T23:48:14Z"
+    },
+    {
+      "title": "US Stock Futures Jump on China Trade Deal Progress: Markets Wrap - Bloomberg.com",
+      "description": "Signs that the US and China were nearing a trade deal triggered a cross-asset rally, lifting stocks, oil and copper along with China-exposed currencies such as the Australian dollar. Treasuries and gold dropped.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-26/us-stock-futures-jump-on-china-trade-deal-progress-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixmwKUqlVbCM/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-26T23:47:39Z"
+    },
+    {
+      "title": "If I Could Buy Only 1 \"Magnificent Seven\" Stock Over the Next 10 Years, This Would Be It (Hint: Not Nvidia) - Yahoo Finance",
+      "description": "The Magnificent Seven stocks are the cream of the crop when it comes to AI, but one has a clear advantage.",
+      "url": "https://www.fool.com/investing/2025/10/26/if-i-could-buy-only-1-magnificent-seven-stock-over/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/b.LhYwj1qB2Inr2ERy4I.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/55ae621cc5d6db23d7fb34273a6dc282",
+      "source": "Motley Fool",
+      "publishedAt": "2025-10-26T23:02:00Z"
+    },
+    {
+      "title": "29 Photos Proving Shrinkflation Is Getting Completely Out Of Hand - BuzzFeed",
+      "description": "\"my first reaction was to just laugh at how ridiculous this corporate greed has gotten.\"",
+      "url": "https://www.buzzfeed.com/meganeliscomb/shrinkflation-oct-25",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/21/21/thumb/VrCCYOhFG.jpg?crop=1250:655;0,18%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2025-10-26T22:31:02Z"
+    },
+    {
+      "title": "Stock Futures Rise Ahead of Mag 7 Earnings, Fed Decision - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/stock-futures-mag-7-earnings-fed-cc5f7e35",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-10-26T22:16:00Z"
+    },
+    {
+      "title": "NC woman canceled her ‘health insurance’ — then $12K in charges hit her card. Why regulators say they’re powerless - Yahoo Finance",
+      "description": "Was her coverage faulty or totally fake?",
+      "url": "https://finance.yahoo.com/news/nc-woman-canceled-her-health-220000762.html",
+      "urlToImage": "https://media.zenfs.com/en/moneywise_327/0579c5ab7c8312be910422944c1756db",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-26T22:00:00Z"
+    },
+    {
+      "title": "Should You Buy XRP (Ripple) While It's Under $3? - The Motley Fool",
+      "description": "Here's why this popular cryptocurrency might be due for a reality check.",
+      "url": "https://www.fool.com/investing/2025/10/26/should-you-buy-xrp-ripple-while-its-under-3/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/836743/ripple-and-cash.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2025-10-26T21:21:00Z"
+    },
+    {
+      "title": "Government shutdown leaves the economy in uncharted territory - Axios",
+      "description": "The shutdown is halting the collection and release of statistics tracking the job market, public health and crop production.",
+      "url": "https://www.axios.com/2025/10/26/shutdown-jobs-data-unemployment-rate-gdp-bls",
+      "urlToImage": "https://images.axios.com/AoZywceUS6yyN4N2Ud5R1VzAwu0=/0x0:1920x1080/1366x768/2025/10/22/1761162350176.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-26T21:15:08Z"
+    },
+    {
+      "title": "A definition of AGI - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45713959",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-10-26T19:04:27Z"
+    },
+    {
+      "title": "Ranked: U.S. States With the Highest Homelessness Rates - Visual Capitalist",
+      "description": "Which U.S. states face the highest homelessness rates? See the states that top the lists and and how housing costs play a role.",
+      "url": "https://www.visualcapitalist.com/ranked-u-s-states-with-the-highest-homelessness-rates/",
+      "urlToImage": "https://www.visualcapitalist.com/wp-content/uploads/2025/10/homelessness.webp",
+      "source": "Visual Capitalist",
+      "publishedAt": "2025-10-26T17:21:02Z"
+    },
+    {
+      "title": "Tesla driver avoids plane crash caught on video, fans falsely credit self-driving - Electrek",
+      "description": "Tesla fans celebrated what they claim was a Tesla vehicle on Full Self-Driving (FSD) that avoided a literal plane crashing...",
+      "url": "http://electrek.co/2025/10/26/tesla-fans-falsely-attribute-avoiding-literal-plane-crash-full-self-driving-insane-video/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/10/Tesla-avoid-plane.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2025-10-26T17:06:00Z"
+    },
+    {
+      "title": "Novartis agrees to acquire Avidity Biosciences, an innovator in RNA therapeutics, strengthening its late-stage neuroscience pipeline - Novartis",
+      "description": null,
+      "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-avidity-biosciences-innovator-rna-therapeutics-strengthening-its-late-stage-neuroscience-pipeline",
+      "urlToImage": "https://www.novartis.com/sites/novartis_com/files/2023-11/novartis-animated-logo-1x.gif",
+      "source": "Novartis.com",
+      "publishedAt": "2025-10-26T17:04:33Z"
     }
   ]
 }

@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2025-10-27T06:46:03.672Z",
+  "updatedAt": "2025-10-28T06:43:01.451Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC",
-      "description": "OpenAI hopes to upend the browser market currently dominated by Google Chrome, but it depends on paid users.",
-      "url": "https://www.bbc.com/news/articles/c20pdy1exxvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a33c/live/c9e36ee0-b0b5-11f0-aba1-bffe4144781c.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-25T23:24:03Z"
-    },
-    {
-      "title": "Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint",
-      "description": "<p>Earlier in the summer we announced that Year 4 would be the final year for Official HCS competition on Halo Infinite, and today at HaloWC we announced some more information about what competitors can expect in 2026. Competitive Halo is important to you, th…",
-      "url": "https://www.halowaypoint.com/news/halo-esports-2026-update",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2024/01/HCS-Hall-Of-Champions.png",
-      "source": "Halowaypoint.com",
-      "publishedAt": "2025-10-25T23:17:00Z"
-    },
-    {
-      "title": "M5 MacBook Pro SSD Read & Write Speeds Run Circles Around The M4 MacBook Pro, New Comparison Shows An Impressive 211% Faster Performance - Wccftech",
-      "description": "Running Blackmagic speed test, the M5 MacBook Pro is shown to be equipped with faster NAND flash, gaining up to 211 percent faster performance than M4 model",
-      "url": "https://wccftech.com/m5-macbook-pro-vs-m4-macbook-pro-ssd-read-and-write-speed-test-comparison/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-MacBook-Pro-5-1.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2025-10-25T20:40:00Z"
-    },
-    {
-      "title": "Game thread: NC State vs. Pitt - Backing The Pack",
-      "description": "",
-      "url": "https://www.backingthepack.com/nc-state-football/34496/game-thread-nc-state-vs-pitt",
-      "urlToImage": "https://platform.backingthepack.com/wp-content/uploads/sites/17/2025/10/gettyimages-861344548.jpg?quality=90&strip=all&crop=0%2C2.7745345037685%2C100%2C78.299134011578&w=1200",
-      "source": "Backing The Pack",
-      "publishedAt": "2025-10-25T19:05:00Z"
-    },
-    {
-      "title": "Battlefield 6's battle royale \"Battlefield: RedSec\" could shadowdrop as soon as next week, dataminers claim - Eurogamer",
-      "description": "Battlefield 6's battle royale mode could release as soon as next week.",
-      "url": "https://www.eurogamer.net/battlefield-6s-battle-royale-battlefield-redsec-could-shadowdrop-as-soon-as-next-week-dataminers-claim",
-      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-best-guns-hero.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-10-25T16:42:09Z"
-    },
-    {
-      "title": "Long-time Microsoft-exclusive Halo is coming to PS5 for the very first time: \"This is Halo for everyone\" - Eurogamer",
-      "description": "The Halo series is coming to PlayStation 5.",
-      "url": "https://www.eurogamer.net/xbox-mascot-and-long-time-microsoft-exclusive-halo-is-coming-to-ps5-for-the-very-first-time-this-is-halo-for-everyone",
-      "urlToImage": "https://assetsio.gnwcdn.com/HaloCE_Wallpaper_Desktop-4K_3840x2160_RGB-d4e38f6e57db5ab9a7e2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-10-25T15:43:56Z"
-    },
-    {
-      "title": "AirTags and cheap gaming laptops headline our favorite deals this week - The Verge",
-      "description": "You can buy a four-pack of AirTags for $65 right now. There are also deals available on Lenovo’s Legion 5 gaming laptop, Hulu with Live TV, and JBL’s Charge 6.",
-      "url": "https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AirTags-Lifestyle-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-25T15:09:15Z"
-    },
-    {
-      "title": "Samsung Galaxy Tab S11 Review: The High-End Android Tablet to Beat - CNET",
-      "description": "Samsung's line includes the 14.6-inch Tab S11 Ultra, but I like the 11-inch option better. Its svelte design and great screen make it the ideal Android tablet for me.",
-      "url": "https://www.cnet.com/tech/computing/samsung-galaxy-tab-s11-review-expensive-but-the-ideal-android-tablet-for-me/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/d0bfda491758a20d1af36fc226d9912e609ba094/hub/2025/10/22/027d5bb5-8e94-47c9-81af-2ff817d6a055/samsung-galaxy-tab-s11-in-hand-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-10-25T14:00:10Z"
-    },
-    {
-      "title": "\"You got my money this time, but it's the last time\" | DICE isn't reverting its Portal XP nerf, claims it's working on challenge difficulty - Windows Central",
-      "description": "Sorry, PvE enjoyers — it looks like your fun has been put on notice.",
-      "url": "https://www.windowscentral.com/gaming/battlefield-6-dice-portal-changes-update",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oSZ2QrwMwXWebyYzUgr2u6-1920-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-10-25T13:30:00Z"
-    },
-    {
-      "title": "Mushrooms show promise as memory chips for future computers - Phys.org",
-      "description": "Fungal networks may be a promising alternative to tiny metal devices used in processing and storing digital memories and other computer data, according to a new study.",
-      "url": "https://phys.org/news/2025-10-mushrooms-memory-chips-future.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mushrooms-show-promise-1.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-10-25T13:20:43Z"
-    },
-    {
-      "title": "Scientists Invented an Entirely New Way to Refrigerate - ScienceAlert",
-      "description": "Say hello to ionocaloric cooling.",
-      "url": "https://www.sciencealert.com/scientists-invented-an-entirely-new-way-to-refrigerate",
-      "urlToImage": "https://www.sciencealert.com/images/2025/10/new_type_refrigeration_header.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-10-25T12:17:41Z"
-    },
-    {
-      "title": "The glaring security risks with AI browser agents - TechCrunch",
-      "description": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
-      "url": "https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1290478576.jpg?resize=1200,846",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-25T12:00:00Z"
-    },
-    {
-      "title": "Samsung and Google Told Me What Upcoming Smart Glasses Could Bring - CNET",
-      "description": "Mixed reality headsets, smart glasses and live AI. Google's head of Android and Samsung's COO for mobile experiences revealed what's coming next.",
-      "url": "https://www.cnet.com/tech/computing/samsung-and-google-told-me-what-upcoming-smart-glasses-could-bring/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/50c5922a9d5e21a70ffdf86077399b10af61bbba/hub/2025/10/24/6fdf98b9-58e5-42b5-bced-6ddd20d7b25a/scott-samsung-xr-headset.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-10-25T12:00:00Z"
-    },
-    {
-      "title": "Help! My Sister Is Trying to Ruin My Perfect Wedding Day. I Think She’s Going to Regret It. - Slate",
-      "description": "I can’t believe she’s doing this.",
-      "url": "https://slate.com/advice/2025/10/dear-prudence-sister-ruin-wedding.html",
-      "urlToImage": "https://compote.slate.com/images/457569bc-a127-4d51-8cf1-747fc2877695.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "source": "Slate Magazine",
-      "publishedAt": "2025-10-25T12:00:00Z"
-    },
-    {
-      "title": "Act Now — Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
-      "description": "You have been warned. The latest Windows attacks have already started, and Microsoft has issued an emergency update. Here’s what you need to know.",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/10/25/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-10-25T08:43:46Z"
-    },
-    {
-      "title": "Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life",
-      "description": "Launching this November",
-      "url": "https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2",
-      "urlToImage": "https://images.nintendolife.com/1468b58183fc9/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-10-25T07:00:00Z"
-    },
-    {
-      "title": "Meet the real screen addicts: the elderly - Hacker News",
+      "title": "This Week’s Japanese Game Releases: Dragon Quest I & II HD-2D Remake, Tales of Xillia Remastered, more - Gematsu",
       "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d45701305",
+      "url": "https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-dragon-quest-i-ii-hd-2d-remake-tales-of-xillia-remastered-more",
       "urlToImage": null,
-      "source": "Hacker News",
-      "publishedAt": "2025-10-25T04:32:00Z"
+      "source": "Gematsu",
+      "publishedAt": "2025-10-27T01:07:20Z"
     },
     {
-      "title": "Microsoft Gaming Head Confirms First-Party Xbox Design for Next-Gen Console Launch - TechPowerUp",
-      "description": "Recently, after ASUS launched the ROG Xbox Ally series and rumors popped up about Xbox potentially abandoning its long line of first-party console designs, Xbox president, Sarah Bond clarified that Microsoft is \"100% looking at making things in the future,\" a…",
-      "url": "https://www.techpowerup.com/342233/microsoft-gaming-head-confirms-first-party-xbox-design-for-next-gen-console-launch",
-      "urlToImage": "https://www.techpowerup.com/img/RVfbrutS1wMnrVrY.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2025-10-25T00:31:45Z"
+      "title": "Cancelled God of War PS5 Game Leaks in Screenshots - Push Square",
+      "description": "Here's what Bluepoint was making",
+      "url": "https://www.pushsquare.com/news/2025/10/cancelled-god-of-war-ps5-game-leaks-in-screenshots",
+      "urlToImage": "https://images.pushsquare.com/1c7b3f18785c4/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-10-27T01:02:39Z"
+    },
+    {
+      "title": "Xbox take massive 200+ foot TV into the air over Miami to break bizarre gaming world records - supercarblondie.com",
+      "description": "Xbox has flown two helicopters over Miami, carrying a massive 200+ foot TV and rapper Swae Lee, all to break one of the most bizarre gaming world records",
+      "url": "https://supercarblondie.com/xbox-ninja-gaiden-4-helicopter-record-swae-lee/",
+      "urlToImage": "https://supercarblondie.com/wp-content/uploads/Xbox-Helicopter-Gaming.webp",
+      "source": "Supercarblondie.com",
+      "publishedAt": "2025-10-26T23:37:00Z"
+    },
+    {
+      "title": "The Neuroscience-Based Nike Mind 001 Appears in \"Black\" - hypebeast.com",
+      "description": "Look out for the mule to make its debut in January.",
+      "url": "https://hypebeast.com/2025/10/nike-mind-001-black-hq4307-001-release-info",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F26%2Fnike-mind-001-black-hq4307-001-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "source": "HYPEBEAST",
+      "publishedAt": "2025-10-26T22:53:57Z"
+    },
+    {
+      "title": "The US Unveils a Quantum Breakthrough That Finally Solves Renewable Energy’s Biggest Problem - carrollcountyobserver.com",
+      "description": null,
+      "url": "https://carrollcountyobserver.com/2025/10/26/the-us-unveils-a-quantum-breakthrough-that-finally-solves-renewable-energys-biggest-problem/",
+      "urlToImage": "https://carrollcountyobserver.com/wp-content/uploads/2025/10/The-US-Unveils-a-Quantum-Breakthrough-That-Finally-Solves-Renewable.jpg",
+      "source": "Carrollcountyobserver.com",
+      "publishedAt": "2025-10-26T22:18:00Z"
+    },
+    {
+      "title": "10 Horror Games Where Every Bullet Actually Counts - DualShockers",
+      "description": "These games are all about survival and wasting a single bullet could lead to your demise.",
+      "url": "https://www.dualshockers.com/horror-games-where-every-bullet-actually-counts/",
+      "urlToImage": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/10/horror-games-where-each-bullet-actually-matters.jpg?w=1600&h=900&fit=crop",
+      "source": "DualShockers",
+      "publishedAt": "2025-10-26T22:00:00Z"
+    },
+    {
+      "title": "Tedious Hiking With No Tracks in the Snow - The Trek",
+      "description": "After a while all of the prints disappeared entirely and I was just postholing for the foreseeable future. It took 10 hours to go 22 miles.",
+      "url": "https://thetrek.co/pacific-crest-trail/tedious-hiking-with-no-tracks-in-the-snow/",
+      "urlToImage": "https://photos.thetrek.co/wp-content/uploads/2025/10/22003520/IMG_7817-scaled.jpeg",
+      "source": "Thetrek.co",
+      "publishedAt": "2025-10-26T21:27:57Z"
+    },
+    {
+      "title": "The Pros & Cons Of 3 Cylinder Engines - Jalopnik",
+      "description": "Cars with 3-cylinder engines tend to get better gas mileage and may offer lower maintenance costs, but they can also be unsatisfying to drive and idle roughly.",
+      "url": "https://www.jalopnik.com/2005436/three-cylinder-engines-pros-cons/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/the-pros-cons-of-3-cylinder-engines/l-intro-1761241834.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2025-10-26T21:25:00Z"
+    },
+    {
+      "title": "Sony Quietly Liquidates XM4 Stock at New Record Low, Amazon Just Sold 10K Units - Kotaku",
+      "description": "Despite newer generations, the Sony XM4 remains among the best and cheapest options.",
+      "url": "https://kotaku.com/sony-quietly-liquidates-xm4-stock-at-new-record-low-amazon-just-sold-10k-units-2000639122",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/08/SonyWH-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-10-26T21:23:11Z"
+    },
+    {
+      "title": "How to enable all new features in Windows 11 version 25H2 and 24H2 - Neowin",
+      "description": "Microsoft recently released a bunch of new features for Windows 11 version 25H2 and 24H2. While they are rolling out gradually, you can force-enable them right now. Here is how.",
+      "url": "https://www.neowin.net/guides/how-to-enable-all-new-features-in-windows-11-version-25h2-and-24h2/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/09/1759249181_windows_11_25h2_story.webp",
+      "source": "Neowin",
+      "publishedAt": "2025-10-26T21:16:00Z"
+    },
+    {
+      "title": "21 Products That Were Hailed As \"The Next Big Thing\" But Then Faded Into Obscurity - BuzzFeed",
+      "description": "\"3D TVs were marketed everywhere, but I didn't know a single person who owned one.\"",
+      "url": "https://www.buzzfeed.com/jake_farrington/next-big-thing-flops",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/16/22/thumb/k_ryNf1aL.jpg?crop=1250:655;0,139%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2025-10-26T20:31:02Z"
+    },
+    {
+      "title": "Peter Molyneux Thinks It Could Be \"Wonderful\" To Revisit One Of His Most Infamous Projects With Today's Tech - Time Extension",
+      "description": "\"I'd love to have finished that game\"",
+      "url": "https://www.timeextension.com/news/2025/10/peter-molyneux-thinks-it-could-be-wonderful-to-revisit-one-of-his-most-infamous-projects-with-todays-tech",
+      "urlToImage": "https://images.timeextension.com/36045e3fe2b3b/large.jpg",
+      "source": "Timeextension.com",
+      "publishedAt": "2025-10-26T19:45:00Z"
+    },
+    {
+      "title": "Ads might be coming to Apple Maps next year - TechCrunch",
+      "description": "This could be part of a larger strategy to introduce more advertising in iOS.",
+      "url": "https://techcrunch.com/2025/10/26/ads-might-be-coming-to-apple-maps-next-year/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-26T19:38:39Z"
+    },
+    {
+      "title": "Silent Hill composer Akira Yamaoka announces first-ever U.S. tour and \"immersive live performance experience\" - Eurogamer",
+      "description": "Akira Yamaoka, long-time composer and sound design director for Silent Hill and a number of other games like The Medium…",
+      "url": "https://www.eurogamer.net/silent-hill-composer-akira-yamaoka-announces-first-ever-us-tour-and-immersive-live-performance-experience",
+      "urlToImage": "https://assetsio.gnwcdn.com/A-person-with-pink-nail-polish-rests-James'-face-in-their-hand-in-Silent-Hill-2-Remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-10-26T18:09:48Z"
+    },
+    {
+      "title": "Please stop using Outlook - MakeUseOf",
+      "description": "Outlook feels too much like Microsoft and that’s the problem",
+      "url": "https://www.makeuseof.com/please-stop-using-outlook/",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/a-smartphone-on-a-bag-of-trash-with-the-microsoft-outlook-app-on-the-display.jpg?w=1600&h=900&fit=crop",
+      "source": "MakeUseOf",
+      "publishedAt": "2025-10-26T18:03:42Z"
+    },
+    {
+      "title": "Making Math Less Stressful With A Python Super-Calculator - Hackaday",
+      "description": "In a recent write-up, [David Delony] explains how he built a Wolfram Mathematica-like engine with Python. Core to the system is SymPy for symbolic math support. [David] said being able to work with…",
+      "url": "https://hackaday.com/2025/10/26/making-math-less-stressful-with-a-python-super-calculator/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/tips_vs_bill_regression-banner.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2025-10-26T17:00:00Z"
+    },
+    {
+      "title": "‘The Outer Worlds 2’ Review: Obsidian’s Sequel Depressingly Carries Water for Capitalism - Slant Magazine",
+      "description": "Suffice to say, the more whimsical, freewheeling steampunk-western vibes of the first 'Outer Worlds' have been flattened out here.",
+      "url": "https://www.slantmagazine.com/games/the-outer-worlds-2-review/",
+      "urlToImage": "https://www.slantmagazine.com/wp-content/uploads/2025/10/outerworlds2-720x480.jpg",
+      "source": "slantmagazine",
+      "publishedAt": "2025-10-26T16:14:30Z"
+    },
+    {
+      "title": "Google Pixel’s best color in years, ‘Indigo,’ is even better on Watch [Gallery] - 9to5Google",
+      "description": "If there’s one thing Google is good at with Pixel, it’s color. This year, “Indigo” is the standout color, even...",
+      "url": "http://9to5google.com/2025/10/26/google-pixel-indigo-color-watch/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/indigo-pixel-10-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-26T16:05:53Z"
+    },
+    {
+      "title": "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds - Decrypt",
+      "description": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. Here's how the free service compares to Gemini, ChatGPT, and Grok.",
+      "url": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-26T16:03:21Z"
     }
   ]
 }
