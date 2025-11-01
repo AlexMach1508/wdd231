@@ -1,143 +1,143 @@
 {
-  "updatedAt": "2025-10-31T06:40:47.603Z",
+  "updatedAt": "2025-11-01T06:36:44.859Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Samsung’s third-quarter profit more than doubles, beating estimates on strong demand from AI chips - CNBC",
-      "description": "Samsung Electronics reported a rebound in earnings on Thursday, with operating profit more than doubling from the previous quarter.",
-      "url": "https://www.cnbc.com/2025/10/30/samsungs-third-quarter-profit-surges-160percent-as-chip-business-bounces-back-from-brutal-slump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1761781388&w=1920&h=1080",
+      "title": "Trump Touts Rare-Earth Win in Talks That Showed Xi’s Strong Hand - Bloomberg.com",
+      "description": "Donald Trump sounded triumphant afterwards. But in his first meeting with Chinese counterpart Xi Jinping since returning to office in January, the US president had to give at least as much as he got.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-31/trump-touts-rare-earth-win-in-talks-that-showed-xi-s-strong-hand",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVqnvA3Ese6k/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-31T04:00:00Z"
+    },
+    {
+      "title": "Amazon’s stock soars toward its best day since 2022: ‘The AI narrative has flipped positive’ - MarketWatch",
+      "description": "Investors were worried AWS was falling behind in AI. A new growth trajectory has restored confidence in Amazon’s cloud business.",
+      "url": "https://www.marketwatch.com/story/amazons-stock-soars-toward-its-best-day-since-2022-the-ai-narrative-has-flipped-positive-9e7fadc5",
+      "urlToImage": "https://images.mktw.net/im-49547616/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-10-31T03:38:00Z"
+    },
+    {
+      "title": "Samsung and Nvidia to build an AI Megafactory to transform semiconductor manufacturing - SiliconANGLE",
+      "description": "Samsung and Nvidia to build an AI Megafactory to transform semiconductor manufacturing - SiliconANGLE",
+      "url": "https://siliconangle.com/2025/10/30/samsung-nvidia-build-ai-megafactory-transform-semiconductor-manufacturing/",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/Screenshot-from-2025-10-31-09-39-48.png",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2025-10-31T02:41:15Z"
+    },
+    {
+      "title": "China manufacturing slump deepens to 6-month low in October, as PMI misses estimates - CNBC",
+      "description": "China and the U.S. reached a trade truce, de-escalating tensions that had threatened to push the world's two largest economies into a full-blown trade war.",
+      "url": "https://www.cnbc.com/2025/10/31/china-manufacturing-pmi-october-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219742-1761869476244-gettyimages-2242032536-cfoto-chinasau251021_npcOx.jpeg?v=1761869491&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-10-30T00:29:00Z"
+      "publishedAt": "2025-10-31T01:41:00Z"
     },
     {
-      "title": "Meta Shares Fall on Accelerating AI Spending Despite Record Revenue - WSJ - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/tech/metaplatforms-meta-q3-earnings-report-2025-e0666e9c",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-29T23:40:00Z"
+      "title": "Massive OpenAI data center planned for farmland near Ann Arbor - The Detroit News",
+      "description": "The \"hyperscale\" data center is expected to be huge, requiring 25% more energy than DTE Energy Co. currently provides to its customers.",
+      "url": "https://www.detroitnews.com/story/business/2025/10/30/massive-openai-data-center-planned-for-farmland-near-ann-arbor/86986930007/",
+      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/10/30/PDTN/86992793007-related-digital-saline-project-rendering-8125.jpg?crop=5399,3037,x0,y101&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "The Detroit News",
+      "publishedAt": "2025-10-30T23:57:15Z"
     },
     {
-      "title": "Tech results live: Meta shares knocked by huge AI spending while Alphabet rallies on record revenue - Financial Times",
-      "description": "Shares of Facebook parent tumble as it increases capital expenditure while Microsoft cloud growth disappoints",
-      "url": "https://www.ft.com/content/32615d88-91a9-4fa8-8ad8-e6abb8e83397",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3021ee09-9351-4394-b6e6-fbcc99429721.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-29T23:36:12Z"
-    },
-    {
-      "title": "Asian Rally to Stall After Powell Rate Cut Caution: Markets Wrap - Bloomberg.com",
-      "description": "Asian stocks struggled for direction after Federal Reserve Chair Jerome Powell cautioned about further interest-rate reductions, saying a cut in December isn’t a foregone conclusion.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-29/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii09XPhPmBIo/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-29T23:27:54Z"
-    },
-    {
-      "title": "Paramount TV Layoffs Hit CBS Entertainment, Paramount+, MTV, and More - Variety",
-      "description": "Paramount has initiated a major round of layoffs following the company's merger with Skydance.",
-      "url": "https://variety.com/2025/tv/news/paramount-tv-layoffs-cbs-mtv-1236564998/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Paramount-Lot.jpg?crop=0px%2C613px%2C5924px%2C3332px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-10-29T23:05:00Z"
-    },
-    {
-      "title": "Laid-off Amazon employees are posting through it on social media - businessinsider.com",
-      "description": "As Amazon lays off 14,000 corporate staff, people are posting to TikTok and LinkedIn to share their stories and connect with others.",
-      "url": "https://www.businessinsider.com/laid-off-amazon-workers-turn-to-tiktok-and-linkedin-2025-10",
-      "urlToImage": "https://i.insider.com/69024dd10be9845f2dc551ca?width=1200&format=jpeg",
+      "title": "Apple earnings recap: Stock rises 5% on earnings beat but China revenue declines - Business Insider",
+      "description": "Apple's revenue and EPS exceeded estimates, but iPhone revenue and China sales missed expectations. Tim Cook talked AI and more in an earnings call.",
+      "url": "https://www.businessinsider.com/apple-earnings-report-aapl-stock-live-updates-2025-10",
+      "urlToImage": "https://i.insider.com/690266a3599d46a4ccc11550?width=1200&format=jpeg",
       "source": "Business Insider",
-      "publishedAt": "2025-10-29T20:27:00Z"
+      "publishedAt": "2025-10-30T23:37:00Z"
     },
     {
-      "title": "CMG Earnings: Chipotle Mexican Grill Sinks on Disappointing Guidance - TipRanks",
-      "description": "Shares of Chipotle Mexican Grill ($CMG) sank in after-hours trading after the restaurant chain reported earnings for its third quarter of Fiscal Year 2025. Earnings...",
-      "url": "https://www.tipranks.com/news/cmg-earnings-chipotle-mexican-grill-sinks-on-disappointing-guidance",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2629681463-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-10-29T20:22:38Z"
+      "title": "Amazon's CEO says its 14,000 job cuts weren't driven by costs or AI: 'It's about culture' - Business Insider",
+      "description": "CEO Andy Jassy clarifies Amazon's 14,000 job cuts were due to cultural misalignment, not cost or AI.",
+      "url": "https://www.businessinsider.com/amazon-job-cuts-driven-by-culture-not-ai-says-ceo-2025-10",
+      "urlToImage": "https://i.insider.com/6903e77f599d46a4ccc131ea?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-10-30T23:29:05Z"
     },
     {
-      "title": "The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures - WIRED",
-      "description": "The second major cloud outage in less than two weeks, Azure’s downtime highlights the “brittleness” of a digital ecosystem that depends on a few companies never making mistakes.",
-      "url": "https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/",
-      "urlToImage": "https://media.wired.com/photos/69025f9c42a73fc665080443/191:100/w_1280,c_limit/sec-microsoft-azure--2190627170.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-10-29T20:20:00Z"
-    },
-    {
-      "title": "Nvidia Becomes First $5 Trillion Company - WSJ - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/nvidia-first-5-trillion-company-market-cap-ae513ff0",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-29T20:15:00Z"
-    },
-    {
-      "title": "Starbucks arrests sales decline as turnaround builds steam - Financial Times",
-      "description": "Effort to freshen cafés, simplify menu and improve service helps world’s largest coffee chain reverse 18-month slide",
-      "url": "https://www.ft.com/content/eb78abea-5ee0-47db-8179-69551d87aee4",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b48c236-7f50-45a4-8151-a12094bd0a03.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-29T20:13:22Z"
-    },
-    {
-      "title": "Yet Again, Mortgage Rates Surge Higher After Fed Rate Cut - Mortgage Daily News",
-      "description": "Today was not a foregone conclusion and there was no way to know ahead of time that it would end like this, but the outcome is exactly why we've gone to such lengths to warn you about the potentially paradoxical reaction to a Fed rate cut.   Too many people r…",
-      "url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-10292025",
-      "urlToImage": "https://a.mortgagenewsdaily.com/dsocial/69027424f92eac414f7975f1/69027424f92eac414f7975f1_0_202510300250.jpg?provider=facebook",
-      "source": "Mortgage News Daily",
-      "publishedAt": "2025-10-29T20:09:46Z"
-    },
-    {
-      "title": "Fed to End Balance Sheet Runoff Dec. 1 Amid Rising Funding Costs - Bloomberg.com",
-      "description": "The Federal Reserve on Wednesday said it will stop shrinking its Treasury holdings beginning Dec. 1, ending a three-year long effort after stress signals in money markets intensified in recent days.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-29/fed-to-end-balance-sheet-runoff-dec-1-amid-rising-funding-costs",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0dXjtxLdDzU/v1/1200x800.jpg",
+      "title": "US Futures Rise on Tech Results After Downbeat Day: Markets Wrap - Bloomberg.com",
+      "description": "Asian equities climbed close to their record and US equity-index futures advanced as strong earnings from Amazon.com Inc. and Apple Inc. lifted sentiment after a brief pause in the global stock rally.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUmZZ2Z_Xl8U/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-10-29T20:06:05Z"
+      "publishedAt": "2025-10-30T22:29:06Z"
     },
     {
-      "title": "Japan Just Showed Off The Future Of Cars—Minus One Crucial Detail - InsideEVs",
-      "description": "Two years after an EV tour de force, 2025's Tokyo Motor Show has a certain vibe: the future of cars is coming, but what powers it will be a mystery.",
-      "url": "https://insideevs.com/news/777359/japan-mobility-show-2025-floor-report/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/pb9g80/s1/toyota-auf-der-japan-mobility-show-2025.jpg",
-      "source": "InsideEVs ",
-      "publishedAt": "2025-10-29T19:02:00Z"
+      "title": "CoreWeave Terminates Core Scientific Deal After Shareholders Reject Offer - Investor's Business Daily",
+      "description": "CoreWeave stock fell after the \"neocloud\" terminated its acquisition of Core Scientific after its shareholders rejected a merger offer.",
+      "url": "https://www.investors.com/news/technology/coreweave-stock-core-scientific-shareholders-vote-merger/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/04/Stock-coreweave-02-shutt.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-30T22:04:00Z"
     },
     {
-      "title": "After Unusual Machines Names Donald Trump Jr. To New Advisory Board, Defense Contracts Follow - Forbes",
-      "description": "Donald Trump Jr. once mocked Hunter Biden's \"no-show no-experience board seats.\" Now he's on his second newly activated advisory board—and that  company just announced $15 million in contracts.",
-      "url": "https://www.forbes.com/sites/zacheverson/2025/10/29/donald-trump-jr-ultimate-machines-defense-contracts-drones/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6900ff73265197a197393449/0x0.jpg?format=jpg&crop=2807,1577,x0,y145,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-10-29T17:41:38Z"
+      "title": "Navan IPO tumbles 20% after historic debut under SEC shutdown workaround - TechCrunch",
+      "description": "Navan finished its first day trading at an approximate valuation of $4.7 billion, which is about half of its last private valuation of $9.2 billion.",
+      "url": "https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-30T21:41:40Z"
     },
     {
-      "title": "GM will cut thousands of jobs in Michigan, Tennessee and Ohio - NBC News",
-      "description": "General Motors plans to lay off about 1,200 workers at its Detroit-area all-electric factory and cut 550 jobs at its Ultium battery facility in Ohio.",
-      "url": "https://www.nbcnews.com/business/autos/gm-layoffs-michigan-ohio-ev-plant-rcna240580",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251029-general-motors-ch-1323-c7a9e1.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-10-29T17:36:21Z"
+      "title": "Trump Says Nvidia Chip Talks With Xi Didn’t Cover Blackwell - Bloomberg.com",
+      "description": "US President Donald Trump said he didn’t discuss approving sales of Nvidia Corp.’s Blackwell chips to China with his counterpart Xi Jinping, dampening speculation that Washington will allow exports of the powerful AI accelerators to the world’s largest semico…",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/trump-says-didn-t-talk-nvidia-blackwell-chips-for-china-with-xi",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihl4x4H0RYKc/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-30T21:41:05Z"
     },
     {
-      "title": "Microsoft Just Lit a Fuse Under Nebius (NBIS). Buy Now Before It Takes Off - Yahoo Finance",
-      "description": "Microsoft (NASDAQ:MSFT) unveiled yesterday what it describes as “the next chapter” in its evolving partnership with OpenAI, reaffirming the AI pioneer as its...",
-      "url": "https://247wallst.com/investing/2025/10/29/microsoft-just-lit-a-fuse-under-nebius-nbis-buy-now-before-it-takes-off/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zimedWV5G7GYMxaMK4zNRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/1dd2bea9ef782d0cea58ec68686e68da",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2025-10-29T17:26:17Z"
+      "title": "Fiserv’s Only Bear Is a 26-Year-Old Analyst Who Beat Wall Street - Bloomberg.com",
+      "description": "The lone analyst with a sell rating on Fiserv Inc. ahead of the company’s crushing stock selloff says the writing was on the wall for months.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/fiserv-s-only-bear-is-a-26-year-old-analyst-who-beat-wall-street",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iteVxofCwpTg/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-30T21:40:13Z"
     },
     {
-      "title": "FDA Moves to Accelerate Biosimilar Development and Lower Drug Costs - fda.gov",
-      "description": "FDA Moves to Accelerate Biosimilar Development and Lower Drug Costs",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-moves-accelerate-biosimilar-development-and-lower-drug-costs",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "source": "FDA.gov",
-      "publishedAt": "2025-10-29T17:00:00Z"
+      "title": "Federal Reserve plans to shrink board of top banking supervisor - Financial Times",
+      "description": "Proposal highlights Trump administration’s push to deregulate financial industry",
+      "url": "https://www.ft.com/content/279a535b-aa3d-4974-8466-f6b7402fdd12",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F070abf03-f2dd-4b71-9117-525c0cd886db.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-30T20:52:45Z"
+    },
+    {
+      "title": "RDDT Earnings: Reddit Rises after Beating Q3 Estimates - TipRanks",
+      "description": "Shares of Reddit ($RDDT) rose slightly in after-hours trading after the social media company reported earnings for its third quarter of Fiscal Year 2025. Earnings p...",
+      "url": "https://www.tipranks.com/news/rddt-earnings-reddit-rises-after-beating-q3-estimates",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2501406799-1-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-30T20:52:03Z"
+    },
+    {
+      "title": "S&P 500 Gains and Losses Today: Meta Stock Drops After Earnings; Moderna Surges - Investopedia",
+      "description": "A social media giant faltered on Thursday, Oct. 30, 2025, as a tax event weighed on its results, while a biotech name benefitted from reports of talks with a major pharma player.",
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-meta-stock-drops-after-earnings-miss-moderna-surges-11840615",
+      "urlToImage": "https://www.investopedia.com/thmb/D3Ucm1DRkTg-4IbzNG953_eHqtQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2235448312-ce5f0990f51045d68ea7ed2bd63e8a47.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-10-30T20:39:45Z"
+    },
+    {
+      "title": "Mortgage Rates Set To Rise After Fed Chair’s ‘Surprising’ Comment About a December Cut - Realtor.com",
+      "description": null,
+      "url": "https://www.realtor.com/news/trends/mortgage-rates-fed-chair-powell-speech/",
+      "urlToImage": null,
+      "source": "Realtor.com News",
+      "publishedAt": "2025-10-30T20:33:05Z"
+    },
+    {
+      "title": "Surging AI Data Center Capex Seen Lifting These Stocks - Investor's Business Daily",
+      "description": "Ballooning capital expenditures on data centers for artificial intelligence will benefit a host of AI stocks, analysts say.",
+      "url": "https://www.investors.com/news/technology/ai-stocks-data-center-capex-beneficiaries/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Microsoft-AIMtPleasant-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-30T20:08:00Z"
     }
   ]
 }
