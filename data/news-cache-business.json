@@ -1,143 +1,167 @@
 {
-  "updatedAt": "2025-11-02T06:38:22.054Z",
+  "updatedAt": "2025-11-03T06:44:31.942Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Delta pilot says \"that was close\" after go-around at Boston's Logan Airport; FAA investigating - CBS News",
-      "description": "The FAA is investigating an apparent close call at Logan Airport Thursday involving a Delta Air Lines flight that was landing and a Cape Air plane that was taking off.",
-      "url": "https://www.cbsnews.com/boston/news/delta-close-call-logan-airport-boston/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/01/61adec40-6eb5-4a8b-8f22-cb50a61820a0/thumbnail/1200x630/7c8527bde5f4edf53eb78a3de446957a/delta-plane.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-11-01T02:17:00Z"
-    },
-    {
-      "title": "Paramount’s No Good Very Bad Week - The Hollywood Reporter",
-      "description": "Top talent jumping ship, massive layoffs, Warner Bros. rejecting an acquisition bid, a messy shakeup at CBS News. David Ellison's golden age for Paramount has sailed into some choppy waters.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-sheridan-layoffs-warner-bros-1236415267/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2239267696.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-10-31T22:23:54Z"
-    },
-    {
-      "title": "US retailers are running out of pennies - BBC",
-      "description": "Find a penny, pick it up, then what? Now the US has stopped making pennies,  a shortage has emerged and created confusion.",
-      "url": "https://www.bbc.com/news/articles/c20556ly45eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d95e/live/8b1c99c0-b67d-11f0-b027-61021c9d4006.jpg",
+      "title": "Shein accused of selling childlike sex dolls in France - BBC",
+      "description": "The Asian fast fashion giant says it delisted the items \"immediately\" from its website and is investigating.",
+      "url": "https://www.bbc.com/news/articles/c4gjjyvg1nqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/287b/live/ea5c6b20-b774-11f0-83d4-a74eeda7e8ab.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-10-31T21:54:31Z"
+      "publishedAt": "2025-11-01T23:14:42Z"
     },
     {
-      "title": "Supermajors Chevron And Exxon Mobil Reported Another Quarterly Profit Decline But One Is Closing The Gap - Investor's Business Daily",
-      "description": "Chevron and Exxon Mobil reported third-quarter earnings and revenue before the stock market open Friday.",
-      "url": "https://www.investors.com/news/chevron-exxon-mobil-q3-earnings-stock-market/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2023/02/Stock-Exxon-05-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-31T21:08:00Z"
+      "title": "Fruit sold in Kroger, other stores nationwide recalled due to potential contamination - WKRC",
+      "description": "Moonlight Companies has issued a nationwide recall of yellow and white peaches due to potential contamination with Listeria monocytogenes, according to the FDA.",
+      "url": "https://local12.com/news/nation-world/recall-recalls-fruit-peaches-sold-kroger-trader-joes-stores-nationwide-recalled-potential-listeria-contamination-moonlight-companies-fatal-infection-cincinnati-symptoms",
+      "urlToImage": "https://local12.com/resources/media/5dbf3a47-2940-47c6-8a71-861e5e83da58-krogernewport18_900x506x180010140185.jpg",
+      "source": "WKRC TV Cincinnati",
+      "publishedAt": "2025-11-01T22:30:00Z"
     },
     {
-      "title": "Canada Backs 25 Critical Minerals Projects in G-7 Initiative - Bloomberg.com",
-      "description": "Rio Tinto Group and Nouveau Monde Graphite Inc. are among more than a dozen companies set to benefit from a Group of Seven initiative to strengthen access to critical minerals.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-31/canada-backs-25-new-critical-minerals-projects-in-g-7-initiative",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irLIko7JUaLc/v1/1200x812.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-31T20:46:34Z"
+      "title": "Doorbell video shows Colorado child refilling empty bowl with his own Halloween candy - CBS News",
+      "description": "A Colorado resident is hoping to reward a child they say refilled their candy bowl on Halloween after it was emptied.",
+      "url": "https://www.cbsnews.com/colorado/news/doorbell-video-colorado-child-refills-empty-bowl-halloween-candy/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/01/122ecf64-a58f-4378-b860-891b73aebd50/thumbnail/1200x630/7861739f73138f0562f961132d41bd8a/child-fills-empty-bowl-in-broomfield-with-halloween-candy.png",
+      "source": "CBS News",
+      "publishedAt": "2025-11-01T22:18:00Z"
     },
     {
-      "title": "S&P 500 Gains and Losses Today: Amazon Stock Surges as Cloud Business Boosts Earnings; DexCom Drops - Investopedia",
-      "description": "The world's largest online retailer got a lift from its booming cloud computing business on Friday, Oct. 31, 2025, while a soft sales outlook weighed on a medical device firm's stock.",
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amazon-stock-surges-as-cloud-business-boosts-earnings-dexcom-drops-11841490",
-      "urlToImage": "https://www.investopedia.com/thmb/JpJYRVa_JzDjb1C7Hosxsb-Hrl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2243343982-b60dfee3b3584f71ad94552e0f0b78f8.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-10-31T20:28:20Z"
-    },
-    {
-      "title": "Wall Street Confronts Fed Doubts as Bill Gross Sells Treasuries - Bloomberg.com",
-      "description": "Wall Street closed out October on a high. AI optimism, solid earnings, and easier financial conditions lifted stocks to their sixth consecutive month of gains while credit just notched its third straight advance.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-31/wall-street-confronts-fed-doubts-as-bill-gross-sells-treasuries",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrG2HhR_3pQ/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-31T20:10:30Z"
-    },
-    {
-      "title": "First Brands formally accused of ‘massive fraud’ by lenders - Financial Times",
-      "description": "Some creditors want an independent trustee involved in car parts maker’s bankruptcy process",
-      "url": "https://www.ft.com/content/27a28cce-b0c9-471a-a7ac-1f060e68f32f",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d9c1b9d-a2e5-48ee-be45-31a25b32462f.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-31T19:49:22Z"
-    },
-    {
-      "title": "Netflix Just Announced a 10-for-1 Stock Split. Should You Buy NFLX Stock Here? - Barchart.com",
-      "description": "Netflix stock extends gains as the company announces a 10-for-1 stock split and media reports suggest it wants to buy WBD’s studio and streaming assets. But is there further upside left in NFLX shares?",
-      "url": "https://www.barchart.com/story/news/35834887/netflix-just-announced-a-10-for-1-stock-split-should-you-buy-nflx-stock-here",
-      "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/Netflix%20on%20tv%20with%20remote%20by%20freestocks%20via%20Unsplash.jpg",
-      "source": "Barchart.com",
-      "publishedAt": "2025-10-31T19:45:37Z"
-    },
-    {
-      "title": "Big Tech To Wall Street: AI Spending Boom Will Intensify - Investor's Business Daily",
-      "description": "Microsoft, Google, Amazon, Meta and Apple vow to continue to ride, the AI megatrend.",
-      "url": "https://www.investors.com/news/technology/ai-stocks-microsoft-apple-google-amazon-meta-capital-spending/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/A1MAIN_bronco_103125_cutler.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-31T19:32:00Z"
-    },
-    {
-      "title": "Mark Zuckerberg drops in billionaire ranks after losing $29B in single day as Meta stock tanks - New York Post",
-      "description": "Investors recoiled from Meta’s plan to issue $30 billion in new debt to fund artificial intelligence spending.",
-      "url": "https://nypost.com/2025/10/31/business/mark-zuckerberg-drops-in-billionaire-ranks-after-losing-29b-in-single-day-as-meta-stock-tanks/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/114543574.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2025-10-31T19:09:00Z"
-    },
-    {
-      "title": "Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner - Fortune",
-      "description": "Nvidia’s Jensen Huang sparked a Korean-fried-chicken stock surge after a viral dinner in Seoul.",
-      "url": "https://fortune.com/2025/10/31/three-billionaires-dropped-by-a-fried-chicken-joint-jensen-huang-bought-everyone-dinner/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2244277540-e1761936188617.jpg?resize=1200,600",
+      "title": "China to suspend some rare earth curbs, probes on U.S. chip firms - Fortune",
+      "description": "China will issue export licenses for rare earths, gallium, germanium, antimony and graphite “for the benefit of U.S. end users and their suppliers,” the White House said.",
+      "url": "https://fortune.com/2025/11/01/china-rare-earth-export-curbs-suspension-probes-us-chip-firms/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2244072479-e1762033445612.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2025-10-31T18:56:00Z"
+      "publishedAt": "2025-11-01T21:50:00Z"
     },
     {
-      "title": "Rural residents ‘in an uproar’ over OpenAI’s massive data center project south of Ann Arbor - MLive.com",
-      "description": "An AI data center in southern Washtenaw County will move forward despite initial rejection by local officials and ongoing resident concerns.",
-      "url": "https://www.mlive.com/news/ann-arbor/2025/10/rural-residents-in-an-uproar-over-openais-massive-data-center-project-in-saline-township.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/JYYJJVHW6ZFMRPFGR22AMP62CY.JPG?auth=a574ee904cd769a7e0019c0b0088fc55df7929736221bc4fbf46c6b0277ead0d&width=1280&smart=true&quality=90",
-      "source": "mlive.com",
-      "publishedAt": "2025-10-31T18:22:00Z"
+      "title": "Michael Dell points out practical advantage of Elon Musk’s proposed pay package - Teslarati",
+      "description": "As pointed out by the Dell Technologies CEO, Musk will only be rewarded if he delivers extraordinary value to shareholders",
+      "url": "https://www.teslarati.com/michael-dell-points-out-practical-advantage-elon-musk-pay-package/",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/07/elon-musk-xai-grok-4-unveiling-1000x600.jpg",
+      "source": "Teslarati",
+      "publishedAt": "2025-11-01T20:25:33Z"
     },
     {
-      "title": "Disney pulls ABC, ESPN and more from YouTube TV as talks break down - AP News",
-      "description": "YouTube TV viewers have lost access to Disney channels, including ABC and ESPN, after contract talks broke down. Other channels like the Disney Channel, FX, and Nat Geo have also disappeared. YouTube TV announced Thursday that Disney followed through on a thr…",
-      "url": "https://apnews.com/article/disney-youtube-streaming-college-football-f1bc8eb93ba3f37b6b5bdafe22626932",
-      "urlToImage": "https://dims.apnews.com/dims4/default/52583f9/2147483647/strip/true/crop/7904x4446+0+412/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2F79%2F69d4319e8d0ea47cab7a64faec9b%2F8fcdb17c84cf483ba240ea5a4247a846",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-31T18:09:00Z"
+      "title": "Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster - TechCrunch",
+      "description": "Elon Musk and Sam Altman are still taking swipes at each other on Musk’s social media platform X.",
+      "url": "https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-01T20:01:10Z"
     },
     {
-      "title": "Walmart Stock (WMT) Suffers as Death Toll from Listeria Outbreak Continues to Climb - TipRanks",
-      "description": "Shares in U.S. retail chain Walmart ($WMT) were off-color today as the number of deaths linked to a listeria outbreak continued to climb. Rising Number Two new deat...",
-      "url": "https://www.tipranks.com/news/walmart-stock-wmt-suffers-as-death-toll-from-listeria-outbreak-continues-to-climb",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/walteria-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-10-31T16:58:29Z"
+      "title": "What to know about the recall of atorvastatin pills for lowering cholesterol - PBS",
+      "description": "If you take cholesterol-lowering drugs called statins, you may have noticed a flurry of news coverage since late October about an extensive recall of thousands of bottles of atorvastatin, the generic version of Lipitor.",
+      "url": "https://www.pbs.org/newshour/health/what-to-know-about-the-recall-of-atorvastatin-pills-for-lowering-cholesterol",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/GettyImages-488048497-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-11-01T19:55:52Z"
     },
     {
-      "title": "Pfizer Could Call on Best Buddy Trump to Help Win $8.5B Novo Nordisk Bidding War - TipRanks",
-      "description": "As The Beatles once sang, we all need a little bit of help from our friends. So, according to Reuters, it might not come as a huge surprise if U.S.\n<a clas...",
-      "url": "https://www.tipranks.com/news/pfizer-could-call-on-best-buddy-trump-to-help-win-8-5b-novo-nordisk-bidding-war",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/trumpbeatles-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-10-31T16:03:08Z"
+      "title": "'Godfather of AI' says tech giants can't profit from their astronomical investments unless human labor is replaced - Fortune",
+      "description": "\"I think the big companies are betting on it causing massive job replacement by AI, because that's where the big money is going to be.\"",
+      "url": "https://fortune.com/2025/11/01/geoffrey-hinton-godfather-of-ai-investment-tech-company-profits-human-labor-replacement/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1259927137-e1762017379870.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-11-01T18:43:00Z"
     },
     {
-      "title": "China ‘made a real mistake’ by ‘firing shots’ on rare earths, Scott Bessent says - Financial Times",
-      "description": "US Treasury secretary says US will protect itself from supply shocks in 12-24 months",
-      "url": "https://www.ft.com/content/399ad440-ecd3-4fb0-b97d-a0d8e0a8a22c",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fac6f7c84-8b51-42d8-a63f-80371ce37bf0.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-31T16:00:29Z"
+      "title": "Penny haul of 70 pounds cashed in with Giant Eagle exchange - TribLIVE.com",
+      "description": null,
+      "url": "https://triblive.com/local/westmoreland/they-doubled-their-money-with-a-penny-haul-weighing-70-pounds/",
+      "urlToImage": null,
+      "source": "TribLIVE",
+      "publishedAt": "2025-11-01T18:10:00Z"
+    },
+    {
+      "title": "Evolve Bank CEO fired after propositioning FBI agent who pretended to be a teen boy - CNBC",
+      "description": "In August, Evolve hired Hartheimer, who brought experience in financial regulatory matters, to help the bank recover from the collapse of startup Synapse.",
+      "url": "https://www.cnbc.com/2025/11/01/evolve-bank-ceo-fired-propositioning-fbi-agent-posing-as-teen-boy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220325-1762004191924-Hartheimer-mug.png?v=1762004290&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-11-01T18:05:31Z"
+    },
+    {
+      "title": "The Ranks of Corporate Zombies Are Growing: Credit Weekly - Bloomberg.com",
+      "description": "As Halloween monsters of all stripes flood neighborhoods in search of candy and parties this weekend, credit markets are seeing the resurgence of a different type of zombie.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-01/the-ranks-of-corporate-zombies-are-growing-credit-weekly",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDZ2FBPR7zIE/v1/1200x797.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-01T18:00:05Z"
+    },
+    {
+      "title": "I Think These Are the 2 Best AI Stocks to Buy in November - The Motley Fool",
+      "description": "The AI infrastructure buildout has moved from speculation to reality, and two companies are positioned to capture the lion's share of spending.",
+      "url": "https://www.fool.com/investing/2025/11/01/i-think-these-are-the-2-best-ai-stocks-to-buy-in-n/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/840624/gettyimages-1518671364.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2025-11-01T18:00:00Z"
+    },
+    {
+      "title": "From fast food to beverage giants, brands see rising income inequality among customers - NBC News",
+      "description": "The K-shaped economy is changing consumer spending, and Chipotle, Coca Cola and McDonalds are trying to adapt.",
+      "url": "https://www.nbcnews.com/business/economy/mcdonalds-cocacola-chipotle-economy-rcna241168",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-food-bank-ew-338p-0c1628.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-11-01T17:21:48Z"
+    },
+    {
+      "title": "Verizon CEO sounds alarm on why customers are leaving in droves - Yahoo Finance",
+      "description": "Verizon is struggling to shake a consumer trend that continues to grow legs, especially after the phone carrier issued several price hikes over the past year...",
+      "url": "https://www.thestreet.com/retail/verizon-ceo-sounds-alarm-on-why-customers-are-leaving-in-droves",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/5cfdad1fe8e2c15defe697ec26cdfc2e",
+      "source": "TheStreet",
+      "publishedAt": "2025-11-01T16:33:00Z"
+    },
+    {
+      "title": "Rising energy prices put AI and data centers in the crosshairs - TechCrunch",
+      "description": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
+      "url": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197370288.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-01T16:15:00Z"
+    },
+    {
+      "title": "The nation’s largest employers are putting their workers on notice - The Washington Post",
+      "description": "Amazon and Walmart are among firms warning employees of layoffs or disruption from AI as leaders across corporate America talk of increasing efficiency.",
+      "url": "https://www.washingtonpost.com/business/2025/11/01/layoffs-workers-ai-amazon-walmart/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3PTRFUUWHMUOF6ALME266KE2Y.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-11-01T16:00:00Z"
+    },
+    {
+      "title": "Where the Nexperia auto chip crisis stands now as the U.S., China and EU race to contain fallout - CNBC",
+      "description": "The Nexperia crisis is still threatening vehicle production worldwide.",
+      "url": "https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220234-17619405512025-10-23t103823z_1905056082_rc2mhhav54c5_rtrmadp_0_volkswagen-production-chips.jpeg?v=1761940606&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-11-01T15:56:49Z"
+    },
+    {
+      "title": "Snohomish County resident first in state to be affected by nationwide listeria outbreak - KOMO",
+      "description": "A Snohomish County resident has been identified as part of a multistate outbreak of Listeria monocytogenes.",
+      "url": "https://komonews.com/news/local/recalled-food-snohomish-county-woman-hospitalized-amid-listeria-outbreak-prepared-pasta-meals-sprouts-qfc-pasta-salad",
+      "urlToImage": "https://komonews.com/resources/media/2a818e9a-0eb3-42cb-a70f-d23061162716-AP18081711295350.jpg",
+      "source": "KOMO News",
+      "publishedAt": "2025-11-01T15:02:53Z"
+    },
+    {
+      "title": "United: Arriving flight at LaGuardia grazed parked plane, worsening Friday delays - Gothamist",
+      "description": "No one was injured, officials said",
+      "url": "https://gothamist.com/news/united-arriving-flight-at-laguardia-grazed-parked-plane-worsening-friday-delays",
+      "urlToImage": "https://api-prod.gothamist.com/images/353938/fill-1200x650|format-webp|webpquality-85/",
+      "source": "Gothamist",
+      "publishedAt": "2025-11-01T14:54:00Z"
+    },
+    {
+      "title": "Berkshire’s Quarterly Earnings Rise After Insurance Results Bounce Back - The Wall Street Journal",
+      "description": "The conglomerate inches closer to Warren Buffett’s retirement as CEO with a record cash pile",
+      "url": "https://www.wsj.com/business/earnings/berkshire-hathaway-earnings-q3-2025-056aa89d",
+      "urlToImage": "https://images.wsj.net/im-52032737/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-11-01T14:44:00Z"
     }
   ]
 }
