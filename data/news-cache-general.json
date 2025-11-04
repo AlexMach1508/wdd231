@@ -1,167 +1,119 @@
 {
-  "updatedAt": "2025-11-03T06:44:31.659Z",
+  "updatedAt": "2025-11-04T06:42:23.916Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "MLB World Series: LA Dodgers beat Toronto Blue Jays for back-to-back titles - BBC",
-      "description": "The Los Angeles Dodgers become the first team for 25 years to win back-to-back World Series after overcoming the Toronto Blue Jays in the deciding seventh game.",
-      "url": "https://www.bbc.com/sport/baseball/articles/c4gwwvzxer2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8380/live/7b129710-b7a8-11f0-aa13-0b0479f6f42a.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-02T04:21:31Z"
+      "title": "Trump spent 90 minutes with ‘60 Minutes’ — here’s what happened - CNN",
+      "description": "The president appeared on the newsmagazine Sunday night, one year after suing the CBS show over the editing of a Kamala Harris interview — and he was well aware that his answers would similarly be trimmed for time.",
+      "url": "https://www.cnn.com/2025/11/02/media/trump-cbs-60-minutes-norah-odonnell-ellison-bari-weiss",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/trump-60-minutes.png?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-11-03T03:20:00Z"
     },
     {
-      "title": "‘SNL’ Goes Full Zohran Mamdani Vs. Donald Trump In Big Apple Cold Open - Deadline",
-      "description": "We don't know yet who will win the World Series but the likely next Mayor of NYC got the full SNL Cold Open treatment tonight",
-      "url": "http://deadline.com/2025/11/snl-cold-open-zohran-mamdani-trump-1236604869/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/snl-cold-open-nov-1.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-11-02T03:53:00Z"
+      "title": "‘Sunday Night Football’ updates: Sam Darnold, Seahawks dominating Commanders - The Seattle Times",
+      "description": "The Seahawks return from their bye with a road game against quarterback Jayden Daniels and the Washington Commanders. Follow along here.",
+      "url": "https://www.seattletimes.com/sports/seahawks/seahawks-commanders-live-updates-score-how-to-watch-sunday-night-football/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/11/11022025_Darnold_tzr_185340.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2025-11-03T03:03:32Z"
     },
     {
-      "title": "Barack Obama, Kamala Harris campaign for Democrats, as Donald Trump's political operation invests in turnout - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Politics/barack-obama-kamala-harris-campaign-democrats-donald-trumps/story?id\\\\u003d127101044",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-11-02T03:45:00Z"
-    },
-    {
-      "title": "No. 23 USC Avoids Nebraska's Upset Bid, 21-17 - Sports Illustrated",
-      "description": "The Nebraska Cornhuskers are back at Memorial Stadium to open the month of November. They take on the No. 23 USC Trojans on Saturday.",
-      "url": "https://www.si.com/college/nebraska/football/live-updates-nebraska-cornhuskers-vs-no-23-usc-trojans-2025",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3127,h_1758,x_525,y_142/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_huskers/01k90yj1kvazm0e10apz.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-11-02T03:32:07Z"
-    },
-    {
-      "title": "UFC Vegas 110 post-fight show: Reaction to Steve Garcia knocking out David Onama, weird night at the APEX - MMA Fighting",
-      "description": "Recapping strange night at the UFC APEX, capped off by Steve Garcia’s big win over David Onama in the main event.",
-      "url": "https://www.mmafighting.com/ufc/453150/ufc-vegas-110-post-fight-show-reaction-to-steve-garcia-knocking-out-david-onama-weird-night-at-the-apex",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/11/gettyimages-2244543440.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2025-11-02T03:30:00Z"
-    },
-    {
-      "title": "Trump administration tells Congress war law doesn’t apply to cartel strikes - The Washington Post",
-      "description": "The Office of Legal Counsel told select lawmakers that the executive branch is not bound by the War Powers Resolution, which requires congressional approval for any military action that exceeds 60 days.",
-      "url": "https://www.washingtonpost.com/national-security/2025/11/01/trump-venezuela-war-drugs-law/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/276HRFI5EJP36UKX34NDQT3OSY.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-11-02T03:28:19Z"
-    },
-    {
-      "title": "Scott, Bailey power NC State to 48-36 upset of No. 8 Georgia Tech for Yellow Jackets' 1st loss - WRALSportsFan.com",
-      "description": "RALEIGH, N.C. (AP) — Duke Scott saw N.C. State's fans pouring over the walls of the stands, running in from all directions and join the Wolfpack for an on field victory party.",
-      "url": "https://www.wralsportsfan.com/scott-bailey-power-nc-state-to-48-36-upset-of-no-8-georgia-tech-for-yellow-jackets-1st-loss/22226043/",
-      "urlToImage": "https://wwwcache.wralsportsfan.com/asset/football/college_football/2025/11/01/22226044/media_3aacabef74a34faeb1bb24b7faf46a3f-DMID1-68urb9pw0-640x426.jpg",
-      "source": "WRALSportsFan.com",
-      "publishedAt": "2025-11-02T03:05:00Z"
-    },
-    {
-      "title": "Hurricane Melissa leaves 28 dead after tearing through Jamaica - Sky News",
-      "description": "The Jamaican government confirms the fatalities - as the first British repatriation flight was setting off from the island on Saturday evening.",
-      "url": "https://news.sky.com/story/hurricane-melissa-leaves-28-dead-after-tearing-through-jamaica-13462331",
-      "urlToImage": "https://e3.365dm.com/25/11/1600x900/skynews-hurricane-melissa-jamaica_7069326.jpg?20251102024402",
-      "source": "Sky.com",
-      "publishedAt": "2025-11-02T02:59:46Z"
-    },
-    {
-      "title": "Poll shows Zohran Mamdani's lead in NYC mayoral race narrowing during final weekend of early voting - CBS News",
-      "description": "The New York City Board of Elections says more than 584,000 residents have already cast their ballots ahead of Election Day.",
-      "url": "https://www.cbsnews.com/newyork/news/nyc-mayors-race-latest-poll-early-voting/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/02/0372e398-a67d-4e04-a1dd-169b321f54fa/thumbnail/1200x630/9e01de1d955fa9a23755adab6372d099/bisram-11p-pkg-nyc-mayo-wcbsfmq0-hi-res-still.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-11-02T02:59:00Z"
-    },
-    {
-      "title": "I'm An Infectious Disease Doctor. Here's What Happened When I Sat Next To A Vaccine Skeptic On A Plane. - Yahoo News UK",
-      "description": "\"As someone who recently completed 15 years of training to become an infectious diseases physician-scientist, I can’t avoid these conversations.\"",
-      "url": "https://www.huffpost.com/entry/infectious-disease-doctor-anti-vaccine-airplane_n_68d2e961e4b03fb4d93463e7",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-10/29/20/thumb/4OiQzaJsP.jpg?crop=3000:1571;0,0%26downsize=1250:*",
-      "source": "HuffPost",
-      "publishedAt": "2025-11-02T02:31:00Z"
-    },
-    {
-      "title": "Daylight saving time ends Sunday. Here’s what to know - NPR",
-      "description": "Love it or hate it, many will turn their clocks back on Sunday. The debate — whether or not to make daylight saving time permanent — continues.",
-      "url": "https://www.npr.org/2025/11/01/nx-s1-5594186/daylight-saving-time-fall-backward-2025",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5042x2836+0+262/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2Fe7%2Fcbf9de434f5a874e9a1e064199ed%2Fap24304784653237.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-11-02T01:26:27Z"
-    },
-    {
-      "title": "Trump threatens military action in Nigeria over Christian persecution claims - NPR",
-      "description": "President Trump on Saturday said he's ordered the Pentagon to plan for potential military action in Nigeria, where he alleges the government is failing to rein in the persecution of Christians.",
-      "url": "https://www.npr.org/2025/11/01/g-s1-96215/trump-nigeria-christian-persecution-claims",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3538x1990+0+184/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F8d%2F53e77d2143afbec7410ca45891c3%2Fap25305652778762.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-11-02T00:39:33Z"
-    },
-    {
-      "title": "Federal judge thanks Trump, orders him to make SNAP payments - Roll Call",
-      "description": "A federal judge ordered the administration to make a full payment of monthly food stamp benefits by Monday or a partial payment by Wednesday.",
-      "url": "https://rollcall.com/2025/11/01/federal-judge-thanks-trump-orders-him-to-make-snap-payments/",
-      "urlToImage": "https://rollcall.com/app/uploads/2025/11/marine_marathon_331_102625.jpg",
-      "source": "Roll Call",
-      "publishedAt": "2025-11-02T00:18:33Z"
-    },
-    {
-      "title": "Molecule: The dangerous weight-loss drug that went viral on Russian TikTok - BBC",
-      "description": "Those taking the drug, which contains a substance banned in many other countries, are experiencing severe side effects.",
-      "url": "https://www.bbc.com/news/articles/c201xe61x0lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/eb01/live/aaa06120-b3e7-11f0-b2a1-6f537f66f9aa.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-02T00:07:32Z"
-    },
-    {
-      "title": "China to suspend some rare earth curbs, probes on U.S. chip firms - Fortune",
-      "description": "China will issue export licenses for rare earths, gallium, germanium, antimony and graphite “for the benefit of U.S. end users and their suppliers,” the White House said.",
-      "url": "https://fortune.com/2025/11/01/china-rare-earth-export-curbs-suspension-probes-us-chip-firms/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2244072479-e1762033445612.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-01T21:50:00Z"
-    },
-    {
-      "title": "'Multiple people' stabbed on train in Cambridgeshire - BBC",
-      "description": "A total of 10 people are in hospital following the stabbings in eastern England, as police say counter-terrorism officers will join the investigation.",
-      "url": "https://www.bbc.com/news/live/cm2zvjx1z14t",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bee6/live/82d4b7f0-b779-11f0-ba75-093eca1ac29b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-01T21:43:29Z"
-    },
-    {
-      "title": "Two additional suspects charged in Louvre jewel heist that shocked France - The Washington Post",
-      "description": "Two more suspects have been charged for their alleged involvement in last month’s daytime heist at the Louvre,",
-      "url": "https://www.washingtonpost.com/world/2025/11/01/suspects-louvre-jewel-heist/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5GYJE47ZECQ26XRCVK7QBAI4A.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-11-01T21:19:12Z"
-    },
-    {
-      "title": "Mamdani targets Cuomo’s Black base in final days of campaign - Politico",
-      "description": "The frontrunner made appearances with Al Sharpton and Letitia James, and spoke with Barack Obama, on Saturday.",
-      "url": "https://www.politico.com/news/2025/11/01/mamdani-targets-cuomos-black-base-in-final-days-of-campaign-00632731",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2F7f%2F8b225ac34e6897875fdb1c2c055d%2Fgettyimages-2244009196.jpg",
+      "title": "Trump reverses course on attending Supreme Court arguments this week - Politico",
+      "description": "The president previously said he had “an obligation to go” to oral arguments in the tariff case at the high court Wednesday.",
+      "url": "https://www.politico.com/news/2025/11/02/donald-trump-supreme-court-tariff-arguments-00633159",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbf%2Fbb%2F703311724a568fcb830861082bf2%2Fsupreme-court-kavanaugh-25653.jpg",
       "source": "Politico",
-      "publishedAt": "2025-11-01T21:10:40Z"
+      "publishedAt": "2025-11-03T02:28:21Z"
     },
     {
-      "title": "Israel says the latest remains returned from Gaza by Hamas are not of hostages - AP News",
-      "description": "Israel says the remains of three people Hamas handed over to the Red Cross do not belong to any hostages. It's the latest setback to the U.S.-brokered ceasefire in the Israel-Hamas war. It was unclear Saturday who the remains belonged to. Health officials in …",
-      "url": "https://apnews.com/article/israel-hostages-ceasefire-gaza-bodies-hamas-9f6e7a4e64548b683d33cab88614b840",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bfbfc83/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2Fd9%2F451c0a18135b013d0033fbd8960f%2F0c95bc6b9dd04f73893b8225d70dac16",
-      "source": "Associated Press",
-      "publishedAt": "2025-11-01T21:07:00Z"
+      "title": "Game Recap: Bears edge Bengals in instant classic - Chicago Bears",
+      "description": "The first 58 minutes of Sunday’s Bears-Bengals game were filled with thrilling moments, highlighted by nine touchdowns and five lead changes. But the heart-pounding drama late in the seesaw contest had to be seen to be believed.",
+      "url": "https://www.chicagobears.com/news/game-recap-bears-edge-bengals-in-instant-classic-2025-week-9",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/cpuv2f6x21dfiaoaqih5",
+      "source": "ChicagoBears.com",
+      "publishedAt": "2025-11-03T01:59:52Z"
     },
     {
-      "title": "Egypt Unveils $1 Billion Grand Museum as a ‘Gift to the World’ - Bloomberg.com",
-      "description": "Egypt inaugurated a long-anticipated $1 billion museum that showcases the wonders of its ancient past and is poised to supercharge the North African nation’s crucial tourism sector.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-01/egypt-unveils-1-billion-grand-museum-as-a-gift-to-the-world",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiIxQS3t2ovs/v1/1200x800.jpg",
+      "title": "Stocks Set for Mixed Open, OPEC+ to Pause Hikes: Markets Wrap - Bloomberg.com",
+      "description": "US equity-index futures advanced Monday, suggesting that the seven-month rally in global stocks may still have room to run as strong tech earnings and easing US–China trade tensions lift sentiment.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-02/stocks-set-for-mixed-open-opec-to-pause-hikes-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip8PVj8GfXSM/v0/1200x675.png",
       "source": "Bloomberg",
-      "publishedAt": "2025-11-01T19:33:21Z"
+      "publishedAt": "2025-11-03T01:48:00Z"
+    },
+    {
+      "title": "Mexican mayor killed during Day of the Dead celebrations - AP News",
+      "description": "Authorities have reported that a mayor in Mexico’s Michoacan state was shot and killed during Day of the Dead festivities. The attack happened Saturday night in Uruapan's historic center. The mayor, Carlos Alberto Manzo Rodríguez, was rushed to a hospital but…",
+      "url": "https://apnews.com/article/mexico-mayor-michoacan-killed-4a5234dd0f5ceb31d2e4e3325bc88f44",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dabc16a/2147483647/strip/true/crop/7263x4085+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2F3d%2Fca507a4ed7876f6f86f53615da73%2F1ca2ae980cb04ac6ba5482d3640ff07e",
+      "source": "Associated Press",
+      "publishedAt": "2025-11-03T01:30:00Z"
+    },
+    {
+      "title": "Interstellar Comet 3I/ATLAS's Blue Shine Is Surprising Astronomers - ScienceAlert",
+      "description": "Comet 3I/ATLAS, only the third known visitor from beyond our Solar System, has been brightening far more rapidly than expected as it approaches perihelion, its closest point to the Sun.",
+      "url": "https://www.sciencealert.com/interstellar-comet-3i-atlass-blue-shine-is-surprising-astronomers",
+      "urlToImage": "https://www.sciencealert.com/images/2025/11/Hubble-Space-Telescope-image-of-the-interstellar-comet-3IATLAS.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-11-03T00:43:36Z"
+    },
+    {
+      "title": "Britney Spears Deletes Instagram Account After Recent Worrying Posts - AOL.com",
+      "description": "Britney Spears deleted her Instagram account on Nov. 2 amid a number of worrying posts. The deactivation comes amid a public dispute over her ex-husband Kevin Federline's memoir.",
+      "url": "https://people.com/britney-spears-deletes-instagram-account-after-recent-worrying-posts-11841831",
+      "urlToImage": "https://people.com/thmb/jnxajzLMmN70mhfTBKrXSvTx2ZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(720x173:722x175)/britney-spears-081723-21be017cccfd474daa54c9cf848e3435.jpg",
+      "source": "PEOPLE",
+      "publishedAt": "2025-11-02T23:57:19Z"
+    },
+    {
+      "title": "Mississippi woman kills escaped rhesus monkey, saying she feared for her children’s safety - PBS",
+      "description": "One of the monkeys that escaped last week after a truck overturned on a Mississippi roadway was shot and killed early Sunday by a woman who says she feared for the safety of her children.",
+      "url": "https://www.pbs.org/newshour/nation/mississippi-woman-kills-escaped-rhesus-monkey-saying-she-feared-for-her-childrens-safety",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/AP25302613820212-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-11-02T23:56:54Z"
+    },
+    {
+      "title": "Trump threat of military action in Nigeria prompts confusion and alarm - The Washington Post",
+      "description": "Trump also warned of aid cuts over alleged attacks on Christians, though an adviser to Nigeria’s president dismissed the remarks as a negotiating tactic.",
+      "url": "https://www.washingtonpost.com/world/2025/11/02/nigeria-trump-military-threat-aid-cuts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5PFTGQOYLAWF7B47FFPNX5XUY.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-11-02T22:36:34Z"
+    },
+    {
+      "title": "NYC mayoral candidates ratchet up intensity on final day of early voting - CBS News",
+      "description": "Sunny skies drove voters to the polls on Sunday, with some having to wait more than 50 minutes at several voting sites.",
+      "url": "https://www.cbsnews.com/newyork/news/nyc-mayors-race-zohran-mamdani-andrew-cuomo-curtis-sliwa-early-voting/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/16/1d94e119-db16-4d14-af51-abfcb16b5852/thumbnail/1200x630/714179b00ae25d8d38e23425b2872506/cbsn-fusion-what-do-mamdani-cuomo-sliwa-prove-voters-thumbnail.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-11-02T22:26:00Z"
+    },
+    {
+      "title": "NFL Week 9 takeaways: What We Learned from Sunday's 12 games - NFL.com",
+      "description": "Around The NFL breaks down what you need to know from Sunday's action in Week 9 of the 2025 NFL season.",
+      "url": "https://www.nfl.com/news/nfl-week-9-takeaways-what-we-learned-from-sunday-s-12-games",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/bjore3ut7iqyy9eoi8gv",
+      "source": "NFL News",
+      "publishedAt": "2025-11-02T20:33:00Z"
+    },
+    {
+      "title": "Man, 32, only suspect after Huntingdon train stabbings - BBC",
+      "description": "British Transport Police said the \"heroic\" LNER staff member had tried to stop the attacker.",
+      "url": "https://www.bbc.com/news/articles/c797x8v0nvno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9b5c/live/8c5f1c00-b816-11f0-8801-8b419f17177b.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-11-02T20:11:00Z"
+    },
+    {
+      "title": "Trump administration faces Monday deadline to respond to judge's SNAP order - NBC News",
+      "description": "The Trump administration is staring down a noon deadline on Monday to update a federal judge who ruled late last week that the Agriculture Department must disburse Supplemental Nutrition Assistance Program funds",
+      "url": "https://www.nbcnews.com/politics/white-house/snap-monday-deadline-rcna241386",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-ebt-mn-1445-e42a63.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-11-02T19:54:51Z"
     }
   ]
 }

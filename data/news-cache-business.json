@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2025-11-03T06:44:31.942Z",
+  "updatedAt": "2025-11-04T06:42:24.173Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Shein accused of selling childlike sex dolls in France - BBC",
-      "description": "The Asian fast fashion giant says it delisted the items \"immediately\" from its website and is investigating.",
-      "url": "https://www.bbc.com/news/articles/c4gjjyvg1nqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/287b/live/ea5c6b20-b774-11f0-83d4-a74eeda7e8ab.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-01T23:14:42Z"
-    },
-    {
-      "title": "Fruit sold in Kroger, other stores nationwide recalled due to potential contamination - WKRC",
-      "description": "Moonlight Companies has issued a nationwide recall of yellow and white peaches due to potential contamination with Listeria monocytogenes, according to the FDA.",
-      "url": "https://local12.com/news/nation-world/recall-recalls-fruit-peaches-sold-kroger-trader-joes-stores-nationwide-recalled-potential-listeria-contamination-moonlight-companies-fatal-infection-cincinnati-symptoms",
-      "urlToImage": "https://local12.com/resources/media/5dbf3a47-2940-47c6-8a71-861e5e83da58-krogernewport18_900x506x180010140185.jpg",
-      "source": "WKRC TV Cincinnati",
-      "publishedAt": "2025-11-01T22:30:00Z"
-    },
-    {
-      "title": "Doorbell video shows Colorado child refilling empty bowl with his own Halloween candy - CBS News",
-      "description": "A Colorado resident is hoping to reward a child they say refilled their candy bowl on Halloween after it was emptied.",
-      "url": "https://www.cbsnews.com/colorado/news/doorbell-video-colorado-child-refills-empty-bowl-halloween-candy/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/01/122ecf64-a58f-4378-b860-891b73aebd50/thumbnail/1200x630/7861739f73138f0562f961132d41bd8a/child-fills-empty-bowl-in-broomfield-with-halloween-candy.png",
-      "source": "CBS News",
-      "publishedAt": "2025-11-01T22:18:00Z"
-    },
-    {
-      "title": "China to suspend some rare earth curbs, probes on U.S. chip firms - Fortune",
-      "description": "China will issue export licenses for rare earths, gallium, germanium, antimony and graphite “for the benefit of U.S. end users and their suppliers,” the White House said.",
-      "url": "https://fortune.com/2025/11/01/china-rare-earth-export-curbs-suspension-probes-us-chip-firms/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2244072479-e1762033445612.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-01T21:50:00Z"
-    },
-    {
-      "title": "Michael Dell points out practical advantage of Elon Musk’s proposed pay package - Teslarati",
-      "description": "As pointed out by the Dell Technologies CEO, Musk will only be rewarded if he delivers extraordinary value to shareholders",
-      "url": "https://www.teslarati.com/michael-dell-points-out-practical-advantage-elon-musk-pay-package/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/07/elon-musk-xai-grok-4-unveiling-1000x600.jpg",
-      "source": "Teslarati",
-      "publishedAt": "2025-11-01T20:25:33Z"
-    },
-    {
-      "title": "Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster - TechCrunch",
-      "description": "Elon Musk and Sam Altman are still taking swipes at each other on Musk’s social media platform X.",
-      "url": "https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2025-11-01T20:01:10Z"
-    },
-    {
-      "title": "What to know about the recall of atorvastatin pills for lowering cholesterol - PBS",
-      "description": "If you take cholesterol-lowering drugs called statins, you may have noticed a flurry of news coverage since late October about an extensive recall of thousands of bottles of atorvastatin, the generic version of Lipitor.",
-      "url": "https://www.pbs.org/newshour/health/what-to-know-about-the-recall-of-atorvastatin-pills-for-lowering-cholesterol",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/GettyImages-488048497-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-11-01T19:55:52Z"
-    },
-    {
-      "title": "'Godfather of AI' says tech giants can't profit from their astronomical investments unless human labor is replaced - Fortune",
-      "description": "\"I think the big companies are betting on it causing massive job replacement by AI, because that's where the big money is going to be.\"",
-      "url": "https://fortune.com/2025/11/01/geoffrey-hinton-godfather-of-ai-investment-tech-company-profits-human-labor-replacement/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1259927137-e1762017379870.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-01T18:43:00Z"
-    },
-    {
-      "title": "Penny haul of 70 pounds cashed in with Giant Eagle exchange - TribLIVE.com",
-      "description": null,
-      "url": "https://triblive.com/local/westmoreland/they-doubled-their-money-with-a-penny-haul-weighing-70-pounds/",
-      "urlToImage": null,
-      "source": "TribLIVE",
-      "publishedAt": "2025-11-01T18:10:00Z"
-    },
-    {
-      "title": "Evolve Bank CEO fired after propositioning FBI agent who pretended to be a teen boy - CNBC",
-      "description": "In August, Evolve hired Hartheimer, who brought experience in financial regulatory matters, to help the bank recover from the collapse of startup Synapse.",
-      "url": "https://www.cnbc.com/2025/11/01/evolve-bank-ceo-fired-propositioning-fbi-agent-posing-as-teen-boy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220325-1762004191924-Hartheimer-mug.png?v=1762004290&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-11-01T18:05:31Z"
-    },
-    {
-      "title": "The Ranks of Corporate Zombies Are Growing: Credit Weekly - Bloomberg.com",
-      "description": "As Halloween monsters of all stripes flood neighborhoods in search of candy and parties this weekend, credit markets are seeing the resurgence of a different type of zombie.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-01/the-ranks-of-corporate-zombies-are-growing-credit-weekly",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDZ2FBPR7zIE/v1/1200x797.jpg",
+      "title": "Stocks Set for Mixed Open, OPEC+ to Pause Hikes: Markets Wrap - Bloomberg.com",
+      "description": "US equity-index futures advanced Monday, suggesting that the seven-month rally in global stocks may still have room to run as strong tech earnings and easing US–China trade tensions lift sentiment.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-02/stocks-set-for-mixed-open-opec-to-pause-hikes-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip8PVj8GfXSM/v0/1200x675.png",
       "source": "Bloomberg",
-      "publishedAt": "2025-11-01T18:00:05Z"
+      "publishedAt": "2025-11-03T01:48:00Z"
     },
     {
-      "title": "I Think These Are the 2 Best AI Stocks to Buy in November - The Motley Fool",
-      "description": "The AI infrastructure buildout has moved from speculation to reality, and two companies are positioned to capture the lion's share of spending.",
-      "url": "https://www.fool.com/investing/2025/11/01/i-think-these-are-the-2-best-ai-stocks-to-buy-in-n/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/840624/gettyimages-1518671364.jpg",
-      "source": "Motley Fool",
-      "publishedAt": "2025-11-01T18:00:00Z"
+      "title": "Gold Drops Back Below $4,000 After China Ends Tax Incentive - Bloomberg.com",
+      "description": "Gold dipped below $4,000 an ounce after China ended a long-standing tax rebate for some retailers, a change that could weigh on demand in one of the world’s largest precious-metals markets.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-02/gold-drops-back-below-4-000-after-china-ends-tax-incentive",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPZut_BhyYmQ/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-03T01:15:00Z"
     },
     {
-      "title": "From fast food to beverage giants, brands see rising income inequality among customers - NBC News",
-      "description": "The K-shaped economy is changing consumer spending, and Chipotle, Coca Cola and McDonalds are trying to adapt.",
-      "url": "https://www.nbcnews.com/business/economy/mcdonalds-cocacola-chipotle-economy-rcna241168",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-food-bank-ew-338p-0c1628.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-11-01T17:21:48Z"
-    },
-    {
-      "title": "Verizon CEO sounds alarm on why customers are leaving in droves - Yahoo Finance",
-      "description": "Verizon is struggling to shake a consumer trend that continues to grow legs, especially after the phone carrier issued several price hikes over the past year...",
-      "url": "https://www.thestreet.com/retail/verizon-ceo-sounds-alarm-on-why-customers-are-leaving-in-droves",
-      "urlToImage": "https://media.zenfs.com/en/thestreet_881/5cfdad1fe8e2c15defe697ec26cdfc2e",
-      "source": "TheStreet",
-      "publishedAt": "2025-11-01T16:33:00Z"
-    },
-    {
-      "title": "Rising energy prices put AI and data centers in the crosshairs - TechCrunch",
-      "description": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
-      "url": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197370288.jpg?resize=1200,800",
+      "title": "Alphabet is increasingly launching \"moonshot\" projects as independent companies -- here's why - TechCrunch",
+      "description": "Despite the emphasis on detachment from ideas, X employees do have significant skin in the game when projects spin out.",
+      "url": "https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/54884872593_c3dca13a6c_k.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2025-11-01T16:15:00Z"
+      "publishedAt": "2025-11-03T01:02:25Z"
     },
     {
-      "title": "The nation’s largest employers are putting their workers on notice - The Washington Post",
-      "description": "Amazon and Walmart are among firms warning employees of layoffs or disruption from AI as leaders across corporate America talk of increasing efficiency.",
-      "url": "https://www.washingtonpost.com/business/2025/11/01/layoffs-workers-ai-amazon-walmart/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3PTRFUUWHMUOF6ALME266KE2Y.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-11-01T16:00:00Z"
+      "title": "Costco has secret stores you’ve never seen: Here’s what they offer - TheStreet",
+      "description": "While most members know the chain's warehouse clubs, it does have a growing secondary model.",
+      "url": "https://www.thestreet.com/retail/costco-has-secret-stores-youve-never-seen-heres-what-they-offer",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyNzYxODgw/costco-business-lead.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-11-03T00:53:00Z"
     },
     {
-      "title": "Where the Nexperia auto chip crisis stands now as the U.S., China and EU race to contain fallout - CNBC",
-      "description": "The Nexperia crisis is still threatening vehicle production worldwide.",
-      "url": "https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220234-17619405512025-10-23t103823z_1905056082_rc2mhhav54c5_rtrmadp_0_volkswagen-production-chips.jpeg?v=1761940606&w=1920&h=1080",
+      "title": "Dividend Stocks That Can Help You Become a Millionaire - Nasdaq",
+      "description": "Key PointsDividend growth stocks tend to make excellent long-term investments.",
+      "url": "https://www.fool.com/investing/2025/11/02/dividend-stocks-that-can-help-you-become-a-million/",
+      "urlToImage": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2025-11-03T00:35:00Z"
+    },
+    {
+      "title": "Asia-Pacific markets trade mixed ahead of PMI data from China - CNBC",
+      "description": "Investors in the region will be watching manufacturing activity figures out from China later today, as RatingDog publishes its PMI numbers for October.",
+      "url": "https://www.cnbc.com/2025/11/03/asia-pacific-markets-trade-mixed-ahead-of-pmi-data-from-china.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173496-1752773807903-gettyimages-2224732518-vcg111579011710.jpeg?v=1752773940&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-11-01T15:56:49Z"
+      "publishedAt": "2025-11-03T00:15:00Z"
     },
     {
-      "title": "Snohomish County resident first in state to be affected by nationwide listeria outbreak - KOMO",
-      "description": "A Snohomish County resident has been identified as part of a multistate outbreak of Listeria monocytogenes.",
-      "url": "https://komonews.com/news/local/recalled-food-snohomish-county-woman-hospitalized-amid-listeria-outbreak-prepared-pasta-meals-sprouts-qfc-pasta-salad",
-      "urlToImage": "https://komonews.com/resources/media/2a818e9a-0eb3-42cb-a70f-d23061162716-AP18081711295350.jpg",
-      "source": "KOMO News",
-      "publishedAt": "2025-11-01T15:02:53Z"
+      "title": "Why brushing teeth twice a day is not always best and other myths busted - BBC",
+      "description": "According to dental experts, even the most diligent brushers might be making a few mistakes.",
+      "url": "https://www.bbc.com/news/articles/c803gk1vpzko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df1f/live/330fc5d0-b59d-11f0-99a1-9f4dd3d6a1a3.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-11-03T00:02:26Z"
     },
     {
-      "title": "United: Arriving flight at LaGuardia grazed parked plane, worsening Friday delays - Gothamist",
-      "description": "No one was injured, officials said",
-      "url": "https://gothamist.com/news/united-arriving-flight-at-laguardia-grazed-parked-plane-worsening-friday-delays",
-      "urlToImage": "https://api-prod.gothamist.com/images/353938/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2025-11-01T14:54:00Z"
+      "title": "Will AI mean the end of call centres? - BBC",
+      "description": "Some commentators predict artificial intelligence is about to replace most customer support jobs.",
+      "url": "https://www.bbc.com/news/articles/cz913ylq3k3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66bd/live/fd4b3e60-b4c1-11f0-9ba4-690ca23769a4.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-11-02T23:20:59Z"
     },
     {
-      "title": "Berkshire’s Quarterly Earnings Rise After Insurance Results Bounce Back - The Wall Street Journal",
-      "description": "The conglomerate inches closer to Warren Buffett’s retirement as CEO with a record cash pile",
-      "url": "https://www.wsj.com/business/earnings/berkshire-hathaway-earnings-q3-2025-056aa89d",
-      "urlToImage": "https://images.wsj.net/im-52032737/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-01T14:44:00Z"
+      "title": "A New, First-Of-Its-Kind Hot Chocolate Mix Just Dropped—and Fans Swear They'll Drink It 'All Winter Long' - Allrecipes",
+      "description": "Liquid I.V. has released a first-of-its-kind hot chocolate mix that will keep you warm and hydrated throughout the fall and winter seasons.",
+      "url": "https://www.allrecipes.com/liquid-i-v-electrolyte-hot-chocolate-11838538",
+      "urlToImage": "https://www.allrecipes.com/thmb/ie2GthN10KWXMxvqmkvHsF-ioJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-foik-hot-chocolate-mix-ar-adobe-2x1-046dd5ba64e54f31aaeec5357f24ca2e.jpg",
+      "source": "Allrecipes.com",
+      "publishedAt": "2025-11-02T22:00:00Z"
+    },
+    {
+      "title": "FDA announces recall for cholesterol medication - WSOC TV",
+      "description": "There’s a recall for thousands of bottles of cholesterol medication.",
+      "url": "https://www.wsoctv.com/news/local/fda-announces-recall-cholesterol-medication/PSHEJCLQ6VDNDEEQ4UP5GUOGTY/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLAYFMHY52JFTHGZKGO2W4CM44I.jpg?auth=dfe9608f949d1b2383369a63b97ad535a9de5550f08d071461a88f2e6959903a&width=1200&height=630&smart=true",
+      "source": "WSOC Charlotte",
+      "publishedAt": "2025-11-02T21:49:30Z"
+    },
+    {
+      "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation - TechCrunch",
+      "description": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
+      "url": "https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-backdrop-Google-IO.png?w=947",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-02T21:13:17Z"
+    },
+    {
+      "title": "Job Loss Fear Grips Staff at Amazon’s Hyderabad Office - Deccan Chronicle",
+      "description": "The job cuts have affected nearly all departments, including coordinators, transport, and shipping staff. Even long-serving employees with nearly a decade of experience have not been spared.",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/job-loss-fear-grips-staff-at-amazons-hyderabad-office-1914429",
+      "urlToImage": "https://www.deccanchronicle.com/h-upload/2025/11/02/1974091-ama.jpg",
+      "source": "Deccan Chronicle",
+      "publishedAt": "2025-11-02T21:11:36Z"
+    },
+    {
+      "title": "N.J. 36-unit apartment complex sells for $6.6M - NJ.com",
+      "description": "Built in 1973, the property consists of a three-story brick complex with 32 one-bedroom, and 4 two-bedroom apartments.",
+      "url": "https://www.nj.com/union/2025/11/nj-36-unit-apartment-complex-sells-for-66m.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/UFHP7WEVRNEZBOOSD4RMOBTYDU.png?auth=ac47067d2737e708fe4f2f16c3f0235bb36f57436a99218fa5c5815bfbc073d3&width=1280&smart=true&quality=90",
+      "source": "nj.com",
+      "publishedAt": "2025-11-02T21:01:00Z"
+    },
+    {
+      "title": "7 dead, 27 sick from recalled pasta meals sold at major grocery chains - WOAI",
+      "description": "The listeria outbreak tied to prepared pasta meals has expanded, with the FDA reporting two additional deaths and seven new illnesses.",
+      "url": "https://news4sanantonio.com/news/nation-world/7-dead-27-sick-from-recalled-pasta-meals-sold-at-major-grocery-chains-fda-deaths-nates-fine-foods-trader-joes-sprouts-farmers-market-kroger-walmart",
+      "urlToImage": "https://news4sanantonio.com/resources/media/3b849b0e-adc1-4ba7-b896-3dada9491734-387a6d0a133a46e592f3a1c5568dcb79GettyImages52346408copy.jpg",
+      "source": "WOAI",
+      "publishedAt": "2025-11-02T20:20:56Z"
+    },
+    {
+      "title": "USPS & all major banks to close for 24 hours in days for first November shutdown - The US Sun",
+      "description": null,
+      "url": "https://www.the-sun.com/money/15431534/usps-banks-chase-wells-fargo-close-for-federal-holidays/",
+      "urlToImage": null,
+      "source": "The-sun.com",
+      "publishedAt": "2025-11-02T18:42:49Z"
+    },
+    {
+      "title": "US bank deals surge as Trump-era regulators race through approvals - Financial Times",
+      "description": "Average time to complete a deal has fallen to four months",
+      "url": "https://www.ft.com/content/72c16455-c11c-4e0a-9ddb-882d1a5e7647",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F19d0211c-bc33-4328-a458-57ddab2f4893.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-11-02T18:00:01Z"
+    },
+    {
+      "title": "Sam Altman says ‘enough’ to questions about OpenAI’s revenue - TechCrunch",
+      "description": "OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pressed on how it will pay for its massive spending commitments.",
+      "url": "https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2223572243.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-02T17:15:26Z"
     }
   ]
 }

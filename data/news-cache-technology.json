@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2025-11-03T06:44:31.803Z",
+  "updatedAt": "2025-11-04T06:42:24.045Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "One of Switch 2’s biggest flaws, and why Nintendo might never fix it - Nintendo Everything",
-      "description": "One of the Switch 2's biggest problems is that most Switch 1 games look blurry in handheld mode. We discuss why this probably won't be fixed.",
-      "url": "https://nintendoeverything.com/nintendo-switch-2-flaw/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Switch-2s-Biggest-Flaw-scaled.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2025-11-02T04:04:48Z"
-    },
-    {
-      "title": "Steam On Linux Gaming Finally Cracks 3% For October 2025 - Phoronix",
-      "description": "Steam on Linux use has hit an all-time high! With the Steam Survey results for October 2025 coming out this evening, Steam on Linux has finally cracked the 3% threshold! A few months back Steam on Linux was close to 3% before stumbling a bit but now it's abov…",
-      "url": "https://www.phoronix.com/news/Steam-Linux-Above-3P-Oct-2025",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=steam_october_4",
-      "source": "Phoronix",
-      "publishedAt": "2025-11-02T00:45:00Z"
-    },
-    {
-      "title": "Treat your PC to Microsoft Office apps for less than $7 each - Mashable",
-      "description": "One lifetime license, eight apps, endless possibilities.",
-      "url": "https://mashable.com/article/nov-1-microsoft-office-professional-2021-for-windows",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/003OgStrRyHv29zB1J7buf9/hero-image.fill.size_1200x675.v1761919554.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-11-01T23:00:00Z"
-    },
-    {
-      "title": "Battlefield 6 drops a new \"relaxed\" way to earn XP \"without the intensity of a full PvP lobby\" - Eurogamer",
-      "description": "Battlefield 6 has introduced a new \"relaxed way\" to play \"while still earning progression and completing challenges\" - …",
-      "url": "https://www.eurogamer.net/battlefield-6-drops-a-new-relaxed-way-to-earn-xp-without-the-intensity-of-a-full-pvp-lobby",
-      "urlToImage": "https://assetsio.gnwcdn.com/battlefield-6-all-weapons-hero-images.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-11-01T21:39:05Z"
-    },
-    {
-      "title": "Debian's APT Will Soon Begin Requiring Rust: Debian Ports Need To Adapt Or Be Sunset - Phoronix",
-      "description": "Debian developer Julian Andres Klode sent out a message on Halloween that may give some Debian Linux users and developers a spook: the APT packaging tool next year will begin requiring a Rust compiler",
-      "url": "https://www.phoronix.com/news/Debian-APT-Will-Require-Rust",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=debian_rust",
-      "source": "Phoronix",
-      "publishedAt": "2025-11-01T21:23:00Z"
-    },
-    {
-      "title": "These work-from-home gadgets and routines doubled my productivity - MakeUseOf",
-      "description": "I use these gadgets and routines to make my WFH setup more productive.",
-      "url": "https://www.makeuseof.com/work-from-home-gadgets-and-routines-for-productivity/",
-      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/l-desk-with-daul-monitor-mount-and-various-gadgets.jpeg?w=1600&h=900&fit=crop",
-      "source": "MakeUseOf",
-      "publishedAt": "2025-11-01T20:00:00Z"
-    },
-    {
-      "title": "The best Android phones never make it to the US - Android Police",
-      "description": "US Android users deserve better flagships",
-      "url": "https://www.androidpolice.com/the-best-android-phones-never-make-it-to-the-us/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/android-flagships-xiaomi-oppo.png?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2025-11-01T19:34:00Z"
-    },
-    {
-      "title": "Aerotech Reborn: The Stashed-Away 257-MPH GM Prototypes Live to Drive Another Day - Road & Track",
-      "description": "“I said, 'I heard you used to have the Aerotech,' and he said, 'That's not true.' I said, 'Oh, I'm so sorry to bother you,' and he said, 'No. I still have them.'”",
-      "url": "https://www.roadandtrack.com/car-culture/a69220164/aerotech-reborn-257-mph-gm-prototypes-live-to-drive-another-day/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/2s6a4932-6905ab5e1d3d0.jpg?crop=1.00xw:0.750xh;0,0.180xh&resize=1200:*",
-      "source": "RoadandTrack.com",
-      "publishedAt": "2025-11-01T19:05:35Z"
-    },
-    {
-      "title": "Yakuza 3 Remake Backlash Blows Up Again as Actor Guilty of Sexual Harassment Stars in New Trailer - Push Square",
-      "description": "#REMOVEKAGAWA returns",
-      "url": "https://www.pushsquare.com/news/2025/11/yakuza-3-remake-backlash-blows-up-again-as-actor-guilty-of-sexual-harassment-stars-in-new-trailer",
-      "urlToImage": "https://images.pushsquare.com/86e1686fb28ba/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-11-01T19:00:00Z"
-    },
-    {
-      "title": "Despite their unpopularity, iPhone crossbody straps aren’t as useless as they may seem - 9to5Mac",
-      "description": "With the launch of the iPhone 17 lineup this fall, Apple debuted a new accessory – the crossbody strap. It...",
-      "url": "https://9to5mac.com/2025/11/01/iphone-crossbody-straps-are-cooler-than-you-might-believe/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/crossbody-strap-iphone-air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-11-01T18:56:00Z"
-    },
-    {
-      "title": "New Google Pixel October 2025 update with ‘performance improvements’ rolls out [U] - 9to5Google",
-      "description": "Google today released new October builds for the Pixel 7-10 series, with Verizon shedding some light on what this update brings.",
-      "url": "http://9to5google.com/2025/11/01/new-pixel-october-2025-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-6-family-with-Pixel-10-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Google Translate adding model picker for ‘Advanced’ or ‘Fast’ translations - 9to5Google",
+      "description": "Following AI live translation and language practice capability, Google Translate is adding a model picker with “Fast” and “Advanced” options.",
+      "url": "http://9to5google.com/2025/11/02/google-translate-model-picker/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Translate-Google-IO-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2025-11-01T18:21:52Z"
+      "publishedAt": "2025-11-03T00:31:00Z"
     },
     {
-      "title": "Yes, You Can Run Windows 95 In Your Browser, And It's Glorious - bgr.com",
-      "description": "Windows 95 is back in an accessible and free way thanks to this website, which allows you to boot up the formative operating system right in your browser.",
-      "url": "https://www.bgr.com/2007837/run-windows-95-in-browser/",
-      "urlToImage": "https://www.bgr.com/img/gallery/yes-you-can-run-windows-95-in-your-browser-and-its-glorious/l-intro-1761333837.jpg",
-      "source": "BGR",
-      "publishedAt": "2025-11-01T18:17:00Z"
+      "title": "Ys vs. Trails In The Sky: Alternative Saga Update Enhances Resolution On Switch 2 - Nintendo Life",
+      "description": "Includes other Switch platform improvements",
+      "url": "https://www.nintendolife.com/news/2025/11/ys-vs-trails-in-the-sky-alternative-saga-update-enhances-resolution-on-switch-2",
+      "urlToImage": "https://images.nintendolife.com/bff59c0c4969c/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-11-02T23:45:00Z"
     },
     {
-      "title": "Keanu Reeves wants to find a way to play Cyberpunk 2077's Johnny Silverhand again, so series creator Mike Pondsmith quips \"I have ways to do that, Keanu, contact me\" - GamesRadar+",
-      "description": "Back from the dead (again)",
-      "url": "https://www.gamesradar.com/games/cyberpunk/keanu-reeves-wants-to-find-a-way-to-play-cyberpunk-2077s-johnny-silverhand-again-so-series-creator-mike-pondsmith-quips-i-have-ways-to-do-that-keanu-contact-me/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TkoGsTQHLWzDaToA5fKE66-1920-80.jpg",
-      "source": "GamesRadar+",
-      "publishedAt": "2025-11-01T17:34:25Z"
+      "title": "These are the new Google Photos and Maps icons with a gradient redesign - 9to5Google",
+      "description": "Here’s a sneak peek at the new gradient icons for Google Photos and Maps. Following the ‘G’ and Gemini icons, Google is updating...",
+      "url": "http://9to5google.com/2025/11/02/google-photos-maps-gradient-icon/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/google-maps-photos-new-gradient-icon-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-11-02T23:29:00Z"
     },
     {
-      "title": "Poll: Are You Happy with Your PS Plus Essential Games for November 2025? - Push Square",
-      "description": "Plus or minus?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2025",
-      "urlToImage": "https://images.pushsquare.com/53cc329ba01bb/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-11-01T17:00:00Z"
+      "title": "Make your dusty old PC feel brand new for just $15 with this upgrade - Mashable",
+      "description": "Treat your PC to a makeover with Windows 11 Pro.",
+      "url": "https://mashable.com/article/nov-2-microsoft-windows-11-pro",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01DgNZsVyHcjInSiLPPNB7D/hero-image.fill.size_1200x675.v1761920108.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-11-02T23:12:46Z"
     },
     {
-      "title": "AMD bundles four Steam games with Lenovo Legion Go 2, Costco only - VideoCardz.com",
-      "description": "AMD launches “4 Games” bundle for Lenovo Legion Go 2 with Ryzen Z2 APU AMD has launched a Costco-exclusive promotion for Lenovo’s Legion Go 2 with the Ryzen Z2 APU. The handheld features an 8.8-inch 1920×1200 OLED display at up to 144 Hz, detachable controlle…",
-      "url": "https://videocardz.com/newz/amd-bundles-four-steam-games-with-lenovo-legion-go-2-costco-only",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/LEGION-GO-AMD-GAME-BUNDLE.jpg",
+      "title": "ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted - Gizmodo",
+      "description": "Atlas appears to have journeyed far from litigious publications, favoring a safer, more AI-friendly path to the end of its little rat maze.",
+      "url": "https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-11-02T22:49:40Z"
+    },
+    {
+      "title": "AMD releases statement confirming RDNA1 and RDNA2 will continue to receive game optimizations - VideoCardz.com",
+      "description": "AMD releases statement on Radeon RX 5000/6000 driver support, game support for new releases to continue AMD has released a follow-up statement addressing confusion surrounding its latest Adrenalin Edition 25.10.2 driver. The company now confirms that Radeon R…",
+      "url": "https://videocardz.com/newz/amd-releases-statement-confirming-rdna1-and-rdna2-will-continue-to-receive-game-optimizations",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/RADEON-6900XT-HERO.jpg",
       "source": "Videocardz.com",
-      "publishedAt": "2025-11-01T16:48:00Z"
+      "publishedAt": "2025-11-02T21:46:00Z"
     },
     {
-      "title": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding - The Verge",
-      "description": "A teaser video confirms there’s an Ayaneo Phone coming with physical controls.",
-      "url": "https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/maxresdefault.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "12 Must-Delete Android Apps That Secretly Record Your Conversations - carrollcountyobserver.com",
+      "description": null,
+      "url": "https://carrollcountyobserver.com/2025/11/02/12-must-delete-android-apps-that-secretly-record-your-conversations/",
+      "urlToImage": "https://carrollcountyobserver.com/wp-content/uploads/2025/10/12-Must-Delete-Android-Apps-That-Secretly-Record-Your-Conversations.jpg",
+      "source": "Carrollcountyobserver.com",
+      "publishedAt": "2025-11-02T21:01:22Z"
+    },
+    {
+      "title": "Report: Avalanche’s Cancelled “Contraband” Screenshots Unearthed, Reveals UI and More - MP1st",
+      "description": "New screenshots unearthed show the UI and stylized 70s designs for Avalanche Studios' cancelled Xbox exclusive, Contraband.",
+      "url": "https://mp1st.com/news/avalanche-cancelled-contraband-screenshots-unearthed",
+      "urlToImage": "https://mp1st.com/wp-content/uploads/2025/11/cntrtmb.jpg",
+      "source": "http://mp1st.com/category/news",
+      "publishedAt": "2025-11-02T20:55:47Z"
+    },
+    {
+      "title": "The Android note-taking app nobody talks about actually beats the giants - Android Police",
+      "description": "The dark horse Android note app that's quietly winning",
+      "url": "https://www.androidpolice.com/android-note-taking-app-nobody-talks-about-beats-the-giants/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/reasons-to-use-bundled-notes.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2025-11-02T20:39:00Z"
+    },
+    {
+      "title": "T-Mobile Has Free Beanies, Here’s How To Get One - The Mobile Report",
+      "description": "Looking for something to keep warm this winter? T-Mobile has you covered with a free beanie coming this Tuesday.",
+      "url": "https://tmo.report/2025/11/t-mobile-has-free-beanies-heres-how-to-get-one/",
+      "urlToImage": "https://tmo.report/wp-content/uploads/2025/11/coldtmobiletuesdaysfeatured.png",
+      "source": "Tmo.report",
+      "publishedAt": "2025-11-02T20:12:50Z"
+    },
+    {
+      "title": "Linux gamers on Steam cross over the 3% mark - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45792503",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-11-02T19:47:29Z"
+    },
+    {
+      "title": "14 Bathroom Design Mistakes To Avoid At All Costs, According To The Property Brothers - House Digest",
+      "description": "According to the Property Brothers, by making smarter bathroom design choices, homeowners can easily avoid wasting money on changes they'll come to regret.",
+      "url": "https://www.housedigest.com/2010845/property-brothers-bathroom-design-mistakes-to-avoid/",
+      "urlToImage": "https://www.housedigest.com/img/gallery/14-bathroom-design-mistakes-to-avoid-at-all-costs-according-to-the-property-brothers/l-intro-1761740488.jpg",
+      "source": "Housedigest.com",
+      "publishedAt": "2025-11-02T19:20:00Z"
+    },
+    {
+      "title": "Caterpillar Used To Build Legendary Truck Engines. Here's Why It Quit - Jalopnik",
+      "description": "Rising and ever-changing emissions standards ballooned Caterpillar's truck-engine costs, leading to the company abandoning truck engines in 2010.",
+      "url": "https://www.jalopnik.com/2013033/why-caterpillar-stopped-making-truck-engines-reason-explained/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/caterpillar-used-to-build-legendary-truck-engines-heres-why-it-quit/l-intro-1761922166.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2025-11-02T18:05:00Z"
+    },
+    {
+      "title": "New Design Trend: People Downgrading 'Smart' Homes to Analog 'Dumb' Homes, Some with Landlines and Offline Appliances - Slashdot",
+      "description": "\"People are creating 'dumb homes,'\" the VP of research at the Global Wellness Institute, tells the web site Axios.  \n\nSome are swapping NASA-style setups for old-fashioned buttons, switches and knobs.  Others are designing digital detox corners &mdash; all pa…",
+      "url": "https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances",
+      "urlToImage": "https://a.fsdn.com/sd/topics/wireless_64.png",
+      "source": "Slashdot.org",
+      "publishedAt": "2025-11-02T17:38:30Z"
+    },
+    {
+      "title": "Steam on Linux exceeds 3% share for the first time, with nearly 1/3 running SteamOS - VideoCardz.com",
+      "description": "Gaming on Linux is now accounting for 3% of players, according to the Steam Survey The Linux gaming community has reached a new milestone, with Steam on Linux finally surpassing 3% of the total user base according to Valve’s latest Steam Hardware Survey for O…",
+      "url": "https://videocardz.com/newz/steam-on-linux-exceeds-3-share-for-the-first-time-with-nearly-1-3-running-steamos",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/11/STEAMOS-LINUX-HERO.jpg",
+      "source": "Videocardz.com",
+      "publishedAt": "2025-11-02T16:54:00Z"
+    },
+    {
+      "title": "M5 MacBook Air, iPad, iPhone 17e: Apple's plans for the first half of 2026 - AppleInsider",
+      "description": null,
+      "url": "https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026",
+      "urlToImage": null,
+      "source": "AppleInsider",
+      "publishedAt": "2025-11-02T15:45:00Z"
+    },
+    {
+      "title": "4 Zodiac Signs Most Likely To Have An Ex Reappear This Scorpio Season 2025 - YourTango",
+      "description": "According to astrologer Helena Hathor, if you're one of these four zodiac signs, get ready for your ex to show up this Scorpio season between October 21 - November 22, 2025.",
+      "url": "https://www.yourtango.com/zodiac/zodiac-signs-most-likely-have-ex-reappear-scorpio-season-2025",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2025-10/zodiac-signs-ex-reappear-scorpio-season-2025.png",
+      "source": "YourTango",
+      "publishedAt": "2025-11-02T15:02:39Z"
+    },
+    {
+      "title": "12 Best Wireless Speakers For Audiophiles, According To Consumer Reports - bgr.com",
+      "description": "Consumer Reports ranks the 12 best wireless speakers for audiophiles. See how top models from Sonos, Denon, Marshall, and Edifier stack up for sound quality.",
+      "url": "https://www.bgr.com/2007972/best-wireless-speakers-audiophiles-according-consumer-reports-2025/",
+      "urlToImage": "https://www.bgr.com/img/gallery/12-best-wireless-speakers-for-audiophiles-according-to-consumer-reports/l-intro-1761488818.jpg",
+      "source": "BGR",
+      "publishedAt": "2025-11-02T15:02:00Z"
+    },
+    {
+      "title": "Why the Zune never killed the iPod - The Verge",
+      "description": "Microsoft set out to win the MP3 player market, and to bring in a new kind of social entertainment. On this episode of Version History: why it didn’t work.",
+      "url": "https://www.theverge.com/podcast/811595/microsoft-zune-version-history",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VH_Zune_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-11-01T16:43:17Z"
-    },
-    {
-      "title": "GTA 6 developer Rockstar accused of union-busting after it fires dozens of developers - Eurogamer",
-      "description": "Grand Theft Auto 6 developer Rockstar Games has been accused of union-busting after terminating the contracts of 30-40 …",
-      "url": "https://www.eurogamer.net/gta-6-developer-rockstar-accused-of-union-busting-after-it-fires-dozens-of-developers",
-      "urlToImage": "https://assetsio.gnwcdn.com/Jason_and_Lucia_01_landscape.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-11-01T16:36:29Z"
-    },
-    {
-      "title": "Exclusive: 20 minutes of high-level Chun-Li match footage in Fatal Fury: City of the Wolves - EventHubs",
-      "description": "Fatal Fury: City of the Wolves fans finally got to see Street Fighter's Chun-Li in action yesterday with her new gameplay trailer, but now it's time to get an even better picture of what she's capable of ...",
-      "url": "https://www.eventhubs.com/news/2025/nov/01/chun-li-fatal-fury-footage/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/10/31-chunli-footaget.webp",
-      "source": "EventHubs",
-      "publishedAt": "2025-11-01T15:01:46Z"
-    },
-    {
-      "title": "Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser - Phoronix",
-      "description": "Open-source developer Joel Severin today announced his work on porting the Linux kernel to WebAssembly and has successffully gotten the kernel up and running within WASM-capable web browsers.",
-      "url": "https://www.phoronix.com/news/Linux-Kernel-WebAssembly",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=linux_wasm_2",
-      "source": "Phoronix",
-      "publishedAt": "2025-11-01T14:40:00Z"
-    },
-    {
-      "title": "The Big Question About Destiny 2’s Missing Roadmap - Forbes",
-      "description": "Destiny 2 has no stated plan for year two, despite promising a roadmap covering the future of the game two months ago now.",
-      "url": "https://www.forbes.com/sites/paultassi/2025/11/01/the-big-question-about-destiny-2s-missing-roadmap/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690617722011087499dd3574/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-11-01T14:27:22Z"
+      "publishedAt": "2025-11-02T14:30:00Z"
     }
   ]
 }
