@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2025-11-04T06:42:24.045Z",
+  "updatedAt": "2025-11-05T06:41:42.044Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Google Translate adding model picker for ‘Advanced’ or ‘Fast’ translations - 9to5Google",
-      "description": "Following AI live translation and language practice capability, Google Translate is adding a model picker with “Fast” and “Advanced” options.",
-      "url": "http://9to5google.com/2025/11/02/google-translate-model-picker/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Translate-Google-IO-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-11-03T00:31:00Z"
-    },
-    {
-      "title": "Ys vs. Trails In The Sky: Alternative Saga Update Enhances Resolution On Switch 2 - Nintendo Life",
-      "description": "Includes other Switch platform improvements",
-      "url": "https://www.nintendolife.com/news/2025/11/ys-vs-trails-in-the-sky-alternative-saga-update-enhances-resolution-on-switch-2",
-      "urlToImage": "https://images.nintendolife.com/bff59c0c4969c/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-11-02T23:45:00Z"
-    },
-    {
-      "title": "These are the new Google Photos and Maps icons with a gradient redesign - 9to5Google",
-      "description": "Here’s a sneak peek at the new gradient icons for Google Photos and Maps. Following the ‘G’ and Gemini icons, Google is updating...",
-      "url": "http://9to5google.com/2025/11/02/google-photos-maps-gradient-icon/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/google-maps-photos-new-gradient-icon-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-11-02T23:29:00Z"
-    },
-    {
-      "title": "Make your dusty old PC feel brand new for just $15 with this upgrade - Mashable",
-      "description": "Treat your PC to a makeover with Windows 11 Pro.",
-      "url": "https://mashable.com/article/nov-2-microsoft-windows-11-pro",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01DgNZsVyHcjInSiLPPNB7D/hero-image.fill.size_1200x675.v1761920108.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-11-02T23:12:46Z"
-    },
-    {
-      "title": "ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got Electrocuted - Gizmodo",
-      "description": "Atlas appears to have journeyed far from litigious publications, favoring a safer, more AI-friendly path to the end of its little rat maze.",
-      "url": "https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/rat-maze-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-11-02T22:49:40Z"
-    },
-    {
-      "title": "AMD releases statement confirming RDNA1 and RDNA2 will continue to receive game optimizations - VideoCardz.com",
-      "description": "AMD releases statement on Radeon RX 5000/6000 driver support, game support for new releases to continue AMD has released a follow-up statement addressing confusion surrounding its latest Adrenalin Edition 25.10.2 driver. The company now confirms that Radeon R…",
-      "url": "https://videocardz.com/newz/amd-releases-statement-confirming-rdna1-and-rdna2-will-continue-to-receive-game-optimizations",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/RADEON-6900XT-HERO.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2025-11-02T21:46:00Z"
-    },
-    {
-      "title": "12 Must-Delete Android Apps That Secretly Record Your Conversations - carrollcountyobserver.com",
+      "title": "Wait, people actually use Facebook Dating? - TechCrunch",
       "description": null,
-      "url": "https://carrollcountyobserver.com/2025/11/02/12-must-delete-android-apps-that-secretly-record-your-conversations/",
-      "urlToImage": "https://carrollcountyobserver.com/wp-content/uploads/2025/10/12-Must-Delete-Android-Apps-That-Secretly-Record-Your-Conversations.jpg",
-      "source": "Carrollcountyobserver.com",
-      "publishedAt": "2025-11-02T21:01:22Z"
+      "url": "https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/",
+      "urlToImage": null,
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-04T04:05:24Z"
     },
     {
-      "title": "Report: Avalanche’s Cancelled “Contraband” Screenshots Unearthed, Reveals UI and More - MP1st",
-      "description": "New screenshots unearthed show the UI and stylized 70s designs for Avalanche Studios' cancelled Xbox exclusive, Contraband.",
-      "url": "https://mp1st.com/news/avalanche-cancelled-contraband-screenshots-unearthed",
-      "urlToImage": "https://mp1st.com/wp-content/uploads/2025/11/cntrtmb.jpg",
-      "source": "http://mp1st.com/category/news",
-      "publishedAt": "2025-11-02T20:55:47Z"
-    },
-    {
-      "title": "The Android note-taking app nobody talks about actually beats the giants - Android Police",
-      "description": "The dark horse Android note app that's quietly winning",
-      "url": "https://www.androidpolice.com/android-note-taking-app-nobody-talks-about-beats-the-giants/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/reasons-to-use-bundled-notes.jpg?w=1600&h=900&fit=crop",
+      "title": "The Samsung Galaxy S26 launch date has leaked, and it's not great news - Android Police",
+      "description": "The wait just got a little longer",
+      "url": "https://www.androidpolice.com/samsung-unpacked-2026-galaxy-s26-launch-date-leak/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/galaxy-s25-ultra-display-1.jpg?w=1600&h=900&fit=crop",
       "source": "Android Police",
-      "publishedAt": "2025-11-02T20:39:00Z"
+      "publishedAt": "2025-11-04T03:49:52Z"
     },
     {
-      "title": "T-Mobile Has Free Beanies, Here’s How To Get One - The Mobile Report",
-      "description": "Looking for something to keep warm this winter? T-Mobile has you covered with a free beanie coming this Tuesday.",
-      "url": "https://tmo.report/2025/11/t-mobile-has-free-beanies-heres-how-to-get-one/",
-      "urlToImage": "https://tmo.report/wp-content/uploads/2025/11/coldtmobiletuesdaysfeatured.png",
-      "source": "Tmo.report",
-      "publishedAt": "2025-11-02T20:12:50Z"
+      "title": "Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more - Ars Technica",
+      "description": "New updates include a small but noteworthy batch of fixes and features.",
+      "url": "https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-11-04T02:08:26Z"
     },
     {
-      "title": "Linux gamers on Steam cross over the 3% mark - Hacker News",
+      "title": "Don't Forget to Grab These PS Plus Essential Games Before They're Gone - Push Square",
+      "description": "Last chance",
+      "url": "https://www.pushsquare.com/news/2025/11/dont-forget-to-grab-these-ps-plus-essential-games-before-theyre-gone",
+      "urlToImage": "https://images.pushsquare.com/175b627cb569b/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-11-04T00:09:05Z"
+    },
+    {
+      "title": "Google pulled the plug on Nest Thermostats, but you can now bring them back to life - Android Police",
+      "description": "A second chance",
+      "url": "https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-nest-thermostat-4th-gen-review-on-the-wall.JPG?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2025-11-03T22:07:00Z"
+    },
+    {
+      "title": "Fortnite Fans Beg Each Other Not To Buy Sidekicks: ‘The Greed On Display Is Disgusting’ - Kotaku",
+      "description": "The cool new feature has stoked a surprising amount of controversy",
+      "url": "https://kotaku.com/fortnite-fans-beg-each-other-not-to-buy-sidekicks-the-greed-on-display-is-disgusting-2000640910",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/11/Frotnite-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-11-03T22:06:13Z"
+    },
+    {
+      "title": "Here Are Jokes The MLB Cut From A Fan Favorite PS2 Game - Kotaku",
+      "description": "The Video Game History Foundation has archived some unused audio lines from the arcade baseball game",
+      "url": "https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/11/slugfest-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-11-03T21:56:49Z"
+    },
+    {
+      "title": "Resident Evil Pro Controller Is Available To Pre-Order, But Its Price Is Terrifying - Nintendo Life",
+      "description": "A few Bingo wins might be needed",
+      "url": "https://www.nintendolife.com/news/2025/11/resident-evil-pro-controller-is-available-to-pre-order-but-its-price-is-terrifying",
+      "urlToImage": "https://images.nintendolife.com/47cdbbd114c96/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-11-03T21:54:01Z"
+    },
+    {
+      "title": "Google Pixel 10 Phones Drop to Record Low Prices Ahead of Black Friday - IGN",
+      "description": "Amazon is slashing prices early.",
+      "url": "https://www.ign.com/articles/google-pixel-10-pro-xl-early-black-friday-deal-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/04/blogroll-1757029764164.JPG?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-03T21:10:26Z"
+    },
+    {
+      "title": "Apple does launch new products in November, here’s when it happened last - 9to5Mac",
+      "description": "When was the last time Apple launched new products in November? Here’s an overview of recent history as we await new Apple TV, AirTag, more.",
+      "url": "https://9to5mac.com/2025/11/03/apple-does-launch-new-products-in-november-heres-when-it-happened-last/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Apple-Silicon-Macs-to-be-announced-by-November.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-11-03T20:39:00Z"
+    },
+    {
+      "title": "AMD says that it’s not pulling driver support for older Radeon GPUs afterall - Ars Technica",
+      "description": "Re-using old silicon means that dropping “old” GPUs can affect “new” products.",
+      "url": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-11-03T20:21:36Z"
+    },
+    {
+      "title": "Pillars Of Eternity Gets Turn-Based Mode As Fans Beg For A Sequel - Kotaku",
+      "description": "Pillars of Eternity will start testing the new mode soon",
+      "url": "https://kotaku.com/pillars-eternity-3-turn-based-mode-update-avowed-crpg-2000640875",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/11/Pillars-of-Eternity-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-11-03T20:14:22Z"
+    },
+    {
+      "title": "Apple brings its App Store to the web - The Verge",
+      "description": "Apple’s new App Store on the web allows users to easily browse and search for apps for iPhone, Mac, Vision Pro, iPad, and Apple TV.",
+      "url": "https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/apple-app-store-games-page.png?quality=90&strip=all&crop=0%2C11.011473766292%2C100%2C77.977052467417&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-03T20:02:52Z"
+    },
+    {
+      "title": "New World: Aeternum Gets New Server Merges & a Minor Season 10 Update - MMORPG.com",
       "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d45792503",
+      "url": "https://www.mmorpg.com/news/new-world-aeternum-gets-new-server-merges-and-a-minor-season-10-update-2000136496",
+      "urlToImage": null,
+      "source": "MMORPG.com",
+      "publishedAt": "2025-11-03T20:00:00Z"
+    },
+    {
+      "title": "The apology tour begins: ESPN analyst says Seahawks are his ‘biggest miss of the offseason’ - Field Gulls",
+      "description": "Bookmark it. Savor it. The tour will elongate with each Seahawks win.",
+      "url": "https://www.fieldgulls.com/seattle-seahawks-news/153920/the-apology-tour-begins-espn-analyst-says-seahawks-biggest-miss-offseason",
+      "urlToImage": "https://platform.fieldgulls.com/wp-content/uploads/sites/81/2025/11/imagn-27490862.jpg?quality=90&strip=all&crop=0%2C10.749203630536%2C100%2C78.501592738927&w=1200",
+      "source": "Field Gulls",
+      "publishedAt": "2025-11-03T19:37:55Z"
+    },
+    {
+      "title": "Pixel 10 is a hit in the US with Google’s new ‘single-month sales record’ amid iPhone 17 - 9to5Google",
+      "description": "Hot off the launch of the Pixel 10 series, Google is seeing some seriously impressive boosts, even in the face of a new iPhone launch.",
+      "url": "http://9to5google.com/2025/11/03/pixel-10-is-a-hit-in-the-us-with-googles-new-single-month-sales-record-amid-iphone-17/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Indigo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-11-03T19:30:00Z"
+    },
+    {
+      "title": "Some AI browsers can bypass publisher paywalls, report says - Mashable",
+      "description": "AI browsers reportedly have workarounds for some paywalled online content.",
+      "url": "https://mashable.com/article/some-ai-browsers-can-bypass-paywalls",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0014koRIKb7bRFobP6KvuP5/hero-image.fill.size_1200x675.v1762191041.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-11-03T19:28:06Z"
+    },
+    {
+      "title": "Deals for Today: Pokémon and MTG TCG Is Lower Than Ever at Amazon - IGN",
+      "description": "As of Nov. 3, Amazon has dropped some Pokémon TCG and Magic: The Gathering prices below market value — including Black Bolt and White Flare ETBs and Avatar: The Last Airbender Collector Boosters. Plus, Xbox Series X|S and Elite V2 controllers are discounted u…",
+      "url": "https://www.ign.com/articles/deals-for-today-november-3",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/03/feature-image-4-1762181319207.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-03T18:42:22Z"
+    },
+    {
+      "title": "Apple Debuts New Apple TV Intro With Music By Finneas Following \"Vibrant\" Rebrand - Deadline",
+      "description": "Apple has unveiled its vibrant new logo for Apple TV, which will be featured at the beginning of its shows and films.",
+      "url": "http://deadline.com/2025/11/apple-debuts-apple-tv-intro-music-finneas-logo-rebrand-1236605631/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/apple-tv-rebrand-logo-finneas.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-11-03T18:30:00Z"
+    },
+    {
+      "title": "The Case That A.I. Is Thinking - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45802029",
       "urlToImage": null,
       "source": "Hacker News",
-      "publishedAt": "2025-11-02T19:47:29Z"
-    },
-    {
-      "title": "14 Bathroom Design Mistakes To Avoid At All Costs, According To The Property Brothers - House Digest",
-      "description": "According to the Property Brothers, by making smarter bathroom design choices, homeowners can easily avoid wasting money on changes they'll come to regret.",
-      "url": "https://www.housedigest.com/2010845/property-brothers-bathroom-design-mistakes-to-avoid/",
-      "urlToImage": "https://www.housedigest.com/img/gallery/14-bathroom-design-mistakes-to-avoid-at-all-costs-according-to-the-property-brothers/l-intro-1761740488.jpg",
-      "source": "Housedigest.com",
-      "publishedAt": "2025-11-02T19:20:00Z"
-    },
-    {
-      "title": "Caterpillar Used To Build Legendary Truck Engines. Here's Why It Quit - Jalopnik",
-      "description": "Rising and ever-changing emissions standards ballooned Caterpillar's truck-engine costs, leading to the company abandoning truck engines in 2010.",
-      "url": "https://www.jalopnik.com/2013033/why-caterpillar-stopped-making-truck-engines-reason-explained/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/caterpillar-used-to-build-legendary-truck-engines-heres-why-it-quit/l-intro-1761922166.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2025-11-02T18:05:00Z"
-    },
-    {
-      "title": "New Design Trend: People Downgrading 'Smart' Homes to Analog 'Dumb' Homes, Some with Landlines and Offline Appliances - Slashdot",
-      "description": "\"People are creating 'dumb homes,'\" the VP of research at the Global Wellness Institute, tells the web site Axios.  \n\nSome are swapping NASA-style setups for old-fashioned buttons, switches and knobs.  Others are designing digital detox corners &mdash; all pa…",
-      "url": "https://mobile.slashdot.org/story/25/11/02/067245/new-design-trend-people-downgrading-smart-homes-to-analog-dumb-homes-some-with-landlines-and-offline-appliances",
-      "urlToImage": "https://a.fsdn.com/sd/topics/wireless_64.png",
-      "source": "Slashdot.org",
-      "publishedAt": "2025-11-02T17:38:30Z"
-    },
-    {
-      "title": "Steam on Linux exceeds 3% share for the first time, with nearly 1/3 running SteamOS - VideoCardz.com",
-      "description": "Gaming on Linux is now accounting for 3% of players, according to the Steam Survey The Linux gaming community has reached a new milestone, with Steam on Linux finally surpassing 3% of the total user base according to Valve’s latest Steam Hardware Survey for O…",
-      "url": "https://videocardz.com/newz/steam-on-linux-exceeds-3-share-for-the-first-time-with-nearly-1-3-running-steamos",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/11/STEAMOS-LINUX-HERO.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2025-11-02T16:54:00Z"
-    },
-    {
-      "title": "M5 MacBook Air, iPad, iPhone 17e: Apple's plans for the first half of 2026 - AppleInsider",
-      "description": null,
-      "url": "https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026",
-      "urlToImage": null,
-      "source": "AppleInsider",
-      "publishedAt": "2025-11-02T15:45:00Z"
-    },
-    {
-      "title": "4 Zodiac Signs Most Likely To Have An Ex Reappear This Scorpio Season 2025 - YourTango",
-      "description": "According to astrologer Helena Hathor, if you're one of these four zodiac signs, get ready for your ex to show up this Scorpio season between October 21 - November 22, 2025.",
-      "url": "https://www.yourtango.com/zodiac/zodiac-signs-most-likely-have-ex-reappear-scorpio-season-2025",
-      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2025-10/zodiac-signs-ex-reappear-scorpio-season-2025.png",
-      "source": "YourTango",
-      "publishedAt": "2025-11-02T15:02:39Z"
-    },
-    {
-      "title": "12 Best Wireless Speakers For Audiophiles, According To Consumer Reports - bgr.com",
-      "description": "Consumer Reports ranks the 12 best wireless speakers for audiophiles. See how top models from Sonos, Denon, Marshall, and Edifier stack up for sound quality.",
-      "url": "https://www.bgr.com/2007972/best-wireless-speakers-audiophiles-according-consumer-reports-2025/",
-      "urlToImage": "https://www.bgr.com/img/gallery/12-best-wireless-speakers-for-audiophiles-according-to-consumer-reports/l-intro-1761488818.jpg",
-      "source": "BGR",
-      "publishedAt": "2025-11-02T15:02:00Z"
-    },
-    {
-      "title": "Why the Zune never killed the iPod - The Verge",
-      "description": "Microsoft set out to win the MP3 player market, and to bring in a new kind of social entertainment. On this episode of Version History: why it didn’t work.",
-      "url": "https://www.theverge.com/podcast/811595/microsoft-zune-version-history",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VH_Zune_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-11-02T14:30:00Z"
+      "publishedAt": "2025-11-03T18:10:46Z"
     }
   ]
 }
