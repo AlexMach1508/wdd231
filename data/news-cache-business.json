@@ -1,135 +1,159 @@
 {
-  "updatedAt": "2025-11-05T06:41:42.090Z",
+  "updatedAt": "2025-11-06T06:42:15.003Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Wall Street CEOs Warn of Market Pullback From Rich Valuations - Bloomberg.com",
-      "description": "Wall Street chief executives said investors should brace for an equity market drawdown of more than 10% in the next 12 to 24 months, and that such a correction can be a positive development.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-04/wall-street-ceos-warn-of-market-pullback-from-rich-valuations",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4PC3CrC7MgA/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-11-04T05:32:00Z"
+      "title": "AI stocks waver as ‘Big Short’ investor bets against Palantir, Nvidia - The Washington Post",
+      "description": "Michael Burry drew the ire of Palantir CEO Alex Karp after disclosing his bets against the artificial intelligence giants.",
+      "url": "https://www.washingtonpost.com/business/2025/11/04/palantir-nvidia-stock-market-michael-burry/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q7C54QVKJFEJVBYY3OZCRLTIIQ.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-11-05T04:03:45Z"
     },
     {
-      "title": "Shein bans all sex dolls after outrage over childlike products - BBC",
-      "description": "Every listing and image related to the sex dolls has been removed from Shein's platform, the firm said.",
-      "url": "https://www.bbc.com/news/articles/cddrg70pj1mo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a649/live/bcddd490-b91d-11f0-a5ec-f517137b376b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-04T03:16:18Z"
-    },
-    {
-      "title": "Google Spurns Disney Request to YouTube TV Restore ABC on Election Night - Variety",
-      "description": "On Monday, Disney asked Google to offer ABC to YouTube TV customers on Tuesday, Nov. 4, to bring them Election Night coverage. Google said no -- and suggested instead that Disney allow YouTube TV to bring ABC and ESPN back on the air as the two sides hash out…",
-      "url": "https://variety.com/2025/tv/news/google-rejects-disney-request-abc-youtube-tv-election-night-1236569021/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/11/GettyImages-2240863408.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-11-04T00:02:00Z"
-    },
-    {
-      "title": "South Korea's Kospi snaps 4-session winning streak as Asia-Pacific markets trade mixed - CNBC",
-      "description": "Asia Pacific markets were mostly set to fall Tuesday, breaking ranks from Wall Street, which saw a tech-fuelled rally stateside.",
-      "url": "https://www.cnbc.com/2025/11/04/asia-pacific-markets-tuesday-hang-seng-nikkei-kospi-australia-rba-rate-hkma-summit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220901-1762213798686-gettyimages-2165515913-a36o3530_z72zqvxw.jpeg?v=1762213811&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-11-03T23:50:35Z"
-    },
-    {
-      "title": "Palantir Reports Record Quarterly Revenue, Hikes Forecasts (PLTR) - Bloomberg.com",
-      "description": "Palantir Technologies Inc. raised its annual revenue outlook to $4.4 billion and outpaced analyst estimates for third-quarter sales, though the shares declined in after-hours trading on concerns about the company’s lofty valuation after a record run-up.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-03/palantir-reports-record-quarterly-revenue-hikes-forecasts",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifmQ9MKeS.9w/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-11-03T23:50:19Z"
-    },
-    {
-      "title": "FDA's top drug regulator sued by Canadian pharmaceutical company - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Politics/fdas-top-drug-regulator-leave-resigning-citing-toxic/story?id\\\\u003d127119927",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-11-03T22:42:41Z"
-    },
-    {
-      "title": "Kimberly-Clark Strikes $40 Billion Deal for Tylenol Maker Kenvue - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/retail/kimberly-clark-to-buy-tylenol-maker-kenvue-0e2c97fd",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-03T22:13:00Z"
-    },
-    {
-      "title": "Metsera Calls Pfizer's Claims 'Nonsense' In Latest Buyout Battle Salvo - Investor's Business Daily",
-      "description": "Metsera called Pfizer's claims \"nonsense\" in a follow-up Monday to Pfizer's lawsuit against Metsera and Novo Nordisk.",
-      "url": "https://www.investors.com/news/technology/metsera-pfizer-novo-nordisk-takeover-litigation/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-Pfizer-01-shutter.jpg",
+      "title": "Tech Futures Fall Amid Big Earnings Movers - Investor's Business Daily",
+      "description": "The major indexes are holding up, but breadth is weak. Many leaders were roughed up.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-palantir-tesla-bitcoin-sell-off-amd-ai-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/Stock-boxerPunch-01-adobe.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2025-11-03T21:26:00Z"
+      "publishedAt": "2025-11-05T04:01:00Z"
     },
     {
-      "title": "S&P 500 Gains & Losses Today: Amazon Stock Jumps After OpenAI Deal; Kimberly-Clark Acquires Kenvue - Investopedia",
-      "description": "An AI collaboration boosted the company behind the largest U.S. cloud service on Monday, Nov. 3, 2025, while shares of the two companies involved in a consumer goods deal saw major moves.",
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amazon-stock-jumps-after-openai-deal-kimberly-clark-acquires-kenvue-11842271",
-      "urlToImage": "https://www.investopedia.com/thmb/9rCeyn2DmdnZa_P8UaCBRQbZ19g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2243608165-96cd070cd92d4aa9b39df89886603011.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-11-03T21:21:51Z"
+      "title": "France investigates Shein and Temu after sex doll scandal - BBC",
+      "description": "Retailers Wish and AliExpress are also being investigated in relation to the offence of enabling minors to access pornographic content.",
+      "url": "https://www.bbc.com/news/articles/cx2lppx2jm7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e58d/live/c80eb480-b9ed-11f0-93bd-a7aa66396b66.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-11-05T02:55:57Z"
     },
     {
-      "title": "Amazon’s Deal With OpenAI Just Made Jeff Bezos $10 Billion Richer - Forbes",
-      "description": "Jeff Bezos’ stake in Amazon is up almost $30 billion since Friday.",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2025/11/03/jeff-bezos-becomes-10-billion-richer-as-amazons-openai-deal-boosts-stock/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69090d848a2b40234167090f/0x0.jpg?format=jpg&crop=1452,815,x837,y0,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-11-03T20:26:41Z"
+      "title": "American Airlines announces cuts to management at its Texas headquarters - abcnews.go.com",
+      "description": "American Airlines has announced plans to cut a small number of management and support roles, mainly at its headquarters in Fort Worth, Texas",
+      "url": "https://abcnews.go.com/Business/wireStory/american-airlines-announces-cuts-management-texas-headquarters-127192278",
+      "urlToImage": "https://i.abcnewsfe.com/a/e3ce9ac1-e080-4717-a861-1e48457ebcab/wirestory_79dc5f60ce850d4cf3fcb9b5fa53fefd_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-11-05T02:24:00Z"
     },
     {
-      "title": "Trump on Binance cryptocurrency tycoon he pardoned: \"I don't know who he is\" - CBS News",
-      "description": "President Trump told 60 Minutes he doesn't know the Binance crypto exchange founder he pardoned. Binance has done business with the Trump family's crypto firm World Liberty Financial.",
-      "url": "https://www.cbsnews.com/news/trump-binance-cryptocurrency-tycoon-he-pardoned-dont-know-who-he-is/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/02/e1af31ad-9a35-4b15-b8dc-e64a4ebea3b4/thumbnail/1200x630g1/403d82ded556f7fb40cbdab28f1a2f22/stills-clean-7.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-11-03T19:32:23Z"
+      "title": "FDA described as a “clown show” amid latest scandal; top drug regulator is out - Ars Technica",
+      "description": "FDA regulator accused of using position to exact revenge on old business associate.",
+      "url": "https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-496532228-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-11-04T23:24:50Z"
     },
     {
-      "title": "Exclusive | Trump Officials Torpedoed Nvidia’s Push to Export AI Chips to China - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/world/china/trump-nvidia-china-chip-exports-51e00415",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-03T19:27:00Z"
+      "title": "Palantir was the most expensive stock ever for a company of its size — until the selloff - MarketWatch",
+      "description": "Palantir’s stock falls sharply on Tuesday despite upbeat earnings, while its CEO criticizes short sellers",
+      "url": "https://www.marketwatch.com/story/palantir-was-the-most-expensive-stock-ever-for-a-company-of-its-size-until-the-selloff-623715c2",
+      "urlToImage": "https://images.mktw.net/im-44132245/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-11-04T21:19:00Z"
     },
     {
-      "title": "Speech by Governor Cook on the economic outlook and monetary policy - Federal Reserve Board (.gov)",
-      "description": "Thank you, David. I appreciate the opportunity to speak again at the Brookings Institution.  1     It is always an honor for me to return to the place where I",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20251103a.htm",
-      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
-      "source": "Federalreserve.gov",
-      "publishedAt": "2025-11-03T19:04:12Z"
+      "title": "AMD Reports Third Quarter 2025 Financial Results - AMD",
+      "description": "SANTA CLARA, Calif., Nov. 04, 2025 (GLOBE NEWSWIRE) -- AMD (NASDAQ:AMD) today announced financial results for the third quarter of 2025. Third…...",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1265/amd-reports-third-quarter-2025-financial-results",
+      "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_b8845d5977fb0e161fba826870ad15b3/amd/db/834/7308/social_image_resized.jpg",
+      "source": "Amd.com",
+      "publishedAt": "2025-11-04T21:18:26Z"
     },
     {
-      "title": "Hyundai’s EV sales plunged the moment the tax credit disappeared - Electrek",
-      "description": "Even with strong demand up until the federal tax credit expired, Hyundai’s EV sales crashed last month. Hyundai, Ford, Kia,...",
-      "url": "http://electrek.co/2025/11/03/hyundais-ev-sales-plunged-after-tax-credit-disappeared/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/12/Hyundais-all-solid-state-ev-batteries.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Trump close to deal to allow Medicare coverage of weight loss drugs - Axios",
+      "description": "A deal could significantly expand seniors' access to the popular drugs.",
+      "url": "https://www.axios.com/2025/11/04/trump-medicare-obesity-drugs-price-deal",
+      "urlToImage": "https://images.axios.com/fiLNZ5TGhC6Rzs0hbsLYqnsyU48=/1366x768/smart/2024/04/26/142752-1714141672006.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-11-04T21:13:09Z"
+    },
+    {
+      "title": "Novo Sweetens Its Bid For Metsera, Pledging Up To $10 Billion - Investor's Business Daily",
+      "description": "Novo Nordisk said it would pay up to $10 billion to acquire obesity-focused Metsera, topping Pfizer's recently hiked bid.",
+      "url": "https://www.investors.com/news/technology/novo-nordisk-metsera-pfizer-acquisition-battle/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/09/stock-NovoNordisk-02-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-11-04T21:12:00Z"
+    },
+    {
+      "title": "Cava cuts full-year forecast, in another warning sign for fast-casual restaurants - CNBC",
+      "description": "The Mediterranean chain reported same-store sales growth of 1.9% and flat traffic for the third quarter.",
+      "url": "https://www.cnbc.com/2025/11/04/cava-cava-q3-2025-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221204-1762274020755-gettyimages-2230141571-US_STOCKS.jpeg?v=1762274050&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-11-04T21:11:48Z"
+    },
+    {
+      "title": "Rivian (RIVN) Q3 2025 report: Revenues and deliveries rise, R2 closer than ever, plus a new AI co. - Electrek",
+      "description": "Rivian has just posted its latest letter to shareholders, detailing its financial numbers and accomplishments for Q3 2025.",
+      "url": "http://electrek.co/2025/11/04/rivian-rivn-q3-2025-report-revenues-deliveries-r2-new-ai-co/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Rivian-Q3-2025-R2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "Electrek",
-      "publishedAt": "2025-11-03T17:37:00Z"
+      "publishedAt": "2025-11-04T21:09:00Z"
     },
     {
-      "title": "Warren Buffett’s Cash Up to $382 Billion: 2 Dividend Stocks He Never Sells - 24/7 Wall St.",
-      "description": "Despite Berkshire Hathaway being a net seller of stocks for the past three years, Warren Buffett would never sell these two dividend stocks.",
-      "url": "https://247wallst.com/investing/2025/11/03/warren-buffetts-cash-up-to-382-billion-2-dividend-stocks-he-never-sells/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry4-50f.jpg",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2025-11-03T14:46:43Z"
+      "title": "Sam Bankman-Fried, serving 25-year sentence, faces a skeptical appeals court as his lawyers ask for a retrial - Business Insider",
+      "description": "An appeals court is weighing whether the FTX cofounder should get a new trial after he was sentenced to 25 years in prison for an $11 billion fraud.",
+      "url": "https://www.businessinsider.com/sam-bankman-fried-appeals-court-argument-ftx-new-trial-2025-11",
+      "urlToImage": "https://i.insider.com/690923d30be9845f2dc5a065?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-11-04T20:15:00Z"
     },
     {
-      "title": "Millennium Sells $2 Billion Minority Stake in Hedge Fund Firm - Bloomberg.com",
-      "description": "Izzy Englander sold a roughly 15% stake in his Millennium Management to a group of investors, helping to prepare one of the world’s largest hedge funds for a time when he no longer sits at the helm.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-03/millennium-sells-2-billion-minority-stake-in-hedge-fund-firm",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isfKQOQLRkJ8/v2/1200x800.jpg",
+      "title": "Uber Earnings Beat But Stock Falls - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/technology/uber-stock-q3-2025-earnings-uber-news/",
+      "urlToImage": null,
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-11-04T20:03:00Z"
+    },
+    {
+      "title": "Here's What Wall Street Analysts Are Saying About Palantir's Earnings as Its Stock Plunges - Investopedia",
+      "description": "Palantir shares tumbled to lead tech stocks lower a day after the AI software maker posted record revenues. Here's what analysts are saying about its results.",
+      "url": "https://www.investopedia.com/here-s-what-wall-street-analysts-are-saying-about-palantir-s-earnings-11843191",
+      "urlToImage": "https://www.investopedia.com/thmb/zJ5dmbJzCACPuowr66wrav1PbB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2242911164-6275bcc369cb4b7b9e0af369b76097a0.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-11-04T19:41:12Z"
+    },
+    {
+      "title": "Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25 - NPR",
+      "description": "Certain prepared pasta dishes were recalled from retailers like Trader Joe's, Kroger and Walmart between June and October. Health officials urge customers to dispose of them and clean their fridges.",
+      "url": "https://www.npr.org/2025/11/04/nx-s1-5598279/listeria-outbreak-prepared-pasta",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+159/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F952d3e024eb980183d35fe429221%2Fap24327847666171.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-11-04T19:28:38Z"
+    },
+    {
+      "title": "Bitcoin Crashes Under $100K for First Time Since May, Liquidations Hit $1.3 Billion - Decrypt",
+      "description": "Bitcoin just dropped below the $100,000 mark for the first time since May, with Ethereum, XRP, and other hit harder. Is the bull run over?",
+      "url": "https://decrypt.co/347305/bitcoin-crashes-under-100k-first-time-since-may-liquidations-hit-1-3-billion",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T18:57:33Z"
+    },
+    {
+      "title": "IBM to Cut Thousands of Roles in Focus on Software Growth - Bloomberg.com",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2025-11-04/ibm-to-cut-thousands-of-roles-in-focus-on-software-growth",
+      "urlToImage": null,
       "source": "Bloomberg",
-      "publishedAt": "2025-11-03T13:30:41Z"
+      "publishedAt": "2025-11-04T18:31:18Z"
+    },
+    {
+      "title": "Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package - TechCrunch",
+      "description": "Elon Musk is pushing for a $1 trillion performance pay package. Another major shareholder has said no.",
+      "url": "https://techcrunch.com/2025/11/04/norways-wealth-fund-vote-is-latest-blow-to-musks-1-trillion-pay-package/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-elon-illustration-getty.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-04T18:24:51Z"
+    },
+    {
+      "title": "Energy Department Announces $625 Million to Advance the Next Phase of National Quantum Information Science Research Centers - Department of Energy (.gov)",
+      "description": "The U.S. Department of Energy today announced $625 million in funding to renew its five National Quantum Information Science Research Centers.",
+      "url": "https://www.energy.gov/articles/energy-department-announces-625-million-advance-next-phase-national-quantum-information",
+      "urlToImage": "https://www.energy.gov/sites/default/files/2025-02/DOE%20Full%20Seal%20on%20white%20gray%20background%20-%201250x785_1.png",
+      "source": "Energy.gov",
+      "publishedAt": "2025-11-04T18:00:00Z"
     }
   ]
 }
