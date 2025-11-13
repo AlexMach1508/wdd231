@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2025-11-12T06:43:19.296Z",
+  "updatedAt": "2025-11-13T06:43:05.606Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Nintendo Switch 2 System Update 21.0.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-      "description": "Also available for Switch",
-      "url": "https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-0-is-now-live-here-are-the-full-patch-notes",
-      "urlToImage": "https://images.nintendolife.com/fa9dba6717b51/large.jpg",
+      "title": "BlazBlue is coming to PlayStation 5, Xbox and Nintendo Switch, but... - EventHubs",
+      "description": "Sony's latest State of Play event today had some exciting reveals for fighting game fans including Marvel Tokon: Fighting Souls' second beta test, but that wasn't technically all they had to offer.BlazBlue was also announced to be ...",
+      "url": "https://www.eventhubs.com/news/2025/nov/11/blazblue-console-return/",
+      "urlToImage": "https://media.eventhubs.com/images/2025/11/11-blazblue-console-returnt.webp",
+      "source": "EventHubs",
+      "publishedAt": "2025-11-12T02:17:48Z"
+    },
+    {
+      "title": "Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New \"Follow-Up\" Trailer - Nintendo Life",
+      "description": "Is that...?",
+      "url": "https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer",
+      "urlToImage": "https://images.nintendolife.com/3bc7515192e0e/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2025-11-11T04:00:00Z"
+      "publishedAt": "2025-11-12T00:05:00Z"
     },
     {
-      "title": "Weak sales delay next iPhone Air model, report claims - Mashable",
-      "description": "The wait shouldn't be interminable.",
-      "url": "https://mashable.com/article/iphone-air-delayed",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DRXGGB1FEmC9VU9nc7szm/hero-image.fill.size_1200x675.v1762830550.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-11-11T03:20:29Z"
+      "title": "Latest Switch 2 firmware update appears to be killing select third party docks - GoNintendo",
+      "description": "Docked, rocked and clocked",
+      "url": "https://www.gonintendo.com/contents/54866-latest-switch-2-firmware-update-appears-to-be-killing-select-third-party-docks",
+      "urlToImage": "https://gonintendo.com/attachments/image/73081/file/medium-dc13bab171844a127fed56ef31b6bd4e.jpg",
+      "source": "GoNintendo",
+      "publishedAt": "2025-11-11T23:29:07Z"
     },
     {
-      "title": "Samsung Releases Its Own MicroSD Express Cards at a Lower Price Than the Official Switch 2 Memory Card - IGN",
-      "description": "The official Switch 2 memory card is also manufactured by Samsung.",
-      "url": "https://www.ign.com/articles/samsung-releases-its-own-microsd-express-cards-at-a-lower-price-than-the-official-switch-2-memory-card",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/10/samsungp9-1762812424511.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-11-10T23:21:03Z"
+      "title": "PlayStation State Of Play November 2025: All The Biggest Announcements And Games - GameSpot",
+      "description": "The Asia-focused State of Play features updates and new game announcements from many Eastern studios.",
+      "url": "https://www.gamespot.com/gallery/playstation-state-of-play-november-2025-all-the-biggest-announcements-and-games/2900-7248/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4600747-state-of-play.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-11-11T23:15:27Z"
     },
     {
-      "title": "Researchers isolate memorization from reasoning in AI neural networks - Ars Technica",
-      "description": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
-      "url": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-11-10T23:06:42Z"
-    },
-    {
-      "title": "Nintendo Direct to Deliver First The Super Mario Galaxy Movie Trailer Later This Week - IGN",
-      "description": "Nintendo has announced the first The Super Mario Galaxy Movie trailer will arrive as part of a Nintendo Direct later this week.",
-      "url": "https://www.ign.com/articles/nintendo-direct-to-deliver-first-the-super-mario-galaxy-movie-trailer-later-this-week",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/12/the-super-mario-galaxy-movie-1757682782202.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-11-10T22:39:28Z"
-    },
-    {
-      "title": "Five Years of Apple Silicon: M1 to M5 Performance Comparison - MacRumors",
-      "description": "Today marks the fifth anniversary of the Apple silicon chip that replaced Intel chips in Apple's Mac lineup. The first Apple silicon chip, the...",
-      "url": "https://www.macrumors.com/2025/11/10/apple-silicon-m1-to-m5-comparison/",
-      "urlToImage": "https://images.macrumors.com/t/tF1olB3pkzfl6m7zNg9Ywn-x_XA=/1920x/article-new/2020/11/m1-chip-slide.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-11-10T21:08:04Z"
-    },
-    {
-      "title": "Google says its confusing Gemini Home rollout is going just great - The Verge",
-      "description": "Google is slowly replacing Google Assistant on its Nest Hub smart displays and smart speakers.",
-      "url": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
-      "source": "The Verge",
-      "publishedAt": "2025-11-10T20:02:57Z"
-    },
-    {
-      "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks - BleepingComputer",
-      "description": "CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp.",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2025-11-10T20:00:34Z"
-    },
-    {
-      "title": "Goodnight Universe Is A Messier, More Ambitious Before Your Eyes - Kotaku",
-      "description": "Goodnight Universe is still pretty novel, but it’s not as focused as the incredible Before Your Eyes",
-      "url": "https://kotaku.com/goodnight-universe-review-before-your-eyes-webcam-baby-2000642517",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/2416100_23321-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-11-10T19:14:45Z"
-    },
-    {
-      "title": "Apple iOS 26.2: Major New iPhone Update Release Confirmed — Here’s What’s In It - Forbes",
-      "description": "Apple is usually very coy about when its iPhone updates will arrive. But the next major update is on its way and Apple, for once, has said when it’s coming.",
-      "url": "https://www.forbes.com/sites/davidphelan/2025/11/10/apple-ios-262-next-key-iphone-update-release-date---apple-issues-rare-confirmation/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691235ad7df30f9652443c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-11-10T19:00:00Z"
-    },
-    {
-      "title": "Call of Duty: Black Ops 7 - What You Need to Know About Co-op Campaign, Endgame, and More - Xbox Wire",
-      "description": "With Black Ops 7 launching soon, we’re recapping some of the key storytelling moments that have led us to this point, as well as exploring some of the post-game content that will be available at launch with Endgame and more. Let’s dive in!",
-      "url": "https://news.xbox.com/en-us/2025/11/10/call-of-duty-black-ops-7-what-you-need-to-know-about-co-op-campaign-endgame-and-more/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/11/BO7-HERO-9fc6edddf252aafa7030.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2025-11-10T18:17:13Z"
-    },
-    {
-      "title": "New project brings strong Linux compatibility to more classic Windows games - Ars Technica",
-      "description": "But author warns that Direct3D 7 “is a land of highly cursed API inter-operability.”…",
-      "url": "https://arstechnica.com/gaming/2025/11/new-project-brings-strong-linux-compatibility-to-more-classic-windows-games/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/arxfatalis.png",
-      "source": "Ars Technica",
-      "publishedAt": "2025-11-10T18:09:28Z"
-    },
-    {
-      "title": "Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence [Update] - Kotaku",
-      "description": "Trap Plan CEO: 'Most players didn’t even realize they were part of a marketing effort.'",
-      "url": "https://kotaku.com/trap-plan-marketing-astroturf-warrobots-fake-reddit-accounts-posts-2000642503",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/redditech-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-11-10T18:05:22Z"
-    },
-    {
-      "title": "Following Firings And Grand Theft Auto VI Delay, Union Plans To Keep Pressure On Rockstar - aftermath.site",
-      "description": "\"When companies do something like this, you can't just slink away and hide anymore\"",
-      "url": "https://aftermath.site/grand-theft-auto-vi-delay-union-protest-rockstar/",
-      "urlToImage": "https://aftermath.site/content/images/size/w1200/2025/11/WhatsApp-Image-2025-11-06-at-09.13.39.jpeg",
-      "source": "Aftermath.site",
-      "publishedAt": "2025-11-10T17:58:47Z"
-    },
-    {
-      "title": "Don't Bother with Windows Mini PCs, Apple's Mac Mini Goes for Peanuts and Beats Them All - Kotaku",
-      "description": "This great M4-powered Mac mini packs 10-core CPU, 10-core GPU, and 16GB unified memory.",
-      "url": "https://kotaku.com/dont-bother-with-windows-mini-pcs-apples-mac-mini-goes-for-peanuts-and-beats-them-all-2000642438",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/10/mac-mini-m4.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-11-10T17:15:22Z"
-    },
-    {
-      "title": "Believe it or not, upcoming open-world RPG Where Winds Meet has over 10 million pre-registrations, here's why you should care - Eurogamer",
-      "description": "Believe it or not, upcoming open-world RPG Where Winds Meet has over 10 million pre-registrations, here's why you should care.",
-      "url": "https://www.eurogamer.net/believe-it-or-not-upcoming-open-world-rpg-where-winds-meet-has-over-10-million-pre-registrations-heres-why-you-should-care",
-      "urlToImage": "https://assetsio.gnwcdn.com/wwm_JjzBG6m.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Elden Ring: Nightreign's The Forsaken Hollows DLC will see an iconic Dark Souls boss return - Eurogamer",
+      "description": "Elden Ring: Nightreign DLC announced at Sony State of Play.",
+      "url": "https://www.eurogamer.net/elden-ring-nightreigns-the-forsaken-hollows-dlc-will-see-an-iconic-dark-souls-boss-return",
+      "urlToImage": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-The-Forsaken-Hollows-%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC%E3%80%902025.11%E3%80%91-1-22-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
-      "publishedAt": "2025-11-10T17:00:30Z"
+      "publishedAt": "2025-11-11T22:55:55Z"
     },
     {
-      "title": "Fallout 4: Anniversary Edition Now Available - Bethesda.net",
-      "description": "Step back into the Commonwealth with the definitive Fallout 4 experience, available now!",
-      "url": "https://bethesda.net/en/article/3IN7gxAs893fv09b7ZJ3I0/fallout-4-anniversary-edition-now-available",
-      "urlToImage": "https://images.ctfassets.net/rporu91m20dc/6hlCer1fEvKdCbhTIKmUkf/1139cc3a8dddf4617e6f0667c5a39ca7/Fallout4_LargeHero_AEAnnounce.png?fit=fill&w=1200&h=600",
-      "source": "Bethesda.net",
-      "publishedAt": "2025-11-10T16:51:15Z"
+      "title": "Sony launches cheaper Japan-only PlayStation 5 console - Financial Times",
+      "description": "Region-locked version at 25% discount in move to boost domestic sales",
+      "url": "https://www.ft.com/content/f6edb22a-0b19-4073-9e28-ec29b096dde3",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86ea7510-00ab-40cd-80fa-6558f77afd51.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-11-11T22:40:04Z"
     },
     {
-      "title": "Samsung Galaxy S26 Plus reappears in renders with a new camera island - The Verge",
-      "description": "The first leak renders of Samsung’s Galaxy S26 Plus reveal a familiar phone with a fresh camera island, different to the Edge phone it’s rumored to be replacing.",
-      "url": "https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-11-10T16:42:01Z"
+      "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing - Ars Technica",
+      "description": "New system allows devices to connect directly to secure space in Google’s AI servers.",
+      "url": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-11-11T21:34:10Z"
     },
     {
-      "title": "30 Years, Part 2 - Magic: The Gathering",
-      "description": "Mark continues his discussion of the 30 biggest changes to Magic design since he started working at Wizards, with topics that include hybrid mana, bonus sheets, and more!",
-      "url": "https://magic.wizards.com/en/news/making-magic/30-years-part-2",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/3lFvEzkJuTcUkag4ZZN25a/44ee5eb2e0f4655b6526c13b7b7eb249/RAV_Selesnya_Guildmage_960x540.jpg",
-      "source": "Wizards.com",
-      "publishedAt": "2025-11-10T16:09:49Z"
+      "title": "Best Black Friday Apple deals live — save big on AirPods, MacBooks, Apple Watch and more - Tom's Guide",
+      "description": "I’ve found the best Black Friday Apple deals starting from just $24",
+      "url": "https://www.tomsguide.com/sales-events/black-friday-apple-deals-live-from-usd24-save-up-to-34-percent-off-airpods-macbooks-airtags-apple-watch-and-more",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVEkyje3Ev3b2Grq8kMGBa-2000-80.jpg",
+      "source": "Tom's Guide",
+      "publishedAt": "2025-11-11T20:53:01Z"
+    },
+    {
+      "title": "Apple Confounds Some Fans With $230 Knit iPhone Crossbody Carrier - Forbes",
+      "description": "Some customers criticized the product for its steep price tag of between $150 and $230, comparing it unfavorably to Apple’s much cheaper, now-discontinued iPod Sock product.",
+      "url": "https://www.forbes.com/sites/conormurray/2025/11/11/apple-unveils-iphone-pouch-designed-by-steve-jobs-collaborator-but-some-criticize-high-price/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691396ecac9631849e6c2278/0x0.jpg?format=jpg&crop=4075,2292,x387,y192,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-11-11T20:06:07Z"
+    },
+    {
+      "title": "Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications - TechCrunch",
+      "description": "Google says the new power saving mode for Google Maps can save you up to four hours of battery life",
+      "url": "https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-11T19:00:00Z"
+    },
+    {
+      "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws - BleepingComputer",
+      "description": "Today is Microsoft's November 2025 Patch Tuesday, which includes security updates for 63 flaws, including one actively exploited zero-day vulnerability.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2025-11-11T18:45:29Z"
+    },
+    {
+      "title": "Apple Watch Series 11 Titanium Model Gets Big $120 Discount on Amazon, Plus More Watch Deals - macrumors.com",
+      "description": "Amazon today has a steep discount on the 46mm cellular Apple Watch Series 11 with the Natural Titanium Case and Natural Milanese Loop. You can get...",
+      "url": "https://www.macrumors.com/2025/11/11/apple-watch-series-11-discount/",
+      "urlToImage": "https://images.macrumors.com/t/sTyYBwwog3gSheqFhOsxAfAfD0g=/2500x/article-new/2025/11/apple-watch-series-11-red-snow.jpeg",
+      "source": "MacRumors",
+      "publishedAt": "2025-11-11T18:03:01Z"
+    },
+    {
+      "title": "Threads targets podcasters with new features, aiming to become the home for show discussions - TechCrunch",
+      "description": "Threads is targeting podcasters with new features, including dedicated links in the bio and more visible links in the feed.",
+      "url": "https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Threads_Podcasts.png?resize=1200,835",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-11T18:00:00Z"
+    },
+    {
+      "title": "The Game Awards 2025 to Stream on Prime Video in New Deal With Amazon - Variety",
+      "description": "The Game Awards will live stream on Amazon's Prime Video this December",
+      "url": "https://variety.com/2025/gaming/news/game-awards-streaming-amazon-prime-video-twitch-1236574939/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/11/The-Game-Awards-2024.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-11-11T17:01:00Z"
+    },
+    {
+      "title": "New Legend Of Zelda Lego Set Releasing 2026 - GameSpot",
+      "description": "The next Legend of Zelda set is hinting at Ganondorf getting a Lego transformation.",
+      "url": "https://www.gamespot.com/articles/new-legend-of-zelda-lego-set-releasing-2026/1100-6536126/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4600659-lego-zelda.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-11-11T16:39:05Z"
+    },
+    {
+      "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs - The New Stack",
+      "description": "A lively discussion about open source, security, and who pays the bills has erupted on Twitter.",
+      "url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
+      "urlToImage": "https://cdn.thenewstack.io/media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash.jpg",
+      "source": "Thenewstack.io",
+      "publishedAt": "2025-11-11T16:31:16Z"
+    },
+    {
+      "title": "Next year’s iPhone 18 lineup sounds like a major overhaul for Apple - 9to5Mac",
+      "description": "Rumors indicate that next year’s iPhone 18 lineup could a major departure for Apple from its typical iPhone offerings.",
+      "url": "https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-11-11T15:11:00Z"
     }
   ]
 }
