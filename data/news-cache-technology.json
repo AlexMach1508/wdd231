@@ -1,39 +1,143 @@
 {
-  "updatedAt": "2025-11-13T06:43:05.606Z",
+  "updatedAt": "2025-11-14T06:43:07.948Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "BlazBlue is coming to PlayStation 5, Xbox and Nintendo Switch, but... - EventHubs",
-      "description": "Sony's latest State of Play event today had some exciting reveals for fighting game fans including Marvel Tokon: Fighting Souls' second beta test, but that wasn't technically all they had to offer.BlazBlue was also announced to be ...",
-      "url": "https://www.eventhubs.com/news/2025/nov/11/blazblue-console-return/",
-      "urlToImage": "https://media.eventhubs.com/images/2025/11/11-blazblue-console-returnt.webp",
-      "source": "EventHubs",
-      "publishedAt": "2025-11-12T02:17:48Z"
+      "title": "The Next Horizon Game Is an MMO by NCSOFT for PC, Mobile - Push Square",
+      "description": "Announcement leaks early",
+      "url": "https://www.pushsquare.com/news/2025/11/the-next-horizon-game-is-an-mmo-by-ncsoft-for-pc-mobile",
+      "urlToImage": "https://images.pushsquare.com/89d6925ea4c7e/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-11-13T01:30:00Z"
     },
     {
-      "title": "Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New \"Follow-Up\" Trailer - Nintendo Life",
-      "description": "Is that...?",
-      "url": "https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer",
-      "urlToImage": "https://images.nintendolife.com/3bc7515192e0e/large.jpg",
+      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars Technica",
+      "description": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
+      "url": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-11-12T22:54:47Z"
+    },
+    {
+      "title": "Here’s how to photograph the northern lights lighting up St. Louis skies this week - STLPR",
+      "description": "Are you chasing the northern lights in Missouri and Illinois? St. Louis Public Radio Visuals Editor Brian Munoz shares how to spot the rare show — and document it on your phone or camera while it lasts.",
+      "url": "https://www.stlpr.org/health-science-environment/2025-11-12/how-photograph-northern-lights-missouri-illinois",
+      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/408e1ee/2147483647/strip/true/crop/3000x1575+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F86%2F30591ec24020bca93befbacf3e74%2F111125-bm-lights-2.jpg",
+      "source": "Stlpr.org",
+      "publishedAt": "2025-11-12T22:36:14Z"
+    },
+    {
+      "title": "Steam's new VR headset, Steam Frame, will support Android games - GamesIndustry.biz",
+      "description": "Valve has announced its new wireless VR headset, Steam Frame, will support Android games.",
+      "url": "https://www.gamesindustry.biz/steams-new-vr-headset-steam-frame-will-support-android-games",
+      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2025-11-12-at-18.22.01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2025-11-12T21:43:14Z"
+    },
+    {
+      "title": "Apple's passport-based Digital ID lands on iPhone and Apple Watch, starting at TSA - Axios",
+      "description": "Users can create an ID in Apple Wallet using U.S. passport information.",
+      "url": "https://www.axios.com/2025/11/12/apple-digital-id-tsa-airport-security",
+      "urlToImage": "https://images.axios.com/YhHbhlMNKG3DgVUugArK_ZAYGTI=/0x0:1920x1080/1366x768/2025/11/12/1762973111197.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-11-12T21:21:46Z"
+    },
+    {
+      "title": "Elon Musk’s X botched its security key switchover, locking users out - TechCrunch",
+      "description": "As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll — but are getting stuck in endless loops and unable to finish.",
+      "url": "https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-12T19:40:08Z"
+    },
+    {
+      "title": "'$230 for a cut-up sock' - Apple's new iPhone Pocket ridiculed online - BBC",
+      "description": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear.",
+      "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/309c/live/ca13b720-bfde-11f0-bbea-2df62eb90585.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-11-12T17:47:37Z"
+    },
+    {
+      "title": "The Best Tech Gifts of 2025 - Gizmodo",
+      "description": "Discover the Best Tech Gifts of 2025, from smart gadgets to must-have devices. Find cool holiday gift ideas and be the perfect Santa!",
+      "url": "https://gizmodo.com/best-tech-gifts-of-2025-2000680379",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Best-Tech-Gifts-of-2025_Featured-Image@2x-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-11-12T17:02:00Z"
+    },
+    {
+      "title": "Hideo Kojima Throws Cartoonist Under The Bus After Controversy - Kotaku",
+      "description": "The Death Stranding 2 director wanted to correct 'misunderstandings' on social media",
+      "url": "https://kotaku.com/hideo-kojima-deletes-photo-and-distances-himself-from-cartoonist-after-political-backlash-2000643454",
+      "urlToImage": "https://kotaku.com/app/uploads/2024/01/20a5bd29a987e4e0810eeb4e94be0ffa-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-11-12T16:40:51Z"
+    },
+    {
+      "title": "Where Winds Meet Review - IGN",
+      "description": "An action RPG amusement park where every ride is being run at half speed.",
+      "url": "https://www.ign.com/articles/where-winds-meet-review",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/12/wherewindsmeet-blogroll-1762910222630.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-12T16:02:04Z"
+    },
+    {
+      "title": "Even Realities G2 smart glasses bring a ‘spatial’ display and R1 controller ring - 9to5Google",
+      "description": "As competitors begin to flood the smart glasses market, Even Realities has unveiled the second addition to its lineup –...",
+      "url": "http://9to5google.com/2025/11/12/even-realities-launches-g2-smart-glasses-r1-control-ring/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Even-G2-and-R1-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-11-12T15:56:00Z"
+    },
+    {
+      "title": "iPhone 18 Pro Max will be thicker and heavier than ever, says leaker - 9to5Mac",
+      "description": "A new leak says the iPhone 18 Pro Max will get even thicker and heavier than iPhone 17 Pro Max, potentially giving users even more battery.",
+      "url": "https://9to5mac.com/2025/11/12/iphone-18-pro-max-will-be-thicker-and-heavier-than-ever-says-leaker/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-17-pro-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-11-12T14:26:00Z"
+    },
+    {
+      "title": "Sony’s new PlayStation gaming monitor has a charging stand for the DualSense controller - The Verge",
+      "description": "Sony’s new 27-inch gaming monitor for the PlayStation 5 has a folding controller charger and an expected arrival in 2026.",
+      "url": "https://www.theverge.com/news/818775/sony-playstation-5-ps5-monitor-qhd-dualsense-controller-charging-hook",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/sony1.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-12T13:58:33Z"
+    },
+    {
+      "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product - TechCrunch",
+      "description": "Marble is different from competitors like Odyssey, Decart, and Google's Genie because creates persistent, downloadable 3D environments rather than generating worlds on-the-fly as you explore.",
+      "url": "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/world-labs-mushroom-prompt.png?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-12T13:44:01Z"
+    },
+    {
+      "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack - The Hacker News",
+      "description": "Microsoft fixes 63 flaws, including an exploited Windows Kernel zero-day and a critical RCE bug.",
+      "url": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYsGcLHyK_kqDIY7BFmCJ4AE9H52XJOIWUJqYcOSdx0Zd3mSRUt1Z0obn3VXzWTbrZGysPwxK7Hte4CKCobzIee0kXOVOfhyphenhyphenKZhfI-jiDss_R1mNucatfeU0nklQI3kZDiQfzPpVIsgmZj9s4hXbNhP3XzR2ibeHdBezB6w1j_CTt3FrrOQgmse3pdpPX/s790-rw-e365/windows-update.jpg",
+      "source": "Internet",
+      "publishedAt": "2025-11-12T10:21:00Z"
+    },
+    {
+      "title": "Octopath Traveler 0 Demo Now Available For Switch And Switch 2, Save Data Carries Over - Nintendo Life",
+      "description": "Get a head start!",
+      "url": "https://www.nintendolife.com/news/2025/11/octopath-traveler-0-demo-now-available-for-switch-and-switch-2-save-data-carries-over",
+      "urlToImage": "https://images.nintendolife.com/20abd5b61208e/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2025-11-12T00:05:00Z"
+      "publishedAt": "2025-11-12T02:05:00Z"
     },
     {
-      "title": "Latest Switch 2 firmware update appears to be killing select third party docks - GoNintendo",
-      "description": "Docked, rocked and clocked",
-      "url": "https://www.gonintendo.com/contents/54866-latest-switch-2-firmware-update-appears-to-be-killing-select-third-party-docks",
-      "urlToImage": "https://gonintendo.com/attachments/image/73081/file/medium-dc13bab171844a127fed56ef31b6bd4e.jpg",
-      "source": "GoNintendo",
-      "publishedAt": "2025-11-11T23:29:07Z"
-    },
-    {
-      "title": "PlayStation State Of Play November 2025: All The Biggest Announcements And Games - GameSpot",
-      "description": "The Asia-focused State of Play features updates and new game announcements from many Eastern studios.",
-      "url": "https://www.gamespot.com/gallery/playstation-state-of-play-november-2025-all-the-biggest-announcements-and-games/2900-7248/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4600747-state-of-play.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-11-11T23:15:27Z"
+      "title": "Gemini in Google Drive can now make Audio Overviews of PDFs - 9to5Google",
+      "description": "After NotebookLM, Gemini, and Search, Audio Overviews are coming to Google Drive for conversational podcast-style summaries of PDFs.",
+      "url": "http://9to5google.com/2025/11/11/google-drive-audio-overviews/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Drive-Audio-Overviews-PDF-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-11-11T23:24:00Z"
     },
     {
       "title": "Elden Ring: Nightreign's The Forsaken Hollows DLC will see an iconic Dark Souls boss return - Eurogamer",
@@ -42,102 +146,6 @@
       "urlToImage": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-The-Forsaken-Hollows-%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC%E3%80%902025.11%E3%80%91-1-22-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
       "publishedAt": "2025-11-11T22:55:55Z"
-    },
-    {
-      "title": "Sony launches cheaper Japan-only PlayStation 5 console - Financial Times",
-      "description": "Region-locked version at 25% discount in move to boost domestic sales",
-      "url": "https://www.ft.com/content/f6edb22a-0b19-4073-9e28-ec29b096dde3",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86ea7510-00ab-40cd-80fa-6558f77afd51.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-11-11T22:40:04Z"
-    },
-    {
-      "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing - Ars Technica",
-      "description": "New system allows devices to connect directly to secure space in Google’s AI servers.",
-      "url": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-11-11T21:34:10Z"
-    },
-    {
-      "title": "Best Black Friday Apple deals live — save big on AirPods, MacBooks, Apple Watch and more - Tom's Guide",
-      "description": "I’ve found the best Black Friday Apple deals starting from just $24",
-      "url": "https://www.tomsguide.com/sales-events/black-friday-apple-deals-live-from-usd24-save-up-to-34-percent-off-airpods-macbooks-airtags-apple-watch-and-more",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVEkyje3Ev3b2Grq8kMGBa-2000-80.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2025-11-11T20:53:01Z"
-    },
-    {
-      "title": "Apple Confounds Some Fans With $230 Knit iPhone Crossbody Carrier - Forbes",
-      "description": "Some customers criticized the product for its steep price tag of between $150 and $230, comparing it unfavorably to Apple’s much cheaper, now-discontinued iPod Sock product.",
-      "url": "https://www.forbes.com/sites/conormurray/2025/11/11/apple-unveils-iphone-pouch-designed-by-steve-jobs-collaborator-but-some-criticize-high-price/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691396ecac9631849e6c2278/0x0.jpg?format=jpg&crop=4075,2292,x387,y192,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-11-11T20:06:07Z"
-    },
-    {
-      "title": "Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications - TechCrunch",
-      "description": "Google says the new power saving mode for Google Maps can save you up to four hours of battery life",
-      "url": "https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
-      "source": "TechCrunch",
-      "publishedAt": "2025-11-11T19:00:00Z"
-    },
-    {
-      "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws - BleepingComputer",
-      "description": "Today is Microsoft's November 2025 Patch Tuesday, which includes security updates for 63 flaws, including one actively exploited zero-day vulnerability.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2025-11-11T18:45:29Z"
-    },
-    {
-      "title": "Apple Watch Series 11 Titanium Model Gets Big $120 Discount on Amazon, Plus More Watch Deals - macrumors.com",
-      "description": "Amazon today has a steep discount on the 46mm cellular Apple Watch Series 11 with the Natural Titanium Case and Natural Milanese Loop. You can get...",
-      "url": "https://www.macrumors.com/2025/11/11/apple-watch-series-11-discount/",
-      "urlToImage": "https://images.macrumors.com/t/sTyYBwwog3gSheqFhOsxAfAfD0g=/2500x/article-new/2025/11/apple-watch-series-11-red-snow.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2025-11-11T18:03:01Z"
-    },
-    {
-      "title": "Threads targets podcasters with new features, aiming to become the home for show discussions - TechCrunch",
-      "description": "Threads is targeting podcasters with new features, including dedicated links in the bio and more visible links in the feed.",
-      "url": "https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Threads_Podcasts.png?resize=1200,835",
-      "source": "TechCrunch",
-      "publishedAt": "2025-11-11T18:00:00Z"
-    },
-    {
-      "title": "The Game Awards 2025 to Stream on Prime Video in New Deal With Amazon - Variety",
-      "description": "The Game Awards will live stream on Amazon's Prime Video this December",
-      "url": "https://variety.com/2025/gaming/news/game-awards-streaming-amazon-prime-video-twitch-1236574939/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/11/The-Game-Awards-2024.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-11-11T17:01:00Z"
-    },
-    {
-      "title": "New Legend Of Zelda Lego Set Releasing 2026 - GameSpot",
-      "description": "The next Legend of Zelda set is hinting at Ganondorf getting a Lego transformation.",
-      "url": "https://www.gamespot.com/articles/new-legend-of-zelda-lego-set-releasing-2026/1100-6536126/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4600659-lego-zelda.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-11-11T16:39:05Z"
-    },
-    {
-      "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs - The New Stack",
-      "description": "A lively discussion about open source, security, and who pays the bills has erupted on Twitter.",
-      "url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
-      "urlToImage": "https://cdn.thenewstack.io/media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash.jpg",
-      "source": "Thenewstack.io",
-      "publishedAt": "2025-11-11T16:31:16Z"
-    },
-    {
-      "title": "Next year’s iPhone 18 lineup sounds like a major overhaul for Apple - 9to5Mac",
-      "description": "Rumors indicate that next year’s iPhone 18 lineup could a major departure for Apple from its typical iPhone offerings.",
-      "url": "https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-11-11T15:11:00Z"
     }
   ]
 }
