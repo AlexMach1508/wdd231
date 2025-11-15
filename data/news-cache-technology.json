@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2025-11-14T06:43:07.948Z",
+  "updatedAt": "2025-11-15T06:38:04.733Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "The Next Horizon Game Is an MMO by NCSOFT for PC, Mobile - Push Square",
-      "description": "Announcement leaks early",
-      "url": "https://www.pushsquare.com/news/2025/11/the-next-horizon-game-is-an-mmo-by-ncsoft-for-pc-mobile",
-      "urlToImage": "https://images.pushsquare.com/89d6925ea4c7e/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-11-13T01:30:00Z"
-    },
-    {
-      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars Technica",
-      "description": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
-      "url": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-11-12T22:54:47Z"
-    },
-    {
-      "title": "Here’s how to photograph the northern lights lighting up St. Louis skies this week - STLPR",
-      "description": "Are you chasing the northern lights in Missouri and Illinois? St. Louis Public Radio Visuals Editor Brian Munoz shares how to spot the rare show — and document it on your phone or camera while it lasts.",
-      "url": "https://www.stlpr.org/health-science-environment/2025-11-12/how-photograph-northern-lights-missouri-illinois",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/408e1ee/2147483647/strip/true/crop/3000x1575+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F86%2F30591ec24020bca93befbacf3e74%2F111125-bm-lights-2.jpg",
-      "source": "Stlpr.org",
-      "publishedAt": "2025-11-12T22:36:14Z"
-    },
-    {
-      "title": "Steam's new VR headset, Steam Frame, will support Android games - GamesIndustry.biz",
-      "description": "Valve has announced its new wireless VR headset, Steam Frame, will support Android games.",
-      "url": "https://www.gamesindustry.biz/steams-new-vr-headset-steam-frame-will-support-android-games",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2025-11-12-at-18.22.01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2025-11-12T21:43:14Z"
-    },
-    {
-      "title": "Apple's passport-based Digital ID lands on iPhone and Apple Watch, starting at TSA - Axios",
-      "description": "Users can create an ID in Apple Wallet using U.S. passport information.",
-      "url": "https://www.axios.com/2025/11/12/apple-digital-id-tsa-airport-security",
-      "urlToImage": "https://images.axios.com/YhHbhlMNKG3DgVUugArK_ZAYGTI=/0x0:1920x1080/1366x768/2025/11/12/1762973111197.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-11-12T21:21:46Z"
-    },
-    {
-      "title": "Elon Musk’s X botched its security key switchover, locking users out - TechCrunch",
-      "description": "As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll — but are getting stuck in endless loops and unable to finish.",
-      "url": "https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-11-12T19:40:08Z"
-    },
-    {
-      "title": "'$230 for a cut-up sock' - Apple's new iPhone Pocket ridiculed online - BBC",
-      "description": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear.",
-      "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/309c/live/ca13b720-bfde-11f0-bbea-2df62eb90585.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-12T17:47:37Z"
-    },
-    {
-      "title": "The Best Tech Gifts of 2025 - Gizmodo",
-      "description": "Discover the Best Tech Gifts of 2025, from smart gadgets to must-have devices. Find cool holiday gift ideas and be the perfect Santa!",
-      "url": "https://gizmodo.com/best-tech-gifts-of-2025-2000680379",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Best-Tech-Gifts-of-2025_Featured-Image@2x-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-11-12T17:02:00Z"
-    },
-    {
-      "title": "Hideo Kojima Throws Cartoonist Under The Bus After Controversy - Kotaku",
-      "description": "The Death Stranding 2 director wanted to correct 'misunderstandings' on social media",
-      "url": "https://kotaku.com/hideo-kojima-deletes-photo-and-distances-himself-from-cartoonist-after-political-backlash-2000643454",
-      "urlToImage": "https://kotaku.com/app/uploads/2024/01/20a5bd29a987e4e0810eeb4e94be0ffa-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-11-12T16:40:51Z"
-    },
-    {
-      "title": "Where Winds Meet Review - IGN",
-      "description": "An action RPG amusement park where every ride is being run at half speed.",
-      "url": "https://www.ign.com/articles/where-winds-meet-review",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/12/wherewindsmeet-blogroll-1762910222630.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-11-12T16:02:04Z"
-    },
-    {
-      "title": "Even Realities G2 smart glasses bring a ‘spatial’ display and R1 controller ring - 9to5Google",
-      "description": "As competitors begin to flood the smart glasses market, Even Realities has unveiled the second addition to its lineup –...",
-      "url": "http://9to5google.com/2025/11/12/even-realities-launches-g2-smart-glasses-r1-control-ring/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Even-G2-and-R1-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-11-12T15:56:00Z"
-    },
-    {
-      "title": "iPhone 18 Pro Max will be thicker and heavier than ever, says leaker - 9to5Mac",
-      "description": "A new leak says the iPhone 18 Pro Max will get even thicker and heavier than iPhone 17 Pro Max, potentially giving users even more battery.",
-      "url": "https://9to5mac.com/2025/11/12/iphone-18-pro-max-will-be-thicker-and-heavier-than-ever-says-leaker/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-17-pro-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-11-12T14:26:00Z"
-    },
-    {
-      "title": "Sony’s new PlayStation gaming monitor has a charging stand for the DualSense controller - The Verge",
-      "description": "Sony’s new 27-inch gaming monitor for the PlayStation 5 has a folding controller charger and an expected arrival in 2026.",
-      "url": "https://www.theverge.com/news/818775/sony-playstation-5-ps5-monitor-qhd-dualsense-controller-charging-hook",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/sony1.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-11-12T13:58:33Z"
-    },
-    {
-      "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product - TechCrunch",
-      "description": "Marble is different from competitors like Odyssey, Decart, and Google's Genie because creates persistent, downloadable 3D environments rather than generating worlds on-the-fly as you explore.",
-      "url": "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/world-labs-mushroom-prompt.png?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2025-11-12T13:44:01Z"
-    },
-    {
-      "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack - The Hacker News",
-      "description": "Microsoft fixes 63 flaws, including an exploited Windows Kernel zero-day and a critical RCE bug.",
-      "url": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYsGcLHyK_kqDIY7BFmCJ4AE9H52XJOIWUJqYcOSdx0Zd3mSRUt1Z0obn3VXzWTbrZGysPwxK7Hte4CKCobzIee0kXOVOfhyphenhyphenKZhfI-jiDss_R1mNucatfeU0nklQI3kZDiQfzPpVIsgmZj9s4hXbNhP3XzR2ibeHdBezB6w1j_CTt3FrrOQgmse3pdpPX/s790-rw-e365/windows-update.jpg",
-      "source": "Internet",
-      "publishedAt": "2025-11-12T10:21:00Z"
-    },
-    {
-      "title": "Octopath Traveler 0 Demo Now Available For Switch And Switch 2, Save Data Carries Over - Nintendo Life",
-      "description": "Get a head start!",
-      "url": "https://www.nintendolife.com/news/2025/11/octopath-traveler-0-demo-now-available-for-switch-and-switch-2-save-data-carries-over",
-      "urlToImage": "https://images.nintendolife.com/20abd5b61208e/large.jpg",
+      "title": "Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are The Full Patch Notes - Nintendo Life",
+      "description": "Join in on the fun this weekend",
+      "url": "https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes",
+      "urlToImage": "https://images.nintendolife.com/d5cc7d4d9aed9/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2025-11-12T02:05:00Z"
+      "publishedAt": "2025-11-14T01:55:00Z"
     },
     {
-      "title": "Gemini in Google Drive can now make Audio Overviews of PDFs - 9to5Google",
-      "description": "After NotebookLM, Gemini, and Search, Audio Overviews are coming to Google Drive for conversational podcast-style summaries of PDFs.",
-      "url": "http://9to5google.com/2025/11/11/google-drive-audio-overviews/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Drive-Audio-Overviews-PDF-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-11-11T23:24:00Z"
+      "title": "Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here’s Everything Coming in December and Beyond - The Game Post",
+      "description": "Bungie has finally released the long-awaited Destiny 2: Renegades roadmap after months of silence.",
+      "url": "https://thegamepost.com/bungie-destiny-2-renegades-roadmap/",
+      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/11/destiny-2-renegades-roadmap-74.jpg",
+      "source": "Thegamepost.com",
+      "publishedAt": "2025-11-13T22:37:57Z"
     },
     {
-      "title": "Elden Ring: Nightreign's The Forsaken Hollows DLC will see an iconic Dark Souls boss return - Eurogamer",
-      "description": "Elden Ring: Nightreign DLC announced at Sony State of Play.",
-      "url": "https://www.eurogamer.net/elden-ring-nightreigns-the-forsaken-hollows-dlc-will-see-an-iconic-dark-souls-boss-return",
-      "urlToImage": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-The-Forsaken-Hollows-%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC%E3%80%902025.11%E3%80%91-1-22-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Morning America",
+      "description": "Apple's new accessory offers a stylish way to carry your iPhone.",
+      "url": "https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542",
+      "urlToImage": "https://i.abcnewsfe.com/a/03e200cc-b18f-41bc-b452-89aaf08866ac/Apple-iPhone-Pocket-and-ISSEY-MIYAKE-short-strap-colors_1763060184851_hpMain_16x9.jpg?w=992",
+      "source": "GMA",
+      "publishedAt": "2025-11-13T22:27:12Z"
+    },
+    {
+      "title": "Red Dead Redemption Coming to Netflix, iOS, Android, PS5, Xbox Series, and Nintendo Switch 2 - Rockstar Games",
+      "description": "On December 2, the epic Western adventures Red Dead Redemption and Undead Nightmare will be available for the latest mobile devices and on current generation consoles — with free upgrades, the ability to carry over game progress, and a number of...",
+      "url": "https://www.rockstargames.com/newswire/article/258282o585k1ka/red-dead-redemption-coming-to-netflix-ios-android-ps5-xbox-series-and",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/258282o585k1ka/e936732db7a9443655398440a5e3e0e894afc4f2.jpg",
+      "source": "Rockstargames.com",
+      "publishedAt": "2025-11-13T19:08:22Z"
+    },
+    {
+      "title": "Mozilla announces an AI ‘window’ for Firefox - The Verge",
+      "description": "Mozilla says it is building an AI window for its Firefox browser.",
+      "url": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Firefox-AI-Window-1920x1080-2.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-13T17:26:41Z"
+    },
+    {
+      "title": "Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types - TechCrunch",
+      "description": "The service is rolling out \"Deep Research,\" a tool that will automate and simplify complex online research.",
+      "url": "https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2199793091.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-13T17:00:00Z"
+    },
+    {
+      "title": "‘ARC Raiders’ Stella Montis Map Unlock Event Progressing After Goals Increase - Forbes",
+      "description": "ARC Raiders has started its new community event to unlock the new Stella Mortis map, but they had to increase the goals already.",
+      "url": "https://www.forbes.com/sites/paultassi/2025/11/13/arc-raiders-stella-montis-map-unlock-event-progressing-after-goals-increase/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/691601d67a1de87097191686/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-11-13T16:08:22Z"
+    },
+    {
+      "title": "Valve announces new Steam Machine console: Price, specs, release date - Mashable",
+      "description": "What's in the box?",
+      "url": "https://mashable.com/article/valve-steam-machine-console-specs-price-release-date",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02gUdipVXeEvGtJFN53PTmx/hero-image.fill.size_1200x675.v1763047927.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-11-13T15:41:18Z"
+    },
+    {
+      "title": "Lay a Proper Foundation in New Listings - Rockstar Games",
+      "description": "There's a new entrant in the Los Santos high-end real estate scene, and they're making moves into some of the most exclusive neighborhoods. Prix Luxury Real Estate has ambitious plans, bringing new unrivaled mansion properties to this lucrative market...",
+      "url": "https://www.rockstargames.com/newswire/article/3921419k23a552/lay-a-proper-foundation-in-new-listings",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/3921419k23a552/a3e1dc80f43ee79a8e1cc58d55ef7230f94300bd.jpg",
+      "source": "Rockstargames.com",
+      "publishedAt": "2025-11-13T14:55:18Z"
+    },
+    {
+      "title": "Pokémon Pokopia Trailer Showcases Animal Crossing-Style Gameplay — Plus A Mysterious Pale Pikachu, Mossy Snorlax and Professor Tangrowth - IGN",
+      "description": "An extended trailer for Pokémon Pokopia has offered a deep dive into the upcoming Animal Crossing-like life sim, and a curious first-look at some new Pokémon designs.",
+      "url": "https://www.ign.com/articles/pokmon-pokopia-trailer-showcases-animal-crossing-style-gameplay-plus-a-mysterious-pale-pikachu-mossy-snorlax-and-professor-tangrowth",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/13/pokmon-pokopia-extended-trailer-00-11-12-1763043403695.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-13T14:37:30Z"
+    },
+    {
+      "title": "Dispatch writer regrets cutting sex scenes - Eurogamer",
+      "description": "Dispatch writer Pierre Shorette regrets cutting sex scenes from AdHoc's episodic superhero workplace comedy.",
+      "url": "https://www.eurogamer.net/dispatch-writer-regrets-cutting-sex-scenes",
+      "urlToImage": "https://assetsio.gnwcdn.com/Robert-does-up-Blonde-Blazer's-dress-in-Dispatch.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
-      "publishedAt": "2025-11-11T22:55:55Z"
+      "publishedAt": "2025-11-13T14:10:34Z"
+    },
+    {
+      "title": "Spotify’s new audiobook recap feature uses AI to remind you of the story so far - The Verge",
+      "description": "Spotify launches AI-generated summaries of audiobooks to catch listeners up on what they’ve already heard.",
+      "url": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RecapsProduct.jpg?quality=90&strip=all&crop=0%2C15.104229782835%2C100%2C69.79154043433&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-13T13:30:00Z"
+    },
+    {
+      "title": "As the Fallout 4 Anniversary Edition causes chaos, Bethesda promises two patches, but you'll be waiting a while - PCGamesN",
+      "description": null,
+      "url": "https://www.pcgamesn.com/fallout-4/anniversary-edition-update-roadmap",
+      "urlToImage": null,
+      "source": "PCGamesN",
+      "publishedAt": "2025-11-13T12:57:42Z"
+    },
+    {
+      "title": "How to play Black Ops 7 early - New Zealand trick guide - PCGamesN",
+      "description": null,
+      "url": "https://www.pcgamesn.com/call-of-duty-black-ops-7/play-early-new-zealand-trick",
+      "urlToImage": null,
+      "source": "PCGamesN",
+      "publishedAt": "2025-11-13T11:45:20Z"
+    },
+    {
+      "title": "Google Messages starts testing @mentions in RCS group chats - 9to5Google",
+      "description": "After work got underway earlier this year, Google Messages is beginning to roll out @mentions in RCS group conversations.",
+      "url": "http://9to5google.com/2025/11/12/google-messages-group-mentions/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Google-Messages-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-11-13T05:08:00Z"
+    },
+    {
+      "title": "NCSOFT UNVEILS HORIZON STEEL FRONTIERS, A NEW MMORPG SET IN THE HORIZON UNIVERSE - Sony Interactive Entertainment",
+      "description": "Horizon Steel Frontiers, a new MMORPG set in the Horizon Universe showcasing Horizon’s signature hunting action and advanced combat system for large-scale, cross-platform for mobile and PC",
+      "url": "https://sonyinteractive.com/en/press-releases/2025/ncsoft-unveils-horizon-steel-frontiers/",
+      "urlToImage": "https://sonyinteractive.com/uploads/2025/11/HorizonSteel-1-1024x573.png",
+      "source": "Sonyinteractive.com",
+      "publishedAt": "2025-11-13T05:03:45Z"
+    },
+    {
+      "title": "Google makes it easier for businesses to run Windows apps on ChromeOS amid an uncertain future - 9to5Google",
+      "description": "Google is giving Cameyo, the software virtualization company it bought last year, a reboot to make it easier to run...",
+      "url": "http://9to5google.com/2025/11/12/google-cameyo-reboot-windows-apps-chromeos/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/google-cameyo-chrome-os-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-11-12T17:20:00Z"
     }
   ]
 }

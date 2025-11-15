@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2025-11-14T06:43:07.997Z",
+  "updatedAt": "2025-11-15T06:38:04.830Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Walt Disney (DIS) Will Report Q4 Earnings Today. Here’s What to Expect - TipRanks",
-      "description": "Walt Disney ($DIS) is set to release its fourth-quarter FY25 results today, November 13. The stock is up about 5% in 2025, helped by signs of improvement in its str...",
-      "url": "https://www.tipranks.com/news/walt-disney-dis-will-report-q4-earnings-today-heres-what-to-expect",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/shutterstock_2341277801-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-11-13T02:42:10Z"
-    },
-    {
-      "title": "Asian Traders Cautious as Data Void Clouds Outlook: Markets Wrap - Bloomberg.com",
-      "description": "Global shares held a three-day gain that took them to within touching distance of a record high as the US House passed a bill to end the longest-ever government shutdown.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-12/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVoq78y33Umc/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2025-11-13T01:58:00Z"
-    },
-    {
-      "title": "We're increasing our Cisco Systems price target after an AI-fueled beat and raise - CNBC",
-      "description": "Another quarter of double-digit order growth proves Cisco is an underrated winner from the AI infrastructure buildout.",
-      "url": "https://www.cnbc.com/2025/11/12/were-increasing-our-cisco-systems-price-target-after-an-ai-fueled-beat-and-raise.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185657-1755118736019-gettyimages-2229984514-_73a6879_zqr4tdoz.jpeg?v=1762994873&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-11-13T01:05:00Z"
-    },
-    {
-      "title": "Despite YouTube TV blackout, Eagles-Packers generates 20.6 million viewers - NBC Sports",
-      "description": "The YouTube TV blackout of Disney-owned channels has kept a pair of Monday Night Football games from being televised to millions of viewers.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-youtube-tv-blackout-eagles-packers-generates-20-6-million-viewers",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/846827b/2147483647/strip/true/crop/5519x3104+0+287/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F76%2F6d70c7be46f1abee72b600ea9766%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1237517023",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-11-13T00:01:28Z"
-    },
-    {
-      "title": "What will companies do without pennies? We asked McDonald's, Wendy's, Kroger and other top retailers. - CBS News",
-      "description": "The U.S. Mint in Philadelphia pressed its last circulating penny on Wednesday, after President Trump earlier this year directed the Treasury to stop minting new one-cent coins.",
-      "url": "https://www.cbsnews.com/news/pennies-retailers-mcdonalds-wendys-kroger/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/12/34e4e3e0-fdc6-4d8b-b09a-80befe939aaf/thumbnail/1200x630g9/9edcf36822f1ea3b0d56666cc93891d5/gettyimages-2245830181.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-11-12T23:25:00Z"
-    },
-    {
-      "title": "3 questions about Trump's 50-year mortgage plan - NPR",
-      "description": "Experts in the mortgage industry are skeptical. Buyers would pay less each month, but would end up paying more over time. Here's what to know about the proposed 50-year mortgages.",
-      "url": "https://www.npr.org/2025/11/12/nx-s1-5604384/50-year-mortgage-trump-housing-explainer",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F46%2Fe77a6cf44678a59a8e50036d0a98%2Fgettyimages-1468619453.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-11-12T23:22:08Z"
-    },
-    {
-      "title": "Bitcoin Q-Day on the Horizon? New IBM Quantum Chip Expected to Hit Another Milestone - Decrypt",
-      "description": "IBM said its new processors and software breakthroughs will speed its path toward fault-tolerant quantum computing by 2029.",
-      "url": "https://decrypt.co/348350/ibm-takes-next-step-to-quantum-advantage-with-new-nighthawk-chip",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/ibm-quantum-gID_7.jpg",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-12T22:31:02Z"
-    },
-    {
-      "title": "AMD Stock Rises After Chipmaker Raises Financial Targets - Investor's Business Daily",
-      "description": "Analysts gave positive but cautious takes on the long-term strategy outlined by chipmaker Advanced Micro Devices. AMD stock rose.",
-      "url": "https://www.investors.com/news/technology/amd-stock-chipmaker-ups-targets-financial-analyst-day/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/03/Stock-AMD-Austin-company.jpg",
+      "title": "Dow Jones Futures: Stock Market Tumbles As Tesla, Nvidia, Palantir Sell Off - Investor's Business Daily",
+      "description": "The key indexes fell below important levels while tech leaders plunged.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-nvidia-palantir-sell-off/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/03/Stock-bearsmilewater-genAI-01-adobe.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2025-11-12T21:37:00Z"
+      "publishedAt": "2025-11-14T01:43:00Z"
     },
     {
-      "title": "Is Google Drive Down? Thousands Report Issues - Forbes",
-      "description": "Users were reporting problems with Google, Google Drive, Google Docs and Google Workspace on Wednesday.",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2025/11/12/google-drive-outages-reported-thousands-flag-problems-wednesday-afternoon/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6914ce82ac7ff1527a8c24f0/0x0.jpg?format=jpg&crop=3888,2187,x0,y200,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-11-12T21:32:40Z"
+      "title": "Asian Stocks to Fall as Fed Rate Cut Doubts Emerge: Markets Wrap - Bloomberg.com",
+      "description": "Asian stocks stumbled after four consecutive days of gains as uncertainty over Federal Reserve interest-rate cuts and stretched technology valuations weighed on sentiment.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-13/asian-stocks-to-fall-as-fed-rate-cut-doubts-emerge-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie5f0CC08R_M/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-14T01:10:00Z"
     },
     {
-      "title": "S&P 500 Gains and Losses Today: AMD Surges on Upbeat Outlook; Palantir Stock Slides - Investopedia",
-      "description": "A chipmaker got a boost on Wednesday, Nov. 12, 2025, following its first analyst day, while an AI software darling pared back some of its recent gains.",
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amd-surges-on-upbeat-outlook-palantir-stock-slides-11848136",
-      "urlToImage": "https://www.investopedia.com/thmb/_wWl0gyF8d938wFgdEZjbYOLvw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2239231494-c617b8ecc9bc4ed79c5ad6fd111606d1.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-11-12T21:22:17Z"
-    },
-    {
-      "title": "Amazon plans to absorb Whole Foods' entire workforce as part of 'Project Cremini' - Business Insider",
-      "description": "The high-end grocery chain has operated separately from Amazon for years. That is about to change in dramatic ways.",
-      "url": "https://www.businessinsider.com/amazon-whole-foods-absorb-workforce-project-cremini-2025-11",
-      "urlToImage": "https://i.insider.com/6913e0c962a04500b316363c?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-11-12T20:10:00Z"
-    },
-    {
-      "title": "Atlanta Fed President Bostic to Retire Ahead of Reappointment Process - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c",
-      "urlToImage": null,
+      "title": "Exclusive | Paramount, Comcast, Netflix Prepare Bids for Warner as Deadline Approaches - The Wall Street Journal",
+      "description": "Warner Bros. Discovery is holding an auction process in the hopes of having it completed by the end of the year",
+      "url": "https://www.wsj.com/business/media/paramount-comcast-netflix-prepare-bids-for-warner-as-deadline-approaches-999cbec3",
+      "urlToImage": "https://images.wsj.net/im-08302052/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-12T20:09:00Z"
+      "publishedAt": "2025-11-13T23:42:00Z"
     },
     {
-      "title": "Skims valued at $5 billion after new funding round as it accelerates store expansion - CNBC",
-      "description": "Kim Kardashian's Skims raised $225 million from Goldman Sachs, valuing the brand at $5 billion. The capital will fund expansion and could delay an expected IPO.",
-      "url": "https://www.cnbc.com/2025/11/12/skims-5-billion-valuation-funding-round.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108121079-1742927804135-gettyimages-2206877420-img_4433_cd0vuqds.jpeg?v=1742927844&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-11-12T20:06:38Z"
+      "title": "Top Fannie Mae officials ousted after sounding alarm on sharing confidential housing data - AP News",
+      "description": "A confidant of Bill Pulte, the Trump administration’s top housing regulator, provided confidential mortgage pricing data from Fannie Mae to a principal competitor. Emails reviewed by The Associated Press reveal the disclosure alarmed senior officials of the g…",
+      "url": "https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746",
+      "urlToImage": "https://dims.apnews.com/dims4/default/24a6530/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2Fee%2Fb7d0f2d74c3d3abdd55174c25ac4%2Fd77f43de2652440690bc3652a3daa0e7",
+      "source": "Associated Press",
+      "publishedAt": "2025-11-13T23:26:00Z"
     },
     {
-      "title": "White House: Key economic reports impacted by shutdown may not be released - NBC News",
-      "description": "The White House said Wednesday it was unlikely that key federal inflation and labor reports impacted by the government shutdown would be released.",
-      "url": "https://www.nbcnews.com/business/economy/shutdown-jobs-report-inflation-rcna243533",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251112-dept-of-labor-gk-d9e2fb.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-11-12T19:27:52Z"
-    },
-    {
-      "title": "Siemens plans to deconsolidate Siemens Healthineers - Siemens press",
-      "description": "Siemens plans to deconsolidate Siemens Healthineers by transferring\n30 percent of Siemens Healthineers shares to Siemens ...",
-      "url": "https://press.siemens.com/global/en/pressrelease/siemens-plans-deconsolidate-siemens-healthineers",
-      "urlToImage": "https://assets.new.siemens.com/siemens/assets/api/uuid:c806345f-35b8-4ad0-8110-3bcde933e095/width:1024/press-folders-01.jpg",
-      "source": "Siemens.com",
-      "publishedAt": "2025-11-12T17:54:25Z"
-    },
-    {
-      "title": "Ford CEO says he has 5,000 open mechanic jobs with 6-figure salaries from the shortage of manually skilled workers: ‘We are in trouble in our country’ - Fortune",
-      "description": "“We do not have trade schools. We are not investing in educating a next generation of people,” Jim Farley said.",
-      "url": "https://fortune.com/2025/11/12/ford-ceo-manufacturing-jobs-trade-schools-we-are-in-trouble-in-our-country/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2237973140-e1762965247468.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-12T16:46:00Z"
-    },
-    {
-      "title": "Bessent says \"substantial\" relief imminent on coffee, fruit prices - Axios",
-      "description": "Trump's tariffs have hit coffee prices in particular.",
-      "url": "https://www.axios.com/2025/11/12/coffee-prices-inflation-groceries-bessent",
-      "urlToImage": "https://images.axios.com/Tavu5krxvnOt7mQooV-8zQiKZaA=/0x115:4000x2365/1366x768/2025/11/12/1762955005780.jpeg",
+      "title": "Chinese hackers used Anthropic's AI agent to automate spying - Axios",
+      "description": "Claude Code carried out 80-90% of the attack on its own, according to Anthropic.",
+      "url": "https://www.axios.com/2025/11/13/anthropic-china-claude-code-cyberattack",
+      "urlToImage": "https://images.axios.com/9_0_9Me_MhuTOwhRph183KSXDBg=/1366x768/smart/2020/05/19/155506-1589903706396.jpg",
       "source": "Axios",
-      "publishedAt": "2025-11-12T16:10:45Z"
+      "publishedAt": "2025-11-13T22:50:36Z"
+    },
+    {
+      "title": "Sonder cofounder said pulling off Marriott deal was the 'hardest thing' he's ever done. Now he's left shocked. - Business Insider",
+      "description": "When Sonder cofounder Francis Davidson stepped down as CEO in June, he believed he was leaving the company in a good place, he told Business Insider.",
+      "url": "https://www.businessinsider.com/sonder-marriott-bankruptcy-cofounder-ceo-francis-davidson-shocked-2025-11",
+      "urlToImage": "https://i.insider.com/6916410dabd5e944effab31c?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-11-13T22:39:00Z"
+    },
+    {
+      "title": "Verizon Layoffs Could Come Next Week as New CEO Takes Charge - Bloomberg.com",
+      "description": "Verizon Communications Inc. is discussing plans to announce job cuts next week that could downsize the company by as much as 20%, according to people familiar with the wireless carrier’s plans, a major step in a transformation led by new Chief Executive Offic…",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-13/verizon-layoffs-could-come-next-week-as-new-ceo-takes-charge",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ42M0vSZur8/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-13T22:18:58Z"
+    },
+    {
+      "title": "'Big Short' Investor Michael Burry Pulls the Plug on His Hedge Fund, Hinting at 'Better Things' Ahead - Realtor.com",
+      "description": null,
+      "url": "https://www.realtor.com/news/trends/michael-burry-of-big-short-closes-hedge-fund/",
+      "urlToImage": null,
+      "source": "Realtor.com News",
+      "publishedAt": "2025-11-13T22:11:21Z"
+    },
+    {
+      "title": "Palantir CEO slams 'parasitic' critics calling the tech a surveillance tool: 'Not only is patriotism right, patriotism will make you rich' - Fortune",
+      "description": "“Our project is to make America so strong we never fight,” he said. “That’s very different than being almost strong enough, so you always fight.”",
+      "url": "https://fortune.com/2025/11/13/palantir-ceo-alex-karp-slams-critics-surveillence-state-military-tech-patriotism-mind-virus/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2242910827-e1763071421624.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-11-13T22:10:59Z"
+    },
+    {
+      "title": "Google claims win for everyone as text scammers lost their cloud server - Ars Technica",
+      "description": "Text scam ringleader warned operations were disrupted on Telegram, Google says.",
+      "url": "https://arstechnica.com/tech-policy/2025/11/google-claims-win-for-everyone-as-text-scammers-lost-their-cloud-server/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1467743069-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-11-13T22:10:13Z"
+    },
+    {
+      "title": "Disney CFO Is Ready to Fight YouTube TV “As Long as They Want To” - The Hollywood Reporter",
+      "description": "Carriage negotiations between the two media giants are ongoing.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/disney-vs-youtube-tv-carriage-fight-blackout-latest-news-1236426041/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/11/disney.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-11-13T22:09:55Z"
+    },
+    {
+      "title": "AI isn't a bubble but rather an opportunity, JPMorgan's Erdoes says - CNBC",
+      "description": "Erdoes dispelled worries over valuation, saying that AI is presenting opportunities not fully appreciated or understood yet.",
+      "url": "https://www.cnbc.com/2025/11/13/ai-isnt-a-bubble-but-rather-an-opportunity-jpmorgans-erdoes-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108225746-1763074168696-108225746-1763073547938-108225746-1763069142825-IMG_9693.jpg?v=1763074181&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-11-13T22:04:47Z"
+    },
+    {
+      "title": "More than 1,000 Starbucks workers strike at 65 stores on Red Cup Day - NBC News",
+      "description": "More than 1,000 unionized Starbucks workers went on strike at 65 U.S. stores Thursday to protest a lack of progress in labor negotiations with the company",
+      "url": "https://www.nbcnews.com/business/business-news/starbucks-workers-kick-65-store-us-strike-companys-busy-red-cup-day-rcna243658",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251113-starbucks-mb-1617-8dea22.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-11-13T21:47:31Z"
+    },
+    {
+      "title": "Amazon Black Friday ad: The best early deals you can buy online - Mashable",
+      "description": "Amazon's early Black Friday deals are live. Browse all the best offers from the ad.",
+      "url": "https://mashable.com/article/amazon-black-friday-ad-2025-deals",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03L9joR6kj4gC9SZ1faiazc/hero-image.fill.size_1200x675.v1762949959.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-11-13T21:45:02Z"
+    },
+    {
+      "title": "Disney+ to Allow User-Generated Content Via AI - The Hollywood Reporter",
+      "description": "Disney CEO Bob Iger hinted at \"productive conversations\" with unnamed AI companies that would protect IP but add new features to the studio's flagship streaming service.",
+      "url": "http://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/03/MCDFRTW_WD014-H-2021-1616007123.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-11-13T21:42:34Z"
+    },
+    {
+      "title": "Fed’s Kashkari Didn’t Support Last Cut, Undecided on December - Bloomberg.com",
+      "description": "Federal Reserve Bank of Minneapolis President Neel Kashkari said he didn’t support the US central bank’s last interest-rate cut, though he’s still undecided on the best course of action for its December policy meeting.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-13/fed-s-kashkari-didn-t-support-last-cut-undecided-on-december",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK93X5nGSi_Y/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-13T21:31:09Z"
+    },
+    {
+      "title": "The Shutdown Is Over. Winter Is Usually Good For Stocks. Here's Why Investors Are Selling. - Investopedia",
+      "description": "The longest government shutdown in U.S. history officially ended on Wednesday, but anxiety about tech valuations and Fed rate cuts was dampening the mood on Wall Street.",
+      "url": "https://www.investopedia.com/the-shutdown-is-over-winter-is-usually-good-for-stocks-here-s-why-investors-are-selling-11849088",
+      "urlToImage": "https://www.investopedia.com/thmb/VYRwC_T-YT1URTLc1MFaL-5z5_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2245935855-08ee4fa6e9764fe79b7a95f80054cea2.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-11-13T21:23:29Z"
+    },
+    {
+      "title": "Bitcoin Sinks Deeper Below $100,000 as Bear Market Grips Crypto - Bloomberg",
+      "description": "Bitcoin sank deeper below the $100,000 mark, dragged down by a fresh wave of risk aversion and a selloff in tech stocks that reignited Wall Street jitters.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-13/bitcoin-sinks-deeper-below-100-000-as-bear-market-grips-crypto",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCWinNu4neMM/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-13T20:46:44Z"
+    },
+    {
+      "title": "Transportation Department freezes flight cuts at 6%, citing strong staffing - The Washington Post",
+      "description": "Flight operations are expected to gradually return to normal following the government reopening, but there are still hundreds of expected cancellations Thursday.",
+      "url": "https://www.washingtonpost.com/transportation/2025/11/13/flight-delays-cancellations-shutdown-end/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XG6LEZ3HCNBCVJ6TKXH3PPJEEU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-11-13T20:31:43Z"
     }
   ]
 }
