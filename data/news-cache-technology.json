@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2025-11-19T06:41:26.989Z",
+  "updatedAt": "2025-11-20T06:41:05.233Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com",
-      "description": "The Apple Inc. designer who helped develop the iPhone Air — and even starred in its introduction video — has left, marking the latest setback for the company’s design group.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwfM2kUH0G9Q/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-11-17T23:50:56Z"
-    },
-    {
-      "title": "Windows 11 to add an AI agent that runs in background with access to personal folders, warns of security risk - Windows Latest",
-      "description": "Microsoft is moving forward with its plans to turn Windows 11 into a full-fledged “AI” operating system amidst Copilot backlash. The first big move in that direction is an experimental feature called “Agent Workspace,” which gives AI agents access to the most…",
-      "url": "https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/",
-      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2025/11/Windows-11-AI-Agent-feature.jpg",
-      "source": "WindowsLatest",
-      "publishedAt": "2025-11-17T23:44:36Z"
-    },
-    {
-      "title": "Amazon Resale Has Upgraded \"Like New\" Apple iPad Pro M4 Tablets on Sale for Black Friday - IGN",
-      "description": "Get double the storage and 5G cellular connectivity for less than a base model iPad Pro.",
-      "url": "https://www.ign.com/articles/apple-ipad-pro-deals-amazon-early-black-friday-sale",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/17/appleipadpro2-1763420964355.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-11-17T23:25:51Z"
-    },
-    {
-      "title": "Apple is reportedly working on touch-sensitive cases for future iPhone Pros - GSMArena.com news - GSMArena.com",
-      "description": "This might be a more advanced version of the Camera Control that was introduced with the iPhone 16 generation. Modular phones never took off and cases that...",
-      "url": "https://www.gsmarena.com/apple_is_reportedly_working_on_touchsensitive_cases_for_future_iphone_pros-news-70328.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/11/apple-touch-interface-cases/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2025-11-17T22:59:03Z"
-    },
-    {
-      "title": "'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second - theregister.com",
-      "description": ": Aisuru botnet strikes again, bigger and badder",
-      "url": "https://www.theregister.com/2025/11/17/biggest_cloud_ddos_attack_azure/",
-      "urlToImage": "https://regmedia.co.uk/2021/05/04/ddos.jpg",
-      "source": "Theregister.com",
-      "publishedAt": "2025-11-17T21:54:00Z"
-    },
-    {
-      "title": "Everything new in iOS 26.2 beta 3 - 9to5Mac",
-      "description": "Apple continues to test the next iPhone software update with iOS 26.2 beta 3 released today. The pre-release iPhone software...",
-      "url": "https://9to5mac.com/2025/11/17/everything-new-in-ios-26-2-beta-3/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-b3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-11-17T21:39:00Z"
-    },
-    {
-      "title": "Timothée Chalamet Breaks Down That Iconic ‘Dune Part Two’ Speech - Gizmodo",
-      "description": "Having just finished filming 'Dune: Part Three,' the star talked about his career with fan and friend, Adam Sandler.",
-      "url": "https://gizmodo.com/timothee-chalamet-dune-2-speech-lisan-al-gaib-2000687034",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Timothee-Chalamet-interview-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-11-17T21:00:22Z"
-    },
-    {
-      "title": "Sales of Asus' Xbox ROG Ally X \"exceed expectations\" - GamesIndustry.biz",
-      "description": "Sales of Asus' Xbox ROG Ally X have \"exceeded expectations\".",
-      "url": "https://www.gamesindustry.biz/sales-of-asus-xbox-rog-ally-x-exceeds-expectations",
-      "urlToImage": "https://assetsio.gnwcdn.com/XBK_DUAL_16X9_081325-be1418a428eca2fff1e3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2025-11-17T20:30:41Z"
-    },
-    {
-      "title": "Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off - The Verge",
-      "description": "Bose’s QuietComfort Headphones offer great ANC, making them great for travel. Right now, you can snag them for just $169.99 ($180 off) at Amazon in select colors.",
-      "url": "https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "EA will skip next year’s F1 game and release update DLC instead - The Verge",
+      "description": "EA is planning to release a downloadable paid expansion update for F1 25 instead of releasing a full new game next year, with a “full” refreshed experience coming in 2027.",
+      "url": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_26ef3c27e69d2aea6467f7092cac4cef5b9120ee.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-11-17T20:00:00Z"
+      "publishedAt": "2025-11-19T00:04:00Z"
     },
     {
-      "title": "PlayStation CEO Pushed Through Cut-Price PS5 in Japan After Seeing System Slump Against Switch 2 - Push Square",
-      "description": "Past management wasn't fussed about format's domestic woes",
-      "url": "https://www.pushsquare.com/news/2025/11/playstation-ceo-pushed-through-cut-price-ps5-in-japan-after-seeing-system-slump-against-switch-2",
-      "urlToImage": "https://images.pushsquare.com/502ffedb12ff8/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-11-17T20:00:00Z"
+      "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge",
+      "description": "Black Friday is still more than a week away, but the Apple deals are already trickling in. Here, we’ve rounded up the best discounts on everything from AirPods to iPads.",
+      "url": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22461476/vpavic_4547_20210421_0131.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-18T23:49:39Z"
     },
     {
-      "title": "Nier creator Yoko Taro would like you to know he has been working on games, they just keep getting cancelled - Rock Paper Shotgun",
-      "description": "Yoko Taro hasn't had a big game release in a while, but that doesn't mean he's not been working on anything.",
-      "url": "https://www.rockpapershotgun.com/nier-creator-yoko-taro-would-like-you-to-know-he-has-been-working-on-games-they-just-keep-getting-cancelled",
-      "urlToImage": "https://assetsio.gnwcdn.com/nier-replicant-yorha.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Rock Paper Shotgun",
-      "publishedAt": "2025-11-17T19:55:22Z"
+      "title": "Goodbye, ‘Halo Infinite’ (2021-2025) - Gizmodo",
+      "description": "Despite the odds being stacked against it and a rough launch, 'Halo Infinite' grew into its own good thing over time.",
+      "url": "https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/halo-infinite-hed-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-11-18T23:00:06Z"
     },
     {
-      "title": "The Game Awards 2025 – Play Every Xbox Nominated Game Today - Xbox Wire",
-      "description": null,
-      "url": "https://news.xbox.com/en-us/2025/11/17/game-awards-2025-xbox-nominations/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2030/11/TGA_2025_HERO_FINAL-02a35377151f92745abc-scaled.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2025-11-17T19:02:29Z"
+      "title": "Megabonk Developer Withdraws Game From The Game Awards, Saying It Doesn't Qualify for Debut Indie - IGN",
+      "description": "Vedinad, developer of Megabonk, has withdrawn his game from The Game Awards following its nomination for Best Debut Indie Game, saying it doesn't qualify for the category.",
+      "url": "https://www.ign.com/articles/megabonk-developer-withdraws-game-from-the-game-awards-saying-it-doesnt-qualify-for-debut-indie",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/06/megabonk-quickreview-blogroll-1759785792647.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-18T21:19:35Z"
     },
     {
-      "title": "The Lost Soul Aside Redemption Arc Starts in Tomorrow's Feature-Packed PS5 Update - Push Square",
-      "description": "Wave-based Surge of Voidrax mode included",
-      "url": "https://www.pushsquare.com/news/2025/11/the-lost-soul-aside-redemption-arc-starts-in-tomorrows-feature-packed-ps5-update",
-      "urlToImage": "https://images.pushsquare.com/acd96f1ac4a15/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-11-17T19:00:00Z"
+      "title": "Deals for Today: The Best Early Black Friday Discounts and Restocks on Pokémon TCG and MTG - IGN",
+      "description": "Massive early Black Friday savings on Pokémon TCG and MTG Avatar—restocks, free bundles, and huge Amazon and TCGPlayer discounts.",
+      "url": "https://www.ign.com/articles/deals-for-today-the-best-early-black-friday-discounts-and-restocks-on-pokmon-tcg-and-mtg",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/18/feature-image-44-1763491416437.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-18T21:16:24Z"
     },
     {
-      "title": "Helldivers 2 Head Says Arc Raiders ’ Use Of AI ‘Makes Gaming Better’ - Kotaku",
-      "description": "Arrowhead Game Studios CEO thinks there are ‘extreme takes’ about AI in game development",
-      "url": "https://kotaku.com/helldivers-2-gen-ai-arc-raiders-brendan-green-2000644914",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/helldivers-2-Worm.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-11-17T18:30:38Z"
-    },
-    {
-      "title": "The Amazon Fire TV Stick 4K Select is only $10 as an early Black Friday deal - Mashable",
-      "description": "It's the newest streaming stick in Amazon's Fire TV lineup.",
-      "url": "https://mashable.com/article/nov-17-amazon-fire-tv-stick-4k-select-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04NCkTkjD5iDy5NKgDTj3Ev/hero-image.fill.size_1200x675.v1763402881.png",
-      "source": "Mashable",
-      "publishedAt": "2025-11-17T18:29:44Z"
-    },
-    {
-      "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner” - Ars Technica",
-      "description": "Mac Pro was last updated in mid-2023, one of the last Macs to switch from Intel.",
-      "url": "https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Apple-WWDC23-Mac-Pro-M2-Ultra-Mac-Pro-internal-230605-scaled-1-1152x648-1763401152.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-11-17T17:59:09Z"
-    },
-    {
-      "title": "Microsoft Attracts Government Attention After Activision Used AI In Call Of Duty: Black Ops 7 - TipRanks",
-      "description": "Microsoft stock was down on Monday after the company caught the eye of a congressman for its AI use in a video game.",
-      "url": "https://www.tipranks.com/news/microsoft-attracts-government-attention-after-activision-used-ai-in-call-of-duty-black-ops-7",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/msftstock-1-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-11-17T17:58:10Z"
-    },
-    {
-      "title": "Ubisoft admits an AI-generated image \"slipped through our review process\" in Anno 117: Pax Romana - GamesIndustry.biz",
-      "description": "Ubisoft will remove an AI-generated image from Anno 117: Pax Romana after admitting it \"slipped through [its] review pr…",
-      "url": "https://www.gamesindustry.biz/ubisoft-admits-an-ai-generated-image-slipped-through-our-review-process-in-anno-117-pax-romana",
-      "urlToImage": "https://assetsio.gnwcdn.com/ss_c89536cd4c61e8aed025ea5987b7fe14f6acb7db.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "\"Trailblazing\" Interplay co-founder Rebecca Heineman dies aged 62 - GamesIndustry.biz",
+      "description": "\"Trailblazing\" Interplay co-founder Rebecca Heineman has died of cancer aged 62.",
+      "url": "https://www.gamesindustry.biz/trailblazing-interplay-co-founder-rebecca-heineman-dies-aged-62",
+      "urlToImage": "https://assetsio.gnwcdn.com/95340983_1759594331266761_r.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "GamesIndustry.biz",
-      "publishedAt": "2025-11-17T17:40:23Z"
+      "publishedAt": "2025-11-18T20:59:43Z"
     },
     {
-      "title": "Where Winds Meet player convinces one of the game's NPCs they're pregnant with his baby - Rock Paper Shotgun",
-      "description": "Where Winds Meet players have immediately broken the game's generative-AI powered NPCs.",
-      "url": "https://www.rockpapershotgun.com/where-winds-meet-player-convinces-one-of-the-games-npcs-theyre-pregnant-with-his-baby",
-      "urlToImage": "https://assetsio.gnwcdn.com/Where-Winds-Meet-archer-meeting.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN",
+      "description": "Xbox deals are pretty much non-existent.",
+      "url": "https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/03/27/gamestop-1711539372505.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-18T20:18:53Z"
+    },
+    {
+      "title": "The Alienware Black Friday Sale Starts Early with Some Amazing Deals on Gaming PCs and Laptops - IGN",
+      "description": "This is a bona fide sale with the lowest prices I've seen all year.",
+      "url": "https://www.ign.com/articles/dell-alienware-early-black-friday-sale-2025-best-deals-on-gaming-pcs-and-laptops",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/18/alienwaresale-1763493642926.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-11-18T20:17:22Z"
+    },
+    {
+      "title": "The M4 MacBook Air is the best value in tech, here’s why - 9to5Mac",
+      "description": "The M4 MacBook Air at $749 is one of the best value laptops ever—insane performance, all-day battery, and premium build at a budget price.",
+      "url": "https://9to5mac.com/2025/11/18/the-m4-macbook-air-is-the-best-value-in-tech-heres-why/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/M-MBA-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-11-18T20:00:00Z"
+    },
+    {
+      "title": "The Analogue 3D is the modern N64 fans have been waiting for - Ars Technica",
+      "description": "Excellent design and display filters, but the lack of OpenFPGA support rankles.",
+      "url": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-2560x1440-1763486804.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-11-18T18:38:09Z"
+    },
+    {
+      "title": "Apple releases iOS 26.2 public beta 2, here’s what’s new - 9to5Mac",
+      "description": "Want to try Apple’s next iPhone software update before it comes out? Apple just dropped the released iOS 26.2 public...",
+      "url": "https://9to5mac.com/2025/11/18/apple-releases-ios-26-2-public-beta-2-heres-whats-new/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-11-18T18:21:00Z"
+    },
+    {
+      "title": "Google Chrome bug exploited as an 0-day - patch now or risk full system compromise - theregister.com",
+      "description": ": Seventh Chrome 0-day this year",
+      "url": "https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/18/shutterstock_754555399.jpg",
+      "source": "Theregister.com",
+      "publishedAt": "2025-11-18T17:43:00Z"
+    },
+    {
+      "title": "Tomb Raider's 2013 reboot just shadow dropped on Switch and Switch 2 consoles - Eurogamer",
+      "description": "Aspyr and Crystal Dynamics just shadow dropped Tomb Raider: Definitive Edition on Switch and Switch 2.",
+      "url": "https://www.eurogamer.net/tomb-raiders-2013-reboot-just-shadow-dropped-on-switch-and-switch-2-consoles",
+      "urlToImage": "https://assetsio.gnwcdn.com/TRDE-Screenshot-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-11-18T17:42:20Z"
+    },
+    {
+      "title": "Google Pulls Down AI Chatbot After It Accuses Senator of Terrible Crime - Futurism",
+      "description": "Google pulled the Gemma model from its AI Hub after the AI falsely claimed that a Republican senator had been accused of heinous crimes.",
+      "url": "http://futurism.com/artificial-intelligence/google-chatbot-accuses-senator-crime",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2025/11/google-chatbot-accuses-senator-crime.jpg?w=1200",
+      "source": "Futurism",
+      "publishedAt": "2025-11-18T17:31:05Z"
+    },
+    {
+      "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025 - BleepingComputer",
+      "description": "Microsoft announced today that it will integrate Sysmon natively into Windows 11 and Windows Server 2025 next year, making it unnecessary to deploy the standalone Sysinternals tools.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2020/09/18/windows-utility.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2025-11-18T17:25:18Z"
+    },
+    {
+      "title": "Make your name on the streets as Hive Scum with a new class for Warhammer 40,000: Darktide - Warhammer Community",
+      "description": "Command respect in Tertium.",
+      "url": "https://www.warhammer-community.com/articles/z1yoepme/make-your-name-on-the-streets-as-hive-scum-with-a-new-class-for-warhammer-40000-darktide",
+      "urlToImage": "https://assets.warhammer-community.com/darktidedlc-nov11-1-feature-29xv950jvr.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2025-11-18T17:04:11Z"
+    },
+    {
+      "title": "Mini Review: Neon Inferno (PS5) - Beautiful Layers, Chaotic Bullets - Push Square",
+      "description": "Bullet hell",
+      "url": "https://www.pushsquare.com/reviews/ps5/neon-inferno",
+      "urlToImage": "https://images.pushsquare.com/b958cab20efdf/1280x720.jpg",
+      "source": "Push Square",
+      "publishedAt": "2025-11-18T17:00:00Z"
+    },
+    {
+      "title": "The Apple Watch Series 11 has plunged to a record low price - The Verge",
+      "description": "The Apple Watch Series 11 is $349.99 ($50 off) at Amazon. The Onn 4K Pro Streaming Device and Coway Airmega AP-1512HH is also on sale.",
+      "url": "https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VERGE-DEALS-DAILY-IMAGE-26.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-18T16:52:56Z"
+    },
+    {
+      "title": "Review: Demonschool (Switch) - Jokes, Gore, And '90s Vibes Set Necrosoft's Tactical RPG Apart - Nintendo Life",
+      "description": "School's out for the apocalypse",
+      "url": "https://www.nintendolife.com/reviews/switch-eshop/demonschool",
+      "urlToImage": "https://images.nintendolife.com/0f120555a8911/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-11-18T16:10:00Z"
+    },
+    {
+      "title": "Guild Wars Reforged, a free 20th anniversary revamp of the original Guild Wars, arrives this December - Rock Paper Shotgun",
+      "description": "Guild Wars developers ArenaNet have announced Reforged, an update making the original MMORPG easier to play on modern systems, will arrive this December.",
+      "url": "https://www.rockpapershotgun.com/guild-wars-reforged-a-free-20th-anniversary-revamp-of-the-original-guild-wars-arrives-this-december",
+      "urlToImage": "https://assetsio.gnwcdn.com/gw1-reforged-1920x1080-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Rock Paper Shotgun",
-      "publishedAt": "2025-11-17T17:29:11Z"
+      "publishedAt": "2025-11-18T16:04:36Z"
     }
   ]
 }
