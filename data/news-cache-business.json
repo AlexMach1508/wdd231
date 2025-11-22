@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-11-21T06:43:57.544Z",
+  "updatedAt": "2025-11-22T06:38:05.278Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Social Security scraps plan to limit disability benefits after uproar - The Washington Post",
-      "description": "The policy would have fundamentally altered who qualifies for the two federal disability programs by eliminating or limiting a person’s age as a factor to consider.",
-      "url": "https://www.washingtonpost.com/politics/2025/11/19/social-security-disability-benefits-age/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LDWYUTI34Y2Y44UBLKTQJXHKXE.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-11-20T04:33:04Z"
+      "title": "Japan Approves $135B Stimulus Package; BTC Dip Keeps Giving - CoinDesk",
+      "description": "The package aims to ease the burden of inflation on households and businesses, according to media report",
+      "url": "https://www.coindesk.com/markets/2025/11/21/japan-approves-usd135b-stimulus-package-btc-dip-keeps-giving",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/afb72db5244609c27e04ac1bb3950f260319c35e-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2025-11-21T04:38:27Z"
     },
     {
-      "title": "Meta sets date to remove Australians under 16 from Instagram, Facebook - Al Jazeera",
-      "description": "‘Soon, you’ll no longer be able to use Facebook’, Meta said in messages it sent to young people ahead of the ban.",
-      "url": "https://www.aljazeera.com/news/2025/11/20/meta-sets-date-to-remove-australians-under-16-from-instagram-facebook",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/11578822-1763606787.jpg?resize=1200%2C675",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-11-20T03:56:15Z"
+      "title": "Gap CEO says its viral denim campaign wasn't just a hit online — it drove double-digit growth in sales, fueled by Gen Z - Business Insider",
+      "description": "Gap CEO Richard Dickson said its viral campaign during the summer's denim ad wars drove double-digit growth in sales, fueled by Gen Z.",
+      "url": "https://www.businessinsider.com/gap-ceo-viral-denim-campaign-sales-growth-gen-z-2025-11",
+      "urlToImage": "https://i.insider.com/691fd2dce1a9cbb014deae81?width=1091&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-11-21T03:04:00Z"
     },
     {
-      "title": "Crypto World Wipes Out $1 Trillion as Bitcoin Plunges Anew - Bloomberg.com",
-      "description": "The great crypto crash of 2025 entered a new phase on Wednesday, as Bitcoin plunged to its lowest level in seven months, extending the more than $1 trillion wipeout across the digital‑asset world.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/crypto-world-wipes-out-1-trillion-as-bitcoin-plunges-anew",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFECE5cV.17s/v1/1200x800.jpg",
+      "title": "How One Uncaught Rust Exception Took Out Cloudflare - Hackaday",
+      "description": "On November 18 of 2025 a large part of the Internet suddenly cried out and went silent, as Cloudflare’s infrastructure suffered the software equivalent of a cardiac arrest. After much panicke…",
+      "url": "https://hackaday.com/2025/11/20/how-one-uncaught-rust-exception-took-out-cloudflare/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/internal_server_error_cloudflare.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2025-11-21T03:00:00Z"
+    },
+    {
+      "title": "And So It Begins: Paramount, Netflix And Comcast Formally Submit Bids For Warner Bros. Discovery - Deadline",
+      "description": "Paramount, Comcast and Netflix have submitted bids to acquire all or part of Warner Bros. Discovery, ushering in a dramatic period of evolution for the media business.",
+      "url": "http://deadline.com/2025/11/paramount-netflix-comcast-submit-wbd-bids-1236625396/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/Warner-Bros.-Discovery.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-11-21T01:59:00Z"
+    },
+    {
+      "title": "OpenAI Teams With Foxconn to Design AI Data Center Hardware - Bloomberg.com",
+      "description": "OpenAI is partnering with Hon Hai Precision Industry Co. to design and manufacture hardware for data centers, the latest move by the ChatGPT-maker to meet its surging need for infrastructure to support artificial intelligence systems.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-20/openai-partners-with-foxconn-to-design-hardware-for-data-centers",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQOcwPkaIi1A/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-11-20T03:47:00Z"
+      "publishedAt": "2025-11-21T01:12:00Z"
     },
     {
-      "title": "Stock futures higher as Nvidia's strong forecast reignites the AI trade: Live updates - CNBC",
-      "description": "Nvidia's upbeat forecast likely lifted investors' sentiment around the AI trade.",
-      "url": "https://www.cnbc.com/2025/11/19/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228332-1763568856495-Traders-Photo-20251118-KK-PRESS-009.jpg?v=1763569022&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-11-20T01:25:00Z"
+      "title": "Markets News, Nov. 20, 2025: Major Stock Indexes Post Massive Losses as Early Nvidia-Led Rally Fades; Walmart Jumps on Strong Results, Outlook - Investopedia",
+      "description": "Major stock indexes erased big morning gains and closed sharply lower Thursday, a day after AI darling Nvidia reported quarterly results above analysts' lofty expectations.",
+      "url": "https://www.investopedia.com/dow-jones-today-11202025-11853411",
+      "urlToImage": "https://www.investopedia.com/thmb/wZVCH3K4XT2KnHLKfa-OEVkGCWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2247462049-7f084aade2554a9ca179717875260f82.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-11-20T23:01:34Z"
     },
     {
-      "title": "Nvidia delivers big once again, and investors brush aside the bigger picture about AI spending - CNBC",
-      "description": "The real debate — whether all this AI capacity being built today will be profitable tomorrow — remains unresolved.",
-      "url": "https://www.cnbc.com/2025/11/19/nvidia-delivers-big-once-again-and-investors-brush-aside-the-bigger-picture-about-ai-spending.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228393-1763571154367-108228393-1763571095386-gettyimages-2246882074-US_SAUDI.jpg?v=1763571163&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-11-20T00:02:00Z"
+      "title": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China - wired.com",
+      "description": "A federal prosecutor alleged that one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
+      "url": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
+      "urlToImage": "https://media.wired.com/photos/691f856ddcea540c736d7919/191:100/w_1280,c_limit/Four-Indicted-In-Alleged-Conspiracy-To-Smuggle-Supercomputers-and-Nvidia-Chips-to-China-Business-2244331491.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-11-20T22:26:00Z"
     },
     {
-      "title": "Trump says he’d ‘love to fire’ Powell, renewing attacks on Fed chair - The Washington Post",
-      "description": "Trump also seemed to pressure Treasury Secretary Scott Bessent to somehow persuade Powell to lower interest rates further — or be fired himself.",
-      "url": "https://www.washingtonpost.com/politics/2025/11/19/trump-attacks-powell-fed/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AWRXBTHRIN6JNUFEXXNIZ3MAZ4.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-11-19T23:59:56Z"
-    },
-    {
-      "title": "Stock Market Today: Indexes Break Losing Streaks With Nvidia Late Earnings Jump (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The major indexes rose Wednesday ahead of the Fed minutes. Nvidia stock rallied ahead of earnings.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-earnings-nvda-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-11-19T21:57:00Z"
-    },
-    {
-      "title": "Black Friday fashion deals for 2025 are up to 75% off Kate Spade, Hoka, Patagonia and more - Yahoo",
-      "description": "There are tons of style sales already happening  — we're eyeing Coach bags for 70% off, plus Skechers, Crocs and others.",
-      "url": "https://www.yahoo.com/lifestyle/style/clothing/article/black-friday-fashion-deals-for-2025-are-up-to-75-off-kate-spade-hoka-patagonia-and-more-160547946.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jEGtpMTg1RiQoEJuGT2u_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/970b2e60-c585-11f0-bdba-c72a4c8a6060",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-11-19T20:24:38Z"
-    },
-    {
-      "title": "Netflix Stock Falls After Analyst Questions Potential Warner Bros. Discovery Bid - The Hollywood Reporter",
-      "description": "Morgan Stanley’s Benjamin Swinburne argued the streaming giant may see longterm benefits, but risks a tough regulatory path and small synergy opportunities.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/netflix-stock-falls-warner-bros-discovery-bid-1236431439/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/GettyImages-2239869836-1.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-11-19T20:01:44Z"
-    },
-    {
-      "title": "Musk’s xAI and Nvidia to Develop Data Center in Saudi Arabia - The Wall Street Journal",
+      "title": "Bitcoin Price: Why the Crypto Is Going Down Today - Barron's",
       "description": null,
-      "url": "https://www.wsj.com/world/middle-east/musks-xai-and-nvidia-to-develop-data-center-in-saudi-arabia-a4d76ec9",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-19T18:37:00Z"
-    },
-    {
-      "title": "AMD, Cisco, and HUMAIN to form joint venture to deliver world-leading AI infrastructure - Cisco Newsroom",
-      "description": "AMD, Cisco and HUMAIN to Form Joint Venture to Deliver World-Leading AI Infrastructure",
-      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m11/amd-cisco-and-humain-to-form-joint-venture-to-deliver-world-leading-ai-infrastructure.html",
-      "urlToImage": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2025/m11/Cisco-Humain-AMD-JV-Signing-Nov25.jpg",
-      "source": "Cisco.com",
-      "publishedAt": "2025-11-19T16:38:31Z"
-    },
-    {
-      "title": "Alphabet Shares Soar on ‘Rave Reviews’ for New Gemini AI Model - Bloomberg.com",
-      "description": "Alphabet Inc. shares soared the most in two months on Wednesday as a wave of glowing reviews for the newly released version of its Gemini artificial intelligence model spurred investor confidence about the company’s position in the ever-changing tech landscap…",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/alphabet-shares-soar-on-rave-reviews-for-new-gemini-ai-model",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iayDQuXAeFoY/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-11-19T16:15:00Z"
-    },
-    {
-      "title": "JetBlue Announces New Service from Boston to Barcelona and Milan - JetBlue Airways Corporation - Investor Relations",
-      "description": "Airline deepens commitment to Boston with first-ever service to Italy and a second city in Spain, operating daily in the summer season Flights available for purchase on JetBlue.com beginning tomorrow JetBlue (NASDAQ: JBLU) today announced it plans to begin ne…",
-      "url": "https://www.ir.jetblue.com/news/news-details/2025/JetBlue-Announces-New-Service-from-Boston-to-Barcelona-and-Milan/default.aspx",
-      "urlToImage": "https://mms.businesswire.com/media/20251119170053/en/2649169/4/routeannouncement_11.19.jpg",
-      "source": "Jetblue.com",
-      "publishedAt": "2025-11-19T16:07:53Z"
-    },
-    {
-      "title": "Dutch government suspends intervention into chipmaker Nexperia - BBC",
-      "description": "The move comes after Beijing blocked exports of the firm's chips in response to the Hague intervening into Chinese-owned chipmaker.",
-      "url": "https://www.bbc.com/news/articles/cz7p7j83rn1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4583/live/930d3120-c556-11f0-a1c2-758f53fd6195.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-19T15:53:52Z"
-    },
-    {
-      "title": "Quarterly profit slide at Target hints at a challenging holiday season for the retailer - AP News",
-      "description": "Target’s third-quarter profit tumbled as the retailer struggles to lure shoppers that are being pressed by stubbornly high inflation. The Minneapolis company said Wednesday that it expects its sales slump to extend through the critical holiday shopping season…",
-      "url": "https://apnews.com/article/target-retail-sales-holiday-efd205771b892512235143c0a1f64c2e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/4b5901d/2147483647/strip/true/crop/5541x3117+0+289/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2F4b%2F6743f55ebd75f5c7635e8569e464%2F91add2f5ca2648f7b8d9ae25bab98fc1",
-      "source": "Associated Press",
-      "publishedAt": "2025-11-19T14:57:00Z"
-    },
-    {
-      "title": "This $1 Billion Trump Loan For Three Mile Island Lifts S&P 500 Nuclear Giant - Investor's Business Daily",
-      "description": "Constellation Energy will use the loan to restart a Three Mile Island reactor.",
-      "url": "https://www.investors.com/news/sp-500-nuclear-constellation-energy-trump-administration-three-mile-island-loan/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/10/stock-nuclear-power-23-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-11-19T14:43:00Z"
-    },
-    {
-      "title": "Cloudflare CEO Apologizes for 'Unacceptable' Outage and Explains What Went Wrong - CNET",
-      "description": "For several hours Tuesday, a significant portion of the internet was unavailable in Cloudflare's worst outage since 2019.",
-      "url": "https://www.cnet.com/tech/services-and-software/cloudflare-ceo-apologizes-for-unacceptable-outage-and-explains-what-went-wrong/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/eea30fe60b03eb4a7a555761236d9c16738d9b8e/hub/2025/11/18/fa3fd27f-aaf6-41a7-a0b6-99cd02911dad/gettyimages-2219301338.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-11-19T14:42:00Z"
-    },
-    {
-      "title": "Sales of AI-enabled teddy bear suspended after it gave advice on BDSM sex and where to find knives - CNN",
-      "description": "Sales of an artificial intelligence-enabled plush toy have been suspended after it was found that it engaged in conversation around sexually explicit topics and offered potentially dangerous advice.",
-      "url": "https://www.cnn.com/2025/11/19/tech/folotoy-kumma-ai-bear-scli-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-11-19-at-09-56-51-copy.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-11-19T14:36:20Z"
-    },
-    {
-      "title": "AI Spending Fears Haunt Stock Markets. Why Nvidia, Microsoft, Google Won’t Blink and 5 Other Things to Know Today. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/ai-stock-market-nvidia-microsoft-google-things-to-know-today-f2cb3fae",
+      "url": "https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-30682555",
       "urlToImage": null,
       "source": "Barron's",
-      "publishedAt": "2025-11-19T12:00:00Z"
+      "publishedAt": "2025-11-20T21:55:00Z"
+    },
+    {
+      "title": "Nvidia Stock Gives Back Gains After Earnings. Where Shares Could Go Next. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-earnings-today-21a2d6b3",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-11-20T21:34:00Z"
+    },
+    {
+      "title": "Exclusive | U.S. Banks Shelve $20 Billion Bailout Plan for Argentina - The Wall Street Journal",
+      "description": "Bankers are instead discussing a smaller, short-term facility to help Argentina make a roughly $4 billion debt payment in January",
+      "url": "https://www.wsj.com/finance/u-s-banks-shelve-20-billion-bailout-plan-for-argentina-add58f7e",
+      "urlToImage": "https://images.wsj.net/im-98792445/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-11-20T21:31:00Z"
+    },
+    {
+      "title": "Verizon is cutting more than 13,000 jobs as it works to ‘reorient’ entire company - AP News",
+      "description": "Verizon is laying off over 13,000 employees as part of a major company reorientation. The cuts began on Thursday, according to a memo from CEO Dan Schulman. He says Verizon's current cost structure limits investment, especially in customer experiences. Verizo…",
+      "url": "https://apnews.com/article/verizon-layoffs-economy-jobs-1aa299fc28b8e7211188f9b084d1048c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/02d5e59/2147483647/strip/true/crop/1986x1117+0+103/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2Fad%2F5f5228aa3aa5be8ca11998b8b82c%2F095b33103ed24f088c4d9f2eb3611ce2",
+      "source": "Associated Press",
+      "publishedAt": "2025-11-20T21:30:00Z"
+    },
+    {
+      "title": "Nvidia, Exact Sciences, Walmart, AMD, Alphabet, and More Stock Movers - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/stock-movers-cfacb79f",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-11-20T21:23:00Z"
+    },
+    {
+      "title": "Amazon Prime refunds are going out after $2.5 billion settlement with FTC - NBC News",
+      "description": "Amazon has begun issuing payments to eligible Prime members as part of its $2.5 billion settlement with the Federal Trade Commission",
+      "url": "https://www.nbcnews.com/news/us-news/amazon-prime-refunds-2-billion-settlement-going-out-rcna245020",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251120-amazon-prime-ch-1428-ad66fb.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-11-20T21:01:05Z"
+    },
+    {
+      "title": "With record Thanksgiving air travel looming, the government launches a new 'civility campaign' to curb an alarming spike in unruly passenger behavior - Yahoo",
+      "description": "The number of annual incidents involving out-of-control passengers has doubled since 2019.",
+      "url": "https://www.yahoo.com/news/us/article/with-record-thanksgiving-air-travel-looming-the-government-launches-a-new-civility-campaign-to-curb-an-alarming-spike-in-unruly-passenger-behavior-203241011.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/821Lhcn0PCjJVOakS.kszw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/3cf31d00-c659-11f0-8fff-ccbd959e2ce6",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-11-20T21:00:20Z"
+    },
+    {
+      "title": "Recalled baby formula linked to a botulism outbreak may still be in some stores - NPR",
+      "description": "A botulism outbreak that has sickened more than two dozen babies in 15 states has been linked to ByHeart formula sold nationwide. Here's what to know about it.",
+      "url": "https://www.npr.org/2025/11/20/nx-s1-5615060/byheart-baby-formula-botulism-recall",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1620x911+0+109/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F4b%2Ff27b9bd744e788bfd845e9987032%2Fap25317572956846.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-11-20T19:08:02Z"
+    },
+    {
+      "title": "S&P 500: Bursting AI Stock Bubble Gets Ugly — Erases $2.4 Trillion In Value - Investor's Business Daily",
+      "description": "The AI stocks Armageddon is only getting worse. And the losses harder to ignore due to their massive and ballooning size.",
+      "url": "https://www.investors.com/etfs-and-funds/sectors/bursting-ai-stock-bubble-worsens-destroys-trillions-in-value/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/06/Stock-cybersecurityAI-genAI-01-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-11-20T18:58:00Z"
+    },
+    {
+      "title": "Nvidia turns negative after Ray Dalio warns the latest market boom is a 'big bubble with big wealth gaps' poised for a politically explosive bust - Fortune",
+      "description": "The market is already 80% of the way to a full bubble, he said.",
+      "url": "https://fortune.com/2025/11/20/nvidia-turns-negative-ray-dalio-ai-bubble-wealth-gaps/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2154148849-e1763663185480.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-11-20T18:53:00Z"
+    },
+    {
+      "title": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics - Fortune",
+      "description": "“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.",
+      "url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-11-20T18:37:00Z"
     }
   ]
 }
