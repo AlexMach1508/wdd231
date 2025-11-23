@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2025-11-22T06:38:05.278Z",
+  "updatedAt": "2025-11-23T06:39:25.310Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Japan Approves $135B Stimulus Package; BTC Dip Keeps Giving - CoinDesk",
-      "description": "The package aims to ease the burden of inflation on households and businesses, according to media report",
-      "url": "https://www.coindesk.com/markets/2025/11/21/japan-approves-usd135b-stimulus-package-btc-dip-keeps-giving",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/afb72db5244609c27e04ac1bb3950f260319c35e-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "title": "Bitcoin (BTC) Price News: Tactical Bottom May Be Near, Greed & Fear Index Suggests - CoinDesk",
+      "description": "Peak fear suggests a tactical low may be near.",
+      "url": "https://www.coindesk.com/markets/2025/11/22/bitcoin-greed-and-fear-index-shows-extreme-pessimism-tactical-bottom-may-be-near",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/cb83ce275ea46b4eb007b63e847f5e05f6459fc5-1280x958.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "source": "CoinDesk",
-      "publishedAt": "2025-11-21T04:38:27Z"
+      "publishedAt": "2025-11-22T04:00:41Z"
     },
     {
-      "title": "Gap CEO says its viral denim campaign wasn't just a hit online — it drove double-digit growth in sales, fueled by Gen Z - Business Insider",
-      "description": "Gap CEO Richard Dickson said its viral campaign during the summer's denim ad wars drove double-digit growth in sales, fueled by Gen Z.",
-      "url": "https://www.businessinsider.com/gap-ceo-viral-denim-campaign-sales-growth-gen-z-2025-11",
-      "urlToImage": "https://i.insider.com/691fd2dce1a9cbb014deae81?width=1091&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-11-21T03:04:00Z"
+      "title": "Black Friday 2025: Live updates from Amazon, Dyson, Best Buy - Mashable",
+      "description": "Get live updates on Black Friday sales. We found savings of $150 on Dyson Supersonic hair dryers and $300 on Samsung TVs.",
+      "url": "https://mashable.com/live/black-friday-live-deals-updates-2025",
+      "urlToImage": "https://helios-i.mashable.com/imagery/live_blogs/01OcFXXN1Y8YOzZvFp2WxIO/desktop_banner_image.fill.size_1200x675.v1763717859.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-11-21T23:55:00Z"
     },
     {
-      "title": "How One Uncaught Rust Exception Took Out Cloudflare - Hackaday",
-      "description": "On November 18 of 2025 a large part of the Internet suddenly cried out and went silent, as Cloudflare’s infrastructure suffered the software equivalent of a cardiac arrest. After much panicke…",
-      "url": "https://hackaday.com/2025/11/20/how-one-uncaught-rust-exception-took-out-cloudflare/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/internal_server_error_cloudflare.jpg",
-      "source": "Hackaday",
-      "publishedAt": "2025-11-21T03:00:00Z"
+      "title": "Top FDA drug regulator raises alarms about expediting approvals - The Washington Post",
+      "description": "Richard Pazdur, who assumed his new role this month, has warned that new Trump administration initiatives could be illegal and pose a risk to public health.",
+      "url": "https://www.washingtonpost.com/health/2025/11/21/fda-regulator-richard-pazdur-concerns/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSMUO6RXXJNII2TMCSJJRZ6GV4.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-11-21T23:48:46Z"
     },
     {
-      "title": "And So It Begins: Paramount, Netflix And Comcast Formally Submit Bids For Warner Bros. Discovery - Deadline",
-      "description": "Paramount, Comcast and Netflix have submitted bids to acquire all or part of Warner Bros. Discovery, ushering in a dramatic period of evolution for the media business.",
-      "url": "http://deadline.com/2025/11/paramount-netflix-comcast-submit-wbd-bids-1236625396/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/Warner-Bros.-Discovery.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-11-21T01:59:00Z"
+      "title": "How to claim refund from Amazon’s $2.5 billion Prime settlement - KRON4",
+      "description": "(KRON) – Certain Amazon Prime customers may qualify for a payment as part of the company’s $2.5 billion settlement. In 2023, the Federal Trade Commission filed an antitrust lawsuit against Amazon. The suit alleged that the company enrolled millions of custome…",
+      "url": "https://www.kron4.com/news/bay-area/amazon-prime-refund-ftc-settlement/",
+      "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2025/10/65a837c4c5c6d3.98355869-e1758899670722.jpeg?w=1280",
+      "source": "KRON4",
+      "publishedAt": "2025-11-21T23:23:22Z"
     },
     {
-      "title": "OpenAI Teams With Foxconn to Design AI Data Center Hardware - Bloomberg.com",
-      "description": "OpenAI is partnering with Hon Hai Precision Industry Co. to design and manufacture hardware for data centers, the latest move by the ChatGPT-maker to meet its surging need for infrastructure to support artificial intelligence systems.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-20/openai-partners-with-foxconn-to-design-hardware-for-data-centers",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQOcwPkaIi1A/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-11-21T01:12:00Z"
+      "title": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals - Fortune",
+      "description": "“The market did not appreciate our incredible quarter,” Huang said.",
+      "url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-11-21T22:26:00Z"
     },
     {
-      "title": "Markets News, Nov. 20, 2025: Major Stock Indexes Post Massive Losses as Early Nvidia-Led Rally Fades; Walmart Jumps on Strong Results, Outlook - Investopedia",
-      "description": "Major stock indexes erased big morning gains and closed sharply lower Thursday, a day after AI darling Nvidia reported quarterly results above analysts' lofty expectations.",
-      "url": "https://www.investopedia.com/dow-jones-today-11202025-11853411",
-      "urlToImage": "https://www.investopedia.com/thmb/wZVCH3K4XT2KnHLKfa-OEVkGCWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2247462049-7f084aade2554a9ca179717875260f82.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-11-20T23:01:34Z"
+      "title": "A Trump Policy Pivot Could Hand Nvidia Billions in AI Chip Sales -- If It Happens - The Motley Fool",
+      "description": "Could Nvidia sell its H200 chips in China?",
+      "url": "https://www.fool.com/investing/2025/11/21/a-trump-policy-pivot-could-hand-nvidia-billions-in/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844109%2Fnvidia-headquarters-with-grey-nvidia-sign-in-front-with-nvidia-logo.png&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2025-11-21T22:21:00Z"
     },
     {
-      "title": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China - wired.com",
-      "description": "A federal prosecutor alleged that one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
-      "url": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
-      "urlToImage": "https://media.wired.com/photos/691f856ddcea540c736d7919/191:100/w_1280,c_limit/Four-Indicted-In-Alleged-Conspiracy-To-Smuggle-Supercomputers-and-Nvidia-Chips-to-China-Business-2244331491.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-11-20T22:26:00Z"
-    },
-    {
-      "title": "Bitcoin Price: Why the Crypto Is Going Down Today - Barron's",
+      "title": "Stock Market Today: Dow Rises; Global Chip Stocks Drop; Bitcoin Falls Further — Live Markets - The Wall Street Journal",
       "description": null,
-      "url": "https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-30682555",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-21-2025",
       "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-11-20T21:55:00Z"
-    },
-    {
-      "title": "Nvidia Stock Gives Back Gains After Earnings. Where Shares Could Go Next. - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-earnings-today-21a2d6b3",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-11-20T21:34:00Z"
-    },
-    {
-      "title": "Exclusive | U.S. Banks Shelve $20 Billion Bailout Plan for Argentina - The Wall Street Journal",
-      "description": "Bankers are instead discussing a smaller, short-term facility to help Argentina make a roughly $4 billion debt payment in January",
-      "url": "https://www.wsj.com/finance/u-s-banks-shelve-20-billion-bailout-plan-for-argentina-add58f7e",
-      "urlToImage": "https://images.wsj.net/im-98792445/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-20T21:31:00Z"
+      "publishedAt": "2025-11-21T22:04:00Z"
     },
     {
-      "title": "Verizon is cutting more than 13,000 jobs as it works to ‘reorient’ entire company - AP News",
-      "description": "Verizon is laying off over 13,000 employees as part of a major company reorientation. The cuts began on Thursday, according to a memo from CEO Dan Schulman. He says Verizon's current cost structure limits investment, especially in customer experiences. Verizo…",
-      "url": "https://apnews.com/article/verizon-layoffs-economy-jobs-1aa299fc28b8e7211188f9b084d1048c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/02d5e59/2147483647/strip/true/crop/1986x1117+0+103/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2Fad%2F5f5228aa3aa5be8ca11998b8b82c%2F095b33103ed24f088c4d9f2eb3611ce2",
-      "source": "Associated Press",
-      "publishedAt": "2025-11-20T21:30:00Z"
+      "title": "Why trouble for the biggest foreign buyer of U.S. debt could ripple through America’s bond market - MarketWatch",
+      "description": "Developments in Japan are creating a risk that investors in the U.S. Treasury market may one day pull the rug out by keeping more of their savings at home",
+      "url": "https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933",
+      "urlToImage": "https://images.mktw.net/im-42165414/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-11-21T20:41:00Z"
     },
     {
-      "title": "Nvidia, Exact Sciences, Walmart, AMD, Alphabet, and More Stock Movers - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/stock-movers-cfacb79f",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-11-20T21:23:00Z"
+      "title": "Investors Just Endured a Brutally Volatile Week. What's Next For the Stock Market? - Investopedia",
+      "description": "Tech stocks slumped again this week, raising questions about whether this pause in the AI rally is more than a hiccup.",
+      "url": "https://www.investopedia.com/investors-just-endured-a-brutally-volatile-week-what-s-next-for-the-stock-market-spx-djia-comp-11854831",
+      "urlToImage": "https://www.investopedia.com/thmb/FudENF4-FQ-WGNl4W935YO9fPo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2247199383-6fb58abfab954fbc88633ccf31f62dc6.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-11-21T20:33:07Z"
     },
     {
-      "title": "Amazon Prime refunds are going out after $2.5 billion settlement with FTC - NBC News",
-      "description": "Amazon has begun issuing payments to eligible Prime members as part of its $2.5 billion settlement with the Federal Trade Commission",
-      "url": "https://www.nbcnews.com/news/us-news/amazon-prime-refunds-2-billion-settlement-going-out-rcna245020",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251120-amazon-prime-ch-1428-ad66fb.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-11-20T21:01:05Z"
-    },
-    {
-      "title": "With record Thanksgiving air travel looming, the government launches a new 'civility campaign' to curb an alarming spike in unruly passenger behavior - Yahoo",
-      "description": "The number of annual incidents involving out-of-control passengers has doubled since 2019.",
-      "url": "https://www.yahoo.com/news/us/article/with-record-thanksgiving-air-travel-looming-the-government-launches-a-new-civility-campaign-to-curb-an-alarming-spike-in-unruly-passenger-behavior-203241011.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/821Lhcn0PCjJVOakS.kszw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/3cf31d00-c659-11f0-8fff-ccbd959e2ce6",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-11-20T21:00:20Z"
-    },
-    {
-      "title": "Recalled baby formula linked to a botulism outbreak may still be in some stores - NPR",
-      "description": "A botulism outbreak that has sickened more than two dozen babies in 15 states has been linked to ByHeart formula sold nationwide. Here's what to know about it.",
-      "url": "https://www.npr.org/2025/11/20/nx-s1-5615060/byheart-baby-formula-botulism-recall",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1620x911+0+109/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F4b%2Ff27b9bd744e788bfd845e9987032%2Fap25317572956846.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-11-20T19:08:02Z"
-    },
-    {
-      "title": "S&P 500: Bursting AI Stock Bubble Gets Ugly — Erases $2.4 Trillion In Value - Investor's Business Daily",
-      "description": "The AI stocks Armageddon is only getting worse. And the losses harder to ignore due to their massive and ballooning size.",
-      "url": "https://www.investors.com/etfs-and-funds/sectors/bursting-ai-stock-bubble-worsens-destroys-trillions-in-value/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/06/Stock-cybersecurityAI-genAI-01-adobe.jpg",
+      "title": "Stock Market Tumbles On Nvidia, Bitcoin; Walmart, Google Strong: Weekly Review - Investor's Business Daily",
+      "description": "The stock market broke below key levels as an Nvidia earnings bounce flopped. Bitcoin dived. Walmart, TJX and Google were winners.",
+      "url": "https://www.investors.com/news/stock-market-tumbles-nvidia-bitcoin-walmart-google-strong/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/03/stock-NYSE-stylized-adobe.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2025-11-20T18:58:00Z"
+      "publishedAt": "2025-11-21T17:41:00Z"
     },
     {
-      "title": "Nvidia turns negative after Ray Dalio warns the latest market boom is a 'big bubble with big wealth gaps' poised for a politically explosive bust - Fortune",
-      "description": "The market is already 80% of the way to a full bubble, he said.",
-      "url": "https://fortune.com/2025/11/20/nvidia-turns-negative-ray-dalio-ai-bubble-wealth-gaps/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2154148849-e1763663185480.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-20T18:53:00Z"
+      "title": "The funniest possible outcome of the December Fed meeting - Axios",
+      "description": "One plausible result of December's vote would create a stunning irony.",
+      "url": "https://www.axios.com/2025/11/21/fed-rate-cut-fomc-lisa-cook",
+      "urlToImage": "https://images.axios.com/HuP0HBlhAGn2FhU9fFLNuNRKxn4=/0x641:5588x3784/1366x768/2025/11/21/1763739473725.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-11-21T17:22:47Z"
     },
     {
-      "title": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics - Fortune",
-      "description": "“It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.",
-      "url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-20T18:37:00Z"
+      "title": "Fed won't get key inflation data before next rate decision as BLS cancels October CPI release - CNBC",
+      "description": "The BLS said it was canceling the release of the October CPI, leaving the Fed without a key piece of inflation data before it next decides on interest rates.",
+      "url": "https://www.cnbc.com/2025/11/21/fed-wont-get-key-inflation-data-before-next-rate-decision-as-bls-cancels-october-cpi-release.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104307385-BLS.jpg?v=1763742571&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-11-21T16:25:18Z"
+    },
+    {
+      "title": "IRS issues guidance on tax on tips and overtime income for 2025 - PBS",
+      "description": "The IRS says it’s in the process of updating income tax forms and instructions for taxpayers to use this filing season that will assist them in claiming these deductions.",
+      "url": "https://www.pbs.org/newshour/economy/irs-issues-guidance-on-tax-on-tips-and-overtime-income-for-2025",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2024-08-13T183255Z_2051144003_RC2ZE9API9GG_RTRMADP_3_USA-DAILYLIFE-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-11-21T16:12:33Z"
+    },
+    {
+      "title": "10-Year Treasury Yield Slides as Safe-Haven Demand Climbs - TipRanks",
+      "description": "The 10-year Treasury yield is down by 4.3 bps to 4.061% on Friday as the stock market continues to show signs of unease amid concerns of an AI bubble and\n<...",
+      "url": "https://www.tipranks.com/news/10-year-treasury-yield-slides-as-safe-haven-demand-climbs",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/11/shutterstock_351838439-1-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-11-21T16:05:26Z"
+    },
+    {
+      "title": "Amazon And Google's 'OpenAI Dilemma' Sparks Debate On Wall Street After AI Cloud Deals - Investor's Business Daily",
+      "description": "Amazon stock and Google stock investors are debating whether recent cloud deals with OpenAI create a risk for internet tech giants.",
+      "url": "https://www.investors.com/news/technology/amazon-stock-google-stock-openai-dilemma-ai-cloud/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/05/Stock-amazonwebservices-01-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-11-21T16:03:00Z"
+    },
+    {
+      "title": "Consumer Sentiment Fell in November, Michigan Survey Shows - The Wall Street Journal",
+      "description": "The survey’s headline index dropped to 51, hovering near one of the lowest levels in the monthly poll’s history",
+      "url": "https://www.wsj.com/economy/consumers/consumer-sentiment-fell-in-november-michigan-survey-shows-46fa0a3f",
+      "urlToImage": "https://images.wsj.net/im-01994264/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-11-21T15:25:00Z"
+    },
+    {
+      "title": "Paramount is only known WBD bidder seeking TNT, other cable networks - Sports Media Watch",
+      "description": "For TNT Sports, the outcome of the Warner Bros. Discovery bidding war looks to be acquisition by Paramount or the uncertainty of a spinoff.",
+      "url": "https://www.sportsmediawatch.com/2025/11/paramount-only-wbd-bidder-seeking-tnt-cable-networks/",
+      "urlToImage": "https://www.sportsmediawatch.com/wp-content/uploads/2024/08/Paramount-Office-Times-Square-Aug-20-2024-scaled-e1724693073900.jpg",
+      "source": "Sportsmediawatch.com",
+      "publishedAt": "2025-11-21T15:04:13Z"
+    },
+    {
+      "title": "Warren Buffett Sold $3.2 Billion of Apple and Piled $4.3 Billion Into This Hot Artificial Intelligence (AI) Stock - The Motley Fool",
+      "description": "Berkshire Hathaway now has three of the leading AI stocks in its portfolio.",
+      "url": "https://www.fool.com/investing/2025/11/21/warren-buffett-sells-32-billion-of-apple-stock-and/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843244%2Fgoogle.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2025-11-21T14:45:00Z"
+    },
+    {
+      "title": "Despite Chinese hacks, Trump's FCC votes to scrap cybersecurity rules for phone and internet companies - TechCrunch",
+      "description": "Two Trump-appointed FCC officials voted to undo the telecom industry's cybersecurity rules. One Democratic commissioner dissented, saying the decision leaves the United States \"less safe\" at a time when threats are increasing.",
+      "url": "https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1388801255.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-21T13:54:36Z"
     }
   ]
 }
