@@ -1,15 +1,111 @@
 {
-  "updatedAt": "2025-11-30T06:41:46.921Z",
+  "updatedAt": "2025-12-01T06:47:47.022Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Flights disrupted after Airbus discovers intense sun radiation could impact flight control data - BBC",
-      "description": "The issue is thought to affect 6,000 planes, which will need to undergo an urgent software update or have computers replaced.",
-      "url": "https://www.bbc.com/news/articles/c8e9d13x2z7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/602d/live/3750e380-ccaa-11f0-9975-d11a46903c55.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-11-29T06:01:25Z"
+      "title": "The 201 Black Friday deals you can still get - The Verge",
+      "description": "Black Friday is over, but you can still get dozens of great deals, including ones on AirPods, Pixel Watch 4, Oura Ring, Kindle, and plenty of other gadgets.",
+      "url": "https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF6_5c34bd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-30T01:30:00Z"
+    },
+    {
+      "title": "These are the 126 early Cyber Monday deals our product experts think are actually worth it - Business Insider",
+      "description": "Early Cyber Monday deals are already available, and our product experts are tracking all the best home, kitchen, style, and tech discounts.",
+      "url": "https://www.businessinsider.com/guides/deals/best-cyber-monday-deals-2025",
+      "urlToImage": "https://i.insider.com/69247eeeabd5e944effb59e7?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-11-29T23:50:00Z"
+    },
+    {
+      "title": "Experts say top FDA official’s claim that Covid vaccines caused kids’ deaths requires more evidence - statnews.com",
+      "description": "The FDA’s top vaccine regulator asserted in a staff email that the Covid vaccine caused at least 10 kids' deaths, but experts told STAT they are skeptical of the “extraordinary” claim because it was not presented with detailed data.",
+      "url": "https://www.statnews.com/2025/11/29/covid-vaccine-deaths-fda-memo-vinay-prasad/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1308671560-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2025-11-29T23:42:18Z"
+    },
+    {
+      "title": "Airbus orders software fix to thousands of planes due to solar radiation risk - TechCrunch",
+      "description": "Flights were delayed and cancelled globally after Airbus ordered fixes to 6,000 of its A320 series planes, according to The Guardian. The company said",
+      "url": "https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1177988041.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-29T22:03:18Z"
+    },
+    {
+      "title": "MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI - Gizmodo",
+      "description": "The report notes that it has some limitations, but says \"policymakers cannot wait\" to act on its findings.",
+      "url": "https://gizmodo.com/replacement-study-mit-2000692601",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/empty-desk-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-11-29T19:06:21Z"
+    },
+    {
+      "title": "Winners and losers of Black Friday 2025 - Retail Dive",
+      "description": "Online discounts were flat year over year. However, some retailers won with exclusive giveaways that enticed customers into stores.",
+      "url": "https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/",
+      "urlToImage": "https://imgproxy.divecdn.com/drQg8l_9vrBQPeSFBD5v4_ae34RT0cgEd0G2AO6GNcQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMTEtMjlfMDkyODU5LnBuZw==.webp",
+      "source": "Retail Dive",
+      "publishedAt": "2025-11-29T18:49:48Z"
+    },
+    {
+      "title": "Walmart recall update: Customers warned to ‘immediately stop’ using products - AL.com",
+      "description": "Customers told to stop using the products, return them to the store for a refund.",
+      "url": "https://www.al.com/business/2025/11/walmart-recall-update-customers-warned-to-immediately-stop-using-products.html",
+      "urlToImage": "https://www.al.com/resizer/v2/ZSOUO4V3OJA7ZJMXUBOKVZRDD4.JPG?auth=2b575c61fa7f9070ea7de0eae2043099dd435640dc84f5cd1dc7f59913c6521e&width=1280&smart=true&quality=90",
+      "source": "AL.com",
+      "publishedAt": "2025-11-29T16:01:00Z"
+    },
+    {
+      "title": "You Embarrassed Yourself, Husband Tells Wife, 34, After She Bragged About Her Salary To 'Insanely Wealthy' Cousin She Thought Was Poor - Yahoo",
+      "description": "A wedding on a wide, picturesque farm turned into a shock for a 34-year-old nurse practitioner who had always believed she outranked most of her husband's...",
+      "url": "https://www.yahoo.com/lifestyle/articles/embarrassed-yourself-husband-tells-wife-153106771.html",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/3309bd7852ce0bcbd8495dac53f2b978",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-11-29T15:31:06Z"
+    },
+    {
+      "title": "The Black Friday Menswear Deals Are Better Company Than Your Relatives - GQ",
+      "description": "The best Black Friday clothing deals of 2025 include up to 50% off menswear, watches, sneakers, and more. Here's everything we're buying—today and today only.",
+      "url": "https://www.gq.com/story/black-friday-clothing-deals-11-29-2025",
+      "urlToImage": "https://media.gq.com/photos/69277b63cc7c85f693fab920/16:9/w_1280,c_limit/bfcm-clothing-v3.png",
+      "source": "GQ Magazine",
+      "publishedAt": "2025-11-29T11:15:00Z"
+    },
+    {
+      "title": "Since Trump’s Return, Bets on His Brand Have Soured - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/donald-trump-djt-stock-crypto-slump-05b89b5b",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-11-29T10:30:00Z"
+    },
+    {
+      "title": "The world’s youngest self-made billionaire hasn’t taken a day off in 3 years and can’t stop thinking about work—here’s how he keeps from burnout - Fortune",
+      "description": "“People generally burn out, not just from working hard, but from working hard on something that they don't feel as fulfilling and compounding,” he said.",
+      "url": "https://fortune.com/2025/11/29/self-made-billionaire-artifical-intelligence-brendan-foody-mercor-silcion-valley-startup-founders-technology/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Mercor-Founders-Adarsh-Hiremath-Brendan-Foody-e1762888211209.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-11-29T10:22:00Z"
+    },
+    {
+      "title": "Social Security: Reasons to Wait Until 70 to Claim Benefits - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/social-security-claim-benefits-age-d4867deb",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-11-29T06:00:00Z"
+    },
+    {
+      "title": "92 of the Best Black Friday Kitchen Deals to Level Up Your Cooking Arsenal (2025) - Bon Appétit",
+      "description": "We found the best Black Friday kitchen deals on our favorite air fryers, coffee makers, cookware sets, and just about everything else a home cook needs.",
+      "url": "https://www.bonappetit.com/story/black-friday-kitchen-deals-11-28-2025",
+      "urlToImage": "https://assets.bonappetit.com/photos/6920f5a48209edefdbcca707/16:9/w_1280,c_limit/11.21_BA_New%20Lede%20for%20Black%20Friday%20Kitchen%20Deals_v3.jpg",
+      "source": "Bon Appetit",
+      "publishedAt": "2025-11-29T03:01:00Z"
     },
     {
       "title": "What to know about the looming federal ban on THC-infused drinks and snacks - PBS",
@@ -36,22 +132,6 @@
       "publishedAt": "2025-11-28T22:53:38Z"
     },
     {
-      "title": "Detroiters say the chaos, and spirit, of Black Friday shopping is gone - The Detroit News",
-      "description": "Gone are the days when deal lovers cut Thanksgiving short to stand in line for hours at the crack of dawn for steep discounts.",
-      "url": "https://www.detroitnews.com/story/business/retail/2025/11/28/detroiters-say-the-chaos-and-spirit-of-black-friday-shopping-is-gone/87510537007/",
-      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/11/28/PDTN/87510211007-20251128-ctjbu-black-friday-008.jpg?crop=3599,2025,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "The Detroit News",
-      "publishedAt": "2025-11-28T21:30:35Z"
-    },
-    {
-      "title": "On your mark, jet set, go! 17+ Black Friday travel deals to book now - New York Post",
-      "description": "Alert the group chat.",
-      "url": "https://nypost.com/shopping/best-black-friday-travel-deals-sales-2025/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/blackfridaytravellead.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2025-11-28T21:28:00Z"
-    },
-    {
       "title": "These 58+ Walmart Black Friday deals are actually worth shopping - NBC News",
       "description": "Black Friday is officially here, and Walmart is offering notable deals during the event.",
       "url": "https://www.nbcnews.com/select/shopping/walmart-black-friday-deals-2025-rcna245886",
@@ -68,92 +148,12 @@
       "publishedAt": "2025-11-28T20:36:46Z"
     },
     {
-      "title": "Oil Futures Settle Lower in Slow Black Friday Trade - The Wall Street Journal",
-      "description": "",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-markets-watch-for-russia-ukraine-developments-f2f3a7eb",
-      "urlToImage": "https://images.wsj.net/im-71910343/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-28T20:09:00Z"
-    },
-    {
-      "title": "Sneaker Deals Are Running Amok Today, and My Feet Are Forever Grateful - GQ",
-      "description": "The best Black Friday sneaker deals of 2025 include staggering discounts on Adidas, Nike, Vans, and more. Here's what our resident sneakerhead is buying.",
-      "url": "https://www.gq.com/story/black-friday-sneaker-deals-11-28-2025",
-      "urlToImage": "https://media.gq.com/photos/6929df2aad3aa80be57fbcd4/16:9/w_1280,c_limit/bfcm-sneakers-v4.png",
-      "source": "GQ Magazine",
-      "publishedAt": "2025-11-28T20:07:43Z"
-    },
-    {
-      "title": "Intel's Stock Pops as Rumors Swirl About a Big New Customer - Investopedia",
-      "description": "Intel shares surged Friday after an analyst's social media post added fuel to rumors the iPhone maker Apple could become a new customer for the chipmaker.",
-      "url": "https://www.investopedia.com/intel-s-stock-pops-as-rumors-swirl-about-a-big-new-customer-apple-intc-11858735",
-      "urlToImage": "https://www.investopedia.com/thmb/lMUsPITNvuHbz49izCqHatY0IzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2244296124-5052353d2f614b4e9d9c3de5cff760c8.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-11-28T20:06:12Z"
-    },
-    {
       "title": "Will AI ever make big profits? Experts weigh in as bubble fears loom - ABC News",
       "description": null,
       "url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id\\\\u003d127858140",
       "urlToImage": null,
       "source": "ABC News",
       "publishedAt": "2025-11-28T18:54:10Z"
-    },
-    {
-      "title": "Michael Burry just started a massive group chat on Substack, and it's as chaotic as you'd expect - Business Insider",
-      "description": "Michael Burry of \"The Big Short\" fame started a group chat for all of his paid subscribers on Substack, and the jokes and memes are rolling in.",
-      "url": "https://www.businessinsider.com/michael-burry-substack-group-chat-big-short-subscribers-ai-stocks-2025-11",
-      "urlToImage": "https://i.insider.com/691645f4abd5e944effab411?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-11-28T17:39:00Z"
-    },
-    {
-      "title": "Amazon's Hidden Outlet Has KitchenAid, Adidas and More—from $7 - EatingWell",
-      "description": "This Black Friday Amazon is stuffed with great Outlet deals on top brands like Adidas, New Balance, KitchenAid, Nutribullet, Wüsthof, Cuisinart, OXO and more, starting at $7.",
-      "url": "https://www.eatingwell.com/black-friday-amazon-outlet-deals-2025-11839108",
-      "urlToImage": "https://www.eatingwell.com/thmb/OgkcxjODw4iRnbxYIp9pvXW8-VU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Amazo-Outlet-Deals-Recycle-39d1c42c11314591a3577d75ef63bb4c.jpg",
-      "source": "Eatingwell.com",
-      "publishedAt": "2025-11-28T16:52:24Z"
-    },
-    {
-      "title": "India growth beats all estimates as factories defy Trump tariffs - Fortune",
-      "description": "India's Prime Minister Narendra Modi called the GDP number \"very encouraging.\"",
-      "url": "https://fortune.com/2025/11/28/india-gdp-growth-beats-all-estimates-manufacturing-trump-tariffs/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2239505603-e1764345881595.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-28T16:07:00Z"
-    },
-    {
-      "title": "Shoppers are underwhelmed by deals and crowds on Black Friday - Fortune",
-      "description": "“It feels like less than a normal Saturday,” said one woman in the Atlanta area.",
-      "url": "https://fortune.com/2025/11/28/black-friday-shoppers-underwhelmed-deals-crowds/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2248272587-e1764344951770.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-28T15:58:00Z"
-    },
-    {
-      "title": "Black Friday online shopping expected to hit record high, data shows - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Business/black-friday-online-shopping-expected-hit-record-high/story?id\\\\u003d127944492",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-11-28T15:33:45Z"
-    },
-    {
-      "title": "This expert watches shoppers like a hawk. Here's her holiday forecast - NPR",
-      "description": "Retail expert Katie Thomas scours her local shopping mall in Pittsburgh to divine what Americans' shopping habits reveal about the economy and the nation's future.",
-      "url": "https://www.npr.org/2025/11/28/nx-s1-5604862/black-friday-sales-forecast",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2532+0+193/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F06%2Fc9fe121a4bf49b97f681a473a980%2F2025-11-preblackfridayshopping-017-edit1.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-11-28T10:00:00Z"
-    },
-    {
-      "title": "I Found the 100 Best Black Friday Deals From $7: J.Crew, Spanx, Coach, Adidas, Kate Spade, and More - instyle.com",
-      "description": "The 100 best Black Friday 2025 deals are up to 87 percent off. Save on these 12 Black Friday Sales, including J.Crew, Spanx, Madewell, Adidas, Coach, Kate Spade, Nordstrom, Amazon, and more. Best of all? Deals start at $7.",
-      "url": "https://www.instyle.com/best-black-friday-sales-2025-11833930",
-      "urlToImage": "https://www.instyle.com/thmb/RQnZ3unBsmARc9DVepNSycPOK-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/112025-black-friday-roundup-deals-soc-4a350f3d22174fc3a74dfc90619f0adb.jpg",
-      "source": "InStyle",
-      "publishedAt": "2025-11-28T05:00:00Z"
     }
   ]
 }
