@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2025-12-01T06:47:47.022Z",
+  "updatedAt": "2025-12-02T06:46:54.547Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "The 201 Black Friday deals you can still get - The Verge",
-      "description": "Black Friday is over, but you can still get dozens of great deals, including ones on AirPods, Pixel Watch 4, Oura Ring, Kindle, and plenty of other gadgets.",
-      "url": "https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF6_5c34bd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-11-30T01:30:00Z"
-    },
-    {
-      "title": "These are the 126 early Cyber Monday deals our product experts think are actually worth it - Business Insider",
-      "description": "Early Cyber Monday deals are already available, and our product experts are tracking all the best home, kitchen, style, and tech discounts.",
-      "url": "https://www.businessinsider.com/guides/deals/best-cyber-monday-deals-2025",
-      "urlToImage": "https://i.insider.com/69247eeeabd5e944effb59e7?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-11-29T23:50:00Z"
-    },
-    {
-      "title": "Experts say top FDA official’s claim that Covid vaccines caused kids’ deaths requires more evidence - statnews.com",
-      "description": "The FDA’s top vaccine regulator asserted in a staff email that the Covid vaccine caused at least 10 kids' deaths, but experts told STAT they are skeptical of the “extraordinary” claim because it was not presented with detailed data.",
-      "url": "https://www.statnews.com/2025/11/29/covid-vaccine-deaths-fda-memo-vinay-prasad/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/03/GettyImages-1308671560-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2025-11-29T23:42:18Z"
-    },
-    {
-      "title": "Airbus orders software fix to thousands of planes due to solar radiation risk - TechCrunch",
-      "description": "Flights were delayed and cancelled globally after Airbus ordered fixes to 6,000 of its A320 series planes, according to The Guardian. The company said",
-      "url": "https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1177988041.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-11-29T22:03:18Z"
-    },
-    {
-      "title": "MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI - Gizmodo",
-      "description": "The report notes that it has some limitations, but says \"policymakers cannot wait\" to act on its findings.",
-      "url": "https://gizmodo.com/replacement-study-mit-2000692601",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/empty-desk-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-11-29T19:06:21Z"
-    },
-    {
-      "title": "Winners and losers of Black Friday 2025 - Retail Dive",
-      "description": "Online discounts were flat year over year. However, some retailers won with exclusive giveaways that enticed customers into stores.",
-      "url": "https://www.retaildive.com/news/winners-losers-black-friday-2025/806610/",
-      "urlToImage": "https://imgproxy.divecdn.com/drQg8l_9vrBQPeSFBD5v4_ae34RT0cgEd0G2AO6GNcQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMTEtMjlfMDkyODU5LnBuZw==.webp",
-      "source": "Retail Dive",
-      "publishedAt": "2025-11-29T18:49:48Z"
-    },
-    {
-      "title": "Walmart recall update: Customers warned to ‘immediately stop’ using products - AL.com",
-      "description": "Customers told to stop using the products, return them to the store for a refund.",
-      "url": "https://www.al.com/business/2025/11/walmart-recall-update-customers-warned-to-immediately-stop-using-products.html",
-      "urlToImage": "https://www.al.com/resizer/v2/ZSOUO4V3OJA7ZJMXUBOKVZRDD4.JPG?auth=2b575c61fa7f9070ea7de0eae2043099dd435640dc84f5cd1dc7f59913c6521e&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-11-29T16:01:00Z"
-    },
-    {
-      "title": "You Embarrassed Yourself, Husband Tells Wife, 34, After She Bragged About Her Salary To 'Insanely Wealthy' Cousin She Thought Was Poor - Yahoo",
-      "description": "A wedding on a wide, picturesque farm turned into a shock for a 34-year-old nurse practitioner who had always believed she outranked most of her husband's...",
-      "url": "https://www.yahoo.com/lifestyle/articles/embarrassed-yourself-husband-tells-wife-153106771.html",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/3309bd7852ce0bcbd8495dac53f2b978",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-11-29T15:31:06Z"
-    },
-    {
-      "title": "The Black Friday Menswear Deals Are Better Company Than Your Relatives - GQ",
-      "description": "The best Black Friday clothing deals of 2025 include up to 50% off menswear, watches, sneakers, and more. Here's everything we're buying—today and today only.",
-      "url": "https://www.gq.com/story/black-friday-clothing-deals-11-29-2025",
-      "urlToImage": "https://media.gq.com/photos/69277b63cc7c85f693fab920/16:9/w_1280,c_limit/bfcm-clothing-v3.png",
-      "source": "GQ Magazine",
-      "publishedAt": "2025-11-29T11:15:00Z"
-    },
-    {
-      "title": "Since Trump’s Return, Bets on His Brand Have Soured - The Wall Street Journal",
+      "title": "Asia Set for Cautious Open Ahead of Busy Data Week: Markets Wrap - Bloomberg.com",
       "description": null,
-      "url": "https://www.wsj.com/finance/stocks/donald-trump-djt-stock-crypto-slump-05b89b5b",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-30/asia-set-for-cautious-open-ahead-of-busy-data-week-markets-wrap",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-11-29T10:30:00Z"
-    },
-    {
-      "title": "The world’s youngest self-made billionaire hasn’t taken a day off in 3 years and can’t stop thinking about work—here’s how he keeps from burnout - Fortune",
-      "description": "“People generally burn out, not just from working hard, but from working hard on something that they don't feel as fulfilling and compounding,” he said.",
-      "url": "https://fortune.com/2025/11/29/self-made-billionaire-artifical-intelligence-brendan-foody-mercor-silcion-valley-startup-founders-technology/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Mercor-Founders-Adarsh-Hiremath-Brendan-Foody-e1762888211209.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-11-29T10:22:00Z"
-    },
-    {
-      "title": "Social Security: Reasons to Wait Until 70 to Claim Benefits - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/social-security-claim-benefits-age-d4867deb",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-11-29T06:00:00Z"
-    },
-    {
-      "title": "92 of the Best Black Friday Kitchen Deals to Level Up Your Cooking Arsenal (2025) - Bon Appétit",
-      "description": "We found the best Black Friday kitchen deals on our favorite air fryers, coffee makers, cookware sets, and just about everything else a home cook needs.",
-      "url": "https://www.bonappetit.com/story/black-friday-kitchen-deals-11-28-2025",
-      "urlToImage": "https://assets.bonappetit.com/photos/6920f5a48209edefdbcca707/16:9/w_1280,c_limit/11.21_BA_New%20Lede%20for%20Black%20Friday%20Kitchen%20Deals_v3.jpg",
-      "source": "Bon Appetit",
-      "publishedAt": "2025-11-29T03:01:00Z"
-    },
-    {
-      "title": "What to know about the looming federal ban on THC-infused drinks and snacks - PBS",
-      "description": "Buried in the bill that ended the federal government shutdown this month was a provision to ban impairing beverages and snacks made from hemp, which have proliferated across the country in recent years.",
-      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-the-looming-federal-ban-on-thc-infused-drinks-and-snacks",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2016-10-31T120000Z_853981172_S1BEUKBSBTAA_RTRMADP_3_USA-MARIJUANA-BANKS-1024x667.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-11-28T23:48:07Z"
-    },
-    {
-      "title": "Target Black Friday 2025: 101+ Best Deals to Shop While You Can - NBC News",
-      "description": "Target’s Black Friday sale is officially live. Save big on electronics, home, beauty and more.",
-      "url": "https://www.nbcnews.com/select/shopping/target-black-friday-deals-2025-rcna245887",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251125-black-friday-target-kb-social-V1-3f758d.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-11-28T23:03:23Z"
-    },
-    {
-      "title": "Worldwide Markets Roiled by Data-Center Snafu in Chicago Suburb - Bloomberg.com",
-      "description": "One of the first signs of trouble arrived at 9:41 p.m. Eastern time on Thursday, when most of Wall Street was shut and traders were still enjoying the Thanksgiving holiday in the US.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-28/worldwide-markets-roiled-by-data-center-snafu-in-chicago-suburb",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8pN3sbczgs/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-11-28T22:53:38Z"
+      "publishedAt": "2025-12-01T05:19:00Z"
     },
     {
-      "title": "These 58+ Walmart Black Friday deals are actually worth shopping - NBC News",
-      "description": "Black Friday is officially here, and Walmart is offering notable deals during the event.",
-      "url": "https://www.nbcnews.com/select/shopping/walmart-black-friday-deals-2025-rcna245886",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251125-black-friday-walmart-kb-social-V1-5dc2ad.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-11-28T20:37:38Z"
+      "title": "Asia Morning Briefing: BOJ Rate-Hike Bets Trigger Asia Selloff and Bitcoin Slide - CoinDesk",
+      "description": "Short-term Japanese yields reached their highest level since 2008, strengthening the yen and pressuring leveraged crypto positions during Hong Kong trading hours.",
+      "url": "https://www.coindesk.com/markets/2025/12/01/asia-morning-briefing-boj-rate-hike-bets-trigger-asia-selloff-and-bitcoin-slide",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e34398a808fa83f974bf3bc6788c943e5a0ffbbd-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2025-12-01T02:30:55Z"
     },
     {
-      "title": "Wall Street edges higher on Friday, pushing S&P 500 close to its record high - CBS News",
-      "description": "The S&P 500 closed near its Oct. 28 record, buoyed by optimism that the Federal Reserve could cut interest rates next month.",
-      "url": "https://www.cbsnews.com/news/stock-market-dow-jones-sp-500-nasdaq-november-28/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/28/71fbad8e-4d5b-4501-93ea-3e815c144bd7/thumbnail/1200x630/93f17b2cb98e5690586daacc65c02f71/gettyimages-2247715922.jpg",
+      "title": "Varda says it has proven space manufacturing works — now it wants to make it boring - TechCrunch",
+      "description": "CEO Will Bruey says people often get Varda wrong. The company isn't \"in the space industry; we're in-space industry,\" he said. Space is \"just another place to ship to.\"",
+      "url": "https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-30-at-5.51.53-PM.png?resize=1200,563",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-01T02:11:19Z"
+    },
+    {
+      "title": "Dow Jones Futures Fall; Trump Says He's Made Fed Chief Decision - Investor's Business Daily",
+      "description": "Leading stocks from many sectors stepped up last week.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-president-trump-fed-chief-decision/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/04/Stock-trumppoint-06-shutt.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-12-01T01:48:00Z"
+    },
+    {
+      "title": "Bitcoin Plunges to Below $88,000 in Risk-Off Start to December - Bloomberg.com",
+      "description": "Cryptocurrencies fell sharply on Monday, bringing fresh momentum to a wide-ranging selloff that appeared to have settled.",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-01/bitcoin-btc-slides-to-below-88-000-in-risk-off-start-to-december",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJlucFPfEV8M/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-01T00:53:00Z"
+    },
+    {
+      "title": "Polymarket CEO says his prediction market is \"the most accurate thing we have as mankind right now.\" - CBS News",
+      "description": "Shayne Coplan started Polymarket five years ago. He claims it is the most accurate tool out there for predicting future outcomes.",
+      "url": "https://www.cbsnews.com/news/polymarket-predictions-accuracy-shayne-coplan-60-minutes/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/82d0f163-65fa-4ecc-b51c-710306d03f94/thumbnail/1200x630/34e85dfa58814b150ea547e5461bb260/polymarket-article-1.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-11-28T20:36:46Z"
+      "publishedAt": "2025-12-01T00:30:29Z"
     },
     {
-      "title": "Will AI ever make big profits? Experts weigh in as bubble fears loom - ABC News",
+      "title": "The S&P 500 could hit 7,000 this week, while Trump hints at a Fed chair pick and Washington eyes this special election - Fortune",
+      "description": "\"The S&P 500 would need to rise by just 2.2% to reach 7,000. That could happen this coming week, in our view.\"",
+      "url": "https://fortune.com/2025/11/30/stock-market-outlook-sp500-7000-trump-fed-chair-pick-hassett-tennessee-special-election/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2247311091-e1764544765727.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-12-01T00:06:00Z"
+    },
+    {
+      "title": "CME’s Data Center Adds More Cooling After Outage, CyrusOne Says - Bloomberg.com",
+      "description": "The data center that supports CME Group Inc., one of the world’s largest derivatives exchanges, said it has bolstered its backup cooling capacity after overheating sparked a catastrophic 10-hour outage that roiled world markets on Friday.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-30/cme-s-data-center-adds-more-cooling-after-outage-cyrusone-says",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYFPoDdK1sJs/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-30T23:51:21Z"
+    },
+    {
+      "title": "Data centers in Oregon might be helping to drive an increase in cancer and miscarriages - The Verge",
+      "description": "Amazon data centers might be adding to a public health crisis in Morrow County, Oregon.",
+      "url": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hero-001-10-gallery-data-center-drone-cropped-copy.jpeg?quality=90&strip=all&crop=0%2C3.4383212962771%2C100%2C93.123357407446&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-11-30T23:17:08Z"
+    },
+    {
+      "title": "Trump Says He Has Made His Choice to Lead the Federal Reserve - Bloomberg.com",
+      "description": "President Donald Trump said Sunday he has decided on his pick for the next Federal Reserve chair after making clear he expects his nominee to deliver interest-rate cuts.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-30/fed-contender-hassett-says-market-is-ready-for-trump-chair-pick",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFh5ybi4.gQY/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-11-30T23:06:42Z"
+    },
+    {
+      "title": "FDA links 10 children's deaths to COVID-19 vaccines. Doctors want proof - ABC News",
       "description": null,
-      "url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id\\\\u003d127858140",
+      "url": "https://abcnews.go.com/US/fda-links-10-childrens-deaths-covid-19-vaccines/story?id\\\\u003d127985834",
       "urlToImage": null,
       "source": "ABC News",
-      "publishedAt": "2025-11-28T18:54:10Z"
+      "publishedAt": "2025-11-30T22:30:00Z"
+    },
+    {
+      "title": "Black Friday spending reflects K-shaped US economy - https-//www.semafor.com",
+      "description": "Black Friday spending reflected the forces shaping the US economy.",
+      "url": "https://www.semafor.com/article/11/30/2025/black-friday-spending-reflects-k-shaped-us-economy",
+      "urlToImage": "https://img.semafor.com/12d6ce3f35160776bd0a950c0e7a493964c8f102-3402x2268.jpg?rect=0,241,3402,1786&w=1200&h=630&q=75&auto=format",
+      "source": "Semafor.com",
+      "publishedAt": "2025-11-30T22:19:00Z"
+    },
+    {
+      "title": "New report examines how David Sacks might profit from Trump administration role - TechCrunch",
+      "description": "David Sacks’ role as President Donald Trump’s artificial intelligence and crypto czar could work out very well for his investments, according to a new report. However, Sacks fired back, calling the story a \"nothing burger.\"",
+      "url": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-604487976.jpg?resize=1200,798",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-30T21:39:04Z"
+    },
+    {
+      "title": "Plane skids off icy runway as snow snarls post-Thanksgiving travel - ABC7 Los Angeles",
+      "description": "In one terrifying incident for air travelers, a flight skidded off an icy runway amid the post-Thanksgiving travel rush.",
+      "url": "https://abcnews.go.com/US/1000-flights-canceled-nationwide-snowy-weather-hits-upper/story?id=127964896",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18230770_abcn-cleared-des-moines-plane-slides-img.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-11-30T20:58:50Z"
+    },
+    {
+      "title": "ChatGPT launched three years ago today - TechCrunch",
+      "description": "It’s no hyperbole to suggest that ChatGPT subsequently transformed the worlds of business and tech.",
+      "url": "https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-11-30T20:14:09Z"
+    },
+    {
+      "title": "Latest cheese recalls gets FDA’s most serious warning - TheStreet",
+      "description": "The cheese recall has an FDA Class I designation meaning consuming the product could cause illness or death.",
+      "url": "https://www.thestreet.com/retail/latest-cheese-recalls-gets-fdas-most-serious-warning",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2NTI1ODgwNzcwNDM4Njc1/fda-lead_ck_20250723.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-11-30T19:56:24Z"
     }
   ]
 }
