@@ -1,151 +1,119 @@
 {
-  "updatedAt": "2025-12-08T06:48:56.812Z",
+  "updatedAt": "2025-12-09T06:46:31.719Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Melissa McCarthy Kicks Off ‘SNL’ With Festive Monologue as She’s Toppled by a Snowstorm - The Hollywood Reporter",
-      "description": "The two-time Oscar nominee served as one of the final hosts of 'SNL' in 2025, with Josh O’Connor and Ariana Grande slated to lead the next finale two episodes of the year.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/melissa-mccarthy-saturday-night-live-snowstorm-1236444104/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/1-2.jpg?w=1296&h=730&crop=1",
+      "title": "Trump Says Netflix-Warner Bros. Deal Will Need Review - Bloomberg.com",
+      "description": "US President Donald Trump raised potential antitrust concerns around Netflix Inc.’s planned $72 billion acquisition of Warner Bros. Discovery Inc., noting that the market share of the combined entity may pose problems.",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-07/trump-says-netflix-warner-bros-deal-will-need-review",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPIplms7owhA/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-08T05:20:00Z"
+    },
+    {
+      "title": "Sydney Sweeney Finally Breaks Silence After American Eagle Ad Backlash - HuffPost",
+      "description": "The \"Euphoria\" actor said she was “honestly surprised” by the public’s reaction to the ad.",
+      "url": "https://www.huffpost.com/entry/sydney-sweeney-american-eagle-ad_n_6935a483e4b0a1c98be2552c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/69360c391900005f067f3750.jpeg?cache=PqknLPanTm&ops=500_281%2Cscalefit_1200_630",
+      "source": "HuffPost",
+      "publishedAt": "2025-12-08T00:48:22Z"
+    },
+    {
+      "title": "Golden Globes: Which films and stars could be nominated and when is the ceremony? - BBC",
+      "description": "The Globes are the first major film awards to announce their shortlists as awards season heats up.",
+      "url": "https://www.bbc.com/news/articles/c4gjg6wzzx0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6916/live/72103db0-d0f4-11f0-a892-01d657345866.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-08T00:30:22Z"
+    },
+    {
+      "title": "Kristen Stewart Says Acting Is ‘Unmasculine’ and Asks: ‘Have You Ever Heard of a Female Actor That Was Method?’ - Variety",
+      "description": "Kristen Stewart asks, 'Have you ever heard of a female actor that was method?'",
+      "url": "https://variety.com/2025/film/news/kristen-stewart-acting-unmasculine-female-actor-method-1236602770/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2249462985.jpg?crop=0px%2C137px%2C3600px%2C2025px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-12-07T21:19:00Z"
+    },
+    {
+      "title": "Ja Rule calls 50 Cent a ‘snitch’ after Diddy docuseries release - TheGrio",
+      "description": "Ja Rule is calling Curtis \"50 Cent\" Jackson a \"snitch\" this week, following the release of Jackson's docuseries \"Sean Combs: The Reckoning.\"",
+      "url": "https://thegrio.com/2025/12/07/ja-rule-calls-50-cent-a-snitch-after-diddy-docuseries-release/",
+      "urlToImage": "https://thegrio.com/wp-content/uploads/2025/12/Untitled-design-45.png",
+      "source": "TheGrio",
+      "publishedAt": "2025-12-07T21:03:16Z"
+    },
+    {
+      "title": "LAFCA Award Winners Voting Underway (Updating Live) - The Hollywood Reporter",
+      "description": "Paul Thomas Anderson won best director for the film, while Ethan Hawke and Rose Byrne won best lead performance for 'Blue Moon' and 'If I Had Legs I'd Kick You.'",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/2025-la-film-critics-association-winners-1236444254/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/rev-1-OBAA-DUS-250113-0059-8_High_Res_JPEG-H-2025.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2025-12-07T05:15:00Z"
+      "publishedAt": "2025-12-07T19:38:05Z"
     },
     {
-      "title": "Tucker Wetmore's Song 'Proving Me Right' is About Model Bryana Ferringer - TMZ",
-      "description": "Rising country star Tucker Wetmore sings that a lady in his life kept on doing him wrong in his new track ... and, we now know who he means -- his model ex!",
-      "url": "https://www.tmz.com/2025/12/06/tucker-wetmore-new-song-about-ex-bryanna-ferringer/",
-      "urlToImage": "https://imagez.tmz.com/image/e4/16by9/2025/12/06/e4fd52486574497282428d84e7cdd82d_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-12-07T02:00:20Z"
+      "title": "\"It f**king sucks\": Lillard responds to Tarantino criticism - Salon.com",
+      "description": "Hollywood has come to the defense of several actors who caught strays in a recent Tarantino rant.",
+      "url": "https://www.salon.com/2025/12/07/it-fking-sucks-lillard-responds-to-tarantino-criticism/",
+      "urlToImage": "https://www.salon.com/app/uploads/2024/08/quentin_tarantino_2157607359.jpg",
+      "source": "Salon",
+      "publishedAt": "2025-12-07T19:37:27Z"
     },
     {
-      "title": "Trump awards medals to the Kennedy Center honorees including Sylvester Stallone, George Strait and more - CBS News",
-      "description": "President Trump presented medals to the 2025 Kennedy Center honorees during an Oval Office ceremony.",
-      "url": "https://www.cbsnews.com/news/trump-kennedy-center-honorees-sylvester-stallone-george-strait/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/06/682683d1-3726-4699-84a1-223cdfa49c5a/thumbnail/1200x630/d6c22f51c2a410ff25813588d2302974/ap25340814908856.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-07T00:30:00Z"
+      "title": "‘Five Nights At Freddy’s 2’ Grosses $63 Million—But Falls Short Of First Film’s Opening Weekend - Forbes",
+      "description": "The first film in the franchise opened with $80 million, breaking Halloween weekend records at the box office.",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2025/12/07/five-nights-at-freddys-2-grosses-63-million-but-falls-short-of-first-films-opening-weekend/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6935c15ce08aecaba00b66d3/0x0.jpg?format=jpg&crop=3000,1688,x0,y81,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-12-07T18:05:18Z"
     },
     {
-      "title": "White House Uses Sabrina Carpenter ‘SNL’ Clip for Another ICE Deportation Video - Rolling Stone",
-      "description": "The White House posted a pro-ICE video using an altered Sabrina Carpenter 'SNL' ad after she slammed them for using \"Juno\" in another similar clip.",
-      "url": "http://www.rollingstone.com/music/music-news/white-house-sabrina-carpenter-snl-ice-video-1235479504/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/SabrinaCarpenterMarcelloHernandez-1.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-12-06T23:57:36Z"
-    },
-    {
-      "title": "Texans’ Braxton Berrios, influencer Alix Earle break up after two years - New York Post",
-      "description": "One of the NFL’s celebrity couples is reportedly no more.",
-      "url": "https://nypost.com/2025/12/06/sports/texans-braxton-berrios-alix-earle-break-up-after-two-years/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/newspress-collage-khodvmck3-1765062886789.jpg?quality=75&strip=all&1765044958&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2025-12-06T23:33:00Z"
-    },
-    {
-      "title": "Sabrina Carpenter Tells Industry Insiders ‘Write the Music You Want to Listen to Yourself’ as She Receives Variety’s Hitmaker of the Year Honor - Variety",
-      "description": "Sabrina Carpenter urged industry insiders to 'write the music you want to listen to yourself' as she accepted Variety's Hitmaker of the Year award.",
-      "url": "https://variety.com/2025/music/news/sabrina-carpenter-jack-antonoff-variety-hitmaker-award-1236601911/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/P103FWK7.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-06T22:52:00Z"
-    },
-    {
-      "title": "Richard Gere addresses his 20-year ban from the Oscars stage: 'I do what I do' - Entertainment Weekly",
-      "description": "Richard Gere made rare remarks about his 20-year ban from the Oscars stage after he advocated for Tibetan independence at the 1993 Academy Awards: 'I didn't take it particularly personally.'",
-      "url": "https://ew.com/richard-gere-addresses-20-year-ban-from-oscars-stage-11863654",
-      "urlToImage": "https://ew.com/thmb/W6wZdcjvMTnFvv3Qt354G5ux4As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Richard-Gere-120625-2-e2626cb343f74286854ac4f81f0e6668.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2025-12-06T22:11:29Z"
-    },
-    {
-      "title": "Sean Combs' Mother Rips Netflix Over Alleged \"Fake Narratives\" In 'Reckoning' Docuseries - Deadline",
-      "description": "EXCLUSIVE: Sean Combs' mother tells Deadline Netflix's chart-topping Reckoning docuseries is full of lies & her son never hit her",
-      "url": "http://deadline.com/2025/12/sean-combs-mother-reaction-netflix-docuseries-1236638682/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/sean-combs-mother-oct-3-2025-getty.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-12-06T21:49:00Z"
-    },
-    {
-      "title": "Box Office: ‘Five Nights at Freddy’s 2’ Opening to Historic $57M, Scares Off Post-Thanksgiving Slump - The Hollywood Reporter",
-      "description": "The Blumhouse and Universal horror sequel is on course to boast the biggest opening ever for the weekend after the holiday, among other milestones.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/five-nights-at-freddys-2-box-office-historic-opening-1236443996/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/5780_D032_00233R-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-12-06T18:34:11Z"
-    },
-    {
-      "title": "Jane Fonda Calls Netflix-Warner Bros. Deal 'Catastrophic' - Variety",
-      "description": "Jane Fonda called the Netflix-Warner Bros. deal a 'catastrophic' development that threatens to 'destroy our creative industry.'",
-      "url": "https://variety.com/2025/film/news/jane-fonda-netflix-warner-bros-catastrophic-1236602139/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2247376329.jpg?crop=0px%2C251px%2C5346px%2C3007px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-12-06T18:19:00Z"
-    },
-    {
-      "title": "Sydney Sweeney addresses American Eagle ad, says she's 'against hate' - NBC News",
-      "description": "After months of silence followed by an uncomfortable interview with GQ magazine, actor Sydney Sweeney has finally addressed her controversial American Eagle advertisement head-on",
-      "url": "https://www.nbcnews.com/news/us-news/sydney-sweeney-american-eagle-campaign-rcna247738",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251206-Sydney-Sweeney-ch-1003-fc1b3c.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-12-06T17:49:57Z"
-    },
-    {
-      "title": "Julia Roberts and Sean Penn Bond Over Paul Thomas Anderson, Luca Guadagnino and ‘Cancel Culture’: ‘Shame Is Underrated These Days’ - Variety",
-      "description": "The \"One Battle After Another\" and \"After the Hunt\" stars join forces to talk \"cancel culture\" and their love for directors.",
-      "url": "https://variety.com/2025/film/news/julia-roberts-sean-penn-cancel-culture-one-battle-after-another-1236598845/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/Julia-Roberts-and-Sean-Penn-Variety-CNN-Actors-on-Actors.jpg?crop=127px%2C228px%2C1041px%2C585px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-12-06T14:00:00Z"
-    },
-    {
-      "title": "'The Abandons' is a sudsy soap opera dressed up in spurs and a cowboy hat - NPR",
-      "description": "On the surface it's a gorgeous, hardscrabble Western, awash in stark landscapes, grubby faces, bar fights and banditry. But scratch away the grime, and you expose the pure, glitzy soap opera beneath.",
-      "url": "https://www.npr.org/2025/12/06/nx-s1-5627082/the-abandons-netflix-western",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2117x1191+751+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2Fcc%2F48d4da9f440c88ca95cba2ab6df2%2Fabandons-240924-mc-00117r.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-12-06T12:00:00Z"
-    },
-    {
-      "title": "Frank Gehry, who stretched architecture’s boundaries, dies at 96 - The Washington Post",
-      "description": "His unearthly but brilliant designs, from Los Angeles to Bilbao, became global landmarks.",
-      "url": "https://www.washingtonpost.com/obituaries/2025/12/05/frank-gehry-dead/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ANAHTTQXHFEJJNZRHBDAJLOPUA.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-06T03:44:47Z"
-    },
-    {
-      "title": "Why countries are pulling out of 2026 Eurovision contest over Israel's participation - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/International/countries-pulling-2026-eurovision-contest-israels-participation/story?id\\\\u003d128141477",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-12-06T00:40:58Z"
-    },
-    {
-      "title": "Princess Charlotte Is Princess Diana's Mini-Me in a Blue Velvet Dress With This Kate Middleton-Coded Hair Accessory - instyle.com",
-      "description": "Princess Charlotte wore a Princess Diana-coded velvet dress with a Kate Middleton-coded accessory to the fifth annual \"Together at Christmas\" carol service. See her full look, here.",
-      "url": "https://www.instyle.com/princess-charlotte-princess-diana-velvet-dress-kate-middleton-accessory-11863037",
-      "urlToImage": "https://www.instyle.com/thmb/b6zIMdy0ED7K_6kCzMkn1P0hCac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2220104363-c924664647804803823167eaaa475edb.jpg",
+      "title": "Melissa McCarthy Stuns in a Plunging Velvet Bodycon Catsuit for Glowing 'SNL' Hosting Gig - instyle.com",
+      "description": "Melissa McCarthy stole the show at her sixth 'SNL' hosting gig on December 6, turning heads in a plunging velvet bodycon catsuit with rhinestone-encrusted shoulders. See the look, here.",
+      "url": "https://www.instyle.com/melissa-mccarthy-plunging-velvet-bodycon-jumpsuit-saturday-night-live-host-11863746",
+      "urlToImage": "https://www.instyle.com/thmb/HOEsbGyZ3h6r2qEC9Ad24SSj1J4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22493566191-84e751eed0d44e708dbccd57a2791018.jpg",
       "source": "InStyle",
-      "publishedAt": "2025-12-05T19:02:12Z"
+      "publishedAt": "2025-12-07T17:05:32Z"
     },
     {
-      "title": "All the Photos of the Wales Family At Their Annual \"Together At Christmas\" Carol Service - Harper's BAZAAR",
-      "description": "Prince William, Princess Catherine, and their children stepped out in festive looks for their “﻿Together At Christmas\" Carol Service at Westminster Abbey.",
-      "url": "https://www.harpersbazaar.com/celebrity/latest/g69646496/prince-william-kate-middleton-wales-family-together-at-christmas-carol-service-2025-photos/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2249483139-693324c6a542d.jpg?crop=0.689xw:0.517xh;0.131xw,0.142xh&resize=1200:*",
-      "source": "HarpersBAZAAR.com",
-      "publishedAt": "2025-12-05T18:48:00Z"
+      "title": "Gene Simmons Says ‘Bad Decisions’ Contributed to Ace Frehley’s Death - Ultimate Classic Rock",
+      "description": "\"Falling down the stairs — I’m not a doctor — doesn’t kill you. There may have been other issues, and it breaks my heart.\"",
+      "url": "https://ultimateclassicrock.com/gene-simmons-ace-frehley-bad-decisions/",
+      "urlToImage": "https://townsquare.media/site/295/files/2025/06/attachment-GettyImages-129914531.jpg?w=1200&q=75&format=natural",
+      "source": "Ultimate Classic Rock",
+      "publishedAt": "2025-12-07T15:20:10Z"
     },
     {
-      "title": "Quentin Tarantino trashes 'weak sauce' There Will Be Blood star: 'The weakest male actor in SAG' - Entertainment Weekly",
-      "description": "Quentin Tarantino opined that one 'weak sauce' actor holds 'There Will Be Blood' back from further greatness: 'The weakest male actor in SAG.'",
-      "url": "https://ew.com/quentin-tarantino-trashes-weak-sauce-there-will-be-blood-star-11860944",
-      "urlToImage": "https://ew.com/thmb/9fp63Y_AVsbqHc3wuX0utn-L--E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Quentin-Tarantino-120225-796f717404a847e2af6ed2e80c909e47.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2025-12-03T01:59:00Z"
+      "title": "The 17 Best Movie Performances of 2025 - Rolling Stone",
+      "description": "From the return of Daniel Day-Lewis to not one but two great turns from Michael B. Jordan — these were the actors that made our year.",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-lists/best-movie-performances-2025-1235473596/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/Year-In-Review_MOVIE_Performance_NEW.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-12-07T14:00:40Z"
+    },
+    {
+      "title": "White House use clip of Sabrina Carpenter on ‘SNL’ for new ICE deportation video - NME",
+      "description": "White House use clip of Sabrina Carpenter on ‘SNL’ Clip for new ICE deportation video after she called them \"evil and disgusting\"",
+      "url": "https://www.nme.com/news/music/white-house-use-clip-of-sabrina-carpenter-on-snl-clip-for-new-ice-deportation-video-3916618",
+      "urlToImage": "https://www.nme.com/wp-content/uploads/2024/07/Sabrina-Carpenter-lead-press-image.jpg",
+      "source": "NME",
+      "publishedAt": "2025-12-07T08:38:48Z"
+    },
+    {
+      "title": "Remembering Frank Gehry, legendary architect of Guggenheim Museum Bilbao - The Art Newspaper",
+      "description": "The Toronto-born architect, who reshaped global skylines with his sweeping, seemingly unfinished creations, has died, aged 96",
+      "url": "https://www.theartnewspaper.com/2025/12/07/remembering-frank-gehry-legendary-architect-of-guggenheim-museum-bilbao-has-died-aged-96",
+      "urlToImage": "https://cdn.sanity.io/images/cxgd3urn/production/3690afe62a5c40579accb3e849d1d92542a4ee99-594x418.jpg?rect=0,31,594,356&w=1200&h=720&q=85&fit=crop&auto=format",
+      "source": "Art Newspaper",
+      "publishedAt": "2025-12-07T05:31:07Z"
+    },
+    {
+      "title": "Doctor sentenced to 30 months over Matthew Perry’s death from ketamine - The Washington Post",
+      "description": "Salvador Plasencia was initially charged in August 2024 and accepted a plea deal this summer.",
+      "url": "https://www.washingtonpost.com/style/2025/12/03/matthew-perry-doctor-sentenced/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KAVLFOFSIBQUAJZLGAJ4CI2CRM.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-12-04T06:39:02Z"
     }
   ]
 }
