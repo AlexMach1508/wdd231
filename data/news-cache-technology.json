@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2025-12-09T06:46:31.554Z",
+  "updatedAt": "2025-12-10T06:47:31.921Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple TV previews new F1 streaming deal, confirms driver onboard cams will be included - 9to5Mac",
-      "description": "Today was the last race of the 2025 F1 championship, and that also meant the last time ESPN will broadcast...",
-      "url": "https://9to5mac.com/2025/12/07/apple-tv-formula-1-features-first-look-app/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-app-f1-channel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-12-07T23:17:00Z"
+      "title": "Nintendo Switch 2 System Update 21.1.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+      "description": "Available for Switch as well",
+      "url": "https://www.nintendolife.com/news/2025/12/nintendo-switch-2-system-update-21-1-0-is-now-live-here-are-the-full-patch-notes",
+      "urlToImage": "https://images.nintendolife.com/6d8c66cc0ad38/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-12-09T01:35:00Z"
     },
     {
-      "title": "A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert",
-      "description": "Scientists looking to tackle our ongoing obesity crisis have made an important discovery: Intermittent calorie restriction leads to significant changes both in the gut and the brain, which may open up new options for maintaining a healthy weight.",
-      "url": "https://www.sciencealert.com/a-fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brains",
-      "urlToImage": "https://www.sciencealert.com/images/2025/11/Clock-Inside-Human-Brain-Illustration-.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-12-07T21:50:06Z"
+      "title": "The best video games of 2025 - Mashable",
+      "description": "Did your favorite game of the year make the cut?",
+      "url": "https://mashable.com/article/best-video-games-of-2025",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02bH0W5V0ferfCHST6HDZKW/hero-image.fill.size_1200x675.v1764950216.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-12-09T01:25:15Z"
     },
     {
-      "title": "RIP, ‘Dead Space’….Again (2008-2023) - Gizmodo",
-      "description": "Unless EA decides to sell off the 'Dead Space' IP to someone else, the sci-fi horror series has died a second death.",
-      "url": "https://gizmodo.com/rip-dead-space-again-2000696495",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/dead-space-hed2-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-12-07T21:15:22Z"
+      "title": "Ditching Spotify Has Been A Bleak Experience To Say The Least - aftermath.site",
+      "description": "It's bad out there",
+      "url": "https://aftermath.site/cancel-spotify-wrapped-ai-ceo-apple-music/",
+      "urlToImage": "https://images.unsplash.com/photo-1623018035231-ebe361a64c76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxzcG90aWZ5fGVufDB8fHx8MTc2NDkxMTQxN3ww&ixlib=rb-4.1.0&q=80&w=2000",
+      "source": "Aftermath.site",
+      "publishedAt": "2025-12-08T23:05:16Z"
     },
     {
-      "title": "Gravity-Defying Colorado Mansion Designed by a Rocket Scientist Hits the Market for $2.7 Million - Realtor.com",
-      "description": null,
-      "url": "https://www.realtor.com/news/unique-homes/colorado-rocket-scientist-home-sale-daryl-maus/",
-      "urlToImage": null,
-      "source": "Realtor.com News",
-      "publishedAt": "2025-12-07T21:11:25Z"
+      "title": "Horses Review: A Fine Game That Should’ve Came And Went - Kotaku",
+      "description": "The horror game was banned from Steam and Epic, and the resulting furor feels needlessly intense after playing it",
+      "url": "https://kotaku.com/horses-review-steam-epic-games-ban-horror-ride-race-2000651442",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/horses-review-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-08T21:06:07Z"
     },
     {
-      "title": "USB Video Capture Devices: Wow! They’re All Bad!! - Hackaday",
-      "description": "[VWestlife] purchased all kinds of USB video capture devices — many of them from the early 2000s — and put them through their paces in trying to digitize VHS classics like Instant Firep…",
-      "url": "https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png",
-      "source": "Hackaday",
-      "publishedAt": "2025-12-07T21:00:00Z"
+      "title": "Halo Infinite Is Four Years Old Today And It’s Bumming Me Out - Kotaku",
+      "description": "Remember what Halo Infinite was supposed to be? I do",
+      "url": "https://kotaku.com/halo-infinite-campaign-master-chief-release-date-2000651439",
+      "urlToImage": "https://kotaku.com/app/uploads/2023/01/37fde19552b92da82bb93097bbf638ed-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-08T20:46:43Z"
     },
     {
-      "title": "How Home Assistant Leads a 'Local-First Rebellion' - Slashdot",
-      "description": "It runs locally, a free/open source home automation platform connecting all your devices together, regardless of brand.   And GitHub's senior developer calls it \"one of the most active, culturally important, and technically demanding open source ecosystems on…",
-      "url": "https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion",
-      "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
-      "source": "Slashdot.org",
-      "publishedAt": "2025-12-07T20:53:08Z"
+      "title": "Pokémon TCG Pocket wins Apple's Best Game of the Year award - GamesIndustry.biz",
+      "description": "Pokémon TCG Pocket, Dredge, Cyberpunk 2077, Porta Nubi, and What The Clash? all received recognition in Apple's year-en…",
+      "url": "https://www.gamesindustry.biz/pokemon-tcg-pocket-wins-apples-best-game-of-the-year-award",
+      "urlToImage": "https://assetsio.gnwcdn.com/Poke%CC%81mon_TCG_Pocket_Trading_13.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2025-12-08T20:40:59Z"
     },
     {
-      "title": "Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus - Phoronix",
-      "description": "Merged to the mainline Linux kernel last year was GPIB drivers in the kernel's 'staging' area",
-      "url": "https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=gpib",
-      "source": "Phoronix",
-      "publishedAt": "2025-12-07T19:47:00Z"
+      "title": "Who killed Star Wars: Knights of the Old Republic II’s 'Restored Content DLC' for Switch? Disney lawyers. - Game File | Stephen Totilo",
+      "description": "EXCLUSIVE: How a studio's multi-year effort to give Switch (and mobile) gamers official access to KOTOR II’s infamously cut content collapsed. The emails. The timeline. Plans B and C. The inside story",
+      "url": "https://www.gamefile.news/p/kotor-ii-restored-content-mod-dlc-switch-killed-disney",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!ZX_s!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F020b719b-95b4-46cf-b141-174b5f30d46d_2154x1352.png",
+      "source": "Gamefile.news",
+      "publishedAt": "2025-12-08T20:36:12Z"
     },
     {
-      "title": "6 Cheap Smart TVs To Avoid At All Costs, According To Consumer Reports - bgr.com",
-      "description": "According to Consumer Reports, Vizio, Toshiba, TCL, and Hisense make some of the worst budget smart television sets on the market that you should avoid.",
-      "url": "https://www.bgr.com/2039725/cheap-smart-tvs-to-avoid-according-consumer-reports-2025/",
-      "urlToImage": "https://www.bgr.com/img/gallery/6-cheap-smart-tvs-to-avoid-at-all-costs-according-to-consumer-reports/l-intro-1764172327.jpg",
+      "title": "Tomb Raider News Confirmed For The Game Awards Following Remake Leak - GameSpot",
+      "description": "\"Lara Croft returns at The Game Awards.\"",
+      "url": "https://www.gamespot.com/articles/tomb-raider-news-confirmed-for-the-game-awards-following-remake-leak/1100-6536770/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4618544-screenshot2025-12-08at1.32.27%E2%80%AFpm.png",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-08T20:26:25Z"
+    },
+    {
+      "title": "The Reason Why Vizio TVs Are So Cheap - bgr.com",
+      "description": "Vizio is known for its affordability, so much so that users might doubt the quality of its devices. But there's a reason why those TVs are so cheap.",
+      "url": "https://www.bgr.com/2041063/why-vizio-tvs-so-cheap-explained/",
+      "urlToImage": "https://www.bgr.com/img/gallery/the-reason-why-vizio-tvs-are-so-cheap/l-intro-1765224563.jpg",
       "source": "BGR",
-      "publishedAt": "2025-12-07T19:02:00Z"
+      "publishedAt": "2025-12-08T20:09:23Z"
     },
     {
-      "title": "PS5 reigns supreme over Black Friday, accounting for a staggering 62% of all console sales - Eurogamer",
-      "description": "The European Top 20 didn't welcome any new entries last week, but Black Friday week saw a boost in sales nonetheless th…",
-      "url": "https://www.eurogamer.net/ps5-reigns-supreme-over-black-friday-accounting-for-a-staggering-62-of-all-console-sales",
-      "urlToImage": "https://assetsio.gnwcdn.com/consoles_e007ips.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-12-07T18:33:00Z"
+      "title": "Metroid Prime 4 On Switch 1 Impresses Digital Foundry - \"Nigh-Imperceptible Dips\" - Nintendo Life",
+      "description": "It's \"one of Switch 1's prettiest games yet\"",
+      "url": "https://www.nintendolife.com/news/2025/12/metroid-prime-4-on-switch-1-impresses-digital-foundry-nigh-imperceptible-dips",
+      "urlToImage": "https://images.nintendolife.com/34644e3f34ad9/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-12-08T19:30:00Z"
     },
     {
-      "title": "The ROG Xbox Ally Has Just Received Its First Major Discount - Pure Xbox",
-      "description": "Available until late December or while stocks last",
-      "url": "https://www.purexbox.com/news/2025/12/the-rog-xbox-ally-has-just-received-its-first-major-discount",
-      "urlToImage": "https://images.purexbox.com/52915c83cc6dc/large.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2025-12-07T18:04:19Z"
+      "title": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds - TechCrunch",
+      "description": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.",
+      "url": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/claude-code-slack.png?resize=1200,685",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-08T19:18:05Z"
     },
     {
-      "title": "Sunday Preview – Festive squig clothing returns! - Warhammer Community",
-      "description": "Your preview of everything available next week.",
-      "url": "https://www.warhammer-community.com/articles/zispb7vp/sunday-preview-festive-squig-clothing-returns",
-      "urlToImage": "https://assets.warhammer-community.com/sundaypreview-dec07-1-feature-a1bkpzn7gc.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2025-12-07T18:03:15Z"
+      "title": "The Apple Watch Series 11 just got a big $100 discount ahead of the holidays - The Verge",
+      "description": "The Apple Watch Series 11 has been discounted a few times since it launched, but it’s now cheaper than ever at $299 ($200 off).",
+      "url": "https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Apple-Watch-Series-11-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-08T19:17:59Z"
     },
     {
-      "title": "Pokémon GO Events This Week: December 8 to December 14, 2025 - Pokémon GO Hub",
-      "description": "Pokémon GO’s December 8 to December 14 week brings with it the first full week of the new season of Precious Paths! Enjoy a busy week with the Well Armed Event, and Gigantamax Snorlax Max Battle Day! Plus the weekly rotating Spotlight and Raid Hours, Dynamax …",
-      "url": "https://pokemongohub.net/post/news/pokemon-go-events-this-week-december-8-to-december-14-2025/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/12/well_armed_pokemon_go.jpg",
-      "source": "Pokemon GO Hub",
-      "publishedAt": "2025-12-07T18:02:39Z"
+      "title": "Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide - The Verge",
+      "description": "Lenovo may reveal its Legion Pro Rollable, a gaming laptop hiding an ultrawide OLED screen, at CES 2026 in a few weeks.",
+      "url": "https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/lenovolegionrollable.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-08T18:33:51Z"
     },
     {
-      "title": "Review | The 10 best video games of the year - The Washington Post",
-      "description": "“Ghost of Yotei,” “Hollow Knight: Silksong” and “Clair Obscur: Expedition 33” all make our critic’s list of the top 10 video games of the year.",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/12/07/best-video-games-2025/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AOXZM3P5XFAIFMS6H76W2RPAXA.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-07T18:00:59Z"
+      "title": "iOS 26.2 gets new RC for iPhone ahead of launch - 9to5Mac",
+      "description": "Apple has just released a second RC build of iOS 26.2 for developers and public beta testers alike, here’s what that means.",
+      "url": "https://9to5mac.com/2025/12/08/ios-26-2-gets-new-rc-for-iphone-ahead-of-launch/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-rc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-12-08T18:18:00Z"
     },
     {
-      "title": "Neat Techniques To Make Interactive Light Sculptures - Hackaday",
-      "description": "[Voria Labs] has created a whole bunch of artworks referred to as Lumanoi Interactive Light Sculptures. A new video explains the hardware behind these beautiful glowing pieces, as well as the magic…",
-      "url": "https://hackaday.com/2025/12/07/neat-techniques-to-make-interactive-light-sculptures/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/The-Electronics-that-Make-Lumanoi-Interactive-0-3-screenshot.png",
-      "source": "Hackaday",
-      "publishedAt": "2025-12-07T18:00:00Z"
+      "title": "Google Says First AI Glasses With Gemini Will Arrive in 2026 - Bloomberg.com",
+      "description": "Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivNytzZUiU00/v1/1200x861.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-08T18:00:38Z"
     },
     {
-      "title": "iam8bit sues Skybound Games for $4m, claiming breach of contract and theft of designs - Eurogamer",
-      "description": "Iam8bit is suing Skybound Games for £2.9 million ($4 million), alleging breach of contract, fraudulent expenses, theft …",
-      "url": "https://www.eurogamer.net/iam8bit-sues-skybound-games-for-4m-claiming-breach-of-contract-and-theft-of-designs",
-      "urlToImage": "https://assetsio.gnwcdn.com/stray-hero-art-1920x-q80.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-12-07T17:37:44Z"
+      "title": "Analogue 3D Game Console Rolls Out Throwback Transparent N64 Colors - CNET",
+      "description": "Tonight we're going to game like it's 1999, as the modern recreation of the Nintendo 64 launches in \"funtastic\" colors of that year.",
+      "url": "https://www.cnet.com/tech/gaming/analogue-3d-game-console-rolls-out-throwback-transparent-n64-colors/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/015ef3a908bee5947c86b940adb6d1c53ce21e1a/hub/2025/12/08/fff9ca26-3e0e-4e5e-a637-85332ad4156d/le-funtastic-img04.png?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-12-08T17:34:00Z"
     },
     {
-      "title": "I failed to recreate the 1996 Space Jam website with Claude - Hacker News",
-      "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46183294",
-      "urlToImage": null,
-      "source": "Hacker News",
-      "publishedAt": "2025-12-07T17:20:10Z"
+      "title": "Deals for Today: Save $80 on Switch 2 + Mario Kart World - IGN",
+      "description": "Save $80 on the Switch 2 + Mario Kart World and check out every game dropping this holiday.",
+      "url": "https://www.ign.com/articles/deals-for-today-december-8",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/08/copy-of-mashable-black-friday-2025-product-backgrounds-26-1765201148133.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-12-08T17:29:51Z"
     },
     {
-      "title": "I Shared the Most Romantic Night of My Life With My Crush. The Next Few Days Were Hell On Earth. - Slate",
-      "description": "What did I do wrong?",
-      "url": "https://slate.com/advice/2025/12/university-boy-crush-advice-friends-theater.html",
-      "urlToImage": "https://compote.slate.com/images/a65c2f6c-6dab-47c7-a5a5-9b57bdd29c17.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "source": "Slate Magazine",
-      "publishedAt": "2025-12-07T17:00:00Z"
-    },
-    {
-      "title": "Gemini is everywhere now, but Android Auto is the first place I’ve really been sold on it - 9to5Google",
-      "description": "Over the past few months, especially, Gemini has taken over everything Google, with Assistant having largely vanished. Yet, in most...",
-      "url": "http://9to5google.com/2025/12/07/gemini-android-auto-best-place/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/android-auto-gemini-live-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-07T17:00:00Z"
-    },
-    {
-      "title": "Google's latest update changed the way I feel about NotebookLM - Android Police",
-      "description": "I found something to love even more",
-      "url": "https://www.androidpolice.com/how-google-made-notebooklm-less-essential-for-me/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/a-notebook-with-the-notebooklm-logo-on-its-cover-a-blue-pen-resting-on-top-and-the-notebooklm-name-displayed-below.png?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2025-12-07T16:15:00Z"
-    },
-    {
-      "title": "The Game Awards 2025 Predictions: PS5 Games, the Muppets, and Geoff Keighley's Shoes - Push Square",
-      "description": "What's gonna happen?",
-      "url": "https://www.pushsquare.com/features/the-game-awards-2025-predictions-ps5-games-the-muppets-and-geoff-keighleys-shoes",
-      "urlToImage": "https://images.pushsquare.com/870572b16ca86/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-12-07T16:00:00Z"
+      "title": "We found the 11 best MagSafe wallets that let you ditch your real one - CNN",
+      "description": "The best MagSafe wallets let you carry your cards, ID and cash on the go with ease, so we found 11 options from Apple, OtterBox, Pelican and more.",
+      "url": "https://www.cnn.com/cnn-underscored/electronics/best-magsafe-wallet",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/magsafe-wallets-lead-2-1.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-12-08T17:13:00Z"
     }
   ]
 }

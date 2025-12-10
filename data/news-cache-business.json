@@ -1,167 +1,55 @@
 {
-  "updatedAt": "2025-12-09T06:46:31.623Z",
+  "updatedAt": "2025-12-10T06:47:32.012Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "IBM Close to Buying Confluent in $11 Billion Deal, WSJ Says - Bloomberg.com",
-      "description": "International Business Machines Corp. is in advanced negotiations to acquire data infrastructure firm Confluent for around $11 billion, the Wall Street Journal reported, citing people familiar with the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-08/ibm-close-to-buying-confluent-in-11-billion-deal-wsj-says",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEJ5rx90I9pU/v0/1200x799.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-12-08T04:48:00Z"
+      "title": "Behind Paramount’s Relentless Campaign to Woo Warner Discovery and President Trump - The Wall Street Journal",
+      "description": "David Ellison has launched a hostile takeover bid for Warner Discovery, taking his case directly to shareholders after Netflix clinched a deal",
+      "url": "https://www.wsj.com/business/media/paramount-netflix-warner-bros-battle-ellisons-a86fe15c",
+      "urlToImage": "https://images.wsj.net/im-79220859/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-12-09T01:21:00Z"
     },
     {
-      "title": "Yardeni turns less bullish on Magnificent Seven as growth moderates (NVDA:NASDAQ) - Seeking Alpha",
-      "description": "Yardeni turns less bullish on Magnificent Seven as growth moderates",
-      "url": "https://seekingalpha.com/news/4529159-yardeni-turns-less-bullish-on-magnificent-seven-as-growth-moderates",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229932998/image_2229932998.jpg?io=getty-c-w630",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-12-08T02:05:06Z"
+      "title": "PepsiCo to cut prices, eliminate products as part of a deal with an activist investor - AP News",
+      "description": "PepsiCo plans to cut prices and eliminate some of its products under a deal with an activist investor announced Monday. The Purchase, New York-based company, which makes Frito-Lay products as well as beverages, said it will cut nearly 20% of its product offer…",
+      "url": "https://apnews.com/article/pepsico-activist-investor-elliott-05525e906a78353e2637c02a00f767ca",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f11a7c7/2147483647/strip/true/crop/4000x2250+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2Fc5%2F7ed9eb30667127ea2e57753d4591%2Fefc84ae7d75e40c1ae39a7ee70f132c4",
+      "source": "Associated Press",
+      "publishedAt": "2025-12-09T00:05:00Z"
     },
     {
-      "title": "Japan Confirms Deeper GDP Decline, Backing Takaichi’s Stimulus - Bloomberg.com",
-      "description": "Japan’s economy shrank in the three months through September, the government confirmed in a revised report, giving some justification for Prime Minister Sanae Takaichi’s stimulus package announced last month.",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-08/japan-confirms-deeper-gdp-contraction-backing-stimulus-package",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io4gPy0_U4h8/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-12-08T01:20:00Z"
-    },
-    {
-      "title": "A mom thought her daughter was texting friends before her suicide. It was an AI chatbot. - CBS News",
-      "description": "Parents warn AI chatbots on Character AI sent sexually explicit content to their 13-year-old daughter.",
-      "url": "https://www.cbsnews.com/news/parents-allege-harmful-character-ai-chatbot-content-60-minutes/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/07/eaf85647-e303-4a42-b54d-1603efa2284a/thumbnail/1200x630/d9b5ae8dd71921dad1220198cb331b58/character-ai-article.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-08T00:00:24Z"
-    },
-    {
-      "title": "Huge Wall Street call: Morgan Stanley's new Tesla analyst downgrades stock over valuation concerns - CNBC",
-      "description": "The analyst downgraded Tesla's stock to equal weight from overweight.",
-      "url": "https://www.cnbc.com/2025/12/07/huge-wall-street-call-morgan-stanleys-new-tesla-analyst-downgrades-stock-over-valuation-concerns.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108155546-1749156473212-gettyimages-2218821673-anotherday56650966_zqinw9nz.jpeg?v=1765149967&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-07T23:47:14Z"
-    },
-    {
-      "title": "U.S. stock futures flat as investors await Fed meeting — and likely rate cut - MarketWatch",
-      "description": "",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc",
-      "urlToImage": "https://images.mktw.net/im-21336130/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-12-07T23:21:00Z"
-    },
-    {
-      "title": "Home Depot problem is costing customers a fortune - TheStreet",
-      "description": "For many people, holiday planning starts early in the year as the catalogs come in and they begin making plans for what they will be buying during the festive",
-      "url": "https://www.thestreet.com/retail/home-depot-problem-is-costing-customers-a-fortune",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTgxNzI4ODU1Njc1OTA1MTkw/a-shopper-walks-inside-a-home-depot-lead-rd-edit-022025.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-12-07T22:37:00Z"
-    },
-    {
-      "title": "Fine against Southwest Airlines for 2022 winter storm cancellations waived by Department of Transportation - CBS News",
-      "description": "Under a 2023 settlement reached by the Biden administration, Southwest agreed to a $140 million civil penalty after the company canceled thousands of flights during a winter storm in 2022​.",
-      "url": "https://www.cbsnews.com/news/southwest-airlines-2022-winter-storm-cancellations-fine-waved/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/21/ba6e57f1-97b7-4398-ad13-9ee6db5de632/thumbnail/1200x630/c00ff0fbaa50d36feab54cecfccdecbb/gettyimages-2163670495.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-07T22:16:38Z"
-    },
-    {
-      "title": "45 Stocking Stuffers That'll Have Everyone Raving About Your Gift-Giving Skills — And They're All Under $25 - BuzzFeed",
-      "description": "Now you'll have to live up to your reputation for all the holiday seasons to come. No pressure.",
-      "url": "https://www.buzzfeed.com/courtney_lynch/under-25-stocking-stuffers",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/25/00/thumb/QMTla_LXW.jpg?crop=3000:1571;0,3%26downsize=1250:*",
-      "source": "Buzzfeed",
-      "publishedAt": "2025-12-07T21:31:02Z"
-    },
-    {
-      "title": "Why Diesel Fuel Is More Expensive Than Gas In The US But Not In Europe - Jalopnik",
-      "description": "Diesel fuel is more expensive than gas in the U.S. thanks to taxes, but Europe taxes gasoline more to try and encourage drivers to use more efficient fuels.",
-      "url": "https://www.jalopnik.com/2041633/diesel-fuel-more-expensive-than-gas-us-but-not-europe/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/why-diesel-fuel-is-more-expensive-than-gas-in-the-us-but-not-in-europe/l-intro-1764703003.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2025-12-07T21:25:00Z"
-    },
-    {
-      "title": "Woman wanted by FBI for allegedly defrauding Banc of California - ABC7 Los Angeles",
-      "description": "A 73-year-old woman accused of defrauding the Banc of California of about $14.7 million nearly a decade ago remains wanted by the FBI.",
-      "url": "https://abc7.com/post/woman-wanted-fbi-allegedly-defrauding-banc-california/18261416/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18261402_120725-kabc-9am-fbi-bank-fraud-vid.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2025-12-07T20:53:18Z"
-    },
-    {
-      "title": "Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season - CNBC",
-      "description": "Treasury Secretary Scott Bessent said the economy will end the year on strong footing and said the president was disappointed in economic coverage in the media.",
-      "url": "https://www.cnbc.com/2025/12/07/bessent-gdp-growth.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108235921-1764773195448-gettyimages-2249744365-a9i03957_kydygn2a.jpeg?v=1764773221&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-07T20:14:52Z"
-    },
-    {
-      "title": "102-year-old SF landmark will reopen to public for first time in years - SFGATE",
-      "description": "The Huntington Hotel, perched atop San Francisco’s Nob Hill, is set to finally welcome guests again when it reopens in the spring of 2026.",
-      "url": "https://www.sfgate.com/local/article/san-francisco-hotel-reopening-restoration-21224016.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/35/44/28694838/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-12-07T19:52:29Z"
-    },
-    {
-      "title": "Apple Chip Chief Johny Srouji Could Be Next to Go as Exodus Continues - MacRumors",
-      "description": "Apple's senior vice president of hardware technologies Johny Srouji could be the next leading executive to leave the company amid an alarming...",
-      "url": "https://www.macrumors.com/2025/12/07/srouji-could-be-next-to-go-as-exodus-continues/",
-      "urlToImage": "https://images.macrumors.com/t/T8C8sWem1HgJ9ILi8F_9cRZRTss=/1600x/article-new/2022/04/Johny-Srouji.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-12-07T18:41:10Z"
-    },
-    {
-      "title": "Billionaire Jamie Dimon Smacks Down Trump Goon: ‘Grow Up’ - The Daily Beast",
-      "description": "JPMorgan Chase CEO Jamie Dimon has hit back at Trump Media CEO Devin Nunes over claims the lender “debanked” the group for political reasons under Joe Biden.",
-      "url": "https://www.thedailybeast.com/billionaire-jamie-dimon-smacks-down-trump-goon-grow-up/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/WGKAKH6HIFALXIQSEPZ5JAYHDY.png?smart=true&auth=b83991bdb22d1c261a22f32f8298a62c843fdf27e6e90a495d834469e11512b8&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2025-12-07T18:14:00Z"
-    },
-    {
-      "title": "Legendary Palm Springs restaurant goes up for sale, recipes included - SFGATE",
-      "description": "Palm Springs favorite Billy Reed’s, which opened in 1975, has been listed for $7.5 million as its current owner prepares to retire.",
-      "url": "https://www.sfgate.com/food/article/palm-springs-restaurant-for-sale-21228924.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/35/32/28694202/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-12-07T18:12:45Z"
-    },
-    {
-      "title": "Trader Joe’s Holiday Dip That Always Sells Out Is Back, and Fans Are Buying 5 at a Time - Allrecipes",
-      "description": "Trader Joe’s popular Sweet Cannoli Dip is back for the holidays, and fans are sharing creative ways to enjoy this seasonal favorite. See why fans stock up on this limited-time item every year.",
-      "url": "https://www.allrecipes.com/trader-joes-sweet-cannoli-dip-returns-11861120",
-      "urlToImage": "https://www.allrecipes.com/thmb/53jxDVfT672AuMl8i5yJ37GwFeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-trader-joes-holiday-staple-2x1-f764544df3fa40fb866e144c35f19fef.jpg",
-      "source": "Allrecipes.com",
-      "publishedAt": "2025-12-07T18:00:00Z"
-    },
-    {
-      "title": "Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives' - Fortune",
-      "description": "\"For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did.\"",
-      "url": "https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2242027275-e1765127325315.jpg?resize=1200,600",
+      "title": "Amazon robotaxi service Zoox to charge for rides in 2026, with ‘laser focus’ on transporting people - Fortune",
+      "description": "Jesse Levinson, Zoox cofounder and CTO, said the robotaxi service needs several more years before it’s “financially interesting.”",
+      "url": "https://fortune.com/2025/12/08/amazon-robotaxi-service-zoox-plans-fees-vegas-san-francisco/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/54972219713_8ff60dae8b_o-e1765242178781.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2025-12-07T17:57:00Z"
+      "publishedAt": "2025-12-08T21:53:00Z"
     },
     {
-      "title": "Tariffs Hit U.S. Importers as Supply Chains Shift to Vietnam, India and Thailand - TipRanks",
-      "description": "Global trade is in a steady shift as more U.S. supply flows move away from China and into other parts of Asia. The share of supplier volume from China, Hong\n<di...",
-      "url": "https://www.tipranks.com/news/tariffs-hit-u-s-importers-as-supply-chains-shift-to-vietnam-india-and-thailand",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/12/shutterstock_2598158843-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-12-07T17:46:04Z"
+      "title": "Mortgage rates are surging ahead of the Fed’s expected rate cut. What gives? - MarketWatch",
+      "description": "Homeowners and buyers can still beat high rates with two specific moves",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-are-surging-ahead-of-the-feds-expected-rate-cut-what-gives-cbb630ea",
+      "urlToImage": "https://images.mktw.net/im-13922936/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-12-08T21:40:00Z"
     },
     {
-      "title": "DOT opens public comment on plan to hike fuel costs during affordability crisis - Electrek",
-      "description": "DOT proposed a plan to make cars less efficient when Americans are already paying record high energy bills. You can comment on the plan now.",
-      "url": "http://electrek.co/2025/12/07/dot-opens-public-comment-on-plan-to-hike-fuel-prices-during-affordability-crisis/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/01/Sean_Duffy_5449121667-e1738181227601.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2025-12-07T17:38:00Z"
+      "title": "China's trade surplus hits $1 trillion for first time ever - NPR",
+      "description": "China's exports to the U.S. have dropped sharply this year, in the face of President Trump's tariffs — but the country is still finding plenty of customers elsewhere around the world.",
+      "url": "https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+326/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fe3%2Fc7229abb4c468dc4e21dedb5fd4d%2Fgettyimages-2243552373.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-12-08T15:55:39Z"
+    },
+    {
+      "title": "IBM to acquire Confluent for $11B as it seeks to bolster its data offerings - TechCrunch",
+      "description": "IBM is buying data infrastructure company Confluent for $11 billion in cash in a bid to bolster its data and automation products as ever more companies move their tech operations to the cloud and deploy AI technology.",
+      "url": "https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-169345070.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-08T14:56:10Z"
     }
   ]
 }
