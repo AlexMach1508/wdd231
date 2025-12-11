@@ -1,55 +1,151 @@
 {
-  "updatedAt": "2025-12-10T06:47:32.012Z",
+  "updatedAt": "2025-12-11T06:48:24.038Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Behind Paramount’s Relentless Campaign to Woo Warner Discovery and President Trump - The Wall Street Journal",
-      "description": "David Ellison has launched a hostile takeover bid for Warner Discovery, taking his case directly to shareholders after Netflix clinched a deal",
-      "url": "https://www.wsj.com/business/media/paramount-netflix-warner-bros-battle-ellisons-a86fe15c",
-      "urlToImage": "https://images.wsj.net/im-79220859/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-09T01:21:00Z"
+      "title": "Why has the price of silver hit a record high? - BBC",
+      "description": "The price of the precious metal has topped $60 an ounce for the first time ever.",
+      "url": "https://www.bbc.com/news/articles/c62vn22523xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fbc2/live/49b12f40-d564-11f0-b37d-73b50db83de9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-10T05:13:58Z"
     },
     {
-      "title": "PepsiCo to cut prices, eliminate products as part of a deal with an activist investor - AP News",
-      "description": "PepsiCo plans to cut prices and eliminate some of its products under a deal with an activist investor announced Monday. The Purchase, New York-based company, which makes Frito-Lay products as well as beverages, said it will cut nearly 20% of its product offer…",
-      "url": "https://apnews.com/article/pepsico-activist-investor-elliott-05525e906a78353e2637c02a00f767ca",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f11a7c7/2147483647/strip/true/crop/4000x2250+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2Fc5%2F7ed9eb30667127ea2e57753d4591%2Fefc84ae7d75e40c1ae39a7ee70f132c4",
+      "title": "Asian Stocks Look Muted as Traders Await Fed Clues: Markets Wrap - Bloomberg.com",
+      "description": "Asian stocks were mixed as investors awaited clues about the Federal Reserve’s policy path in its final interest-rate decision of the year.",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-09/asian-stocks-look-muted-as-traders-await-fed-clues-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiFUiH6H73Dg/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-10T04:06:00Z"
+    },
+    {
+      "title": "A woman sues Royal Caribbean over her fiance’s death on a cruise ship - AP News",
+      "description": "The fiancee of a man who died on a cruise ship has filed a wrongful death lawsuit against Royal Caribbean. The lawsuit alleges the company negligently served him at least 33 alcoholic drinks and was liable for his death after crew members tackled him to the g…",
+      "url": "https://apnews.com/article/royal-caribbean-cruise-ship-wrongful-death-lawsuit-a5899db5a360cf91ab2bb35765389e9e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/881e1e4/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F7d%2F81497f4e7a2e687f953cebbc31a5%2F87f3af8b1ced473ea52ad472d9393138",
       "source": "Associated Press",
-      "publishedAt": "2025-12-09T00:05:00Z"
+      "publishedAt": "2025-12-10T03:05:00Z"
     },
     {
-      "title": "Amazon robotaxi service Zoox to charge for rides in 2026, with ‘laser focus’ on transporting people - Fortune",
-      "description": "Jesse Levinson, Zoox cofounder and CTO, said the robotaxi service needs several more years before it’s “financially interesting.”",
-      "url": "https://fortune.com/2025/12/08/amazon-robotaxi-service-zoox-plans-fees-vegas-san-francisco/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/54972219713_8ff60dae8b_o-e1765242178781.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-12-08T21:53:00Z"
+      "title": "David Ellison lobbies Warner Bros shareholders to desert Netflix - Financial Times",
+      "description": "Paramount chief executive met investors in New York to push his hostile bid for the Hollywood studio group",
+      "url": "https://www.ft.com/content/5b804eb9-6b90-4f60-8bdf-7e4de51e1ad7",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b418ebb-5092-4c5a-bc73-30e206c92906.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-12-10T02:10:45Z"
     },
     {
-      "title": "Mortgage rates are surging ahead of the Fed’s expected rate cut. What gives? - MarketWatch",
-      "description": "Homeowners and buyers can still beat high rates with two specific moves",
-      "url": "https://www.marketwatch.com/story/mortgage-rates-are-surging-ahead-of-the-feds-expected-rate-cut-what-gives-cbb630ea",
-      "urlToImage": "https://images.mktw.net/im-13922936/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-12-08T21:40:00Z"
+      "title": "FDA to investigate whether adult deaths linked to coronavirus vaccine - The Washington Post",
+      "description": "An agency memo alleged that at least 10 children died after receiving coronavirus vaccinations, citing it as a basis for overhauling how vaccines are approved, despite studies finding the shots have generally been safe.",
+      "url": "https://www.washingtonpost.com/health/2025/12/09/vaccine-covid-coronavirus-safety-fda/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC3CV5ZHGNVJHIZALLBMFLDR6U.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-12-10T02:08:17Z"
     },
     {
-      "title": "China's trade surplus hits $1 trillion for first time ever - NPR",
-      "description": "China's exports to the U.S. have dropped sharply this year, in the face of President Trump's tariffs — but the country is still finding plenty of customers elsewhere around the world.",
-      "url": "https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+326/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fe3%2Fc7229abb4c468dc4e21dedb5fd4d%2Fgettyimages-2243552373.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-12-08T15:55:39Z"
+      "title": "Musk says DOGE was only \"somewhat successful,\" wouldn't do it again - Axios",
+      "description": "Musk spearheaded mass cuts in federal spending and government jobs at DOGE before leaving the Trump administration in May.",
+      "url": "https://www.axios.com/2025/12/09/musk-doge-katie-miller-trump-doge",
+      "urlToImage": "https://images.axios.com/NLagLJly9iowmZWoA7q9vAp5AZY=/0x0:1920x1080/1366x768/2025/12/09/1765322892335.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-12-10T00:40:51Z"
     },
     {
-      "title": "IBM to acquire Confluent for $11B as it seeks to bolster its data offerings - TechCrunch",
-      "description": "IBM is buying data infrastructure company Confluent for $11 billion in cash in a bid to bolster its data and automation products as ever more companies move their tech operations to the cloud and deploy AI technology.",
-      "url": "https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-169345070.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-08T14:56:10Z"
+      "title": "Stock futures are little changed as investors await Fed decision: Live updates - CNBC",
+      "description": "The Russell 2000 index of small-cap companies hit a record intraday high on Tuesday, supported by the prospect of future interest rate cuts.",
+      "url": "https://www.cnbc.com/2025/12/09/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108238414-17652128912025-12-08t165353z_2083775926_rc2dciajfqo0_rtrmadp_0_usa-stocks.jpeg?v=1765213081&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-10T00:11:00Z"
+    },
+    {
+      "title": "Instacart charging different prices on same grocery staples in same stores: study - New York Post",
+      "description": "Groundwork, a consumer advocacy group, said Instacart’s pricing algorithm could lead to shoppers forking over an extra $1,200 on groceries each year.",
+      "url": "https://nypost.com/2025/12/09/business/instacart-charging-different-prices-on-same-grocery-staples-in-same-stores-study/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/photoillustration-instacart-grocery-bag-products-117055969.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2025-12-09T22:36:00Z"
+    },
+    {
+      "title": "Republicans propose changes to crypto bill in compromise offer to Democrats - Politico",
+      "description": "The three-page document represents the most tangible offer made as part of the negotiations over a landmark bill to regulate digital assets.",
+      "url": "https://www.politico.com/live-updates/2025/12/09/congress/gop-crypto-compromise-offer-00683813",
+      "urlToImage": "https://www.politico.com/dims4/default/7b369bb/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc1%2F0a%2F769b4b9a482d9747949a9f7ea92a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2227449415",
+      "source": "Politico",
+      "publishedAt": "2025-12-09T22:14:25Z"
+    },
+    {
+      "title": "FDA opens safety review of injectable RSV drugs approved for babies and toddlers - AP News",
+      "description": "Federal health officials are reviewing the safety of two injectable drugs used to protect babies and toddlers from the RSV virus. The drugs from Merck and Sanofi are not vaccines. But officials under Health Secretary Robert F. Kennedy Jr. have recently been s…",
+      "url": "https://apnews.com/article/rsv-drugs-fda-kennedy-safety-vaccines-children-d0ac709d04029d3a331a783409dd2ccb",
+      "urlToImage": "https://dims.apnews.com/dims4/default/35d0870/2147483647/strip/true/crop/5076x2855+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F10%2Fb6%2F608e38becbae7f0db69f2c6ed1eb%2F7ca24e8ad35d4fb49c278f1d77b15028",
+      "source": "Associated Press",
+      "publishedAt": "2025-12-09T22:14:00Z"
+    },
+    {
+      "title": "Donald Trump to pit Kevin Hassett against trio of Fed chair finalists - Financial Times",
+      "description": "Final interviews for top central bank job to kick off this week",
+      "url": "https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F62967b00-0afd-49d3-9a3e-459b723e7d09.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-12-09T21:55:27Z"
+    },
+    {
+      "title": "See what the N.J. $90M Mega Millions jackpot winner did after learning they had the winning ticket - NJ.com",
+      "description": "The winning numbers — 17, 25, 26, 53, 60, and the gold Mega Ball 16 — held special significance for the player.",
+      "url": "https://www.nj.com/lottery/2025/12/see-what-the-nj-90m-mega-millions-jackpot-winner-did-after-learning-they-had-the-winning-ticket.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/DGNL4JYFFZB6VOAOZ2B7XFFVOE.png?auth=739b9f46e42247b4e5ba2f4c08b9b162ec201b18e94b504d0eb01f9f719e07a5&width=1280&smart=true&quality=90",
+      "source": "nj.com",
+      "publishedAt": "2025-12-09T21:30:00Z"
+    },
+    {
+      "title": "In-N-Out removes number 67 from order system due to viral 6-7 trend - ABC7 Los Angeles",
+      "description": "In-N-Out has reportedly kicked 67 out of its order system because of the viral 6-7 trend.",
+      "url": "https://abc7.com/post/removes-number-67-order-system-due-viral-6-7-trend/18268599/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18268488_120925-kabc-MD-in-n-out-67-vid.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2025-12-09T21:00:00Z"
+    },
+    {
+      "title": "Lilly to build $6 billion facility to manufacture active pharmaceutical ingredients in Alabama - Eli Lilly and Company",
+      "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
+      "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-build-6-billion-facility-manufacture-active-pharmaceutical",
+      "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
+      "source": "Lilly.com",
+      "publishedAt": "2025-12-09T20:33:16Z"
+    },
+    {
+      "title": "Teens, Social Media and AI Chatbots 2025 - Pew Research Center",
+      "description": "Roughly one-in-five U.S. teens say they are on TikTok and YouTube almost constantly. At the same time, 64% of teens say they use chatbots, including about three-in-ten who do so daily.",
+      "url": "http://www.pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/",
+      "urlToImage": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/12/PI_2025.12.09_teens-social-media-ai_featured.png?w=1200&h=628&crop=1",
+      "source": "Pew Research Center",
+      "publishedAt": "2025-12-09T19:54:07Z"
+    },
+    {
+      "title": "Are you eligible for a share of the $700 million Google Play settlement? - OregonLive.com",
+      "description": "Millions of people who paid for apps through the Google Play Store have money coming.",
+      "url": "https://www.oregonlive.com/business/2025/12/are-you-eligible-for-a-share-of-the-700-million-google-play-settlement.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/4GDU5HSQOVBMHPG75LXREVQL4I.jpg?auth=914d3f9133edbd53b799d888356f7124a6c15a0990d116c2de9e3bdee11a8424&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-12-09T18:25:00Z"
+    },
+    {
+      "title": "The Fed's Two-Day Meeting Starts Today—Here's What You Need to Know - Investopedia",
+      "description": "The Fed is poised to cut rates despite divisions on the economic outlook and could signal a slower path for easing in 2026.",
+      "url": "https://www.investopedia.com/the-federal-reserve-meeting-starts-today-here-s-what-you-need-to-know-11865195",
+      "urlToImage": "https://www.investopedia.com/thmb/vmzlqVrvDf971lI-sc5cZaBobiY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2175029460-76416fd0b4354363b321d0a0b52ddfd4.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-12-09T17:44:48Z"
+    },
+    {
+      "title": "US Job Openings Climbed in October to a Five-Month High - Bloomberg.com",
+      "description": "US job openings picked up in October to the highest level in five months, though less hiring and more layoffs pointed to a continued slowdown in the labor market.",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-09/us-job-openings-climbed-in-october-to-a-five-month-high",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irJtGe_fv6HU/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-09T16:42:32Z"
     }
   ]
 }
