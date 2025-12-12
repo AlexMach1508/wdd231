@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2025-12-11T06:48:23.834Z",
+  "updatedAt": "2025-12-12T06:48:06.580Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Asian Stocks Look Muted as Traders Await Fed Clues: Markets Wrap - Bloomberg.com",
-      "description": "Asian stocks were mixed as investors awaited clues about the Federal Reserve’s policy path in its final interest-rate decision of the year.",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-09/asian-stocks-look-muted-as-traders-await-fed-clues-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiFUiH6H73Dg/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2025-12-10T04:06:00Z"
-    },
-    {
-      "title": "Russian bombers join Chinese air patrol near Japan as Tokyo-Beijing tensions simmer - CNN",
-      "description": "Japan has scrambled jets to monitor Russian and Chinese air forces conducting joint patrols around the country, the Japanese Defense Ministry said late Tuesday, amid rising tensions between Tokyo and Beijing.",
-      "url": "https://www.cnn.com/2025/12/09/asia/south-korea-japan-china-russia-warplanes-intl-hnk-ml",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2022-05-24t123839z-1423506050-rc2odu9hm424-rtrmadp-3-japan-quad-security.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-10T04:02:00Z"
-    },
-    {
-      "title": "Brazil: Chaos breaks out in Congress during Jair Bolsonaro sentence vote - BBC",
-      "description": "Scuffles broke out during a vote linked to attempts to reduce the former president's jail term.",
-      "url": "https://www.bbc.com/news/articles/cvg8m5lj2lzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85af/live/df141700-d56e-11f0-9283-e15cd9a722d2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-10T03:34:48Z"
-    },
-    {
-      "title": "3 takeaways from BYU’s comeback win over Clemson in the Jimmy V Classic - Deseret News",
-      "description": "",
-      "url": "https://www.deseret.com/sports/2025/12/09/byu-clemson-basketball-jimmy-v-classic-madison-square-garden-3-takeaways/",
-      "urlToImage": "https://www.deseret.com/resizer/v2/7VRJO7IML5AZZB5JXBAKN5TQDM.jpg?focal=0%2C0&auth=a811e8a77299630f3bb9e81f4617c2d82fbfb89b420ee5e08ef3196c146abbb5&width=630",
-      "source": "Deseret News",
-      "publishedAt": "2025-12-10T02:49:00Z"
-    },
-    {
-      "title": "Eileen Higgins wins Miami mayoral runoff, breaking 30-year Democratic drought - CBS News",
-      "description": "Higgins defeated former city manager Emilio Gonzalez with 59% of the vote, pledging to tackle housing affordability, climate resilience, and restore trust at City Hall.",
-      "url": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/10/41406ee0-a3cf-47f1-8d93-fd9b8359dcac/thumbnail/1200x630/65eaa1d2c34ab70b4a5bbc2eb3d45452/gettyimages-2250971557.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-10T02:29:00Z"
-    },
-    {
-      "title": "David Ellison lobbies Warner Bros shareholders to desert Netflix - Financial Times",
-      "description": "Paramount chief executive met investors in New York to push his hostile bid for the Hollywood studio group",
-      "url": "https://www.ft.com/content/5b804eb9-6b90-4f60-8bdf-7e4de51e1ad7",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b418ebb-5092-4c5a-bc73-30e206c92906.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-12-10T02:10:45Z"
-    },
-    {
-      "title": "Taylor Swift, Blake Lively Still On The Outs As They Both Go Out In New York - TMZ",
-      "description": "Taylor Swift and Blake Lively look like they are still on the outs ... because they both went out Tuesday night in New York City ... and Taylor was with a different blonde friend.",
-      "url": "https://www.tmz.com/2025/12/09/taylor-swift-blake-lively-strained-relationship/",
-      "urlToImage": "https://imagez.tmz.com/image/d6/16by9/2025/12/10/d6f35fd43dab4648bbf1f5a5e53a1aa4_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-12-10T02:08:28Z"
-    },
-    {
-      "title": "Storms bring heavy rain to the Pacific Northwest, snow and freezing rain to the Upper Midwest - AP News",
-      "description": "The first of a series of powerful storms is dumping heavy rain and swelling rivers in the Pacific Northwest, closing roads and prompting high water rescues. Residents in parts of Oregon and Washington are grappling with power outages, flooding and school clos…",
-      "url": "https://apnews.com/article/atmospheric-river-pacific-northwest-8eb0a0bbfa34a5b542c727fefed668a4",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cb04271/2147483647/strip/true/crop/4663x2623+0+243/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fc8%2Fac401e6ddd83bc77074de0d78cbf%2Fee9cf9845a1d4c2bb395e7c37711899b",
+      "title": "Former Michigan football coach Sherrone Moore jailed, hours after his firing - AP News",
+      "description": "Former Michigan football coach Sherrone Moore has been jailed, according to court records. He was detained on Wednesday, just hours after he was fired for what the university said was an “inappropriate relationship with a staff member.” According to the Washt…",
+      "url": "https://apnews.com/article/michigan-sherrone-moore-fired-ec213f233cae4f730f474331ec5e2cdd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a578d0c/2147483647/strip/true/crop/4132x2324+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2b%2F25%2F76791d4d720cb2cfbcdea153a1bb%2F7a77a67b0c3940b8a2d7b7f018841576",
       "source": "Associated Press",
-      "publishedAt": "2025-12-10T02:00:00Z"
+      "publishedAt": "2025-12-11T04:05:00Z"
     },
     {
-      "title": "Appearance by Venezuelan Nobel Peace laureate María Corina Machado canceled on eve of prize ceremony - AP News",
-      "description": "A planned news conference by Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado has been canceled after a several-hour delay, a day before Wednesday's award ceremony in Oslo. Machado, who last appeared in public 11 months ago, had …",
-      "url": "https://apnews.com/article/maria-corina-machado-nobel-peace-99e2432046ab817faf2e5314f2dad434",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1b43fc0/2147483647/strip/true/crop/6100x3431+0+318/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2F60%2F50b6c455ef2452e5bba49b9caeeb%2F73320308cbaa4e168bf495acffc0652d",
-      "source": "Associated Press",
-      "publishedAt": "2025-12-10T01:55:00Z"
-    },
-    {
-      "title": "Steelers' Mike Tomlin Had the Most Hysterical Reaction to Colts, Philip Rivers News - Sports Illustrated",
-      "description": "Philip Rivers signed with the Colts’ practice squad on Tuesday.",
-      "url": "https://www.si.com/nfl/steelers-mike-tomlin-hysterical-reaction-colts-philip-rivers-news",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2400,h_1350,x_240,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kc2vkpefydg26a2ttj.png",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-12-10T01:04:07Z"
-    },
-    {
-      "title": "Orioles Matched Phillies' Offer To Kyle Schwarber - MLB Trade Rumors",
-      "description": "The first major free agent chip fell this morning with Kyle Schwarber returning to Philadelphia on a five-year, $150MM deal....",
-      "url": "https://www.mlbtraderumors.com/2025/12/orioles-matched-phillies-offer-to-kyle-schwarber.html",
-      "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/12/KyleSchwarber-1-1024x683.jpg",
-      "source": "MLB Trade Rumors",
-      "publishedAt": "2025-12-10T01:03:12Z"
-    },
-    {
-      "title": "Suspect in custody after one killed in Kentucky university shooting - BBC",
-      "description": "The campus was placed on lockdown as authorities responded to \"an active aggressor\".",
-      "url": "https://www.bbc.com/news/articles/c0r90lkzxr4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d085/live/e2085a20-d555-11f0-8c06-f5d460985095.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-10T00:48:10Z"
-    },
-    {
-      "title": "San Diego officials approve $30M settlement for family of teen killed by police - AP News",
-      "description": "The San Diego City Council has approved a $30 million payment to the family of a 16-year-old killed by police. Tuesday's settlement is one of the largest in the U.S. and exceeds the $27 million paid by Minneapolis to George Floyd's family. Surveillance and bo…",
-      "url": "https://apnews.com/article/konoa-wilson-police-shooting-settlement-san-diego-8519e65121e30f7d10eec9b9e39fc17b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/4146f70/2147483647/strip/true/crop/2254x1268+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2Faa%2F041635c484fb78d41f2be52e627e%2F1e7c946193be4f6aaf96aee9e7e5f9cc",
-      "source": "Associated Press",
-      "publishedAt": "2025-12-10T00:38:00Z"
-    },
-    {
-      "title": "Pennsylvania Gov. Josh Shapiro faces subpoena over private home security upgrades after firebombing - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Politics/pennsylvania-gov-josh-shapiro-faces-subpoena-private-home/story?id\\\\u003d128255380",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-12-10T00:25:06Z"
-    },
-    {
-      "title": "Fort Hood doctor accused of sexual misconduct charged with secretly recording his patients - CNN",
-      "description": "An Army gynecologist accused of sexual misconduct by dozens of his former patients is officially charged with allegedly recording his patients, along with several other related charges, the Army’s Office of Special Trial Counsel said Tuesday.",
-      "url": "https://www.cnn.com/2025/12/09/politics/fort-hood-doctor-charged-sexual-misconduct",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/thumbnail-mcgraw.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-09T23:34:55Z"
-    },
-    {
-      "title": "‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico",
-      "description": null,
-      "url": "https://www.politico.com/live-updates/2025/12/09/congress/its-done-house-armed-services-chair-says-of-his-boat-strike-probe-00684108",
-      "urlToImage": "https://www.politico.com/dims4/default/ffab858/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fef%2F50%2Fcb2d3b5a4c89b1b3378d8f668c76%2Fcongress-defense-spending-86551.jpg",
+      "title": "Trump threatens to primary Indiana Republicans ahead of key redistricting vote - Politico",
+      "description": "The Indiana Senate will vote on a new map on Thursday that could create two new GOP-leaning House seats.",
+      "url": "https://www.politico.com/news/2025/12/10/trump-indiana-redistricting-republicans-rodric-bray-00686257",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe4%2Fc3%2F1cf7c78d4c0389365608fb44bbfb%2Felection-2026-redistricting-62824.jpg",
       "source": "Politico",
-      "publishedAt": "2025-12-09T23:20:47Z"
+      "publishedAt": "2025-12-11T03:30:15Z"
     },
     {
-      "title": "Trisha Yearwood, Chris Isaak Honor Raul Malo: ‘One of the Finest Voices of Our Generation’ - Rolling Stone",
-      "description": "Trisha Yearwood and Chris Isaak are among the artists who paid tribute to Raul Malo after the singular frontman for the Mavericks died on Dec. 8.",
-      "url": "http://www.rollingstone.com/music/music-country/raul-malo-mavericks-tributes-trisha-yearwood-chris-isaak-1235481262/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/GettyImages-1341986131.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-12-09T23:04:29Z"
+      "title": "Mystery Of “Stolen” Sean Combs Footage In Netflix & 50 Cent’s ‘Reckoning’ Docuseries Explained, Sorta - Deadline",
+      "description": "How did 50 Cent & Netflx's Sean Combs: The Reckoning really obtain the behind the scenes footage of Diddy scheming with his lawyers on the eve of his Sept 2024 arrest? A partial explanation as delivered tonight",
+      "url": "http://deadline.com/2025/12/sean-combs-netflix-documentary-how-stolen-footage-obtained-1236645455/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/Diddy-netflix.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-12-11T03:10:00Z"
+    },
+    {
+      "title": "Coca-Cola names new CEO Henrique Braun to succeed James Quincey - AJC.com",
+      "description": "Coca-Cola Executive Vice President and Chief Operating Officer Henrique Braun will become chief executive on March 31.",
+      "url": "https://www.ajc.com/business/2025/12/coca-cola-names-new-ceo-henrique-braun-to-succeed-james-quincey/",
+      "urlToImage": "https://www.ajc.com/resizer/v2/H2SIQWZ76FF6ZEOOU2CNO4DCDU.jpg?auth=6c3cb91bd901416413b2f35e5d27ec911e80b8d71b8df85e9285257d8224e297&width=1200&height=630&smart=true",
+      "source": "Atlanta Journal Constitution",
+      "publishedAt": "2025-12-11T02:50:15Z"
+    },
+    {
+      "title": "Jennifer Shah, formerly of ‘Real Housewives,’ released from prison early - The Washington Post",
+      "description": "The former Real Housewife of Salt Lake City pleaded guilty in 2023 to taking part in a telemarketing scheme.",
+      "url": "https://www.washingtonpost.com/entertainment/tv/2025/12/10/jennifer-shah-formerly-real-housewives-released-prison-early/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SLUSW7SPP6FK3VXLJJFZG3YXM4_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-12-11T02:46:20Z"
+    },
+    {
+      "title": "Trump launches $1m 'gold card' immigration visas - BBC",
+      "description": "The special visas will be awarded to those who can show they can make a \"substantial benefit\" to the US.",
+      "url": "https://www.bbc.com/news/articles/cj4q1lddj8go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/818d/live/fca61940-d635-11f0-b19d-7bafaea622dd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-11T01:10:45Z"
+    },
+    {
+      "title": "Witnesses describe their final interactions with Ana Walshe – including her last ‘festive’ night – at husband’s murder trial - CNN",
+      "description": "The testimony of Gem Mutlu – a close friend of Ana Walshe’s who said he considered her family his own – came hours before prosecutors on Wednesday rested their case.",
+      "url": "https://www.cnn.com/2025/12/10/us/gem-mutlu-brian-walshe-ana",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25344570086931.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-12-11T00:58:00Z"
+    },
+    {
+      "title": "Trump says CNN \"should be sold\" as part of WBD deal - Axios",
+      "description": "The president said it was \"imperative\" that CNN gets a new owner in any transaction.",
+      "url": "https://www.axios.com/2025/12/11/trump-wbd-netflix-paramount-cnn",
+      "urlToImage": "https://images.axios.com/7xGhCIuX5NWj2LhaiAB0tk96QqE=/0x0:1920x1080/1366x768/2025/12/08/1765223832486.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-12-11T00:56:50Z"
+    },
+    {
+      "title": "Jennifer Lawrence, Josh Hutcherson to Return for ‘Hunger Games: Sunrise on the Reaping’ - Yahoo",
+      "description": "Francis Lawrence directs Lionsgate's prequel feature that hits theaters in late 2026.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/hunger-games-jennifer-lawrence-josh-hutcherson-sunrise-1236447411/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/03/MCDHUGA_EC015.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-12-11T00:38:00Z"
+    },
+    {
+      "title": "Idahoan dies of rabies, then transmits it in donated-kidney transplant, CDC says - Idaho Statesman",
+      "description": "An Idaho man scratched by a skunk died of rabies and transmitted the virus through a donated kidney to a Michigan recipient, triggering a CDC and state probe.",
+      "url": "https://www.idahostatesman.com/news/northwest/idaho/article313594437.html",
+      "urlToImage": "https://www.myrtlebeachonline.com/public/latest-news/eo0jpa/picture312041788/alternates/LANDSCAPE_1140/Rabies%202.JPG",
+      "source": "Idaho Statesman",
+      "publishedAt": "2025-12-11T00:33:00Z"
+    },
+    {
+      "title": "NASA just lost contact with a Mars orbiter, and will soon lose another one - Ars Technica",
+      "description": "If NASA is serious about exploring Mars, it’s past time to send new missions.",
+      "url": "https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GSFC_20171208_Archive_e000206orig-1041x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-12-11T00:29:54Z"
+    },
+    {
+      "title": "Fed meeting live coverage: Federal Reserve cuts interest rates by 0.25%, Powell says there's 'no risk-free path' - Yahoo Finance",
+      "description": "The Federal Reserve cut interest rates by 25 basis points at its final meeting of 2025, with investors focusing on the outlook for 2026.",
+      "url": "https://finance.yahoo.com/news/live/fed-meeting-live-coverage-federal-reserve-cuts-interest-rates-by-025-powell-says-theres-no-risk-free-path-200909359.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TE2Vh5MvbkOOvB9ViSa47Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/71afedc0-c168-11f0-abde-f0024fe7ee54",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-12-11T00:27:00Z"
+    },
+    {
+      "title": "Trump administration moves to set up militarized zone on California-Mexico border - CBS News",
+      "description": "The Trump administration is adding another militarized zone to the southern U.S. border to support border security operations — this time in California, officials say.",
+      "url": "https://www.cbsnews.com/news/california-mexico-border-militarized-zone/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/18/886c9c60-aa3c-447a-afc6-56b8fd02b33e/thumbnail/1200x630g8/d9fc20abd183577fedf1ac15cd08fa62/gettyimages-2155622941.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-11T00:21:00Z"
+    },
+    {
+      "title": "‘Never going to be pitch perfect’: Trump loyalists see an imperfect messenger - Politico",
+      "description": "Trump's Pennsylvania speech demonstrated that his return to the trail is a gamble: It’s just as likely to provide Democrats campaign fodder as it is to motivate his MAGA base heading into the midterm elections.",
+      "url": "https://www.politico.com/news/2025/12/10/never-going-to-be-pitch-perfect-trump-loyalists-see-an-imperfect-messenger-00685649",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fda%2F2d%2F5ae6dbb14e3fb3cddbcf572a2489%2Ftrump-46473.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-12-11T00:06:38Z"
+    },
+    {
+      "title": "What we know about The Skipper, the oil tanker seized by the U.S. near Venezuela - CBS News",
+      "description": "The U.S. seized a 20-year-old oil tanker called The Skipper off the coast of Venezuela on Wednesday, three sources told CBS News. Here's what we know about the boat and the operation.",
+      "url": "https://www.cbsnews.com/news/what-we-know-oil-tanker-the-skipper-seized-us-near-venezuela/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/10/24607198-83e9-4187-b314-b1b3f5aa4848/thumbnail/1200x630/d334de50daefb7b6d0c0888eecd30220/screenshot-2025-12-10-at-6-06-44-pm.png",
+      "source": "CBS News",
+      "publishedAt": "2025-12-10T23:33:00Z"
+    },
+    {
+      "title": "Blend of unusual weather conditions brings trillions of gallons in persistent rain to the Northwest - AP News",
+      "description": "A powerful atmospheric river has drenched Washington state with nearly 5 trillion gallons of rain over the past week. The deluge is linked to warm water and air, along with unusual weather conditions tracing back to tropical cyclone flooding in Indonesia. The…",
+      "url": "https://apnews.com/article/atmospheric-river-pacific-northwest-flooding-warming-9a175150afae172f2ebca27133abbd5b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e6b233e/2147483647/strip/true/crop/4032x2268+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2Fc4%2F4675b288b1f0a70fb036258136c7%2F55fe689252194fc7988586489497e5bd",
+      "source": "Associated Press",
+      "publishedAt": "2025-12-10T23:27:00Z"
+    },
+    {
+      "title": "Thailand and Cambodia: Why can't they end their border conflict? - BBC",
+      "description": "Between the neighbours is a gulf of mistrust that has proven near impossible to bridge.",
+      "url": "https://www.bbc.com/news/articles/c39p7jkp27lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05e4/live/c00fffc0-d5bb-11f0-b834-9fc74eefc7d3.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-10T23:03:32Z"
+    },
+    {
+      "title": "Erika Kirk's message to people who celebrated husband Charlie's assassination: \"You're sick\" - CBS News",
+      "description": "Erika Kirk has a message for people who sought to justify the assassination of her late husband, Charlie Kirk.",
+      "url": "https://www.cbsnews.com/news/erika-kirks-message-people-who-celebrated-husband-charlies-assassination/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/10/4ff8353b-1e8c-47c4-ad6a-3d6420a8e97f/thumbnail/1200x630/b9c5203a8b0c365eda39d64c4cbf905f/screenshot-2025-12-10-at-5-19-39-pm.png",
+      "source": "CBS News",
+      "publishedAt": "2025-12-10T22:29:00Z"
+    },
+    {
+      "title": "SZA Blasts White House for Using Her ‘SNL’ Song About Cuffing Season in Pro-ICE Post: ‘Evil and Boring’ - Variety",
+      "description": "SZA has blasted the White House for using her 'SNL' song in a pro-ICE post, calling it 'evil and boring.'",
+      "url": "https://variety.com/2025/music/news/sza-blasts-white-house-for-using-her-snl-song-pro-ice-post-1236605926/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/01/GettyImages-1968512708.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-12-10T22:16:00Z"
     }
   ]
 }
