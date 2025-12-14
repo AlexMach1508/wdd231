@@ -1,10 +1,106 @@
 {
-  "updatedAt": "2025-12-13T06:42:36.655Z",
+  "updatedAt": "2025-12-14T06:42:09.020Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "The Game Awards 2025 – Every Winner and Xbox Reveal Plus New Details on Control Resonant, Diablo IV, Tomb Raider, and More - Xbox Wire",
+      "title": "Google Turns Ordinary Headphones Into Instant Language Interpreters - CNET",
+      "description": null,
+      "url": "https://www.cnet.com/tech/mobile/google-turns-ordinary-headphones-into-instant-language-interpreters/",
+      "urlToImage": null,
+      "source": "CNET",
+      "publishedAt": "2025-12-12T21:40:00Z"
+    },
+    {
+      "title": "Porsche Just Unveiled a New 911 GT3 Inspired by Ferdinand Alexander Porsche Himself - Robb Report",
+      "description": "The new 911 GT3 90 F.A. Porsche will be limited to just 90 examples.",
+      "url": "http://robbreport.com/motors/cars/porsche-911-gt3-ferdinand-alexander-porsche-1237410568/",
+      "urlToImage": "https://robbreport.com/wp-content/uploads/2025/12/porsche-911-gt3-fa-porsche-7-e1765554011100.jpg?w=681&h=383&crop=1",
+      "source": "Robb Report",
+      "publishedAt": "2025-12-12T21:00:00Z"
+    },
+    {
+      "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen - TechCrunch",
+      "description": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
+      "url": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-air.jpg?resize=1200,669",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-12T20:45:00Z"
+    },
+    {
+      "title": "New Tomb Raider Games Recast Lara Croft With A Gaming Veteran - GameSpot",
+      "description": "Here's who is playing Lara Croft in the upcoming Tomb Raider games.",
+      "url": "https://www.gamespot.com/articles/new-tomb-raider-games-recast-lara-croft-with-a-gaming-veteran/1100-6536948/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4622052-screenshot2025-12-12at2.23.43%E2%80%AFpm.png",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-12T19:38:00Z"
+    },
+    {
+      "title": "Pokémon Legends: Z-A’s DLC Leaves One Mega Evolution Out - Kotaku",
+      "description": "There’s one more Mega Stone players can’t get yet, hiding in the game’s code",
+      "url": "https://kotaku.com/pokemon-legends-za-garchomp-z-mega-dimension-stone-where-2000653068",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/IMG_0791-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-12T18:45:55Z"
+    },
+    {
+      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes - BBC",
+      "description": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.",
+      "url": "https://www.bbc.com/news/articles/c3r77j5nze5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05b5/live/8a737610-d77a-11f0-825e-eb4c8fb7e95e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-12T18:04:47Z"
+    },
+    {
+      "title": "34.2.2 Patch Notes — Hearthstone - Blizzard News",
+      "description": "The latest balance update for Hearthstone and Battlegrounds is here.",
+      "url": "https://news.blizzard.com/en-us/article/24250382/34-2-2-patch-notes",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sb/SBBH59XURANB1765327034677.jpg",
+      "source": "Blizzard.com",
+      "publishedAt": "2025-12-12T16:55:00Z"
+    },
+    {
+      "title": "Mounts of Mayhem challenges - Minecraft",
+      "description": "Take on two challenges in the Mobs of Mayhem drop and earn dashing rewards! Defeat five mobs with a spear, or help the community spawn 75 million zombie horses! The challenges run from Friday Dec 12, 8:00 AM PT to Monday Dec 15, 10:00 AM PT.",
+      "url": "https://www.minecraft.net/en-us/article/mounts-of-mayhem-challenges",
+      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/MCV_MoM_CommunityChallange_Announce_DotNet_Original_DotNet_BlogEditorial_1170x500.jpg",
+      "source": "Minecraft.net",
+      "publishedAt": "2025-12-12T16:04:30Z"
+    },
+    {
+      "title": "These On-Screen Automotive Mistakes Annoy Our Readers The Most - Jalopnik",
+      "description": "Unsurprisingly, our audience had lots of examples of on-screen automotive mistakes that annoy them.",
+      "url": "https://www.jalopnik.com/2050130/automotive-mistakes-on-screen-reader-answers/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/these-on-screen-automotive-mistakes-annoy-our-readers-the-most/l-intro-1765545720.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2025-12-12T15:25:00Z"
+    },
+    {
+      "title": "Resident Evil Requiem's Leon and Grace will have differing gameplay like \"jumping into a cold bath after a hot sauna\" - Eurogamer",
+      "description": "Resident Evil Requiem's dual protagonists will represent two styles of gameplay, which its developers describe as \"jumping into a cold bath after a hot sauna\".",
+      "url": "https://www.eurogamer.net/resident-evil-requiem-leon-grace-differing-gameplay",
+      "urlToImage": "https://assetsio.gnwcdn.com/Resident-Evil-Requiem---3rd-Trailer-2-32-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2025-12-12T15:05:52Z"
+    },
+    {
+      "title": "The Ars Technica guide to “dumb” TVs - Ars Technica",
+      "description": "Sick of smart TVs? Here are your best options.",
+      "url": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-12-12T12:30:22Z"
+    },
+    {
+      "title": "The Game Awards’ grand finale reveal was a game you’ve never heard of coming out in a month - Polygon",
+      "description": "Anyone hoping for Half-Life 3 was surprised to hear about a new shooter releasing in January",
+      "url": "https://www.polygon.com/highguard-trailer-tgas-2025-last-reveal/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/highguard.jpg?w=1600&h=900&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2025-12-12T04:44:00Z"
+    },
+    {
+      "title": "The Game Awards 2025 – Every Winner and Xbox Reveal, Plus New Details on Control Resonant, Diablo IV, Tomb Raider, and More - Xbox Wire",
       "description": "On behalf of the creative teams at Xbox, Bethesda Softworks, Activision, and Blizzard, we extend our heartfelt congratulations to this year’s winners and nominees at The Game Awards!",
       "url": "https://news.xbox.com/en-us/2025/12/11/the-game-awards-2025-recap-every-winner-and-xbox-reveal/",
       "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/12/TGA_KEY_ART_Logo_NODate-JPG-4570162e8af0336f58ae-scaled.jpg",
@@ -12,92 +108,36 @@
       "publishedAt": "2025-12-12T04:32:55Z"
     },
     {
-      "title": "Clair Obscur: Expedition 33's expansion is available right now, adding a photo mode and vibrant new world - Eurogamer",
-      "description": "The previously revealed expansion to Clair Obscur: Expedition 33 has finally been properly unveiled, plus the game is heading to Switch 2.",
-      "url": "https://www.eurogamer.net/clair-obscur-expedition-33s-expansion-is-available-right-now-adding-a-photo-mode-and-vibrant-new-world",
-      "urlToImage": "https://assetsio.gnwcdn.com/Clair-Obscur_-Expedition-33-_-Thank-You-Update-Trailer-0-8-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-12-12T04:11:06Z"
+      "title": "David Harbour Announces Total War: Warhammer 40,000 At The Game Awards - Game Informer",
+      "description": "Alongside Dawn of War 4, this is the second Warhammer 40K RTS on the horizon.",
+      "url": "https://gameinformer.com/the-game-awards-2025/2025/12/11/david-harbour-announces-total-war-warhammer-40000-at-the-game",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/11/a6238480/warhammer04.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2025-12-12T03:55:55Z"
     },
     {
-      "title": "Wildlight Entertainment announces free-to-play PvP first-person shooter Highguard for PS5, Xbox Series, and PC - Gematsu",
-      "description": "WIldlight Entertainment, a studio founded by creators of Apex Legends and Titanfall, has announced Highguard, a free-to-play player-versus-player raid first-person shooter coming to PlayStation 5, …",
-      "url": "https://www.gematsu.com/2025/12/wildlight-entertainment-announces-free-to-play-pvp-first-person-shooter-highguard-for-ps5-xbox-series-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/12/Highguard_2025_12-11-25_011.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2025-12-12T03:56:49Z"
-    },
-    {
-      "title": "Mega Man Returns In 2027 With A Brand-New Entry For Switch And Switch 2 - Nintendo Life",
-      "description": "Here's a first look at the gameplay",
-      "url": "https://www.nintendolife.com/news/2025/12/mega-man-returns-in-2027-with-a-brand-new-entry-for-switch-and-switch-2",
-      "urlToImage": "https://images.nintendolife.com/cf1d79fa24ff7/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-12-12T03:50:00Z"
-    },
-    {
-      "title": "Ace Combat 8: Wings of Theve Announced for PC and Consoles in First Trailer | The Game Awards 2025 - IGN",
-      "description": "Bandai Namco sped into The Game Awards 2025 to finally reveal Ace Combat 8: Wings of Theve as the next entry in the long-running flight simulator series.",
-      "url": "https://www.ign.com/articles/ace-combat-8-wings-of-theve-announced-for-pc-and-consoles-in-first-trailer-the-game-awards-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/12/acecombat8-blogroll-1765510923088.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-12-12T03:45:54Z"
-    },
-    {
-      "title": "Announcing Total War: Warhammer 40,000! - Warhammer Community",
-      "description": "Watch the trailer now! The award-winning strategy franchise moves into the 41st Millennium.",
-      "url": "https://www.warhammer-community.com/articles/im0uezy0/announcing-total-war-warhammer-40000",
-      "urlToImage": "https://assets.warhammer-community.com/twwft-1-feature-spsucthmt4.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2025-12-12T03:32:05Z"
-    },
-    {
-      "title": "The Developers of No Law Know Everyone Will Compare It to Cyberpunk 2077, but There Are Important Differences - IGN",
-      "description": "IGN interviews Neon Giant on No Law, fresh from The Game Awards.",
-      "url": "https://www.ign.com/articles/the-developers-of-no-law-know-everyone-will-compare-it-to-cyberpunk-2077-but-there-are-important-differences",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/11/no-law-fishbone-gang-bar-1765469379148.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-12-12T03:18:22Z"
+      "title": "Mega Man: Dual Override announced for Nintendo Switch 2, Switch - Nintendo Everything",
+      "description": "Capcom is making Mega Man Dual Override for both Nintendo Switch 2 and Switch, the company just revealed. The project is lined up for 2027. Given how far away the game is, it’s not surprising that we don’t have much information currently. The tagline reads: “…",
+      "url": "https://nintendoeverything.com/mega-man-dual-overrride-announced-for-nintendo-switch-2-switch/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mega-Man-Dual-Override.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-12-12T03:51:44Z"
     },
     {
       "title": "Get Ready to Ride the Light: Diablo 4's Next Expansion Adds Paladin Class, Revamps the Endgame - CNET",
-      "description": "A second new class will also be included in the expansion, which focuses on the fight against Mephisto.",
+      "description": "The Lord of Hatred expansion, which focuses on the fight against Mephisto, will also include a second new class and several changes to endgame content.",
       "url": "https://www.cnet.com/tech/gaming/diablo-4-announces-lord-of-hatred-expansion-paladin/",
       "urlToImage": "https://www.cnet.com/a/img/resize/37ba30fa14c8b783a108b3a6a88b5bda6f62c924/hub/2025/12/10/c101f393-c0f2-46fe-9815-dcce4405f8ff/cinematic-mephisto-paladin-showdown2.png?auto=webp&fit=crop&height=675&precrop=1920,1080,x0,y0&width=1200",
       "source": "CNET",
       "publishedAt": "2025-12-12T02:50:00Z"
     },
     {
-      "title": "Orbitals announced exclusively for Nintendo Switch 2 - Nintendo Everything",
-      "description": "During The Game Awards 2025 tonight, was announced exclusive for Nintendo Switch 2. The title launches sometime in 2026. Orbitals, a co-op space adventure game, comes from Kepler and Shapefarm. The goal of the game involves going on a search for the crumbling…",
-      "url": "https://nintendoeverything.com/orbitals-announced-exclusively-for-nintendo-switch-2/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Orbitals-.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2025-12-12T02:37:30Z"
-    },
-    {
-      "title": "Amazon's Tomb Raider Game First Look, Lara Croft Remake in 2026 - Variety",
-      "description": "Amazon Game Studios and Crystal Dynamics have revealed a first look at their highly anticipated new \"Tomb Raider\" game Thursday",
-      "url": "https://variety.com/2025/tv/news/amazon-tomb-raider-game-first-look-lara-croft-remake-2026-1236607140/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/Tomb-Raider-Catalyst.png?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-12T02:29:00Z"
-    },
-    {
-      "title": "LEGO Batman: Legacy of the Dark Knight Release Date Announced | The Game Awards 2025 - IGN",
-      "description": "LEGO Batman: Legacy of the Dark Knight emerged from the shadows this evening at The Game Awards with a new trailer, revealing the anticipated adventure's release date.",
-      "url": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-release-date-announced-the-game-awards-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/12/the-game-awards-2025-livestream-04-45-07-1765505878833.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-12-12T02:29:00Z"
-    },
-    {
-      "title": "Gang of Dragon is Toshihiro Nagoshi's New Game, and It Sure Looks Like Yakuza | The Game Awards 2025 - IGN",
-      "description": "We just got our first look at the debut game from Nagoshi Studio, the studio formed by Toshihiro Nagoshi under NetEase after he departed Ryu Ga Gotoku in 2021. It's called Gang of Dragon, and it sure looks an awful lot like Yakuza!",
-      "url": "https://www.ign.com/articles/gang-of-dragon-is-toshihiro-nagoshis-new-game-and-it-sure-looks-like-yakuza-the-game-awards-2025",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/12/gangofdragon-blogroll-1765505645091.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-12-12T02:21:20Z"
+      "title": "Google's new browser experiment turns your open tabs into custom apps - Android Authority",
+      "description": "Google has announced a new Disco browser with GenTabs to turn your open tabs and tasks into custom, interactive web apps.",
+      "url": "https://www.androidauthority.com/google-disco-gentabs-experiment-3624665/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/12/Google-Disco-GenTabs.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-12-12T02:43:17Z"
     },
     {
       "title": "Warlock: Dungeons & Dragons Is A Dark Fantasy Open World Action Game Coming In 2027 - Game Informer",
@@ -108,52 +148,12 @@
       "publishedAt": "2025-12-12T02:05:21Z"
     },
     {
-      "title": "Capcom Finally Confirms Leon S. Kennedy Is In Resident Evil Requiem | The Game Awards 2025 - IGN",
-      "description": "After months of speculation and a revealing leak earlier this week, Capcom has finally, officially confirmed what we all knew: Leon S. Kennedy is in Resident Evil Requiem, and he's here to kick butt.",
-      "url": "https://www.ign.com/articles/capcom-finally-confirms-leon-s-kennedy-is-in-resident-evil-requiem-the-game-awards-2025-ign",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/12/resident-evil-requiem-world-premiere-trailer-from-the-game-awards-2025-00-02-46-1765504545021.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-12-12T02:02:24Z"
-    },
-    {
-      "title": "PS5 Exclusive Saros Delayed, But Pre-Orders Are Live Right Now - Push Square",
-      "description": "Watch the new trailer",
-      "url": "https://www.pushsquare.com/news/2025/12/ps5-exclusive-saros-delayed-but-pre-orders-are-live-right-now",
-      "urlToImage": "https://images.pushsquare.com/5aa9160104911/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-12-12T02:00:00Z"
-    },
-    {
-      "title": "Jonathan Blow has spent the past decade designing 1,400 puzzles for you - Ars Technica",
-      "description": "Preview: Order of the Sinking Star started small but became a “combinatoric explosion.”…",
-      "url": "https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/oss1-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-12-12T01:50:08Z"
-    },
-    {
-      "title": "The Game Awards statue was for Larian's new game, Divinity, a new RPG that's \"even larger than Baldur's Gate 3 - Eurogamer",
-      "description": "Larian has announced Divinity.",
-      "url": "https://www.eurogamer.net/larian-announces-new-game-takes-ownership-of-desert-statue",
-      "urlToImage": "https://assetsio.gnwcdn.com/New-Project-(13)_nsEHesB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-12-12T01:36:07Z"
-    },
-    {
-      "title": "Mario + Rabbids creator's next game spoofs Bloodborne and more, in a mascot platformer parody of the games industry starring a badger - Eurogamer",
-      "description": "The creator of Mario + Rabbids has revealed his next game, and it's a send up of the games industry as a mascot platformer: Bradley the Badger.",
-      "url": "https://www.eurogamer.net/mario-rabbids-creators-next-game-spoofs-bloodborne-and-more-in-a-mascot-platformer-parody-of-the-games-industry-starring-a-badger",
-      "urlToImage": "https://assetsio.gnwcdn.com/Bradley_The_Badger_LastBadger-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-12-12T00:55:51Z"
-    },
-    {
-      "title": "Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2 - TechCrunch",
-      "description": "For the first time, developers can embed Google's Deep Research tool, based on Gemini 3 Pro, into their own apps.",
-      "url": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1147600063.jpg?resize=1200,817",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-12T00:18:56Z"
+      "title": "Larian reveal a new Divinity RPG that boasts \"greater breadth & depth than ever before\" - Rock Paper Shotgun",
+      "description": "A Divinity game has been revealed at The Game Awards.",
+      "url": "https://www.rockpapershotgun.com/larian-reveal-a-new-divinity-rpg-that-boasts-greater-breadth-depth-than-ever-before",
+      "urlToImage": "https://assetsio.gnwcdn.com/divinity_xmx2WXp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Rock Paper Shotgun",
+      "publishedAt": "2025-12-12T02:01:42Z"
     }
   ]
 }
