@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2025-12-14T06:42:09.076Z",
+  "updatedAt": "2025-12-15T06:49:49.505Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "SpaceX Sets Insider Share Deal at About $800 Billion Valuation - Bloomberg.com",
-      "description": "SpaceX is moving forward with an insider share sale that values Elon Musk’s rocket and satellite maker at about $800 billion, setting up what could be the largest initial public offering of all time.",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-13/spacex-sets-insider-share-deal-at-about-800-billion-valuation",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFnlrOtch9Cg/v0/1200x800.jpg",
+      "title": "United Airlines flight makes emergency landing due to engine failure - NewsNation",
+      "description": "The United flight was bound for Tokyo and taking off when the engine lost power.",
+      "url": "https://www.newsnationnow.com/travel/united-airlines-flight-makes-emergency-landing-due-to-engine-failure/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/12/UA-Dulles-emergency-landing.jpg?w=1280",
+      "source": "Newsnationnow.com",
+      "publishedAt": "2025-12-14T05:17:53Z"
+    },
+    {
+      "title": "High-end car sales sink in China as its economy slows, taking a toll on European automakers - AP News",
+      "description": "Chinese demand for foreign luxury cars is waning as customers opt for more affordable Chinese brand models. Those are often sold at big discounts catering to their taste for fancy electronics and comfort. That is bad news for European carmakers like Porsche, …",
+      "url": "https://apnews.com/article/luxury-cars-china-economy-europe-a1f4f55f2989082a2a533ab891f75408",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0ce4669/2147483647/strip/true/crop/8363x4704+0+436/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F58%2F06%2F7d5e3c1033ac777d31dd4fd4b2a6%2F99313b54757d447d81567b97020aa286",
+      "source": "Associated Press",
+      "publishedAt": "2025-12-14T02:05:00Z"
+    },
+    {
+      "title": "Elon Musk just hit Sam Altman with an $800 billion counterpunch - Business Insider",
+      "description": "OpenAI overtook SpaceX as the most valuable private company. SpaceX could soon reclaim the title. It's the latest in the rivalry between Musk and Altman.",
+      "url": "https://www.businessinsider.com/spacex-valuation-elon-musk-sam-altman-openai-rivalry-2025-12",
+      "urlToImage": "https://i.insider.com/693dcb2c64858d02d216c4f9?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-12-14T01:03:00Z"
+    },
+    {
+      "title": "ServiceNow near deal to buy cybersecurity startup Armis for up to $7 billion, Bloomberg News reports - Yahoo Finance",
+      "description": "ServiceNow is in advanced talks to buy Armis, a cybersecurity ​startup that had been eyeing an initial ‌public offering next year, in a deal that may ‌be...",
+      "url": "https://finance.yahoo.com/news/servicenow-near-deal-buy-cybersecurity-003611811.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-12-14T00:36:00Z"
+    },
+    {
+      "title": "OpenAI to End Equity Vesting Period for Employees, WSJ Says - Bloomberg.com",
+      "description": "OpenAI told staff that it was ending its policy requiring employees to work for at least six months at the company before their equity vests, the Wall Street Journal reported on Saturday, citing unnamed people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-13/openai-to-end-equity-vesting-period-for-employees-wsj-says",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9g2SEcHMBao/v1/1200x831.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-12-13T01:46:00Z"
+      "publishedAt": "2025-12-13T23:12:09Z"
     },
     {
-      "title": "Analysts revamp Oracle stock price target after slump - TheStreet",
-      "description": "Here’s what could be next for Oracle stock.",
-      "url": "https://www.thestreet.com/investing/stocks/analysts-revamp-oracle-stock-price-target-after-slump",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTc0NzcxMjA0NjE0MjY4Njg3/oracle.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-12-12T23:03:00Z"
-    },
-    {
-      "title": "US TikTok investors in limbo as deal set to be delayed again - BBC",
-      "description": "A deal to sell TikTok has remained elusive, despite earlier claims that a deal was done.",
-      "url": "https://www.bbc.com/news/articles/cp34442z25ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2134/live/3e8e0eb0-d778-11f0-825e-eb4c8fb7e95e.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-12T22:25:18Z"
-    },
-    {
-      "title": "Tilray’s stock takes off on hope that cannabis will soon be treated more like steroids than heroin - MarketWatch",
-      "description": "Trump is reportedly mulling an executive order to downgrade marijuana to a Schedule III drug, which could open the door to banking services",
-      "url": "https://www.marketwatch.com/story/tilrays-stock-takes-off-on-hope-that-cannabis-will-soon-be-seen-as-more-like-steroids-than-heroin-f160575c",
-      "urlToImage": "https://images.mktw.net/im-68275595/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-12-12T22:22:00Z"
-    },
-    {
-      "title": "Trump gives Elon Musk a win over a longtime foe - CNN",
-      "description": "President Donald Trump on Thursday ordered a review of two major proxy advisory firms — companies that advise shareholders on votes — that had previously drawn the ire of Tesla CEO Elon Musk and others in Corporate America.",
-      "url": "https://www.cnn.com/2025/12/12/business/musk-trump-shareholder-proxies-iss-glass-lewis",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202932520-20251106202504656.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-12T21:44:58Z"
-    },
-    {
-      "title": "Exclusive | Trump Says He Is Leaning Toward Warsh or Hassett to Lead the Fed - The Wall Street Journal",
-      "description": "In an interview with The Wall Street Journal, Trump said the next Fed chair should consult with him on interest rates",
-      "url": "https://www.wsj.com/economy/central-banking/trump-says-he-is-leaning-toward-warsh-or-hassett-to-lead-the-fed-34a200e5",
-      "urlToImage": "https://images.wsj.net/im-37102617/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-12T21:34:00Z"
-    },
-    {
-      "title": "The Fed just 'Trump-proofed' itself with a unanimous move to preempt a potential leadership shakeup - Fortune",
-      "description": "\"If I'm reading this properly, they just Trump-proofed the Fed.\"",
-      "url": "https://fortune.com/2025/12/12/fed-independence-presidents-reappointment-board-governors-fomc-votes-rate-cuts/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2226860627-e1765564744355.jpg?resize=1200,600",
+      "title": "Microsoft's AI boss calls Elon Musk a 'bulldozer' with 'superhuman capabilities' - Fortune",
+      "description": "\"And somehow he sort of mostly manages to pull off what appears to be impossible.\"",
+      "url": "https://fortune.com/2025/12/13/microsoft-ai-ceo-mustafa-suleyman-elon-musk-sam-altman-demis-hassabis/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2207890592-e1765661642886.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2025-12-12T21:34:00Z"
+      "publishedAt": "2025-12-13T22:57:00Z"
     },
     {
-      "title": "Wall Street Sphincters Tighten as Oracle Delays Its OpenAI Data Center Buildout - Gizmodo",
-      "description": "When the bubble pops, you can't say there weren't signs.",
-      "url": "https://gizmodo.com/wall-street-sphincters-tighten-as-oracle-delays-its-openai-data-center-buildout-2000699248",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/shutterstock_2704406619-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-12-12T21:10:38Z"
+      "title": "What's in store for BDCs in 2026? (MAIN:NYSE) - Seeking Alpha",
+      "description": "Understood. Please provide the article for analysis and meta description generation.",
+      "url": "https://seekingalpha.com/news/4530152-whats-in-store-for-bdcs-in-2026",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209914068/image_2209914068.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "publishedAt": "2025-12-13T21:05:50Z"
     },
     {
-      "title": "New flight from SFO lands miles from gate into major Calif. theme park - SFGATE",
-      "description": "United Airlines is slated to begin service at McClellan-Palomar Airport in Carlsbad in 2026. It's the closest airport to Legoland.",
-      "url": "https://www.sfgate.com/travel/article/sfo-launching-flight-california-theme-park-21239226.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/40/47/28707319/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-12-12T20:49:43Z"
+      "title": "More financially distressed farmers will lose their property as loan repayments and incomes falter - Fortune",
+      "description": "Nearly half the bankers surveyed see forced sales or liquidations of farm assets owned by financially distressed farmers rising in the next three to six months.",
+      "url": "https://fortune.com/2025/12/13/farm-economy-agriculture-financial-distress-farmers-forced-sales-liquidation-loan-repayments-soybean-incomes/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2242894450-e1765654779851.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-12-13T20:52:00Z"
     },
     {
-      "title": "China Is ‘Rejecting’ H200s, Outfoxing US Strategy, Sacks Says - Bloomberg.com",
+      "title": "China Is ‘Rejecting’ Nvidia’s H200 Chips, Outfoxing US Strategy, Sacks Says - Bloomberg.com",
       "description": "China has figured out the US strategy for allowing it to buy Nvidia Corp.’s H200 and is rejecting the AI chip in favor of domestically developed semiconductors, White House AI czar David Sacks said, citing news reports.",
       "url": "https://www.bloomberg.com/news/articles/2025-12-12/china-is-rejecting-h200s-outfoxing-us-strategy-sacks-says",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8jya2MS.P6k/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-12-12T20:30:38Z"
+      "publishedAt": "2025-12-13T20:27:48Z"
     },
     {
-      "title": "Do Kwon Gets 15 Years for $40 Billion Crypto Collapse as Victims Testify to Destruction He Caused - Gizmodo",
-      "description": "The collapse of Terraform Labs was part of a greater deleveraging event in crypto that culminated in the fall of FTX.",
-      "url": "https://gizmodo.com/do-kwon-gets-15-years-for-40-billion-crypto-collapse-as-victims-testify-to-destruction-he-caused-2000699082",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Do-Kwon-Sentencing-15-Years-Terra-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-12-12T19:55:21Z"
+      "title": "Cosmetics chain closing more stores after Chapter 11 bankruptcy - thestreet.com",
+      "description": "While the chain's Chapter 11 bankruptcy has been resolved, it still faces grave financial concerns.",
+      "url": "https://www.thestreet.com/retail/after-chapter-11-bankruptcy-beauty-retailer-closing-more-stores",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTcxMzg5OTczMzU2ODgxNTg3/office-closed.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-12-13T20:20:59Z"
     },
     {
-      "title": "Decreasing tariff revenue threatens Trump's goal of using income to slash $38 trillion national debt - Fortune",
-      "description": "Earlier this month, Trump called the country’s mounting debt \"peanuts\" compared to the money he was bringing in from custom duties.",
-      "url": "https://fortune.com/2025/12/12/tariff-revenues-decrease-trump-plans-pay-off-national-debt/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2250509568-e1765566243733.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-12-12T19:44:00Z"
+      "title": "AARP raises red flag on Social Security, Medicare - thestreet.com",
+      "description": "The advocacy group for Americans over 50 years old offers some important advice.",
+      "url": "https://www.thestreet.com/retirement/aarp-raises-red-flag-on-social-security-medicare",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyNzk2ODI4/20251122socialsecurity.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-12-13T20:12:24Z"
     },
     {
-      "title": "Rivian's Stock Pops Friday. The EV Maker Is Leaning Into Autonomy and AI - Investopedia",
-      "description": "Rivian shares soared Friday, a day after the electric vehicle maker held an \"Autonomy & AI Day\" where it announced a custom AI chip and plans to roll out enhanced self-driving software.",
-      "url": "https://www.investopedia.com/rivian-s-stock-pops-friday-the-ev-maker-is-leaning-into-autonomy-and-ai-rivn-updated-11867827",
-      "urlToImage": "https://www.investopedia.com/thmb/XEkn27mqYZJhUhVg1Sd1dB6UuWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2250842526-f3034256d97a47c197d4b09b914e628e.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-12-12T19:40:50Z"
-    },
-    {
-      "title": "The Daily: Ripple, Circle and BitGo win conditional approval for US banking charters, Hex Trust to issue and custody wrapped XRP, and more - The Block",
-      "description": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.",
-      "url": "https://www.theblock.co/post/382409/the-daily-ripple-circle-and-bitgo-win-conditional-approval-for-us-banking-charters-hex-trust-to-issue-and-custody-wrapped-xrp-and-more",
-      "urlToImage": "https://www.tbstat.com/wp/uploads/2019/03/Ripple-1200x675.jpg",
-      "source": "Theblock.co",
-      "publishedAt": "2025-12-12T19:30:35Z"
-    },
-    {
-      "title": "Surprising problem is frustrating customers, costing restaurants millions, experts say - MLive.com",
-      "description": "The restaurant industry has a penny problem.",
-      "url": "https://www.mlive.com/news/us-world/2025/12/surprising-problem-is-frustrating-customers-costing-restaurants-millions-experts-say.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/BGSZU2QHGFBWDJSYFDH22KKX5M.jpg?auth=7fd61826331deb3072565036dcf15a12c83c43188dbaa4f5c05ab6c8b75f07ba&width=1280&smart=true&quality=90",
-      "source": "mlive.com",
-      "publishedAt": "2025-12-12T19:00:00Z"
-    },
-    {
-      "title": "Stephen Colbert asks why The Late Show was canceled if Paramount can offer Warner Bros. $108 billion - Entertainment Weekly",
-      "description": "Stephen Colbert is wondering why 'The Late Show' was canceled for financial reasons if CBS' parent company Paramount can offer $108 billion to acquire Warner Bros.",
-      "url": "https://ew.com/stephen-colbert-questions-paramount-billion-dollar-warner-bros-offer-amid-late-show-cancellation-11867982",
-      "urlToImage": "https://ew.com/thmb/h6kelhMGTfEQAEDkv4IKzUPXk4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-late-show-with-stephen-colbert-01-121225-0dbbd299f405435b8b97c9d9d94b7630.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2025-12-12T18:52:20Z"
-    },
-    {
-      "title": "What are the monthly payments on a $600,000 mortgage now, after the Fed's December rate cut? - CBS News",
-      "description": "Monthly payments on a $600,000 mortgage look different after the latest Fed rate cut, but by how much?",
-      "url": "https://www.cbsnews.com/news/monthly-payments-on-a-600000-mortgage-after-fed-december-2025-rate-cut/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/12/ff7a04bd-b7ce-44e8-8990-558b16e087cb/thumbnail/1200x630/7645906d5b2d79762afc6f398df9b787/gettyimages-2249713543.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-12T18:30:59Z"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Lags Dow As Tesla Rival Soars On AI Chip News (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index turns lower Friday, and AI stocks falter as Broadcom stock plunges after earnings.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-broadcom-avgo-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet2-031317-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-12-12T18:08:00Z"
-    },
-    {
-      "title": "Why AMD (AMD) Shares Are Sliding Today - Yahoo Finance",
-      "description": "Shares of computer processor maker AMD (NASDAQ:AMD) fell 4.3% in the afternoon session after investors rotated out of AI-linked high-flyers following...",
-      "url": "https://finance.yahoo.com/news/why-amd-amd-shares-sliding-175041547.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CF_jp.YgwUr5daOVP6AyYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/d8e71fcf83a5154bb9a363113758de33",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-12T17:50:41Z"
-    },
-    {
-      "title": "Broadcom CEO Hock Tan Just Delivered Incredible News for Nvidia Stock Investors - The Motley Fool",
-      "description": "The data center and semiconductor specialist just provided the clearest evidence yet that the adoption of artificial intelligence (AI) continues to gain steam.",
-      "url": "https://www.fool.com/investing/2025/12/12/broadcom-ceo-hock-tan-just-delivered-incredible-ne/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F846857%2Fnvidias-santa-clara-headquarters.jpg&w=1200&op=resize",
+      "title": "Meet My Top 5 Artificial Intelligence (AI) Stocks for 2026 - The Motley Fool",
+      "description": "The AI computing market is a great place to invest.",
+      "url": "https://www.fool.com/investing/2025/12/13/meet-my-top-5-artificial-intelligence-ai-stocks-fo/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845017%2Fperson-overlooking-a-datacenter.jpg&w=1200&op=resize",
       "source": "Motley Fool",
-      "publishedAt": "2025-12-12T17:35:00Z"
+      "publishedAt": "2025-12-13T20:10:00Z"
+    },
+    {
+      "title": "Jury says Johnson & Johnson owes $40 million to 2 cancer patients who used talcum powders - AP News",
+      "description": "A Los Angeles jury has awarded $40 million to two women who claim Johnson & Johnson's talcum powder caused their ovarian cancer. The company plans to appeal the verdict. This is part of an ongoing legal battle over the alleged link between talc in Johnson's B…",
+      "url": "https://apnews.com/article/johnson-johnson-baby-powder-ovarian-cancer-3530102b312df155aa427e87770c952b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/59df5e1/2147483647/strip/true/crop/6538x3678+0+341/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2Feb%2F4289a982a79d4e3d79cb947d1e0c%2Fc2f8031933194dd4a0638dc6145cb9a0",
+      "source": "Associated Press",
+      "publishedAt": "2025-12-13T19:39:00Z"
+    },
+    {
+      "title": "Powerball jackpot surges to $1 billion ahead of Saturday drawing - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/US/powerball-jackpot-surges-1-billion-ahead-saturday-drawing/story?id\\\\u003d128374407",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-12-13T17:25:15Z"
+    },
+    {
+      "title": "Popular Chain Eatery Set to Close all 736 Locations for 24 Hours - Yahoo",
+      "description": "The company is shutting its doors for one day.",
+      "url": "https://parade.com/news/texas-roadhouse-closed-christmas",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uEhYjTGtH7mGwUdckNyeCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/parade_250/21fc9790de108b81efd4a63231b405bf",
+      "source": "Parade",
+      "publishedAt": "2025-12-13T17:01:27Z"
+    },
+    {
+      "title": "Researchers unlock major breakthrough in 'holy grail' energy source: 'A dream that scientists have been chasing for decades' - Yahoo",
+      "description": "\"Imagine an electric grid powered by a stable, low-cost, and abundant source of energy ...\"",
+      "url": "https://www.yahoo.com/news/articles/researchers-unlock-major-breakthrough-holy-163000719.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/a1jfNVTaa1S_t4cVe8KiWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/7d54479bdcff7a98407184f3e51bf0e8",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-12-13T16:30:00Z"
+    },
+    {
+      "title": "More than 9mn US borrowers miss student loan payments as delinquencies rise - Financial Times",
+      "description": "Share of balances past due has doubled as Biden-era forbearance expires",
+      "url": "https://www.ft.com/content/b6ca2ab2-2d3a-40d7-9a61-12a6fda0625d",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F07b886f9-4d68-407a-b6f7-b569e4432457.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-12-13T15:00:21Z"
+    },
+    {
+      "title": "Food delivery app accused of secretly manipulating prices - thestreet.com",
+      "description": "For some customers price differences reached as high as 23% for the exact same items.",
+      "url": "https://www.thestreet.com/retail/popular-food-delivery-company-instacart-accused-of-running-price-experiments-on-shoppers",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTkwODQ4Nzk4ODk1OTA4NDMz/grocery-inflation.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-12-13T14:33:00Z"
+    },
+    {
+      "title": "Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin - CoinDesk",
+      "description": "Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.",
+      "url": "https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/f3551c2e6549cc25a935efc0ac6200617aa9f912-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2025-12-13T14:00:45Z"
     }
   ]
 }
