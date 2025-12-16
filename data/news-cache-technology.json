@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2025-12-15T06:49:49.387Z",
+  "updatedAt": "2025-12-16T06:48:26.574Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind - BBC",
-      "description": "A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.",
-      "url": "https://www.bbc.com/news/articles/c2epm9z9kkvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6cf0/live/e4840b20-d75b-11f0-9fb5-5f3a3703a365.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-14T00:58:34Z"
+      "title": "Grok got crucial facts wrong about Bondi Beach shooting - TechCrunch",
+      "description": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
+      "url": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-14T23:17:47Z"
     },
     {
-      "title": "Turn a few words into a high-quality image with this $35 AI-powered tool - Mashable",
-      "description": "This AI image generator has zero restrictions.",
-      "url": "https://mashable.com/article/dec-13-imagiyo-ai-image-generator-standard-plan-lifetime-subscription",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02Dn95pCZtYaUtZ9MAjyntc/hero-image.fill.size_1200x675.v1765467070.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-13T23:00:00Z"
-    },
-    {
-      "title": "Microsoft released KB5072537, KB5071416, KB5072543 Windows 11 Setup & Recovery updates - Neowin",
+      "title": "Ask HN: What Are You Working On? (December 2025) - Hacker News",
       "description": null,
-      "url": "https://www.neowin.net/news/microsoft-released-kb5072537-kb5071416-kb5072543-windows-11-setup--recovery-updates/",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46264491",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-12-14T19:27:43Z"
+    },
+    {
+      "title": "Ottocast launches new CarPlay AI Box plus wireless adapter with rear cabin monitoring - 9to5Mac",
+      "description": "If you’ve been looking to upgrade your car’s tech without breaking the bank on a new vehicle, Ottocast just dropped...",
+      "url": "https://9to5mac.com/2025/12/14/ottocast-launches-new-carplay-ai-box/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/ottocast.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-12-14T18:49:00Z"
+    },
+    {
+      "title": "The Corvette ZR1 Won't Stop Breaking Lap Records: Video - Motor1.com",
+      "description": "The Magician of Mosport, Ron Fellows, sets a new lap record in the 2026 Corvette ZR1. He beat the prior record—which he also set.",
+      "url": "https://www.motor1.com/news/781678/corvette-zr1-track-record-canada/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/0eEbXk/s1/corvette-zr1-canadian-motorsport-lap-record.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2025-12-14T18:30:52Z"
+    },
+    {
+      "title": "Hands-on with Anker’s new 20,100mAh battery bank: 220W output, compact design - 9to5Mac",
+      "description": "Anker is back at it again with a new 20,100mAh power bank, under its Anker Prime brand. This power bank...",
+      "url": "https://9to5mac.com/2025/12/14/hands-on-with-compact-anker-20k-battery-bank-for-iphone-and-macbook/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Anker-prime-20k.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-12-14T18:26:00Z"
+    },
+    {
+      "title": "Sunday Preview – A brief pause ahead of Christmas - Warhammer Community",
+      "description": "There’s still time to buy gifts!",
+      "url": "https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas",
+      "urlToImage": "https://assets.warhammer-community.com/sundaypreview-dec14-1-feature-alc0lrovcw.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2025-12-14T18:02:36Z"
+    },
+    {
+      "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted - TechPowerUp",
+      "description": "Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/…",
+      "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
+      "urlToImage": "https://www.techpowerup.com/img/LyjhnECZ5Iamtqd9.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2025-12-14T17:09:58Z"
+    },
+    {
+      "title": "Nearly half of the 19,000 games released on Steam this year went almost unnoticed - TechSpot",
+      "description": "Those numbers point to a widening gap between output and engagement on the world's largest PC game marketplace. Steam's open publishing model has dramatically lowered the barrier...",
+      "url": "https://www.techspot.com/news/110592-nearly-half-19000-games-released-steam-year-went.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/12/2025-12-14-image-7.jpg",
+      "source": "TechSpot",
+      "publishedAt": "2025-12-14T17:03:00Z"
+    },
+    {
+      "title": "Watch Atlas V rocket launch 27 of Amazon's internet satellites to orbit early Dec. 15 - Space",
+      "description": "Liftoff is scheduled for 3:49 a.m. ET on Monday (Dec. 15).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-4",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DURbXEDnrPobsa3EEL3v6e-2000-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-12-14T17:00:00Z"
+    },
+    {
+      "title": "Can You Use A Roku Without Internet? - bgr.com",
+      "description": "Using a Roku streaming device doesn't require much more than an internet connection. But does this mean that when your Wi-Fi is down, your device is useless?",
+      "url": "https://www.bgr.com/2046701/can-you-use-roku-without-internet/",
+      "urlToImage": "https://www.bgr.com/img/gallery/can-you-use-a-roku-without-internet/l-intro-1765229017.jpg",
+      "source": "BGR",
+      "publishedAt": "2025-12-14T16:47:00Z"
+    },
+    {
+      "title": "Mobile's next big thing is unraveling, it's going to get messy, and it may already be too late to stop it - Android Police",
+      "description": "AI has a serious reputation problem at the end of 2025, and it needs to change in 2026",
+      "url": "https://www.androidpolice.com/mobile-ai-is-unraveling/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/iphone-16-pro-max-vs-galaxy-s24-ultra_-flatlining_-0-0-screenshot.png?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2025-12-14T16:15:00Z"
+    },
+    {
+      "title": "Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller - Kotaku",
+      "description": "Save 8% on the 1TB, 4K, 120fps gaming console from Microsoft for a limited time.",
+      "url": "https://kotaku.com/xbox-series-x-enters-holiday-clearance-mode-after-skipping-black-friday-discounts-includes-a-wireless-controller-2000653061",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/Xbox-Series-X.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-14T16:05:36Z"
+    },
+    {
+      "title": "5 Free Apps That Can Replace Your Microsoft Office Subscription - bgr.com",
+      "description": "If you are tired of paying a fortune for a Microsoft Office subscription, you must check out some alternative apps like Canva, Mailspring, and more.",
+      "url": "https://www.bgr.com/2047128/free-apps-replace-microsoft-office-subscription/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-free-apps-that-can-replace-your-microsoft-office-subscription/l-intro-1765280201.jpg",
+      "source": "BGR",
+      "publishedAt": "2025-12-14T15:47:00Z"
+    },
+    {
+      "title": "Microsoft shares official Windows 11 gaming hardware requirements and recommendations guide - Neowin",
+      "description": null,
+      "url": "https://www.neowin.net/news/microsoft-shares-official-windows-11-gaming-hardware-requirements-and-recommendations-guide/",
       "urlToImage": null,
       "source": "Neowin",
-      "publishedAt": "2025-12-13T20:16:00Z"
+      "publishedAt": "2025-12-14T15:40:00Z"
     },
     {
-      "title": "LG Update Installs Unremovable Microsoft Copilot on Smart TVs, Ignites Backlash - WebProNews",
-      "description": "LG's recent software update has forcibly installed Microsoft Copilot, an AI assistant, on smart TVs without removal options, sparking widespread user backlash over privacy, bloatware, and loss of control. This highlights growing tensions in smart devices, whe…",
-      "url": "https://www.webpronews.com/lg-update-installs-unremovable-microsoft-copilot-on-smart-tvs-ignites-backlash/",
-      "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/12/article-3791-1765654614.jpeg",
-      "source": "WebProNews",
-      "publishedAt": "2025-12-13T19:38:24Z"
-    },
-    {
-      "title": "A Kinect for kids is outselling Xbox to become the hot toy this holiday - The Verge",
-      "description": "The Nex Playground is basically Kinect for kids, and it’s outselling Microsoft’s Xbox, shaking up the console market this holiday.",
-      "url": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/nexplaygroundbundle.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-12-13T18:17:20Z"
-    },
-    {
-      "title": "Google Phone beta rolling out ‘urgent’ Expressive Calling that can break through DND - 9to5Google",
-      "description": "After announcing at the start of this month, Phone by Google’s new “Expressive Calling” feature is beginning to roll out for beta users.",
-      "url": "http://9to5google.com/2025/12/13/google-phone-expressive-calling-beta/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Phone-Expressive-Calling-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-13T18:09:00Z"
-    },
-    {
-      "title": "This Insanely Long Ribbon Worm Turns Out to Be The Oldest on Record - ScienceAlert",
-      "description": "Biologist Jon Allen is the proud owner of the world's oldest ribbon worm on record.",
-      "url": "https://www.sciencealert.com/this-insanely-long-ribbon-worm-turns-out-to-be-the-oldest-on-record",
-      "urlToImage": "https://www.sciencealert.com/images/2025/12/RibbonWorm.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-12-13T18:03:00Z"
-    },
-    {
-      "title": "Destiny 2 Equilibrium Loot Table: Dungeon Weapons and Armor - The Game Post",
-      "description": "Here's our full Destiny 2 Equilibrium loot table, including all dungeon weapons, armor, cosmetics, and more.",
-      "url": "https://thegamepost.com/destiny-2-equilibrium-loot-table-dungeon/",
-      "urlToImage": "https://thegamepost.com/wp-content/uploads/2025/12/destiny-2-equilibrium-dungeon-weapons-icon-5524.jpg",
-      "source": "Thegamepost.com",
-      "publishedAt": "2025-12-13T18:01:38Z"
-    },
-    {
-      "title": "Get Statistical About Your Pet With This Cat Tracking Dashboard - Hackaday",
-      "description": "Cats can be wonderful companions, but they can also be aloof and boring to hang out with. If you want to get a little more out of the relationship, consider obsessively tracking your cat’s ba…",
-      "url": "https://hackaday.com/2025/12/13/get-statistical-about-your-pet-with-this-cat-tracking-dashboard/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/12/dashboard_01ad7d-e1764829295531.jpg",
-      "source": "Hackaday",
-      "publishedAt": "2025-12-13T18:00:00Z"
-    },
-    {
-      "title": "Poll: Are You Happy with Your PS Plus Extra, Premium Games for December 2025? - Push Square",
-      "description": "Plus or minus?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-december-2025",
-      "urlToImage": "https://images.pushsquare.com/d49056ddbb656/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-12-13T18:00:00Z"
-    },
-    {
-      "title": "Saturday Pre-orders: Era of Ruin special edition guaranteed stock - Warhammer Community",
-      "description": "This week’s new releases are live.",
-      "url": "https://www.warhammer-community.com/articles/wimoozuy/saturday-pre-orders-era-of-ruin-special-edition-guaranteed-stock",
-      "urlToImage": "https://assets.warhammer-community.com/preorders-dec13-1-featurenew-syiwgqjbsf.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2025-12-13T17:56:43Z"
-    },
-    {
-      "title": "Bug: Pixel Launcher device search replaced by Google app [U] - 9to5Google",
-      "description": "A curious bug today sees Google app device search replace the modern Pixel Launcher experience on phones...",
-      "url": "http://9to5google.com/2025/12/13/pixel-launcher-device-search/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-homescreen-app-drawer-launcher-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-13T17:37:00Z"
-    },
-    {
-      "title": "You Can Get Over 500 Free Live Channels With A Roku Streaming Stick - Here's How - bgr.com",
-      "description": "Free live television on the Roku Channel include your local news and themed channels, all supported by ads that occasionally show up during programming.",
-      "url": "https://www.bgr.com/2045264/how-to-get-free-live-channels-roku-streaming-stick-tv/",
-      "urlToImage": "https://www.bgr.com/img/gallery/you-can-get-over-500-free-live-channels-with-a-roku-streaming-stick-heres-how/l-intro-1764604095.jpg",
-      "source": "BGR",
-      "publishedAt": "2025-12-13T17:17:00Z"
-    },
-    {
-      "title": "Say hello to Google’s ‘Disco’, an AI tool that makes web apps from browser tabs - Mashable",
-      "description": "GenTabs will be the first Disco feature, and many more are coming.",
-      "url": "https://mashable.com/article/google-disco-ai-browser-tabs-app",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02rqibyilq1EwtjEa9pSUYF/hero-image.fill.size_1200x675.v1765581759.png",
-      "source": "Mashable",
-      "publishedAt": "2025-12-13T16:41:15Z"
-    },
-    {
-      "title": "French President publicly congratulates Clair Obscur: Expedition 33, calling the Game of The Year win \"a historic first\" - Eurogamer",
-      "description": "French President Emmanuel Macron has once again publicly congratulated Sandfall Interactive for Clair Obscur: Expeditio…",
-      "url": "https://www.eurogamer.net/french-president-publicly-congratulates-clair-obscur-expedition-33-calling-the-game-of-the-year-win-a-historic-first",
-      "urlToImage": "https://assetsio.gnwcdn.com/clair-obscur-gustave-sophie.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-12-13T16:07:48Z"
-    },
-    {
-      "title": "iOS 26.2—Apple Confirms Critical Update For 1 Billion iPhones - Forbes",
-      "description": "Apple's update is finally here — and it includes urgent fixes.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/12/13/apple-ios-262-release-date-critical-update-for-1-billion-iphones/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69022fb32398edc0ce58c39d/0x0.jpg?format=jpg&crop=1646,926,x241,y437,safe&height=900&width=1600&fit=bounds",
+      "title": "FBI Confirms 630 Million Stolen Passwords — How To Check Yours Now - Forbes",
+      "description": "The FBI has confirmed that 630 million stolen passwords were found on devices belonging to a single hacker. Here's how to check if yours is one of them.",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/12/14/fbi-confirms-630-million-stolen-passwords---how-to-check-yours-now/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66d829edacfcb3cfdabd5e33/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "source": "Forbes",
-      "publishedAt": "2025-12-13T15:45:00Z"
+      "publishedAt": "2025-12-14T15:28:00Z"
     },
     {
-      "title": "Apple Confirms iPhone Attacks—All Users Must Update Now - Forbes",
-      "description": "1 billion users warned to update to iOS 26.2 now.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/12/13/ios-262-apple-confirms-iphone-attacks-you-must-update-now/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f65ad818c0f357d39b0974/0x0.jpg?format=jpg&crop=1913,1077,x112,y261,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-12-13T15:26:00Z"
+      "title": "iOS 26.2: All the new features now available on your iPhone - 9to5Mac",
+      "description": "iOS 26.2 adds new features to your iPhone and is now available. There are new design features, Podcasts and Music features, and more.",
+      "url": "https://9to5mac.com/2025/12/14/ios-26-2-new-features-iphone/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26.2-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-12-14T14:48:00Z"
     },
     {
-      "title": "Sektori is psychedelic, tough as nails, and worth the pain - The Verge",
-      "description": "Sektori, a new twin-stick shooter from a former developer at Returnal studio Housemarque, is tough but rewarding. It’s out now on PC, PS5, and Xbox Series X / S.",
-      "url": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_ace0fb5612bd71085e3292858451ee9eab39306d.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "We think we found the most active Waymo rider in SF. Prove us wrong. - The San Francisco Standard",
+      "description": "A mystery rider hailed over 400 Waymos in 2025 and spent nearly eight days in the driverless vehicles.",
+      "url": "https://sfstandard.com/2025/12/14/think-found-active-waymo-rider-sf-prove-wrong/",
+      "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_s4s485cfst2rfeb6dvp8apk76c/-C100.00%25x78.71%25%2C0.00%25%2C11.08%25-FWEBP",
+      "source": "Sfstandard.com",
+      "publishedAt": "2025-12-14T14:00:00Z"
+    },
+    {
+      "title": "I’m finally beginning to trust Microsoft’s handheld Xbox Allys - The Verge",
+      "description": "Microsoft and Asus’ Xbox Ally X and Xbox Ally are not the same when it comes to the most critical feature: sleep.",
+      "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-12-13T14:00:00Z"
-    },
-    {
-      "title": "Can My iPhone 17 Pro Match a 6K Cinema Camera? I Teamed Up With a Pro to Find Out - CNET",
-      "description": "I put a video shoot together to see just how close an iPhone can get to a pro cinema setup.",
-      "url": "https://www.cnet.com/tech/mobile/can-my-iphone-17-pro-match-a-6k-cinema-camera-i-teamed-up-with-a-pro-to-find-out/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b9f04e864c6252e2d2921fc7753a9120ab6aebf7/hub/2025/12/11/d0fb4c4a-0608-4686-8129-06d49d879699/iphone-vs-cinema-7.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-12-13T13:01:00Z"
+      "publishedAt": "2025-12-14T14:00:00Z"
     }
   ]
 }
