@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2025-12-17T06:47:37.810Z",
+  "updatedAt": "2025-12-18T06:47:26.612Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Google rolling out update for original Pixel Buds Pro - 9to5Google",
-      "description": "Google on Monday evening announced a new firmware update for the original Pixel Buds Pro. This OTA introduces...",
-      "url": "http://9to5google.com/2025/12/15/pixel-buds-pro-update-2025/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/google-pixel-buds-pro-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-16T05:02:00Z"
-    },
-    {
-      "title": "Hollow Knight: Silksong Expansion Coming 2026, Hollow Knight: Switch 2 Edition Also Announced - Nintendo Life",
-      "description": "Free update and free upgrade confirmed",
-      "url": "https://www.nintendolife.com/news/2025/12/hollow-knight-silksong-expansion-coming-2026-hollow-knight-switch-2-edition-also-announced",
-      "urlToImage": "https://images.nintendolife.com/03662dec839a3/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-12-16T01:30:00Z"
-    },
-    {
-      "title": "New Mous Pixel Watch 4 Charger is the first 3rd-party dock with ‘official’ hardware - 9to5Google",
-      "description": "Mous has released the first official, third-party dock for the Pixel Watch 4. It comes just over two months after the wearable launched.",
-      "url": "http://9to5google.com/2025/12/15/mous-pixel-watch-4-charger/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Mous-Pixel-Watch-4-charger.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-16T00:39:00Z"
-    },
-    {
-      "title": "Early iOS 26 Software Leak Uncovers Dozens of Upcoming Apple Features - MacRumors",
-      "description": "Software from an iPhone prototype running an early build of iOS 26 leaked last week, giving us a glimpse at future Apple devices and iOS features. We...",
-      "url": "https://www.macrumors.com/2025/12/15/ios-software-leak-apple-features/",
-      "urlToImage": "https://images.macrumors.com/t/sJR4ML-uwT8mRNH0yIK6zAfSCG8=/2048x/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2025-12-15T23:05:17Z"
-    },
-    {
-      "title": "Canada man buys a fake iPhone 17 Pro Max and is left stunned at what turns up - supercarblondie.com",
-      "description": "This Canadian tech guru unboxed the latest fake iPhone 17 Pro Max on the market, and is left stunned at a juicier battery but a sub-par product",
-      "url": "https://supercarblondie.com/fake-iphone-17-pro-max-left-man-stunned-at-what-turns-up/",
-      "urlToImage": "https://supercarblondie.com/wp-content/uploads/Fake-iPhone-17.webp",
-      "source": "Supercarblondie.com",
-      "publishedAt": "2025-12-15T23:03:00Z"
-    },
-    {
-      "title": "Meet ‘Fuzozo,’ the AI emotional companion debuting at CES 2026 - Mashable",
-      "description": "You can carry it around like a Labubu.",
-      "url": "https://mashable.com/article/fuzozo-ai-emotional-companion-ces-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03swsdeMMQegS0OOiyUnlUK/hero-image.fill.size_1200x675.v1765814247.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-15T22:33:26Z"
-    },
-    {
-      "title": "Amazon Deletes AI-Generated Recap of \"Fallout\" Season 1 After It's Called Out for Being Full of Errors - Futurism",
-      "description": "Amazon's AI video recap tool has already made an enormous mess by bungling up the details of its hit show, \"Fallout.\"",
-      "url": "http://futurism.com/artificial-intelligence/amazon-deletes-ai-recap-fallout",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/amazon-deletes-ai-recap-fallout.jpg?w=1200",
-      "source": "Futurism",
-      "publishedAt": "2025-12-15T22:15:26Z"
-    },
-    {
-      "title": "Apple TV adds Google Cast streaming, but only on Android - The Verge",
-      "description": "The Android version of Apple TV finally has support for Google Cast, making it easier to watch shows like Pluribus on a nearby TV.",
-      "url": "https://www.theverge.com/news/844867/apple-tv-google-cast-android",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+      "title": "Arcade1Up isn’t dead, maybe - The Verge",
+      "description": "Toy company Basic Fun is acquiring “select assets” of Arcade1Up, according to a statement. Last week, a rumor surfaced that Arcade1Up would be “closing operations.”",
+      "url": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/1000013524.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-12-15T22:11:46Z"
+      "publishedAt": "2025-12-17T01:05:00Z"
     },
     {
-      "title": "What's The Difference Between Ford's Megazilla And Godzilla V8 Engines? - Jalopnik",
-      "description": "The Ford Megazilla is an upgraded version of the Godzilla V8, offering significantly more horsepower and torque. It's also much more expensive.",
-      "url": "https://www.jalopnik.com/2047990/ford-megazilla-vs-godzilla-7-3-v8-crate-engines-differences/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/whats-the-difference-between-fords-megazilla-and-godzilla-v8-engines/l-intro-1765318588.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2025-12-15T22:05:00Z"
+      "title": "The Google app is intentionally replacing Pixel Launcher search - 9to5Google",
+      "description": "In the past few days, tapping the Pixel Launcher search bar opens a different screen powered by the Google app. This is not a bug...",
+      "url": "http://9to5google.com/2025/12/16/pixel-launcher-search-google-app/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-homescreen-app-drawer-launcher-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-12-17T00:21:00Z"
     },
     {
-      "title": "This Is Easily One of the Best-Looking Takes on One of the Most Iconic Chronographs Ever - Gear Patrol",
-      "description": "This watch pays homage to F. A. Porsche—designer of the 911—drawing inspiration from his personal timepiece.",
-      "url": "https://www.gearpatrol.com/watches/porsche-design-chronograph-1-anniversary-edition/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/12/Porsche-Design-Chronograph-1-Anniversary-Edition-Lead.webp",
-      "source": "Gear Patrol",
-      "publishedAt": "2025-12-15T22:00:51Z"
+      "title": "Alexa Plus’ website is live for some users - The Verge",
+      "description": "The website for Amazon’s AI-powered voice assistant previously redirected to an information page. For some users, it’s now more like an Alexa Plus web interface.",
+      "url": "https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-16-at-9.00.12%E2%80%AFAM.png?quality=90&strip=all&crop=0,34.601780904843,100,64.463751775413",
+      "source": "The Verge",
+      "publishedAt": "2025-12-16T23:10:44Z"
     },
     {
-      "title": "Diablo 4 Paladin First Impressions: Much More Than A Diablo 2 Copycat - GameSpot",
-      "description": "Aura farming.",
-      "url": "https://www.gamespot.com/articles/diablo-4-paladin-first-impressions-much-more-than-a-diablo-2-copycat/1100-6536972/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4623044-diablo4paladinimpressions.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-12-15T21:23:42Z"
+      "title": "Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room - The Verge",
+      "description": "The new TVs will range in size from 55 to 100 inches, but pricing details are yet to be released.",
+      "url": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/R95H_PERS.jpg?quality=90&strip=all&crop=0%2C8.248787127266%2C100%2C83.502425745468&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-16T23:00:00Z"
     },
     {
-      "title": "8 Rare Vintage Tech Products Worth Thousands That Might Be Hiding In Your Attic - bgr.com",
-      "description": "Collectible tech is a lot newer than most other kinds of vintage items, which might take hundreds of years to become interesting. Nostalgia plays a big part.",
-      "url": "https://www.bgr.com/2050118/rare-vintage-tech-worth-thousands-hiding-attic/",
-      "urlToImage": "https://www.bgr.com/img/gallery/8-rare-vintage-tech-products-worth-thousands-that-might-be-hiding-in-your-attic/l-intro-1765544277.jpg",
+      "title": "BG3 studio Larian says it's using genAI for Divinity, but not 'looking at trimming down teams to replace them' - Polygon",
+      "description": "Divinity, the next game from Baldur's Gate 3 devs Larian, employs AI and machine learning, but not at the expense of creators, Swen Vincke says.",
+      "url": "https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/trailer-screenshots_07.jpg?w=1600&h=900&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2025-12-16T22:35:00Z"
+    },
+    {
+      "title": "Ricoh’s Nostalgia-Fueled GR IV HDF Arrives Soon and Adds a New Electronic Shutter - PetaPixel",
+      "description": "Dreamier photos for an extra $100.",
+      "url": "https://petapixel.com/2025/12/16/ricohs-nostalgia-fueled-gr-iv-hdf-arrives-soon-and-adds-a-new-electronic-shutter/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2025/12/GR-IV-HDF-image06.jpg",
+      "source": "PetaPixel",
+      "publishedAt": "2025-12-16T22:00:21Z"
+    },
+    {
+      "title": "Apple headphones don't get cheaper than this: EarPods are down to just $11 - Yahoo! Tech",
+      "description": "Tired of charging things? These corded headphones will work with iPhones and iPads both old and new.",
+      "url": "https://tech.yahoo.com/audio/deals/article/apple-headphones-dont-get-cheaper-than-this-earpods-are-down-to-just-11-200052019.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zH..V8DHh5QhbxaZglRA1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/58ec51b0-d9f6-11f0-8d76-cef3b4d7193c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-12-16T20:00:52Z"
+    },
+    {
+      "title": "4 Electronics You Should Only Buy From Amazon - bgr.com",
+      "description": "Consumers should buy smart TVs, Kindle devices, laptops, and Amazon Basics products from Amazon before any competitors, based on price and return policies.",
+      "url": "https://www.bgr.com/2049731/electronics-only-buy-amazon/",
+      "urlToImage": "https://www.bgr.com/img/gallery/4-electronics-you-should-only-buy-from-amazon/l-intro-1765480543.jpg",
       "source": "BGR",
-      "publishedAt": "2025-12-15T21:02:00Z"
+      "publishedAt": "2025-12-16T19:47:00Z"
     },
     {
-      "title": "iOS 26.3 beta reveals how Apple plans to handle EU-required notification forwarding - 9to5Mac",
-      "description": "iOS 26.3 beta 1 includes a new UI in preparation for the rule that will require Apple to allow 3rd-party devices to access notifications.",
-      "url": "https://9to5mac.com/2025/12/15/ios-26-3-beta-notification-forwarding/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/notifications-forwarding.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-12-15T20:37:00Z"
+      "title": "10 Best 3D Printing Projects For Beginners - bgr.com",
+      "description": "A few years ago, 3D printing sounded like science fiction. Today, there are thousands of beginner-friendly designs perfect for learning the basics.",
+      "url": "https://www.bgr.com/2047074/best-3d-printing-projects-beginners/",
+      "urlToImage": "https://www.bgr.com/img/gallery/10-best-3d-printing-projects-for-beginners/l-intro-1765273777.jpg",
+      "source": "BGR",
+      "publishedAt": "2025-12-16T19:02:00Z"
     },
     {
-      "title": "Microsoft takes down mod that re-created Halo 3 in Counter-Strike 2 - Ars Technica",
-      "description": "Project Misriah creator vows to use new experience “to cook up something else.”…",
-      "url": "https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistriah-1152x648.png",
-      "source": "Ars Technica",
-      "publishedAt": "2025-12-15T20:20:05Z"
-    },
-    {
-      "title": "All The Game Awards Game Of The Year Winners To Date - GameSpot",
-      "description": "From Dragon Age: Inquisition to Clair Obscur: Expedition 33, these are all of the Game of the Year winners at The Game Awards.",
-      "url": "https://www.gamespot.com/gallery/all-the-game-awards-game-of-the-year-winners-to-date/2900-7352/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4623035-clairobscurexpedition33.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-12-15T20:01:17Z"
-    },
-    {
-      "title": "Google’s ‘dark web report’ feature will no longer be available starting in February - TechCrunch",
-      "description": "Launched initially about a year and a half ago, this tool aimed to help users monitor their personal information on the dark web.",
-      "url": "https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-4.03.05-PM.png?resize=1171,1200",
+      "title": "Meta’s AI glasses can now help you hear conversations better - TechCrunch",
+      "description": "Conversation focus uses the AI glasses' open-ear speakers to amplify the voice of the person you're talking to, says Meta.",
+      "url": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/Conversation-Focus_Social-Share.webp?resize=1200,675",
       "source": "TechCrunch",
-      "publishedAt": "2025-12-15T19:19:18Z"
+      "publishedAt": "2025-12-16T18:30:55Z"
     },
     {
-      "title": "Bungie’s delayed shooter Marathon launches in March - The Verge",
-      "description": "Bungie’s new Marathon extraction shooter is going to launch in March 2026 with a target price of $39.99.",
-      "url": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2025_DEC_Marathon_Press_Kit_Compressed_003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "Enter the Mob Maze - Minecraft",
+      "description": "Step into Mob Maze, a roguelite multiplayer adventure with SUPER-SIZED environments and scaled-up obstacles, available through the Server list in Minecraft: Bedrock Edition! Do you have what it takes to conquer this colossal place with your unique abilities, …",
+      "url": "https://www.minecraft.net/en-us/article/mob-maze",
+      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/marketplace/MobMaze_.Net_1170x500.jpg",
+      "source": "Minecraft.net",
+      "publishedAt": "2025-12-16T18:10:01Z"
+    },
+    {
+      "title": "Goblins and Gifts Galore in Goblin Greedings — Diablo IV - Blizzard News",
+      "description": "Goblin Greedings descends on Sanctuary as Treasure Goblin variants roam in increased numbers and bountiful spoils. Earn bonus Whisper Caches and claim free holiday cosmetics.",
+      "url": "https://news.blizzard.com/en-us/article/24243642/goblins-and-gifts-galore-in-goblin-greedings",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/1l/1LZOK4QGH2JA1765834981315.png",
+      "source": "Blizzard.com",
+      "publishedAt": "2025-12-16T18:00:00Z"
+    },
+    {
+      "title": "Google wants its AI assistant CC to replace your morning scroll - The Verge",
+      "description": "Google’s AI agent CC is similar to OpenAI’s ChatGPT Pulse, delivering a personalized morning briefing based on your Gmail, Google Calendar, and Google Drive.",
+      "url": "https://www.theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/CC_Keyword_01-1.png?quality=90&strip=all&crop=0%2C1.4029813845259%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-12-15T18:42:03Z"
+      "publishedAt": "2025-12-16T18:00:00Z"
     },
     {
-      "title": "Gift guide: TechCrunch’s favorite things - TechCrunch",
-      "description": "As tech journalists we have a lot of opinions. So if we really like something, it's probably good!",
-      "url": "https://techcrunch.com/2025/12/15/gift-guide-techcrunchs-favorite-things/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/gift-guide-22-favorite-things-hub.jpg?resize=1200,645",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-15T18:41:35Z"
+      "title": "Sony’s XM5 over-ear headphones are cheaper than ever — and they come with free wireless earbuds - The Verge",
+      "description": "Sony’s noise-canceling WH-1000XM5 headphones are currently at an all-time low price, and come with free wireless earbuds you can gift to someone for the holidays.",
+      "url": "https://www.theverge.com/gadgets/845527/sony-wh-1000xm5-wf-c700n-dualsense-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Sony-WH-1000XM5-headphones-and-Sony-WF-C700N-earbuds.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-16T17:54:27Z"
+    },
+    {
+      "title": "Larian Studios Confirms That, Unsurprisingly, Divinity Will Be A Turn-Based RPG - Game Informer",
+      "description": null,
+      "url": "https://gameinformer.com/2025/12/16/larian-studios-confirms-that-unsurprisingly-divinity-will-be-a-turn-based-rpg",
+      "urlToImage": null,
+      "source": "Gameinformer.com",
+      "publishedAt": "2025-12-16T17:49:48Z"
+    },
+    {
+      "title": "Scott Pilgrim Creator Bryan Lee O'Malley's Three Favorite Games Of All Time - Game Informer",
+      "description": "We spoke with Bryan Lee O'Malley about working on Scott Pilgrim EX, his all-time favorite games, and why he hasn't upgraded to PlayStation 5.",
+      "url": "https://gameinformer.com/interview/bryan-lee-omalley",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/15/7ee841e6/ramonaheader.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2025-12-16T17:49:48Z"
+    },
+    {
+      "title": "Warning: Apple’s iOS 26.2 Update Is Quietly Altering A Key iPhone Feature - Forbes",
+      "description": "The latest iPhone update is here, and it’s already proving controversial, with some users finding an unrequested change being made. Here’s what to do.",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/12/16/warning-apples-ios-262-update-is-quietly-changing-a-key-iphone-feature-for-some-users/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/693eddc7a1a220985d13f65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-12-16T17:37:00Z"
+    },
+    {
+      "title": "Where To Find Candleberries In Arc Raiders And All Flickering Flames Items - GameSpot",
+      "description": "Here's everything you need to know about the Flickering Flames project in Arc Raiders.",
+      "url": "https://www.gamespot.com/articles/arc-raiders-candleberries-guide/1100-6536953/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/4624029-screenshot2025-12-16092538.png",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-16T17:26:30Z"
+    },
+    {
+      "title": "The Best Nintendo Game of 2025 - IGN",
+      "description": "From Mario Kart's roadtrip across an open world, to Donkey Kong's groundbreaking new adventure, these are the best Nintendo Switch games of 2025.",
+      "url": "https://www.ign.com/articles/the-best-nintendo-game-of-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/09/the-best-nintendo-game-2025-1765291782492.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-12-16T17:25:35Z"
+    },
+    {
+      "title": "Google TV Freeplay now has over 250 free channels, including more local news - 9to5Google",
+      "description": "Over the past couple of years, Google TV has been heavily investing in free-to-watch channels that provide 24/7 content with...",
+      "url": "http://9to5google.com/2025/12/16/google-tv-freeplay-250-free-channels-local-news/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/google-tv-freeplay-1_22fe81.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-12-16T17:15:00Z"
     }
   ]
 }
