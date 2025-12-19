@@ -1,127 +1,167 @@
 {
-  "updatedAt": "2025-12-18T06:47:26.866Z",
+  "updatedAt": "2025-12-19T06:46:01.084Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Timothée Chalamet on Marty Supreme, his twenties and his love of Susan Boyle - BBC",
-      "description": "The US actor is tipped for an Oscar nomination for his portrayal of table tennis star Marty Mauser.",
-      "url": "https://www.bbc.com/news/articles/clyd1m47rkro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0323/live/3ab64720-dab7-11f0-b2d6-8b03c56348b7.jpg",
+      "title": "Antony Price, designer for Bowie and Duran Duran, dies aged 80 - BBC",
+      "description": "Hailed as a visionary, the Yorkshireman will be remembered for his sculptured silhouettes and theatricality.",
+      "url": "https://www.bbc.com/news/articles/c8xd7wr1vj9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bba7/live/8a1e5170-dbbd-11f0-aae2-2191c0e48a3b.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-17T00:21:58Z"
+      "publishedAt": "2025-12-18T04:45:14Z"
     },
     {
-      "title": "Nick Reiner will be charged with murder in killing of parents - The Washington Post",
-      "description": "Rob and Michele Reiner’s son Nick Reiner was charged with two counts of first-degree murder in the killing of his parents, officials said Tuesday.",
-      "url": "https://www.washingtonpost.com/nation/2025/12/16/nick-reiner-murder-charges/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DPL67NUNPWE3W6JIMP24Z4VRPE.jpg&w=1440",
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "description": "A selloff in Oracle and other tech names dragged the S&P 500 to a fourth straight losing session on Wednesday.",
+      "url": "https://www.cnbc.com/2025/12/17/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240008-1765390997515-gettyimages-2247416236-251118_booth.jpeg?v=1765391109&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-18T00:30:00Z"
+    },
+    {
+      "title": "Will Smith and Richard Parks team up for Antarctica adventure - BBC",
+      "description": "Rugby player turned explorer Richard Parks guided the Fresh Prince of Bel Air around the world's coldest continent.",
+      "url": "https://www.bbc.com/news/articles/cz7n8lwr0jdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddcd/live/ce3f0480-db6d-11f0-aae2-2191c0e48a3b.png",
+      "source": "BBC News",
+      "publishedAt": "2025-12-17T22:43:41Z"
+    },
+    {
+      "title": "How a hit show vaulted chef Edward Lee into a ‘new life’ as a Korean star - The Washington Post",
+      "description": "Fresh off a run to the finale in Netflix’s “Culinary Class Wars,” the celebrity chef is refining his Korean American outlook.",
+      "url": "https://www.washingtonpost.com/food/2025/12/17/edward-lee-culinary-class-wars-celebrity-chef/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3X6XT6B6CZO4WSWQI5V4XF73HU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-12-16T22:16:10Z"
+      "publishedAt": "2025-12-17T22:00:01Z"
     },
     {
-      "title": "Dive Into 'Armageddon,' 'Queen in Black,' and More on Marvel's Comics Giveaway Day™ - Marvel.com",
-      "description": "Learn about the four Marvel Comics Giveaway Day™ titles available at your local comic shop on May 2, including lead-in stories to next year's biggest stories and events!",
-      "url": "https://www.marvel.com/articles/comics/marvel-comics-giveaway-day-may-2026-armageddon-queen-in-black",
-      "urlToImage": "https://cdn.marvel.com/content/1x/armaxmencgd2026001_card.jpg",
-      "source": "Marvel Entertainment",
-      "publishedAt": "2025-12-16T21:49:23Z"
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+      "url": "https://www.marvelrivals.com/gameupdate/20251217/41548_1277163.html",
+      "urlToImage": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "source": "Marvelrivals.com",
+      "publishedAt": "2025-12-17T19:57:55Z"
     },
     {
-      "title": "Mark Chavez is second doctor sentenced in Matthew Perry overdose death - BBC",
-      "description": "Dr Mark Chavez, one of five people who pleaded guilty in the Friends star's death, was sentenced to eight months of home detention.",
-      "url": "https://www.bbc.com/news/articles/cj691n02g8ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5a99/live/7987bd80-d495-11f0-ba46-91bf0b0f4f07.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-16T20:10:45Z"
+      "title": "2026 is the year to add a 'party fund' to your budget — start with these 3 resources - CNBC",
+      "description": "Budgeting apps, high-yield savings accounts and cash-back platforms are key to building party funds.",
+      "url": "https://www.cnbc.com/select/resources-to-start-a-party-fund/",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169778-1671649948055-gettyimages-618969856-000107858251_Unapproved.jpeg?v=1765823915&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-17T19:49:54Z"
     },
     {
-      "title": "98TH OSCARS® SHORTLISTS IN 12 AWARD CATEGORIES ANNOUNCED - Academy Press Office",
-      "description": "98TH OSCARS® SHORTLISTS IN 12 AWARD CATEGORIES ANNOUNCED",
-      "url": "http://press.oscars.org/news/98th-oscarsr-shortlists-12-award-categories-announced",
-      "urlToImage": "http://press.oscars.org/s3/files/styles/large/public/2025-12/press%20portal%20oscars%20logo_1099x540.png?itok=gIsek2QM",
+      "title": "'Harry Potter' fans are flying to Broadway to see the original Draco Malfoy - NPR",
+      "description": "Almost eight years after Harry Potter and the Cursed Child opened on Broadway, Tom Felton, who played Draco Malfoy in the films, is now playing him as an adult onstage.",
+      "url": "https://www.npr.org/2025/12/17/nx-s1-5644977/harry-potter-draco-malfoy-tom-felton-broadway",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3176x1786+531+1766/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F57%2Fad62e1d64888a6ec150442196907%2F02-hpcc-year7-duelfeltonskelley-photo-by-matthew-murphy.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-12-17T19:45:09Z"
+    },
+    {
+      "title": "Rob Reiner Children Jake and Romy Speak Out After Parents' Murders - Variety",
+      "description": "Jake and Romy Reiner, children of Rob and Michele Reiner, have spoken out for the first time after their parents were found murdered.",
+      "url": "https://variety.com/2025/film/news/rob-reiner-kids-romy-jake-nick-murder-charge-1236611073/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2215021980.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-12-17T18:43:00Z"
+    },
+    {
+      "title": "THE ACADEMY PARTNERS WITH YOUTUBE FOR EXCLUSIVE GLOBAL RIGHTS TO THE OSCARS® AND OTHER ACADEMY CONTENT STARTING IN 2029 - Academy Press Office",
+      "description": "THE ACADEMY PARTNERS WITH YOUTUBE FOR EXCLUSIVE GLOBAL RIGHTS TO THE OSCARS® AND OTHER ACADEMY CONTENT STARTING IN 2029",
+      "url": "http://press.oscars.org/news/academy-partners-youtube-exclusive-global-rights-oscarsr-and-other-academy-content-starting",
+      "urlToImage": "http://press.oscars.org/s3/files/styles/large/public/2025-12/Oscars%20Youtube%20Announcement_0.jpg?itok=Q9Un5BLo",
       "source": "Oscars.org",
-      "publishedAt": "2025-12-16T19:23:21Z"
+      "publishedAt": "2025-12-17T18:18:52Z"
     },
     {
-      "title": "Snoop Dogg to Headline Vikings vs. Lions Halftime for Netflix Christmas Day Game - Vikings.com",
-      "description": "Snoop Dogg will bring his West Coast flavor, joined by special guests, to a global audience of 300 million Netflix members this Christmas Day",
-      "url": "https://www.vikings.com/news/snoop-dogg-netflix-halftime-christmas-day-game-2025",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/vcgaimmwmgrbtv5wb88x",
-      "source": "Vikings.com",
-      "publishedAt": "2025-12-16T18:03:33Z"
-    },
-    {
-      "title": "Crunchyroll Winter 2026 Anime Season Lineup Announced! - Crunchyroll",
-      "description": "Stay on top of anime news and updates straight out of Japan with Crunchyroll News. From breaking stories to evergreen content, get all your anime and manga news updates in one place. You heard it here first!",
-      "url": "https://www.crunchyroll.com/news/seasonal-lineup/2025/12/16/winter-anime-2026-crunchyroll",
-      "urlToImage": "https://www.crunchyroll.com/news/img/favicons/favicon-v2-96x96.png",
-      "source": "Crunchyroll News",
-      "publishedAt": "2025-12-16T17:00:00Z"
-    },
-    {
-      "title": "James Woods praises 'patriot' Rob Reiner, slams insults of slain director as 'infuriating' - NBC News",
-      "description": "Actor and noted Hollywood conservative James Woods fought back tears in paying tribute to Rob Reiner on Monday night, calling out the \"infuriating and distasteful\" insults being hurled at the slain director",
-      "url": "https://www.nbcnews.com/news/us-news/james-woods-praises-patriot-rob-reiner-slams-insults-slain-director-in-rcna249484",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251216-james-woods-rob-reiner-vl-1012a-306f93.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-12-16T16:10:58Z"
-    },
-    {
-      "title": "WWE 'Raw' takeaways: Who could Gunther set his sights on next? - ESPN",
-      "description": "After retiring John Cena, Gunther could look to take out another WWE legend. Arda Ocal breaks down all the action from 'Raw.'",
-      "url": "https://www.espn.com/wwe/story/_/id/47324384/wwe-raw-results-takeaways-gunther-moving-john-cena",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1216%2Fr1590074_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2025-12-16T16:00:00Z"
-    },
-    {
-      "title": "Howard Stern puts an end to the guessing game, signs new deal with SiriusXM - CNN",
-      "description": "After months of speculation about his future on the radio, Howard Stern has signed a new contract with SiriusXM.",
-      "url": "https://www.cnn.com/2025/12/16/media/howard-stern-sirius-xm-contract-new",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219884045-20251216140154691.jpg?c=16x9&q=w_800,c_fill",
+      "title": "Look of the Week: Not one but two Lilys show how to wear lingerie-inspired outfits this winter - CNN",
+      "description": "Lily Collins and Lily Allen are among the celebrities turning skimpy lingerie into the season’s boldest fashion trend.",
+      "url": "https://www.cnn.com/2025/12/17/style/lily-collins-allen-lingerie-lace",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-16104551h.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2025-12-16T14:06:14Z"
+      "publishedAt": "2025-12-17T17:51:40Z"
     },
     {
-      "title": "Avatar: Fire and Ash film review — a franchise showing signs of narrative burnout - Financial Times",
-      "description": "",
-      "url": "https://www.ft.com/content/eac6f81d-548f-4e63-bb2e-6a3b99bb234d",
-      "urlToImage": null,
-      "source": "Financial Times",
-      "publishedAt": "2025-12-16T14:00:03Z"
+      "title": "Skip Cherry or Burgundy, This Is the Perfect Holiday Red Nail Polish - Vogue",
+      "description": "A vampy red is a Christmas go-to at the nail salon—consider the understated and chic shade in town for the holidays, which Selena Gomez has down. Enter: brick red nails.",
+      "url": "https://www.vogue.com/article/brickhouse-red-nails-trend",
+      "urlToImage": "https://assets.vogue.com/photos/6942d8acc0608dccc7d34282/16:9/w_1280,c_limit/Selena%20Gomez%20brick%20red%20nails%20by%20Tom%20Bachik.jpg",
+      "source": "Vogue",
+      "publishedAt": "2025-12-17T17:48:56Z"
     },
     {
-      "title": "'Fallout' Season 2 is premiering early. Here's when. - Mashable",
-      "description": "We're going to New Vegas sooner than you'd think.",
-      "url": "https://mashable.com/article/fallout-season-2-what-time-does-it-premiere",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01yvdUN9fQx2QcLRR4TDbS3/hero-image.fill.size_1200x675.v1765818453.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-16T13:52:30Z"
+      "title": "Disney+ and Hulu: 2025 Year in Streaming - thewaltdisneycompany.com",
+      "description": "2025 is coming to a close, but we can’t stop talking about the stories that brought us together. This year, we voyaged beyond with Moana, …Read More",
+      "url": "https://thewaltdisneycompany.com/2025-streaming-numbers/",
+      "urlToImage": "https://thewaltdisneycompany.com/app/uploads/2025/12/00_EOY_Header_v05-1024x576.png",
+      "source": "Thewaltdisneycompany.com",
+      "publishedAt": "2025-12-17T16:55:26Z"
     },
     {
-      "title": "Snow White to The Smashing Machine: 10 of the biggest film flops of 2025 - BBC",
-      "description": "From a controversial recreation of a Disney cartoon to an awards-tipped sports biopic starring The Rock, why did so many high-profile Hollywood films fail at the box office this year?",
-      "url": "https://www.bbc.com/culture/article/20251212-10-biggest-film-flops-of-2025",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0mnb3km.jpg",
+      "title": "Sylvester Stallone says \"Rocky\" Oscar triumph was a \"volcanic moment\" followed by deep sadness - CBS News",
+      "description": "Sylvester Stallone reflects on his iconic roles as Rocky Balboa and John Rambo, his rough upbringing, and the legacy he hopes to leave in a touching \"CBS Mornings\" interview.",
+      "url": "https://www.cbsnews.com/news/sylvester-stallone-rocky-oscar-moment/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/17/16db9d93-9385-423c-9039-51293ccfdee0/thumbnail/1200x630g2/b98995c3ce042580f817f322c078111a/screenshot-2025-12-17-at-8-41-09-am.png",
+      "source": "CBS News",
+      "publishedAt": "2025-12-17T16:40:25Z"
+    },
+    {
+      "title": "'Buck Rogers' star Gil Gerard dies at 82 - ABC News",
+      "description": "Gil Gerard, known for his role as Buck Rogers, has died at 82",
+      "url": "https://abcnews.go.com/Entertainment/wireStory/buck-rogers-star-gil-gerard-dies-82-128486736",
+      "urlToImage": "https://i.abcnewsfe.com/a/acc40b8a-5e1f-408e-b6da-f6dea61135d0/wirestory_a25dff500da4ff9193d199fc65692279_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-12-17T16:28:01Z"
+    },
+    {
+      "title": "TikTok star Tucker Genal dies at 31, family and LA County medical examiner confirm - ABC7 Los Angeles",
+      "description": "Genal's brothers remembered him on social media.",
+      "url": "https://abc7.com/post/tucker-genal-social-media-influencer-tiktok-star-dies-31-los-angeles-county/18295073/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18295084_tyler_genal.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2025-12-17T15:34:07Z"
+    },
+    {
+      "title": "AEW Dynamite & Collision Holiday Bash Preview – Million Dollar Trios Match, Dynamite Diamond Battle Royale, Continental Classic, Tag Title Match, More - AEW",
+      "description": "The holiday spirit of professional wrestling will be on full display for AEW Dynamite and Collision Holiday Bash! The 3-Hour Special starts at 8 p.m. ET/7 p.m. CT on TBS and streaming on HBO Max from Co-op Live in Manchester, England!",
+      "url": "https://www.allelitewrestling.com/post/aew-dynamite-collision-holiday-bash-preview",
+      "urlToImage": "https://static.wixstatic.com/media/815952_133cb0958b184c85a071720b5f2e4093~mv2.jpg/v1/fill/w_1920,h_1080,al_c/815952_133cb0958b184c85a071720b5f2e4093~mv2.jpg",
+      "source": "Allelitewrestling.com",
+      "publishedAt": "2025-12-17T15:24:04Z"
+    },
+    {
+      "title": "Judge dismisses Orinda gang-rape allegations against Diddy, entourage - KTVU",
+      "description": "A federal judge on Tuesday dismissed the case of a woman who alleged that she was gang-raped by Sean \"Diddy\" Combs and an entourage of other people in Orinda seven years ago.",
+      "url": "https://www.ktvu.com/news/judge-dismisses-orinda-gang-rape-allegations-against-diddy-entourage",
+      "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2025/12/1280/720/orinda.jpg?ve=1&tl=1",
+      "source": "KTVU San Francisco",
+      "publishedAt": "2025-12-17T14:43:03Z"
+    },
+    {
+      "title": "How a Rockette spends Christmas in New York City - BBC",
+      "description": "For 100 years, The Rockettes have symbolised Christmas in New York City. Now, troupe member Brooklyn Bronson shares her tips on how to enjoy the city's holiday magic.",
+      "url": "https://www.bbc.com/travel/article/20251216-how-a-rockette-spends-christmas-in-new-york-city",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0mnzhcp.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-16T12:00:00Z"
+      "publishedAt": "2025-12-17T13:00:00Z"
     },
     {
-      "title": "Joe Ely, who influenced a generation of songwriters with his music, dies at 78 - Texas Public Radio | TPR",
-      "description": "Joe Ely never broke out into the mainstream, but has been a beloved Texas treasure for five decades. His death Monday at age 78 brought tributes from fans and fellow musicians alike.",
-      "url": "https://www.tpr.org/arts-culture/2025-12-16/joe-ely-who-influenced-a-generation-of-songwriters-with-his-music-dies-at-78",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/f81cc0f/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2F05%2F8bb90a7943948cc34bede222d241%2Fimg-0419.jpg",
-      "source": "Texas Public Radio",
-      "publishedAt": "2025-12-16T11:48:45Z"
+      "title": "Column | Miss Manners: He offered to pay the bill — and then solicited cash. - The Washington Post",
+      "description": "He said no to separate checks and still asked for others to chip in for the bill.",
+      "url": "https://www.washingtonpost.com/advice/2025/12/17/miss-manners-one-bill-mishap/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKXPDRP4QFEP3JGLOEH7BDKT6E.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-12-17T13:00:00Z"
     },
     {
-      "title": "Singing at royal concert was like a dream - Fisherman's Friends - BBC",
-      "description": "Cornish shanty singers say they were thrilled to be invited to sing by the Princess of Wales.",
-      "url": "https://www.bbc.com/news/articles/c865yw26nj2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06bc/live/ff1e02f0-d9aa-11f0-adaa-f3e2bb1c1ebb.jpg",
+      "title": "Duke of Marlborough charged with intentional strangulation - BBC",
+      "description": "The 70-year-old is accused of attacking the same person in Oxfordshire between 2022 and 2024.",
+      "url": "https://www.bbc.com/news/articles/cd9zv78dqzgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fd27/live/cea0c9d0-db3c-11f0-8b80-79c57719005f.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-16T10:56:42Z"
+      "publishedAt": "2025-12-17T12:36:19Z"
     }
   ]
 }

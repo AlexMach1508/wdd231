@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2025-12-18T06:47:26.699Z",
+  "updatedAt": "2025-12-19T06:46:00.944Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Robinhood is rolling out NFL parlay and prop bets on prediction markets platform - CNBC",
-      "description": "Robinhood announced Tuesday that users will be able to trade on National Football League games and player performances.",
-      "url": "https://www.cnbc.com/2025/12/16/robinhood-is-rolling-out-nfl-parlay-and-prop-bets-on-prediction-markets-platform.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242618-1765916871832-gettyimages-2252133278-20251215_nfl_miaatpit_b3_4748.jpeg?v=1765916974&w=1920&h=1080",
+      "title": "Winning Powerball numbers announced for estimated $1.25 billion jackpot - CBS News",
+      "description": "Wednesday's jackpot has an estimated cash value of $572.1 million, Powerball said.",
+      "url": "https://www.cbsnews.com/news/powerball-winning-numbers-1-25-billion-jackpot-december-2025/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/06/4d2c6b5e-7153-4cc8-bb7c-7efcb9380a3c/thumbnail/1200x630/03aba01cac37573431e0d8494e042f26/gettyimages-2233717328.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-18T04:05:12Z"
+    },
+    {
+      "title": "BP Makes O’Neill First Female Big Oil CEO in Bid for Revival - Bloomberg.com",
+      "description": "BP Plc appointed Meg O’Neill as its new chief executive officer, replacing Murray Auchincloss after just two years in the job as it struggles to revive its fortunes following a botched pivot toward renewable energy.",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-17/woodside-says-ceo-meg-o-neill-accepted-role-of-ceo-at-bp-mjak8x3x",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5Bj6RTiw.l0/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-18T03:32:00Z"
+    },
+    {
+      "title": "Should more be done to tackle 'ghost jobs'? - BBC",
+      "description": "Companies are advertising vacancies that have already been filled or might not have ever existed.",
+      "url": "https://www.bbc.com/news/articles/clyzvpp8g3vo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9685/live/71183630-d101-11f0-a4c7-5dbeb8de769b.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-18T00:00:37Z"
+    },
+    {
+      "title": "Bank of England expected to cut interest rates - BBC",
+      "description": "Analysts believe the Bank rate will fall from 4% to 3.75%, lowering the cost of borrowing.",
+      "url": "https://www.bbc.com/news/articles/cj01v7z73q1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2254/live/d7a53570-db5f-11f0-ad70-7bd255142cfd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-18T00:00:24Z"
+    },
+    {
+      "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect - CNBC",
+      "description": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+      "url": "https://www.cnbc.com/2025/12/17/novembers-inflation-report-is-the-first-to-be-released-after-the-shutdown.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108241518-1766025278703-108241518-1765581890023-gettyimages-2251633512-anotherday162739108_ptc6y0zv.jpg?v=1766025302&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-12-17T02:30:00Z"
+      "publishedAt": "2025-12-17T23:52:25Z"
     },
     {
-      "title": "Waymo in talks to raise funds at $100bn valuation - Financial Times",
-      "description": "Alphabet’s robotaxi venture plans to expand to dozens of cities, including London and New York",
-      "url": "https://www.ft.com/content/1cbb934a-f8c8-45a0-a300-efbd4ed8aaca",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fee827270-d7cb-49c4-8737-25b2e08b35f6.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-12-17T01:03:16Z"
-    },
-    {
-      "title": "California threatens to ban Tesla sales for 30 days - San Francisco Chronicle",
-      "description": "California threatens to ban Tesla sales for 30 days over autopilot, self-driving claims",
-      "url": "https://www.sfchronicle.com/california/article/tesla-autopilot-claims-possible-sales-ban-21246659.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/37/43/05/25047361/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-12-17T00:27:18Z"
-    },
-    {
-      "title": "Stock futures slip as traders absorb shaky U.S. economic data: Live updates - CNBC",
-      "description": "The S&P 500 and the Dow Industrials each booked a third consecutive losing session on Tuesday.",
-      "url": "https://www.cnbc.com/2025/12/16/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242441-1765899442510-gettyimages-2251627675-AFP_88BJ2YA.jpeg?v=1765899471&w=1920&h=1080",
+      "title": "Instacart shares plunge 11% on report that FTC is probing company over AI pricing tool - CNBC",
+      "description": "The FTC sent a civil investigative demand to Instacart, Reuters reported, citing unnamed people.",
+      "url": "https://www.cnbc.com/2025/12/17/instacart-sec-probe-pricing-tool.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243337-1766014864766-gettyimages-2212100090-img_8801.jpeg?v=1766014932&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-12-17T00:25:00Z"
+      "publishedAt": "2025-12-17T23:38:05Z"
     },
     {
-      "title": "Hyundai and Kia will repair millions of vehicles under a deal to fix anti-theft technology - NBC News",
-      "description": "Automakers Hyundai and Kia must offer free repairs to millions of models under a settlement announced Tuesday by Minnesota's attorney general, who led an effort by dozens of states that argued the vehicles weren't equipped with proper anti-theft technology, l…",
-      "url": "https://www.nbcnews.com/news/us-news/hyundai-kia-will-repair-millions-vehicles-deal-fix-anti-theft-technolo-rcna249612",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251217-keith-ellison-jg-61b969.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-12-17T00:21:00Z"
-    },
-    {
-      "title": "Texas woman arrested for hiding razor blades in loaves of bread at Mississippi Walmart stores - AP News",
-      "description": "A woman has been arrested for allegedly pushing razor blades into loaves of bread at two Walmart stores in Biloxi, Mississippi. Thirty-three-year-old Camille Benson, of Texas, faces charges of attempted mayhem. Her bond is set at $100,000. Customers reported …",
-      "url": "https://apnews.com/article/razor-blades-bread-walmart-mississippi-texas-woman-e5c801c6b40292c0125c2e47028f7c5b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/20ae7f1/2147483647/strip/true/crop/3024x1701+0+1166/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F20%2F819ccc13b078a1c7d51eeea9b329%2F64160aa9e48f482b8455b918145bd4bf",
-      "source": "Associated Press",
-      "publishedAt": "2025-12-16T23:58:00Z"
-    },
-    {
-      "title": "Asia-Pacific markets set to open mixed ahead of Japan trade data - CNBC",
-      "description": "Asia-Pacific markets opened mixed after Wall Street declined as investors assessed the delayed U.S. jobs data for November.",
-      "url": "https://www.cnbc.com/2025/12/17/asia-pacific-markets-nikkei-225-kospi-csi-300.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209729-1759966309038-gettyimages-2198787070-JAPAN_SKYLINE.jpeg?v=1759966318&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-16T23:53:41Z"
-    },
-    {
-      "title": "Jared Kushner's firm backs out of Paramount's Warner Bros. bid - Axios",
-      "description": "The newsThe Warner Bros. board is expected to announce that it plans to reject Paramount's $30-a-share all-cash offer for the company.",
-      "url": "https://www.axios.com/2025/12/16/kushner-warner-bros-paramount",
-      "urlToImage": "https://images.axios.com/QlGGhPq3p30d2JYBVMbh4PzlLTc=/0x0:1920x1080/1366x768/2025/12/02/1764704847670.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-12-16T23:25:10Z"
-    },
-    {
-      "title": "Tesla’s stock finally clinches a milestone almost a year in the making - MarketWatch",
-      "description": "Shares saw their first record close since December 2024, helping support the continued reign of the ‘Magnificent Seven’",
-      "url": "https://www.marketwatch.com/story/teslas-stock-finally-clinches-a-milestone-almost-a-year-in-the-making-aceaf620",
-      "urlToImage": "https://images.mktw.net/im-38884311/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-12-16T22:08:00Z"
-    },
-    {
-      "title": "6,7 Meet 611: Remarks at the Roundtable on Rule 611 of Regulation NMS - SEC.gov",
-      "description": "6,7 Meet 611: Remarks at the Roundtable on Rule 611 of Regulation NMS Commissioner Hester M. Peirce Austin, TX │ December 16, 2025",
-      "url": "https://www.sec.gov/newsroom/speeches-statements/peirce-roundtable-rule-611-regulation-nms-121625",
+      "title": "U.S. FDA Approval of RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) Enables the Simplest, Shortest Administration Time for a First-Line Combination Regimen when combined with LAZCLUZE® (lazertinib) - Johnson & Johnson",
+      "description": "RYBREVANT FASPRO™, the first and only subcutaneous therapy for patients with EGFR-mutated NSCLC, reduces administration time from hours to minutes and significantly reduces administration-related reactions1-5 Approval builds on previously reported Phase 3 MAR…",
+      "url": "https://www.jnj.com/media-center/press-releases/u-s-fda-approval-of-rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-enables-the-simplest-shortest-administration-time-for-a-first-line-combination-regimen-when-combined-with-lazcluze-lazertinib",
       "urlToImage": null,
-      "source": "Sec.gov",
-      "publishedAt": "2025-12-16T20:58:06Z"
+      "source": "Jnj.com",
+      "publishedAt": "2025-12-17T23:17:43Z"
     },
     {
-      "title": "Private market marks, say hello to public markets - Financial Times",
-      "description": "Ouch",
-      "url": "https://www.ft.com/content/bc85d15f-b2e4-48a6-9ae7-a670b3c00399",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcaea93e1-387d-470e-b2dc-48b099cb0504.png?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-12-16T20:56:32Z"
+      "title": "Salad dressings recalled in 27 U.S. states because they could contain \"foreign objects\" - CBS News",
+      "description": "Onions used to make the salad dressings could contain \"black plastic planting material,\" according to food regulators.",
+      "url": "https://www.cbsnews.com/news/salad-dressing-recall-foreign-objects-fda-ventura-foods/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/17/cb0c7a54-380f-46b4-bb04-f7068c47e043/thumbnail/1200x630/4cc5bc6ff6f5b813a6e85b7ab44b579f/gettyimages-1570997175.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-17T23:11:00Z"
     },
     {
-      "title": "Psychologists are increasingly using – and worrying about – AI tools, poll finds : Shots - Health News - NPR",
-      "description": "A survey finds that 56% of psychologists are trying out artificial intelligence tools at work, mainly for administrative tasks. A majority also are concerned about harms of AI on patients and society.",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/12/16/nx-s1-5645840/american-psychological-association-artificial-intelligence-ai",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+413/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2Fc0%2F6849df574c82baca376ef20449d0%2Fgettyimages-1436010613.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-12-16T19:27:04Z"
+      "title": "Taco Bell Is Bringing Back A Popular Menu Item & Fans Say It's 'A Miracle' - Delish",
+      "description": "Taco Bell is bringing back the cult-favorite Quesarito nationwide starting December 18, following years of nonstop fan demand.",
+      "url": "https://www.delish.com/food-news/a69800611/taco-bell-quesarito-return/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/logo-and-exterior-facades-of-taco-bell-restaurants-in-ohio-news-photo-1766011574.pjpeg?crop=1.00xw:0.754xh;0,0.0771xh&resize=1200:*",
+      "source": "Delish.com",
+      "publishedAt": "2025-12-17T23:01:00Z"
     },
     {
-      "title": "This chip play’s strong 2025 run could hit a speed bump as earnings loom, charts show - CNBC",
-      "description": "Micron is toting a sizable gain on a year-to-date basis as its earnings release approaches, but that momentum may not last.",
-      "url": "https://www.cnbc.com/2025/12/16/this-chip-plays-strong-2025-run-could-hit-a-speed-bump-charts-show.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222770-1762469453336-gettyimages-2244881801-Micron_Booth_at_8TH_CIIE_in_Shanghai.jpeg?v=1765913894&w=1920&h=1080",
+      "title": "Santoli's Wednesday market wrap-up: Ability to absorb unwind of AI-infrastructure trade being tested - CNBC",
+      "description": "Efforts to rotate away from danger by moving to banks, value stocks and consumer cyclicals are hitting some near-term limits.",
+      "url": "https://www.cnbc.com/2025/12/17/santolis-wednesday-market-wrap-up-unwind-of-ai-trade-being-tested-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242443-1765899442587-gettyimages-2251628030-AFP_88BJ2XM.jpeg?v=1766005083&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-12-16T19:01:09Z"
+      "publishedAt": "2025-12-17T21:17:50Z"
     },
     {
-      "title": "A SpaceX IPO could be the largest public offering of all time—and Elon Musk's biggest headache - Fortune",
-      "description": "Elon Musk’s space company has avoided much of the scrutiny, criticism, and regulatory burden that comes with going public.",
-      "url": "https://fortune.com/2025/12/16/spacex-ipo-elon-musk-headache/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2246892016.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-12-16T18:51:00Z"
+      "title": "Delta President Glen Hauenstein to retire after storied career - Delta News Hub",
+      "description": "Hauenstein pioneered the transformation of Delta’s global network, pricing and premium strategy over two decades. Joe Esposito, a 35-year Delta veteran, has been named E.V.P. – Chief Commercial Officer, overseeing network planning, revenue management, sales a…",
+      "url": "https://news.delta.com/delta-president-glen-hauenstein-retire-after-storied-career",
+      "urlToImage": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2025-02/deep_blue_background.jpg?itok=z_X49sz1",
+      "source": "Delta.com",
+      "publishedAt": "2025-12-17T21:16:08Z"
     },
     {
-      "title": "Pfizer (PFE): Reassessing Valuation After Cautious 2026 Outlook and Fading COVID-19 Revenue - Yahoo Finance",
-      "description": "Pfizer (PFE) just laid out a 2026 outlook that underwhelmed the market, with lower expected earnings and revenue as COVID-19 sales fade and key drugs lose...",
-      "url": "https://finance.yahoo.com/news/pfizer-pfe-reassessing-valuation-cautious-181358327.html",
-      "urlToImage": "https://media.zenfs.com/en/simply_wall_st__316/f7c3fa24d3150b866dc98f7b00648685",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-16T18:13:58Z"
+      "title": "Insmed Provides Clinical and Business Update - Insmed Incorporated Investor Relations",
+      "description": "—Phase 2b BiRCh Study of Brensocatib in CRSsNP Did Not Meet Primary or Secondary Efficacy Endpoints; Safety Consistent with Previous Studies; Insmed Discontinues CRSsNP Program— —Company...",
+      "url": "https://investor.insmed.com/2025-12-17-Insmed-Provides-Clinical-and-Business-Update",
+      "urlToImage": "https://mma.prnewswire.com/media/2544698/Insmed_Incorporated_Logo.jpg?p=facebook",
+      "source": "Insmed.com",
+      "publishedAt": "2025-12-17T21:04:09Z"
     },
     {
-      "title": "Europe backtracks on ban of new combustion engine cars, in setback to tackling climate change - CNN",
-      "description": "Plans to ban the sale of new combustion engine cars in the European Union by 2035 have been thrown into turmoil after pressure from car manufacturers.",
-      "url": "https://www.cnn.com/2025/12/16/business/eu-combustion-engine-ban-changed-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25282205573293.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-16T17:38:01Z"
+      "title": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation - Federal Reserve Board (.gov)",
+      "description": "The Federal Reserve Board on Wednesday withdrew a 2023 policy statement and issued a new policy statement regarding the treatment of certain Board-supervised b",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251217a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "source": "Federalreserve.gov",
+      "publishedAt": "2025-12-17T21:02:06Z"
     },
     {
-      "title": "Private Sector Job Growth Fuels President Trump’s Economy - The White House (.gov)",
-      "description": "“The strong jobs report shows how President Trump is fixing the damage caused by Joe Biden and creating a strong, America First economy in record time.",
-      "url": "https://www.whitehouse.gov/articles/2025/12/private-sector-job-growth-fuels-president-trumps-economy/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2025-12-16T17:10:00Z"
+      "title": "Trump’s Transportation Secretary Sean P. Duffy Launches First-Ever National Advanced Air Mobility Strategy to Unlock the Future of Flight - Department of Transportation (.gov)",
+      "description": "Strategy includes 40 recommendations that will continue the United States’ position as an aviation powerhouse for the next 100 years",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-launches-first-ever-national-advanced",
+      "urlToImage": "https://www.transportation.gov/themes/custom/dot_cms/images/seal_dot.png",
+      "source": "Transportation.gov",
+      "publishedAt": "2025-12-17T19:37:46Z"
     },
     {
-      "title": "Evaluating AI’s ability to perform scientific research tasks - OpenAI",
-      "description": "We introduce FrontierScience, a new benchmark that evaluates AI capabilities for expert-level scientific reasoning across physics, chemistry, and biology.",
-      "url": "https://openai.com/index/frontierscience/",
-      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/26JX57meRpqIRJOwMtIbzv/8976180403bc44232fb6159efaf3c94d/oai_forscience_frontierscience_16x9.png?w=1600&h=900&fit=fill",
-      "source": "Openai.com",
-      "publishedAt": "2025-12-16T17:01:55Z"
+      "title": "iRobot CEO says previous management was ‘in denial’ over group’s troubles - Financial Times",
+      "description": "Gary Cohen defends takeover of US robotic vacuum company by Chinese rival following bankruptcy",
+      "url": "https://www.ft.com/content/786d8989-99bf-4761-88a5-89cf94861d1e",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc87ad42f-b2b1-440a-9f53-118b35ea40fb.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-12-17T19:23:56Z"
     },
     {
-      "title": "Elon Musk's wealth has soared past $600 billion—he's now worth double the next richest person alive, Google's cofounder Larry Page - Fortune",
-      "description": "The SpaceX CEO just woke up $168 billion richer and set the bar for the first person estimated to be worth more than $600 billion.",
-      "url": "https://fortune.com/2025/12/16/elon-musk-wealth-soared-past-600-billion-now-worth-double-next-richest-person-alive-larry-page-spacex-valuation/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2200920833-e1765902192670.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-12-16T16:44:00Z"
+      "title": "Oracle Stock Falls After Report Raises Concerns About Data Center Funding - Investor's Business Daily",
+      "description": "Oracle stock fell after a key financing partner Blue Owl Capital reportedly backed out of a $10-billion data center project.",
+      "url": "https://www.investors.com/news/technology/oracle-stock-orcl-blue-own-data-center/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/12/Stock-Oracle-WebApMrkt-shut.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-12-17T18:48:00Z"
     },
     {
-      "title": "Nvidia and Broadcom Are Wall Street's Top Chip Picks for 2026 - Yahoo Finance",
-      "description": "Analog Chips Face Headwinds, AI Chips Still Hot",
-      "url": "https://finance.yahoo.com/news/nvidia-broadcom-lead-bank-americas-161455468.html",
-      "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/528af7acf1b685a79f0a0ee8c34ab69c",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-16T16:38:58Z"
+      "title": "FDA announces recall of nondairy ice cream because it may contain \"small stones\" - CBS News",
+      "description": "The recall affects So Delicious Dairy Free's Salted Caramel Cluster ice cream with best by dates of Aug. 8, 2027.",
+      "url": "https://www.cbsnews.com/news/ice-cream-nondairy-recall-so-delicious-small-stones/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/17/638fe352-0213-4a8d-917d-2e9f3c812315/thumbnail/1200x630/867180bfdfa6897237274b0539b9b089/gettyimages-2186456872.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-17T18:33:51Z"
+    },
+    {
+      "title": "Another billionaire just announced a donation to \"Trump accounts\" - Axios",
+      "description": "The new website  signals how White House officials envision the government, corporations and billionaires contributing to the accounts.",
+      "url": "https://www.axios.com/2025/12/17/trump-accounts-dalio",
+      "urlToImage": "https://images.axios.com/KezzP9D9Hx-81wCd-lw-2DCGkQA=/0x198:5710x3409/1366x768/2025/12/17/1765986226665.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-12-17T18:26:03Z"
+    },
+    {
+      "title": "How will the stock market perform in 2026? Wall Street pros weigh in. - CBS News",
+      "description": "Wall Street analysts expect another strong year in stocks in 2026, propelled by continued AI sector gains and additional Fed interest-rate cuts.",
+      "url": "https://www.cbsnews.com/news/stock-market-outlook-2026-wall-street/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/12/36340f13-63da-4262-b8c8-11346be03475/thumbnail/1200x630/bb8dda973f9deee858c9099ed8ed546f/gettyimages-2250469056-1.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-17T18:06:00Z"
     }
   ]
 }
