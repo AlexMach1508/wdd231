@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2025-12-19T06:46:00.873Z",
+  "updatedAt": "2025-12-20T06:42:20.637Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Terminator 2D: No Fate Review - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/terminator-2d-no-fate-review",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/12/18/terminator2d-nofate-review-blogroll-1766034342254.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-12-18T05:39:49Z"
-    },
-    {
-      "title": "Sony’s legal battle against Tencent’s Horizon ‘clone’ is already over - The Verge",
-      "description": "Sony has reached a settlement with Tencent in its lawsuit over Light of Motiram, a game Sony alleged was a “clone” of its Horizon series.",
-      "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-12-18T03:57:00Z"
-    },
-    {
-      "title": "Google Pixel adds Samsung’s navigation button layout in latest Android 16 beta - 9to5Google",
-      "description": "In the latest Android 16 beta release, Google Pixel phones are adding support for the same navigation button layout as Samsung uses.",
-      "url": "http://9to5google.com/2025/12/17/google-pixel-samsung-navigation-buttons-layout-beta/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Pixel-10-Pro-XL-and-Galaxy-S25-Ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-18T01:30:00Z"
-    },
-    {
-      "title": "LG and Dolby partner to release the first FlexConnect soundbar - The Verge",
-      "description": "LG is releasing the H7, the first FlexConnect soundbar, alongside the M7 and M5 surround speakers and W7 subwoofer, together capable of a 13.1.7-channel system.",
-      "url": "https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/sound-suite-2026-pr-03.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-12-18T01:00:00Z"
-    },
-    {
-      "title": "LinkedIn ‘Wrapped’ is reminding people just how crummy the job market is - CNN",
-      "description": "It’s been a rough year for job seekers.",
-      "url": "https://www.cnn.com/2025/12/17/business/linkedin-wrapped-job-market",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23289641933315.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-18T00:24:00Z"
-    },
-    {
-      "title": "Stardew Valley Creator Says 1.7 Update Will Contain 'More Character/Social Stuff' and a New Farm Type - IGN",
-      "description": "As Stardew Valley fans continue to wait patiently for the previously announced 1.7 update, creator Eric Barone (ConcernedApe) has dropped a couple small, vague, yet exciting hints about what said mysterious update might entail: a new farm type, and \"more char…",
-      "url": "https://www.ign.com/articles/stardew-valley-creator-says-17-update-will-contain-more-charactersocial-stuff-and-a-new-farm-type",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/03/12/sv-1710252992459.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-12-17T23:02:51Z"
-    },
-    {
-      "title": "Don't look now, but your Pixel may be getting a surprise update - Android Authority",
-      "description": "Midway through the month, Google's dropping an unexpected new system update on Pixel users.",
-      "url": "https://www.androidauthority.com/second-december-pixel-update-3626186/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/google-pixel-update-screen-android-16-scaled.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-12-17T23:02:27Z"
-    },
-    {
-      "title": "Stop deleting photos: FileJump’s 2TB lifetime plan is $79.97 - Mashable",
-      "description": "Keep all the pictures of your pets.",
-      "url": "https://mashable.com/article/dec-17-filejump-2tb-cloud-storage-lifetime-subscription",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03pa7nk6XYWYWrr7o2RWj1n/hero-image.fill.size_1200x675.v1765533007.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-17T23:00:00Z"
-    },
-    {
-      "title": "Hasbro Hires Video-Game Boss as ‘Exodus’ Studio Head Steps Down - Bloomberg.com",
-      "description": "Blizzard veteran Paul Della Bitta will take over the video-game division",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-17/hasbro-hires-new-video-game-boss-as-exodus-studio-head-steps-down",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ineYJ85rKFqU/v1/1200x675.jpg",
+      "title": "Riot Has a Secret Plan to Remake Its ‘League of Legends’ Game - Bloomberg.com",
+      "description": "A refreshed version being called ‘League Next’ is planned for 2027",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-18/riot-has-a-secret-plan-to-remake-its-league-of-legends-game",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itBvYAO66U98/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-12-17T21:19:31Z"
+      "publishedAt": "2025-12-18T22:57:40Z"
     },
     {
-      "title": "Australian Surf Crew Captures a Real-Life Ocean ‘Glitch’ That Repeats - Gizmodo",
-      "description": "The converging waves swirl until they finally break into a 130-foot pillar of saltwater, in a process that scientists have yet to fully explain.",
-      "url": "https://gizmodo.com/australian-surf-crew-captures-a-real-life-ocean-glitch-that-repeats-2000700939",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/wave-pillar-vortex-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-12-17T21:10:35Z"
+      "title": "Oh snap, I have a new favorite phone grip - The Verge",
+      "description": "In the war of double-sided magnetic phone grips, Syncwire and OhSnap Snap Grip 5 are the best I’ve tried.",
+      "url": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DJI_20251218130832_0158_D.jpg?quality=90&strip=all&crop=4%2C5.3228621291448%2C96%2C89.35427574171&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-18T22:29:23Z"
     },
     {
-      "title": "'Animal Crossing: New Horizons' could be killer app for Switch 2 mouse - Mashable",
-      "description": "It's about time.",
-      "url": "https://mashable.com/article/animal-crossing-nintendo-switch-2-mouse-controls",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0571QXC79kEmvob0uWPx6tF/hero-image.fill.size_1200x675.v1765999652.png",
-      "source": "Mashable",
-      "publishedAt": "2025-12-17T20:40:21Z"
+      "title": "Instagram wants to limit hashtag spam - The Verge",
+      "description": "Instagram will now cap hashtags to five per post, according to Instagram chief Adam Mosseri.",
+      "url": "https://www.theverge.com/news/847739/instagram-hashtag-spam-limit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-18T21:16:33Z"
     },
     {
-      "title": "Game Awards 2025 Set New Record, Delivering Whopping 171 Million Livestreams Worldwide - Variety",
-      "description": "The 2025 Game Awards show again set new viewership records with an estimated 171 million global livestreams of the full broadcast, up 11% from last year.",
-      "url": "https://variety.com/2025/digital/news/game-awards-2025-viewing-record-livestreams-worldwide-1236611146/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/The-Game-Awards-2025.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-17T20:00:00Z"
+      "title": "Google’s Gemini app can check videos to see if they were made with Google AI - The Verge",
+      "description": "Google launched a verification feature to its Gemini app that can check if a video was made using Google’s own AI.",
+      "url": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/google-ai-generated-videos-in-the-gemini-app.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-18T20:31:22Z"
     },
     {
-      "title": "Value Product of the Year Nominees - Pinkbike",
-      "description": "With so many discounts around, it's hard to know what really counts as good value, but these nominees stood out from the rest.",
-      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-value-product-of-the-year-nominees.html",
+      "title": "The Best Steam Winter Sale Discounts On 2025 Games - Game Informer",
+      "description": "Here are some of the best deals we've found during the Steam Winter Sale.",
+      "url": "https://gameinformer.com/round-up/2025/12/18/the-best-steam-winter-sale-discounts-on-2025-games",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/18/d48a0b5f/SteamSaleMashup.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2025-12-18T20:29:53Z"
+    },
+    {
+      "title": "ChatGPT launches an app store, lets developers know it’s open for business - TechCrunch",
+      "description": "OpenAI is looking to populate its flagship chatbot with a host of new user experiences.",
+      "url": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-18T20:22:50Z"
+    },
+    {
+      "title": "Santa Ragione's provocative horror Horses sells 18,000 copies - but it may not be enough to save the studio - GamesIndustry.biz",
+      "description": "Santa Ragione's controversial horror game, Horses, has sold over 18,000 copies despite being deplatformed from Steam an…",
+      "url": "https://www.gamesindustry.biz/santa-ragiones-provocative-horror-horses-sells-18000-copies-but-it-may-not-be-enough-to-save-the-studio",
+      "urlToImage": "https://assetsio.gnwcdn.com/HORSES-Thumbnail-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2025-12-18T19:35:56Z"
+    },
+    {
+      "title": "Naughty Dog Studio Orders Employee Overtime for ‘Intergalactic’ - Bloomberg.com",
+      "description": "The Sony-owned gamemakers have been racing to hit a December deadline",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-18/sony-s-naughty-dog-studio-orders-employee-overtime-on-intergalactic",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAWffp0OBOwQ/v1/1200x728.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-18T19:20:16Z"
+    },
+    {
+      "title": "Gemini app now lets you edit with Nano Banana by drawing, detect AI videos - 9to5Google",
+      "description": "The Gemini app is adding a “new way to prompt with Nano Banana” by drawing or annotating directly on images.",
+      "url": "http://9to5google.com/2025/12/18/gemini-nana-banana-drawing/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Gemini-Nano-Banana-draw-web.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-12-18T19:13:00Z"
+    },
+    {
+      "title": "This $600 Dress Watch Dials in on the Year’s Hottest High-End Trends - Gear Patrol",
+      "description": "Swedish boutique watchmaker Anders & Co. offers a classic stone dial dress watch in five variations at a price most watch fans can afford.",
+      "url": "https://www.gearpatrol.com/watches/anders-and-co-ac2-volcan/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/12/anders-and-co-ac2-volcan-hed-gear-patrol.webp",
+      "source": "Gear Patrol",
+      "publishedAt": "2025-12-18T19:06:09Z"
+    },
+    {
+      "title": "Fortnite Winterfest 2025: Collabs, Cosmetics, Gameplay Changes, And Everything Else To Know - GameSpot",
+      "description": "There's less Harry Potter than you'd think.",
+      "url": "https://www.gamespot.com/gallery/fortnite-winterfest-2025-collabs-cosmetics-gameplay-changes-and-everything-else-to-know/2900-7362/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1757/17577455/4625603-fortnitewinterfestkeyart.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-18T18:36:13Z"
+    },
+    {
+      "title": "Baldur’s Gate 3 Director Says It Would Be ‘Irresponsible’ Not To Experiment With AI - Kotaku",
+      "description": "The Larian CEO has been facing backlash from angry fans",
+      "url": "https://kotaku.com/baldurs-gate-3-director-says-it-would-be-irresponsible-not-to-experiment-with-ai-2000654633",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/Trailer-Screenshots_08-e1765894076139-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-18T18:29:10Z"
+    },
+    {
+      "title": "Where's the Spotify-style Xbox Wrapped for 2025? It's not coming this year, but there might be a good reason. - Windows Central",
+      "description": "Some of you have been asking if Xbox is doing its own \"Wrapped\" this year, akin to Spotify. The answer is no, but there is good stuff on the horizon.",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-is-not-doing-an-xbox-wrapped-this-year-but-does-have-big-plans-for-the-25th-anniversary",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hFVCgW6FozFKcsqWX987BE-2048-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2025-12-18T18:23:08Z"
+    },
+    {
+      "title": "Riot Games found a motherboard security flaw that helps PC cheaters - The Verge",
+      "description": "Riot Games says a security flaw in many recent motherboards could be exploited by cheaters undetected. Asus and MSI have released BIOS updates to address the issue.",
+      "url": "https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/egs-valorant-riotgames-g1a-02-1920x1080-580683fffe0f.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-18T18:01:51Z"
+    },
+    {
+      "title": "The Midnight Pre-Expansion Content Update Goes Live January 20! - Blizzard News",
+      "description": "The first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live January 20. Players can explore the new User Interface (UI) updates, experiment with new combat design changes across all classes, walk the path of the Demo…",
+      "url": "https://news.blizzard.com/en-us/article/24245217/the-midnight-pre-expansion-content-update-goes-live-january-20",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/ks/KSSY6ZJDPCGY1766077810560.jpg",
+      "source": "Blizzard.com",
+      "publishedAt": "2025-12-18T18:00:00Z"
+    },
+    {
+      "title": "Nominees for Suspension Product of the Year - Pinkbike",
+      "description": "The best boingers of the year, and a clever suspension adjacent invention.",
+      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-suspension-product-of-the-year-nominees.html",
       "urlToImage": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg",
       "source": "Pinkbike.com",
-      "publishedAt": "2025-12-17T20:00:00Z"
+      "publishedAt": "2025-12-18T17:00:00Z"
     },
     {
-      "title": "Facebook is testing a link-posting limit for professional accounts and pages - TechCrunch",
-      "description": "Meta said that the test impacts professional accounts and pages on Facebook.",
-      "url": "https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-17T18:15:58Z"
+      "title": "I'm Giving This Handy Bluetooth Dongle to Every Traveler on My List This Year. Here's Why - CNET",
+      "description": "Looking for a gift for the globe-trotter in your life? The AirFly Pro has been a game changer for me on flights.",
+      "url": "https://www.cnet.com/deals/im-giving-this-handy-bluetooth-dongle-to-every-traveler-on-my-list-this-year-heres-why/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b382d13a6847a1799d4eb44bdb5996a050214596/hub/2025/12/15/ba7ca25b-d496-4235-bb28-de3a677e48eb/airfly-pro.jpg?auto=webp&fit=crop&height=675&precrop=1920,1080,x0,y0&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-12-18T17:00:00Z"
     },
     {
-      "title": "Apple Releases First iOS 26.3 and iPadOS 26.3 Public Betas - MacRumors",
-      "description": "Apple today provided beta testers with the first releases of upcoming iOS 26.3, iPadOS 26.3, tvOS 26.3, and watchOS 26.3 updates for testing...",
-      "url": "https://www.macrumors.com/2025/12/17/apple-releases-ios-26-3-public-beta-1/",
-      "urlToImage": "https://images.macrumors.com/t/xLosFUpamTTG6O8V3ejjWJu-Akc=/2500x/article-new/2025/12/iOS-26.3-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-12-17T18:06:44Z"
+      "title": "Stardew Valley 1.7 Update Will Feature New Farm Type And \"Lots More\" - GameSpot",
+      "description": "Meanwhile, an update on the Switch 2 version should be coming soon.",
+      "url": "https://www.gamespot.com/articles/stardew-valley-1-7-update-will-feature-new-farm-type-and-lots-more/1100-6537084/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1813/18138562/4625640-stardewvalleyart.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-18T16:48:32Z"
     },
     {
-      "title": "New Year’s Sale 2025 - Minecraft",
-      "description": "2025 is coming to an end, and what better way to commemorate this year than with a massive sale!",
-      "url": "https://www.minecraft.net/en-us/article/new-years-sale-2025",
-      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Minecraft_New%20Years%20Sale_DotNet_Blog_Editorial_1170x500.jpg",
-      "source": "Minecraft.net",
-      "publishedAt": "2025-12-17T18:05:01Z"
-    },
-    {
-      "title": "Blizzard Entertainment President on BlizzCon 2026, 35th Anniversary Plans - Variety",
-      "description": "Blizzard Entertainment is turning 35 and they want everyone to know it.",
-      "url": "https://variety.com/2025/gaming/news/blizzard-entertainment-president-blizzcon-2026-preview-1236610214/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/Johanna-Faries.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-17T18:00:00Z"
-    },
-    {
-      "title": "Mercedes-Benz discontinues feature that syncs music to driving - The Verge",
-      "description": "Mercedes-Benz is shutting down its MBUX Sound Drive feature that synced driving actions to musical tracks.",
-      "url": "https://www.theverge.com/news/846367/mercedes-benz-discontinues-feature-that-syncs-music-to-driving",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25206115/24C0019_003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "How Atlas Obscura plans to embrace the 3D web - The Verge",
+      "description": "The Obscura Society will be a virtual lounge that Atlas Obscura community members can visit to hang out with the help of 3D avatars, have voice chats, and explore places from the site’s massive catalog together.",
+      "url": "https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Atlas-Obscura-Meta-app.png?quality=90&strip=all&crop=0%2C2.6220113231659%2C100%2C94.755977353668&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-12-17T17:04:14Z"
-    },
-    {
-      "title": "GenAI users Larian forced to build Divinity around RAM shortage caused by GenAI - Rock Paper Shotgun",
-      "description": "Larian's new Divinity game is having to be made with the current RAM storage in mind - a shortage caused by generative AI tools like the ones Larian employ.",
-      "url": "https://www.rockpapershotgun.com/genai-users-larian-forced-to-build-divinity-around-ram-shortage-caused-by-genai",
-      "urlToImage": "https://assetsio.gnwcdn.com/Trailer-Screenshots_04---edited.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Rock Paper Shotgun",
-      "publishedAt": "2025-12-17T16:52:33Z"
-    },
-    {
-      "title": "Google releases Find Hub app for Wear OS - 9to5Google",
-      "description": "As previously spotted in a promo video for the Pixel Watch 3, Google has released a Find Hub app for Wear OS.",
-      "url": "http://9to5google.com/2025/12/17/find-hub-wear-os/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/Find-Hub-app-icon-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-17T16:15:00Z"
+      "publishedAt": "2025-12-18T16:30:00Z"
     }
   ]
 }

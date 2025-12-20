@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2025-12-19T06:46:01.084Z",
+  "updatedAt": "2025-12-20T06:42:21.026Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Antony Price, designer for Bowie and Duran Duran, dies aged 80 - BBC",
-      "description": "Hailed as a visionary, the Yorkshireman will be remembered for his sculptured silhouettes and theatricality.",
-      "url": "https://www.bbc.com/news/articles/c8xd7wr1vj9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bba7/live/8a1e5170-dbbd-11f0-aae2-2191c0e48a3b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-18T04:45:14Z"
+      "title": "Sony Strikes $457M Deal To Acquire Majority Stake In Peanuts Brand - Deadline",
+      "description": "Sony will acquire a majority stake in Peanuts Holdings Llc, the company behind the cartoon franchise that includes Charlie Brown, Snoopy and the gang.",
+      "url": "http://deadline.com/2025/12/peanuts-brand-sold-sony-deal-1236653166/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2018/12/Peanuts-group-.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-12-19T00:29:00Z"
     },
     {
-      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "description": "A selloff in Oracle and other tech names dragged the S&P 500 to a fourth straight losing session on Wednesday.",
-      "url": "https://www.cnbc.com/2025/12/17/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240008-1765390997515-gettyimages-2247416236-251118_booth.jpeg?v=1765391109&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-18T00:30:00Z"
+      "title": "Bay Area Italian deli with roots going back a century has closed - SFGATE",
+      "description": "The Genova Delicatessen on Treat Boulevard in Walnut Creek has permanently closed after nearly 30 years.",
+      "url": "https://www.sfgate.com/food/article/bay-area-deli-roots-going-back-a-century-closes-21250606.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/55/44/07/28721611/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2025-12-18T23:13:03Z"
     },
     {
-      "title": "Will Smith and Richard Parks team up for Antarctica adventure - BBC",
-      "description": "Rugby player turned explorer Richard Parks guided the Fresh Prince of Bel Air around the world's coldest continent.",
-      "url": "https://www.bbc.com/news/articles/cz7n8lwr0jdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddcd/live/ce3f0480-db6d-11f0-aae2-2191c0e48a3b.png",
-      "source": "BBC News",
-      "publishedAt": "2025-12-17T22:43:41Z"
+      "title": "Paul King To Direct ‘Labubu’ Movie For Sony - Deadline",
+      "description": "Paul King is developing Sony Pictures and Pop Mart’s live-action Labubu film",
+      "url": "http://deadline.com/2025/12/paul-king-labubu-movie-1236653126/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/P115UVFF.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-12-18T23:08:00Z"
     },
     {
-      "title": "How a hit show vaulted chef Edward Lee into a ‘new life’ as a Korean star - The Washington Post",
-      "description": "Fresh off a run to the finale in Netflix’s “Culinary Class Wars,” the celebrity chef is refining his Korean American outlook.",
-      "url": "https://www.washingtonpost.com/food/2025/12/17/edward-lee-culinary-class-wars-celebrity-chef/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3X6XT6B6CZO4WSWQI5V4XF73HU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-17T22:00:01Z"
+      "title": "Disney’s Live-Action ‘Tangled:’ Sarah Catherine Hook, Teagan Croft, Freya Skye and Olivia-Mai Barrett Up for Rapunzel Role (Exclusive) - The Hollywood Reporter",
+      "description": "Milo Manheim and Charlie Gillespie are among the young men who have a dream to make it to the top of the tower as Disney tests actors for its next big adaptation.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/tangled-live-action-movie-casting-1236452339/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/MCDTANG_EC018-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-12-18T22:29:04Z"
     },
     {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
-      "url": "https://www.marvelrivals.com/gameupdate/20251217/41548_1277163.html",
-      "urlToImage": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-      "source": "Marvelrivals.com",
-      "publishedAt": "2025-12-17T19:57:55Z"
-    },
-    {
-      "title": "2026 is the year to add a 'party fund' to your budget — start with these 3 resources - CNBC",
-      "description": "Budgeting apps, high-yield savings accounts and cash-back platforms are key to building party funds.",
-      "url": "https://www.cnbc.com/select/resources-to-start-a-party-fund/",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169778-1671649948055-gettyimages-618969856-000107858251_Unapproved.jpeg?v=1765823915&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-17T19:49:54Z"
-    },
-    {
-      "title": "'Harry Potter' fans are flying to Broadway to see the original Draco Malfoy - NPR",
-      "description": "Almost eight years after Harry Potter and the Cursed Child opened on Broadway, Tom Felton, who played Draco Malfoy in the films, is now playing him as an adult onstage.",
-      "url": "https://www.npr.org/2025/12/17/nx-s1-5644977/harry-potter-draco-malfoy-tom-felton-broadway",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3176x1786+531+1766/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F57%2Fad62e1d64888a6ec150442196907%2F02-hpcc-year7-duelfeltonskelley-photo-by-matthew-murphy.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-12-17T19:45:09Z"
-    },
-    {
-      "title": "Rob Reiner Children Jake and Romy Speak Out After Parents' Murders - Variety",
-      "description": "Jake and Romy Reiner, children of Rob and Michele Reiner, have spoken out for the first time after their parents were found murdered.",
-      "url": "https://variety.com/2025/film/news/rob-reiner-kids-romy-jake-nick-murder-charge-1236611073/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2215021980.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-17T18:43:00Z"
-    },
-    {
-      "title": "THE ACADEMY PARTNERS WITH YOUTUBE FOR EXCLUSIVE GLOBAL RIGHTS TO THE OSCARS® AND OTHER ACADEMY CONTENT STARTING IN 2029 - Academy Press Office",
-      "description": "THE ACADEMY PARTNERS WITH YOUTUBE FOR EXCLUSIVE GLOBAL RIGHTS TO THE OSCARS® AND OTHER ACADEMY CONTENT STARTING IN 2029",
-      "url": "http://press.oscars.org/news/academy-partners-youtube-exclusive-global-rights-oscarsr-and-other-academy-content-starting",
-      "urlToImage": "http://press.oscars.org/s3/files/styles/large/public/2025-12/Oscars%20Youtube%20Announcement_0.jpg?itok=Q9Un5BLo",
-      "source": "Oscars.org",
-      "publishedAt": "2025-12-17T18:18:52Z"
-    },
-    {
-      "title": "Look of the Week: Not one but two Lilys show how to wear lingerie-inspired outfits this winter - CNN",
-      "description": "Lily Collins and Lily Allen are among the celebrities turning skimpy lingerie into the season’s boldest fashion trend.",
-      "url": "https://www.cnn.com/2025/12/17/style/lily-collins-allen-lingerie-lace",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-16104551h.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-17T17:51:40Z"
-    },
-    {
-      "title": "Skip Cherry or Burgundy, This Is the Perfect Holiday Red Nail Polish - Vogue",
-      "description": "A vampy red is a Christmas go-to at the nail salon—consider the understated and chic shade in town for the holidays, which Selena Gomez has down. Enter: brick red nails.",
-      "url": "https://www.vogue.com/article/brickhouse-red-nails-trend",
-      "urlToImage": "https://assets.vogue.com/photos/6942d8acc0608dccc7d34282/16:9/w_1280,c_limit/Selena%20Gomez%20brick%20red%20nails%20by%20Tom%20Bachik.jpg",
-      "source": "Vogue",
-      "publishedAt": "2025-12-17T17:48:56Z"
-    },
-    {
-      "title": "Disney+ and Hulu: 2025 Year in Streaming - thewaltdisneycompany.com",
-      "description": "2025 is coming to a close, but we can’t stop talking about the stories that brought us together. This year, we voyaged beyond with Moana, …Read More",
-      "url": "https://thewaltdisneycompany.com/2025-streaming-numbers/",
-      "urlToImage": "https://thewaltdisneycompany.com/app/uploads/2025/12/00_EOY_Header_v05-1024x576.png",
-      "source": "Thewaltdisneycompany.com",
-      "publishedAt": "2025-12-17T16:55:26Z"
-    },
-    {
-      "title": "Sylvester Stallone says \"Rocky\" Oscar triumph was a \"volcanic moment\" followed by deep sadness - CBS News",
-      "description": "Sylvester Stallone reflects on his iconic roles as Rocky Balboa and John Rambo, his rough upbringing, and the legacy he hopes to leave in a touching \"CBS Mornings\" interview.",
-      "url": "https://www.cbsnews.com/news/sylvester-stallone-rocky-oscar-moment/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/17/16db9d93-9385-423c-9039-51293ccfdee0/thumbnail/1200x630g2/b98995c3ce042580f817f322c078111a/screenshot-2025-12-17-at-8-41-09-am.png",
+      "title": "Jelly Roll pardoned by Tennessee governor for robbery, drug convictions - CBS News",
+      "description": "Jelly Roll had said a pardon would make it easier for him to travel internationally for concert tours and to perform Christian missionary work without requiring burdensome paperwork.",
+      "url": "https://www.cbsnews.com/news/jelly-roll-pardoned-tennessee-governor/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/18/cc177637-ff6a-4250-a886-1962a1f66c50/thumbnail/1200x630/104bc1ac10d5422b2a07fcf4a91e1e1e/gettyimages-2252285290.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-12-17T16:40:25Z"
+      "publishedAt": "2025-12-18T22:22:15Z"
     },
     {
-      "title": "'Buck Rogers' star Gil Gerard dies at 82 - ABC News",
-      "description": "Gil Gerard, known for his role as Buck Rogers, has died at 82",
-      "url": "https://abcnews.go.com/Entertainment/wireStory/buck-rogers-star-gil-gerard-dies-82-128486736",
-      "urlToImage": "https://i.abcnewsfe.com/a/acc40b8a-5e1f-408e-b6da-f6dea61135d0/wirestory_a25dff500da4ff9193d199fc65692279_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-12-17T16:28:01Z"
+      "title": "San Francisco Giants buy historic Curran Theatre - San Francisco Chronicle",
+      "description": "Speaking to the Chronicle by phone, Giants President and CEO Larry Baer said, “We’re in the live entertainment business.”",
+      "url": "https://www.sfchronicle.com/entertainment/theater/article/sf-giants-curran-theatre-21250725.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/55/44/10/28721710/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2025-12-18T22:20:45Z"
     },
     {
-      "title": "TikTok star Tucker Genal dies at 31, family and LA County medical examiner confirm - ABC7 Los Angeles",
-      "description": "Genal's brothers remembered him on social media.",
-      "url": "https://abc7.com/post/tucker-genal-social-media-influencer-tiktok-star-dies-31-los-angeles-county/18295073/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18295084_tyler_genal.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2025-12-17T15:34:07Z"
-    },
-    {
-      "title": "AEW Dynamite & Collision Holiday Bash Preview – Million Dollar Trios Match, Dynamite Diamond Battle Royale, Continental Classic, Tag Title Match, More - AEW",
-      "description": "The holiday spirit of professional wrestling will be on full display for AEW Dynamite and Collision Holiday Bash! The 3-Hour Special starts at 8 p.m. ET/7 p.m. CT on TBS and streaming on HBO Max from Co-op Live in Manchester, England!",
-      "url": "https://www.allelitewrestling.com/post/aew-dynamite-collision-holiday-bash-preview",
-      "urlToImage": "https://static.wixstatic.com/media/815952_133cb0958b184c85a071720b5f2e4093~mv2.jpg/v1/fill/w_1920,h_1080,al_c/815952_133cb0958b184c85a071720b5f2e4093~mv2.jpg",
-      "source": "Allelitewrestling.com",
-      "publishedAt": "2025-12-17T15:24:04Z"
-    },
-    {
-      "title": "Judge dismisses Orinda gang-rape allegations against Diddy, entourage - KTVU",
-      "description": "A federal judge on Tuesday dismissed the case of a woman who alleged that she was gang-raped by Sean \"Diddy\" Combs and an entourage of other people in Orinda seven years ago.",
-      "url": "https://www.ktvu.com/news/judge-dismisses-orinda-gang-rape-allegations-against-diddy-entourage",
-      "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2025/12/1280/720/orinda.jpg?ve=1&tl=1",
-      "source": "KTVU San Francisco",
-      "publishedAt": "2025-12-17T14:43:03Z"
-    },
-    {
-      "title": "How a Rockette spends Christmas in New York City - BBC",
-      "description": "For 100 years, The Rockettes have symbolised Christmas in New York City. Now, troupe member Brooklyn Bronson shares her tips on how to enjoy the city's holiday magic.",
-      "url": "https://www.bbc.com/travel/article/20251216-how-a-rockette-spends-christmas-in-new-york-city",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0mnzhcp.jpg",
+      "title": "Wiz Khalifa sentenced to nine months jail in Romania - BBC",
+      "description": "The rapper, who has been sentenced in absentia, had admitted to smoking a cannabis joint on stage at a festival last year.",
+      "url": "https://www.bbc.com/news/articles/c93wxp2p05xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54d3/live/810c8c30-dc46-11f0-a1ce-39295e57b193.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-17T13:00:00Z"
+      "publishedAt": "2025-12-18T20:00:55Z"
     },
     {
-      "title": "Column | Miss Manners: He offered to pay the bill — and then solicited cash. - The Washington Post",
-      "description": "He said no to separate checks and still asked for others to chip in for the bill.",
-      "url": "https://www.washingtonpost.com/advice/2025/12/17/miss-manners-one-bill-mishap/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKXPDRP4QFEP3JGLOEH7BDKT6E.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-17T13:00:00Z"
+      "title": "Why BlackRock thinks the time is right for a more 'modernized' exposure to bonds - CNBC",
+      "description": "Amid a 'generational opportunity' in fixed income, BlackRock recently launched an ETF that it says has the most comprehensive exposure to the market ever.",
+      "url": "https://www.cnbc.com/2025/12/18/blackrock-thinks-the-time-is-now-for-a-more-modernized-exposure-to-bonds.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243717-1766080739550-gettyimages-2173860255-argentinasesionpareja-124.jpeg?v=1766080818&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-18T19:57:27Z"
     },
     {
-      "title": "Duke of Marlborough charged with intentional strangulation - BBC",
-      "description": "The 70-year-old is accused of attacking the same person in Oxfordshire between 2022 and 2024.",
-      "url": "https://www.bbc.com/news/articles/cd9zv78dqzgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fd27/live/cea0c9d0-db3c-11f0-8b80-79c57719005f.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-17T12:36:19Z"
+      "title": "Chris Evans Returns for ‘Avengers: Doomsday’ as Captain America With a Child, Teaser Confirms - Variety",
+      "description": "Chris Evans is back as Captain America in 'Avengers: Doomsday,' the first teaser revealed.",
+      "url": "https://variety.com/2025/film/news/chris-evans-avengers-doomsday-teaser-captain-america-1236609054/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/03/MCDAVEN_EC183.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-12-18T19:22:00Z"
+    },
+    {
+      "title": "OSHA fines Universal after employee gets electrical shock at Epic Universe ride - Florida Politics",
+      "description": "A Universal employee was hospitalized with a dislocated shoulder, broken ribs and a fractured arm.",
+      "url": "https://floridapolitics.com/archives/770300-osha-fines-universal-after-employee-gets-electrical-shock-at-epic-universe-ride/",
+      "urlToImage": "https://floridapolitics.com/wp-content/uploads/2025/12/corporate_Image-25_Floo-Corridor.jpg",
+      "source": "Florida Politics",
+      "publishedAt": "2025-12-18T18:56:15Z"
+    },
+    {
+      "title": "Lucy Liu on 'Rosemead,' rejection and returning to Mandarin - NPR",
+      "description": "The child of Chinese immigrants, Liu didn't learn English until she was 5. She plays a terminally ill woman grappling with her teenage son's mental health crisis in Rosemead.",
+      "url": "https://www.npr.org/2025/12/18/nx-s1-5647514/lucy-liu-rosemead",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3698x2080+464+400/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F37%2F24be7d1f49fabc7dfe60f295af0c%2Fgettyimages-1410523566.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-12-18T18:29:46Z"
+    },
+    {
+      "title": "SpongeBob SquarePants Biomes - Minecraft",
+      "description": "SpongeBob SquarePants is returning to Minecraft! Grab your spatula and get hyped up on Goofy Goober Sundaes as SpongeBob SquarePants Biomes is coming!",
+      "url": "https://www.minecraft.net/en-us/article/spongebob-squarepants-biomes",
+      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/marketplace/SpongeBob_SBBiomes_Blog_1170x500.jpg",
+      "source": "Minecraft.net",
+      "publishedAt": "2025-12-18T18:20:04Z"
+    },
+    {
+      "title": "‘Power’s Naturi Naughton-Lewis & Bonko Khoza-Led Drama Series ‘The Nowhere Man’ Acquired By Starz - Deadline",
+      "description": "Starz has acquired the exclusive U.S. rights to the six-part drama The Nowhere Man, with Naturi Naughton-Lewis starring alongside lead Bonko Khoza.",
+      "url": "http://deadline.com/2025/12/starz-acquires-the-nowhere-man-naturi-naughton-1236652610/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/The-Nowhere-Man-.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-12-18T18:15:00Z"
+    },
+    {
+      "title": "Mariah Carey’s ‘All I Want for Christmas Is You’ breaks an all-time chart record - NPR",
+      "description": "With Carey's enduring Christmas hit, we may be looking at a record that borders on the untouchable.",
+      "url": "https://www.npr.org/2025/12/18/nx-s1-5647472/mariah-carey-all-i-want-for-christmas-is-you-all-time-record",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2363+0+214/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F3f%2F8003881c49569fc50c57fa5e15e8%2Fgettyimages-2249022270.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-12-18T17:28:30Z"
+    },
+    {
+      "title": "Tom Cruise Is Unrecognizable in First Teaser for Highly Anticipated Comedy 'Digger' - MovieWeb",
+      "description": "Tom Cruise's epic new film from Alejandro González Iñárritu just got a first look and title announcement.",
+      "url": "https://movieweb.com/tom-cruise-epic-comedy-digger-first-teaser/",
+      "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/12/tom-cruise-in-digger.jpg?w=1600&h=900&fit=crop",
+      "source": "MovieWeb",
+      "publishedAt": "2025-12-18T17:12:00Z"
+    },
+    {
+      "title": "From toddlers to teens, here's your one-stop shop for young readers - NPR",
+      "description": "If you have kids in your life who are ready to broaden their book horizons we have recommendations for you! Here you'll find tried-and-true picture books, chapter books, and YA, all published in 2025.",
+      "url": "https://www.npr.org/2025/12/18/nx-s1-5642947/best-kids-books-what-to-read-2025",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1124+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F9f%2Fee3b9e9d4975bca4db943cb11d85%2Fcopy-of-6-book-covers-14.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-12-18T16:23:33Z"
+    },
+    {
+      "title": "Guy Ritchie’s ‘Young Sherlock’ Trailer Reimagines Detective for Prime Video - The Hollywood Reporter",
+      "description": null,
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/guy-ritchie-young-sherlock-trailer-1236454110/",
+      "urlToImage": null,
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-12-18T16:10:47Z"
     }
   ]
 }
