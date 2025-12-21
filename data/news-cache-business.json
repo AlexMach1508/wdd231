@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2025-12-20T06:42:20.766Z",
+  "updatedAt": "2025-12-21T06:43:39.686Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Japan hikes interest rate to highest level since 1995 as inflation bites - BBC",
-      "description": "It comes as new PM Sanae Takaichi is keen for inflation to fall but also needs low government borrowing costs.",
-      "url": "https://www.bbc.com/news/articles/c2dz11pykwno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fac3/live/2d9edaf0-dafa-11f0-a0b0-cbda1875683c.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-19T03:28:32Z"
-    },
-    {
-      "title": "Police search for suspect involved in shooting outside Kroger in Westland - ClickOnDetroit | WDIV Local 4",
-      "description": "Police are searching for the suspect who shot a victim outside a Kroger in Westland.",
-      "url": "https://www.clickondetroit.com/news/local/2025/12/19/police-search-for-suspect-involved-in-shooting-outside-kroger-in-westland/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/emDINJsB788ikN9ibOSW/1766117518883_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
-      "source": "WDIV ClickOnDetroit",
-      "publishedAt": "2025-12-19T00:32:47Z"
-    },
-    {
-      "title": "S&P 500 futures are little changed after index ends four-day losing run: Live updates - CNBC",
-      "description": "The S&P 500 and Dow Jones Industrial Average both snapped their four-day losing streaks in Thursday's regular trading.",
-      "url": "https://www.cnbc.com/2025/12/18/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243746-1766083270264-Traders-Photo-20251218-KK-PRESS-005.jpg?v=1766084090&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-19T00:06:00Z"
-    },
-    {
-      "title": "The TikTok US sale is finally happening - The Verge",
-      "description": "TikTok’s deal to sell stakes in its US-based operations to Oracle, Silver Lake, and MGX is expcted to close on January 22nd.",
-      "url": "https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25408587/STK051_TIKTOKBAN2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-12-18T23:18:34Z"
-    },
-    {
-      "title": "Evaluating chain-of-thought monitorability - OpenAI",
-      "description": "We introduce evaluations for chain-of-thought monitorability and study how it scales with test-time compute, reinforcement learning, and pretraining.",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
-      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/4x3EyD3VqsjaYK1Q8wOj1W/1d939bee7051a3ccb60abbdcbef156f4/CoT_Monitorability_Art_Card.png?w=1600&h=900&fit=fill",
-      "source": "Openai.com",
-      "publishedAt": "2025-12-18T22:56:12Z"
-    },
-    {
-      "title": "Nike shares fall sharply as weak China sales dent faith in turnaround - Financial Times",
-      "description": "CEO of sports shoe and apparel maker acknowledges need for a ‘reset’ in the country as it also navigates Trump tariffs",
-      "url": "https://www.ft.com/content/a7ef61fa-4c2a-4bb6-aadb-4bed15b41a46",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ebefce3-8f41-4ca3-8e13-5b5835068c28.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-12-18T22:46:12Z"
-    },
-    {
-      "title": "Trump Media to Merge With Nuclear Fusion Firm in $6 Billion Deal - The Wall Street Journal",
+      "title": "Olympia Provisions Recalls Ready-to-Eat Holiday Kielbasa Sausage Products Due to Possible Foreign Matter Contamination | Food Safety and Inspection Service - fsis.usda.gov",
       "description": null,
-      "url": "https://www.wsj.com/business/deals/trump-media-tae-technologies-merger-ai-fusion-power-b9ac22a5",
+      "url": "http://www.fsis.usda.gov/recalls-alerts/olympia-provisions-recalls-ready-eat-holiday-kielbasa-sausage-products-due-possible",
+      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+      "source": "Usda.gov",
+      "publishedAt": "2025-12-19T23:26:20Z"
+    },
+    {
+      "title": "Maître Saladier Inc. Recalls Lorraine Quiche Products Imported Without Benefit of Import Reinspection - fsis.usda.gov",
+      "description": null,
+      "url": "http://www.fsis.usda.gov/recalls-alerts/maitre-saladier-inc--recalls-lorraine-quiche-products-imported-without-benefit",
+      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
+      "source": "Usda.gov",
+      "publishedAt": "2025-12-19T22:47:25Z"
+    },
+    {
+      "title": "Ford recalls more than 270,000 electric and hybrid vehicles due to roll-away risk - ABC News",
+      "description": "Ford is recalling more than 270,000 electric and hybrid vehicles in the U.S. because of a parking function problem that could lead to them rolling away",
+      "url": "https://abcnews.go.com/Business/wireStory/ford-recalls-270000-electric-hybrid-vehicles-due-roll-128557286",
+      "urlToImage": "https://i.abcnewsfe.com/a/5967efcc-9d28-42f7-9be4-64bc7e784b28/wirestory_d8f0f16bd0d9485700dea08a3f600155_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-12-19T22:19:03Z"
+    },
+    {
+      "title": "Department of Justice Files Statement of Interest Supporting Competition Among Real Estate Brokerages - Department of Justice (.gov)",
+      "description": "Today, the Antitrust Division of the Department of Justice filed a statement of interest in the U.S. District Court for the Eastern District of Pennsylvania in the case of Davis et al. v. Hanna Holdings Inc. The lawsuit, brought by homebuyers, alleges that re…",
+      "url": "https://www.justice.gov/opa/pr/department-justice-files-statement-interest-supporting-competition-among-real-estate",
+      "urlToImage": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "source": "Justice.gov",
+      "publishedAt": "2025-12-19T22:18:38Z"
+    },
+    {
+      "title": "CNBC anchor who blasted Trump’s ‘insane’ tariffs is now shocked by ‘very, very low’ inflation. How to capitalize in 2026 - Yahoo Finance",
+      "description": "Liesman wasn’t alone in his reaction.",
+      "url": "https://finance.yahoo.com/news/cnbc-anchor-blasted-trump-insane-220300299.html",
+      "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/0c47cea246428d840d4098f02b430bce",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-12-19T22:03:00Z"
+    },
+    {
+      "title": "Last Full Trading Week of 2025 Brings Treasury Yields Lower - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-ahead-of-bojs-monetary-policy-decision-2aa0922e",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-18T21:37:00Z"
+      "publishedAt": "2025-12-19T21:45:00Z"
     },
     {
-      "title": "NOAA says its new AI-driven weather models improve forecast speed and accuracy - CBS News",
-      "description": "A suite of new Artificial Intelligence technology is being rolled out in major weather forecasting models.",
-      "url": "https://www.cbsnews.com/news/noaa-ai-driven-weather-models-improve-forecast-speed-accuracy/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/18/fa53029a-421b-41b1-bb9a-6ea573f635b1/thumbnail/1200x630/b220ca30f3e36aa629196d86b79cf320/aigfs.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-18T20:11:45Z"
+      "title": "Stock Market on Dec. 19, 2025: Dow, S&P 500, Nasdaq close higher amid AI-trade comeback; S&P 500 ekes out weekly gain after tech rally on Friday - MarketWatch",
+      "description": "The U.S. stock market ended higher Friday, as the S&P 500's tech sector saw it best day in nearly a month.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-to-be-hit-by-nike-but-s-p-500-and-nasdaq-seen-extending-gains",
+      "urlToImage": "https://images.mktw.net/im-39286769/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-12-19T21:43:00Z"
     },
     {
-      "title": "Anthropic aims to tame workplace AI - Axios",
-      "description": "A new Claude update could tailor AI to how people actually work.",
-      "url": "https://www.axios.com/2025/12/18/anthropic-claude-enterprise-skills-update",
-      "urlToImage": "https://images.axios.com/xGi5InHs1g6tGzXBN-DfwR1ADqA=/0x0:1920x1080/1366x768/2025/07/02/1751484371498.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-12-18T20:03:18Z"
+      "title": "Rocket Lab Awarded $816M Prime Contract to Build Missile- Defense Satellite Constellation for U.S. Space Force - Rocket Lab",
+      "description": "Rocket Lab’s largest contract to date solidifies its position as a disruptive force in national security space, redefining the speed and efficiency of satellite production and challenging legacy aerospace primes.",
+      "url": "https://rocketlabcorp.com/updates/rocket-lab-awarded-816m-prime-contract-to-build-missile-defense-satellite-constellation-for-u-s-space-force/",
+      "urlToImage": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+      "source": "Rocketlabcorp.com",
+      "publishedAt": "2025-12-19T21:06:48Z"
     },
     {
-      "title": "Monetary policy statement (with Q&A) - European Central Bank",
-      "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-      "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2025/html/ecb.is251218~3a10402adb.en.html",
-      "urlToImage": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/img/socialmedia/social-default.jpg?1b07e3d68efd7f29f4771d75b50bd667",
-      "source": "Europa.eu",
-      "publishedAt": "2025-12-18T19:52:30Z"
+      "title": "Cytokinetics Announces FDA Approval of MYQORZO™ (aficamten) for the Treatment of Adults with Symptomatic Obstructive Hypertrophic Cardiomyopathy to Improve Functional Capacity and Symptoms - Cytokinetics",
+      "description": "MYQORZO, a Cardiac Myosin Inhibitor, Directly Addresses Underlying Hypercontractility Associated with Obstructive HCM FDA Approval Based on Results of SEQUOIA-HCM MYQORZO is Company’s First FDA-Approved Medicine Company to Host Investor Conference Call Today …",
+      "url": "https://ir.cytokinetics.com/press-releases/press-release-details/2025/Cytokinetics-Announces-FDA-Approval-of-MYQORZO-aficamten-for-the-Treatment-of-Adults-with-Symptomatic-Obstructive-Hypertrophic-Cardiomyopathy-to-Improve-Functional-Capacity-and-Symptoms/default.aspx",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9f8fb42-7a54-4595-ac4a-01d585228003/mqrz-us-tm-admdos-rgb-fc-pos.png",
+      "source": "Cytokinetics.com",
+      "publishedAt": "2025-12-19T21:01:58Z"
     },
     {
-      "title": "Deepening our collaboration with the U.S. Department of Energy - OpenAI",
-      "description": "OpenAI and the U.S. Department of Energy sign memorandum of understanding to accelerate science with AI.",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration/",
-      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/1cuOnlyqLYsfBQrPrApjPw/8aaebaa388331538344cca83926691ef/OAI_MOU_Art_Card_16.9.png?w=1600&h=900&fit=fill",
-      "source": "Openai.com",
-      "publishedAt": "2025-12-18T19:04:49Z"
+      "title": "Removed Ben & Jerry's chair says Magnum aimed to 'smear' her - BBC",
+      "description": "Anuradha Mittal was ejected from the board of the ice cream maker this week.",
+      "url": "https://www.bbc.com/news/articles/cn98pzr8x79o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1326/live/40744f10-dd03-11f0-a22a-056be4e9e2e8.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-19T20:48:44Z"
     },
     {
-      "title": "Why the $1.5 billion Powerball jackpot is the latest in a growing list of stratospheric lottery payouts - ABC News",
+      "title": "OpenAI’s Stargate Data Center Approved in Michigan as American Anger Starts to Boil - Gizmodo",
+      "description": "The data center backlash has begun.",
+      "url": "https://gizmodo.com/openais-stargate-data-center-approved-in-michigan-as-american-anger-starts-to-boil-2000701890",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/data-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-12-19T19:15:24Z"
+    },
+    {
+      "title": "PCAOB to Cut Chair’s Pay by More Than Half Amid SEC Pressure - The Wall Street Journal",
       "description": null,
-      "url": "https://abcnews.go.com/US/15-billion-powerball-jackpot-latest-growing-list-stratospheric/story?id\\\\u003d128517448",
+      "url": "https://www.wsj.com/articles/pcaob-to-cut-chairs-pay-by-more-than-half-amid-sec-pressure-f68bb829",
       "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-12-18T18:58:34Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-12-19T18:42:00Z"
     },
     {
-      "title": "Introducing GPT-5.2-Codex - OpenAI",
-      "description": "The most advanced agentic coding model for professional software engineering and defensive cybersecurity.",
-      "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
-      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/6LIpGEEENB5lAfUNbRi0ey/8f42edb6e74d7d0b6f2541d409ba8553/OAI_GPT-5.2-Codex_ArtCard_16x9..png?w=1600&h=900&fit=fill",
-      "source": "Openai.com",
-      "publishedAt": "2025-12-18T18:15:30Z"
+      "title": "Black employment milestone evaporates - Axios",
+      "description": "Labor market conditions for Black Americans are worsening more rapidly than they are for the overall population.",
+      "url": "https://www.axios.com/2025/12/19/trump-jobs-black-unemployment-rate",
+      "urlToImage": "https://images.axios.com/ulPZS0LCSbBUjVFW0RqyXmTBL08=/0x0:1600x900/1366x768/2025/12/19/1766167003089.png",
+      "source": "Axios",
+      "publishedAt": "2025-12-19T18:07:53Z"
     },
     {
-      "title": "Rep Your Hogwarts House in Rocket League’s Frosty Fest 2025! - Rocket League ®",
-      "description": "In Rocket League’s Frosty Fest 2025, you’ll be placed in one of the four Harry Potter Hogwarts houses for the Hogwarts House Rivalry!",
-      "url": "https://www.rocketleague.com/news/rep-your-hogwarts-house-in-rocket-league-frosty-fest-2025",
-      "urlToImage": "https://us-west-2-epicgames.graphassets.com/cm84mjx3f0a0j08n79wol8l1l/cmja2qksv03aq07o8rcglw6xu",
-      "source": "Rocketleague.com",
-      "publishedAt": "2025-12-18T17:01:06Z"
+      "title": "Visa, Mastercard to pay $167.5 million in ATM user fee settlement​ - CNBC",
+      "description": "Visa and Mastercard have agreed to pay a combined $167.5 million to settle a class action lawsuit accusing them of conspiring to keep ATM access fees high.",
+      "url": "https://www.cnbc.com/2025/12/19/visa-mastercard-atm-user-fee-settlement.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223642-1762789692425-gettyimages-2224936870-AA_18072025_2335251.jpeg?v=1766161850&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-19T18:04:45Z"
     },
     {
-      "title": "Instacart to Pay $60 Million in Consumer Refunds to Settle FTC Lawsuit Over Allegations it Engaged in Deceptive Tactics - Federal Trade Commission (.gov)",
-      "description": "Today, the Federal Trade Commission announced that grocery delivery provider Instacart will pay $60 million in refunds to consumers to settle allegations that the company engaged in numerous unlawf",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/12/instacart-pay-60-million-consumer-refunds-settle-ftc-lawsuit-over-allegations-it-engaged-deceptive",
-      "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
-      "source": "Ftc.gov",
-      "publishedAt": "2025-12-18T16:52:27Z"
+      "title": "CONGRESSMAN PAT RYAN DEMANDS FTC INVESTIGATION INTO COLLECTORS HOLDINGS’ ATTEMPT TO MONOPOLIZE TRADING CARD GRADING - House.gov",
+      "description": "Collectors’ dominance is compounded by vertical integration; it controls grading capacity, pricing analytics through CardLadder, and participates in buying and selling graded cards—creating severe conflicts of interest",
+      "url": "http://patryan.house.gov/media/press-releases/congressman-pat-ryan-demands-ftc-investigation-collectors-holdings-attempt",
+      "urlToImage": "https://patryan.house.gov/sites/evo-subsites/patryan.house.gov/files/evo-media-image/PatRyan_opengraph_1.png",
+      "source": "House.gov",
+      "publishedAt": "2025-12-19T17:19:26Z"
     },
     {
-      "title": "FACT SHEET | FERC Directs Nation’s Largest Grid Operator to Create New Rules to Embrace Innovation and Protect Consumers - Federal Energy Regulatory Commission (.gov)",
-      "description": "Item E-1, Docket Nos. EL25-49-000, et al. | News Release | Presentation",
-      "url": "https://www.ferc.gov/news-events/news/fact-sheet-ferc-directs-nations-largest-grid-operator-create-new-rules-embrace",
-      "urlToImage": "https://www.ferc.gov/themes/custom/ferc/images/FERC_social-media--default.png",
-      "source": "Ferc.gov",
-      "publishedAt": "2025-12-18T16:37:53Z"
+      "title": "American Airlines makes basic economy less rewarding - Axios",
+      "description": "American Airlines will no longer award AAdvantage miles or Loyalty Points on basic economy fares.",
+      "url": "https://www.axios.com/local/charlotte/2025/12/19/american-airlines-basic-economy-aadvantage-miles-perks",
+      "urlToImage": "https://images.axios.com/jUeBQEmlvRqCE13yz9o1_RbXW3U=/0x0:4032x2268/1366x768/2024/05/07/1715102456269.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-12-19T16:05:28Z"
     },
     {
-      "title": "Law firms Hogan Lovells and Cadwalader set to merge in record $3.6bn deal - Financial Times",
-      "description": "Combination that would deliver 3,000-lawyer behemoth is latest transatlantic merger",
-      "url": "https://www.ft.com/content/c3953a97-027b-4c99-bc4d-4a816e4dbac5",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd927dba7-39aa-4b95-ad89-159ab79b44bd.jpg?source=next-barrier-page",
+      "title": "How Ford’s bet on an electric ‘truck of the future’ led to a $19.5bn writedown - Financial Times",
+      "description": "The F-150 Lightning economics did not add up but also reflected industry-wide miscalculation of US EV uptake",
+      "url": "https://www.ft.com/content/72aa1e28-acdf-4b21-a601-bc380f6d0fcf",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73b5ff68-d259-48b0-91e1-cffca10d11d8.jpg?source=next-barrier-page",
       "source": "Financial Times",
-      "publishedAt": "2025-12-18T16:28:04Z"
+      "publishedAt": "2025-12-19T16:00:13Z"
     },
     {
-      "title": "Ohio State alumni demand name of top donor Les Wexner be removed from football facility - NBC News",
-      "description": "Former Ohio State University students suing the school for failing to protect them from being sexually abused by a campus doctor demanded Wednesday that billionaire Les Wexner’s name be removed from a football facility he helped fund because, they allege, he …",
-      "url": "https://www.nbcnews.com/news/us-news/osu-alumni-demand-name-schools-top-donor-les-wexner-removed-football-f-rcna249553",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251120-Les-Wexner-gk-35fbcf.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-12-18T16:28:00Z"
+      "title": "6 Scary Predictions for AI in 2026 - WIRED",
+      "description": "Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?",
+      "url": "https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/",
+      "urlToImage": "https://media.wired.com/photos/6941b33591ee19520c4c54ed/191:100/w_1280,c_limit/Backchannel-2026-Predictions-Business-1454862003.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-12-19T16:00:00Z"
     },
     {
-      "title": "Recent Federal Tax Changes | Strategies for Individuals and Businesses - EisnerAmper",
-      "description": "Join us for an informative session designed to help you stay ahead of recent federal tax law developments.",
-      "url": "https://www.eisneramper.com/insights/events/webinar-recent-federal-tax-changes-strategies-individuals-businesses-0126/",
-      "urlToImage": "https://p1.aprimocdn.net/eisneramper/f94c80f8-7e61-40a6-95d4-b3b50092189b/Recent%20Federal%20Tax%20Changes_Webiste_OG_CTA_Website%20OG.jpg",
-      "source": "Eisneramper.com",
-      "publishedAt": "2025-12-18T16:16:41Z"
-    },
-    {
-      "title": "Top Semiconductor Stocks for 2026 -- Nvidia and Broadcom Lead Chip Picks - Yahoo Finance",
-      "description": "Nvidia and Broadcom Lead Morgan Stanley's 2026 Chip Picks",
-      "url": "https://finance.yahoo.com/news/top-semiconductor-stocks-2026-wall-120207279.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X8nAb6TZGLfSJ0qSuU4dRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDAw/https://media.zenfs.com/en/us.finance.gurufocus/586f6ed952ecc73da387441318521e82",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-18T15:08:25Z"
+      "title": "French court rejects Shein website ban over childlike sex dolls - BBC",
+      "description": "The fast-fashion giant welcomed the judgement and said its priority remains protecting French consumers.",
+      "url": "https://www.bbc.com/news/articles/c5y9x4pj54eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46fc/live/702e6780-dceb-11f0-afe3-9729680155d8.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-19T15:49:16Z"
     }
   ]
 }

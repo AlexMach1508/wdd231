@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2025-12-20T06:42:20.637Z",
+  "updatedAt": "2025-12-21T06:43:39.571Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Riot Has a Secret Plan to Remake Its ‘League of Legends’ Game - Bloomberg.com",
-      "description": "A refreshed version being called ‘League Next’ is planned for 2027",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-18/riot-has-a-secret-plan-to-remake-its-league-of-legends-game",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itBvYAO66U98/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-12-18T22:57:40Z"
-    },
-    {
-      "title": "Oh snap, I have a new favorite phone grip - The Verge",
-      "description": "In the war of double-sided magnetic phone grips, Syncwire and OhSnap Snap Grip 5 are the best I’ve tried.",
-      "url": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DJI_20251218130832_0158_D.jpg?quality=90&strip=all&crop=4%2C5.3228621291448%2C96%2C89.35427574171&w=1200",
+      "title": "Want to link from Google’s app store to your app? That’ll be $2–4 per install - The Verge",
+      "description": "Google will charge fees when Android developers link outside of the Play Store, or use alternative billing systems, and says it’s complying with the Epic injunction.",
+      "url": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-12-18T22:29:23Z"
+      "publishedAt": "2025-12-20T01:17:00Z"
     },
     {
-      "title": "Instagram wants to limit hashtag spam - The Verge",
-      "description": "Instagram will now cap hashtags to five per post, according to Instagram chief Adam Mosseri.",
-      "url": "https://www.theverge.com/news/847739/instagram-hashtag-spam-limit",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-12-18T21:16:33Z"
+      "title": "This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker",
+      "description": "IP Check tells you if your address is involved in malicious scanning.",
+      "url": "https://lifehacker.com/tech/tool-checks-for-compromised-home-internet",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01KCW499Y2PHAV93MM8A9HFXJT/hero-image.fill.size_1200x675.png",
+      "source": "Lifehacker.com",
+      "publishedAt": "2025-12-20T00:19:12Z"
     },
     {
-      "title": "Google’s Gemini app can check videos to see if they were made with Google AI - The Verge",
-      "description": "Google launched a verification feature to its Gemini app that can check if a video was made using Google’s own AI.",
-      "url": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/google-ai-generated-videos-in-the-gemini-app.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-12-18T20:31:22Z"
-    },
-    {
-      "title": "The Best Steam Winter Sale Discounts On 2025 Games - Game Informer",
-      "description": "Here are some of the best deals we've found during the Steam Winter Sale.",
-      "url": "https://gameinformer.com/round-up/2025/12/18/the-best-steam-winter-sale-discounts-on-2025-games",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/18/d48a0b5f/SteamSaleMashup.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2025-12-18T20:29:53Z"
-    },
-    {
-      "title": "ChatGPT launches an app store, lets developers know it’s open for business - TechCrunch",
-      "description": "OpenAI is looking to populate its flagship chatbot with a host of new user experiences.",
-      "url": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-18T20:22:50Z"
-    },
-    {
-      "title": "Santa Ragione's provocative horror Horses sells 18,000 copies - but it may not be enough to save the studio - GamesIndustry.biz",
-      "description": "Santa Ragione's controversial horror game, Horses, has sold over 18,000 copies despite being deplatformed from Steam an…",
-      "url": "https://www.gamesindustry.biz/santa-ragiones-provocative-horror-horses-sells-18000-copies-but-it-may-not-be-enough-to-save-the-studio",
-      "urlToImage": "https://assetsio.gnwcdn.com/HORSES-Thumbnail-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2025-12-18T19:35:56Z"
-    },
-    {
-      "title": "Naughty Dog Studio Orders Employee Overtime for ‘Intergalactic’ - Bloomberg.com",
-      "description": "The Sony-owned gamemakers have been racing to hit a December deadline",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-18/sony-s-naughty-dog-studio-orders-employee-overtime-on-intergalactic",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAWffp0OBOwQ/v1/1200x728.png",
-      "source": "Bloomberg",
-      "publishedAt": "2025-12-18T19:20:16Z"
-    },
-    {
-      "title": "Gemini app now lets you edit with Nano Banana by drawing, detect AI videos - 9to5Google",
-      "description": "The Gemini app is adding a “new way to prompt with Nano Banana” by drawing or annotating directly on images.",
-      "url": "http://9to5google.com/2025/12/18/gemini-nana-banana-drawing/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Gemini-Nano-Banana-draw-web.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "NotebookLM now uses Gemini 3, adds new ‘Data Tables’ output - 9to5Google",
+      "description": "NotebookLM is getting in a few more features before the holidays, including an upgrade to Gemini 3 and Data Tables.",
+      "url": "http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/NotebookLM-Data-Tables-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2025-12-18T19:13:00Z"
+      "publishedAt": "2025-12-19T23:02:00Z"
     },
     {
-      "title": "This $600 Dress Watch Dials in on the Year’s Hottest High-End Trends - Gear Patrol",
-      "description": "Swedish boutique watchmaker Anders & Co. offers a classic stone dial dress watch in five variations at a price most watch fans can afford.",
-      "url": "https://www.gearpatrol.com/watches/anders-and-co-ac2-volcan/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/12/anders-and-co-ac2-volcan-hed-gear-patrol.webp",
-      "source": "Gear Patrol",
-      "publishedAt": "2025-12-18T19:06:09Z"
-    },
-    {
-      "title": "Fortnite Winterfest 2025: Collabs, Cosmetics, Gameplay Changes, And Everything Else To Know - GameSpot",
-      "description": "There's less Harry Potter than you'd think.",
-      "url": "https://www.gamespot.com/gallery/fortnite-winterfest-2025-collabs-cosmetics-gameplay-changes-and-everything-else-to-know/2900-7362/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1757/17577455/4625603-fortnitewinterfestkeyart.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-12-18T18:36:13Z"
-    },
-    {
-      "title": "Baldur’s Gate 3 Director Says It Would Be ‘Irresponsible’ Not To Experiment With AI - Kotaku",
-      "description": "The Larian CEO has been facing backlash from angry fans",
-      "url": "https://kotaku.com/baldurs-gate-3-director-says-it-would-be-irresponsible-not-to-experiment-with-ai-2000654633",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/12/Trailer-Screenshots_08-e1765894076139-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2025-12-18T18:29:10Z"
-    },
-    {
-      "title": "Where's the Spotify-style Xbox Wrapped for 2025? It's not coming this year, but there might be a good reason. - Windows Central",
-      "description": "Some of you have been asking if Xbox is doing its own \"Wrapped\" this year, akin to Spotify. The answer is no, but there is good stuff on the horizon.",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-is-not-doing-an-xbox-wrapped-this-year-but-does-have-big-plans-for-the-25th-anniversary",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hFVCgW6FozFKcsqWX987BE-2048-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-12-18T18:23:08Z"
-    },
-    {
-      "title": "Riot Games found a motherboard security flaw that helps PC cheaters - The Verge",
-      "description": "Riot Games says a security flaw in many recent motherboards could be exploited by cheaters undetected. Asus and MSI have released BIOS updates to address the issue.",
-      "url": "https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/egs-valorant-riotgames-g1a-02-1920x1080-580683fffe0f.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "Gemini isn’t replacing Google Assistant on Android just yet - The Verge",
+      "description": "Google is pushing back its timeline for replacing Google Assistant with Gemini on Android, as it now says it will continue upgrading devices into 2026, rather than by the end of 2025.",
+      "url": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DSC09345_processed.webp?quality=90&strip=all&crop=0%2C11.11593343362%2C100%2C77.76813313276&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-12-18T18:01:51Z"
+      "publishedAt": "2025-12-19T22:39:14Z"
     },
     {
-      "title": "The Midnight Pre-Expansion Content Update Goes Live January 20! - Blizzard News",
-      "description": "The first shadows of the Void fall upon Azeroth as the Midnight Pre-Expansion Content Update goes live January 20. Players can explore the new User Interface (UI) updates, experiment with new combat design changes across all classes, walk the path of the Demo…",
-      "url": "https://news.blizzard.com/en-us/article/24245217/the-midnight-pre-expansion-content-update-goes-live-january-20",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/ks/KSSY6ZJDPCGY1766077810560.jpg",
-      "source": "Blizzard.com",
-      "publishedAt": "2025-12-18T18:00:00Z"
+      "title": "Nintendo Might Change The Switch 2 Feature Players Complain About Most - GameSpot",
+      "description": "This may be a welcome development for Nintendo Switch 2 players who hate Game-Key Cards.",
+      "url": "https://www.gamespot.com/articles/nintendo-might-change-the-switch-2-feature-players-complain-about-most/1100-6537120/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4626286-nintendoswitch2logo.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-19T20:40:55Z"
     },
     {
-      "title": "Nominees for Suspension Product of the Year - Pinkbike",
-      "description": "The best boingers of the year, and a clever suspension adjacent invention.",
-      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-suspension-product-of-the-year-nominees.html",
+      "title": "Riot Games is making an anti-cheat change that could be rough on older PCs - Ars Technica",
+      "description": "BIOS checks will only affect a limited subset of Valorant players for now.",
+      "url": "https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/riot-valorant-vanguard-1152x648-1766172890.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-12-19T20:27:36Z"
+    },
+    {
+      "title": "Terminator 2D: No Fate Review - Yesterday’s Battle For Tomorrow - Game Informer",
+      "description": "No Fate is a strong retro adaptation of a beloved film, but it is not without some design annoyances that we’ve moved beyond.",
+      "url": "https://gameinformer.com/review/terminator-2d-no-fate/yesterdays-battle-for-tomorrow",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/65429ed8/term2header.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2025-12-19T20:15:36Z"
+    },
+    {
+      "title": "ChatGPT launches Apps beta: 8 big apps you can try right away - Mashable",
+      "description": "Is this the start of an eventual competitor to the Google and Apple app stores?",
+      "url": "https://mashable.com/article/chatgpt-apps-beta-apps-to-try",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01Tc7kOybAWcE3ovKlhxXKn/hero-image.fill.size_1200x675.v1766090610.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-12-19T18:56:15Z"
+    },
+    {
+      "title": "Strava puts popular “Year in Sport” recap behind an $80 paywall - Ars Technica",
+      "description": "Strava’s most viral feature is suddenly locked away.",
+      "url": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-12-19T17:43:30Z"
+    },
+    {
+      "title": "We asked four AI coding agents to rebuild Minesweeper —the results were explosive - Ars Technica",
+      "description": "How do four modern LLMs do at re-creating a simple Windows gaming classic?",
+      "url": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-gpu-minsweeper-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-12-19T17:29:40Z"
+    },
+    {
+      "title": "Kojima On AI: \"We Can't Go Back\" - GameSpot",
+      "description": "\"I think there isn't any point in saying 'We shouldn't use AI' or 'AI is useless.'\"",
+      "url": "https://www.gamespot.com/articles/kojima-on-ai-we-cant-go-back/1100-6537112/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4626250-ds2.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-19T17:25:47Z"
+    },
+    {
+      "title": "The single best software upgrade I made to my Samsung phone wasn't a productivity suite; it was a tiny utility - Android Police",
+      "description": "My favorite Samsung upgrade",
+      "url": "https://www.androidpolice.com/single-best-software-upgrade-made-to-samsung-phone-wasnt-a-productivity-suite-it-was-a-tiny-utility/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/06/img_0507.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2025-12-19T17:15:00Z"
+    },
+    {
+      "title": "Free goodies for the 12 Days of Mercenary Day! - Borderlands | Official Website",
+      "description": "Celebrate the season with a series of festive Borderlands 4 freebies on our social channels!",
+      "url": "https://borderlands.2k.com/borderlands-4/news/12-days-of-mercenary-day/",
+      "urlToImage": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
+      "source": "2k.com",
+      "publishedAt": "2025-12-19T17:02:20Z"
+    },
+    {
+      "title": "Mountain Bike of the Year Nominees - Pinkbike",
+      "description": "This year's contenders include everything from a World Cup winning DH machine to a fast and friendly trail bike.",
+      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-nominees.html",
       "urlToImage": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg",
       "source": "Pinkbike.com",
-      "publishedAt": "2025-12-18T17:00:00Z"
+      "publishedAt": "2025-12-19T17:00:00Z"
     },
     {
-      "title": "I'm Giving This Handy Bluetooth Dongle to Every Traveler on My List This Year. Here's Why - CNET",
-      "description": "Looking for a gift for the globe-trotter in your life? The AirFly Pro has been a game changer for me on flights.",
-      "url": "https://www.cnet.com/deals/im-giving-this-handy-bluetooth-dongle-to-every-traveler-on-my-list-this-year-heres-why/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/b382d13a6847a1799d4eb44bdb5996a050214596/hub/2025/12/15/ba7ca25b-d496-4235-bb28-de3a677e48eb/airfly-pro.jpg?auto=webp&fit=crop&height=675&precrop=1920,1080,x0,y0&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-12-18T17:00:00Z"
-    },
-    {
-      "title": "Stardew Valley 1.7 Update Will Feature New Farm Type And \"Lots More\" - GameSpot",
-      "description": "Meanwhile, an update on the Switch 2 version should be coming soon.",
-      "url": "https://www.gamespot.com/articles/stardew-valley-1-7-update-will-feature-new-farm-type-and-lots-more/1100-6537084/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1813/18138562/4625640-stardewvalleyart.jpg",
+      "title": "The Best RPGs Of 2025 According To Metacritic - GameSpot",
+      "description": "This year's best role-playing games took us to faraway fantasy lands, worlds of fiction, and new frontiers.",
+      "url": "https://www.gamespot.com/gallery/the-best-rpgs-of-2025-according-to-metacritic/2900-7301/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4623024-mc-rpgs.jpg",
       "source": "GameSpot",
-      "publishedAt": "2025-12-18T16:48:32Z"
+      "publishedAt": "2025-12-19T17:00:00Z"
     },
     {
-      "title": "How Atlas Obscura plans to embrace the 3D web - The Verge",
-      "description": "The Obscura Society will be a virtual lounge that Atlas Obscura community members can visit to hang out with the help of 3D avatars, have voice chats, and explore places from the site’s massive catalog together.",
-      "url": "https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Atlas-Obscura-Meta-app.png?quality=90&strip=all&crop=0%2C2.6220113231659%2C100%2C94.755977353668&w=1200",
+      "title": "Netflix acquires gaming avatar maker Ready Player Me - TechCrunch",
+      "description": "The gaming startup will allow Netflix subscribers to create avatars that can extend across gaming titles.",
+      "url": "https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/imgi_11_asset_morphing.webp?w=747",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-19T17:00:00Z"
+    },
+    {
+      "title": "Palmer Luckey’s Retro Gaming Company Is Selling A Game Boy Made Of The Same Metal As Attack Drones - Kotaku",
+      "description": "The Anduril Chromatic device is made for ‘performance and reliability’ in case you’re playing Tetris in a warzone, I guess?",
+      "url": "https://kotaku.com/modretro-anduril-chromatic-attack-drone-metal-luckey-2000654868",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/image-1-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-19T16:56:08Z"
+    },
+    {
+      "title": "Blizzard President Talks Culture, Bonuses and Releasing More Games - Bloomberg.com",
+      "description": "Johanna Faries, who took over as president of Blizzard in 2024, reveals what’s coming from the storied studio",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-12-19/blizzard-president-johanna-faries-on-culture-bonuses-and-releasing-more-games",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ4oKPD.8xt0/v0/1200x675.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-12-19T16:34:35Z"
+    },
+    {
+      "title": "YouTube Shorts is testing a new location and fresh phrasing for its Dislike button - 9to5Google",
+      "description": "Google is testing out new ways to improve dislikes on YouTube Shorts, and it could come with hiding the button in a new menu.",
+      "url": "http://9to5google.com/2025/12/19/youtube-shorts-testing-new-location-fresh-phrasing-dislike-button/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-12-19T16:33:00Z"
+    },
+    {
+      "title": "Who owns Trump Mobile? - The Verge",
+      "description": "Which part of the Trump empire owns Trump Mobile, and how does a former FBI agent in Florida fit in?",
+      "url": "https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-12-18T16:30:00Z"
+      "publishedAt": "2025-12-19T16:20:27Z"
     }
   ]
 }
