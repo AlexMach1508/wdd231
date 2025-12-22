@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2025-12-21T06:43:39.686Z",
+  "updatedAt": "2025-12-22T06:48:52.575Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Olympia Provisions Recalls Ready-to-Eat Holiday Kielbasa Sausage Products Due to Possible Foreign Matter Contamination | Food Safety and Inspection Service - fsis.usda.gov",
+      "title": "Billionaire who sold two companies to Coca-Cola says he tries to persuade people not to become entrepreneurs: ‘Every single day, you can go bankrupt’ - Fortune",
       "description": null,
-      "url": "http://www.fsis.usda.gov/recalls-alerts/olympia-provisions-recalls-ready-eat-holiday-kielbasa-sausage-products-due-possible",
-      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "source": "Usda.gov",
-      "publishedAt": "2025-12-19T23:26:20Z"
+      "url": "https://fortune.com/article/should-i-be-an-entrepreneur-mike-repole-career-advice/",
+      "urlToImage": null,
+      "source": "Fortune",
+      "publishedAt": "2025-12-21T05:48:05Z"
     },
     {
-      "title": "Maître Saladier Inc. Recalls Lorraine Quiche Products Imported Without Benefit of Import Reinspection - fsis.usda.gov",
+      "title": "PG&E outages in S.F. leave 130,000 without electricity, no timeline for return of power - San Francisco Chronicle",
+      "description": "PG&E outages in S.F. leave 130,000 without power, knock out street lights, disrupt BART, Muni. The company expects power to return Saturday night.",
+      "url": "https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/55/45/14/28726078/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2025-12-21T04:24:20Z"
+    },
+    {
+      "title": "Powerball winning numbers for Dec. 20 drawing; $1.5 billion jackpot - USA Today",
+      "description": "You can get another chance to win Powerball's 5th largest jackpot as more than $1.5 billion is on the line.",
+      "url": "https://www.usatoday.com/story/money/lottery/2025/12/20/powerball-jackpot-winning-numbers/87825158007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/18/USAT/87826088007-20251217-t-210140-z-52548940-rc-2-iiiattods-rtrmadp-3-usapowerball.JPG?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-12-21T03:39:54Z"
+    },
+    {
+      "title": "Light rail service to halt between Capitol Hill and Stadium stations overnight - KOMO",
+      "description": "Link light rail service will be temporarily suspended between Capitol Hill and Stadium stations overnight.",
+      "url": "https://komonews.com/news/local/sound-transit-link-light-rail-suspended-overnight-orca-card-train-commuter-weekend-closure-overnight-transportation-travel-downtown-seattle-stadium-capitol-hill",
+      "urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/c95112e9-d9cc-425e-989c-653f33d42a26-thumbnail_LINKLIGHTRAIL_1.1.1.jpg",
+      "source": "KOMO News",
+      "publishedAt": "2025-12-21T01:41:05Z"
+    },
+    {
+      "title": "Bill Ackman proposes SpaceX IPO via Sparc merger (SPACE:Private) - Seeking Alpha",
+      "description": "Billionaire investor Bill Ackman pitched an innovative approach to taking SpaceX (SPACE) public through a merger with Pershing Square SPARC Holdings (SPAIF).",
+      "url": "https://seekingalpha.com/news/4533839-bill-ackman-proposes-spacex-ipo-via-sparc-merger",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/586859142/image_586859142.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "publishedAt": "2025-12-21T01:34:34Z"
+    },
+    {
+      "title": "Elon Musk adds to his $679 billion fortune after Delaware court awards him $55 billion pay package - Fortune",
+      "description": "In 2024, Chancellor Kathaleen St. Jude McCormick rescinded the compensation in a case brought by a disgruntled Tesla shareholder.",
+      "url": "https://fortune.com/2025/12/20/elon-musk-net-worth-679-billion-fortune-delaware-court-55-billion-tesla-pay-package/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25345619479975-e1766276348254.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-12-21T00:25:00Z"
+    },
+    {
+      "title": "Walmart employee nearly doubled her pay after entering its pipeline for skilled tradespeople - Fortune",
+      "description": "“I have my own apartment. I was able to get a car, and and I’m able to give more to my 401(k).”",
+      "url": "https://fortune.com/2025/12/20/walmart-employee-double-pay-skilled-trades-training/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25350714086066-e1766275701937.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-12-21T00:17:00Z"
+    },
+    {
+      "title": "The Fight Over the Next Fed Chair Is Spilling Out Across D.C. and Wall Street - The Wall Street Journal",
       "description": null,
-      "url": "http://www.fsis.usda.gov/recalls-alerts/maitre-saladier-inc--recalls-lorraine-quiche-products-imported-without-benefit",
-      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "source": "Usda.gov",
-      "publishedAt": "2025-12-19T22:47:25Z"
+      "url": "https://www.wsj.com/politics/policy/the-fight-over-the-next-fed-chair-is-spilling-out-across-d-c-and-wall-street-14761d86",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-12-20T22:07:00Z"
     },
     {
-      "title": "Ford recalls more than 270,000 electric and hybrid vehicles due to roll-away risk - ABC News",
-      "description": "Ford is recalling more than 270,000 electric and hybrid vehicles in the U.S. because of a parking function problem that could lead to them rolling away",
-      "url": "https://abcnews.go.com/Business/wireStory/ford-recalls-270000-electric-hybrid-vehicles-due-roll-128557286",
-      "urlToImage": "https://i.abcnewsfe.com/a/5967efcc-9d28-42f7-9be4-64bc7e784b28/wirestory_d8f0f16bd0d9485700dea08a3f600155_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-12-19T22:19:03Z"
+      "title": "DC gas prices rank among nation’s highest as national average falls - WTOP",
+      "description": "Drivers in the D.C. area are still paying among the highest gas prices in the country, according to a new AAA fuel report.",
+      "url": "https://wtop.com/local/2025/12/dc-gas-prices-rank-among-nations-highest-as-national-average-falls/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2023/11/GettyImages-1388800092-1.png",
+      "source": "WTOP",
+      "publishedAt": "2025-12-20T20:14:07Z"
     },
     {
-      "title": "Department of Justice Files Statement of Interest Supporting Competition Among Real Estate Brokerages - Department of Justice (.gov)",
-      "description": "Today, the Antitrust Division of the Department of Justice filed a statement of interest in the U.S. District Court for the Eastern District of Pennsylvania in the case of Davis et al. v. Hanna Holdings Inc. The lawsuit, brought by homebuyers, alleges that re…",
-      "url": "https://www.justice.gov/opa/pr/department-justice-files-statement-interest-supporting-competition-among-real-estate",
-      "urlToImage": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
-      "source": "Justice.gov",
-      "publishedAt": "2025-12-19T22:18:38Z"
-    },
-    {
-      "title": "CNBC anchor who blasted Trump’s ‘insane’ tariffs is now shocked by ‘very, very low’ inflation. How to capitalize in 2026 - Yahoo Finance",
-      "description": "Liesman wasn’t alone in his reaction.",
-      "url": "https://finance.yahoo.com/news/cnbc-anchor-blasted-trump-insane-220300299.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/0c47cea246428d840d4098f02b430bce",
+      "title": "AI Boom Brings Flood of Debt to Ultrasafe Market: Credit Weekly - Yahoo Finance",
+      "description": "Bond sales by US utilities grew 19% this year to a record $158 billion, funding rampant growth in power demand driven by the artificial-intelligence boom.  A...",
+      "url": "https://finance.yahoo.com/news/ai-boom-brings-flood-debt-200000578.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jh1EzfD6BgfRNE_W1QWt9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/fc4bf036fd20baf34e253dfad157ee42",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-19T22:03:00Z"
+      "publishedAt": "2025-12-20T20:00:00Z"
     },
     {
-      "title": "Last Full Trading Week of 2025 Brings Treasury Yields Lower - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-ahead-of-bojs-monetary-policy-decision-2aa0922e",
-      "urlToImage": null,
+      "title": "The Netflix Chief Who Insists He Won’t Ruin Hollywood - wsj.com",
+      "description": "Ted Sarandos, a movie buff and one-time video-store clerk, may soon oversee the iconic Warner Bros. studio",
+      "url": "https://www.wsj.com/business/media/netflix-ted-sarandos-1752aa9c",
+      "urlToImage": "https://images.wsj.net/im-10355354/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-19T21:45:00Z"
+      "publishedAt": "2025-12-20T17:35:40Z"
     },
     {
-      "title": "Stock Market on Dec. 19, 2025: Dow, S&P 500, Nasdaq close higher amid AI-trade comeback; S&P 500 ekes out weekly gain after tech rally on Friday - MarketWatch",
-      "description": "The U.S. stock market ended higher Friday, as the S&P 500's tech sector saw it best day in nearly a month.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-to-be-hit-by-nike-but-s-p-500-and-nasdaq-seen-extending-gains",
-      "urlToImage": "https://images.mktw.net/im-39286769/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-12-19T21:43:00Z"
+      "title": "Do it for Trump: Treasury pushes businesses, wealthy people to contribute to 'Trump Accounts' - Politico",
+      "description": "A pair of major contributions from business titans recently is part of a strategy to pump money into the new savings plans for children.",
+      "url": "https://www.politico.com/news/2025/12/20/treasury-hopes-to-juice-trump-accounts-with-appeals-to-philanthropists-corporations-00698179",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7d%2F6d%2Ff9f938a24b9f927c78302b32816a%2Funlimiteduse-12-02-2025-024.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-12-20T16:54:32Z"
     },
     {
-      "title": "Rocket Lab Awarded $816M Prime Contract to Build Missile- Defense Satellite Constellation for U.S. Space Force - Rocket Lab",
-      "description": "Rocket Lab’s largest contract to date solidifies its position as a disruptive force in national security space, redefining the speed and efficiency of satellite production and challenging legacy aerospace primes.",
-      "url": "https://rocketlabcorp.com/updates/rocket-lab-awarded-816m-prime-contract-to-build-missile-defense-satellite-constellation-for-u-s-space-force/",
-      "urlToImage": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-      "source": "Rocketlabcorp.com",
-      "publishedAt": "2025-12-19T21:06:48Z"
+      "title": "Why California could be contending with $5 gas next year - CNN",
+      "description": "California could soon be running short of gasoline, potentially hiking some of the highest gas prices in the country.",
+      "url": "https://www.cnn.com/2025/12/20/business/california-gas-prices-closing-refineries",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185678414.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-12-20T16:01:01Z"
     },
     {
-      "title": "Cytokinetics Announces FDA Approval of MYQORZO™ (aficamten) for the Treatment of Adults with Symptomatic Obstructive Hypertrophic Cardiomyopathy to Improve Functional Capacity and Symptoms - Cytokinetics",
-      "description": "MYQORZO, a Cardiac Myosin Inhibitor, Directly Addresses Underlying Hypercontractility Associated with Obstructive HCM FDA Approval Based on Results of SEQUOIA-HCM MYQORZO is Company’s First FDA-Approved Medicine Company to Host Investor Conference Call Today …",
-      "url": "https://ir.cytokinetics.com/press-releases/press-release-details/2025/Cytokinetics-Announces-FDA-Approval-of-MYQORZO-aficamten-for-the-Treatment-of-Adults-with-Symptomatic-Obstructive-Hypertrophic-Cardiomyopathy-to-Improve-Functional-Capacity-and-Symptoms/default.aspx",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/b9f8fb42-7a54-4595-ac4a-01d585228003/mqrz-us-tm-admdos-rgb-fc-pos.png",
-      "source": "Cytokinetics.com",
-      "publishedAt": "2025-12-19T21:01:58Z"
+      "title": "Johnson & Johnson owes $65.5 million to a woman with cancer who used talcum powder - NBC News",
+      "description": "A Minnesota jury awarded $65.5 million on Friday to a mother of three who claimed talcum products made by Johnson & Johnson exposed her to asbestos and contributed to her developing cancer in the lining of her lungs.",
+      "url": "https://www.nbcnews.com/news/us-news/johnson-johnson-owes-655-million-woman-cancer-used-talcum-powder-rcna250209",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251220-jonhson-jonhson-ch-0928-413b2a.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-12-20T14:54:42Z"
     },
     {
-      "title": "Removed Ben & Jerry's chair says Magnum aimed to 'smear' her - BBC",
-      "description": "Anuradha Mittal was ejected from the board of the ice cream maker this week.",
-      "url": "https://www.bbc.com/news/articles/cn98pzr8x79o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1326/live/40744f10-dd03-11f0-a22a-056be4e9e2e8.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-19T20:48:44Z"
+      "title": "Oracle just made a power move Wall Street can’t ignore - thestreet.com",
+      "description": "A quiet shift in Oracle’s strategy is changing how investors see its future.",
+      "url": "https://www.thestreet.com/investing/oracle-just-made-a-power-move-wall-street-cant-ignore",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODAxNTM4/washington-dc-january-21-oracle-co-founder-cto-and-executive-chairman-larry-ellison-speaks-during-a-news-conference-with-us-president-donald-trump-in-the-roosevelt-room-of-the-white-house-on-january-2.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-12-20T14:43:00Z"
     },
     {
-      "title": "OpenAI’s Stargate Data Center Approved in Michigan as American Anger Starts to Boil - Gizmodo",
-      "description": "The data center backlash has begun.",
-      "url": "https://gizmodo.com/openais-stargate-data-center-approved-in-michigan-as-american-anger-starts-to-boil-2000701890",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/data-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-12-19T19:15:24Z"
+      "title": "Shift in Modern Warfare Turns Defense Firms Into Growth Stocks - Yahoo Finance",
+      "description": "While weaponry behemoths like fighter-jet maker Lockheed Martin Corp. and missile producer RTX Corp. still occupy a key corner of most stock portfolios...",
+      "url": "https://finance.yahoo.com/news/shift-modern-warfare-turns-defense-140000125.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/s7FJPOpmVOAfkXTWqVGBzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b922d8d4b20dc3edbb9af4aee3882622",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-12-20T14:00:00Z"
     },
     {
-      "title": "PCAOB to Cut Chair’s Pay by More Than Half Amid SEC Pressure - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/articles/pcaob-to-cut-chairs-pay-by-more-than-half-amid-sec-pressure-f68bb829",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-19T18:42:00Z"
-    },
-    {
-      "title": "Black employment milestone evaporates - Axios",
-      "description": "Labor market conditions for Black Americans are worsening more rapidly than they are for the overall population.",
-      "url": "https://www.axios.com/2025/12/19/trump-jobs-black-unemployment-rate",
-      "urlToImage": "https://images.axios.com/ulPZS0LCSbBUjVFW0RqyXmTBL08=/0x0:1600x900/1366x768/2025/12/19/1766167003089.png",
-      "source": "Axios",
-      "publishedAt": "2025-12-19T18:07:53Z"
-    },
-    {
-      "title": "Visa, Mastercard to pay $167.5 million in ATM user fee settlement​ - CNBC",
-      "description": "Visa and Mastercard have agreed to pay a combined $167.5 million to settle a class action lawsuit accusing them of conspiring to keep ATM access fees high.",
-      "url": "https://www.cnbc.com/2025/12/19/visa-mastercard-atm-user-fee-settlement.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223642-1762789692425-gettyimages-2224936870-AA_18072025_2335251.jpeg?v=1766161850&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-19T18:04:45Z"
-    },
-    {
-      "title": "CONGRESSMAN PAT RYAN DEMANDS FTC INVESTIGATION INTO COLLECTORS HOLDINGS’ ATTEMPT TO MONOPOLIZE TRADING CARD GRADING - House.gov",
-      "description": "Collectors’ dominance is compounded by vertical integration; it controls grading capacity, pricing analytics through CardLadder, and participates in buying and selling graded cards—creating severe conflicts of interest",
-      "url": "http://patryan.house.gov/media/press-releases/congressman-pat-ryan-demands-ftc-investigation-collectors-holdings-attempt",
-      "urlToImage": "https://patryan.house.gov/sites/evo-subsites/patryan.house.gov/files/evo-media-image/PatRyan_opengraph_1.png",
-      "source": "House.gov",
-      "publishedAt": "2025-12-19T17:19:26Z"
-    },
-    {
-      "title": "American Airlines makes basic economy less rewarding - Axios",
-      "description": "American Airlines will no longer award AAdvantage miles or Loyalty Points on basic economy fares.",
-      "url": "https://www.axios.com/local/charlotte/2025/12/19/american-airlines-basic-economy-aadvantage-miles-perks",
-      "urlToImage": "https://images.axios.com/jUeBQEmlvRqCE13yz9o1_RbXW3U=/0x0:4032x2268/1366x768/2024/05/07/1715102456269.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-12-19T16:05:28Z"
-    },
-    {
-      "title": "How Ford’s bet on an electric ‘truck of the future’ led to a $19.5bn writedown - Financial Times",
-      "description": "The F-150 Lightning economics did not add up but also reflected industry-wide miscalculation of US EV uptake",
-      "url": "https://www.ft.com/content/72aa1e28-acdf-4b21-a601-bc380f6d0fcf",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73b5ff68-d259-48b0-91e1-cffca10d11d8.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-12-19T16:00:13Z"
-    },
-    {
-      "title": "6 Scary Predictions for AI in 2026 - WIRED",
-      "description": "Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?",
-      "url": "https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/",
-      "urlToImage": "https://media.wired.com/photos/6941b33591ee19520c4c54ed/191:100/w_1280,c_limit/Backchannel-2026-Predictions-Business-1454862003.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-12-19T16:00:00Z"
-    },
-    {
-      "title": "French court rejects Shein website ban over childlike sex dolls - BBC",
-      "description": "The fast-fashion giant welcomed the judgement and said its priority remains protecting French consumers.",
-      "url": "https://www.bbc.com/news/articles/c5y9x4pj54eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46fc/live/702e6780-dceb-11f0-afe3-9729680155d8.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-19T15:49:16Z"
+      "title": "A lose-lose legal battle? Michigan township defends decision to settle on OpenAI data center - MLive.com",
+      "description": "The rural Michigan community faces fierce criticism after settling a lawsuit that allowed a massive AI facility on farmland to move forward.",
+      "url": "https://www.mlive.com/news/ann-arbor/2025/12/a-lose-lose-legal-battle-michigan-township-defends-decision-to-settle-on-openai-data-center.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/G5HIVGJQCJEMNJ4II34PZXGDGQ.jpeg?auth=f6b8b864731cde05c488cc827c27a031f54e97739fda32a6551947cfaee2bb24&width=1280&smart=true&quality=90",
+      "source": "mlive.com",
+      "publishedAt": "2025-12-20T12:00:00Z"
     }
   ]
 }
