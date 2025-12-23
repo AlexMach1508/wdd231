@@ -1,151 +1,127 @@
 {
-  "updatedAt": "2025-12-22T06:48:52.415Z",
+  "updatedAt": "2025-12-23T06:48:51.459Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "At least nine people killed in shooting at South Africa tavern - Al Jazeera",
-      "description": "South African police say a manhunt is under way after a mass shooting killed at least nine people and injured 10.",
-      "url": "https://www.aljazeera.com/news/2025/12/21/at-least-nine-people-killed-in-mass-shooting-in-south-africa",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-04-16T122540Z_868222595_RC2ZYDADI99M_RTRMADP_3_SAFRICA-CRIME-1766295398.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-12-21T05:26:15Z"
-    },
-    {
-      "title": "Game Recap: Bears mount incredible comeback to knock off Packers in OT - Chicago Bears",
-      "description": "Just when you thought you had seen the most dramatic, astonishing, improbable comeback victories by the cardiac Bears this year, they topped each and every one of them Saturday night in the most important game of the season.",
-      "url": "https://www.chicagobears.com/news/game-recap-bears-mount-incredible-comeback-to-knock-off-packers-in-ot-2025-week-16",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/afex6y83ova3hev87ofj",
-      "source": "ChicagoBears.com",
-      "publishedAt": "2025-12-21T05:19:45Z"
-    },
-    {
-      "title": "Powerball winning numbers for Dec. 20 drawing; $1.5 billion jackpot - USA Today",
-      "description": "You can get another chance to win Powerball's 5th largest jackpot as more than $1.5 billion is on the line.",
-      "url": "https://www.usatoday.com/story/money/lottery/2025/12/20/powerball-jackpot-winning-numbers/87825158007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/18/USAT/87826088007-20251217-t-210140-z-52548940-rc-2-iiiattods-rtrmadp-3-usapowerball.JPG?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-12-21T03:39:54Z"
-    },
-    {
-      "title": "Game Recap: Eagles 29, Commanders 18 - Philadelphia Eagles",
-      "description": "The Eagles capture the 2025 NFC East title after beating the Commanders on Saturday night.",
-      "url": "https://www.philadelphiaeagles.com/news/eagles-commanders-live-updates-game-recap-nfc-east-week-16",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/eagles/k4gizfuyp02s399grcxh",
-      "source": "PhiladelphiaEagles.com",
-      "publishedAt": "2025-12-21T02:52:07Z"
-    },
-    {
-      "title": "Weight loss jabs: What happens when you stop taking them? - BBC",
-      "description": "You may have lost the weight you wanted to lose - but now you've stopped the jabs, how easy is it to keep it off?",
-      "url": "https://www.bbc.com/news/articles/cn98pdpyjz5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2583/live/26e92bd0-dcfc-11f0-a8dc-93c15fe68710.jpg",
+      "title": "South East Asian bloc to meet in bid to end Thailand-Cambodia conflict - BBC",
+      "description": "This was the first meeting between officials of Thailand and Cambodia since fighting resumed this month.",
+      "url": "https://www.bbc.com/news/articles/c5ydej888n9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3704/live/f5160cc0-dee7-11f0-8fd8-a790711c1fce.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-21T01:01:53Z"
+      "publishedAt": "2025-12-22T04:27:38Z"
     },
     {
-      "title": "Indie Game Awards disqualify Clair Obscur: Expedition 33 after generative AI controversy - Notebookcheck",
-      "description": "According to a statement issued by the Indie Game Awards, Clair Obscur: Expedition 33 has been stripped of both awards it won. This decision came after producer François Meurisse confirmed the use of generative AI in the game’s development.",
-      "url": "https://www.notebookcheck.net/Indie-Game-Awards-disqualify-Clair-Obscur-Expedition-33-after-generative-AI-controversy.1189979.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Clair-Obscur-Expedition-33-disqualified-from-indie-game-awards.jpg",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2025-12-21T00:45:00Z"
+      "title": "Waymo resumes service in San Francisco after robotaxis stall during blackout - TechCrunch",
+      "description": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+      "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-22T03:24:49Z"
     },
     {
-      "title": "Why Lane Kiffin Earned $250K Contract Bonus from Ole Miss After Leaving for LSU - Bleacher Report",
-      "description": "Lane Kiffin is reportedly getting paid for Ole Miss' victory in the first round of the College Football Playoff despite having left the program in November to join LSU.",
-      "url": "https://bleacherreport.com/articles/25334899-why-lane-kiffin-earned-250k-contract-bonus-ole-miss-after-leaving-lsu",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2249446768_large_cropped_4.jpg?w=3800&h=2000",
-      "source": "Bleacher Report",
-      "publishedAt": "2025-12-21T00:40:58Z"
-    },
-    {
-      "title": "Comedian Bowen Yang announces he's leaving Saturday Night Live - BBC",
-      "description": "Yang, one of the most prominent cast members, also hosts a podcast and stars in the Wicked film series.",
-      "url": "https://www.bbc.com/news/articles/clyz01l98vjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f764/live/23a2d130-ddfe-11f0-b99e-e7faeaaf55fa.jpg",
+      "title": "Bourbon maker Jim Beam halts production at main distillery for a year - BBC",
+      "description": "US distillers face uncertainty after President Trump imposed tariffs on countries around the world.",
+      "url": "https://www.bbc.com/news/articles/cy5gv5z24n2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a032/live/3381ff80-dee5-11f0-a36f-812e620859ee.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-21T00:30:34Z"
+      "publishedAt": "2025-12-22T03:05:17Z"
     },
     {
-      "title": "Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown - NPR",
-      "description": "With months-long consulate and embassy delays being reported, the two tech companies say staying put in the U.S. right now could prevent workers from getting stranded in their home countries.",
-      "url": "https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5412x3044+0+353/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fcd%2F481e64bb45a084e74be333ac5273%2Fgettyimages-2226698940-2.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-12-21T00:03:04Z"
+      "title": "CBS News Pulls ‘60 Minutes’ Segment; Correspondent Calls Decision Political - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/business/media/cbs-news-pulls-60-minutes-segment-correspondent-calls-decision-political-841ea812",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-12-22T02:57:00Z"
     },
     {
-      "title": "George Clooney's Sister Adelia Zeidler Dead at 65 - TMZ",
-      "description": "George Clooney's sister Adelia \"Ada\" Zeidler has died ... and, the star has memorialized her with a heartfelt statement.",
-      "url": "https://www.tmz.com/2025/12/20/george-clooneys-sister-dies/",
-      "urlToImage": "https://imagez.tmz.com/image/08/16by9/2025/12/20/08f438aa012e42829532c40a6a6db044_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-12-20T23:51:52Z"
-    },
-    {
-      "title": "Never pay for cloud storage again with this lifetime 20TB deal - Mashable",
-      "description": "Finally, a cloud storage plan you don’t have to upgrade.",
-      "url": "https://mashable.com/article/dec-20-internxt-cloud-storage-lifetime-subscription-20tb",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04PzG4BqqnDsOaa5AFyVV9y/hero-image.fill.size_1200x675.v1765804765.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-20T23:00:00Z"
-    },
-    {
-      "title": "Epstein files include child porn complaint a decade before federal investigation - The Washington Post",
-      "description": "Maria Farmer has long claimed that she warned the FBI about Jeffrey Epstein in the 1990s but that the agency ignored her complaint.",
-      "url": "https://www.washingtonpost.com/politics/2025/12/20/jeffrey-epstein-maria-farmer-fbi/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NECM724CCINGB6W5UGBENHFJUM_size-normalized.jpg&w=1440",
+      "title": "Two lawmakers seek to find Bondi in contempt over Epstein files - The Washington Post",
+      "description": "Justice Department explains deletion of documents on agency’s website, including the temporary disappearance of an image that includes a photo of Trump with bikini-clad women.",
+      "url": "https://www.washingtonpost.com/national-security/2025/12/21/epstein-files-photo-bondi-justice-department/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KUKIF4HLC4Q5KI65ZIILJSUSD4.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-12-20T22:13:51Z"
+      "publishedAt": "2025-12-22T02:30:24Z"
     },
     {
-      "title": "RFK Jr. wanted to endorse the Danish vaccine schedule. He was forced to pull back. - Politico",
-      "description": "Legal and political concerns prompted the health department to cancel a planned announcement on Friday, officials said.",
-      "url": "https://www.politico.com/news/2025/12/20/rfk-kennedy-danish-vaccine-schedule-denmark-00701999",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff4%2Ffa%2F4e51889544bdaa71b552ac1109b5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2214721005",
-      "source": "Politico",
-      "publishedAt": "2025-12-20T22:12:57Z"
+      "title": "Referee Carl Cheffers explains two OPI calls late in Steelers-Lions - NBC Sports",
+      "description": "The ending to Sunday's Steelers-Lions game included not one but two offensive pass interference calls that required further explanation from referee Carl Cheffers.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/referee-carl-cheffers-explains-two-opi-calls-late-in-steelers-lions",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/be17bf3/2147483647/strip/true/crop/7655x4306+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F08%2Fe3baf7b249468a8b3157a5e91419%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2252470722",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-12-22T02:28:56Z"
     },
     {
-      "title": "‘Forever Chemicals’ Linked to Another Health Condition, Study Says - AOL.com",
-      "description": "Researchers have found a new link between exposure to ‘forever chemicals’ and one lifelong health condition. A Sweden-based study found that people exposed to two major environmental toxins are more likely to be diagnosed with multiple sclerosis.",
-      "url": "https://people.com/forever-chemicals-linked-to-another-health-condition-multiple-sclerosis-study-says-11873993",
-      "urlToImage": "https://people.com/thmb/OrkfzolBbZyQHjuzOHxpO3KiIpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/cookware-122025-2-4ebcfa3f3746483fb4305ab1fff360d1.jpg",
-      "source": "PEOPLE",
-      "publishedAt": "2025-12-20T20:46:28Z"
+      "title": "Donkey Kong Bananza 3.0.0 update out now, patch notes - Nintendo Everything",
+      "description": "Donkey Kong Bananza has just received a new version 3.0.0 update from Nintendo, and here are the patch notes.",
+      "url": "https://nintendoeverything.com/donkey-kong-bananza-3-0-0-update-out-now-patch-notes/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Donkey-Kong-Bananza-3.0.0-update.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2025-12-22T01:14:26Z"
     },
     {
-      "title": "Rob Reiner's son Nick still on suicide watch, in solitary confinement after being charged with parents' murders - Entertainment Weekly",
-      "description": "Rob Reiner's son Nick Reiner remains on suicide watch and is in solitary confinement after being charged with his parents' murders, a police source says.",
-      "url": "https://ew.com/rob-reiner-son-nick-suicide-watch-solitary-confinement-after-murder-charges-11873992",
-      "urlToImage": "https://ew.com/thmb/1ociPDk2c8OfSGJX-14EN8olj00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nick-reiner-spinal-tap-ii-premiere-los-angeles-121625-6a40ed9c14ab4301897d45a6b8850da6.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2025-12-20T19:59:48Z"
+      "title": "Expert Predictions: Week 16 Picks for Patriots at Ravens - Official website of the New England Patriots",
+      "description": "Experts share their picks for the Patriots Week 16 matchup against the Baltimore Ravens.",
+      "url": "https://www.patriots.com/news/expert-predictions-week-16-picks-for-patriots-at-ravens",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ovsvz2g5lgha8lpk2xcp",
+      "source": "Patriots.com",
+      "publishedAt": "2025-12-22T00:44:08Z"
     },
     {
-      "title": "‘Super flu’ hitting these states the hardest: Here are the symptoms - AL.com",
-      "description": "Hospitalization rates went up by 14.3% nationwide as of Friday.",
-      "url": "https://www.al.com/news/2025/12/super-flu-hitting-these-states-the-hardest-here-are-the-symptoms.html",
-      "urlToImage": "https://www.al.com/resizer/v2/3L2LQYSDG5ESTJXQJ4RED7OSYY.jpeg?auth=c1ff84721d184f2a71da27a3ea12d0e86864f03d81420b7991c477ffc824aa17&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-12-20T19:04:00Z"
+      "title": "Flu season could get a lot worse in the coming weeks, experts say - The Seattle Times",
+      "description": "The flu concern stems from a new strain called subclade K, which is a subtype of H3N2.",
+      "url": "https://www.pilotonline.com/2025/12/20/flu-season-concerns-uva/",
+      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2025/05/Flu_Vaccine_Canceled_17103.jpg?w=1024&h=682",
+      "source": "The Virginian-Pilot",
+      "publishedAt": "2025-12-22T00:00:03Z"
     },
     {
-      "title": "Box Office: ‘Avatar: Fire and Ash’ Ignites to $36.5 Million on Opening Day - Variety",
-      "description": "James Cameron's thrid 'Avatar' film grossed $36.5 million on its opening day.",
-      "url": "https://variety.com/2025/film/news/box-office-avatar-fire-and-ash-james-cameron-the-housemaid-1236613405/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/3040A_0200_v1271.L.1025.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-20T17:01:00Z"
+      "title": "NFL will take closer look at DK Metcalf fan contact on Monday - NBC Sports",
+      "description": "Precedent, we're told, points to a fine. The league will study the Metcalf incident tomorrow.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-take-closer-look-at-dk-metcalf-fan-contact-on-monday",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/54a069d/2147483647/strip/true/crop/3905x2197+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F04%2F1a60b88746879a0fb0db4bd05465%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2253049286",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-12-21T23:59:05Z"
     },
     {
-      "title": "Rare look inside the secret LEGO Museum reveals the system behind a toy giant's remarkable longevity - CBS News",
-      "description": "To what does LEGO owe its remarkable half-century success story? CBS News visits the toy giant's Denmark headquarters to find out.",
-      "url": "https://www.cbsnews.com/news/lego-secret-museum-denmark-headquarters/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/20/892cced9-5cc1-4c5b-858a-2f8bb9203de4/thumbnail/1200x630/9fca7adc0b3bc199c2ad294b668b58ec/1766240060676.png",
+      "title": "‘Remember that sequence when they take the QB next April’: What social media said after Browns lose to Bills - Cleveland.com",
+      "description": "See how social media reacted to the Browns' loss to the Bills on Sunday.",
+      "url": "https://www.cleveland.com/browns/2025/12/remember-that-sequence-when-they-take-the-qb-next-april-what-social-media-said-after-browns-lose-to-bills.html",
+      "urlToImage": "https://www.cleveland.com/resizer/v2/E7XQLIZ5JNBFLLHDCKVIAHZI7I.JPG?auth=b89165d0bdfaf5843a1eddd9872ebdc0cd0c9325791a6aa792e894050c31b2f6&width=1280&smart=true&quality=90",
+      "source": "cleveland.com",
+      "publishedAt": "2025-12-21T23:03:00Z"
+    },
+    {
+      "title": "Suspected Brown and MIT professor shooter showed signs of anger, former friend says - CBS News",
+      "description": "A former friend of the man accused​ of the deadly Brown University shooting​ and killing an MIT professor​ described him as a \"socially awkward\" person who showed signs of anger during their time on campus together.",
+      "url": "https://www.cbsnews.com/boston/news/brown-and-mit-shooter-claudio-manuel-neves-valente-friend/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/21/f0bf37b4-8d31-430f-9f06-fc301ec350c1/thumbnail/1200x630/17e781f8a63740ec9d612ec19b065910/gettyimages-2251794534-1.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-12-20T16:16:25Z"
+      "publishedAt": "2025-12-21T22:29:43Z"
+    },
+    {
+      "title": "Scientists say they have discovered 20 new species deep in the Pacific Ocean - NPR",
+      "description": "Researchers retrieved reef monitoring devices that had been placed in deep coral reefs in Guam. The devices were placed up to 330 feet below the surface.",
+      "url": "https://www.npr.org/2025/12/21/nx-s1-5650781/new-species-deep-pacific-ocean",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5120x2880+0+267/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F73%2F5bcd2fac4fabb1f0640ad3ee1ce1%2F976ec270-33c9-4e16-9fd3-7a98ba99d0b0.JPG",
+      "source": "NPR",
+      "publishedAt": "2025-12-21T22:23:52Z"
+    },
+    {
+      "title": "Video shows moment shoplifting suspect in Ohio pulls out gun, attempts to shoot officer - ABC7 Los Angeles",
+      "description": "A man in Ohio is facing attempted murder charges after he pulled out a gun and attempted to shoot a police officer - and it was all caught on video.",
+      "url": "https://abc7.com/post/video-shows-moment-shoplifting-suspect-ohio-pulls-gun-attempts-shoot-officer/18304908/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18305004_ohio-suspect-gun-video-clean-TN-img.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2025-12-21T21:35:22Z"
+    },
+    {
+      "title": "Vance tries to weather the MAGA storm at Turning Point - Politico",
+      "description": "The weekend-long gathering has been enveloped in intraparty fighting.",
+      "url": "https://www.politico.com/news/2025/12/21/vance-maga-infighting-turning-point-usa-00702396",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0f%2F81%2F3144db084880a1e2031481a3a658%2Fturning-point-45168.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-12-21T20:42:26Z"
     }
   ]
 }

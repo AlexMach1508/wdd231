@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2025-12-22T06:48:52.721Z",
+  "updatedAt": "2025-12-23T06:48:51.970Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "'Enjoying Christmas with our boys is how I'll honour Zoë's memory' - BBC",
-      "description": "Dad-of-two Andrew, 42, shares what he has learned about grief since his wife's sudden death.",
-      "url": "https://www.bbc.com/news/articles/c87lwz5jynro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ce55/live/8d3e57e0-dc46-11f0-83b4-4b97b1cc3247.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-21T02:11:27Z"
-    },
-    {
-      "title": "‘Pluribus’ Cast, Creator Unpack Zosia & Carol’s First Kiss, Budding Romance: “Is It True Love, Or Is It Artifice?” - Deadline",
-      "description": "'Pluribus' cast members Rhea Seehorn, Karolina Wydra and creator Vince Gilligan unpack Zosia and Carol's budding romance, and what it means.",
-      "url": "http://deadline.com/2025/12/pluribus-interview-zosia-carol-kiss-romance-vince-gilligan-1236654442/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/Pluribus_Photo_010804.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-12-21T01:14:00Z"
-    },
-    {
-      "title": "Trump World Is Picking Sides in the Battle for Warner Bros. - wsj.com",
-      "description": "A look at the Trump-aligned players in the multibillion fight between Netflix and Paramount over the future of Warner Bros.",
-      "url": "https://www.wsj.com/business/media/trump-world-is-picking-sides-in-the-battle-for-warner-bros-f281b426",
-      "urlToImage": "https://images.wsj.net/im-57651747/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-21T01:00:00Z"
-    },
-    {
-      "title": "Comedian Bowen Yang announces he's leaving Saturday Night Live - BBC",
-      "description": "Yang, one of the most prominent cast members, also hosts a podcast and stars in the Wicked film series.",
-      "url": "https://www.bbc.com/news/articles/clyz01l98vjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f764/live/23a2d130-ddfe-11f0-b99e-e7faeaaf55fa.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-21T00:30:34Z"
-    },
-    {
-      "title": "Unexpected comebacks and operatic pop: The best albums and songs of 2025 - BBC",
-      "description": "From Pulp's unexpected comeback to Rosalía's experimental pop, here's the best music of the year.",
-      "url": "https://www.bbc.com/news/articles/c9w7qgpnv14o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c893/live/9de13d30-db31-11f0-aae2-2191c0e48a3b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-21T00:26:17Z"
-    },
-    {
-      "title": "'A good meal and a good poo': Kate Winslet describes how she dealt with media intrusion - BBC",
-      "description": "The actor and director recalls being followed by paparazzi, having her phone tapped, and people looking through her bins after she shot to fame.",
-      "url": "https://www.bbc.com/news/articles/c20kymmxmxgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fa4a/live/01ec3040-dd9f-11f0-880c-9f4d353b75c0.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-21T00:25:35Z"
-    },
-    {
-      "title": "Suspect in Encino killings of 'American Idol' music supervisor, husband is ordered sent to state hospital - ABC7 Los Angeles",
-      "description": "A man accused in the killings of an \"American Idol\" music supervisor and her husband inside the couple's Encino home was ordered to be committed to a state hospital.",
-      "url": "https://abc7.com/post/suspect-encino-killings-american-idol-music-supervisor-husband-is-ordered-sent-state-hospital/18303366/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18155263_111425-kabc-encino-two-killed-split-TN.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2025-12-20T23:00:42Z"
-    },
-    {
-      "title": "George Clooney's Sister, Adelia 'Ada' Zeidler, Dies at 65: 'I've Never Met Anyone So Brave' (Exclusive) - Yahoo News Canada",
-      "description": "\"She faced down cancer with courage and humor,\" George told PEOPLE of his older sister",
-      "url": "https://people.com/george-clooney-sister-adelia-ada-zeidler-dies-at-65-ive-never-met-anyone-so-brave-exclusive-11874015",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KqERYapeIsM6VP.Li34PrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/8638777e327052048e27a6e078aa9f32",
-      "source": "PEOPLE",
-      "publishedAt": "2025-12-20T22:40:08Z"
-    },
-    {
-      "title": "Geraldine Brooks takes us on a tour of her home library - The Washington Post",
-      "description": "The bestselling author’s collection isn’t focused on  fancy editions – it’s full of small treasures from a literary life.",
-      "url": "https://www.washingtonpost.com/books/interactive/2025/geraldine-brooks-book-tour/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2OHJHVSRB3EHNJCUUNDGKFBTBQ.jpg&w=1200",
+      "title": "Column | Miss Manners: Fellow shopper accused me of being a ‘Grinch’ - The Washington Post",
+      "description": "Letter writer wouldn’t agree to hold a stranger’s place in line.",
+      "url": "https://www.washingtonpost.com/advice/2025/12/22/miss-manners-holding-place-line/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKXPDRP4QFEP3JGLOEH7BDKT6E.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-12-20T22:00:27Z"
+      "publishedAt": "2025-12-22T06:32:00Z"
     },
     {
-      "title": "Rob Reiner's son Nick still on suicide watch, in solitary confinement after being charged with parents' murders - Entertainment Weekly",
-      "description": "Rob Reiner's son Nick Reiner remains on suicide watch and is in solitary confinement after being charged with his parents' murders, a police source says.",
-      "url": "https://ew.com/rob-reiner-son-nick-suicide-watch-solitary-confinement-after-murder-charges-11873992",
-      "urlToImage": "https://ew.com/thmb/1ociPDk2c8OfSGJX-14EN8olj00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nick-reiner-spinal-tap-ii-premiere-los-angeles-121625-6a40ed9c14ab4301897d45a6b8850da6.jpg",
+      "title": "I Told My Mom I Wanted To Get My Tubes Tied At Age 20. Her Response Changed My Life. - Yahoo Lifestyle Canada",
+      "description": "\"I went and talked to the only person I felt might really understand my need to not mother: my mother.\"",
+      "url": "https://www.buzzfeed.com/lydiapaar/tubal-ligation-20-years-old-mom-tubes-tied",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vVJ8qwnj8V2vcJbHoWzOqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc7Y2Y9d2VicA--/https://media.zenfs.com/en/buzzfeed_articles_778/507b09a7c26099de02cff1d776ab8bb3",
+      "source": "Buzzfeed",
+      "publishedAt": "2025-12-22T03:31:00Z"
+    },
+    {
+      "title": "Kimmel Christmas message to U.K. viewers to hail great year \"from a fascism perspective\" - Axios",
+      "description": "He'll deliver the 2025 Alternative Christmas Message for U.K. viewers on Channel 4 this Thursday.",
+      "url": "https://www.axios.com/2025/12/22/jimmy-kimmel-christmas-message-uk-channel-4",
+      "urlToImage": "https://images.axios.com/GQ33HWZsuXoKKlX1pt17QThrkPw=/0x0:1888x1062/1366x768/2025/12/22/1766363435080.png",
+      "source": "Axios",
+      "publishedAt": "2025-12-22T01:19:08Z"
+    },
+    {
+      "title": "How the 7 Kanneh-Mason siblings became classical music sensations - CBS News",
+      "description": "The Kanneh-Mason family boasts seven classically trained musicians, each under the age of 30. The siblings have toured the world and recorded chart-topping albums.",
+      "url": "https://www.cbsnews.com/news/how-the-7-kanneh-mason-siblings-became-classical-music-sensations-60-minutes-transcript/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/21/d1848c72-1f4b-4ab5-a9ae-5064efa3f342/thumbnail/1200x630/3b7b2a4b8ca260136ea4c4a114cdef81/kanneh-masons-video-wertheim.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-22T00:59:00Z"
+    },
+    {
+      "title": "JoJo Siwa's BF Chris Hughes Addresses Possible Christmas Engagement - Yahoo",
+      "description": "JoJo Siwa's boyfriend Chris Hughes, whom she began dating after they appeared on Celebrity Big Brother U.K. earlier this year, shared his reaction to the...",
+      "url": "https://www.eonline.com/news/1426446/chris-hughes-on-possible-jojo-siwa-proposal-engagement-on-christmas?cmpid=sn-syndicate-aolfeed-us-",
+      "urlToImage": "https://media.zenfs.com/en/e__181/88c883658053f3c27be19448e3de75d8",
+      "source": "Eonline.com",
+      "publishedAt": "2025-12-21T23:29:45Z"
+    },
+    {
+      "title": "Nicki Minaj surprises conservatives with praise for Trump, Vance at Arizona event - WTOP",
+      "description": "The rap star was interviewed at Turning Point USA’s AmericaFest convention by Erika Kirk, the widow of Charlie Kirk, about her newly found support for Trump — someone she had condemned in the past.",
+      "url": "https://wtop.com/national/2025/12/nicki-minaj-surprises-conservatives-with-praise-for-trump-vance-at-arizona-event/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2025/12/Turning_Point_61614-scaled.jpg",
+      "source": "WTOP",
+      "publishedAt": "2025-12-21T21:14:18Z"
+    },
+    {
+      "title": "Box Office ‘Avatar: Fire and Ash’ Powers to $345 Million Globally, ‘Zootopia 2’ Hops to $1.27 Billion - Variety",
+      "description": "\"Avatar: Fire and Ash\" ignited to $345 million in its global box office debut.",
+      "url": "https://variety.com/2025/film/box-office/box-office-avatar-fire-and-ash-global-start-1236613854/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/MCDAVFI_H3003.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-12-21T19:35:00Z"
+    },
+    {
+      "title": "Brooklyn Beckham reportedly 'blocked' his parents David and Victoria amid family rift - KOMO",
+      "description": "After reports surfaced that David and Victoria Beckham unfollowed Brooklyn on Instagram, their youngest son, Cruz, set the record straight.",
+      "url": "https://thenationaldesk.com/news/entertainment/brooklyn-beckham-reportedly-blocked-his-parents-david-and-victoria-amid-family-rift",
+      "urlToImage": "https://thenationaldesk.com/resources/media2/16x9/4452/986/0x103/90/b0d1caf2-2e20-49e8-a793-7e25d8ce8ac6-GettyImages1172019974.jpg",
+      "source": "Thenationaldesk.com",
+      "publishedAt": "2025-12-21T18:32:53Z"
+    },
+    {
+      "title": "Michael Che tricks “SNL” costar Colin Jost into shocking Scarlett Johansson joke: 'I wouldn't have done that one' - Yahoo",
+      "description": "The punchline? A raunchy comment about \"Wednesday\" star Jenna Ortega.",
+      "url": "https://ew.com/snl-michael-che-tricks-colin-jost-into-shocking-scarlett-johansson-joke-11874067",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q8CeuiKcR1wWLKI3jePF4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/entertainment_weekly_785/0c4f51685d27b0950db645d577c494b9",
       "source": "Entertainment Weekly",
-      "publishedAt": "2025-12-20T19:59:48Z"
+      "publishedAt": "2025-12-21T18:20:09Z"
     },
     {
-      "title": "Prince William brings Prince George to volunteer at homelessness charity ahead of Christmas - ABC News",
+      "title": "Country singer from ‘The Voice’ arrested on vehicular homicide warrant - Cleveland.com",
+      "description": "Former \"The Voice\" singer Kata Hay has been arrested in Oklahoma after Tennessee issued a warrant for vehicular homicide in a fatal crash investigation.",
+      "url": "https://www.cleveland.com/news/2025/12/country-singer-from-the-voice-arrested-on-vehicular-homicide-warrant.html",
+      "urlToImage": "https://www.cleveland.com/resizer/v2/7HTH5PNHVNA7HD3IKG27LMTXTU.jpg?auth=71e0d25eb81ab9a610a2a357f7df4cffd014824ad09d468ab4da54cfa6413ba7&width=1280&smart=true&quality=90",
+      "source": "cleveland.com",
+      "publishedAt": "2025-12-21T18:07:00Z"
+    },
+    {
+      "title": "Lily Allen passionately kisses author Jonah Freud after David Harbour split - Page Six",
+      "description": "The “Smile” songstress and the writer were first photographed together in London last month.",
+      "url": "https://pagesix.com/2025/12/21/celebrity-news/lily-allen-kisses-author-jonah-freud-after-david-harbour-split/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/12/117703786.jpg?quality=75&strip=all&w=1200",
+      "source": "Page Six",
+      "publishedAt": "2025-12-21T17:46:00Z"
+    },
+    {
+      "title": "This Is the Only Way to Watch 'A Charlie Brown Christmas' for Free This Year - PCMag",
       "description": null,
-      "url": "https://abcnews.go.com/GMA/Culture/prince-william-brings-prince-george-volunteer-homelessness-charity/story?id\\\\u003d128584316",
+      "url": "https://www.pcmag.com/how-to/this-is-the-only-way-to-watch-a-charlie-brown-christmas-for-free-this-year",
       "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-12-20T19:30:34Z"
+      "source": "PCMag.com",
+      "publishedAt": "2025-12-21T17:34:52Z"
     },
     {
-      "title": "Love from your smartphone: AI marriages in Japan - DW",
-      "description": "In Japan, more people are \"marrying\" virtual partners. Yurina Noguchi’s case shows how AI can seemingly help people to feel less lonely, while also raising ethical questions about love and our dependency on technology.",
-      "url": "https://www.dw.com/en/love-from-your-smartphone-ai-marriages-in-japan/g-75238261",
-      "urlToImage": "https://static.dw.com/image/75217784_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-12-20T18:58:54Z"
-    },
-    {
-      "title": "‘Heated Rivalry’ Star Robbie G.K. on Scott and Kip’s Episode 5 Kiss, Feeling ‘Comfortable’ Filming Sex Scenes and His Mullet-and-Mustache Audition - Variety",
-      "description": "\"Heated Rivalry\" star Robbie G.K. talks about Scott and Kip’s Kiss, feeling \"comfortable'  shooting sex scenes and why he had a mullet and a mustache for his audition.",
-      "url": "https://variety.com/2025/sports/columns/heated-rivalry-robbie-g-k-scott-kip-episode-5-kiss-sex-scenes-mullet-mustache-audition-1236613446/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/francois-arnaud-robbie-g-k-_1.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-20T18:45:00Z"
-    },
-    {
-      "title": "Box Office: ‘Avatar: Fire and Ash’ Ignites to $36.5 Million on Opening Day - Variety",
-      "description": "James Cameron's thrid 'Avatar' film grossed $36.5 million on its opening day.",
-      "url": "https://variety.com/2025/film/news/box-office-avatar-fire-and-ash-james-cameron-the-housemaid-1236613405/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/3040A_0200_v1271.L.1025.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-12-20T17:01:00Z"
-    },
-    {
-      "title": "‘Man of Tomorrow’ Finds Its Brainiac in Lars Eidinger - The Hollywood Reporter",
-      "description": "The German actor will face off against David Corenswet and Nicholas Hoult.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/man-of-tomorrow-finds-its-brainiac-lars-eidinger-1236431393/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/GettyImages-2199366956.jpg?crop=102px%2C209px%2C5332px%2C2982px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-12-20T16:39:39Z"
-    },
-    {
-      "title": "A great artist of the 20th century shows how to lose yourself in work - The Washington Post",
-      "description": "The great American ceramic artist, weaver and painter Toshiko Takaezu is the subject of a beautiful traveling retrospective.",
-      "url": "https://www.washingtonpost.com/entertainment/art/2025/12/20/great-artist-20th-century-shows-how-lose-yourself-work/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WR7GPQMG3ZANFMOF4R2K73MGQY_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-20T16:01:14Z"
-    },
-    {
-      "title": "Dave Chappelle Doesn't 'Feel Guilty at All' for Saudi Arabia Show - The Hollywood Reporter",
-      "description": "In his new Netflix special 'Dave Chappelle: The Unstoppable…,' the comedian said he would \"take money from Saudi Arabia any day\" and spoke about being \"shook\" over the Charlie Kirk shooting.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/dave-chappelle-performing-saudi-arabia-charlie-kirk-1236455890/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/GettyImages-2229139253.jpg?crop=0px%2C0px%2C5000px%2C2798px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-12-20T15:30:30Z"
-    },
-    {
-      "title": "Jillian Lauren Breaks Silence on Aftermath of LAPD Shooting, Divorce From Weezer Bassist - Rolling Stone",
-      "description": "Best-selling author Jillian Lauren breaks her silence on the aftermath of the LAPD shooting and divorce from Weezer bassist Scott Shriner.",
-      "url": "http://www.rollingstone.com/music/music-features/jillian-lauren-lapd-shooting-weezer-bassist-divorce-1235488238/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/jillian-lauren-shooting-weezer-bassist-divorce.jpg?w=1600&h=900&crop=1",
+      "title": "Bowen Yang Delivers an Emotional Goodbye to 'SNL' With Ariana Grande, Cher, Aidy Bryant - Rolling Stone",
+      "description": "Bowen Yang delivered an emotional goodbye to 'Saturday Night Live' in skits featuring Ariana Grande, Cher, and Aidy Bryant.",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/bowen-yang-snl-final-goodbye-ariana-grande-cher-aidy-bryant-1235488524/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/BowenYangFinalSNL-1.jpg?w=1600&h=900&crop=1",
       "source": "Rolling Stone",
-      "publishedAt": "2025-12-20T15:17:35Z"
+      "publishedAt": "2025-12-21T16:24:26Z"
     },
     {
-      "title": "10 Best Documentaries of 2025 - Rolling Stone",
-      "description": "From a true-crime takedown to the danger of talking truth to power — a look back at our favorite docs of the year.",
-      "url": "http://www.rollingstone.com/tv-movies/tv-movie-lists/best-documentaries-2025-1235450202/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/10/Year-In-Review_Best-Docs-2.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-12-20T15:00:00Z"
+      "title": "Sean Ono Lennon on being caretaker of the legacy of John Lennon & Yoko Ono - CBS News",
+      "description": "The musician-songwriter-producer, who says he feels a responsibility to promote his parents' legacy, talks about the animated short inspired by their anti-war anthem, \"Happy Xmas (War Is Over),\" and the new HBO documentary \"One to One: John & Yoko.\"",
+      "url": "https://www.cbsnews.com/news/sean-ono-lennon-on-being-caretaker-of-the-legacy-of-john-lennon-yoko-ono/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/20/82657a86-ce97-43b6-b99b-aa27eda99d2d/thumbnail/1200x630/6e10e2df0dacc34e4722d1a55007b5d2/sean-ono-lennon-1280.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-21T15:09:26Z"
     },
     {
-      "title": "Photo of Andrew lying on laps at Sandringham in new Epstein files - BBC",
-      "description": "The photo appears to have been taken in the saloon room at Sandringham, the royal estate in Norfolk.",
-      "url": "https://www.bbc.com/news/articles/c62d15nypdeo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27c3/live/fdc1a880-dde2-11f0-a8dc-93c15fe68710.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-20T14:14:34Z"
+      "title": "Pentatonix: Friendships and harmonies - CBS News",
+      "description": "The a cappella quintet has won three Grammys and sold 10 million albums. Kirstin Maldonado, Scott Hoying, Mitch Grassi, Kevin Olusola and Matt Sallee talk about bringing their heavenly voices to the sounds of Christmas.",
+      "url": "https://www.cbsnews.com/news/pentatonix-friendships-and-harmonies/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/20/536e6f82-2503-4236-ab29-c4adc895eef9/thumbnail/1200x630/831d401b838c86a5923105ed59d4416b/pentatonix-performs-1280.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-21T14:53:41Z"
+    },
+    {
+      "title": "Remembering the treasured films of Rob Reiner - CBS News",
+      "description": "Turner Classic Movies host Ben Mankiewicz looks back at the work of actor and director Rob Reiner, whose films became part of our shared cinematic language because of their humor, drama, and aching belief in humanity.",
+      "url": "https://www.cbsnews.com/news/remembering-the-treasured-films-of-rob-reiner/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/20/31e6eafd-5ef1-490b-b8a8-cd0b74c27b36/thumbnail/1200x630/5197edab76e280c0371794ea5114215f/rob-reiner-a-few-good-men-photofest-1280.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-21T14:43:32Z"
+    },
+    {
+      "title": "It’s a Wonderful Life: A Christmas classic that reflects bigoted ideas about ‘proper’ music in the 1940s - The Conversation",
+      "description": "The film’s soundtrack features popular musical favourites and sounds of dread and discordancy, and some of these depictions reflect racist ideas about “proper” musical, social and community norms.",
+      "url": "https://theconversation.com/its-a-wonderful-life-a-christmas-classic-that-reflects-bigoted-ideas-about-proper-music-in-the-1940s-270740",
+      "urlToImage": "https://images.theconversation.com/files/709182/original/file-20251216-70-aggvms.jpg?ixlib=rb-4.1.0&rect=23%2C230%2C1726%2C863&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source": "The Conversation Africa",
+      "publishedAt": "2025-12-21T13:57:48Z"
+    },
+    {
+      "title": "Grotmas Calendar Day 21 – Take to the battlefield with four Warhammer 40,000 missions - Warhammer Community",
+      "description": "Take to the tabletop over Christmas.",
+      "url": "https://www.warhammer-community.com/articles/423j3ocm/grotmas-calendar-day-21-take-to-the-battlefield-with-four-warhammer-40000-missions",
+      "urlToImage": "https://assets.warhammer-community.com/grotmas21-dec21-1-feature-zod1hmb3ha.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2025-12-21T13:57:33Z"
     }
   ]
 }

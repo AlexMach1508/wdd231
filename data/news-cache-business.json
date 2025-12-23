@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2025-12-22T06:48:52.575Z",
+  "updatedAt": "2025-12-23T06:48:51.723Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Billionaire who sold two companies to Coca-Cola says he tries to persuade people not to become entrepreneurs: ‘Every single day, you can go bankrupt’ - Fortune",
+      "title": "The stock market winners and losers of 2025 - Financial Times",
+      "description": "Chips, gold and guns have triumphed while ad companies and private equity struggled",
+      "url": "https://www.ft.com/content/0f5daafb-ac66-48f4-85cb-ebf63369ef66",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8d1a8ef5-23a1-4668-b064-c8a6ab8721dd.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-12-22T05:00:39Z"
+    },
+    {
+      "title": "AI-linked IPOs in China are exploding. But it's not easy for foreigners to join the party - CNBC",
+      "description": "China's hottest artificial-intelligence listings are delivering eye-popping gains. However, it may not be easy for overseas investors to partake in the rally.",
+      "url": "https://www.cnbc.com/2025/12/22/metax-moore-threads-ipos-exploded-but-its-not-easy-for-foreigners-to-join-the-party.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108237068-1764903745914-gettyimages-2243586882-Illustration_Moore_Threads.jpeg?v=1765983260&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-22T04:13:00Z"
+    },
+    {
+      "title": "Japan official warns on yen’s ‘sudden’ weakness - Financial Times",
+      "description": "Traders see higher potential for government intervention to support currency",
+      "url": "https://www.ft.com/content/992d0372-d856-4496-8df1-ee1a0ca4329a",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9989b5b-0b11-43c3-af90-a6ddc70ca74c.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-12-22T03:32:30Z"
+    },
+    {
+      "title": "Waymo resumes service in San Francisco after robotaxis stall during blackout - TechCrunch",
+      "description": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+      "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572",
+      "source": "TechCrunch",
+      "publishedAt": "2025-12-22T03:24:49Z"
+    },
+    {
+      "title": "Bourbon maker Jim Beam halts production at main distillery for a year - BBC",
+      "description": "US distillers face uncertainty after President Trump imposed tariffs on countries around the world.",
+      "url": "https://www.bbc.com/news/articles/cy5gv5z24n2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a032/live/3381ff80-dee5-11f0-a36f-812e620859ee.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-22T03:05:17Z"
+    },
+    {
+      "title": "China keeps benchmark lending rates steady for a seventh straight month despite weak economic data - CNBC",
+      "description": "The People's Bank of China kept its 1-year and 5-year loan prime rates unchanged at 3% and 3.5% respectively, holding them for a seventh straight meeting.",
+      "url": "https://www.cnbc.com/2025/12/22/china-lpr-1-year-5-year-property-market-weak-economic-data-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228064-1763546035956-gettyimages-2246177908-img_5015.jpeg?v=1763546119&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-22T01:10:00Z"
+    },
+    {
+      "title": "How a power outage in Colorado caused U.S. official time be 4.8 microseconds off - NPR",
+      "description": "Officials said the error is likely be too minute for the general public to clock it, but it could affect applications such as critical infrastructure, telecommunications and GPS signals.",
+      "url": "https://www.npr.org/2025/12/21/nx-s1-5651317/colorado-us-official-time-microseconds-nist-clocks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/612x344+158+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Ff8%2Fcc8daf7c423392c77e321d4d4e72%2Fcesium-beam-and-hydrogen-maser.png",
+      "source": "NPR",
+      "publishedAt": "2025-12-22T00:11:07Z"
+    },
+    {
+      "title": "Gold Edges Higher Amid Geopolitical Tensions - The Wall Street Journal",
       "description": null,
-      "url": "https://fortune.com/article/should-i-be-an-entrepreneur-mike-repole-career-advice/",
-      "urlToImage": null,
-      "source": "Fortune",
-      "publishedAt": "2025-12-21T05:48:05Z"
-    },
-    {
-      "title": "PG&E outages in S.F. leave 130,000 without electricity, no timeline for return of power - San Francisco Chronicle",
-      "description": "PG&E outages in S.F. leave 130,000 without power, knock out street lights, disrupt BART, Muni. The company expects power to return Saturday night.",
-      "url": "https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/45/14/28726078/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-12-21T04:24:20Z"
-    },
-    {
-      "title": "Powerball winning numbers for Dec. 20 drawing; $1.5 billion jackpot - USA Today",
-      "description": "You can get another chance to win Powerball's 5th largest jackpot as more than $1.5 billion is on the line.",
-      "url": "https://www.usatoday.com/story/money/lottery/2025/12/20/powerball-jackpot-winning-numbers/87825158007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/18/USAT/87826088007-20251217-t-210140-z-52548940-rc-2-iiiattods-rtrmadp-3-usapowerball.JPG?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-12-21T03:39:54Z"
-    },
-    {
-      "title": "Light rail service to halt between Capitol Hill and Stadium stations overnight - KOMO",
-      "description": "Link light rail service will be temporarily suspended between Capitol Hill and Stadium stations overnight.",
-      "url": "https://komonews.com/news/local/sound-transit-link-light-rail-suspended-overnight-orca-card-train-commuter-weekend-closure-overnight-transportation-travel-downtown-seattle-stadium-capitol-hill",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/c95112e9-d9cc-425e-989c-653f33d42a26-thumbnail_LINKLIGHTRAIL_1.1.1.jpg",
-      "source": "KOMO News",
-      "publishedAt": "2025-12-21T01:41:05Z"
-    },
-    {
-      "title": "Bill Ackman proposes SpaceX IPO via Sparc merger (SPACE:Private) - Seeking Alpha",
-      "description": "Billionaire investor Bill Ackman pitched an innovative approach to taking SpaceX (SPACE) public through a merger with Pershing Square SPARC Holdings (SPAIF).",
-      "url": "https://seekingalpha.com/news/4533839-bill-ackman-proposes-spacex-ipo-via-sparc-merger",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/586859142/image_586859142.jpg?io=getty-c-w630",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-12-21T01:34:34Z"
-    },
-    {
-      "title": "Elon Musk adds to his $679 billion fortune after Delaware court awards him $55 billion pay package - Fortune",
-      "description": "In 2024, Chancellor Kathaleen St. Jude McCormick rescinded the compensation in a case brought by a disgruntled Tesla shareholder.",
-      "url": "https://fortune.com/2025/12/20/elon-musk-net-worth-679-billion-fortune-delaware-court-55-billion-tesla-pay-package/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25345619479975-e1766276348254.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-12-21T00:25:00Z"
-    },
-    {
-      "title": "Walmart employee nearly doubled her pay after entering its pipeline for skilled tradespeople - Fortune",
-      "description": "“I have my own apartment. I was able to get a car, and and I’m able to give more to my 401(k).”",
-      "url": "https://fortune.com/2025/12/20/walmart-employee-double-pay-skilled-trades-training/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25350714086066-e1766275701937.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-12-21T00:17:00Z"
-    },
-    {
-      "title": "The Fight Over the Next Fed Chair Is Spilling Out Across D.C. and Wall Street - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/politics/policy/the-fight-over-the-next-fed-chair-is-spilling-out-across-d-c-and-wall-street-14761d86",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-geopolitical-tensions-403e78b4",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-20T22:07:00Z"
+      "publishedAt": "2025-12-21T23:39:00Z"
     },
     {
-      "title": "DC gas prices rank among nation’s highest as national average falls - WTOP",
-      "description": "Drivers in the D.C. area are still paying among the highest gas prices in the country, according to a new AAA fuel report.",
-      "url": "https://wtop.com/local/2025/12/dc-gas-prices-rank-among-nations-highest-as-national-average-falls/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2023/11/GettyImages-1388800092-1.png",
-      "source": "WTOP",
-      "publishedAt": "2025-12-20T20:14:07Z"
+      "title": "Stock futures rise as traders look ahead to holiday-shortened week: Live updates - CNBC",
+      "description": "Wall Street is coming off a mixed week for the major averages.",
+      "url": "https://www.cnbc.com/2025/12/21/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243087-17659928772025-12-17t170019z_417787449_rc2diiaxysev_rtrmadp_0_usa-stocks.jpeg?v=1765993003&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-21T23:16:00Z"
     },
     {
-      "title": "AI Boom Brings Flood of Debt to Ultrasafe Market: Credit Weekly - Yahoo Finance",
-      "description": "Bond sales by US utilities grew 19% this year to a record $158 billion, funding rampant growth in power demand driven by the artificial-intelligence boom.  A...",
-      "url": "https://finance.yahoo.com/news/ai-boom-brings-flood-debt-200000578.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jh1EzfD6BgfRNE_W1QWt9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/fc4bf036fd20baf34e253dfad157ee42",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-20T20:00:00Z"
+      "title": "Permira, Warburg to buy investment and accounting software maker Clearwater Analytics for $8.4 billion - CNBC",
+      "description": "Clearwater agreed to be taken private for $24.55 a share cash, a premium of 47% on its share price of $16.69 on Nov. 10, before reports ‌of ‌a potential sale.",
+      "url": "https://www.cnbc.com/2025/12/21/permira-warburg-to-buy-clearwater-analytics-for-8point4-billion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240829-1765481159899-gettyimages-2245855263-TFSPI_12112025-2348.jpeg?v=1765481181&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-21T22:27:56Z"
     },
     {
-      "title": "The Netflix Chief Who Insists He Won’t Ruin Hollywood - wsj.com",
-      "description": "Ted Sarandos, a movie buff and one-time video-store clerk, may soon oversee the iconic Warner Bros. studio",
-      "url": "https://www.wsj.com/business/media/netflix-ted-sarandos-1752aa9c",
-      "urlToImage": "https://images.wsj.net/im-10355354/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-12-20T17:35:40Z"
+      "title": "Epidural kit shortage could last until March, regulator says - BBC",
+      "description": "The shortage is due to a major supplier stopping manufacturing epidural bags, the government says.",
+      "url": "https://www.bbc.com/news/articles/c5ydznpyj58o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a4fd/live/c1a59f80-deb1-11f0-8ce7-9dd1e62bbc74.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-21T22:03:36Z"
     },
     {
-      "title": "Do it for Trump: Treasury pushes businesses, wealthy people to contribute to 'Trump Accounts' - Politico",
-      "description": "A pair of major contributions from business titans recently is part of a strategy to pump money into the new savings plans for children.",
-      "url": "https://www.politico.com/news/2025/12/20/treasury-hopes-to-juice-trump-accounts-with-appeals-to-philanthropists-corporations-00698179",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7d%2F6d%2Ff9f938a24b9f927c78302b32816a%2Funlimiteduse-12-02-2025-024.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-12-20T16:54:32Z"
+      "title": "MTA unveils new blaring-alarm fare gates at busy NYC stations to fight fare evasion - amNewYork",
+      "description": "The MTA unveiled new blaring-alarm fare gates that add to other fare evasion efforts, including gate guards, sleeves and more at NYC stations.",
+      "url": "http://www.amny.com/nyc-transit/new-blaring-alarm-fare-gates-fare-evasion-nyc/",
+      "urlToImage": "https://www.amny.com/wp-content/uploads/2025/12/DSC_8538-copy.jpg?quality=51&w=1200&p=q",
+      "source": "amNY",
+      "publishedAt": "2025-12-21T20:31:02Z"
     },
     {
-      "title": "Why California could be contending with $5 gas next year - CNN",
-      "description": "California could soon be running short of gasoline, potentially hiking some of the highest gas prices in the country.",
-      "url": "https://www.cnn.com/2025/12/20/business/california-gas-prices-closing-refineries",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185678414.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-20T16:01:01Z"
+      "title": "Portland-based meat company recalls ready-made sausage - OregonLive.com",
+      "description": "Double-check your sausage before putting it out for guests this holiday season.",
+      "url": "https://www.oregonlive.com/business/2025/12/portland-based-meat-company-recalls-ready-made-sausage.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/DUY6UNBEQZALJOOPVQ7QDDDNIQ.png?auth=3257663eeca8b7108a668cdf7d9c206b90223b95b22fc1ab0f2ac1a554bfe361&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-12-21T20:14:00Z"
     },
     {
-      "title": "Johnson & Johnson owes $65.5 million to a woman with cancer who used talcum powder - NBC News",
-      "description": "A Minnesota jury awarded $65.5 million on Friday to a mother of three who claimed talcum products made by Johnson & Johnson exposed her to asbestos and contributed to her developing cancer in the lining of her lungs.",
-      "url": "https://www.nbcnews.com/news/us-news/johnson-johnson-owes-655-million-woman-cancer-used-talcum-powder-rcna250209",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251220-jonhson-jonhson-ch-0928-413b2a.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-12-20T14:54:42Z"
+      "title": "Instacart to pay $60 million to customers in FTC settlement - Mashable",
+      "description": "The FTC lawsuit alleges the grocery delivery service engaged in deceptive tactics.",
+      "url": "https://mashable.com/article/instacart-60-million-ftc-settlement",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05WyjTVH8YGFo0CnKXsyJXE/hero-image.fill.size_1200x675.v1766345083.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-12-21T20:00:20Z"
     },
     {
-      "title": "Oracle just made a power move Wall Street can’t ignore - thestreet.com",
-      "description": "A quiet shift in Oracle’s strategy is changing how investors see its future.",
-      "url": "https://www.thestreet.com/investing/oracle-just-made-a-power-move-wall-street-cant-ignore",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODAxNTM4/washington-dc-january-21-oracle-co-founder-cto-and-executive-chairman-larry-ellison-speaks-during-a-news-conference-with-us-president-donald-trump-in-the-roosevelt-room-of-the-white-house-on-january-2.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-12-20T14:43:00Z"
+      "title": "Powerball jackpot climbs to $1.6 billion, among largest lottery prizes ever in U.S. - CNBC",
+      "description": "Monday's drawing would be the fifth-largest U.S. jackpot ever, according to a news release from Powerball.",
+      "url": "https://www.cnbc.com/2025/12/21/powerball-jackpot-climbs-to-1point6-billion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192097-1756411459989-gettyimages-2231384154-AFP_72FH6RX.jpeg?v=1766346074&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-21T19:43:06Z"
     },
     {
-      "title": "Shift in Modern Warfare Turns Defense Firms Into Growth Stocks - Yahoo Finance",
-      "description": "While weaponry behemoths like fighter-jet maker Lockheed Martin Corp. and missile producer RTX Corp. still occupy a key corner of most stock portfolios...",
-      "url": "https://finance.yahoo.com/news/shift-modern-warfare-turns-defense-140000125.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/s7FJPOpmVOAfkXTWqVGBzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b922d8d4b20dc3edbb9af4aee3882622",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-20T14:00:00Z"
+      "title": "Super-popular Italian restaurant chain making major change - AL.com",
+      "description": "Customers can choose lighter versions of the same dishes and pay less",
+      "url": "https://www.al.com/news/2025/12/super-popular-italian-restaurant-chain-making-major-change.html",
+      "urlToImage": "https://www.al.com/resizer/v2/V3BQZKBTNRFRPNFZWL5AWSFBDY.jpg?auth=06e4f5005d5d560779d46d26996ea9f8b601f0dbb57e5140616293e27e3e06e5&width=1280&smart=true&quality=90",
+      "source": "AL.com",
+      "publishedAt": "2025-12-21T18:24:00Z"
     },
     {
-      "title": "A lose-lose legal battle? Michigan township defends decision to settle on OpenAI data center - MLive.com",
-      "description": "The rural Michigan community faces fierce criticism after settling a lawsuit that allowed a massive AI facility on farmland to move forward.",
-      "url": "https://www.mlive.com/news/ann-arbor/2025/12/a-lose-lose-legal-battle-michigan-township-defends-decision-to-settle-on-openai-data-center.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/G5HIVGJQCJEMNJ4II34PZXGDGQ.jpeg?auth=f6b8b864731cde05c488cc827c27a031f54e97739fda32a6551947cfaee2bb24&width=1280&smart=true&quality=90",
-      "source": "mlive.com",
-      "publishedAt": "2025-12-20T12:00:00Z"
+      "title": "United Airlines flight from Chicago to Orange County, California, diverted to Rockford - CBS News",
+      "description": "A United Airlines flight from Chicago's O'Hare International Airport to Southern California was diverted to Rockford on Sunday.",
+      "url": "https://www.cbsnews.com/chicago/news/united-airlines-flight-chicago-orange-county-california-diverted/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/05/fb2a8c7b-f00c-4679-bacb-14d4afb5e961/thumbnail/1200x630/2f208332a05d6ce9c2780ae040bc5ded/gettyimages-1246684316.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-21T18:06:00Z"
+    },
+    {
+      "title": "Don’t give up on a ‘Santa Claus rally’ just yet — even after a rough December start for stocks - MarketWatch",
+      "description": "History shows the year-end period is historically a strong one for stocks, regardless of how they performed earlier in December",
+      "url": "https://www.marketwatch.com/story/dont-give-up-on-a-santa-claus-rally-just-yet-even-after-a-rough-december-start-for-stocks-d75e3e2d",
+      "urlToImage": "https://images.mktw.net/im-06483452/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-12-21T17:00:00Z"
     }
   ]
 }
