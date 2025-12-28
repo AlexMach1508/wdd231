@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2025-12-27T06:44:36.137Z",
+  "updatedAt": "2025-12-28T06:44:58.757Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Make your aging computer feel brand new with Windows 11 Pro, now just $10 - Mashable",
-      "description": "Yes, it's only $10.",
-      "url": "https://mashable.com/article/dec-25-microsoft-windows-11-pro",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00jevOyHALEc78yV2PmK12b/hero-image.fill.size_1200x675.v1765805954.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-25T23:00:00Z"
+      "title": "Scientists Make Material That Can Morph Into Anything With the Pull of a String - Gizmodo",
+      "description": "Inspired by kirigami, a type of Japanese paper art, researchers have created a new material that transforms from a grid into any 3D structure you'd like.",
+      "url": "https://gizmodo.com/scientists-make-material-that-can-morph-into-anything-with-the-pull-of-a-string-2000703588",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/MIT-one-string-01-press-3d-structures-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-12-26T22:30:21Z"
     },
     {
-      "title": "Nintendo discusses its approach to Metroid Prime 4, talks why it isn’t open-world - Nintendo Everything",
-      "description": "Nintendo has shared some interesting insight into how it approached Metroid Prime 4 and has discussed why the game isn’t open-world. It seems the company noticed at least some fan interest in seeing the franchise adopt that approach. However, rather than goin…",
-      "url": "https://nintendoeverything.com/nintendo-discusses-its-approach-to-metroid-prime-4-and-why-it-isnt-open-world/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Metroid-Prime-4-open-world.jpg",
+      "title": "Uh Oh: Male Mosquitoes Can Feed on Our Blood, Too - Gizmodo",
+      "description": "The findings might overturn a widely held belief that only females pose a disease risk to people, though more research is needed.",
+      "url": "https://gizmodo.com/uh-oh-male-mosquitoes-can-feed-on-our-blood-too-study-finds-2000703485",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/mosquitobloodfeeding-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-12-26T22:00:17Z"
+    },
+    {
+      "title": "Nintendo explains how Metroid Prime 4 came to be, talks development challenges - game was a request from Nintendo of America - Nintendo Everything",
+      "description": "Nintendo has provided some noteworthy insight into the origins of Metroid Prime 4: Beyond as well as challenges with the project. Metroid Prime 4 is one of the more fascinating games the company has put out in recent years, and its development cycle is a big …",
+      "url": "https://nintendoeverything.com/metroid-prime-4-developer-interview-origins-challenges/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Metroid-Prime-4-interview-challenges-origins.jpeg",
       "source": "Nintendoeverything.com",
-      "publishedAt": "2025-12-25T22:39:15Z"
+      "publishedAt": "2025-12-26T21:35:40Z"
     },
     {
-      "title": "Researchers create world's smallest programmable, autonomous robots - Tech Xplore",
-      "description": "Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months …",
-      "url": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg",
-      "source": "Tech Xplore",
-      "publishedAt": "2025-12-25T21:35:32Z"
+      "title": "Samsung Smart TV Owners Get Hundreds Of Channels For Free - Here's How - bgr.com",
+      "description": "With the preinstalled Samsung TV Plus app, you can access nearly 700 live TV channels and over 1,000 movies, including exclusive content, for free.",
+      "url": "https://www.bgr.com/2050229/samsung-smart-tv-plus-free-channels/",
+      "urlToImage": "https://www.bgr.com/img/gallery/samsung-smart-tv-owners-get-hundreds-of-channels-for-free-heres-how/l-intro-1765553267.jpg",
+      "source": "BGR",
+      "publishedAt": "2025-12-26T21:17:00Z"
     },
     {
-      "title": "Top Games of 2025 for Three Atlus Staff Members - Persona Central",
-      "description": "Weekly Famitsu issue 1929 includes the magazine's annual feature on the most popular games played in 2025, featuring Atlus staff favorites.",
-      "url": "https://personacentral.com/famitsu-popular-games-2025/",
-      "urlToImage": "https://personacentral.com/wp-content/uploads/2025/12/ex-33.jpg",
+      "title": "This deal on the Samsung Galaxy Watch Ultra (2025) is crazy good! - Android Authority",
+      "description": "The Samsung Galaxy Watch Ultra (2025) is amazing, but it is also very expensive. Take advantage of this deal while it is available!",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-2-3627938/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-squircle-build-scaled.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-12-26T21:16:20Z"
+    },
+    {
+      "title": "Every Time Todd Howard Has Talked About Fallout 5 - Kotaku",
+      "description": "The next Fallout game is likely five or more years away, but that hasn't stopped Bethesda's creative director from chatting about it",
+      "url": "https://kotaku.com/every-time-todd-howard-has-talked-about-fallout-5-2000655749",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/fallout5-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-26T21:15:20Z"
+    },
+    {
+      "title": "Guilty Gear Strive Producer offers details on big Version 2.0 update including new characters, rebalancing, new moves and more - EventHubs",
+      "description": "Guilty Gear Strive closed out its fourth season of content earlier this year with the release of Cyberpunk: Edgerunners' Lucy, and things for the game are going to be apparently quite different going into 2026.Arc System Works has now ...",
+      "url": "https://www.eventhubs.com/news/2025/dec/26/guilty-gear-version-2/",
+      "urlToImage": "https://media.eventhubs.com/images/2025/12/26-guilty-gear-version-2t.webp",
+      "source": "EventHubs",
+      "publishedAt": "2025-12-26T19:37:08Z"
+    },
+    {
+      "title": "Rob Pike got spammed with an AI slop \"act of kindness\" - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46394867",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2025-12-26T19:19:24Z"
+    },
+    {
+      "title": "Stop the slop by disabling AI features in Chrome - theregister.com",
+      "description": ": The most popular desktop browser is festooned with Google AI, but you can make at least some of it go away",
+      "url": "https://www.theregister.com/2025/12/26/disable_ai_features_chrome/",
+      "urlToImage": "https://regmedia.co.uk/2025/12/26/shutterstock_2642818655.jpg",
+      "source": "Theregister.com",
+      "publishedAt": "2025-12-26T19:02:00Z"
+    },
+    {
+      "title": "Billionaire Bill Koch Slashes Price of Aspen Mansion to $99 Million - Mansion Global",
+      "description": "The palatial lodge-style home first hit the market in January for $125 million",
+      "url": "https://www.mansionglobal.com/articles/billionaire-bill-koch-slashes-price-of-aspen-mansion-to-99-million-8548af8e",
+      "urlToImage": "https://images.mansionglobal.com/im-46516725/social",
+      "source": "Mansion Global",
+      "publishedAt": "2025-12-26T18:51:00Z"
+    },
+    {
+      "title": "Why This 2025 Hyundai Ioniq 5 Needs A New Battery: P1AA700 Issue Explained - InsideEVs",
+      "description": "Some early-model 2025 Ioniq 5s may experience charging issues. Don't worry, though: The fix is usually a free battery replacement.",
+      "url": "https://insideevs.com/news/782848/2025-hyundai-ioniq-5-p1aa700/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/y29qpl/s1/2026-insideevs-breakthrough-awards-editor-s-choice-hyundai-ioniq-5.jpg",
+      "source": "InsideEVs ",
+      "publishedAt": "2025-12-26T18:49:00Z"
+    },
+    {
+      "title": "Atlus 2026 Aspirations Tease Upcoming Persona 30th Anniversary Announcements - Persona Central",
+      "description": "4Gamer has published their annual feature for 2026 aspirations of Japanese game developers, including 7 from Atlus.",
+      "url": "https://personacentral.com/atlus-2026-aspirations-tease/",
+      "urlToImage": "https://personacentral.com/wp-content/uploads/2025/06/Persona-4-Revival-Screenshot-3.jpg",
       "source": "Personacentral.com",
-      "publishedAt": "2025-12-25T20:58:29Z"
+      "publishedAt": "2025-12-26T18:25:06Z"
     },
     {
-      "title": "Fujifilm in 2025: High Highs and Low Lows - PetaPixel",
-      "description": "The GFX100RF and X-E5 are obvious standouts.",
-      "url": "https://petapixel.com/2025/12/25/fujifilm-in-2025-high-highs-and-low-lows/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2025/12/fujifilm-2025-recap-featured.jpg",
-      "source": "PetaPixel",
-      "publishedAt": "2025-12-25T20:30:25Z"
+      "title": "Arc Raiders Battle Pass 2 - All Goalie Raider Deck Rewards - GameSpot",
+      "description": "Here's everything you can earn in the new free Raider Deck.",
+      "url": "https://www.gamespot.com/gallery/arc-raiders-battle-pass-2-all-goalie-raider-deck-rewards/2900-7345/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/679/6794662/4622067-eyeqw-sr.jpeg",
+      "source": "GameSpot",
+      "publishedAt": "2025-12-26T18:21:32Z"
     },
     {
-      "title": "Galaxy Z TriFold suffers horrific defeat in durability test; there’s just more to break - 9to5Google",
-      "description": "Unlike its less impressive successor, the Galaxy Z TriFold just can’t stand up to the same sort of bend abuse...",
-      "url": "http://9to5google.com/2025/12/25/galaxy-z-trifold-durability-test/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Galaxy-Z-TriFold-durability-test-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-12-25T19:34:00Z"
+      "title": "5 Essential Steam Deck Apps You Should Be Using In 2026 - bgr.com",
+      "description": "The Steam Deck is versatile enough with its base SteamOS configuration, but since its based in Linux, you can also side-load lots of added goodies as well.",
+      "url": "https://www.bgr.com/2057391/essential-steam-deck-apps-you-should-use-2025/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-essential-steam-deck-apps-you-should-be-using-in-2026/l-intro-1765909512.jpg",
+      "source": "BGR",
+      "publishedAt": "2025-12-26T18:17:00Z"
     },
     {
-      "title": "My Most Anticipated Video Game Of 2026 Might Be This Simple Vibes-Based Lanesplitting Indie - Jalopnik",
-      "description": "\"LANESPLIT\" is a simple game from a one-person developer, and at my advanced age of 29 that's the kind of game I have the time and energy to play after work.",
-      "url": "https://www.jalopnik.com/2058433/simple-vibes-based-lanesplitting-indie-game/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/my-most-anticipated-video-game-of-2026-might-be-this-simple-vibes-based-lanesplitting-indie/l-intro-1766427628.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2025-12-25T19:25:00Z"
+      "title": "Apple, Google, Amazon or Roku: Which is the best streaming device? - Space",
+      "description": "We've put four of the best streaming devices against one another to determine which is the best. It's the ultimate streaming device war.",
+      "url": "https://www.space.com/technology/amazon-fire-tv-stick-versus-roku-ultra-versus-apple-tv-versus-google-tv-streamer-the-best-streaming-device-out-there",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QSo9zyBFpMaerR2qUau4ob-2133-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-12-26T18:05:00Z"
     },
     {
-      "title": "Thunderobot confirms new Panther Lake laptops and Ryzen MAX+ 395 Mini-PC at CES 2026 - VideoCardz.com",
-      "description": "THUNDEROBOT previews four devices for CES 2026: ZERO Air, aibook14 Pro, Station, and MIX G2 THUNDEROBOT has started the CES 2026 countdown with two new",
-      "url": "https://videocardz.com/newz/thunderobot-confirms-new-panther-lake-laptops-and-ryzen-max-395-mini-pc-at-ces-2026",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/12/THUNDEROBOT-CES-2026-1.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2025-12-25T19:09:00Z"
+      "title": "The World's Smallest Programmable Robot Can Barely Be Seen - ScienceAlert",
+      "description": "A tiny robot so small it can barely be seen can still \"sense, think, and act\" autonomously, according to the engineers who built it.",
+      "url": "https://www.sciencealert.com/the-worlds-smallest-programmable-robot-can-barely-be-seen",
+      "urlToImage": "https://www.sciencealert.com/images/2025/12/Microrobot.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-12-26T18:02:07Z"
     },
     {
-      "title": "How a Spanish virus brought Google to Málaga - TechCrunch",
-      "description": "Spanish entrepreneur Bernardo Quintero, whose company is at the root of Google's Málaga cybersecurity hub, identified the author of the computer virus that influenced his career.",
-      "url": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/11/robotbutterfly.jpg?resize=1200,849",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-25T18:00:00Z"
+      "title": "Level-5 CEO Wants People To Stop Demonizing Generative AI - Kotaku",
+      "description": "Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online",
+      "url": "https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/maxresdefault-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-12-26T17:52:50Z"
     },
     {
-      "title": "MQTT Pager Build Is Bringing Beepers Back - Hackaday",
-      "description": "Pagers were once a great way to get a message to someone out in public; they just had to be cool enough to have one. These days, they’re mostly the preserve of doctors and a few other niche o…",
-      "url": "https://hackaday.com/2025/12/25/mqtt-pager-build-is-bringing-beepers-back/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/12/I-Built-An-On-Call-Pager-_-ESP32-1-13-screenshot.png",
-      "source": "Hackaday",
-      "publishedAt": "2025-12-25T18:00:00Z"
+      "title": "Join Me While I Pour One Out for the Cadillac XT6 - The Drive",
+      "description": "Cadillac's discontinued three-row crossover can teach us all a lesson about taking chances.",
+      "url": "http://www.thedrive.com/news/join-me-while-i-pour-one-out-for-the-cadillac-xt6",
+      "urlToImage": "https://www.thedrive.com/wp-content/uploads/images-by-url-td/content/2019/01/2020-cadillac-xt6-sport-001.jpg?w=1200",
+      "source": "The Drive",
+      "publishedAt": "2025-12-26T17:40:25Z"
     },
     {
-      "title": "5 Things To Never Plug Into Your Chromebook's USB Ports - SlashGear",
-      "description": "Your Chromebook's USB ports may be vulnerable to number of these items.",
-      "url": "https://www.slashgear.com/2056845/things-to-never-plug-into-chromebook-usb-ports/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-things-to-never-plug-into-your-chromebooks-usb-ports/l-intro-1765860805.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2025-12-25T17:15:00Z"
-    },
-    {
-      "title": "Why You Should Play: Metal Eden - Game Informer",
-      "description": "This cyberpunk FPS that's Ghostrunner meets Doom Eternal likely flew under your radar.",
-      "url": "https://gameinformer.com/feature/2025/12/25/why-you-should-play-metal-eden",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/09/15/86b9e292/metal_8.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2025-12-25T17:08:40Z"
-    },
-    {
-      "title": "Google Co-Founder Explains One of the Company’s Most Infamous Failures - Inc.com",
-      "description": "He shared a key piece of advice for beginner entrepreneurs.",
-      "url": "https://www.inc.com/ava-levinson/google-cofounder-explains-glass-failure/91280777",
-      "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/12/sergey-brin-google-glass-fail.jpg",
-      "source": "Inc.",
-      "publishedAt": "2025-12-25T17:08:07Z"
-    },
-    {
-      "title": "The best distraction blockers to jumpstart your focus in the new year - TechCrunch",
-      "description": "Whether you need to limit social media scrolling or block off time to be productive, there are different tools that can help you stay on task",
-      "url": "https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/nicolas-j-leclercq-SZ6Uc4chfCo-unsplash.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-25T17:00:00Z"
-    },
-    {
-      "title": "Grotmas Calendar Day 25 – Huron Blackheart strides forth from the Maelstrom - Warhammer Community",
-      "description": "Witness the dark glory of the Christmas Day reveal!",
-      "url": "https://www.warhammer-community.com/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom",
-      "urlToImage": "https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2025-12-25T16:57:47Z"
-    },
-    {
-      "title": "Google To Let Users Change Gmail Address — What You Need To Know - Forbes",
-      "description": "A Google support document has revealed that Gmail users will soon be able to change their @gmail.com email address.",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/12/25/google-to-let-users-change-gmail-address---what-you-need-to-know/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/694d5a1e2d8cfa72ce09beb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-12-25T16:10:51Z"
-    },
-    {
-      "title": "Baldur’s Gate 3 Has a New Rival Coming Early 2026 - ComicBook.com",
-      "description": "This upcoming RPG is a sequel to a hit Dungeons & Dragons-inspired game and it may challenge Baldur's Gate 3 for the crown.",
-      "url": "http://comicbook.com/gaming/feature/baldurs-gate-3-has-a-new-rival-coming-early-2026/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/12/Solasta-2-Antagonist.jpg?resize=2000,1125",
-      "source": "ComicBook.com",
-      "publishedAt": "2025-12-25T16:00:00Z"
-    },
-    {
-      "title": "LG Unveils UltraGear evo, Redefining 5K Gaming With World's First AI Upscaling Technology - lgnewsroom.com",
-      "description": "Expanding the Boundaries of High-Resolution Gaming With a New Lineup Spanning OLED, New MiniLED and Ultra-Wide Formats SEOUL, Dec. 26, 2025 — LG Electronics (LG) announced today the global launch of i",
-      "url": "https://www.lgnewsroom.com/2025/12/lg-unveils-ultragear-evo-redefining-5k-gaming-with-worlds-first-ai-upscaling-technology/",
-      "urlToImage": "https://www.lgnewsroom.com/wp-content/uploads/2025/12/Main-Image-2026_LG-UltraGear.png",
-      "source": "Lgnewsroom.com",
-      "publishedAt": "2025-12-25T15:59:30Z"
-    },
-    {
-      "title": "Dog Shocks Family When Her Black Fur Changes Colors Right Before Their Eyes - The Dodo",
-      "description": "She's more beautiful than ever now.",
-      "url": "https://www.thedodo.com/daily-dodo/dog-shocks-family-when-her-black-fur-changes-colors-right-before-their-eyes",
-      "urlToImage": "https://assets3.thrillist.com/v1/image/3202580/1200x600/crop;;webp=auto;jpeg_quality=85.jpg",
-      "source": "Thedodo.com",
-      "publishedAt": "2025-12-25T15:00:06Z"
-    },
-    {
-      "title": "Xbox Ally starter guide — 7 things you should do (and learn) first to get the best experience for gaming - Windows Central",
-      "description": "Did you get a shiny new Xbox Ally or Xbox Ally X recently? If so, consider following these steps to improve your experience before diving into those similarly shiny games.",
-      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/xbox-ally-starter-guide-7-things-you-should-do-first",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/z3Fap5TkJT4kz8QQF8K5U6-1493-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-12-25T15:00:00Z"
+      "title": "Musical expertise is associated with specific cognitive and personality traits beyond memory performance - PsyPost",
+      "description": "Research published in Advances in Methods and Practices in Psychological Science provides evidence of a memory advantage in musicians for musical stimuli. However, the data suggests that benefits for non-musical information are more limited than previously re…",
+      "url": "https://www.psypost.org/musical-expertise-is-associated-with-specific-cognitive-and-personality-traits-beyond-memory-performance/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/12/woman-playing-violin.jpg",
+      "source": "PsyPost",
+      "publishedAt": "2025-12-26T17:16:39Z"
     }
   ]
 }
