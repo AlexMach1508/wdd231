@@ -1,127 +1,151 @@
 {
-  "updatedAt": "2025-12-28T06:44:58.675Z",
+  "updatedAt": "2025-12-29T06:51:04.523Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Kyle Whittingham Named Michigan's J. Ira and Nicki Harris Family Head Football Coach - University of Michigan Athletics",
-      "description": "The University of Michigan's Donald R. Shepherd Director of Athletics Warde Manuel announced Friday (Dec. 26) the hiring of Kyle Whittingham as the 22nd head...",
-      "url": "https://mgoblue.com/news/2025/12/26/kyle-whittingham-named-michigans-j-ira-and-nicki-harris-family-head-football-coach",
-      "urlToImage": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2025%2F12%2F26%2Fimg_27599909_bPfKC.jpg&width=1600&type=jpeg",
-      "source": "Mgoblue.com",
-      "publishedAt": "2025-12-27T03:21:34Z"
+      "title": "Derrick Henry Has a Historic Game in Green Bay - Ravens Home | Baltimore Ravens – baltimoreravens.com",
+      "description": "Ravens RB Derrick Henry rolled for four touchdowns and a season-high 216 yards in the Ravens' win over the Packers.",
+      "url": "https://www.baltimoreravens.com/news/derrick-henry-ravens-monster-first-half-green-bay-three-touchdowns",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/sz34q0xgqrky97jle25b",
+      "source": "BaltimoreRavens.com",
+      "publishedAt": "2025-12-28T05:56:43Z"
     },
     {
-      "title": "Report of active shooter at sheriff's office in Idaho, authorities say - ABC News",
+      "title": "Indonesian rescuers search for Spanish soccer coach and 3 children after tour boat sinks - CNN",
+      "description": "Indonesian rescuers searched for a Spanish soccer coach and his three children on Saturday after a tour boat carrying 11 people sank overnight near Padar Island, a popular destination within Komodo National Park, officials said.",
+      "url": "https://www.cnn.com/2025/12/27/asia/spanish-family-boat-sinks-indonesia-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-12-28t011959z-666359867-rc2cpia5llbi-rtrmadp-3-indonesia-boat.JPG?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-12-28T02:49:00Z"
+    },
+    {
+      "title": "EU backs Somalia after Israel recognizes Somaliland - DW",
+      "description": "Israel’s support for Somaliland has triggered sharp pushback across Africa, the Middle East and beyond, with the EU urging calm and Somalia vowing to defend its sovereignty.",
+      "url": "https://www.dw.com/en/eu-backs-somalia-after-israel-recognizes-somaliland/a-75318108",
+      "urlToImage": "https://static.dw.com/image/64796602_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-12-28T01:35:07Z"
+    },
+    {
+      "title": "Newark Airport passenger may have exposed others to measles, New Jersey Health Department says - ABC7 New York",
+      "description": "New Jersey's Health Department says someone with the disease passed through the airport on Friday, December 19.",
+      "url": "https://abc7ny.com/post/newark-airport-passenger-may-have-exposed-others-measles-new-jersey-health-department-says/18325181/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18325163_122725-newark-measles.jpg?w=1600",
+      "source": "WABC-TV",
+      "publishedAt": "2025-12-28T00:59:48Z"
+    },
+    {
+      "title": "Dark Energy may be changing and with it the fate of the Universe - BBC",
+      "description": "A mysterious force called Dark Energy might be changing, in a way that challenges our current understanding of the nature of time and space.",
+      "url": "https://www.bbc.com/news/articles/c17xe5kl78vo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/61d3/live/27971ed0-db2a-11f0-a8dc-93c15fe68710.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-28T00:47:48Z"
+    },
+    {
+      "title": "Texans beat Chargers 20-16 to clinch a playoff berth - NBC Sports",
       "description": null,
-      "url": "https://abcnews.go.com/US/report-active-shooter-sheriffs-office-idaho-authorities/story?id\\\\u003d128712797",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-beat-chargers-20-16-to-clinch-a-playoff-berth",
+      "urlToImage": null,
+      "source": "NBCSports.com",
+      "publishedAt": "2025-12-28T00:44:08Z"
+    },
+    {
+      "title": "Broncos win AFC West for first time since 2015 - The Denver Post",
+      "description": "The Broncos won the AFC West on Saturday when Houston beat the L.A. Chargers, ending a decade-long drought and securing at least one home playoff game next month. Denver will play for the No. 1 see…",
+      "url": "https://www.denverpost.com/2025/12/27/broncos-win-afc-west-title-first-since-2015/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/12/TDP-L-BRONCOS-CHIEFS_JAC0085.jpg?w=1024&h=827",
+      "source": "The Denver Post",
+      "publishedAt": "2025-12-28T00:39:33Z"
+    },
+    {
+      "title": "Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dies at 85 - AP News",
+      "description": "Jeffrey R. Holland, a senior official in the Church of Jesus Christ of Latter-day Saints, has died at 85. The church announced his death on Saturday from complications from kidney disease. Holland led the Quorum of the Twelve Apostles, a key governing body. H…",
+      "url": "https://apnews.com/article/jeffrey-holland-dead-mormons-f6c339ddc9688a5dd3523ce79ee8544b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/14b6597/2147483647/strip/true/crop/3000x1688+0+186/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F72%2Fd5f71f92a5e1e19155c5330e6539%2F4f82a71008f94772b69f80663076e927",
+      "source": "Associated Press",
+      "publishedAt": "2025-12-28T00:10:00Z"
+    },
+    {
+      "title": "Ex-Reality Star Arrested for Child, Animal Sex Crimes Had Animals Seized - TMZ",
+      "description": "Former 'Neighbors With Benefits' reality star Tony McCollister had his animals seized during investigation for two different sex crimes.",
+      "url": "https://www.tmz.com/2025/12/27/ex-reality-star-arrested-sex-crimes-animals-seized/",
+      "urlToImage": "https://imagez.tmz.com/image/2c/16by9/2025/12/27/2c9f7221ef8e40c1bd4168bec4f22789_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2025-12-27T23:43:27Z"
+    },
+    {
+      "title": "With Lamar Jackson Inactive, It’s Backup Battle in Lambeau - Ravens Home | Baltimore Ravens – baltimoreravens.com",
+      "description": "In a must-win game for the Ravens against the Packers, it will be Tyler Huntley vs. Malik Willis.",
+      "url": "https://www.baltimoreravens.com/news/lamar-jackson-inactive-ravens-packers-tyler-huntley-malik-willis-2025",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/tq1n49oyr8f7kx7uswpq",
+      "source": "BaltimoreRavens.com",
+      "publishedAt": "2025-12-27T23:41:43Z"
+    },
+    {
+      "title": "Winter storm brings heavy snow and ice to busy holiday travel weekend - NPR",
+      "description": "A powerful winter storm is impacting parts of the U.S. with major snowfall, ice, and below zero wind chills. The conditions are disrupting holiday travel and could last through next week.",
+      "url": "https://www.npr.org/2025/12/27/g-s1-103821/winter-storm-post-christmas-travel",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F4a%2F0267ad85481888d088a09cc0b566%2Fgettyimages-2253706297.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-12-27T23:13:31Z"
+    },
+    {
+      "title": "War-torn Myanmar votes in widely criticised 'sham' election - BBC",
+      "description": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power.",
+      "url": "https://www.bbc.com/news/articles/cy7vly6gm76o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7bb0/live/c94e4d00-e248-11f0-bc34-1daadc9b0785.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-12-27T23:02:52Z"
+    },
+    {
+      "title": "Samsung will debut two new wireless speakers at CES 2026 - The Verge",
+      "description": "Samsung’s new wireless speakers from designer Erwan Bouroullec are designed to enhance the home design aesthetic.",
+      "url": "https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Music-Studio-Real-life-scenarios_09-LS50H_300DPI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-12-27T23:00:00Z"
+    },
+    {
+      "title": "SpaceX scrubs launch Italian Earth observation satellite due to ground systems issue - Spaceflight Now",
+      "description": null,
+      "url": "https://spaceflightnow.com/2025/12/27/live-coverage-spacex-to-launch-italian-earth-observation-satellite-on-final-falcon-9-flight-of-2025/",
+      "urlToImage": null,
+      "source": "Spaceflight Now",
+      "publishedAt": "2025-12-27T22:16:38Z"
+    },
+    {
+      "title": "Search ongoing for Texas teen missing since Christmas Eve - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/US/search-ongoing-texas-teen-missing-christmas-eve/story?id\\\\u003d128724275",
       "urlToImage": null,
       "source": "ABC News",
-      "publishedAt": "2025-12-27T01:14:41Z"
+      "publishedAt": "2025-12-27T21:35:58Z"
     },
     {
-      "title": "Second actor accuses Tyler Perry of sexual assault in new lawsuit - CBS News",
-      "description": "It marks the second lawsuit in recent months accusing the filmmaker and studio mogul of leveraging his power in Hollywood to make sexual advances.",
-      "url": "https://www.cbsnews.com/news/second-actor-accuses-tyler-perry-sexual-assault-new-lawsuit/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/27/7005310a-de5f-4c6e-9c2b-a9fa1d2c3928/thumbnail/1200x630/d823ecb63ca25796cb6d69dd46752c2e/gettyimages-2244855144.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-27T01:05:45Z"
+      "title": "Dysart man claims $1 million lottery ticket - KCRG",
+      "description": "William Zak of Dysart’s winning ticket matched all five white Powerball numbers.",
+      "url": "https://www.kcrg.com/2025/12/27/dysart-man-claims-1-million-lottery-ticket/",
+      "urlToImage": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/H7P2NGNBNJER7LFBWZH6Z7TRCQ.jpg?auth=de615d52024b8b6c78e0a541edb052098e82276051e6fb51105582805bfb44aa&width=1200&height=600&smart=true",
+      "source": "KCRG",
+      "publishedAt": "2025-12-27T20:38:00Z"
     },
     {
-      "title": "Planning to return unwanted Christmas gifts? You may be charged fees. - CBS News",
-      "description": "Several major retailers are now charging customers to return items even if they are unopened and in perfect condition.",
-      "url": "https://www.cbsnews.com/news/unwanted-christmas-gifts-returns-charged-fees/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/27/84e59064-98c4-4531-bc52-8e96cc9efd4f/thumbnail/1200x630/44d84048b8b69889f29483091b54b248/1766797184591.png",
-      "source": "CBS News",
-      "publishedAt": "2025-12-27T01:04:08Z"
+      "title": "A Gastroenterologist Says This Popular Food Is Wreaking Havoc on Your Gut - AOL.com",
+      "description": "A gastroenterologist and dietitian share the number-one food that's wreaking havoc on your gut, plus explain why you should be limiting it for better health.",
+      "url": "https://www.prevention.com/health/a69849055/food-impacting-gut/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/cropped-shot-of-a-couple-having-a-good-time-royalty-free-image-1766499614.pjpeg?crop=1.00xw:0.753xh;0,0.178xh&resize=1200:*",
+      "source": "Prevention.com",
+      "publishedAt": "2025-12-27T19:42:47Z"
     },
     {
-      "title": "Jordan Love Won't Play vs. Ravens - Ravens Home | Baltimore Ravens – baltimoreravens.com",
-      "description": "It appears both teams are likely to have backup quarterbacks on Saturday night.",
-      "url": "https://www.baltimoreravens.com/news/jordan-love-injury-report-ruled-out-ravens-packers",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/awppag9oymsmdrsw62k3",
-      "source": "BaltimoreRavens.com",
-      "publishedAt": "2025-12-26T23:56:29Z"
-    },
-    {
-      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel - BBC",
-      "description": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
-      "url": "https://www.bbc.com/news/articles/c9d9znp22pyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9531/live/c40b2e50-e255-11f0-b67b-690eb873de1b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-26T23:49:29Z"
-    },
-    {
-      "title": "Kennedy Center criticizes musician who canceled performance after Trump name added to building - AP News",
-      "description": "The president of the Kennedy Center is criticizing musician Chuck Redd for canceling a Christmas Eve performance. Redd withdrew days after the White House announced President Donald Trump's name would be added to the venue. On Friday, the center's president, …",
-      "url": "https://apnews.com/article/kennedy-center-jazz-jam-canceled-993fdbcbadb34da635799012e7369452",
-      "urlToImage": "https://dims.apnews.com/dims4/default/867d5ab/2147483647/strip/true/crop/5535x3113+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2F6e%2F37d741a7ef69928b09d94d8b68bf%2F786d0928e23849888490d9a4de10c334",
-      "source": "Associated Press",
-      "publishedAt": "2025-12-26T22:03:00Z"
-    },
-    {
-      "title": "Explosion at mosque in Syria’s Homs kills at least eight people - The Washington Post",
-      "description": "Syrian authorities did not identify a perpetrator in the blast, which occurred in an area of Homs where most residents belong to the Alawite religious minority.",
-      "url": "https://www.washingtonpost.com/world/2025/12/26/syria-mosque-explosion-homs/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T34MOW3GR5CPPUEM7FSLX4CN2U_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-26T21:23:51Z"
-    },
-    {
-      "title": "New York State Reports Record Number of Weekly Flu Cases - Bloomberg.com",
-      "description": "New York State is seeing the highest number of influenza cases ever recorded in a single week, the health department said on Friday.",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/new-york-state-reports-record-number-of-weekly-flu-infections",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivrFzSg23Hiw/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-12-26T21:22:45Z"
-    },
-    {
-      "title": "Brutal Year for Stock Picking Spurs Trillion-Dollar Fund Exodus - Bloomberg.com",
-      "description": "The last thing a diversified fund manager wants is to run a portfolio dominated by just seven technology companies — all American, all megacap, clustered in the same corner of the economy. Yet as the S&P 500 pushed to fresh records this week, investors were a…",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/brutal-year-for-stock-picking-spurs-trillion-dollar-fund-exodus",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiU1rAFlBF6k/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-12-26T21:18:51Z"
-    },
-    {
-      "title": "Thousands of US flights disrupted as winter storm looms - BBC",
-      "description": "Up to nine inches (23cm) of snow could fall across the New York region during one of the busiest travel weekends of the year.",
-      "url": "https://www.bbc.com/news/articles/c0je0l55zq3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0832/live/2c9a6e30-e298-11f0-8a63-1b8ef40721e2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-26T21:05:40Z"
-    },
-    {
-      "title": "Trump to POLITICO: Zelenskyy ‘doesn’t have anything until I approve it’ - Politico",
-      "description": "Trump’s comments come ahead of his Sunday meeting with Zelenskyy, who will bring with him a new 20-point plan to end the war.",
-      "url": "https://www.politico.com/news/2025/12/26/trump-to-politico-zelenskyy-doesnt-have-anything-until-i-approve-it-00706783",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd8%2Ffe%2Ff54423684309a5fa07cd8835a354%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2230147622",
-      "source": "Politico",
-      "publishedAt": "2025-12-26T20:08:14Z"
-    },
-    {
-      "title": "A major winter storm is bearing down on the Northeast. Where the most snow may fall. - The Washington Post",
-      "description": "Hazardous snow and ice are set to accumulate, particularly in parts of New York and Pennsylvania, coinciding with post-holiday travel.",
-      "url": "https://www.washingtonpost.com/weather/2025/12/26/winter-storm-new-york-pennsylvania-snow-ice-travel/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ME2LBJIM5IIBFQU5MI5XRKRRJI_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-26T18:18:53Z"
-    },
-    {
-      "title": "‘Big Brother’ Contestant Mickey Lee Dies at 35 After Multiple Cardiac Arrests - Variety",
-      "description": "Mickey C. Lee, who appeared on Season 27 of 'Big Brother' died on Christmas Day.",
-      "url": "https://variety.com/2025/tv/news/mickey-lee-dead-big-brother-27-1236617652/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/07/3082743_0990bc.jpg?crop=0px%2C252px%2C3170px%2C1784px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-12-26T16:19:00Z"
-    },
-    {
-      "title": "Treat yourself: The best smart glasses to buy with your holiday gift money - TechCrunch",
-      "description": "Whether you’re looking to get a pair yourself or just want to explore what’s available on the market today, we’ve compiled a list of the most compelling pairs available.",
-      "url": "https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-11.50.52-AM.png?resize=1200,836",
-      "source": "TechCrunch",
-      "publishedAt": "2025-12-26T16:00:00Z"
+      "title": "Influencer Melissa Mae Carlton Announces Death of Daughter Year After Other Daughter Died - TMZ",
+      "description": "Melissa Mae Carlton and her family are dealing with an unimaginable loss ... announcing the death of their daughter Molly, less than two years after their daughter Abigail passed away.",
+      "url": "https://www.tmz.com/2025/12/27/melissa-mae-carlton-daughter-dies-one-year-after-other-child-death/",
+      "urlToImage": "https://imagez.tmz.com/image/d4/16by9/2025/12/27/d44debee1d964cba94b480fb1572cd94_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2025-12-27T19:33:18Z"
     }
   ]
 }
