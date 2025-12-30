@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2025-12-29T06:51:04.865Z",
+  "updatedAt": "2025-12-30T06:47:29.987Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Scoop: Nvidia deal a big win for Groq employees and investors - Axios",
-      "description": "Social media has been full of questions about what the unusual arrangement means for Groq employees.",
-      "url": "https://www.axios.com/2025/12/28/nvidia-groq-shareholders",
-      "urlToImage": "https://images.axios.com/IuuZHNJ-YNSHsXAi9obgpBydckU=/1366x768/smart/2025/01/07/185953-1736276393554.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-12-28T01:36:41Z"
+      "title": "PG&E power outage impacts thousands in San Francisco's Golden Gate Park, Richmond areas - CBS News",
+      "description": "Another power outage in San Francisco has left thousands of Pacific Gas and Electric customers in the dark Sunday night.",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-pge-power-outage-sunday/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/29/8f13e478-f127-4b7b-8c73-257a017f5ff2/thumbnail/1200x630/8cc4bf78ee610d111d2996064250225a/gettyimages-2247831256.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-29T04:51:02Z"
     },
     {
-      "title": "Mountain West Food Group, LLC Recalls Ground Beef Products Due To Possible E. Coli O26 Contamination - fsis.usda.gov",
-      "description": null,
-      "url": "http://www.fsis.usda.gov/recalls-alerts/mountain-west-food-group-llc-recalls-ground-beef-products-due-possible-e--coli-o26",
-      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "source": "Usda.gov",
-      "publishedAt": "2025-12-27T23:33:35Z"
+      "title": "American Airlines announces significant changes to operations at DFW Airport to \"improve passenger experience\" - CBS News",
+      "description": "The airline said the moves are designed to improve the passenger experience at the carrier's largest hub.",
+      "url": "https://www.cbsnews.com/texas/news/american-airlines-announces-significant-changes-operations-dfw-airport/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/06/177b2ff2-7329-4496-bdd9-7843da56cd3e/thumbnail/1200x630/a00b0b17c0874bb94956e8f9e7fdc764/gettyimages-1228844754.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-29T02:26:14Z"
     },
     {
-      "title": "PG&E outage: More than 6,000 S.F. customers without power for hours - San Francisco Chronicle",
-      "description": "More than 6,000 Pacific Gas and Electric customers in the Richmond, Sunset and other SF neighborhoods regained power after a three-hour outage Saturday.",
-      "url": "https://www.sfchronicle.com/sf/article/pge-outage-21264014.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/47/52/28736130/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-12-27T22:22:20Z"
-    },
-    {
-      "title": "Dysart man claims $1 million lottery ticket - KCRG",
-      "description": "William Zak of Dysart’s winning ticket matched all five white Powerball numbers.",
-      "url": "https://www.kcrg.com/2025/12/27/dysart-man-claims-1-million-lottery-ticket/",
-      "urlToImage": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/H7P2NGNBNJER7LFBWZH6Z7TRCQ.jpg?auth=de615d52024b8b6c78e0a541edb052098e82276051e6fb51105582805bfb44aa&width=1200&height=600&smart=true",
-      "source": "KCRG",
-      "publishedAt": "2025-12-27T20:38:00Z"
-    },
-    {
-      "title": "$400,000 worth of lobster stolen en route to Costco stores, shipper says - NBC News",
-      "description": "A whopping $400,000 shipment of lobster was stolen as it was headed for Costco stores, according to the lobster company's president.",
-      "url": "https://www.nbcnews.com/news/us-news/lobster-stolen-en-route-costco-stores-rcna251110",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251227-lobsters-stock-ch-1501-d8ec94.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-12-27T20:32:28Z"
-    },
-    {
-      "title": "40-year-old arts and crafts chain files Chapter 11 bankruptcy - thestreet.com",
-      "description": "The arts and crafts retail chain files for bankruptcy, facing financial distress from economic headwinds and tight lending restrictions.",
-      "url": "https://www.thestreet.com/retail/40-year-old-arts-and-crafts-chain-files-chapter-11-bankruptcy",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODA0ODAw/arts-and-crafts-store-lead-ko-122625.jpg",
+      "title": "Sneaker retailer files Chapter 11, closes most of its stores - thestreet.com",
+      "description": "The chain shutters the majority of its locations after taking on unsustainable debt, highlighting the challenges in the sneaker market.",
+      "url": "https://www.thestreet.com/retail/in-chapter-11-bankruptcy-sneaker-retailer-soleply-closes-most-stores",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODA1NTEz/sneaker-shopping-lead-1.jpg",
       "source": "TheStreet",
-      "publishedAt": "2025-12-27T20:21:59Z"
+      "publishedAt": "2025-12-29T02:26:00Z"
     },
     {
-      "title": "Bankruptcies soar as companies grapple with inflation, tariffs - The Washington Post",
-      "description": "Businesses in vulnerable sectors found themselves caught between rising tariffs and beleaguered consumers.",
-      "url": "https://www.washingtonpost.com/business/2025/12/27/corporate-bankruptcies-economy/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D7ZMDJGGEBEOBMFW6RUYCHKMMQ.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-12-27T18:00:00Z"
-    },
-    {
-      "title": "Billionaire Chase Coleman Has Formed His Own \"Magnificent Seven\" and It's Even Better Than the Original - Yahoo Finance",
-      "description": "The new \"Magnificent Seven\" is better suited for today's current market.",
-      "url": "https://www.fool.com/investing/2025/12/27/chase-coleman-has-formed-his-own-magnificent-seven/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MY2Bmki8QoK6.KREkWNp2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/eabe09939bd0a408a13029fc96b6a565",
-      "source": "Motley Fool",
-      "publishedAt": "2025-12-27T17:57:00Z"
-    },
-    {
-      "title": "When to expect Social Security benefits for 2026 - NewsNation",
-      "description": "Those born on the 1st through 10th of the month will get their benefits on the second Wednesday of every month.",
-      "url": "https://www.newsnationnow.com/business/your-money/when-to-expect-social-security-benefits-for-2026/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/11/AP25169577625460-e1763488478318.jpg?w=1280",
-      "source": "Newsnationnow.com",
-      "publishedAt": "2025-12-27T17:29:53Z"
-    },
-    {
-      "title": "N.J. warehouse just sold for $8.74M as buyers compete for limited space - NJ.com",
-      "description": "NAI James E. Hanson negotiated the $8.74 million sale of 8 Evans Street in Fairfield. The buyer was KF Mechanical, LLC.",
-      "url": "https://www.nj.com/essex/2025/12/nj-warehouse-just-sold-for-874m-as-buyers-compete-for-limited-space.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/HZX5U4ZI4VCFHJP63HUB5N7SFU.png?auth=32b539fa90bf82261b7d7b5aa04a33ed53af95794a3bf4e5dea836d01f55c189&width=1280&smart=true&quality=90",
-      "source": "nj.com",
-      "publishedAt": "2025-12-27T16:00:00Z"
-    },
-    {
-      "title": "Lehigh Valley breakfast and lunch eatery to close as owner begins next chapter at new restaurant - WFMZ.com",
-      "description": "A tasty business is bidding farewell as another one is preparing to open in Lehigh County.",
-      "url": "https://www.wfmz.com/features/eat-sip-shop/lehigh-valley-breakfast-and-lunch-eatery-to-close-as-owner-begins-next-chapter-at-new/article_afad5731-b930-4ac9-a6e7-f4cada495be0.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/f6/bf6c0be2-2f5f-47c0-a177-47449fa94e25/67f857bf7fdf5.image.jpg?crop=1912%2C1003%2C103%2C0&resize=1200%2C629&order=crop%2Cresize",
-      "source": "WFMZ Allentown",
-      "publishedAt": "2025-12-27T15:10:00Z"
-    },
-    {
-      "title": "Mark Cuban Says 'It's Interesting' The Trump Administration Quietly Offered A Form Of UBI Through HSA Contributions, And 'No One Noticed' It - Yahoo Finance",
-      "description": "Billionaire entrepreneur Mark Cuban believes the government may have slipped in a version of universal basic income without anyone realizing it. And he...",
-      "url": "https://finance.yahoo.com/news/mark-cuban-says-interesting-trump-143102250.html",
-      "urlToImage": "https://media.zenfs.com/en/Benzinga/41dd6dc907797e410db521bf42208874",
+      "title": "Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos - Yahoo Finance",
+      "description": "Sauron is appearing on the scene as concerns rise about crime among the most wealthy.",
+      "url": "https://finance.yahoo.com/news/sauron-high-end-home-security-022000247.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RFrpXLc4D3v.W0jddJZexA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjY5/https://media.zenfs.com/en/techcrunch_finance_785/1d5adfaaf3493eccc017964f76b8d8ff",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-27T14:31:02Z"
+      "publishedAt": "2025-12-29T02:20:00Z"
     },
     {
-      "title": "CBD, hemp and other marijuana products may not be available in NC next year. Here’s why - WHQR",
-      "description": "A provision in the law that reopened the federal government could shutter the multi-billion-dollar hemp industry. Here's an explainer from NC Local.",
-      "url": "https://www.whqr.org/local/2025-12-27/cbd-hemp-and-other-marijuana-products-may-not-be-available-in-nc-next-year-heres-why",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/7f7b6f6/2147483647/strip/true/crop/4500x2363+0+319/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F4c%2F424d65264e6786186c4ecc2b3ec4%2Fhemp-aphiwat-chuangchoem.jpg",
-      "source": "WHQR",
-      "publishedAt": "2025-12-27T14:09:00Z"
-    },
-    {
-      "title": "Where Seattle plans to build a new public pool - The Seattle Times",
-      "description": "In 2022, the city dropped its plan to build a brand new swimming pool for Green Lake's community center. Now the idea has floated back to the surface.",
-      "url": "https://www.seattletimes.com/seattle-news/politics/seattle-plans-to-build-new-green-lake-pool-renovate-community-center/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/12/12242025_tzr_tzr_153758.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-12-27T14:00:00Z"
-    },
-    {
-      "title": "Bowling bridge rolls into position during railway line closure - BBC",
-      "description": "The £5.9m bridge, being built in Bowling, West Dunbartonshire, was moved into position on Boxing Day.",
-      "url": "https://www.bbc.com/news/articles/c8xd04l8g1ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/607c/live/3094c050-e327-11f0-9cea-f1ab704c03ad.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-27T13:42:10Z"
-    },
-    {
-      "title": "2026 Market Outlook: Energy Will Lead The Way Down - Seeking Alpha",
-      "description": "Dallas Fed Q4 survey reveals ongoing energy sector contraction. Learn what this means for market trends and future investment decisions. Click for more.",
-      "url": "https://seekingalpha.com/article/4855955-2026-market-outlook-energy-will-lead-the-way-down",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2233284583/image_2233284583.jpg?io=getty-c-w1536",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-12-27T13:00:00Z"
-    },
-    {
-      "title": "West Wickham KFC franchisee to pay £70k fine over 'slave' comment - BBC",
-      "description": "Madhesh Ravichandran, from Tamil Nadu, was discriminated against because of his race, a tribunal hears.",
-      "url": "https://www.bbc.com/news/articles/c3e0g1nxgdeo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2f5e/live/32b198c0-e31a-11f0-987c-e7a87c1abaa5.png",
-      "source": "BBC News",
-      "publishedAt": "2025-12-27T12:41:25Z"
-    },
-    {
-      "title": "Morgan Stanley says these are top stock picks in 2026, including Nvidia - CNBC",
-      "description": "Morgan Stanley named its favorite stocks to buy in 2026.",
-      "url": "https://www.cnbc.com/2025/12/27/top-stocks-in-2026-include-nvidia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104098790-RTXSHQY.jpg?v=1741621121&w=1920&h=1080",
+      "title": "Asia-Pacific markets trade mixed in final week of 2025; silver shoots to fresh record of $80 - CNBC",
+      "description": "Asia-Pacific markets traded mixed on Monday as investors kicked off the final trading week of the year.",
+      "url": "https://www.cnbc.com/2025/12/29/asia-pacific-markets-nikkei-225-hang-seng-index-kospi.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108241556-1765610729588-gettyimages-2246895310-20090101251119-99-688196.jpeg?v=1765610763&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-12-27T12:40:55Z"
+      "publishedAt": "2025-12-28T23:45:49Z"
     },
     {
-      "title": "How you’ll be using AI in 2026: note-taking rings and robotaxis - The Times",
-      "description": "The boom in machine learning could mean the biggest year for hardware since the iPhone was unveiled in 2007",
-      "url": "https://www.thetimes.com/business/technology/article/ai-use-2026-new-technology-robots-28mgrzqgl",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/%2F7319469d-46f4-4222-9f50-dc89ee18d02c.jpg?crop=1600%2C900%2C0%2C0&resize=1200",
+      "title": "This fund logged a 950% return on SpaceX. Here’s what happened next - CNBC",
+      "description": "This tech-focused investment trust took an early-stage \"speculative\" bet on SpaceX in 2018.",
+      "url": "https://www.cnbc.com/2025/12/29/this-fund-logged-a-950percent-return-on-spacex-heres-what-happened-next.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108155567-17491584882025-06-05t212043z_1932073602_rc2kwea51ijx_rtrmadp_0_usa-trump-musk-spacex.jpeg?v=1749158531&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-28T23:35:56Z"
+    },
+    {
+      "title": "Stock futures are little changed after S&P 500 hits fresh record: Live updates - CNBC",
+      "description": "Stock futures were little changed Sunday night after the S&P 500 scaled to fresh record levels, with traders set to wrap up a strong 2025.",
+      "url": "https://www.cnbc.com/2025/12/28/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243748-1766084059337-108243748-1766083270264-Traders-Photo-20251218-KK-PRESS-009.jpg?v=1766084069&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-28T23:26:00Z"
+    },
+    {
+      "title": "Ground beef recalled in WA, elsewhere after testing finds E. coli - The Seattle Times",
+      "description": "An Idaho meat company is recalling ground beef sold in several states, including Washington, after testing confirmed contamination with E. coli.",
+      "url": "https://www.seattletimes.com/seattle-news/health/ground-beef-recalled-in-wa-elsewhere-after-testing-finds-e-coli/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/12/12282025_tzr_tzr_144402.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2025-12-28T22:52:11Z"
+    },
+    {
+      "title": "Costco offers a rare membership deal you need to grab now - thestreet.com",
+      "description": "A limited-time promotion makes joining Costco more tempting than ever.",
+      "url": "https://www.thestreet.com/retail/costco-offers-a-rare-membership-deal-you-need-to-grab-now",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTgxMzM0Mzg1MjA5OTExMjQz/costco_1_052821.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-12-28T22:37:00Z"
+    },
+    {
+      "title": "AI start-ups amass record $150bn funding cushion as bubble fears mount - Financial Times",
+      "description": "Mega funding rounds create ‘fortress balance sheets’ as investors advise top groups to brace for tougher markets",
+      "url": "https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa0f9fb0-98fd-4023-a37b-1ebbf5efe8de.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-12-28T21:00:07Z"
+    },
+    {
+      "title": "Market ‘Will Punish People’ If Trump Influences Federal Reserve, Bank Of America CEO Warns - Forbes",
+      "description": "Trump has long threatened to fire Federal Reserve chair Jerome Powell, raising fears about a non-independent Fed.",
+      "url": "https://www.forbes.com/sites/alisondurkee/2025/12/28/market-will-punish-people-if-trump-influences-federal-reserve-bank-of-america-ceo-warns/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69518fc2617b2686ea3b5352/0x0.jpg?format=jpg&crop=2364,1328,x512,y0,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-12-28T20:25:27Z"
+    },
+    {
+      "title": "Nvidia's \"Aqui-Hire\" of Groq Eliminates a Potential Competitor and Marks Its Entrance Into the Non-GPU, AI Inference Chip Space - The Motley Fool",
+      "description": "This smart move by Nvidia accomplishes two goals at once: it eliminates a potential competitor and obtains a new chip technology to offer its customers.",
+      "url": "https://www.fool.com/investing/2025/12/28/nvidia-groq-deal-acquisition-ai-inference-lpu/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848787%2Fnvda-stock-nvidia-groq-deal-acquisition-ai-inference-lpu-chip.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2025-12-28T20:00:00Z"
+    },
+    {
+      "title": "Colorado's biggest winners in the record $1.8 billion Powerball drawing - 9News",
+      "description": "The winning tickets were sold in Colorado Springs, Lone Tree and Pueblo.",
+      "url": "https://www.9news.com/article/news/lottery/powerball-drawing-winners-colorado/73-a17f8963-c625-43ba-a21a-afa6f25c47a8",
+      "urlToImage": "https://media.9news.com/assets/AssociatedPress/images/864453a7-baa5-4186-92c1-83ab75d25a5a/20251224T052005/864453a7-baa5-4186-92c1-83ab75d25a5a_1140x641.jpg",
+      "source": "9News.com KUSA",
+      "publishedAt": "2025-12-28T18:35:00Z"
+    },
+    {
+      "title": "Cost of turning off wind farms if network cannot cope hits £1.5bn - The Times",
+      "description": "Switching off renewables for gas-fired energy could rise to £8bn a year unless the ‘broken system’ is fixed, says Octopus Energy",
+      "url": "https://www.thetimes.com/business/energy/article/cost-of-turning-off-wind-farms-if-network-cannot-cope-hits-15bn-gm5wqrshz",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/%2F25ae6cb5-b0a3-402f-9b93-10110e9ef8ea.jpg?crop=5025%2C2827%2C0%2C436&resize=1200",
       "source": "Thetimes.com",
-      "publishedAt": "2025-12-27T12:20:49Z"
+      "publishedAt": "2025-12-28T17:35:00Z"
+    },
+    {
+      "title": "Sunday shopping ban doesn’t apply at American Dream mall, N.J. says in Bergen blue laws battle - NJ.com",
+      "description": "Paramus, one of the top retail zip codes in the country, filed a lawsuit against American Dream.",
+      "url": "https://www.nj.com/news/2025/12/sunday-shopping-ban-doesnt-apply-at-american-dream-mall-nj-says-in-blue-laws-battle.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/RTZRZI4CPFEDVPNOZVKQTJYDE4.jpg?auth=f611be825c4b02c9209517fa90edf915cd4d52e61b2a00da2bc64f0af1007d4b&width=1280&smart=true&quality=90",
+      "source": "nj.com",
+      "publishedAt": "2025-12-28T17:09:00Z"
+    },
+    {
+      "title": "Mid-tier refreshes, transfer ratio devaluations and more: TPG's credit card experts predict 2026 trends - The Points Guy",
+      "description": "I chatted with some of TPG's experts to hear their predictions for 2026.",
+      "url": "https://thepointsguy.com/credit-cards/tpg-predicts-2026-trends/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/07/20250715_SOCIAL-DISCLAIMER_PARTER-OFFER-TERMS-APPLY_TOURIST-TAKING-PHOTO-WITH-SMART-PHONE-IN-PARIS_pixdeluxe.jpg",
+      "source": "The Points Guy",
+      "publishedAt": "2025-12-28T17:05:50Z"
     }
   ]
 }
