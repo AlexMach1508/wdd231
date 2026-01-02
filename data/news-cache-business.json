@@ -1,79 +1,31 @@
 {
-  "updatedAt": "2026-01-01T06:48:40.585Z",
+  "updatedAt": "2026-01-02T06:48:24.633Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Oysters, crab and $400,000 worth of lobster meat stolen in New England - CNN",
-      "description": "Forty-thousand oysters, lobster worth $400,000 and a cache of crabmeat all were stolen in separate incidents within weeks of each other in New England.",
-      "url": "https://www.cnn.com/2025/12/30/us/oysters-crab-lobster-meat-stolen-new-england-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25364768513586.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-12-31T04:30:00Z"
-    },
-    {
-      "title": "Gold and silver see rollercoaster end to blockbuster year - BBC",
-      "description": "The price of gold soared by more than 60% this year to hit a record high of more than $4,549.",
-      "url": "https://www.bbc.com/news/articles/cp393nz95y5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2238/live/88647ff0-e5e3-11f0-956e-47166c96f12f.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-12-31T02:18:56Z"
-    },
-    {
-      "title": "Everything Elon Musk promised in 2025, but didn't deliver - Mashable",
-      "description": "Musk is now infamous for his false promises, but even this is excessive.",
-      "url": "https://mashable.com/article/elon-musk-failed-to-deliver-on-2025-promises",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05mLTh94UsKTDvC8D7AS5tZ/hero-image.fill.size_1200x675.v1767132170.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-31T01:03:16Z"
-    },
-    {
-      "title": "Stock futures are little changed, as Wall Street readies to close out 2025: Live updates - CNBC",
-      "description": "The stock market has muscled past tariff chaos and fears of an AI bubble to scale to all-time highs in 2025.",
-      "url": "https://www.cnbc.com/2025/12/30/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246250-1767021860581-Traders-Photo-20251229-KK-PRESS-008.jpg?v=1767022020&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-31T00:04:00Z"
-    },
-    {
-      "title": "Asia-Pacific markets open lower in year-end trade - CNBC",
-      "description": "Asia-Pacific markets were poised for modest gains on the holiday-shortened and final trading day of the year.",
-      "url": "https://www.cnbc.com/2025/12/31/asia-pacific-markets-hang-seng-index-nifty-50-csi-300.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206822-1759376123798-gettyimages-976177846-zb5423_241410_0009.jpeg?v=1759376155&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-31T00:03:00Z"
-    },
-    {
-      "title": "Is the US economy strong heading into 2026? The picture is complicated - Al Jazeera",
-      "description": "The world’s top economy is growing faster than its peers, but divide between wealthy and poorer Americans is growing.",
-      "url": "https://www.aljazeera.com/news/2025/12/30/is-the-us-economy-strong-heading-into-2026-the-picture-is-complicated",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP24085714406003-1767057909_2d6800-1767074372.jpg?resize=1200%2C630&quality=80",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-12-30T23:57:59Z"
-    },
-    {
-      "title": "Scammers notched $333 million from bitcoin ATM scams in 2025, FBI says - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/US/scammers-notched-333-million-bitcoin-atm-scams-2025/story?id\\\\u003d128526877",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-12-30T22:39:15Z"
-    },
-    {
-      "title": "Warner Bros plans to reject Paramount’s latest hostile bid - Financial Times",
-      "description": "Personal guarantee from Oracle’s Larry Ellison insufficient to persuade Hollywood studio’s board",
-      "url": "https://www.ft.com/content/31af8042-7426-44e2-9649-6bb2122b4a7e",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33b8b031-c3cb-4250-b79c-0717fa76f57e.jpg?source=next-barrier-page",
+      "title": "Chip shortages threaten 20% rise in consumer electronics prices - Financial Times",
+      "description": "Manufacturers and analysts warn AI data centre build-out is crowding out market for semiconductors",
+      "url": "https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb27d97d3-d6eb-485c-bcb7-fe034e4d21af.jpg?source=next-barrier-page",
       "source": "Financial Times",
-      "publishedAt": "2025-12-30T21:11:09Z"
+      "publishedAt": "2026-01-01T01:55:08Z"
     },
     {
-      "title": "Benihana reveals ambitious expansion plan for the Bay Area - SFGATE",
-      "description": "The One Group Hospitality, which acquired international teppanyaki chain Benihana last year, has announced plans to open 10 new restaurants in the Bay Area.",
-      "url": "https://www.sfgate.com/food/article/benihana-reveals-plans-expand-bay-area-21268427.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/06/06/04/18374936/6/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-12-30T21:00:33Z"
+      "title": "Power restored to 3,600 PG&E customers in Richmond District after latest outage - San Francisco Chronicle",
+      "description": "Power restored to 3,600 PG&E customers in the Richmond District after latest outage",
+      "url": "https://www.sfchronicle.com/sf/article/pg-e-outage-richmond-district-latest-21270512.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/55/47/52/28736130/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2026-01-01T01:28:55Z"
+    },
+    {
+      "title": "Trump administration orders a Colorado coal-fired power generator to stay open - AP News",
+      "description": "The Trump administration has ordered another coal-fired power facility to remain open. This time it's telling the owners of the Craig Station in northwestern Colorado to keep running an electricity-generating unit that was slated for retirement Wednesday. The…",
+      "url": "https://apnews.com/article/trump-coal-plant-electricity-craig-64eab6db7145003c1b7c7bc7584ec7b9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0bffa2a/2147483647/strip/true/crop/4152x2336+0+216/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fc6%2F788e87257fc5689fa011212e23ba%2Fa15ff091f925476cac190250ddb59abb",
+      "source": "Associated Press",
+      "publishedAt": "2025-12-31T22:34:00Z"
     },
     {
       "title": "Idaho company recalls nearly 3,000 pounds of ground beef for E. coli risk - ABC News",
@@ -81,71 +33,119 @@
       "url": "https://abcnews.go.com/US/wireStory/idaho-company-recalls-3000-pounds-ground-beef-coli-128787767",
       "urlToImage": "https://i.abcnewsfe.com/a/bbb4fb93-dd96-49c6-ac7d-38bb54605f2a/wirestory_1c4f5260427721b900a694ce0547a70b_16x9.jpg?w=1600",
       "source": "ABC News",
-      "publishedAt": "2025-12-30T18:54:53Z"
+      "publishedAt": "2025-12-31T22:06:31Z"
     },
     {
-      "title": "Idaho $1,000,000 Raffle: See where the winning tickets were sold - KTVB",
-      "description": "Are you one of the Gem State's newest millionaires? Officials have unveiled the purchase locations of the winning tickets for the Idaho $1,000,000 Raffle.",
-      "url": "https://www.ktvb.com/article/news/local/idaho-1-million-raffle-see-where-winning-tickets-sold-purchase-counties-2025/277-c2e4fffa-e94d-473b-a7ac-bf98ddb8fdd6",
-      "urlToImage": "https://media.ktvb.com/assets/KTVB/images/ec50635e-1e69-459f-b75c-fbe844b410c6/20251230T180744/ec50635e-1e69-459f-b75c-fbe844b410c6_1140x641.jpg",
-      "source": "KTVB.com",
-      "publishedAt": "2025-12-30T18:14:00Z"
+      "title": "Stock Market Today: Indexes Fall Ahead Of 2026; Warren Buffett Hands Over Reins (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index falls Wednesday after surprise weekly jobless claims. Nvidia slips amid China chip news.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-nvda-rocket-lab-rklb/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/11/stock-futuristic-2026-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-12-31T21:37:00Z"
     },
     {
-      "title": "Meta buys Chinese-founded AI agent start-up Manus - BBC",
-      "description": "The tech giant wants to build into its own AI tools which do complex things with minimal interaction.",
-      "url": "https://www.bbc.com/news/articles/ce3k11q9qe1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f148/live/57d2c670-e59e-11f0-8bbe-6935d94eeebc.jpg",
+      "title": "Sprinkles Cupcakes founder confirms bakery chain is closing permanently - CBS News",
+      "description": "The chain started in Beverly Hills in 2005.",
+      "url": "https://www.cbsnews.com/losangeles/news/sprinkles-cupcake-chain-closing/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/31/b13e7df4-3d3f-4dd8-8755-f7d87bef17d4/thumbnail/1200x630/a9f0ee3da0915192d179c756f3fe0f1e/gettyimages-1391606481.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-31T20:34:00Z"
+    },
+    {
+      "title": "Trump media firm to issue new cryptocurrency to shareholders - BBC",
+      "description": "The digital token will add to the Trump family's crypto ventures, which have brought in millions of dollars and raised questions on conflicts of interest.",
+      "url": "https://www.bbc.com/news/articles/cx2ky3mn7j5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/492a/live/87c13040-e681-11f0-b013-85379929134d.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-30T17:30:36Z"
+      "publishedAt": "2025-12-31T20:31:26Z"
     },
     {
-      "title": "Analysts Call NVIDIA Corporation (NVDA) Groq Deal a ‘Tech and Talent Grab’ - Yahoo Finance",
-      "description": "We recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts. NVIDIA Corporation is one of the most promising stocks...",
-      "url": "https://finance.yahoo.com/news/analysts-call-nvidia-corporation-nvda-172707231.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ENmNeWc0VnWpngIWxXawgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-12-30T17:27:07Z"
+      "title": "$400K in lobster meat destined for Costco stores in Illinois, Minnesota stolen by a fraudulent trucking company: broker - ABC7 Chicago",
+      "description": "40K oysters, crab also recently stolen in New England",
+      "url": "https://abc7chicago.com/post/400k-lobster-meat-destined-costco-stores-illinois-minnesota-stolen-fraudulent-trucking-company-broker/18336316/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18336324_123125-wls-lobster-heist-4pvo-vid.jpg?w=1600",
+      "source": "WLS-TV",
+      "publishedAt": "2025-12-31T18:10:28Z"
     },
     {
-      "title": "Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them - MarketWatch",
-      "description": "Besides Nvidia, Wedbush’s Dan Ives recommended three other ‘Magnificent Seven’ stocks to play the AI trade, plus a ‘cult’ stock and a software company",
-      "url": "https://www.marketwatch.com/story/techs-biggest-bull-lists-his-top-5-ai-stocks-for-2026-and-nvidias-isnt-one-of-them-04659b93",
-      "urlToImage": "https://images.mktw.net/im-65110569/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-12-30T17:17:00Z"
+      "title": "Kroger launches 20% off discount fruit, vegetable program for some customers - WSB-TV",
+      "description": "Kroger announced it was launching a new savings program to give discounts on fruits and vegetables.",
+      "url": "https://www.wsbtv.com/news/local/atlanta/kroger-launches-20-off-discount-fruit-vegetable-program-some-customers/FZJDNG2ZNZFXHNN7FCGXL7WHAA/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCQVGGPYV5BHK3J7OR4LARDXKUI.jpeg?auth=3cf9134aa8fe5d56cce1b593d52798c2e90b73dc89bf6d83ff75149545788959&width=1200&height=630&smart=true",
+      "source": "WSB Atlanta",
+      "publishedAt": "2025-12-31T17:42:11Z"
     },
     {
-      "title": "The top car trends to expect at CES 2026 - Mashable",
-      "description": "You can still find futuristic EVs at CES, but this year it's all about the software on board.",
-      "url": "https://mashable.com/article/top-car-trends-to-expect-ces-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00dCmfhYcwT1z5KAXCivxXP/hero-image.fill.size_1200x675.v1767044061.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-12-30T17:05:00Z"
+      "title": "Average US long-term mortgage rate falls to the lowest level of the year at 6.15% - ABC News",
+      "description": "The average rate on a 30-year U.S. mortgage fell to its lowest level of 2025 this week, an encouraging sign for prospective home buyers",
+      "url": "https://abcnews.go.com/Business/wireStory/average-us-long-term-mortgage-rate-falls-lowest-128809821",
+      "urlToImage": "https://i.abcnewsfe.com/a/068b3988-0c66-4f20-b9ec-8814a34f632e/wirestory_2eac9ad6dbc581760cb0b47e61e77766_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-12-31T17:29:25Z"
     },
     {
-      "title": "Analyst who predicted S&P 500 rally offers 2026 warning - thestreet.com",
-      "description": "Here's what could happen to stocks in 2026.",
-      "url": "https://www.thestreet.com/investing/stocks/analyst-who-predicted-sp-500-rally-offers-2026-warning",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODA1OTAw/wall-street-trader-12-28-2025-gettyimages-2251196257-1.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-12-30T16:42:23Z"
+      "title": "The Dutch Seized A Chinese Chipmaker. Supply Chain Chaos Has Just Begun. - Forbes",
+      "description": "Nexperia has shown the world how unprepared Western supply chains are for decoupling from China – and how quickly the Chinese ecosystem can adapt.",
+      "url": "https://www.forbes.com/sites/jillgoldenziel/2025/12/31/the-dutch-seized-a-chinese-chipmaker-supply-chain-chaos-has-just-begun/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6954252597c6a632604e2339/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-12-31T17:06:03Z"
     },
     {
-      "title": "Rule expands penalty-free early 401(k) withdrawals — but new use ‘might not be practical,’ advisor says - CNBC",
-      "description": "A provision from the 2022 Secure Act 2.0 is now in effect that allows limited penalty-free withdrawals from 401(k)s to pay long-term care insurance premiums.",
-      "url": "https://www.cnbc.com/2025/12/30/early-401k-withdrawals-ltc-insurance.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246471-1767048079121-gettyimages-1602737921-hhhelderlyoutdoorhealthcaregetty2023hhh327.jpeg?v=1767048392&w=1920&h=1080",
+      "title": "Two restaurants exit as one expands in New Mexico - KOB.com",
+      "description": "Two restaurant companies are no longer in New Mexico while one local restaurant is expanding their operations.",
+      "url": "https://www.kob.com/news/top-news/two-restaurants-exit-as-one-expands-in-new-mexico/",
+      "urlToImage": "https://www.kob.com/wp-content/uploads/2025/12/MGN_1280x720_31004P00-ULAOZ-tacos.jpg",
+      "source": "KOB",
+      "publishedAt": "2025-12-31T16:20:52Z"
+    },
+    {
+      "title": "Dario's Predictions for 2026 - Pinkbike",
+      "description": "More big wheels, big races, and AI strangeness made Dario's list.",
+      "url": "https://www.pinkbike.com/news/darios-predictions-for-2026.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb25739404/p4pb25739404.jpg",
+      "source": "Pinkbike.com",
+      "publishedAt": "2025-12-31T16:00:00Z"
+    },
+    {
+      "title": "What will the U.S. economy look like in 2026? Experts weigh in on 5 key questions. - CBS News",
+      "description": "From stubbornly high living costs to a softer labor market, economists say these are the forces that will shape the year ahead.",
+      "url": "https://www.cbsnews.com/news/economy-2026-outlook-affordability-rates-jobs-markets/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/23/db2067bd-a871-4a43-b155-e23b875c2901/thumbnail/1200x630/1c6aa54b364a46120b62c8ebc09a35ad/cbsn-fusion-current-views-us-economy-fall-short-expectations-beginning-2025-thumbnail.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-12-31T15:30:00Z"
+    },
+    {
+      "title": "Have TRICARE For Life? Here's what to do if you move - TRICARE Newsroom (.mil)",
+      "description": "Are you planning to move soon? Whether you’re moving across town or overseas, TRICARE For Life moves with you.",
+      "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4369317/have-tricare-for-life-heres-what-to-do-if-you-move",
+      "urlToImage": "https://media.defense.gov/2025/Dec/31/2003849948/1920/1080/0/251231-O-D0202-1001.JPG",
+      "source": "Tricare.mil",
+      "publishedAt": "2025-12-31T15:11:12Z"
+    },
+    {
+      "title": "3 tactics the ultra-wealthy are using to invest in 2026 that you can mimic with the right tools - CNBC",
+      "description": "The rich invest for the long-run, using discipline and diversification — all things you can do, too.",
+      "url": "https://www.cnbc.com/select/how-ultra-wealthy-are-investing-in-2026-and-how-you-can-mimic/",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108245416-1766526679106-gettyimages-1661408043-businesswomanmakingmoney2.jpeg?v=1766526693&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-12-30T16:30:01Z"
+      "publishedAt": "2025-12-31T15:02:34Z"
     },
     {
-      "title": "How the AI ‘bubble’ compares to history - Financial Times",
-      "description": "US stock valuations are higher than before 1929 Wall Street crash but the dominance of a single sector has precedents",
-      "url": "https://www.ft.com/content/41e9d03a-e5c1-4862-9836-b3c80b3f9be4",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F018abcf1-4862-4f38-ad74-33ea660bde3c.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-12-30T15:45:01Z"
+      "title": "Treasury, IRS provide guidance on the new deduction for car loan interest under the One, Big, Beautiful Bill - IRS (.gov)",
+      "description": "IR-2025-129, Dec. 31, 2025 — The Department of the Treasury and the Internal Revenue Service today provided guidance on the “No Tax on Car Loan Interest” provision enacted under the One, Big, Beautiful Bill.",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-provide-guidance-on-the-new-deduction-for-car-loan-interest-under-the-one-big-beautiful-bill",
+      "urlToImage": "https://www.irs.gov/pub/image/logo_small.jpg",
+      "source": "Irs.gov",
+      "publishedAt": "2025-12-31T14:31:19Z"
+    },
+    {
+      "title": "27-year-old quit her 9-to-5 to start a floral business—this year, she brought in 6 figures and designed bouquets for Sabrina Carpenter, Katy Perry - CNBC",
+      "description": "Colleen McCarthy began designing flower arrangements in 2022. Today, she's created bouquets for stars like Sabrina Carpenter and Katy Perry.",
+      "url": "https://www.cnbc.com/2025/12/31/27-year-old-quit-her-9-to-5-to-start-a-floral-businessthis-year-she-brought-in-6-figures.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243687-1766077168191-Colleen_McCarthy_cropped_2.jpeg?v=1766077224&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-12-31T14:15:01Z"
     }
   ]
 }
