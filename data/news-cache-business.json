@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2026-01-02T06:48:24.633Z",
+  "updatedAt": "2026-01-03T06:44:54.462Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Chip shortages threaten 20% rise in consumer electronics prices - Financial Times",
-      "description": "Manufacturers and analysts warn AI data centre build-out is crowding out market for semiconductors",
-      "url": "https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb27d97d3-d6eb-485c-bcb7-fe034e4d21af.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-01T01:55:08Z"
+      "title": "Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid AI chip boom in China - CNBC",
+      "description": "Baidu has announced plans to spin off its artificial intelligence chip subsidiary, Kunlunxin, and list the new firm on the Hong Kong Stock Exchange.",
+      "url": "https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1767324080&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-02T05:08:12Z"
     },
     {
-      "title": "Power restored to 3,600 PG&E customers in Richmond District after latest outage - San Francisco Chronicle",
-      "description": "Power restored to 3,600 PG&E customers in the Richmond District after latest outage",
-      "url": "https://www.sfchronicle.com/sf/article/pg-e-outage-richmond-district-latest-21270512.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/47/52/28736130/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2026-01-01T01:28:55Z"
-    },
-    {
-      "title": "Trump administration orders a Colorado coal-fired power generator to stay open - AP News",
-      "description": "The Trump administration has ordered another coal-fired power facility to remain open. This time it's telling the owners of the Craig Station in northwestern Colorado to keep running an electricity-generating unit that was slated for retirement Wednesday. The…",
-      "url": "https://apnews.com/article/trump-coal-plant-electricity-craig-64eab6db7145003c1b7c7bc7584ec7b9",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0bffa2a/2147483647/strip/true/crop/4152x2336+0+216/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fc6%2F788e87257fc5689fa011212e23ba%2Fa15ff091f925476cac190250ddb59abb",
-      "source": "Associated Press",
-      "publishedAt": "2025-12-31T22:34:00Z"
-    },
-    {
-      "title": "Idaho company recalls nearly 3,000 pounds of ground beef for E. coli risk - ABC News",
-      "description": "An Idaho company is recalling nearly 3,000 pounds of raw ground beef that may have been contaminated with E",
-      "url": "https://abcnews.go.com/US/wireStory/idaho-company-recalls-3000-pounds-ground-beef-coli-128787767",
-      "urlToImage": "https://i.abcnewsfe.com/a/bbb4fb93-dd96-49c6-ac7d-38bb54605f2a/wirestory_1c4f5260427721b900a694ce0547a70b_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-12-31T22:06:31Z"
-    },
-    {
-      "title": "Stock Market Today: Indexes Fall Ahead Of 2026; Warren Buffett Hands Over Reins (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index falls Wednesday after surprise weekly jobless claims. Nvidia slips amid China chip news.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-nvda-rocket-lab-rklb/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/11/stock-futuristic-2026-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-12-31T21:37:00Z"
-    },
-    {
-      "title": "Sprinkles Cupcakes founder confirms bakery chain is closing permanently - CBS News",
-      "description": "The chain started in Beverly Hills in 2005.",
-      "url": "https://www.cbsnews.com/losangeles/news/sprinkles-cupcake-chain-closing/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/31/b13e7df4-3d3f-4dd8-8755-f7d87bef17d4/thumbnail/1200x630/a9f0ee3da0915192d179c756f3fe0f1e/gettyimages-1391606481.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-31T20:34:00Z"
-    },
-    {
-      "title": "Trump media firm to issue new cryptocurrency to shareholders - BBC",
-      "description": "The digital token will add to the Trump family's crypto ventures, which have brought in millions of dollars and raised questions on conflicts of interest.",
-      "url": "https://www.bbc.com/news/articles/cx2ky3mn7j5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/492a/live/87c13040-e681-11f0-b013-85379929134d.jpg",
+      "title": "China's BYD set to overtake Tesla as world's top EV seller - BBC",
+      "description": "It would mark the first time the Chinese firm has outpaced its American rival for annual sales.",
+      "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c010/live/f6c0f9f0-e774-11f0-aec5-c137ce83f459.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-12-31T20:31:26Z"
+      "publishedAt": "2026-01-02T03:28:07Z"
     },
     {
-      "title": "$400K in lobster meat destined for Costco stores in Illinois, Minnesota stolen by a fraudulent trucking company: broker - ABC7 Chicago",
-      "description": "40K oysters, crab also recently stolen in New England",
-      "url": "https://abc7chicago.com/post/400k-lobster-meat-destined-costco-stores-illinois-minnesota-stolen-fraudulent-trucking-company-broker/18336316/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18336324_123125-wls-lobster-heist-4pvo-vid.jpg?w=1600",
-      "source": "WLS-TV",
-      "publishedAt": "2025-12-31T18:10:28Z"
+      "title": "Why everything from your phone to your PC may get pricier in 2026 - BBC",
+      "description": "The price of Ram - once one of the cheapest computer parts - has more than doubled since October 2025.",
+      "url": "https://www.bbc.com/news/articles/c1dzdndzlxqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f05a/live/c9053c70-e4c1-11f0-ae58-3d4c41eac55f.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-02T01:04:07Z"
     },
     {
-      "title": "Kroger launches 20% off discount fruit, vegetable program for some customers - WSB-TV",
-      "description": "Kroger announced it was launching a new savings program to give discounts on fruits and vegetables.",
-      "url": "https://www.wsbtv.com/news/local/atlanta/kroger-launches-20-off-discount-fruit-vegetable-program-some-customers/FZJDNG2ZNZFXHNN7FCGXL7WHAA/",
-      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCQVGGPYV5BHK3J7OR4LARDXKUI.jpeg?auth=3cf9134aa8fe5d56cce1b593d52798c2e90b73dc89bf6d83ff75149545788959&width=1200&height=630&smart=true",
-      "source": "WSB Atlanta",
-      "publishedAt": "2025-12-31T17:42:11Z"
+      "title": "Sprinkles Cupcakes closes 20 years after first location opened in Beverly Hills - ABC7 Los Angeles",
+      "description": "After opening its first location in Beverly Hills 20 years ago, gourmet cupcake chain Sprinkles Cupcakes has closed its doors for good.",
+      "url": "https://abc7.com/post/sprinkles-cupcakes-closes-20-years-first-location-opened-beverly-hills/18339509/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18339496_010126-kabc-sprinkles-closing-AP.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2026-01-01T23:44:41Z"
     },
     {
-      "title": "Average US long-term mortgage rate falls to the lowest level of the year at 6.15% - ABC News",
-      "description": "The average rate on a 30-year U.S. mortgage fell to its lowest level of 2025 this week, an encouraging sign for prospective home buyers",
-      "url": "https://abcnews.go.com/Business/wireStory/average-us-long-term-mortgage-rate-falls-lowest-128809821",
-      "urlToImage": "https://i.abcnewsfe.com/a/068b3988-0c66-4f20-b9ec-8814a34f632e/wirestory_2eac9ad6dbc581760cb0b47e61e77766_16x9.jpg?w=1600",
+      "title": "The New Year Newborns: The first babies born at Northeast Wisconsin hospitals in 2026 - WLUK",
+      "description": "While many were enjoying big bashes to ring in 2026, some others began the new year with little bundles of joy.",
+      "url": "https://fox11online.com/news/local/new-year-newborns-the-first-babies-born-at-northeast-wisconsin-hospitals-in-2026-thedacare-bellin-hshs-aurora-baycare-green-bay-neenah",
+      "urlToImage": "https://fox11online.com/resources/media2/16x9/5613/1320/0x1/90/442cdb02-0d24-4222-a98b-61ef95e6f7f6-IMG_0560.jpg",
+      "source": "Fox11online.com",
+      "publishedAt": "2026-01-01T23:12:25Z"
+    },
+    {
+      "title": "Here’s (Almost) Everything Wall Street Expects in 2026 - Bloomberg.com",
+      "description": "Over 700 key calls on how AI spending and government policies are set to fuel growth, inflation may prove hard to beat, private assets will continue their rise and the dollar will extend its decline.",
+      "url": "https://www.bloomberg.com/graphics/2026-investment-outlooks/",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQEzyzjKsFRk/v0/-1x-1.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-01T22:00:00Z"
+    },
+    {
+      "title": "What's ahead for the weight-loss drugs known as GLP-1s in 2026 - NPR",
+      "description": "There's a new pill and new ways to pay for the weight-loss drugs known as GLP-1s.",
+      "url": "https://www.npr.org/2026/01/01/nx-s1-5661682/whats-ahead-for-the-weight-loss-drugs-known-as-glp-1s-in-2026",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-01-01T21:40:44Z"
+    },
+    {
+      "title": "Turkmenistan, one of the world’s most closed nations, legalizes crypto mining and exchanges - ABC News",
+      "description": "Turkmenistan has officially legalized mining and exchanging cryptocurrency, marking a major shift for its tightly-controlled economy",
+      "url": "https://abcnews.go.com/International/wireStory/turkmenistan-worlds-closed-nations-legalizes-crypto-mining-exchanges-128832337",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
       "source": "ABC News",
-      "publishedAt": "2025-12-31T17:29:25Z"
+      "publishedAt": "2026-01-01T18:17:50Z"
     },
     {
-      "title": "The Dutch Seized A Chinese Chipmaker. Supply Chain Chaos Has Just Begun. - Forbes",
-      "description": "Nexperia has shown the world how unprepared Western supply chains are for decoupling from China – and how quickly the Chinese ecosystem can adapt.",
-      "url": "https://www.forbes.com/sites/jillgoldenziel/2025/12/31/the-dutch-seized-a-chinese-chipmaker-supply-chain-chaos-has-just-begun/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6954252597c6a632604e2339/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-12-31T17:06:03Z"
+      "title": "2 No-Brainer AI Stocks to Buy Hand Over Fist for 2026 - The Motley Fool",
+      "description": "These two stocks are great additions to any growth portfolio.",
+      "url": "https://www.fool.com/investing/2026/01/01/2-no-brainer-ai-stocks-to-buy-hand-over-fist-2026/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848933%2Fgettyimages-2192595100-1201x804-ed394ee.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-01-01T17:15:00Z"
     },
     {
-      "title": "Two restaurants exit as one expands in New Mexico - KOB.com",
-      "description": "Two restaurant companies are no longer in New Mexico while one local restaurant is expanding their operations.",
-      "url": "https://www.kob.com/news/top-news/two-restaurants-exit-as-one-expands-in-new-mexico/",
-      "urlToImage": "https://www.kob.com/wp-content/uploads/2025/12/MGN_1280x720_31004P00-ULAOZ-tacos.jpg",
-      "source": "KOB",
-      "publishedAt": "2025-12-31T16:20:52Z"
+      "title": "2027 Ram SRT TRX vs. 2026 Ford F-150 Raptor R: How Do They Compare? - Edmunds",
+      "description": null,
+      "url": "https://www.edmunds.com/car-news/2027-ram-trx-ford-raptor-r-comparison.html",
+      "urlToImage": null,
+      "source": "Edmunds.com",
+      "publishedAt": "2026-01-01T15:02:53Z"
     },
     {
-      "title": "Dario's Predictions for 2026 - Pinkbike",
-      "description": "More big wheels, big races, and AI strangeness made Dario's list.",
-      "url": "https://www.pinkbike.com/news/darios-predictions-for-2026.html",
-      "urlToImage": "https://ep1.pinkbike.org/p4pb25739404/p4pb25739404.jpg",
-      "source": "Pinkbike.com",
-      "publishedAt": "2025-12-31T16:00:00Z"
+      "title": "Iran offers to sell advanced weapons systems for crypto - Financial Times",
+      "description": "Overture from Ministry of Defence Export Center comes as heavily sanctioned states turn to digital assets",
+      "url": "https://www.ft.com/content/d1ceb1a4-3493-4776-ae22-c94d76dc478f",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F10cc4e6a-beeb-45b6-8d95-cdd9a67c6e2c.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-01-01T15:00:09Z"
     },
     {
-      "title": "What will the U.S. economy look like in 2026? Experts weigh in on 5 key questions. - CBS News",
-      "description": "From stubbornly high living costs to a softer labor market, economists say these are the forces that will shape the year ahead.",
-      "url": "https://www.cbsnews.com/news/economy-2026-outlook-affordability-rates-jobs-markets/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/23/db2067bd-a871-4a43-b155-e23b875c2901/thumbnail/1200x630/1c6aa54b364a46120b62c8ebc09a35ad/cbsn-fusion-current-views-us-economy-fall-short-expectations-beginning-2025-thumbnail.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-12-31T15:30:00Z"
+      "title": "Unoccupied Avelo and Southwest planes clip wings at Raleigh-Durham International Airport; no injuries reported - ABC11",
+      "description": "An Avelo plane being towed to a gate struck a parked Southwest aircraft near Terminal One.",
+      "url": "https://abc11.com/post/unoccupied-avelo-southwest-planes-clip-wings-raleigh-durham-international-airport-no-injuries-reported/18338496/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18338371_010125-wtvd-rdu-plane-clip-8a-vid.jpg?w=1600",
+      "source": "WTVD-TV",
+      "publishedAt": "2026-01-01T14:41:55Z"
     },
     {
-      "title": "Have TRICARE For Life? Here's what to do if you move - TRICARE Newsroom (.mil)",
-      "description": "Are you planning to move soon? Whether you’re moving across town or overseas, TRICARE For Life moves with you.",
-      "url": "https://newsroom.tricare.mil/News/TRICARE-News/Article/4369317/have-tricare-for-life-heres-what-to-do-if-you-move",
-      "urlToImage": "https://media.defense.gov/2025/Dec/31/2003849948/1920/1080/0/251231-O-D0202-1001.JPG",
-      "source": "Tricare.mil",
-      "publishedAt": "2025-12-31T15:11:12Z"
+      "title": "New made-in-USA cars qualify for Trump tax perk, IRS says - The Detroit News",
+      "description": "Of the 25 most popular new car models sold domestically in 2024, 14 underwent final assembly solely in the United States.",
+      "url": "https://www.detroitnews.com/story/business/autos/2026/01/01/new-made-in-usa-cars-qualify-for-trump-tax-perk-irs-says/87981604007/",
+      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/06/16/PDTN/84233807007-rm-026-074-fn.jpg?crop=2999,1688,x0,y156&width=2999&height=1688&format=pjpg&auto=webp",
+      "source": "The Detroit News",
+      "publishedAt": "2026-01-01T14:11:00Z"
     },
     {
-      "title": "3 tactics the ultra-wealthy are using to invest in 2026 that you can mimic with the right tools - CNBC",
-      "description": "The rich invest for the long-run, using discipline and diversification — all things you can do, too.",
-      "url": "https://www.cnbc.com/select/how-ultra-wealthy-are-investing-in-2026-and-how-you-can-mimic/",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108245416-1766526679106-gettyimages-1661408043-businesswomanmakingmoney2.jpeg?v=1766526693&w=1920&h=1080",
+      "title": "Saks Group reportedly preparing to file bankruptcy after missing debt payment - CNBC",
+      "description": "The parent of high-end department store chain Saks Fifth Avenue failed to make an interest payment of over $100 million due on Tuesday, WSJ reported.",
+      "url": "https://www.cnbc.com/2026/01/01/saks-group-reportedly-preparing-to-file-bankruptcy-after-missing-debt-payment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107259364-1687276562460-gettyimages-1248136634-0554R457.jpeg?v=1767274539&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-12-31T15:02:34Z"
+      "publishedAt": "2026-01-01T13:45:27Z"
     },
     {
-      "title": "Treasury, IRS provide guidance on the new deduction for car loan interest under the One, Big, Beautiful Bill - IRS (.gov)",
-      "description": "IR-2025-129, Dec. 31, 2025 — The Department of the Treasury and the Internal Revenue Service today provided guidance on the “No Tax on Car Loan Interest” provision enacted under the One, Big, Beautiful Bill.",
-      "url": "https://www.irs.gov/newsroom/treasury-irs-provide-guidance-on-the-new-deduction-for-car-loan-interest-under-the-one-big-beautiful-bill",
-      "urlToImage": "https://www.irs.gov/pub/image/logo_small.jpg",
-      "source": "Irs.gov",
-      "publishedAt": "2025-12-31T14:31:19Z"
+      "title": "2026 is AI's \"show me the money\" year - Axios",
+      "description": "OpenAI, AT&T, Box, Square and other leaders predict trends.",
+      "url": "https://www.axios.com/2026/01/01/ai-2026-money-openai-google-anthropic-agents",
+      "urlToImage": "https://images.axios.com/iBM12G9pu-wu1XCLjJuqCEg2lI0=/0x0:1280x720/1366x768/2025/12/20/1766273848978.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-01-01T13:30:32Z"
     },
     {
-      "title": "27-year-old quit her 9-to-5 to start a floral business—this year, she brought in 6 figures and designed bouquets for Sabrina Carpenter, Katy Perry - CNBC",
-      "description": "Colleen McCarthy began designing flower arrangements in 2022. Today, she's created bouquets for stars like Sabrina Carpenter and Katy Perry.",
-      "url": "https://www.cnbc.com/2025/12/31/27-year-old-quit-her-9-to-5-to-start-a-floral-businessthis-year-she-brought-in-6-figures.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243687-1766077168191-Colleen_McCarthy_cropped_2.jpeg?v=1766077224&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-12-31T14:15:01Z"
+      "title": "Family of man killed in jet engine sues Salt Lake City airport, alleging officials didn’t alert air traffic he was on tarmac - The Salt Lake Tribune",
+      "description": "Kyler Efinger died in 2024 at Salt Lake City International Airport, after having a manic episode and crawling into a jet engine. His parents are suing the city, saying the airport lacked safeguards to prevent the young man's death.",
+      "url": "https://www.sltrib.com/news/2026/01/01/family-sues-slc-airport-two-years/",
+      "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FLU724CVT6ZAO5H2E2AVXYF5FSM.JPG?auth=a4f944d20dfb4d6710eaafd2f8753e376e253a89f64be7b5039d98091375447b&width=1200",
+      "source": "Salt Lake Tribune",
+      "publishedAt": "2026-01-01T13:03:27Z"
     }
   ]
 }
