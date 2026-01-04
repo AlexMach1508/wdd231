@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-01-03T06:44:54.341Z",
+  "updatedAt": "2026-01-04T06:46:09.778Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Tipster reveals 10 spectacular upgrades for the Galaxy S26 Ultra - PhoneArena",
-      "description": "The top-of-the-line Samsung Galaxy S26 Ultra will be much improved over last year's model.",
-      "url": "https://www.phonearena.com/news/tipster-lists-10-upgrades-for-the-galaxy-s26-ultra_id176988",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/176988-wide-two_1200/Tipster-reveals-10-spectacular-upgrades-for-the-Galaxy-S26-Ultra.jpg",
-      "source": "PhoneArena",
-      "publishedAt": "2026-01-02T00:29:45Z"
-    },
-    {
-      "title": "Remember when setting up a Windows PC didn’t feel like harassment? - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/tech/852448/remember-when-setting-up-a-windows-pc-didnt-feel-like-harassment",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038602/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-01-01T22:22:22Z"
-    },
-    {
-      "title": "Swansea man swaps personal trainer for AI and is 'strongest ever' - BBC",
-      "description": "Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?",
-      "url": "https://www.bbc.com/news/articles/c04vk5z92veo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1fc3/live/7c0d10a0-e7a0-11f0-850a-49d22c425bbf.png",
-      "source": "BBC News",
-      "publishedAt": "2026-01-01T21:51:10Z"
-    },
-    {
-      "title": "Linux is good now - Hacker News",
-      "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46457770",
-      "urlToImage": null,
-      "source": "Hacker News",
-      "publishedAt": "2026-01-01T21:16:06Z"
-    },
-    {
-      "title": "Playmobil versus Lego: Which is the best USS Enterprise set? - Space",
-      "description": "It's Playmobil versus Lego in this battle of the best U.S.S. Enterprise models on the market: Find out which we think is better.",
-      "url": "https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qZUncHC88CWNTXRskcbKFh-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2026-01-01T21:05:00Z"
-    },
-    {
-      "title": "These AA batteries charge over USB-C and genuinely impressed me. - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/gadgets/852436/aa-batteries-usb-c-lithium-ion-coast-zepath-titw",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-      "source": "The Verge",
-      "publishedAt": "2026-01-01T20:49:10Z"
-    },
-    {
-      "title": "NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink - Phoronix",
-      "description": "As a wonderful New Year surprise, there's good momentum on NVIDIA graphics support for the BeOS-inspired Haiku open-source operating system.",
-      "url": "https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=nvidia_haiku",
-      "source": "Phoronix",
-      "publishedAt": "2026-01-01T20:20:00Z"
-    },
-    {
-      "title": "25th Anniversary Log-in Unlock - Halo Waypoint",
-      "description": "<p>All year long, we’ll be celebrating 25 years of Halo with reminiscences and retrospectives on the series that changed gaming forever. Share your favorite Halo memories on social media using hashtag #Halo25Together for a chance to be featured in our officia…",
-      "url": "https://www.halowaypoint.com/news/25th-anniversary-log-in-unlock",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2025/12/INF-25Y-GiftsPromo-Blog-16x9-R03-scaled.jpg",
-      "source": "Halowaypoint.com",
-      "publishedAt": "2026-01-01T20:17:22Z"
-    },
-    {
-      "title": "Research roundup: 7 cool science stories we almost missed - Ars Technica",
-      "description": "Double-detonating \"superkilonova,\" Roman liquid gypsum burials, biomechanics of kangaroo posture, and more.",
-      "url": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Kasliwal_Mansi-Superkilonova-3-panel-SKN-WEB-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-01-01T19:43:45Z"
-    },
-    {
-      "title": "MTG Players Rediscover Tutor That Puts Artifacts Directly Into Play - MTG Rocks",
-      "description": null,
-      "url": "https://mtgrocks.com/mtg-whir-of-invention/",
-      "urlToImage": null,
-      "source": "Mtgrocks.com",
-      "publishedAt": "2026-01-01T19:21:17Z"
-    },
-    {
-      "title": "LG’s new karaoke-ready party speaker uses AI to remove song vocals - The Verge",
-      "description": "LG is launching four new Xboom speakers, with the karaoke-friendly Stage 501 coming with an AI-powered feature that can remove vocals from “virtually any song.”",
-      "url": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/stage-501-party-speaker.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-      "source": "The Verge",
-      "publishedAt": "2026-01-01T18:16:10Z"
-    },
-    {
-      "title": "Valve's Linux Efforts, Kernel Improvements & KDE Plasma Wayland Advancements Topped 2025 - Phoronix",
-      "description": "After looking yesterday at the most viewed Linux hardware reviews and benchmarks of 2025, today's look is at the most popular open-source/Linux news of the past year",
-      "url": "https://www.phoronix.com/news/Top-Linux-News-2025",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=fireworks",
-      "source": "Phoronix",
-      "publishedAt": "2026-01-01T17:50:00Z"
-    },
-    {
-      "title": "The 4 Cheapest Ways To Turn Your House Into A Smart Home - bgr.com",
-      "description": "Want high-tech living without the high price tag? Explore the 4 cheapest ways to turn your house into a smart home, from smart plugs to voice control.",
-      "url": "https://www.bgr.com/2061563/cheapest-ways-make-a-smart-home/",
-      "urlToImage": "https://www.bgr.com/img/gallery/the-4-cheapest-ways-to-turn-your-house-into-a-smart-home/l-intro-1766848214.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-01-01T17:17:00Z"
-    },
-    {
-      "title": "2026: Showtime for Android XR glasses - 9to5Google",
-      "description": "During my hands-on with Android XR glasses last month, I kept returning to the digital clock that was displayed over...",
-      "url": "http://9to5google.com/2026/01/01/android-xr-glasses-2026/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-AR-Glasses-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-01-01T17:05:00Z"
-    },
-    {
-      "title": "Turn Over a New Leaf with Budew in Pokémon Trading Card Game Live - Pokemon.com",
-      "description": "Budew was a breakout star of 2025, and Pokémon TCG Live is itching to celebrate with deck cosmetics, avatar outfits, and more.",
-      "url": "https://www.pokemon.com/us/pokemon-news/turn-over-a-new-leaf-with-budew-in-pokemon-trading-card-game-live",
-      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/tcgl/2026/01/01/tcgl-169-en.png",
-      "source": "Pokemon.com",
-      "publishedAt": "2026-01-01T17:04:45Z"
-    },
-    {
-      "title": "No iPhone 18 Launch This Year, Reports Suggest - MacRumors",
-      "description": "Apple is not expected to release a standard iPhone 18 model this year, according to a growing number of reports that suggest the company is planning...",
-      "url": "https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/",
-      "urlToImage": "https://images.macrumors.com/t/Y1Sp3NsfWCwKbQL0mUSrnViR6tY=/2000x/article-new/2025/09/iphone-17-models.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-01-01T16:43:10Z"
-    },
-    {
-      "title": "ReactOS Starts 2026 With Another \"Major Step\" Toward Windows NT6 Compatibility - Phoronix",
-      "description": "The ReactOS free software project is turning 30 this year and its 'open-source Windows' OS ambitions remain",
-      "url": "https://www.phoronix.com/news/ReactOS-Starts-2026",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2023&image=reactos_november",
-      "source": "Phoronix",
-      "publishedAt": "2026-01-01T15:42:00Z"
-    },
-    {
-      "title": "HP to launch EliteBook X G2 laptop with AMD, Intel and Qualcomm CPU options - VideoCardz.com",
-      "description": "EliteBook X G2 has three platforms to choose from With CES less than a week away, a new report from Windows Latest claims to have HP's full showcase list",
-      "url": "https://videocardz.com/newz/hp-to-launch-elitebook-x-g2-laptop-with-amd-intel-and-qualcomm-cpu-options",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/01/HP-AMD-INTEL-QUALCOMM-LAPTOPS-1.jpg",
+      "title": "MSI to launch ultra-wide MEG X QD-OLED gaming monitor at CES 2026 - VideoCardz.com",
+      "description": "MSI teases flagship MEG X QD-OLED monitor with \"AI gaming\" branding ahead of CES 2026 MSI has posted a teaser for a new \"flagship MEG X\" monitor. The",
+      "url": "https://videocardz.com/pixel/msi-to-launch-ultra-wide-meg-x-qd-oled-gaming-monitor-at-ces-2026",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/01/MSI-MEG-X-QD-OLED-MONITOR-CES-2026.jpg",
       "source": "Videocardz.com",
-      "publishedAt": "2026-01-01T15:23:00Z"
+      "publishedAt": "2026-01-03T00:00:00Z"
+    },
+    {
+      "title": "Duolingo Used iPhone's Dynamic Island to Display Ads, Violating Apple Design Guidelines - MacRumors",
+      "description": "Language learning app Duolingo has apparently been using the iPhone's Live Activity feature to display ads on the Lock Screen and the Dynamic...",
+      "url": "https://www.macrumors.com/2026/01/02/duolingo-dynamic-island-ad/",
+      "urlToImage": "https://images.macrumors.com/t/xc1BVb2sX_KBJPcVO4shl8zipI8=/1600x/article-new/2026/01/duolingo-ad-live-activity.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-01-02T21:36:49Z"
+    },
+    {
+      "title": "Can You Use An Amazon Fire TV Stick Without Internet? - bgr.com",
+      "description": "To use an Amazon Fire TV Stick without an internet connection, you'll need to go online to install an alternative launcher that replaces Amazon's interface.",
+      "url": "https://www.bgr.com/2062805/can-you-use-amazon-fire-stick-without-internet/",
+      "urlToImage": "https://www.bgr.com/img/gallery/can-you-use-an-amazon-fire-tv-stick-without-internet/l-intro-1767024869.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-01-02T21:17:00Z"
+    },
+    {
+      "title": "Pinkbike Poll: How Do You Inflate Your Tires? - Pinkbike",
+      "description": "Calling all Schrader valve superfans.",
+      "url": "https://www.pinkbike.com/news/pinkbike-poll-how-do-you-inflate-your-tires.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb29145374/p4pb29145374.jpg",
+      "source": "Pinkbike.com",
+      "publishedAt": "2026-01-02T20:00:00Z"
+    },
+    {
+      "title": "The 10 Best New Board Games Of 2025 - GameSpot",
+      "description": "From The Lord of the Rings: Fate of the Fellowship to Critter Kitchen, 2025 was packed with top-shelf board games.",
+      "url": "https://www.gamespot.com/gallery/the-10-best-new-board-games-of-2025/2900-7365/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1864/18643631/4626172-tabletop-1.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-01-02T19:56:25Z"
+    },
+    {
+      "title": "There's a new roguelike fighting game coming that lets you steal your opponent's moves after beating them - EventHubs",
+      "description": "The fighting game genre is filled with all sorts of different titles with their own unique features and mechanics that make them stand out though we usually don't see ones like this.Developer HeartLoop Games is working on a ...",
+      "url": "https://www.eventhubs.com/news/2026/jan/02/roguelike-fighting-game/",
+      "urlToImage": "https://media.eventhubs.com/images/2026/01/02-roguelike-fighting-gamet.webp",
+      "source": "EventHubs",
+      "publishedAt": "2026-01-02T19:22:41Z"
+    },
+    {
+      "title": "What product categories do you want Google Pixel to enter? - 9to5Google",
+      "description": "Remember Google Clips? The not-quite-a-GoPro that used AI to automatically capture key moments was released at the second Made by...",
+      "url": "http://9to5google.com/2026/01/02/google-pixel-product-categories/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/02/google-clips-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-01-02T19:05:00Z"
+    },
+    {
+      "title": "The Best Way To Use Your Old SD Cards - bgr.com",
+      "description": "One of the best ways to repurpose an old SD card is to turn it into a bootable drive for maintenance or installing new operating systems on your main device.",
+      "url": "https://www.bgr.com/2063003/best-uses-for-your-old-sd-card/",
+      "urlToImage": "https://www.bgr.com/img/gallery/the-best-way-to-use-your-old-sd-cards/l-intro-1767028899.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-01-02T18:17:00Z"
+    },
+    {
+      "title": "What Happens When You Put Big Lenses on the Tiny Kodak Charmera? - PetaPixel",
+      "description": "Fixing the Charmera's biggest issue, its bad lens.",
+      "url": "https://petapixel.com/2026/01/02/what-happens-when-you-put-big-lenses-on-the-tiny-kodak-charmera/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/01/kodak-charmera-mod-featured2.jpg",
+      "source": "PetaPixel",
+      "publishedAt": "2026-01-02T18:14:46Z"
+    },
+    {
+      "title": "Alexa users are infuriated by device’s ‘teenage girl’ voice: ‘Scared the s–t out of me’ - New York Post",
+      "description": "“It sounds like I’m talking to a teenage girl, wayyyy too peppy for me at 6 o’clock in the morning. Strongly debating going to a different brand entirely.”",
+      "url": "https://nypost.com/2026/01/02/tech/alexa-users-infuriated-by-devices-teenage-girl-voice/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-aihxpl3k7-1767368870343.jpg?quality=75&strip=all&1767350998&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-01-02T18:04:00Z"
+    },
+    {
+      "title": "10 useful gadgets for your first apartment - TechCrunch",
+      "description": "From home security systems and smart smoke detectors to a sunrise alarm gently that wakes you up, here are the must-have gadgets for living in your first apartment.",
+      "url": "https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-520692866.jpg?resize=1200,779",
+      "source": "TechCrunch",
+      "publishedAt": "2026-01-02T18:00:00Z"
+    },
+    {
+      "title": "Another AirPods Pro 3 model is coming, with one rumored upgrade - 9to5Mac",
+      "description": "AirPods Pro 3 launched just a few months ago, but rumors indicate there’s a second model coming this year with one key upgrade: IR cameras.",
+      "url": "https://9to5mac.com/2026/01/02/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-01-02T17:47:00Z"
+    },
+    {
+      "title": "5 DeWalt Gadgets Users Swear By - bgr.com",
+      "description": "Did you know DeWalt makes headphones? Check out our list of 5 surprising, user-approved gadgets, including chargers and audio gear, that hold up to heavy use.",
+      "url": "https://www.bgr.com/2062038/best-dewalt-gadgets-users-swear-by/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-dewalt-gadgets-users-swear-by/l-intro-1766938292.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-01-02T17:17:00Z"
+    },
+    {
+      "title": "Physicists Say a Faster-Than-Light Spaceship Would Actually Look a Lot Like Star Trek's Enterprise - inc.com",
+      "description": "Physicists discovered that the famous ‘Star Trek’ spaceship got a lot right about designing a ship to jump from galaxy to galaxy.",
+      "url": "https://www.inc.com/fast-company-2/physicists-say-a-faster-than-light-spaceship-would-actually-look-a-lot-like-star-treks-enterprise/91283151",
+      "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/12/p-1-91458842-enterprise-like-ship.webp",
+      "source": "Inc.",
+      "publishedAt": "2026-01-02T17:10:09Z"
+    },
+    {
+      "title": "Soldier’s M1 MacBook Air stops artillery shell fragment, yet still works - 9to5Mac",
+      "description": "A Ukrainian solider has posted about his M1 MacBook Air stopping an artillery shell fragment, and continuing to work fine.",
+      "url": "https://9to5mac.com/2026/01/02/soldiers-m1-macbook-air-stops-artillery-shell-fragment-yet-still-works/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/macbook-air-artillery-shell-fragment.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-01-02T16:46:00Z"
+    },
+    {
+      "title": "China To Start New Hypergravity Centrifuge To Compress Space-Time – How Does It Work? - IFLScience",
+      "description": "You spin me right round, baby, right round like the gravity of hundreds of stars…",
+      "url": "https://www.iflscience.com/china-to-start-new-hypergravity-centrifuge-to-compress-space-time-how-does-it-work-82096",
+      "urlToImage": "https://assets.iflscience.com/assets/articleNo/82096/aImg/88321/wnder-woman-coaster-six-flag-meta.jpg",
+      "source": "IFLScience",
+      "publishedAt": "2026-01-02T16:37:17Z"
+    },
+    {
+      "title": "Leica Is Developing its Own Image Sensors Again - PetaPixel",
+      "description": "Leica is working on its own image sensors again.",
+      "url": "https://petapixel.com/2026/01/02/leica-is-developing-its-own-image-sensors-again/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2024/02/leica-logo-press-copy.jpg",
+      "source": "PetaPixel",
+      "publishedAt": "2026-01-02T16:36:55Z"
     }
   ]
 }
