@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-01-04T06:46:09.864Z",
+  "updatedAt": "2026-01-05T06:54:33.926Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Libertyville news: Police investigating after body found near train tracks at Winchester, Ellis; Metra trains delayed, officials - ABC7 Chicago",
-      "description": "Metra says person was not hit by train",
-      "url": "https://abc7chicago.com/post/libertyville-news-police-investigating-body-found-train-tracks-winchester-ellis-metra-trains-delayed-officials/18344464/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18344755_010226-wls-body-near-metra-clean-img.jpg?w=1600",
-      "source": "WLS-TV",
-      "publishedAt": "2026-01-03T02:16:16Z"
+      "title": "How UK plush toy Jellycat conquered China - BBC",
+      "description": "The plushies bring \"emotional value\" to Chinese youth navigating economic uncertainty.",
+      "url": "https://www.bbc.com/news/articles/cj0e36p74v1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df89/live/a8c28410-c106-11f0-801d-4586c230975c.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-03T23:02:08Z"
     },
     {
-      "title": "Trump orders divestment in chips deal to protect U.S. security interests - NBC News",
-      "description": "WASHINGTON — President Donald Trump on Friday ordered the unraveling of a $2.9 million computer chips deal that he concluded threatened U.S. security interests if the current owner, HieFo Corp., remained in control of the technology",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-divestment-chips-deal-protect-us-security-rcna252016",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/250102-Trump-aa-847-edbaca.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-01-03T02:08:00Z"
-    },
-    {
-      "title": "Saugus Cafe in Santa Clarita, LA County's longest-running restaurant, to close its doors after nearly 140 years - ABC7 Los Angeles",
-      "description": "Customers are flocking to the longest-running restaurant in L.A. County before it closes its doors for good. After nearly 140 years, Saugus Cafe in Santa Clarita will serve its last meal on Sunday.",
-      "url": "https://abc7.com/post/saugus-cafe-santa-clarita-la-countys-longest-running-restaurant-close-doors-140-years/18344311/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18344309_010225-kabc-saugus-cafe-tn-img.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-01-03T01:25:16Z"
-    },
-    {
-      "title": "Oneida Nation to cancel contracts with ICE after facing backlash - Milwaukee Journal Sentinel",
-      "description": "On Jan. 2, Oneida Chairman Tehassi Hill said the tribal council wasn't aware of the contracts between ICE and the tribe’s subsidiary.",
-      "url": "https://www.jsonline.com/story/news/local/wisconsin/2026/01/02/oneida-nation-to-cancel-contracts-with-ice-after-facing-backlash/87994305007/",
-      "urlToImage": "https://www.jsonline.com/gcdn/presto/2020/03/17/PGRB/31dd4a66-a373-48ec-ad0d-9fb01b269842-GPGCasino02377.JPG?crop=3044,1713,x0,y154&width=3044&height=1713&format=pjpg&auto=webp",
-      "source": "Milwaukee Journal Sentinel",
-      "publishedAt": "2026-01-02T23:03:00Z"
-    },
-    {
-      "title": "Cleveland Spectrum customers experiencing outages after plow truck hits utility pole - Cleveland 19 News",
-      "description": "Some northeast Ohio Spectrum customers are experiencing outages on Wednesday afternoon after a plow truck hit a utility pole.",
-      "url": "https://www.cleveland19.com/2026/01/02/cleveland-spectrum-customers-experiencing-outages-after-plow-truck-hits-utility-pole/",
-      "urlToImage": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/QQARAPJMYVBNPG3FNKJ6JK42TU.jpg?auth=d07babb6eb8dfc63f5de26c8f8ec6a786c238b0b417f21fb48ddae8c6b7539cb&width=1200&height=600&smart=true",
-      "source": "Cleveland 19 News",
-      "publishedAt": "2026-01-02T22:07:00Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Up With 'January Barometer' On Watch; Nvidia Stock Climbs (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index traded mixed Friday. Tesla stock fell after weak fourth-quarter delivery news.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-stock-tsla-deliveries-2/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/12/Stock-wallstreet-flags-30-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-01-02T21:23:00Z"
-    },
-    {
-      "title": "Tesla sales fall to lowest point since 2022 - Axios",
-      "description": "Vehicle sales are critical to funding CEO Elon Musk's AI ambitions.",
-      "url": "https://www.axios.com/2026/01/02/tesla-sales-ev-elon-musk",
-      "urlToImage": "https://images.axios.com/JHofhZ-3SpZw1I11PtzJi74Nr2M=/0x0:1600x900/1366x768/2026/01/02/1767374487478.png",
-      "source": "Axios",
-      "publishedAt": "2026-01-02T20:55:47Z"
-    },
-    {
-      "title": "3 credit card and travel deals that feel too good to last - CNBC",
-      "description": "These credit cards and award prices buck the trends. The only question is, for how long?",
-      "url": "https://www.cnbc.com/select/credit-card-travel-deals-that-wont-last-forever/",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246209-1767016951698-gettyimages-1185184200-businessmanholdingclockandbusinessmanholdinggoldcoinseps.jpeg?v=1767016972&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-02T20:36:51Z"
-    },
-    {
-      "title": "Holiday Raffle Concludes With $1 Million Winning Ticket Sold in Pikesville - Maryland Lottery",
-      "description": null,
-      "url": "https://www.mdlottery.com/holiday-raffle-concludes-with-1-million-winning-ticket-sold-in-pikesville/",
-      "urlToImage": null,
-      "source": "Mdlottery.com",
-      "publishedAt": "2026-01-02T19:04:14Z"
-    },
-    {
-      "title": "Coca-Cola plans to layoff employees at its Atlanta headquarters - WABE",
-      "description": "Beverage giant Coca-Cola plans to lay off 75 employees at its Atlanta corporate headquarters. The company says it’s part of a broader workforce reorganization this year.",
-      "url": "https://www.wabe.org/coca-cola-plans-to-layoff-employees-at-its-atlanta-headquarters/",
-      "urlToImage": "https://www.wabe.org/app/uploads/2024/02/AP24043748850566-1440x810.jpg",
-      "source": "WABE 90.1 FM",
-      "publishedAt": "2026-01-02T18:58:37Z"
-    },
-    {
-      "title": "MTA Weekender: January 2-5, 2026 - MTA",
-      "description": "There are service changes on the subway this weekend. Here’s how that will aﬀect how you get around.",
-      "url": "https://www.mta.info/article/mta-weekender-january-2-5-2026",
-      "urlToImage": "https://files.mta.info/s3fs-public/2026-01/55014559336_069f69fadf_k.jpg?VersionId=SiLDGD5GQN89v34VbR24LFpsemIClraY",
-      "source": "Mta.info",
-      "publishedAt": "2026-01-02T18:43:20Z"
-    },
-    {
-      "title": "AI may not be the federal buzzword for 2026 - Federal News Network",
-      "description": "Federal News Network asked federal acquisition and IT experts what initiatives they are paying close attention to in the new year.",
-      "url": "https://federalnewsnetwork.com/reporters-notebook/2026/01/ai-may-not-be-the-federal-buzzword-for-2026/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2024/08/government-AI.jpg",
-      "source": "Federal News Network",
-      "publishedAt": "2026-01-02T18:38:28Z"
-    },
-    {
-      "title": "Premium U.S. motorcycle brand files Chapter 11 bankruptcy - Yahoo Finance",
-      "description": "While Americans have pulled back on some discretionary spending, that has not impacted the motorcycle market. \"The global motorcycle market size was $71.92...",
-      "url": "https://www.thestreet.com/retail/huge-bmw-triumph-motorcycle-dealership-motos-america-files-chapter-11",
-      "urlToImage": "https://media.zenfs.com/en/thestreet_881/b66597647299f0f99d35d1705df7c9c6",
-      "source": "TheStreet",
-      "publishedAt": "2026-01-02T18:33:00Z"
-    },
-    {
-      "title": "Gas prices drop below $2 in nearly a dozen states, but it’s a different story in WA - The Seattle Times",
-      "description": "King County is the most expensive county this week, at $4.30. Asotin County is the cheapest, at $3.18.",
-      "url": "https://columbiabasinherald.com/news/2025/dec/29/gas-prices-remain-below-3-nationally-4-in-washington/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/01/12312025_tzr_tzr_155224.jpg?d=1200x630",
-      "source": "Columbiabasinherald.com",
-      "publishedAt": "2026-01-02T18:32:33Z"
-    },
-    {
-      "title": "Greg Abel takes over as CEO of Berkshire Hathaway. What to know about Warren Buffett's successor. - CBS News",
-      "description": "Abel, 63, takes the helm of Berkshire Hathaway after a six-decade run by Buffett.",
-      "url": "https://www.cbsnews.com/news/greg-abel-berkshire-hathaway-warren-buffett-successor/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/02/c01b61dd-80f9-44aa-ab07-73799620b24f/thumbnail/1200x630/a29c94791d9e35a6e387a04db2ffbc75/gettyimages-1240333838.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-01-02T18:24:00Z"
-    },
-    {
-      "title": "Emerging-Market Stock Index Nears Five-Year High on AI Bids - Yahoo Finance",
-      "description": "The MSCI Inc.’s index of developing nations rose 1.7% on the first trading day of the year, reaching its highest level since February 2021.  Technology...",
-      "url": "https://finance.yahoo.com/news/emerging-market-stocks-scale-five-091859870.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SH8DpIWUskopud5sUyX_og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/17cf0f156460ee44460b433fe0a30fb7",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-02T17:51:13Z"
-    },
-    {
-      "title": "Why are mortgage rates at their lowest level since 2024? - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Business/mortgage-rates-lowest-level-2024/story?id\\\\u003d128844231",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2026-01-02T17:39:23Z"
-    },
-    {
-      "title": "MarketWatch’s 7-day money challenge: How to get rich(er) in 2026 - MarketWatch",
-      "description": "Forget sit-ups. Are you ready to take control of your money so it works harder for you in 2026? Here’s the playbook to get your finances in top shape.",
-      "url": "https://www.marketwatch.com/story/marketwatchs-7-day-money-challenge-how-to-get-rich-er-in-2026-3743be3c",
-      "urlToImage": "https://images.mktw.net/im-42650733/social",
+      "title": "Retirement investors should beware of our volatile ‘Marie Antoinette’ market - Yahoo Finance",
+      "description": "Volatility is not the typical retirement investor’s friend.",
+      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mCIifQxCPS2.WBCy9_4dww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/17ad3dfe9ae0493cbd26b46cc96c3935",
       "source": "MarketWatch",
-      "publishedAt": "2026-01-02T17:00:00Z"
+      "publishedAt": "2026-01-03T19:25:00Z"
+    },
+    {
+      "title": "The FCC chair will speak at CES. Will he address the DJI drone ban? - Mashable",
+      "description": "It'll be a question on a lot of people's minds.",
+      "url": "https://mashable.com/article/fcc-chair-brendan-carr-dji-drone-ban-ces-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00Z51yQ67G9JhzfSfRHgacs/hero-image.fill.size_1200x675.v1767466341.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-01-03T19:23:11Z"
+    },
+    {
+      "title": "Someone made $400K by predicting Maduro's capture. Here's what happened - Axios",
+      "description": "The winnings come as the rules governing prediction markets are still evolving.",
+      "url": "https://www.axios.com/2026/01/03/maduro-capture-bets-trade-prediction-markets",
+      "urlToImage": "https://images.axios.com/VcLKLZphGntQ3MYb_CH2re5WrEo=/0x99:5555x3223/1366x768/2026/01/03/1767457032571.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-01-03T17:09:51Z"
+    },
+    {
+      "title": "Bank of America expects a boost in dividends in 2026. These stocks have payouts that beat the market - CNBC",
+      "description": "Bank of America's Savita Subramanian expects stocks’ dividend growth will rise year over year in 2026.",
+      "url": "https://www.cnbc.com/2026/01/03/bank-of-america-expects-a-boost-in-dividend-growth-in-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108244526-1766359931333-gettyimages-2252283299-1535022-me-glendale-galleria-holiday-shopping-10-mjc.jpeg?v=1767396288&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-03T14:43:38Z"
+    },
+    {
+      "title": "After a bruising 2025, the Fed faces another slew of challenges in the year ahead - CNBC",
+      "description": "The central bank heads into 2026 facing a slew of political and policy challenges.",
+      "url": "https://www.cnbc.com/2026/01/03/federal-reserve-powell-face-challenges-in-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240105-17653956362025-12-10t193846z_1206640470_rc2vdiai4uf4_rtrmadp_0_usa-fed.jpeg?v=1767398179&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-03T14:37:41Z"
+    },
+    {
+      "title": "Impact of Winter Weather on KLM Flights - KLM Newsroom",
+      "description": "Update January 3, 2:30 PMPersistent winter weather conditions are reducing runway capacity at Schiphol. As a result, KLM is forced to cancel 295 flights for January 4. We understand this is inconvenient for our customers. We advise them to keep checking the l…",
+      "url": "https://news.klm.com/impact-of-winter-weather-on-klm-flights/",
+      "urlToImage": "https://content.presspage.com/uploads/162/2c9c6f9e-3f6a-41e5-aed9-8d5384f64132/1920_vliegtuigmetsneeuw.jpg?10000",
+      "source": "Klm.com",
+      "publishedAt": "2026-01-03T14:26:37Z"
+    },
+    {
+      "title": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today - Yahoo Finance",
+      "description": "Warren Buffett is well-known for his quality- and value-driven style of investing. He has referred to one Vanguard ETF in particular as the best option for...",
+      "url": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bapcC4L54Ep2sp8uEzJThQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/3c042482414e01368ea2e0ff1a893083",
+      "source": "Motley Fool",
+      "publishedAt": "2026-01-03T14:06:00Z"
+    },
+    {
+      "title": "New flights from Seattle and more travel-related updates for 2026 - The Seattle Times",
+      "description": null,
+      "url": "https://www.seattletimes.com/life/travel/new-flights-from-seattle-and-more-travel-related-updates-for-2026/",
+      "urlToImage": null,
+      "source": "The Seattle Times",
+      "publishedAt": "2026-01-03T14:00:00Z"
+    },
+    {
+      "title": "Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet - Yahoo Finance",
+      "description": "The inclusion of stocks such as artificial intelligence firm Palantir Technologies Inc., up 135% last year, and TV streaming platform Roku Inc., up 46...",
+      "url": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/owqaOyBB4CdbVaW7gXB1cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/3cf924dc91490864611a219a18456f06",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-01-03T13:00:00Z"
+    },
+    {
+      "title": "Volkswagen unveils a new cockpit generation – debuting with the all-new ID. Polo - Volkswagen Newsroom",
+      "description": "Volkswagen is opening the doors to the all-new ID. Polo (Near-production concept car. The model is not yet available for sale.) for the first time, offering an exciting glimpse into the interior of its future models. The new holistic design approach, shaped e…",
+      "url": "https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-unveils-a-new-cockpit-generation-debuting-with-the-all-new-id-polo-20056",
+      "urlToImage": "https://uploads.vw-mms.de/system/production/images/vwn/087/402/images/6a75e798e3be701ac5524a445456d817e2af3e67/DB2025AU02029_web_1600.jpg?1766392887",
+      "source": "Volkswagen-newsroom.com",
+      "publishedAt": "2026-01-03T11:01:53Z"
+    },
+    {
+      "title": "Starting the party at 8 a.m.? Here’s what’s driving early morning dance parties - CNN",
+      "description": "Sober raves are gaining momentum in cities around the world with booze-free clubbing spilling into coffee shops and bakeries.",
+      "url": "https://www.cnn.com/2026/01/03/travel/sober-raves-cafe-bakery-parties",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/rave-9.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-01-03T11:01:00Z"
+    },
+    {
+      "title": "CES 2026: The biggest tech trends to watch out for - Mashable",
+      "description": "What are the biggest tech companies going to show off at CES?",
+      "url": "https://mashable.com/article/tech-trends-to-expect-ces-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00nKhKl2eqliWJ47AQJyJIA/hero-image.fill.size_1200x675.v1767374590.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-01-03T10:19:02Z"
+    },
+    {
+      "title": "Petrolhead Corner: Some Of The Most Anticipated New Cars Of 2026 - Monochrome Watches",
+      "description": "With 12 months ahead of us, it's time to look at some of the upcoming new performance cars that excite is in 2026!",
+      "url": "https://monochrome-watches.com/petrolhead-corner-new-cars-2026-honda-land-rover-cadillac-ferrari-ford-porsche/",
+      "urlToImage": "https://monochrome-watches.com/app/uploads/2025/12/2025-2026-Honda-Prelude-e-HEV-Sports-Coupe-Featured.jpg",
+      "source": "Monochrome-watches.com",
+      "publishedAt": "2026-01-03T09:35:16Z"
+    },
+    {
+      "title": "Trump orders Chinese-controlled firm to unwind chip asset deal, citing national security risks - CNBC",
+      "description": "A Chinese-controlled company must divest semiconductor assets it bought from Emcore after the White House said the deal could threaten U.S. national security.",
+      "url": "https://www.cnbc.com/2026/01/03/trump-orders-unwind-chinese-chip-acquisition-emcore-hiefo-emcore-velocity-one-navgiation-gyro.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108247158-1767203052308-gettyimages-2208756053-AFP_39RJ9HB.jpeg?v=1767428712&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-03T08:23:10Z"
+    },
+    {
+      "title": "Tesla is no longer the world’s top EV seller - Morning Brew",
+      "description": "Tesla sold 1.64 million EVs last year, the company reported yesterday, while BYD’s sales jumped 28% to 2.26 million.",
+      "url": "https://www.morningbrew.com/stories/2026/01/03/tesla-is-no-longer-the-worlds-top-ev-seller",
+      "urlToImage": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=70,format=auto/https://storage.morningbrew.com/image/2026-01-02/image-cdc07f9d6716668bf099e3d882f8c778a5ad5f13-1024x683-jpg/GettyImages-2252773242.jpg",
+      "source": "Morning Brew",
+      "publishedAt": "2026-01-03T05:03:26Z"
+    },
+    {
+      "title": "Gold tipped to extend record-breaking rally in 2026 - Financial Times",
+      "description": "Analysts predict further gains for bullion after 64% rally last year",
+      "url": "https://www.ft.com/content/a2b62f00-3174-4818-9a90-7489fc9be6d8",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc22e65d6-af2b-4f74-94b9-cbf323d79433.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-01-03T05:00:14Z"
     }
   ]
 }
