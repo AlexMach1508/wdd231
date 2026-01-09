@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2026-01-08T06:49:24.329Z",
+  "updatedAt": "2026-01-09T06:49:43.861Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock futures are little changed after S&P 500, Dow rally to fresh highs: Live updates - CNBC",
-      "description": "The S&P 500 and the Dow Industrials popped to new records on Tuesday. The blue-chip Dow posted its first close above 49,000.",
-      "url": "https://www.cnbc.com/2026/01/06/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248838-17677180672026-01-06t164604z_221378831_rc2pviavanum_rtrmadp_0_usa-stocks.jpeg?v=1767743488&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-07T00:52:00Z"
+      "title": "Trump says he’ll ban large investors from buying homes, with few details - The Washington Post",
+      "description": "Politicians in both parties are trying to respond to voter anger over the price of housing.",
+      "url": "https://www.washingtonpost.com/business/2026/01/07/trump-ban-housing-investors/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N7KNKIHAO2NELZBVQZ3JURYEHE_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-01-08T03:33:39Z"
     },
     {
-      "title": "Berkshire Hathaway lifts new CEO Greg Abel’s salary to $25 million - CNBC",
-      "description": "Abel took the helm of Berkshire Hathaway on Jan. 1, succeeding legendary investor Warren Buffett.",
-      "url": "https://www.cnbc.com/2026/01/06/berkshire-hathaway-greg-abel-berkshire-hathaway-ceo-warren-buffet-pay-raise-25-million.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108140586-17462982532025-05-03t000534z_375166867_rc2w9eargg44_rtrmadp_0_berkshire-buffett.jpeg?v=1746298278&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-07T00:48:00Z"
-    },
-    {
-      "title": "MAGA media sites fizzle as infighting splinters messaging - Axios",
-      "description": "The constellation of disparate voices, preaching conflicting messages, aren't as powerful as they once were in uniting the party.",
-      "url": "https://www.axios.com/2026/01/06/maga-media-apps-traffic-rumble-newsmax",
-      "urlToImage": "https://images.axios.com/Iaq-3pEQPx0LxVXC2ZDyQZArhww=/0x0:1344x756/1366x768/2026/01/06/1767731861480.png",
-      "source": "Axios",
-      "publishedAt": "2026-01-07T00:14:04Z"
-    },
-    {
-      "title": "Amazon accused of listing products from independent shops without permission - Financial Times",
-      "description": "Complaints from retailers come as ecommerce giant sues start-up for sending AI ‘agents’ to shop without its consent",
-      "url": "https://www.ft.com/content/724c2910-76f2-45d7-8f2e-0ac5c82a5ad2",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c31cd52-1eef-4207-af32-b98b291e2881.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-06T22:58:44Z"
-    },
-    {
-      "title": "Grok Is Pushing AI ‘Undressing’ Mainstream - WIRED",
-      "description": "Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.",
-      "url": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
-      "urlToImage": "https://media.wired.com/photos/695d3603b6493d17e530b8ce/191:100/w_1280,c_limit/GettyImages-2248294692.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-01-06T22:20:00Z"
-    },
-    {
-      "title": "Outlet Mall set for demolition. Last store sets closing date - BoiseDev",
-      "description": "The Boise Factory Outlets will soon cease to exist. Engineered Structures Inc. of Meridian has applied for a demolition permit to remove the five retail buildings on the site on Eisenman Rd. near I-84 in Boise. The last remaining outlet store, Eddie Bauer Out…",
-      "url": "https://boisedev.com/news/2026/01/06/boise-factory-outlet-demo/",
-      "urlToImage": "https://boisedev.com/wp-content/uploads/2019/10/outlet-mall.png",
-      "source": "boisedev.com",
-      "publishedAt": "2026-01-06T22:09:06Z"
-    },
-    {
-      "title": "Office of Public Affairs | TD Bank Insider Pleads Guilty to Facilitating Money Laundering - Department of Justice (.gov)",
-      "description": null,
-      "url": "https://www.justice.gov/opa/pr/td-bank-insider-pleads-guilty-facilitating-money-laundering",
-      "urlToImage": null,
-      "source": "Justice.gov",
-      "publishedAt": "2026-01-06T22:03:16Z"
-    },
-    {
-      "title": "Elon Musk’s xAI raises $20bn in funding round that doubles valuation - Financial Times",
-      "description": "Announcement comes as scrutiny of chatbot mounts after it created sexualised images of minors",
-      "url": "https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2cb9e1e-6c57-46ed-a464-d0abe8155deb.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-06T21:47:36Z"
-    },
-    {
-      "title": "Trump Policies Power U.S. Auto Sales to Best Year Since 2019 — Proving “Experts” Wrong (Again) - The White House (.gov)",
-      "description": "Earlier this year, analysts claimed President Donald J. Trump’s Made in America trade agenda would “deal a serious blow to automakers,” “cut sales by",
-      "url": "https://www.whitehouse.gov/articles/2026/01/trump-policies-power-u-s-auto-sales-to-best-year-since-2019-proving-experts-wrong-again/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2026-01-06T21:39:25Z"
-    },
-    {
-      "title": "Nvidia steps up H200 chip production for Chinese market, Huang says - Financial Times",
-      "description": "Company confident ‘last details’ of deal with White House to resume AI chip exports will be finalised soon",
-      "url": "https://www.ft.com/content/ae4f28a0-39f9-48e6-bdf4-09321b03c236",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fae1f329c-eac7-4a3c-ba44-dcdb973c3d4b.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-06T21:30:15Z"
-    },
-    {
-      "title": "Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id\\\\u003d128951890",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2026-01-06T21:05:06Z"
-    },
-    {
-      "title": "Lilly in talks to buy Ventyx Biosciences for more than $1 billion, WSJ reports - Yahoo Finance",
-      "description": "Jan 6 () - Eli Lilly is in advanced talks ​to buy Ventyx Biosciences ‌for more than $1 billion, the Wall Street ‌Journal reported on Tuesday, citing people...",
-      "url": "https://finance.yahoo.com/news/lilly-talks-buy-ventyx-biosciences-204823398.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters.com/2455e150227f9dffb08307b4ff0ec73e",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-06T21:03:44Z"
-    },
-    {
-      "title": "Barnes & Noble To Open Largest Chicago Store Downtown This Summer - Block Club Chicago",
-      "description": "The 30,000-square-foot store will take over the former Old Navy space on State Street, which has been vacant since 2023 and was years ago the flagship location of rival bookseller Borders.",
-      "url": "https://blockclubchicago.org/2026/01/06/barnes-noble-to-open-largest-chicago-store-downtown-this-summer/",
-      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2023/01/Blank-1920-x-1080-46.jpg",
-      "source": "Block Club Chicago",
-      "publishedAt": "2026-01-06T21:00:00Z"
-    },
-    {
-      "title": "The most bizarre tech announced so far at CES 2026 - TechCrunch",
-      "description": "From an AI panda pet to an anime girl hologram for your desk, here are the wildest products at CES 2026.",
-      "url": "https://techcrunch.com/2026/01/06/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/C36A3152.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-01-06T20:10:22Z"
-    },
-    {
-      "title": "Alaska Airlines pilot who safely landed plane after panel blew out says Boeing unfairly blamed him - ABC News",
-      "description": "The Alaska Airlines pilot who was praised as a hero for safely landing a plane after a door plug panel flew off shortly after takeoff in 2004 is suing Boeing because he believes the plane maker wrongly tried to blame him and the rest of the crew in pas...",
-      "url": "https://abcnews.go.com/US/wireStory/alaska-airlines-pilot-safely-landed-plane-after-panel-128955786",
-      "urlToImage": "https://i.abcnewsfe.com/a/c44f071f-fbe2-44a7-b15b-4674aef290e6/wirestory_e832d42c39f9c60b620b08cc572d4eed_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2026-01-06T19:45:45Z"
-    },
-    {
-      "title": "Oregon tops nationwide list for inbound movers. Is population growth on the rebound? - OregonLive.com",
-      "description": "Population growth is core to Oregon’s economic health. A survey potentially aligns in the state’s favor.",
-      "url": "https://www.oregonlive.com/business/2026/01/oregon-tops-nationwide-list-for-inbound-movers-is-population-growth-on-the-rebound.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/737VEQ4I4FFCTCSAPBTULDNRL4.jpg?auth=3ef5aee63c8577c1653b2b865bf734491b6f1ad24de134e864fbaa54953b5219&width=1280&smart=true&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2026-01-06T19:09:00Z"
-    },
-    {
-      "title": "4 money moves to make in response to the events in Venezuela - CNBC",
-      "description": "The capture of Nicolás Maduro is unprecedented in modern times. Here's how it could affect your wallet.",
-      "url": "https://www.cnbc.com/select/4-money-moves-to-make-in-response-to-the-events-in-venezuela/",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216777-1761334678218-gettyimages-2243068304-jr_16311_2jvfkyaw.jpeg?v=1761334852&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-06T19:00:31Z"
-    },
-    {
-      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe - BBC",
-      "description": "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded.",
-      "url": "https://www.bbc.com/news/articles/czjg37p34r3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2e90/live/d6c37890-eb24-11f0-a6a3-53d02379137e.jpg",
+      "title": "We were fired, and we're owning it – how to find a new job that works for you - BBC",
+      "description": "January is a natural time to reflect on your career. If you're looking for a new job, here are four ways to help.",
+      "url": "https://www.bbc.com/news/articles/cwyvw1ev9rro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ad3f/live/b8004f60-ebc8-11f0-b385-5f48925de19a.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-01-06T18:14:02Z"
+      "publishedAt": "2026-01-08T01:58:50Z"
     },
     {
-      "title": "Hg Capital to buy OneStream in $6.4 billion take private deal; shares jump 28% - Yahoo Finance",
-      "description": "Buyout firm Hg Capital has agreed to acquire financial software maker OneStream in an all-cash deal worth $6.4 billion, the ​company said on Tuesday, less...",
-      "url": "https://finance.yahoo.com/news/hg-buy-onestream-6-4-175111480.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/0d6b6eb6cc33b0603de64278903e0746",
+      "title": "Stock futures are little changed after S&P 500, Dow retreat from record highs: Live updates - CNBC",
+      "description": "Growing geopolitical tensions could test the resilience of stocks as the new year begins.",
+      "url": "https://www.cnbc.com/2026/01/07/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249361-1767798030266-gettyimages-2254924094-mms25310_cpvlcohq.jpeg?v=1767798070&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-08T00:32:00Z"
+    },
+    {
+      "title": "Exclusive | JPMorgan Chase Reaches Deal to Take Over Apple Credit Card - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/finance/banking/jpmorgan-chase-reaches-a-deal-to-take-over-the-apple-credit-card-4e214fb2",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-01-08T00:03:00Z"
+    },
+    {
+      "title": "How tariff disruption will continue reshaping the global economy in 2026 - BBC",
+      "description": "Trump's import levies are still changing the patterns of international trade.",
+      "url": "https://www.bbc.com/news/articles/czejp3gep63o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/645a/live/aab49c60-eb11-11f0-992c-75363ad17690.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-08T00:00:40Z"
+    },
+    {
+      "title": "Asia-Pacific markets open mixed as Trump rattles defense firms and oil prices slide - CNBC",
+      "description": "Overnight, the S&P 500 and the Down Jones Industrial Average snapped a three-day winning streak.",
+      "url": "https://www.cnbc.com/2026/01/08/asia-pacific-markets-today-nikkei-225-hang-seng-index-kospi-wall-street-trump-oil.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107327502-1698905438445-gettyimages-1574181684-dsc00155_w7qyj6oz.jpeg?v=1758060712&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-08T00:00:00Z"
+    },
+    {
+      "title": "Trump family’s World Liberty crypto venture applies for US banking licence - Financial Times",
+      "description": "World Liberty Financial seeks national bank trust charter to enable a new entity to issue and custody its USD1 stablecoin",
+      "url": "https://www.ft.com/content/468c5f3a-0ab9-4756-85e2-22adb948db62",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F93353bde-90bb-426b-86a4-c7102b43d17d.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-01-07T23:54:47Z"
+    },
+    {
+      "title": "House Oversight panel to issue more subpoenas in Epstein case - Politico",
+      "description": "But lawmakers voted along party lines against subpoenaing DHS for information regarding the fatal shooting by an ICE agent in Minnesota.",
+      "url": "https://www.politico.com/live-updates/2026/01/07/congress/more-epstein-subpoenas-00715597",
+      "urlToImage": "https://www.politico.com/dims4/default/26af8ea/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff4%2F1c%2Fc60ef6544c839da0622f91351e91%2Fu-s-congress-88295.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-01-07T23:52:26Z"
+    },
+    {
+      "title": "Character.AI and Google agree to settle lawsuits over teen mental health harms and suicides - CNN",
+      "description": "Character.AI has agreed to settle multiple lawsuits alleging the artificial intelligence chatbot maker contributed to mental health crises and suicides among young people, including a case brought by Florida mother Megan Garcia.",
+      "url": "https://www.cnn.com/2026/01/07/business/character-ai-google-settle-teen-suicide-lawsuit",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2215580727-20260107223110568.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-01-07T23:15:12Z"
+    },
+    {
+      "title": "IWF finds sexual imagery of children which 'appears to have been' made by Grok - BBC",
+      "description": "It said analysts discovered the images on a dark-web forum, by users who claimed to have used Grok",
+      "url": "https://www.bbc.com/news/articles/cvg1mzlryxeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f31e/live/872207a0-ebf3-11f0-8608-ef259671aea9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-07T23:01:52Z"
+    },
+    {
+      "title": "Samsung expects Q4 operating profit to triple to record high on chip shortage - Yahoo Finance",
+      "description": "Samsung Electronics on Thursday projected a three-fold jump in fourth-quarter operating profit from a year earlier to a record high as tight supply and a...",
+      "url": "https://finance.yahoo.com/news/samsung-expects-record-q4-operating-224303634.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/eb143e7fabddb307a097f86755319792",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-06T17:51:11Z"
+      "publishedAt": "2026-01-07T22:43:03Z"
+    },
+    {
+      "title": "Applied Digital Reports Fiscal Second Quarter 2026 Results - Applied Digital Corporation (APLD)",
+      "description": "DALLAS, Jan.  07, 2026  (GLOBE NEWSWIRE) -- Applied Digital Corporation (Nasdaq: APLD) (\"Applied Digital\" or the \"Company\"), a designer, builder,…...",
+      "url": "https://ir.applieddigital.com/news-events/press-releases/detail/142/applied-digital-reports-fiscal-second-quarter-2026-results",
+      "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_847abe9a769af1d2c66b0abb4f7cca3e/appliedblockchaininc/db/2921/26523/social_image_resized.jpg",
+      "source": "Applieddigital.com",
+      "publishedAt": "2026-01-07T21:52:33Z"
+    },
+    {
+      "title": "Key airline used by Trump for deportations cuts ties with ICE - Axios",
+      "description": "Avelo will cease operations for the government on January 27.",
+      "url": "https://www.axios.com/2026/01/07/ice-trump-avelo-airlines-deportations",
+      "urlToImage": "https://images.axios.com/W3UDHMnAGKKRkQH2GRDKxC2BIrs=/0x381:3200x2181/1366x768/2026/01/07/1767814340812.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-01-07T21:51:55Z"
+    },
+    {
+      "title": "Intel to Report Fourth-Quarter and Full-Year 2025 Financial Results - intc.com",
+      "description": null,
+      "url": "https://www.intc.com/news-events/press-releases/detail/1758/intel-to-report-fourth-quarter-and-full-year-2025-financial",
+      "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_e934f4596bf86b98821803b537ed1f05/intel/db/878/6995/social_image_resized.jpg",
+      "source": "Intc.com",
+      "publishedAt": "2026-01-07T21:34:51Z"
+    },
+    {
+      "title": "It’s official: Costco seeks approval for new store along Idaho 55, with roundabouts - BoiseDev",
+      "description": "It’s official: Costco has applied to build a new store at Idaho 55 and Hill Rd. in Eagle, right on the dividing line with Boise. BoiseDev was the first to report in September that the retail giant was considering a store on the site. Now, permits have been fi…",
+      "url": "https://boisedev.com/news/2026/01/07/costco-eagle-plan/",
+      "urlToImage": "https://boisedev.com/wp-content/uploads/2026/01/its-official-costco-seeks-approval-for-new-store-along-idaho-55-with-roundabouts-Screenshot-2026-01-0.jpeg",
+      "source": "boisedev.com",
+      "publishedAt": "2026-01-07T21:24:06Z"
+    },
+    {
+      "title": "Lilly to acquire Ventyx Biosciences to advance oral therapies targeting inflammatory-mediated diseases - Eli Lilly",
+      "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
+      "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-acquire-ventyx-biosciences-advance-oral-therapies",
+      "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
+      "source": "Lilly.com",
+      "publishedAt": "2026-01-07T21:21:12Z"
+    },
+    {
+      "title": "Speech by Vice Chair for Supervision Bowman on modernizing supervision and regulation - Federal Reserve Board (.gov)",
+      "description": "I would like to thank the California Bankers Association for the invitation to join you today.  1     Throughout my now seven years as a member of the Federal",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260107a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "source": "Federalreserve.gov",
+      "publishedAt": "2026-01-07T21:13:07Z"
     }
   ]
 }
