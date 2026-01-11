@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-01-10T06:44:23.813Z",
+  "updatedAt": "2026-01-11T06:46:34.486Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Roundup: All The Xbox Trailers From The New Game Plus Showcase 2026 - Pure Xbox",
-      "description": null,
-      "url": "https://www.purexbox.com/features/roundup-all-the-xbox-trailers-from-the-new-game-plus-showcase-2026",
-      "urlToImage": null,
-      "source": "Pure Xbox",
-      "publishedAt": "2026-01-09T01:22:30Z"
-    },
-    {
-      "title": "Intel's 'Panther Lake' Core Ultra Laptop Chips Are Ready for Prime Time: All the Details We Know So Far - PCMag",
-      "description": "At CES, Intel details its launch lineup for the new Core Ultra Series 3 processors (based on its 2nm 18A architecture) that will launch this month across midrange to high-end AI PC laptops.",
-      "url": "https://www.pcmag.com/news/intel-panther-lake-core-ultra-laptop-chips-details-ces-2026",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/05swDULMnXT9S982V4Glybx-6.fit_lim.size_1200x630.v1767893416.webp",
-      "source": "PCMag.com",
-      "publishedAt": "2026-01-09T00:22:59Z"
-    },
-    {
-      "title": "Google Fi starts selling its first 5G tablet - 9to5Google",
-      "description": "Following phones and watches, the Google Fi store is getting its first tablet with the Samsung Galaxy Tab A11+ 5G....",
-      "url": "http://9to5google.com/2026/01/08/google-fi-store-tablet/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Samsung-Galaxy-Tab-A11-Gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-01-08T22:49:00Z"
-    },
-    {
-      "title": "Towerborne Launches February 26 with Massive Full Game Update - Xbox Wire",
-      "description": null,
-      "url": "https://news.xbox.com/en-us/2026/01/08/towerborne-launches-february-26-with-massive-full-game-update/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/364821_Secondary_Key-Art_Horizontal_9600x5400_RGB-copy-96baae0a2ad1655e4f5a.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-01-08T21:10:12Z"
-    },
-    {
-      "title": "Leaked test results from Galaxy S26 Ultra's new 60W charging fail to impress - GSMArena.com news - GSMArena.com",
-      "description": "The outgoing S25 Ultra only supports 45W wired charging - 60W is the first upgrade on Samsung phones in a while. Internal testing has shown that Samsung...",
-      "url": "https://www.gsmarena.com/leak_galaxy_s26_ultras_new_60w_charging_was_tested_results_fail_to_impress-news-71021.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/01/samsung-galaxy-s26-ultra-charging-test-ice-universe/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-01-08T20:07:02Z"
-    },
-    {
-      "title": "After 8 years of playing D&D nonstop, I've finally tried its biggest alternative - Polygon",
-      "description": null,
-      "url": "https://www.polygon.com/dnd-alternative-dungeon-crawl-classics/",
-      "urlToImage": null,
-      "source": "Polygon",
-      "publishedAt": "2026-01-08T20:00:00Z"
-    },
-    {
-      "title": "18 Products from CES 2026 You Can Order Right Now - CNET",
-      "description": "Intrigued by the innovative devices unveiled at CES? We’ve gathered what you can buy or preorder right now.",
-      "url": "https://www.cnet.com/deals/ces-2026-products-you-can-buy-now/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/f7cc45ca50fbf1aa62441484e9e92838409fcb44/hub/2026/01/06/0b6dc08b-633a-466c-a612-5792e3a19be1/deals-promo-image-edits.png?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-01-08T19:47:55Z"
-    },
-    {
-      "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride? - WIRED",
-      "description": "Tech companies are calling AI the next platform. But some developers are reluctant to let AI agents stand between them and their users.",
-      "url": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/",
-      "urlToImage": "https://media.wired.com/photos/695de0447ff06f235feecd54/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Meta-Amazon-Racing-to-Build-AI-Powered-Operating-Systems-Business.jpg",
+      "title": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents - WIRED",
+      "description": "To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.",
+      "url": "https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/",
+      "urlToImage": "https://media.wired.com/photos/69617bedef0086e74d1bc9df/191:100/w_1280,c_limit/OpenAI-Training-Agents-Using-Work-Documents-Business-87835485.jpg",
       "source": "Wired",
-      "publishedAt": "2026-01-08T19:00:00Z"
+      "publishedAt": "2026-01-10T01:11:00Z"
     },
     {
-      "title": "Apple Releases Surprise iPhone Software Update For Millions Of Users - Forbes",
-      "description": "There’s a new test update for the iPhone which nobody saw coming.",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/01/08/apple-releases-surprise-iphone-software-update-for-millions-of-users/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-01-08T18:21:00Z"
+      "title": "What Are The Best And/Or Worst-Looking Race Cars? - The Autopian",
+      "description": "I tend to think all race cars look pretty cool, even the “ugly” ones. There’s something about being purpose-built to do one thing – run a quarter mile, circle an oval, set a land-speed record, climb a hill, cross a desert – that transcends what mere styling c…",
+      "url": "https://www.theautopian.com/what-are-the-best-and-or-worst-looking-race-cars/",
+      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/AA_Best_Looking_Race_Car.jpg",
+      "source": "Theautopian.com",
+      "publishedAt": "2026-01-09T22:22:40Z"
     },
     {
-      "title": "LG's G6 OLED TV Offers Even Higher Brightness and Is Better in Lit Rooms - CNET",
-      "description": "The LG G6 is 20% brighter than the older model and now delivers an enhanced, anti-reflective coating.",
-      "url": "https://www.cnet.com/tech/home-entertainment/lgs-g6-oled-tv/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/17ba57dec4d09a41993a7ef6cff6057c8107ade9/hub/2026/01/08/69e2bfb1-1fa6-4d92-b447-07ef71a0f3b9/lg-g6.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-01-08T17:30:00Z"
+      "title": "I went to CES to check out robotaxis. I left convinced that one player is far in the lead. - Business Insider",
+      "description": "Robotaxi reporter Lloyd Lee breaks down what he saw — and heard — on the ground at the world's largest consumer tech show, CES, in Vegas.",
+      "url": "https://www.businessinsider.com/first-time-ces-experience-robotaxis-humanoid-robots-ai-2026-1",
+      "urlToImage": "https://i.insider.com/69613c1104eda4732f2ecc2e?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-01-09T20:17:00Z"
     },
     {
-      "title": "List of all characters in Mario Tennis Fever - Nintendo Everything",
-      "description": "Check out the full list of characters in Mario Tennis Fever, which is the most ever in the series' history.",
-      "url": "https://nintendoeverything.com/list-of-all-mario-tennis-fever-characters/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mario-Tennis-Fever-characters.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-01-08T17:16:15Z"
+      "title": "A Bosch vs. Avinox Final Challenge & Our Field Test E-Bike Rankings - Pinkbike",
+      "description": "Stephane and Dario are blindfolded and dropped far from home, left with only their e-bikes to find their way back before crowning a champion.",
+      "url": "https://www.pinkbike.com/news/bosch-vs-avinox-final-challenge-e-bike-field-test.html",
+      "urlToImage": "https://ep1.pinkbike.org/p4pb29051233/p4pb29051233.jpg",
+      "source": "Pinkbike.com",
+      "publishedAt": "2026-01-09T20:01:00Z"
     },
     {
-      "title": "Animal Crossing: New Horizons amiibo compatibility updates included in free update! - nintendo.com",
-      "description": "A free content update for the Animal Crossing™: New Horizons game arrives on January 15, 2026. Along with new features and activities, players can enjoy amiibo™ compatibility updates as well! After updating your game, you can tap select amiibo figur…",
-      "url": "https://www.nintendo.com/us/whatsnew/animal-crossing-new-horizons-amiibo-compatibility-updates-included-in-free-update/",
+      "title": "Amazon Has Big Hopes for Wearable AI — Starting With This $50 Gadget - Bloomberg.com",
+      "description": "Several months after Amazon.com Inc. bought artificial intelligence hardware startup Bee, the company said it’s working to make its $50 always-listening wearable more proactive, and indicated a larger revamp is in store.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-09/amazon-has-big-hopes-for-wearable-ai-starting-with-this-50-gadget",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7DwuMq9JX3A/v1/1200x765.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-09T19:48:05Z"
+    },
+    {
+      "title": "New Gmail AI features replacing Gemini side panel for some - 9to5Google",
+      "description": "With the launch of “in-line AI experiences” in Gmail, Google has shared that the Gemini side panel is going away for AI Pro and Ultra...",
+      "url": "http://9to5google.com/2026/01/09/gmail-gemini-side-panel-2/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gmail-Gemini-side-panel-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-01-09T18:14:00Z"
+    },
+    {
+      "title": "The Acura NSX Is Back From the Dead With an Official, Ultra-Limited Redesign - The Drive",
+      "description": "Italdesign has released its own continuation version of the second-gen NSX, promising \"few-off,\" ultra-limited production.",
+      "url": "http://www.thedrive.com/news/the-acura-nsx-is-back-from-the-dead-with-an-official-ultra-limited-redesign",
+      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/01/italdesign-nsx-1.jpg?w=1200",
+      "source": "The Drive",
+      "publishedAt": "2026-01-09T18:05:22Z"
+    },
+    {
+      "title": "Take-Two Falls on ‘Grand Theft Auto VI’ Delay Misinformation - Bloomberg.com",
+      "description": "“Grand Theft Auto VI’ was first announced for fall 2025 before slipping to May 2026 and then again to Nov. 19, 2026, its current planned date",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-09/take-two-falls-on-grand-theft-auto-vi-delay-misinformation",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iosyVTcFxlv4/v0/1200x675.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-09T18:01:58Z"
+    },
+    {
+      "title": "Dominate The Tower and Leaderboards Beta — Diablo IV - Blizzard News",
+      "description": "Prepare to enter the Tower and Leaderboards Beta, an all-new challenge for the Seasonal Realm. Ascend the Tower and help shape this mode for seasons to come.",
+      "url": "https://news.blizzard.com/en-us/article/24247514/dominate-the-tower-and-leaderboards-beta",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/y8/Y8RG9OJG3CVA1767892964876.png",
+      "source": "Blizzard.com",
+      "publishedAt": "2026-01-09T18:00:00Z"
+    },
+    {
+      "title": "Samsung’s Bixby reboot will copy Google with ‘Bixby Live’ and ‘Circle to Ask’ [Gallery] - 9to5Google",
+      "description": "Samsung is reworking its long-standing Bixby assistant this year with AI, and new screenshots are showing off how that will...",
+      "url": "http://9to5google.com/2026/01/09/samsung-bixby-reboot-copy-google-gemini-features/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Galaxy-S25-Ultra-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-01-09T17:50:00Z"
+    },
+    {
+      "title": "Honda Prelude Mugen Spec.III Is a Sports Coupe for the True Mugen Fans - Road & Track",
+      "description": "There's some history behind this Mugen kit for the Honda Prelude, revealed at the 2026 Tokyo Auto Salon.",
+      "url": "https://www.roadandtrack.com/news/a69958877/honda-prelude-mugen-speciii/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/spec3-1200x646-696135ee5bdf1.jpg?crop=1xw:0.9290540540540541xh;center,top&resize=1200:*",
+      "source": "RoadandTrack.com",
+      "publishedAt": "2026-01-09T17:48:00Z"
+    },
+    {
+      "title": "Baldur's Gate 3 Writer Wishes Wyll Had Gotten More Content and a More Fulfilling Arc Too, Explains What Happened - IGN",
+      "description": "In the years since Baldur's Gate 3's release, Larian has put a lot of time and energy into updating the game with tons of new content. But one character is still coming up short for fans: Wyll. And at least one writer at Larian is just as frustrated by it as …",
+      "url": "https://www.ign.com/articles/baldurs-gate-3-writer-wishes-wyll-had-gotten-more-content-and-a-more-fulfilling-arc-too-explains-what-happened",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/08/22/baldurs-gate-3-wyll-1692723197796.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-01-09T17:37:26Z"
+    },
+    {
+      "title": "The first sets with Lego’s new Smart Brick are now available for preorder - The Verge",
+      "description": "You can now preorder Lego’s first Smart Brick sets featuring interactive Star Wars playsets, spaceships, and figures.",
+      "url": "https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego_smart.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-01-09T17:31:29Z"
+    },
+    {
+      "title": "Jumpstart your year with these games under $30! - Nintendo",
+      "description": "Find something to play without breaking the bank. Shop now on Nintendo.com or Nintendo eShop on your device.",
+      "url": "https://www.nintendo.com/us/whatsnew/jumpstart-your-year-with-these-games-under-usd30-jan-2026/",
       "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "source": "Nintendo.com",
-      "publishedAt": "2026-01-08T17:05:41Z"
+      "publishedAt": "2026-01-09T17:25:57Z"
     },
     {
-      "title": "The Wildest Robot Vacuum at CES Can Clean While Climbing Stairs - PCMag",
-      "description": "It sounds like a concept, but Roborock's legged Saros Rover was fully operational at CES—and it climbed stairs without missing a spot.",
-      "url": "https://www.pcmag.com/news/the-wildest-robot-vacuum-at-ces-2026-can-clean-while-climbing-stairs",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/072uVmXIv7rfZ3QHNkRlP5J-6.fit_lim.size_1200x630.v1767894875.webp",
-      "source": "PCMag.com",
-      "publishedAt": "2026-01-08T17:00:28Z"
-    },
-    {
-      "title": "How the Sphere Morphed Into an Interactive Lego Death Star - The Hollywood Reporter",
-      "description": "Lego and Lucasfilm turned the Las Vegas landmark into the Death Star, letting visitors get into a full-size Lego X-Wing to try and tackle the trench run.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/sphere-star-wars-lego-death-star-activation-1236467061/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/BF6_4923.jpg?crop=0px%2C316px%2C4500px%2C2518px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-01-08T16:40:07Z"
-    },
-    {
-      "title": "Apple’s best-tested iPad sold out before Christmas. Now it’s back at $50 off - CNN",
-      "description": "It’s been hard to find Apple’s latest entry-level iPad in stock as of late, but now Amazon has launched the first discount of the year at $50 off our pick for the best tablet.",
-      "url": "https://www.cnn.com/cnn-underscored/deals/apple-ipad-sale-2026-01-08",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/apple-ipad-a16-cnnu.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-01-08T16:31:00Z"
-    },
-    {
-      "title": "The Future for Pentax is Uncertain, but Ricoh is Committed to the Brand - PetaPixel",
-      "description": "Ricoh says it is committed to the Pentax brand, but admits it's not quite sure how to make DSLRs appealing to younger users.",
-      "url": "https://petapixel.com/2026/01/08/the-future-for-pentax-is-uncertain-but-ricoh-is-committed-to-the-brand/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2026/01/The-Future-for-Pentax-is-Uncertain-but-Ricoh-is-Committed-to-the-Brand.jpg",
+      "title": "You Can Get a Fujifilm X half For Free as Part of an X-T5 Kit - PetaPixel",
+      "description": "One retailer is giving away a Fujifilm X half as part of an X-T5 kit bundle, indicating that its initial popularity may have waned.",
+      "url": "https://petapixel.com/2026/01/09/you-can-get-a-fujifilm-x-half-for-free-as-part-of-an-x-t5-kit/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/01/You-Can-Get-a-Fujifilm-X-half-For-Free-as-Part-of-an-X-T5-Kit.jpg",
       "source": "PetaPixel",
-      "publishedAt": "2026-01-08T16:29:04Z"
+      "publishedAt": "2026-01-09T16:46:09Z"
     },
     {
-      "title": "22 New Bikes & E-Bikes That Might Compete for Your Cash in 2026 - Pinkbike",
-      "description": "Nearly two dozen bikes that could be due for a refresh this season.",
-      "url": "https://www.pinkbike.com/news/20-new-bikes-and-ebikes-that-might-compete-for-your-cash-in-2026.html",
-      "urlToImage": "https://ep1.pinkbike.org/p4pb28271344/p4pb28271344.jpg",
-      "source": "Pinkbike.com",
-      "publishedAt": "2026-01-08T16:18:09Z"
+      "title": "Apple Releases A Further Surprise iPhone Update For Millions Of Users - Forbes",
+      "description": "There’s a new test update for the iPhone which nobody saw coming.",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/01/09/apple-releases-surprise-iphone-software-update-for-millions-of-users/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f2995b23964b14d9569f07/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-01-09T16:20:00Z"
     },
     {
-      "title": "Metagame Mentor: The Top Standard Decks to Expect at Magic Spotlight: The Avatar - MAGIC PLAY",
-      "description": "Standard takes center stage for the first Spotlight Series events of the year! See what decks are poised to take home the trophy and learn how to beat the best in 2026.",
-      "url": "https://magic.gg/news/metagame-mentor-top-standard-decks-to-expect-at-spotlight-avatar",
-      "urlToImage": "https://images.ctfassets.net/ryplwhabvmmk/3hLzu4XL5rCUEdYzpTQf6J/3dad1d51cb279eddeae992ebd8a05f4c/BLB-Splash-Portal-960x540.jpg",
-      "source": "Magic.gg",
-      "publishedAt": "2026-01-08T16:04:47Z"
+      "title": "Another Source Reveals What They Know About The 'Secret' Xbox Developer Direct Game - Pure Xbox",
+      "description": "They also claim Fable is in development for PS5",
+      "url": "https://www.purexbox.com/news/2026/01/another-source-reveals-what-they-know-about-the-secret-xbox-developer-direct-game",
+      "urlToImage": "https://images.purexbox.com/a6060a7bc52bc/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-01-09T16:07:00Z"
+    },
+    {
+      "title": "Titus and the Wardens of Ultramar are on parade thanks to our talented community painters - Warhammer Community",
+      "description": "A dazzling display of Ultramar’s best and brightest.",
+      "url": "https://www.warhammer-community.com/articles/xcucjrwf/titus-and-the-wardens-of-ultramar-are-on-parade-thanks-to-our-talented-community-painters",
+      "urlToImage": "https://assets.warhammer-community.com/40k_infltitus-jan09-1-feature-ggblmycmzr.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-01-09T15:58:38Z"
+    },
+    {
+      "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations - Quanta Magazine",
+      "description": "A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.",
+      "url": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Unstable-Blowup-cr-Samuel-Velasco-Social.jpg",
+      "source": "Quanta Magazine",
+      "publishedAt": "2026-01-09T15:49:37Z"
+    },
+    {
+      "title": "Microsoft Windows Media Player stops serving up CD album info - theregister.com",
+      "description": ": No naming that tune and no album covers",
+      "url": "https://www.theregister.com/2026/01/09/microsoft_windows_media_player_forgets/",
+      "urlToImage": "https://regmedia.co.uk/2022/11/22/question_shutterstock.jpg",
+      "source": "Theregister.com",
+      "publishedAt": "2026-01-09T15:12:00Z"
     }
   ]
 }

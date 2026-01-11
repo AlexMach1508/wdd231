@@ -1,135 +1,143 @@
 {
-  "updatedAt": "2026-01-10T06:44:23.889Z",
+  "updatedAt": "2026-01-11T06:46:34.612Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Budget office expects Federal Reserve to cut rates in 2026 - abcnews.go.com",
-      "description": "The Congressional Budget Office has released new economic projections, expecting the Federal Reserve to cut short-term rates in 2026",
-      "url": "https://abcnews.go.com/Business/wireStory/budget-office-expects-federal-reserve-cut-rates-2026-129032633",
-      "urlToImage": "https://i.abcnewsfe.com/a/98a8ea3a-d4fd-48bc-9cc7-5237e2a37a5a/wirestory_eb0864a2d9237daa95208bda56876af1_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2026-01-09T02:35:54Z"
-    },
-    {
-      "title": "Johnson & Johnson strikes deal with U.S. government to lower drug prices - CNBC",
-      "description": "Johnson & Johnson said on Thursday that it has reached an agreement with the U.S. President's administration to cut drug prices for Americans.",
-      "url": "https://www.cnbc.com/2026/01/09/johnson-johnson-strikes-deal-with-us-government-to-lower-drug-prices.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1767924813&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-09T02:19:00Z"
-    },
-    {
-      "title": "Asia markets trade mixed ahead of China inflation data; Uniqlo owner shares jump 7% - CNBC",
-      "description": "Asia-Pacific markets were set to trade higher Friday as investors parse China's inflation data coming out later in the day.",
-      "url": "https://www.cnbc.com/2026/01/09/asia-pacific-markets-china-cpi-hang-seng-index-kospi-nikkei-225.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108241556-1765610729588-gettyimages-2246895310-20090101251119-99-688196.jpeg?v=1765610763&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-08T23:46:19Z"
-    },
-    {
-      "title": "GM’s EV Charges Balloon to $7.6 Billion as US Demand Craters - Bloomberg.com",
-      "description": "General Motors Co. will take another $6 billion in charges tied to production cutbacks in its electric vehicle and battery operations as the financial fallout spreads from the weakening US market for EVs.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-08/gm-s-ev-charges-balloon-to-7-6-billion-as-market-in-us-craters",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYJhzrl6RWTc/v1/1200x789.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-01-08T22:53:53Z"
-    },
-    {
-      "title": "Merck in talks to buy cancer drugmaker Revolution Medicines for up to $32bn - Financial Times",
-      "description": "US company is attempting to acquire the maker of a new treatment for pancreatic cancer",
-      "url": "https://www.ft.com/content/93b4e80d-724a-4384-9e39-f6ff9474373a",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F35607cf6-a807-4227-9b69-c1a97bf6752f.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-08T20:39:44Z"
-    },
-    {
-      "title": "Why Are Grok and X Still Available in App Stores? - WIRED",
-      "description": "Elon Musk’s chatbot has been used to generate thousands of sexualized images of adults and apparent minors. Apple and Google have removed other “nudify” apps—but continue to host X and Grok.",
-      "url": "https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/",
-      "urlToImage": "https://media.wired.com/photos/695e9565aa101b3c7113f21a/191:100/w_1280,c_limit/How-Is-X-Still-in-App-Store-Business-2255064607.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-01-08T20:25:00Z"
-    },
-    {
-      "title": "Datavault AI's New York and Philadelphia Edge Network will be Completed in Second Quarter and Unlock Multi-Billion Dollar Markets through AI Driven Data Monetization - Datavault AI",
-      "description": "New York and Philadelphia Edge Network Activation Positions Datavault AI to Capture Significant Share of Insurance and Financial Sectors,…...",
-      "url": "https://ir.datavaultsite.com/news-events/press-releases/detail/412/datavault-ais-new-york-and-philadelphia-edge-network-will",
-      "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_052d20ce04a26b3fb25c34e739c1a566/datavaultsite/db/377/2738/social_image_resized.jpg",
-      "source": "Datavaultsite.com",
-      "publishedAt": "2026-01-08T20:11:29Z"
-    },
-    {
-      "title": "Google cofounders Sergey Brin and Larry Page moved an LLC out of California ahead of proposed billionaire's tax - Business Insider",
-      "description": "The LLC moved as California's ultrarich weigh leaving ahead of a proposed tax on billionaires that would take effect retroactively starting January 1.",
-      "url": "https://www.businessinsider.com/sergey-brin-larry-page-moved-llc-california-wealth-tax-2026-1",
-      "urlToImage": "https://i.insider.com/6960081964858d02d21801f8?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-01-08T19:52:00Z"
-    },
-    {
-      "title": "Glencore and Rio Tinto resume talks on mining megadeal - Financial Times",
-      "description": "Discussions over a tie-up to create world’s largest mining group come as race to secure copper reshapes sector",
-      "url": "https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1357e4de-c59a-4c2f-886e-16992fe9c718.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-08T19:41:20Z"
-    },
-    {
-      "title": "Trump threatens to ban institutional investors from buying single-family homes - 6abc Philadelphia",
-      "description": "President Trump said that he intends to ban large institutional investors from buying additional single-family homes.",
-      "url": "https://6abc.com/post/trump-threatens-ban-institutional-investors-buying-single-family-homes/18373242/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18373257_010826-cc-trump-houses-img.jpg?w=1600",
-      "source": "WPVI-TV",
-      "publishedAt": "2026-01-08T19:13:18Z"
-    },
-    {
-      "title": "Lilly's Taltz (ixekizumab) and Zepbound (tirzepatide) used together delivered superior efficacy in first-of-its-kind Phase 3b trial for adults with active psoriatic arthritis and obesity or overweight - Eli Lilly",
-      "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
-      "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-taltz-ixekizumab-and-zepbound-tirzepatide-used-together",
-      "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
-      "source": "Lilly.com",
-      "publishedAt": "2026-01-08T19:02:07Z"
-    },
-    {
-      "title": "Sycamore is changing LLC name to \"Club West Brewing,\" signaling a rebrand - Axios",
-      "description": "Sycamore is changing names, signaling a rebrand",
-      "url": "https://www.axios.com/local/charlotte/2026/01/08/sycamore-brewing-closure-arrest-south-end-scandal",
-      "urlToImage": "https://images.axios.com/f4pv-PT5UJT5pjm7rw_nzjCxHT0=/0x263:1320x1005/1366x768/2026/01/08/1767880490725.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-01-08T18:32:04Z"
-    },
-    {
-      "title": "Capital One Lounge coming to Charlotte Douglas International Airport - Axios",
-      "description": "The new lounge will be on the mezzanine level of Concourse A, near gates 21–29.",
-      "url": "https://www.axios.com/local/charlotte/2026/01/08/capital-one-lounge-charlotte-airport",
-      "urlToImage": "https://images.axios.com/7PgnaMzz67Z6gmppoBT-r2a7k4Q=/0x0:6000x3375/1366x768/2026/01/08/1767888651159.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-01-08T17:30:50Z"
-    },
-    {
-      "title": "Job openings slide to 2nd lowest level in 5 years as hiring remains sluggish - abcnews.go.com",
-      "description": "U.S. employers posted far fewer jobs in November than the previous month, a sign that employers aren’t yet ramping up hiring even as growth has picked up",
-      "url": "https://abcnews.go.com/Business/wireStory/job-openings-slide-2nd-lowest-level-5-years-128981129",
-      "urlToImage": "https://i.abcnewsfe.com/a/c37394e5-c8c9-4fd7-8c6d-aaacdec50b0f/wirestory_e7b5d4c29d444ea019199d8bb759bb51_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2026-01-08T17:19:38Z"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Health to review your medical records - BBC",
-      "description": "The firm says its chatbot sees health and wellbeing questions from 230 million people every week.",
-      "url": "https://www.bbc.com/news/articles/cpqy29d0yjgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31ea/live/35e10560-ec9f-11f0-be98-fd0ce9c3379d.jpg",
+      "title": "'Out of stock': What went wrong at luxury retailer Saks? - BBC",
+      "description": "Saks Global, which owns Saks Fifth Avenue and Neiman Marcus, is expected to imminently file for bankruptcy protection, leaving questions about the retailer's future.",
+      "url": "https://www.bbc.com/news/articles/czdq1z73pv9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4011/live/df9e98d0-eb1c-11f0-a935-e16fc33d91b4.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-01-08T17:14:32Z"
+      "publishedAt": "2026-01-10T03:13:16Z"
     },
     {
-      "title": "Labor Market Expectations Deteriorate as Job Finding Expectations Reach Series Low - Federal Reserve Bank of New York",
-      "description": "",
-      "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20260108",
+      "title": "Investor Michael Burry Reveals Options Bet Against Oracle - Yahoo Finance",
+      "description": "Burry owns put options on Oracle shares, he said in a Substack post after markets closed on Friday.  Burry, who revealed bearish bets against AI chipmaker...",
+      "url": "https://finance.yahoo.com/news/investor-michael-burry-reveals-options-003350357.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0Pas3_pn7deDmdy1LOwmjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY-/https://media.zenfs.com/en/bloomberg_holding_pen_162/8f26a2964286e84175a66f125e70f460",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-01-10T00:33:00Z"
+    },
+    {
+      "title": "Oil Chiefs Lukewarm as Trump Pushes $100 Billion Venezuela Plan - Bloomberg.com",
+      "description": "Major US oil executives expressed caution about President Donald Trump’s push for them to spend at least $100 billion to rebuild Venezuela, with the head of Exxon Mobil Corp. calling the nation currently “uninvestable.”",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-09/trump-pressures-big-oil-for-100-billion-venezuela-investment",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i80hjrrrrVrs/v1/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-10T00:25:00Z"
+    },
+    {
+      "title": "500 more jobs coming to Wilson in new pharmaceutical plant, Stein says - WRAL",
+      "description": "Pharmaceutical giant Johnson & Johnson has been heavily investing in North Carolina , spending billions on its Wilson factory as well as a Holly Springs lab announced in August.",
+      "url": "https://www.wral.com/news/nccapitol/johnson-factory-jobs-coming-wilson-pharmaceutical-plant-jan-2026/",
+      "urlToImage": "https://images.wral.com/954da6de-b5b6-504e-99f1-62cb6947209a?w=1200&h=630",
+      "source": "WRAL.com",
+      "publishedAt": "2026-01-09T21:36:13Z"
+    },
+    {
+      "title": "OpenAI and SoftBank to invest $1bn in energy and data centre supplier - Financial Times",
+      "description": "SB Energy has a contract to build a data centre for the ChatGPT maker’s Stargate infrastructure project",
+      "url": "https://www.ft.com/content/36b941b6-923d-4894-84e8-736625a1dc22",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef340966-2627-4652-9143-5114e60f0a4e.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-01-09T21:30:30Z"
+    },
+    {
+      "title": "How Elon Musk’s Grok spread sexual deepfakes and child exploitation images - Financial Times",
+      "description": "Billionaire’s xAI start-up lacks adequate safeguards, say experts, but many AI models are trained on troubling material",
+      "url": "https://www.ft.com/content/117af7cc-3fe6-4292-a706-7204b82bb8dc",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faab04495-37f2-41a7-af72-92e106a6be27.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-01-09T21:00:08Z"
+    },
+    {
+      "title": "Job Gains Cooled in December, Capping Year of Weak Hiring - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/economy/jobs/jobs-report-december-2025-unemployment-16e90dea",
       "urlToImage": null,
-      "source": "Newyorkfed.org",
-      "publishedAt": "2026-01-08T16:04:38Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-01-09T20:06:06Z"
+    },
+    {
+      "title": "Diesel was mistakenly distributed instead of regular unleaded at many Colorado gas pumps - The Colorado Sun",
+      "description": "The Division of Oil and Public Safety started receiving complaints Thursday after diesel was loaded from a Sinclair terminal in Henderson",
+      "url": "http://coloradosun.com/2026/01/09/diesel-distributed-colorado-gas-pumps/",
+      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/05/johnsons-corner-sinclair-gas-larimer-county-3.jpg",
+      "source": "The Colorado Sun",
+      "publishedAt": "2026-01-09T19:43:34Z"
+    },
+    {
+      "title": "Why Micron Stock Popped Again Today - Yahoo Finance",
+      "description": "Micron shares sell for a tiny P/E ratio -- but a gigantic valuation on P/FCF.",
+      "url": "https://www.fool.com/investing/2026/01/09/why-micron-stock-popped-again-today/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cYftTRHqfZ.OFYtv_mdkmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05OTY-/https://media.zenfs.com/en/motleyfool.com/927c5b355e60b2518db2242d130c21a4",
+      "source": "Motley Fool",
+      "publishedAt": "2026-01-09T19:02:41Z"
+    },
+    {
+      "title": "Jeep and Chrysler kill plug-in hybrid models for 2026 - The Detroit News",
+      "description": "Stellantis said it will focus more on mild plug-less hybrids and its new range-extended hybrid technology.",
+      "url": "https://www.detroitnews.com/story/business/autos/chrysler/2026/01/09/jeep-and-chrysler-kill-plug-in-hybrid-models-for-2026/88098764007/",
+      "urlToImage": "https://www.detroitnews.com/gcdn/presto/2021/04/27/PDTN/0c55ea26-6311-4b6a-b107-81469c1ddaf8-JeepWrangler4xe_plug.jpg?crop=3986,2243,x13,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "The Detroit News",
+      "publishedAt": "2026-01-09T18:54:00Z"
+    },
+    {
+      "title": "Boozman considers delaying crypto markup as bipartisan talks pick up - Politico",
+      "description": "A Senate Agriculture Committee vote could get pushed back depending on how much progress Chair John Boozman makes in the coming days in negotiations with Democrats.",
+      "url": "https://www.politico.com/live-updates/2026/01/09/congress/boozman-considers-delaying-crypto-markup-as-bipartisan-talks-pick-up-00719214",
+      "urlToImage": "https://www.politico.com/dims4/default/9c0760c/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fe1%2F7d%2Fb2d73f1149028fbd2176c230c941%2Fu-s-congress-49015.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-01-09T18:51:34Z"
+    },
+    {
+      "title": "Mortgage Bonds Explained: What Trump’s Latest Proclamation Means for Homeowners - Realtor.com",
+      "description": null,
+      "url": "https://www.realtor.com/advice/finance/mortgage-bonds-explained-trump-proclamation/",
+      "urlToImage": null,
+      "source": "Realtor.com News",
+      "publishedAt": "2026-01-09T18:37:37Z"
+    },
+    {
+      "title": "3 new venture funds collect nearly $1B for biotech in US, EU - Fierce Biotech",
+      "description": "The new year has ushered in a flow of biotech-specific funds, including $700 million from Andreessen Horowitz (A16z). | The new year has ushered in a flow of biotech-specific funds, including $700 million from Andreessen Horowitz.",
+      "url": "https://www.fiercebiotech.com/biotech/3-new-venture-funds-collect-nearly-1b-biotech-us-eu",
+      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2166198971.jpg?VersionId=22nzKfrbQgoTMgoe5otHLlDhMSiMuOav",
+      "source": "FierceBiotech",
+      "publishedAt": "2026-01-09T18:20:44Z"
+    },
+    {
+      "title": "Mortgage rates just fell below 6% for the first time in years - NBC News",
+      "description": "Mortgage rates fell below 6% for the first time in years, after Trump said Fannie and Freddie would buy $200 billion worth of mortgage bonds.",
+      "url": "https://www.nbcnews.com/business/real-estate/30-year-mortgage-rates-below-6-percent-rcna253218",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260109-house-for-sale-ew-1258p-f57a4e.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-01-09T18:15:48Z"
+    },
+    {
+      "title": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026 - Federal Reserve Board (.gov)",
+      "description": "The Federal Reserve Board on Friday announced the designation of the chairs and deputy chairs of the 12 Federal Reserve Banks for 2026.  Each Reserve Bank has",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "source": "Federalreserve.gov",
+      "publishedAt": "2026-01-09T18:03:39Z"
+    },
+    {
+      "title": "Buy Amazon for a prospective breakout, says Carter Worth - CNBC",
+      "description": "From here, the chart analyst thinks owning Amazon will generate positive alpha.",
+      "url": "https://www.cnbc.com/2026/01/09/buy-amazon-for-a-prospective-breakout-says-carter-worth.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108234569-1764611182910-gettyimages-2248802812-CYBER_MONDAY_2025.jpeg?v=1764611314&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-09T18:00:01Z"
+    },
+    {
+      "title": "Major retailer closing stores in 12 states, including New York - Syracuse.com",
+      "description": "The closures are part of the retailer's previously announced plan to shutter 150 locations by 2026, with clearance sales beginning in mid-January at affected stores.",
+      "url": "https://www.syracuse.com/business/2026/01/major-retailer-closing-stores-in-12-states-including-new-york.html",
+      "urlToImage": "https://www.syracuse.com/resizer/v2/75FOSIR5EFBYDLURELPHIIMIDI.jpg?auth=5460f00d3c2f289266057ca369c3574c1d8eb0d848d1510473c6767bb13c632b&width=1280&smart=true&quality=90",
+      "source": "syracuse.com",
+      "publishedAt": "2026-01-09T17:55:00Z"
     }
   ]
 }
