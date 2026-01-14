@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-01-13T06:49:11.199Z",
+  "updatedAt": "2026-01-14T06:49:41.802Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "US Fed Chair Jerome Powell under criminal investigation - BBC",
-      "description": "He called the probe \"unprecedented\", following his refusal to lower interest rates after demands by Donald Trump.",
-      "url": "https://www.bbc.com/news/articles/c801k7rkkd7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f51/live/ae8b18b0-ef57-11f0-92c5-a34e92251946.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-12T01:41:16Z"
+      "title": "The campaign to persuade Trump to investigate the Federal Reserve chief - The Washington Post",
+      "description": "It’s not clear how the inquiry into Federal Reserve Chair Jerome Powell was approved, but housing regulator Bill Pulte met with President Donald Trump at Mar-a-Lago, and shared a prop resembling a “wanted poster” he had made up featuring Powell.",
+      "url": "https://www.washingtonpost.com/business/2026/01/12/jerome-powell-fed-chair-investigation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCF3XV6JOQFPAJ7YLMLAMGRINM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-01-13T06:27:31Z"
     },
     {
-      "title": "Why luxury carmakers are now building glitzy skyscrapers - BBC",
-      "description": "Bugatti is the latest auto firm to construct an opulent apartment building for the super rich.",
-      "url": "https://www.bbc.com/news/articles/clyenj18vvxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/75da/live/5f53aa60-ebd7-11f0-a422-4ba8a094a8fa.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-12T00:02:08Z"
+      "title": "Stock Market Today: Dow, S&P 500 Close At Highs; Alphabet Hits $4 Trillion Mark (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index climbs but the Nasdaq composite outperforms it and the S&P 500. Nvidia tests a key moving average.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-powell-nvidia-nvda-tesla-tsla/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/11/stock-Bull-arena-01-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-01-12T22:15:00Z"
     },
     {
-      "title": "Luxury watch con ends with McLean man sentenced to nearly two years in federal prison - WTOP",
-      "description": "A McLean resident used multiple American Express accounts that bilked the credit card company and Harrods out of more than $1.2 million in luxury watches.",
-      "url": "https://wtop.com/virginia/2026/01/luxury-watch-con-ends-with-mclean-man-sentenced-to-nearly-two-years-in-federal-prison/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/RolexAP-e1768175521739.jpg",
-      "source": "WTOP",
-      "publishedAt": "2026-01-11T23:58:54Z"
-    },
-    {
-      "title": "Alnylam charts ambitious five-year plan as sales of key drug miss expectations - statnews.com",
-      "description": "Gene-silencing company Alnylam charts ambitious five-year plan as sales of key drug miss expectations.",
-      "url": "https://www.statnews.com/2026/01/11/alnylam-five-year-plan-amvuttra-investors-jpm-2026/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2021/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter11192021ceo2-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2026-01-11T22:02:56Z"
-    },
-    {
-      "title": "Anthropic joins OpenAI's push into health care with new Claude tools - NBC News",
-      "description": "Anthropic announced a new suite of health care and life sciences features Sunday, enabling users of its Claude artificial intelligence platform to share access to their health records to better understand their medical information",
-      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-health-care-rcna252872",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250826-Anthropic-ch-1533-2ea8e0.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-01-11T22:00:40Z"
-    },
-    {
-      "title": "Shopping at Walmart, Wayfair and more to undergo major change, Google officials announce - AL.com",
-      "description": "The news was announced Sunday on the first day of the National Retail Federation’s annual convention in New York.",
-      "url": "https://www.al.com/news/2026/01/shopping-at-walmart-wayfair-and-more-to-undergo-major-change-google-officials-announce.html",
-      "urlToImage": "https://www.al.com/resizer/v2/JCOBQQL2W5BEZEMAK2QRDWCWGU.jpg?auth=4ff6010acff40c8958989b5aaa0f2c411e5aa2dd35533ff86b66861481e53859&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2026-01-11T21:45:00Z"
-    },
-    {
-      "title": "GM unveils its new corporate Detroit headquarters. Take a look inside - The Detroit News",
-      "description": "The pared-down space at Hudson's Detroit puts executives near local decision-makers while embracing CEO Mary Barra's strategy to go where talent is.",
-      "url": "https://www.detroitnews.com/story/business/autos/general-motors/2026/01/11/gm-unveils-its-new-corporate-detroit-headquarters-take-a-look-inside/88105931007/",
-      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/01/07/PDTN/88054918007-0106-kk-hudsons-gm-01.jpg?crop=8216,4623,x0,y427&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "The Detroit News",
-      "publishedAt": "2026-01-11T20:25:00Z"
-    },
-    {
-      "title": "FDA Increases Flexibility on Requirements for Cell and Gene Therapies to Advance Innovation - fda.gov",
-      "description": "The U.S. Food and Drug Administration today announced it is sharing information about the agency’s flexible approach to overseeing chemistry, manufacturing and control (CMC) requirements for cell and gene therapies (CGT).",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-increases-flexibility-requirements-cell-and-gene-therapies-advance-innovation",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "source": "FDA.gov",
-      "publishedAt": "2026-01-11T20:00:00Z"
-    },
-    {
-      "title": "Bond Traders’ Big Bet for 2026 Vindicated by Soft US Job Growth - Yahoo Finance",
-      "description": "A much-anticipated employment report on Friday showed job growth was below forecasts last month, leaving intact expectations for additional Fed interest-rate...",
-      "url": "https://finance.yahoo.com/news/bond-traders-big-bet-2026-200000442.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p.qPITQlMwh1ZKLNbgfIFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/5e772bfaa696d7809db7ef43d5ac0aaa",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-11T20:00:00Z"
-    },
-    {
-      "title": "Former department store giant closes one of last mall stores near Bay Area - SFGATE",
-      "description": "Another wave of closures has hit Macy’s, with over a dozen locations set to shutter across the nation in the coming months, including one near the Bay Area.",
-      "url": "https://www.sfgate.com/local/article/macys-closures-mall-bay-area-california-21289146.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/56/67/28765645/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-01-11T19:50:36Z"
-    },
-    {
-      "title": "This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again - Yahoo Finance",
-      "description": "“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”",
-      "url": "https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html",
-      "urlToImage": "https://s.yimg.com/os/en/fortune_175/cd2444a452625ba3d3dae5dbedfc0e6f",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-11T18:50:33Z"
-    },
-    {
-      "title": "$400,000 payout after Maduro's capture putting prediction markets in spotlight - The Detroit News",
-      "description": "The payout fueled suspicions of insider trading because of the timing of the wagers and the trader’s narrow activity on the platform.",
-      "url": "https://www.detroitnews.com/story/business/2026/01/11/400000-payout-after-maduros-capture-putting-prediction-markets-in-spotlight/88131592007/",
-      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/01/11/PDTN/88131716007-ap-26009821308316-1.jpg?crop=3820,2150,x2,y294&width=3200&height=1802&format=pjpg&auto=webp",
-      "source": "The Detroit News",
-      "publishedAt": "2026-01-11T18:41:00Z"
-    },
-    {
-      "title": "Nvidia CEO sends strong message on Taiwan Semiconductor - Yahoo Finance",
-      "description": "Nvidia (NVDA) CEO Jensen Huang has just cut through the big debate over AI chipmaking, saying that the future of advanced chips runs through Taiwan. By...",
-      "url": "https://www.thestreet.com/technology/nvidia-ceo-sends-strong-message-on-taiwan-semiconductor",
-      "urlToImage": "https://s.yimg.com/os/en/thestreet_881/0ea2bbc9cd85e854ef588bfae5394380",
-      "source": "TheStreet",
-      "publishedAt": "2026-01-11T17:47:00Z"
-    },
-    {
-      "title": "The Latest Trend in Drinks Is Mash-Up Cocktails—and We're Obsessed - Better Homes & Gardens",
-      "description": "Learn more about the mash-up cocktail trend from a mixologist leading the charge. Plus, we spill the secret to concocting your signature party drink.",
-      "url": "https://www.bhg.com/mash-up-cocktail-drink-trend-11875306",
-      "urlToImage": "https://www.bhg.com/thmb/Mh0h2THbrtEvRisrCcUrwqcORpc=/4000x0/filters:no_upscale():strip_icc()/BHG-Champagne-Cocktails-8cW24lsqq2k8VJYdiTxJZu-826b135720334ae086c485ef90b35687.jpg",
-      "source": "Bhg.com",
-      "publishedAt": "2026-01-11T16:20:00Z"
-    },
-    {
-      "title": "National retail chain closes 400-plus stores, including some in Alabama - AL.com",
-      "description": "As of January 2026, stores have closed in 42 states.",
-      "url": "https://www.al.com/news/2026/01/national-retail-chain-closes-400-plus-stores-including-some-in-alabama.html",
-      "urlToImage": "https://www.al.com/resizer/v2/BLVHDLOC7JGS7JGC3XFUCTIYII.jpg?auth=9e869c5183f9e1df4832f6a363e4f92001306b329bcac6f792f42fc4f398eac2&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2026-01-11T15:28:00Z"
-    },
-    {
-      "title": "Why the JP Morgan conference is important — but not make-or-break - statnews.com",
-      "description": "The super-sized gathering of the biopharma universe known as JPM is important, but it’s not going to make or break the year for biotech, Adam Feuerstein writes.",
-      "url": "https://www.statnews.com/2026/01/11/jp-morgan-conference-2026-adam-feuerstein-advice-biotech/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2022/06/AdamsTake_Illustration_MollyFerguson_061322-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2026-01-11T15:03:32Z"
-    },
-    {
-      "title": "Walmart Expanding Drone Delivery to Hundreds More Stores - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/articles/walmart-expanding-drone-delivery-to-hundreds-more-stores-696165f7",
-      "urlToImage": null,
+      "title": "Stocks to Watch Monday Recap: Capital One, UnitedHealth, Walmart, Exxon - The Wall Street Journal",
+      "description": "↘️ American Express (AXP), Bank of America (BAC): Shares of the biggest U.S. banks and credit-card companies dropped after President Trump called for credit-card interest rates to be capped. Shares in Synchrony Financial (SYF) slid 8.4%.↘️ Capital One Financi…",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-12-2026/card/stocks-to-watch-monday-capital-one-amex-citi-walmart-cxNFLzth3IQXy8o4joFX",
+      "urlToImage": "https://images.wsj.net/im-76361120/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-11T15:00:00Z"
+      "publishedAt": "2026-01-12T21:19:00Z"
     },
     {
-      "title": "FDA upgrades nationwide cheese recall to highest danger level after listeria-causing bacteria found - 9News",
-      "description": "The reclassification is tied to the detection of Listeria monocytogenes, a bacteria that can cause severe illness.",
-      "url": "https://www.9news.com/article/news/nation-world/fda-upgrades-nationwide-cheese-recall-to-highest-danger-level/507-8e5e3317-7707-4fcf-88ed-7d6099e33c5a",
-      "urlToImage": "https://media.9news.com/assets/CCT/images/a0b77131-abc0-413b-ab57-d56024bbb40a/20251204T154925/a0b77131-abc0-413b-ab57-d56024bbb40a_1140x641.jpg",
-      "source": "9News.com KUSA",
-      "publishedAt": "2026-01-11T14:51:00Z"
+      "title": "Abivax CEO Says Big Pharma Can’t Ignore Its Experimental Drug - Bloomberg.com",
+      "description": "Abivax SA’s shares pared gains after France’s finance ministry said it has not been contacted by Eli Lilly & Co. about a possible bid for the French biotech.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-12/abivax-ceo-says-big-pharma-can-t-ignore-its-experimental-drug",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuUnL4HsdXdA/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-12T15:19:26Z"
+    },
+    {
+      "title": "Dina Powell McCormick Joins Meta as President and Vice Chairman - Meta Store",
+      "description": "Dina will be a member of Meta’s management team, helping guide the company’s overall strategy and execution.",
+      "url": "https://about.fb.com/news/2026/01/dina-powell-mccormick-joins-meta-as-president-and-vice-chairman/",
+      "urlToImage": "https://about.fb.com/wp-content/uploads/2026/01/Dina-Powell-McCormick_Header.jpg?w=1200",
+      "source": "Fb.com",
+      "publishedAt": "2026-01-12T13:45:07Z"
+    },
+    {
+      "title": "China’s ‘Are You Dead?’ app checks in on growing cohort of people living alone - Financial Times",
+      "description": "Popularity among Chinese Apple users highlights concerns created by rapidly changing demographics",
+      "url": "https://www.ft.com/content/e92d62d4-26db-40f9-8d4e-a2a84c2e51ec",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8f3d645c-73fc-4ef3-a0cf-8e5c71a26a46.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-01-12T13:06:07Z"
+    },
+    {
+      "title": "How US politics is affecting international travel - BBC",
+      "description": "As tourism to the US plunges because of perceived risks, some travellers are now second-guessing whether it's safe to visit destinations Trump has recently threatened.",
+      "url": "https://www.bbc.com/travel/article/20260109-how-us-politics-is-affecting-international-travel",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0mt5tht.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-12T13:00:00Z"
+    },
+    {
+      "title": "Ho hum holiday: Retail's early results show modest growth in critical shopping season - CNBC",
+      "description": "The 2025 holiday season was solid for some retailers as they posted modest growth, but results failed to blow away expectations.",
+      "url": "https://www.cnbc.com/2026/01/12/retails-early-holiday-2025-results-show-modest-growth.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243923-1766096541042-gettyimages-2252612355-6k4a4858_d6vkjznu.jpeg?v=1768220098&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-12T12:40:56Z"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Capital One, Affirm, Walmart, Akamai, Sun Country & more - CNBC",
+      "description": "These are the stocks posting the largest moves before the bell.",
+      "url": "https://www.cnbc.com/2026/01/12/stocks-making-the-biggest-moves-premarket-cof-afrm-akam-sncy-wmt.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108227671-17634925752025-11-18t184810z_420172654_rc25zhaw3gya_rtrmadp_0_usa-fdic-capital-one-fin.jpeg?v=1768219922&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-12T12:04:20Z"
+    },
+    {
+      "title": "Wegmans is scanning your face at some stores. It’s not the only company - CNN",
+      "description": "Wegmans, the supermarket chain known for its cult-like following, angered some loyalists after revealing it uses facial recognition technology at New York City stores.",
+      "url": "https://www.cnn.com/2026/01/12/business/wegmans-facial-recognition-technology",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1752477635.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-01-12T12:00:59Z"
+    },
+    {
+      "title": "China and the EU agree on steps to resolve their dispute over EV imports - ABC News",
+      "description": "China and the European Union say they have agreed on steps toward resolving their dispute over the bloc's imports of Chinese-made electric vehicles",
+      "url": "https://abcnews.go.com/Business/wireStory/china-deal-eu-steps-resolve-dispute-ev-imports-129123987",
+      "urlToImage": "https://i.abcnewsfe.com/a/eba016eb-e1bb-4cf6-b862-e66c455a064a/wirestory_c9fac664d657ae5735cb806eab8cac49_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2026-01-12T11:26:15Z"
+    },
+    {
+      "title": "Walmart expands drone deliveries across the U.S. - Mashable",
+      "description": "Flying deliveries are coming to major cities, including Los Angeles.",
+      "url": "https://mashable.com/article/walmart-drone-delivery-expansion",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02hSXP5VvQrajAUKtrmP8yW/hero-image.fill.size_1200x675.v1768160860.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-01-12T11:15:00Z"
+    },
+    {
+      "title": "Behind the Curtain: AI rush creates rarified class of \"Have-Lots\" - Axios",
+      "description": "The Have-Lots are becoming ever more invested in preserving Washington's status quo.",
+      "url": "https://www.axios.com/2026/01/12/ai-winners-wealth-inequality",
+      "urlToImage": "https://images.axios.com/6E9oPzvI8xLHszjHkLsjBc73HZM=/0x0:1920x1080/1366x768/2026/01/06/1767718841141.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-01-12T10:40:54Z"
+    },
+    {
+      "title": "Investor behind Moderna says U.S. policy is ‘taking a sledgehammer to our miracle machine’ - statnews.com",
+      "description": "Noubar Afeyan, one of biotech’s top investors, says U.S. policy is \"taking a sledgehammer to our miracle machine.\"",
+      "url": "https://www.statnews.com/2026/01/12/noubar-afeyan-letter-investors-jpm-2026/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/10/STATSummit_174-1-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2026-01-12T10:03:28Z"
+    },
+    {
+      "title": "Gold and silver spike to record highs after Powell says DOJ subpoenas are latest Trump attempt to influence monetary policy - Sherwood News",
+      "description": "“The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the president,” Powell said.",
+      "url": "https://sherwood.news/markets/gold-silver-spike-record-highs-powell-says-doj-subpoenas-trump-attempt-influence-policy/",
+      "urlToImage": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2160845694_united-states-federal-reserve-chairman-jerome-powell-testifies-during-the-house-financial.jpg?auto=compress%2Cformat&cs=srgb",
+      "source": "Sherwood.news",
+      "publishedAt": "2026-01-12T10:01:55Z"
+    },
+    {
+      "title": "RFK Jr.'s MAHA movement has picked up steam in statehouses. Here's what to expect in 2026. - CBS News",
+      "description": "\"Make America Healthy Again\" policies driven by HHS Secretary Robert F. Kennedy Jr. have made major strides in state legislatures, with food additives among the most common targets.",
+      "url": "https://www.cbsnews.com/news/rfk-jr-maha-health-states/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/09/5d171f8c-3033-4a04-8463-044d70a77faa/thumbnail/1200x630g2/357cf794433729dfa561ad7c25453d25/2026-01-08t180405z-1889166885-rc24xia3yfn1-rtrmadp-3-usa-health-diet.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-01-12T10:00:10Z"
+    },
+    {
+      "title": "Capital One drops 6%, other banks hit after Trump calls for credit card rate cap - CNBC",
+      "description": "Posting on Truth Social, Trump said he would \"no longer let the American Public be 'ripped off' by Credit Card Companies.\"",
+      "url": "https://www.cnbc.com/2026/01/12/trump-credit-card-limit-banks-jpmorgan-citi.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108251054-1768220028983-gettyimages-2233929081-McGregor250908NYCbusinesses03.jpeg?v=1768220098&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-12T09:52:24Z"
+    },
+    {
+      "title": "FDA-funded study of pulse oximeter accuracy yields surprising and confusing results - statnews.com",
+      "description": "A long-awaited study commissioned by the FDA has muddied the path forward on how to reduce racial bias in pulse oximeter readings",
+      "url": "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2022/10/Pulse_Oximeters_still-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2026-01-12T09:33:16Z"
+    },
+    {
+      "title": "UBS warns Swiss government to water down bank capital plans - Financial Times",
+      "description": "Lender argues that proposals to significantly increase requirements have already cost investors $40bn",
+      "url": "https://www.ft.com/content/31bbd8d0-d804-4489-89b3-01adae2dcc9b",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F459247c8-8db8-45c4-aff5-4cf9e4364bc4.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-01-12T09:00:08Z"
+    },
+    {
+      "title": "Nvidia and Palantir Stocks: Wall Street Says to Buy 1 and Avoid the Other for 2026 - The Motley Fool",
+      "description": "Nvidia and Palantir have delivered massive returns over the past few years for investors.",
+      "url": "https://www.fool.com/investing/2026/01/12/nvidia-and-palantir-stocks-wall-street-says-to-buy/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F850052%2Ftwo-people-analyizing-a-graph.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-01-12T06:30:00Z"
     }
   ]
 }
