@@ -1,127 +1,167 @@
 {
-  "updatedAt": "2026-01-15T06:49:31.894Z",
+  "updatedAt": "2026-01-16T06:49:03.776Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Saks Global files for bankruptcy amid luxury market strains - CNN",
-      "description": "Saks Global, the parent company of luxury retailer Saks Fifth Avenue, filed for bankruptcy protection late Tuesday, according to court documents filed in US Bankruptcy Court in Houston, Texas.",
-      "url": "https://www.cnn.com/2026/01/14/business/saks-global-files-for-bankruptcy-retail-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24344618673913.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-01-14T06:07:40Z"
+      "title": "POSTPONED: Executive Session - Senate Committee on Banking, Housing, and Urban Affairs (.gov)",
+      "description": "The Official website of The United States Committee on Banking, Housing, and Urban Affairs",
+      "url": "https://www.banking.senate.gov/hearings/01/09/2026/executive-session",
+      "urlToImage": "https://www.banking.senate.gov/themes/banking/images/sharelogo.jpg",
+      "source": "Senate.gov",
+      "publishedAt": "2026-01-15T04:29:36Z"
     },
     {
-      "title": "Inside the US justice department’s probe of Jay Powell - Financial Times",
-      "description": "Investigation into Federal Reserve chair’s testimony raises questions around the independence of the country’s judicial arm",
-      "url": "https://www.ft.com/content/1aedba17-00f5-4a5c-abba-ff22096b24c4",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdffa433e-f6d6-4bde-9853-9dd0865b4b4d.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-14T05:01:09Z"
-    },
-    {
-      "title": "US approves sale of Nvidia's advanced H200 chips to China - BBC",
-      "description": "Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.",
-      "url": "https://www.bbc.com/news/articles/cg4erx1n04lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a62/live/f45e8fa0-f0da-11f0-a29c-c32ead86fb16.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-14T00:48:55Z"
-    },
-    {
-      "title": "Stock futures are flat as traders look ahead to more bank earnings: Live updates - CNBC",
-      "description": "Bank earnings got off to a rocky start. Investors continued to digest several demands made by President Donald Trump.",
-      "url": "https://www.cnbc.com/2026/01/13/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248207-1767629784618-Traders-Photo-OB-MW-20260105-PRESS-6.jpg?v=1767629845&w=1920&h=1080",
+      "title": "Trip.com shares plunge more than 20% as China opens antitrust probe into company - CNBC",
+      "description": "In a statement, Trip.com said it would \"actively cooperate\" with the investigation, and added its business operations remain normal.",
+      "url": "https://www.cnbc.com/2026/01/15/tripcom-shares-plunge-as-china-opens-antitrust-probe-into-company.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107429306-1718380202294-gettyimages-1628189638-CHINA_TRIPCOM.jpeg?v=1718380224&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-01-14T00:45:00Z"
+      "publishedAt": "2026-01-15T02:33:00Z"
     },
     {
-      "title": "Honey, I shrunk the data centres: Is small the new big? - BBC",
-      "description": "Huge data centres are being built to handle AI computing but some experts say they aren't necessary.",
-      "url": "https://www.bbc.com/news/articles/cd0ynenr1eno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a7b2/live/346ac070-ec9c-11f0-be98-fd0ce9c3379d.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-14T00:07:50Z"
+      "title": "NCAA asks CFTC to suspend prediction markets - ESPN",
+      "description": "The NCAA asked a federal regulatory body to stop prediction markets from offering trades on college sports until more safeguards are in place.",
+      "url": "https://www.espn.com/college-sports/story/_/id/47614688/ncaa-asks-regulators-suspend-collegiate-prediction-markets",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0610%2Fr1344286_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-01-15T02:04:00Z"
     },
     {
-      "title": "Japanese stocks open at record highs as expectations of snap poll rise - CNBC",
-      "description": "This comes as Japan's ruling LDP under new Prime Minister Sanae Takaichi is expected to call an election in February.",
-      "url": "https://www.cnbc.com/2026/01/14/asia-pacific-nikkei-225-japan-takaichi-election-record.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107183366-1674602981932-gettyimages-1245502475-AFP_332M6MZ.jpeg?v=1674603514&w=1920&h=1080",
+      "title": "Toyota Industries shares hit record high after Toyota Motor raises buyout offer to over $35 billion - CNBC",
+      "description": "Toyota Motor sweetened the tender offer price for buying out the carmaker by more than 15% to over $35 billion.",
+      "url": "https://www.cnbc.com/2026/01/15/toyota-industries-shares-jump-after-toyota-motor-raises-buyout-offer-to-over-35-billion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108154248-1749001970324-gettyimages-2215462804-JAPAN_TOYOTA_INDUSTRIES.jpeg?v=1749002265&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-01-13T23:54:10Z"
+      "publishedAt": "2026-01-15T01:21:00Z"
     },
     {
-      "title": "Netflix preparing all-cash offer for Warner Bros to fend off Paramount - Financial Times",
-      "description": "Streaming service could convert terms for celebrated studio as Ellison-led rival appeals directly to shareholders",
-      "url": "https://www.ft.com/content/86b66ead-3020-4757-9106-55d216c5a455",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71bcde15-7091-4ad3-a139-62fc6867c554.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-13T22:40:16Z"
+      "title": "Chicago business news: Harold's Chicken Shack CEO Kristen Pierce-Sherrod, founder's daughter, dies at 55, family says - ABC7 Chicago",
+      "description": "Harold's Chicken CEO Kristen Pierce-Sherrod, the daughter of the iconic Chicago restaurant chain's founder, has died at age 55.",
+      "url": "https://abc7chicago.com/post/chicago-business-news-harolds-chicken-shack-ceo-kristen-pierce-sherrod-founders-daughter-dies-55-family-says/18404289/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18404563_011426-wls-harolds-ceo-dies-630p-vo-vid.jpg?w=1600",
+      "source": "WLS-TV",
+      "publishedAt": "2026-01-15T01:07:30Z"
     },
     {
-      "title": "This stylish fondue spot and its sister martini bar will close after 20 years in Portland - OregonLive.com",
-      "description": "The final night for both will be Feb. 22.",
-      "url": "https://www.oregonlive.com/dining/2026/01/this-stylish-portland-martini-bar-and-its-fondue-slinging-sister-are-closing-after-two-decades-in-northwest-portland.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/FCG6JXCF7FDOBHH7TCKN4U33BQ.jpg?auth=1850ceb8271fe31b84f60ad00846e06e8cc61e0b1c996bceb20ca184239c568a&width=1280&smart=true&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2026-01-13T22:26:00Z"
-    },
-    {
-      "title": "FTC accuses AI search engine of 'rampant consumer deception' - NPR",
-      "description": "Federal officials say a company that operates hundreds of landing pages for AI answers is running an operation that has duped thousands of users, who were unable to stop costly monthly charges.",
-      "url": "https://www.npr.org/2026/01/13/nx-s1-5676150/ftc-lawsuit-just-answers-consumer-deception",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/764x430+71+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F4f%2Fdbf310ce491582be12351ce0d3b2%2Fjustanswerpic.png",
-      "source": "NPR",
-      "publishedAt": "2026-01-13T21:34:33Z"
-    },
-    {
-      "title": "NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA (.gov)",
-      "description": "NASA, along with the U.S. Department of Energy (DOE), announced Tuesday a renewed commitment to their longstanding partnership to support the research and",
-      "url": "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
-      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/01/fspadministrator.jpg",
-      "source": "NASA",
-      "publishedAt": "2026-01-13T21:01:41Z"
-    },
-    {
-      "title": "Amazon pushes suppliers for cuts ahead of Supreme Court tariff ruling - Financial Times",
-      "description": "Tech giant moves to reverse concessions made to limit the shock of US President Donald Trump’s trade levies",
-      "url": "https://www.ft.com/content/6f7ad580-a237-4cb7-86bc-f68e4e44f511",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5d8bdc6-7b18-41fb-956f-48ddb0b18706.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-13T20:45:09Z"
-    },
-    {
-      "title": "Grocery prices see biggest spike since 2022 in December - Axios",
-      "description": "The jump in costs highlights the challenge for the White House in the lead-up to midterm elections.",
-      "url": "https://www.axios.com/2026/01/13/inflation-cpi-grocery-prices",
-      "urlToImage": "https://images.axios.com/3wTSKuiUYWDQ2yK-dYA1L7IzXmg=/0x0:1600x900/1366x768/2026/01/13/1768321736584.png",
-      "source": "Axios",
-      "publishedAt": "2026-01-13T20:26:39Z"
-    },
-    {
-      "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court - CNBC",
-      "description": "Supreme Court arguments on Jan. 21 will likely be the next big development for the central bank's quest to maintain independence.",
-      "url": "https://www.cnbc.com/2026/01/13/a-major-development-in-trumps-fed-feud-is-set-to-happen-next-week-in-the-supreme-court.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108251914-1768331633289-108251914-17683314512026-01-13t191009z_242982489_rc2j0jaudp2v_rtrmadp_0_usa-trump.jpg?v=1768336277&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-13T20:05:49Z"
-    },
-    {
-      "title": "Meta begins job cuts as it shifts from Metaverse to AI devices - Yahoo Finance",
-      "description": "Affected employees will be notified of the layoffs starting Tuesday morning, according to an internal post from Chief Technology Officer Andrew Bosworth that...",
-      "url": "https://finance.yahoo.com/news/meta-begins-job-cuts-shifts-184158933.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IoLewYOVHtN5vkGzNNZe_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_holding_pen_162/fccf2a83336d911b7ecd12ec41a10535",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after Wall Street's first back-to-back losses in 2026 - Yahoo Finance",
+      "description": "Stock futures fell following consecutive days of losses. Investors have been buffeted by industry losses and geopolitical issues.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-wall-streets-first-back-to-back-losses-in-2026-235521867.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A4FJT1dzd6hzxGd9qJChWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/2cf3a160-f1a4-11f0-bc77-f90cd8e4e1f4",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-13T19:44:30Z"
+      "publishedAt": "2026-01-14T23:55:21Z"
     },
     {
-      "title": "Pentagon to invest $1B in L3Harris spinoff rocket motor firm - Defense News",
-      "description": "The Pentagon said its investment will help expand production capacity on critical missile programs like the PAC-3, THAAD, Tomahawk and Standard Missile.",
-      "url": "https://www.defensenews.com/pentagon/2026/01/13/pentagon-to-invest-1b-in-l3harris-spinoff-rocket-motor-firm/",
-      "urlToImage": "https://www.armytimes.com/resizer/v2/BK7DKJZF6NAGFLBIWI4KDFKR3Q.jpg?width=1200&auth=d3a68a6c05cb862498fd45872342cf96355cb831c77388b137244cfbc644a8c6",
-      "source": "DefenseNews.com",
-      "publishedAt": "2026-01-13T19:12:56Z"
+      "title": "A part that broke on a UPS plane that crashed in Kentucky failed 4 times on other planes years ago - AP News",
+      "description": "The National Transportation Safety Board says Boeing warned plane owners in 2011 about a flaw in the part that failed and contributed to the engine flying off a UPS plane before it crashed and killed 15 in November but at that point the plane manufacturer did…",
+      "url": "https://apnews.com/article/ups-louisville-plane-crash-ntsb-md11-6d4cfff0c3937f847a3ac39809e31c11",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cede120/2147483647/strip/true/crop/8256x4644+0+430/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2F03%2F93689e0c8d7bf25c6a652df428e0%2F604f3b3ec8794b758393ca14a10c8e94",
+      "source": "Associated Press",
+      "publishedAt": "2026-01-14T22:46:00Z"
+    },
+    {
+      "title": "AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them. - The Wall Street Journal",
+      "description": "At Crane Stationery, the craft of high-precision engraving is in danger of becoming lost art",
+      "url": "https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9",
+      "urlToImage": "https://images.wsj.net/im-23732473/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-01-14T22:39:21Z"
+    },
+    {
+      "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Finance Minister Satsuki Katayama of Japan - U.S. Department of the Treasury (.gov)",
+      "description": "WASHINGTON – On Monday, January 12, Secretary of the Treasury Scott Bessent met with Finance Minister Satsuki Katayama of Japan. The Secretary thanked the Minister for attending the United States’ critical minerals summit and emphasized the importance of crit…",
+      "url": "https://home.treasury.gov/news/press-releases/sb0363",
+      "urlToImage": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+      "source": "Treasury.gov",
+      "publishedAt": "2026-01-14T22:38:51Z"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America’s Economic and National Security - The White House (.gov)",
+      "description": "SUPPORTING AMERICA’S SEMICONDUCTOR INDUSTRY: Today, President Donald J. Trump signed a Proclamation invoking Section 232 of the Trade Expansion Act of",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+      "source": "Whitehouse.gov",
+      "publishedAt": "2026-01-14T21:23:31Z"
+    },
+    {
+      "title": "Saks Global declares bankruptcy. What does it mean for shoppers? - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/Business/saks-global-declares-bankruptcy-shoppers/story?id\\\\u003d129198953",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2026-01-14T20:54:10Z"
+    },
+    {
+      "title": "Oil prices fall after Trump signals he could hold off on attacking Iran - CNBC",
+      "description": "Trump told reporters in the Oval Office that \"we've been told that the killing in Iran is stopping. It's stopped. It's stopping, and there's no plan for executions.\"",
+      "url": "https://www.cnbc.com/2026/01/14/oil-falls-nearly-2percent-after-trump-signals-he-could-hold-off-on-attacking-iran.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108252650-1768426105558-gettyimages-2255691597-TRUMP_WHOLE_MILK.jpeg?v=1768426145&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-14T20:50:40Z"
+    },
+    {
+      "title": "Chocolate bars voluntarily recalled for possible salmonella contamination - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/GMA/Food/chocolate-bars-voluntarily-recalled-salmonella-contamination/story?id\\\\u003d129203663",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2026-01-14T20:43:27Z"
+    },
+    {
+      "title": "FDA upgrades voluntary cheese recall to highest risk level: What to know about the products - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/GMA/Food/fda-upgrades-voluntary-cheese-recall-highest-risk-level/story?id\\\\u003d129197174",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2026-01-14T20:03:45Z"
+    },
+    {
+      "title": "Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/openai-forges-multibillion-dollar-computing-partnership-with-cerebras-746a20e4",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-01-14T19:59:00Z"
+    },
+    {
+      "title": "Committing $9B Annual Payout; Strengthening Stewardship of Funds - Gates Foundation",
+      "description": "Foundation is planning operating expenditures at approximately 14% annually to ensure more funds are directed to the programs and people we serve",
+      "url": "https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/01/historic-annual-budget-to-accelerate-mission",
+      "urlToImage": "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/press-releases/press-image-for-web2x.png?rev=89f79f06a1754eea8ace772dfe79244e",
+      "source": "Gatesfoundation.org",
+      "publishedAt": "2026-01-14T18:30:51Z"
+    },
+    {
+      "title": "Meta Lays Off 1,500 People in Metaverse Division - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/tech/meta-layoffs-reality-labs-2026-347008b0",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-01-14T18:20:00Z"
+    },
+    {
+      "title": "Banks Say U.S. Consumers Remain Resilient Despite Economic Pressures - The Wall Street Journal",
+      "description": "Executives warn Trump’s effort to address affordability with 10% cap on credit-card interest rates would hurt economy",
+      "url": "https://www.wsj.com/finance/banking/bank-of-america-bac-q4-earnings-report-2025-224e93fa",
+      "urlToImage": "https://images.wsj.net/im-70083763/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-01-14T18:08:00Z"
+    },
+    {
+      "title": "Trump's new push for lower rates - Axios",
+      "description": "The Fed isn't moving fast enough on interest rates for the president.",
+      "url": "https://www.axios.com/2026/01/14/trump-mortgages-credit-cards-rates",
+      "urlToImage": "https://images.axios.com/FzYtiS7pzYI181lPxWwSffDpM44=/0x0:1920x1080/1366x768/2025/08/14/1755183565453.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-01-14T17:20:24Z"
+    },
+    {
+      "title": "Healthy Returns: Novo Nordisk CEO on GLP-1 pricing, and more insights from the JPM conference - CNBC",
+      "description": "Novo Nordisk's CEO spoke about GLP-1 pricing and Pfizer's CEO spoke about the company's obesity ambitions while at the JPMorgan Healthcare Conference.",
+      "url": "https://www.cnbc.com/2026/01/14/healthy-returns-novo-nordisk-ceo-glp-1-pill-jpmorgan-conference.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222573-17624550972025-11-06t184628z_1673660215_rc25rhas1dn5_rtrmadp_0_usa-trump.jpeg?v=1768413356&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-14T17:08:51Z"
     }
   ]
 }
