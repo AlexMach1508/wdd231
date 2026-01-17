@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-01-16T06:49:03.776Z",
+  "updatedAt": "2026-01-17T06:44:25.771Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "POSTPONED: Executive Session - Senate Committee on Banking, Housing, and Urban Affairs (.gov)",
-      "description": "The Official website of The United States Committee on Banking, Housing, and Urban Affairs",
-      "url": "https://www.banking.senate.gov/hearings/01/09/2026/executive-session",
-      "urlToImage": "https://www.banking.senate.gov/themes/banking/images/sharelogo.jpg",
-      "source": "Senate.gov",
-      "publishedAt": "2026-01-15T04:29:36Z"
-    },
-    {
-      "title": "Trip.com shares plunge more than 20% as China opens antitrust probe into company - CNBC",
-      "description": "In a statement, Trip.com said it would \"actively cooperate\" with the investigation, and added its business operations remain normal.",
-      "url": "https://www.cnbc.com/2026/01/15/tripcom-shares-plunge-as-china-opens-antitrust-probe-into-company.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107429306-1718380202294-gettyimages-1628189638-CHINA_TRIPCOM.jpeg?v=1718380224&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-15T02:33:00Z"
-    },
-    {
-      "title": "NCAA asks CFTC to suspend prediction markets - ESPN",
-      "description": "The NCAA asked a federal regulatory body to stop prediction markets from offering trades on college sports until more safeguards are in place.",
-      "url": "https://www.espn.com/college-sports/story/_/id/47614688/ncaa-asks-regulators-suspend-collegiate-prediction-markets",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0610%2Fr1344286_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-01-15T02:04:00Z"
-    },
-    {
-      "title": "Toyota Industries shares hit record high after Toyota Motor raises buyout offer to over $35 billion - CNBC",
-      "description": "Toyota Motor sweetened the tender offer price for buying out the carmaker by more than 15% to over $35 billion.",
-      "url": "https://www.cnbc.com/2026/01/15/toyota-industries-shares-jump-after-toyota-motor-raises-buyout-offer-to-over-35-billion.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108154248-1749001970324-gettyimages-2215462804-JAPAN_TOYOTA_INDUSTRIES.jpeg?v=1749002265&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-15T01:21:00Z"
-    },
-    {
-      "title": "Chicago business news: Harold's Chicken Shack CEO Kristen Pierce-Sherrod, founder's daughter, dies at 55, family says - ABC7 Chicago",
-      "description": "Harold's Chicken CEO Kristen Pierce-Sherrod, the daughter of the iconic Chicago restaurant chain's founder, has died at age 55.",
-      "url": "https://abc7chicago.com/post/chicago-business-news-harolds-chicken-shack-ceo-kristen-pierce-sherrod-founders-daughter-dies-55-family-says/18404289/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18404563_011426-wls-harolds-ceo-dies-630p-vo-vid.jpg?w=1600",
-      "source": "WLS-TV",
-      "publishedAt": "2026-01-15T01:07:30Z"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after Wall Street's first back-to-back losses in 2026 - Yahoo Finance",
-      "description": "Stock futures fell following consecutive days of losses. Investors have been buffeted by industry losses and geopolitical issues.",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-wall-streets-first-back-to-back-losses-in-2026-235521867.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A4FJT1dzd6hzxGd9qJChWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/2cf3a160-f1a4-11f0-bc77-f90cd8e4e1f4",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-14T23:55:21Z"
-    },
-    {
-      "title": "A part that broke on a UPS plane that crashed in Kentucky failed 4 times on other planes years ago - AP News",
-      "description": "The National Transportation Safety Board says Boeing warned plane owners in 2011 about a flaw in the part that failed and contributed to the engine flying off a UPS plane before it crashed and killed 15 in November but at that point the plane manufacturer did…",
-      "url": "https://apnews.com/article/ups-louisville-plane-crash-ntsb-md11-6d4cfff0c3937f847a3ac39809e31c11",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cede120/2147483647/strip/true/crop/8256x4644+0+430/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2F03%2F93689e0c8d7bf25c6a652df428e0%2F604f3b3ec8794b758393ca14a10c8e94",
+      "title": "Average US long-term mortgage rate hits the lowest point in more than 3 years - AP News",
+      "description": "The average long-term U.S. mortgage rate is now down to its lowest level in more than three years. Mortgage buyer Freddie Mac said Thursday that the benchmark 30-year fixed rate mortgage rate eased to 6.06% this week, down from 6.16% last week. One year ago, …",
+      "url": "https://apnews.com/article/mortgage-rates-housing-interest-financing-home-69c3a931e01b30c60477563b9f1e4d11",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e1b6a62/2147483647/strip/true/crop/3771x2121+0+196/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2Fa3%2F36fa78a8a700838013a53663e963%2F489531967057463292f0cae298b31b6d",
       "source": "Associated Press",
-      "publishedAt": "2026-01-14T22:46:00Z"
+      "publishedAt": "2026-01-16T01:28:00Z"
     },
     {
-      "title": "AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them. - The Wall Street Journal",
-      "description": "At Crane Stationery, the craft of high-precision engraving is in danger of becoming lost art",
-      "url": "https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9",
-      "urlToImage": "https://images.wsj.net/im-23732473/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-14T22:39:21Z"
+      "title": "China’s $1.2 Trillion Windfall Quietly Seeps Into Global Markets - Bloomberg.com",
+      "description": "A record trade surplus racked up by China is washing up around the world, as export earnings that once ended up in state coffers instead fund massive private purchases of overseas securities and business expansion abroad.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-16/china-s-1-2-trillion-windfall-quietly-seeps-into-global-markets",
+      "urlToImage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-markets.e062a0c0.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-16T01:26:21Z"
     },
     {
-      "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Finance Minister Satsuki Katayama of Japan - U.S. Department of the Treasury (.gov)",
-      "description": "WASHINGTON – On Monday, January 12, Secretary of the Treasury Scott Bessent met with Finance Minister Satsuki Katayama of Japan. The Secretary thanked the Minister for attending the United States’ critical minerals summit and emphasized the importance of crit…",
-      "url": "https://home.treasury.gov/news/press-releases/sb0363",
-      "urlToImage": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-      "source": "Treasury.gov",
-      "publishedAt": "2026-01-14T22:38:51Z"
+      "title": "Rare earths magnets: How realistic are India's its ambitions? - BBC",
+      "description": "India has a $800m plan to make rare earth magnets, aiming to reduce dependence on Chinese imports - but can it work?",
+      "url": "https://www.bbc.com/news/articles/c9qe1d8p5xgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5443/live/e6a3d960-d654-11f0-8055-9b4fb3b1f2b6.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-16T01:08:55Z"
     },
     {
-      "title": "Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America’s Economic and National Security - The White House (.gov)",
-      "description": "SUPPORTING AMERICA’S SEMICONDUCTOR INDUSTRY: Today, President Donald J. Trump signed a Proclamation invoking Section 232 of the Trade Expansion Act of",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2026-01-14T21:23:31Z"
+      "title": "Silver’s Rally Slams Solar Makers Struggling With Losses - Bloomberg.com",
+      "description": "Soaring prices for silver are putting an extra squeeze on solar panel makers as they look to end more than two years of losses amid brutal competition in the sector.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-16/silver-s-rally-slams-solar-makers-already-struggling-with-losses",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isvtjmdHiZgw/v0/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-16T00:57:00Z"
     },
     {
-      "title": "Saks Global declares bankruptcy. What does it mean for shoppers? - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Business/saks-global-declares-bankruptcy-shoppers/story?id\\\\u003d129198953",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2026-01-14T20:54:10Z"
-    },
-    {
-      "title": "Oil prices fall after Trump signals he could hold off on attacking Iran - CNBC",
-      "description": "Trump told reporters in the Oval Office that \"we've been told that the killing in Iran is stopping. It's stopped. It's stopping, and there's no plan for executions.\"",
-      "url": "https://www.cnbc.com/2026/01/14/oil-falls-nearly-2percent-after-trump-signals-he-could-hold-off-on-attacking-iran.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108252650-1768426105558-gettyimages-2255691597-TRUMP_WHOLE_MILK.jpeg?v=1768426145&w=1920&h=1080",
+      "title": "Stock futures are little changed after rally in banks and tech lifts major averages: Live updates - CNBC",
+      "description": "Semiconductor and bank stocks helped lift the broad market higher on Thursday.",
+      "url": "https://www.cnbc.com/2026/01/15/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108253085-17684968522026-01-15t170627z_837153888_rc2q1ja1w98s_rtrmadp_0_usa-stocks.jpeg?v=1768496973&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-01-14T20:50:40Z"
+      "publishedAt": "2026-01-16T00:38:00Z"
     },
     {
-      "title": "Chocolate bars voluntarily recalled for possible salmonella contamination - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/GMA/Food/chocolate-bars-voluntarily-recalled-salmonella-contamination/story?id\\\\u003d129203663",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2026-01-14T20:43:27Z"
+      "title": "Senators vow to revive crypto bill - Politico",
+      "description": "Lawmakers need to go back to the drawing board on a key sticking point to find a compromise that both banks and crypto firms can live with.",
+      "url": "https://www.politico.com/live-updates/2026/01/15/congress/senators-vow-to-revive-crypto-bill-00732862",
+      "urlToImage": "https://www.politico.com/dims4/default/4ef0798/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F23%2Faa%2F45884b5c4cb39353a819826e90d5%2Fsenate-policy-luncheons-25042.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-01-16T00:25:00Z"
     },
     {
-      "title": "FDA upgrades voluntary cheese recall to highest risk level: What to know about the products - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/GMA/Food/fda-upgrades-voluntary-cheese-recall-highest-risk-level/story?id\\\\u003d129197174",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2026-01-14T20:03:45Z"
+      "title": "Trump to Direct Key US Grid Operator to Hold Emergency Auction - Bloomberg.com",
+      "description": "President Donald Trump and the governors of several US Northeastern states agreed to push for an emergency wholesale electricity auction that would compel technology companies to effectively fund new power plants.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-15/trump-to-direct-key-us-grid-operator-to-hold-emergency-auction",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irwttyF9qDTk/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-16T00:10:00Z"
     },
     {
-      "title": "Exclusive | OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/openai-forges-multibillion-dollar-computing-partnership-with-cerebras-746a20e4",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-14T19:59:00Z"
-    },
-    {
-      "title": "Committing $9B Annual Payout; Strengthening Stewardship of Funds - Gates Foundation",
-      "description": "Foundation is planning operating expenditures at approximately 14% annually to ensure more funds are directed to the programs and people we serve",
-      "url": "https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/01/historic-annual-budget-to-accelerate-mission",
-      "urlToImage": "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/press-releases/press-image-for-web2x.png?rev=89f79f06a1754eea8ace772dfe79244e",
-      "source": "Gatesfoundation.org",
-      "publishedAt": "2026-01-14T18:30:51Z"
-    },
-    {
-      "title": "Meta Lays Off 1,500 People in Metaverse Division - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/tech/meta-layoffs-reality-labs-2026-347008b0",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-14T18:20:00Z"
-    },
-    {
-      "title": "Banks Say U.S. Consumers Remain Resilient Despite Economic Pressures - The Wall Street Journal",
-      "description": "Executives warn Trump’s effort to address affordability with 10% cap on credit-card interest rates would hurt economy",
-      "url": "https://www.wsj.com/finance/banking/bank-of-america-bac-q4-earnings-report-2025-224e93fa",
-      "urlToImage": "https://images.wsj.net/im-70083763/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-14T18:08:00Z"
-    },
-    {
-      "title": "Trump's new push for lower rates - Axios",
-      "description": "The Fed isn't moving fast enough on interest rates for the president.",
-      "url": "https://www.axios.com/2026/01/14/trump-mortgages-credit-cards-rates",
-      "urlToImage": "https://images.axios.com/FzYtiS7pzYI181lPxWwSffDpM44=/0x0:1920x1080/1366x768/2025/08/14/1755183565453.jpeg",
+      "title": "Spotify raises prices as streaming costs pile up on Americans - Axios",
+      "description": "The music streaming service is raising the price of a premium subscription to $13 a month from $12 in the U.S.",
+      "url": "https://www.axios.com/2026/01/15/spotify-price-increase-youtube-netflix",
+      "urlToImage": "https://images.axios.com/vZyT5T3azp8Y99sJHWLtAek_t4k=/0x0:6048x3402/1366x768/2026/01/15/1768499833924.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-01-14T17:20:24Z"
+      "publishedAt": "2026-01-15T23:49:29Z"
     },
     {
-      "title": "Healthy Returns: Novo Nordisk CEO on GLP-1 pricing, and more insights from the JPM conference - CNBC",
-      "description": "Novo Nordisk's CEO spoke about GLP-1 pricing and Pfizer's CEO spoke about the company's obesity ambitions while at the JPMorgan Healthcare Conference.",
-      "url": "https://www.cnbc.com/2026/01/14/healthy-returns-novo-nordisk-ceo-glp-1-pill-jpmorgan-conference.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222573-17624550972025-11-06t184628z_1673660215_rc25rhas1dn5_rtrmadp_0_usa-trump.jpeg?v=1768413356&w=1920&h=1080",
+      "title": "David Ellison Meets With UK Culture Secretary, Creatives As Paramount Takes WBD Lobbying Effort Across The Pond - Deadline",
+      "description": "Paramount CEO David Ellison this week met with UK Secretary of Culture Lisa Nandy as well as prominent European creatives.",
+      "url": "http://deadline.com/2026/01/david-ellison-uk-culture-secretary-paramount-warner-bros-1236684574/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/David-Ellison.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-01-15T23:37:00Z"
+    },
+    {
+      "title": "Judge hands offshore wind industry another victory against Trump in clearing way for NY project - ABC News",
+      "description": "A federal judge has cleared the way for a New York offshore wind project to resume construction",
+      "url": "https://abcnews.go.com/US/wireStory/judge-hands-offshore-wind-industry-victory-trump-clearing-129246885",
+      "urlToImage": "https://i.abcnewsfe.com/a/a7a2d203-0020-4efc-b7cb-c15a8d145c6a/wirestory_8858476578ffec6ea9ada70704ef7299_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2026-01-15T22:37:32Z"
+    },
+    {
+      "title": "Verizon outage today: Affected customers can claim $20 account credit. Here's how. - Mashable",
+      "description": "Log into the myVerizon app to claim.",
+      "url": "https://mashable.com/article/verizon-outage-today-phone-fix-account-credit-claim-app",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06yRAwfVH9GG13xdk2GJtT1/hero-image.fill.size_1200x675.v1768491107.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-01-15T22:18:45Z"
+    },
+    {
+      "title": "Trump Backs Credit Card Swipe Fee Crackdown—Why Rewards Get Cut and Fees Go Up - View from the Wing",
+      "description": "Trump has now endorsed the Durbin-Marshall swipe fee bill, pitching it as “competition” and consumer relief. In reality it shifts value from cardholders to retailers—cutting rewards, pushing issuers toward higher fees elsewhere, and shrinking credit availabil…",
+      "url": "https://viewfromthewing.com/trump-backs-credit-card-swipe-fee-crackdown-why-rewards-get-cut-and-fees-go-up/",
+      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-14-2026-09_43_11-AM.jpg",
+      "source": "Viewfromthewing.com",
+      "publishedAt": "2026-01-15T22:04:33Z"
+    },
+    {
+      "title": "College students and teens could be fueling the prediction markets boom - CNBC",
+      "description": "Where sports betting is legal, it's often limited to those 21 years or older. Kalshi and Polymarket are open to anyone 18 or older, with some exceptions.",
+      "url": "https://www.cnbc.com/2026/01/15/prediction-markets-college-students-teens-could-be-fueling-the-boom.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108252962-1768489262838-gettyimages-2217366095-dee09407.jpeg?v=1768489282&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-01-14T17:08:51Z"
+      "publishedAt": "2026-01-15T18:57:42Z"
+    },
+    {
+      "title": "Behind Trump vs. Powell Is a Battle Over US Empire’s Future - Jacobin",
+      "description": "After the 2008 crisis, the US set up a vast financial network offering liquidity to its allies. The ongoing clash between Jerome Powell and Donald Trump is partly about the future of this system and which vision of American empire it will promote.",
+      "url": "https://jacobin.com/2026/01/trump-powell-fed-europe-dollars",
+      "urlToImage": "https://images.jacobinmag.com/wp-content/uploads/2026/01/15124550/GettyImages-2251232939.jpg",
+      "source": "Jacobin.com",
+      "publishedAt": "2026-01-15T17:55:53Z"
+    },
+    {
+      "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China - TechCrunch",
+      "description": "The Trump administration formalized its 25% cut of H200 chip sales in China with a tariff that applies to certain semiconductors.",
+      "url": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-01-15T16:56:20Z"
+    },
+    {
+      "title": "Lawsuit alleges Lilly, Novo locked up telehealth to kill compounded GLP-1s - Sherwood News",
+      "description": "Novo Nordisk CEO Mike Doustdar estimated that around 1.5 million US patients are using compounded versions of the company’s drugs.",
+      "url": "https://sherwood.news/business/lawsuit-alleges-lilly-novo-locked-up-telehealth-to-kill-compounded-glp-1s/",
+      "urlToImage": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2204555689_photo-illustration-of-ozempic-and-wegovy-with-weight-scale-both-are-injectable-prescription.jpg?auto=compress%2Cformat&cs=srgb",
+      "source": "Sherwood.news",
+      "publishedAt": "2026-01-15T16:33:48Z"
+    },
+    {
+      "title": "Boston Scientific to acquire Penumbra for $14.5B - MedTech Dive",
+      "description": "With the planned purchase, Boston Scientific will gain several thrombectomy devices to remove clots from blood vessels.",
+      "url": "https://www.medtechdive.com/news/boston-scientific-acquire-penumbra/809734/",
+      "urlToImage": "https://imgproxy.divecdn.com/N_cLe-haE96UNciFI2DMVcdB5JKJsFiYb5Cckvh9k8Y/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CU1hfQ0VPLmpwZw==.webp",
+      "source": "Medtechdive.com",
+      "publishedAt": "2026-01-15T15:32:25Z"
+    },
+    {
+      "title": "Los Angeles Billionaire Moves To Nevada After California Threatens To Tax Wealth - Forbes",
+      "description": "Exclusive: The buyer behind a record $21 million Las Vegas-area penthouse is a lifelong California resident who says the state’s taxes have pushed him out: “I just felt a little bit like I wasn’t wanted.”",
+      "url": "https://www.forbes.com/sites/chasewithorn/2026/01/15/los-angeles-billionaire-moves-to-nevada-after-california-threatens-to-tax-wealth/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/696864149703de34362bb40d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-01-15T15:15:01Z"
+    },
+    {
+      "title": "TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom - Yahoo Finance",
+      "description": "It also foresees revenue growth of close to 30% in 2026, faster than the average analyst estimate.  TSMC’s ADRs climbed as much as 5.6% in US trading, while ...",
+      "url": "https://finance.yahoo.com/news/tsmc-strong-outlook-shores-hopes-072434087.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TrLaOXRa.glYZLfpp_SpNg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/f79339c9ab6ab9d9549b395b779c9beb",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-01-15T14:51:16Z"
     }
   ]
 }
