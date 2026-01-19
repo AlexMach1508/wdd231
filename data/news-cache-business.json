@@ -1,159 +1,119 @@
 {
-  "updatedAt": "2026-01-18T06:45:40.302Z",
+  "updatedAt": "2026-01-19T06:54:40.702Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Nvidia suppliers halt H200 output after China blocks chip shipments - Financial Times",
-      "description": "Parts makers concerned about whether Beijing will allow imports of AI processors",
-      "url": "https://www.ft.com/content/02a3eb7c-684f-4e39-87b8-36e9595ef800",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6605328-6972-4d94-b420-b1901ac52772.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-17T01:30:30Z"
+      "title": "These prophets of economic doom are worried about another collapse - The Washington Post",
+      "description": "The current investment boom is triggering déjà vu for some economists and traders who successfully predicted past economic crashes.",
+      "url": "https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GZE73QGJCZCNHKHHX6T53HC6VE.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-01-17T17:31:25Z"
     },
     {
-      "title": "Thinking Machines Cofounder’s Office Relationship Preceded His Termination - WIRED",
-      "description": "Leaders at Mira Murati’s startup believe Barret Zoph engaged in an incident of “serious misconduct.” The details are now coming to light.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
-      "urlToImage": "https://media.wired.com/photos/696a8f537c423f5d10d2153d/191:100/w_1280,c_limit/Serious-Ethical-Misconduct-at-Thinking-Machines-Business-1320133023.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-01-17T00:40:00Z"
+      "title": "Trump administration’s legal setbacks are good news for offshore wind — and the grid - TechCrunch",
+      "description": "Three offshore wind projects under construction on the U.S. East Coast are back to building after judges rebuked the Department of the Interior's actions.",
+      "url": "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1067",
+      "source": "TechCrunch",
+      "publishedAt": "2026-01-17T17:30:00Z"
     },
     {
-      "title": "Trump's proposed credit card cap spotlights Americans' debt. Would it help? - BBC",
-      "description": "President Trump's proposal to cap credit card interest rates at 10% - an idea with bipartisan support - received swift backlash from bank executives.",
-      "url": "https://www.bbc.com/news/articles/cp37eerlql1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2d32/live/07cd5c90-f2ef-11f0-9a08-61d9f795eeed.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-17T00:39:26Z"
-    },
-    {
-      "title": "Last-minute lawsuit aims to block Micron chip fabs on environmental grounds - Syracuse.com",
-      "description": "Complaint filed in Albany says NY and Onondaga County short-circuited the environmental review,",
-      "url": "https://www.syracuse.com/micron/2026/01/last-minute-lawsuit-aims-to-block-micron-chip-fabs-on-environmental-grounds.html",
-      "urlToImage": "https://www.syracuse.com/resizer/v2/HTPHDI3GFNE43EWYA5FRFWNJF4.JPEG?auth=00307d5bd8e16280e7053a5e5efc4b547a331c88dcf0c8a112de858155309a84&width=1280&smart=true&quality=90",
-      "source": "syracuse.com",
-      "publishedAt": "2026-01-16T22:47:00Z"
-    },
-    {
-      "title": "PJM Board Outlines Plans To Integrate Large Loads Reliably - PJM Inside Lines",
-      "description": null,
-      "url": "https://insidelines.pjm.com/pjm-board-outlines-plans-to-integrate-large-loads-reliably/",
-      "urlToImage": null,
-      "source": "Pjm.com",
-      "publishedAt": "2026-01-16T21:55:12Z"
-    },
-    {
-      "title": "OpenAI to test ads in ChatGPT as it burns through billions - Ars Technica",
-      "description": "Ads coming to free tier and new $8/month ChatGPT Go plan in US.",
-      "url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/openai_glowing_green-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-01-16T21:20:03Z"
-    },
-    {
-      "title": "Novo's Wegovy Pill Looks A Lot Like Zepbound — In One Week - Investor's Business Daily",
-      "description": "Novo Nordisk's oral Wegovy snagged 3,071 prescriptions in its first week on the market, an analyst said Friday.",
-      "url": "https://www.investors.com/news/technology/novo-nordisk-stock-oral-wegovy-prescriptions-eli-lilly-orforglipron/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/01/IT-Novo-Nordisk-Wegovy-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-01-16T21:12:00Z"
-    },
-    {
-      "title": "Republicans vouch for Fed chair, creating a rare schism with Trump - AP News",
-      "description": "Republicans in Congress are supporting Federal Reserve Chair Jerome Powell as the Trump administration ramps up its pressure campaign against the central bank. The rare break in Congress from Trump is a result of Powell revealing that the Justice Department h…",
-      "url": "https://apnews.com/article/jerome-powell-federal-reserve-trump-af06d80b28be9c8a5de9c3b2fe33fa3d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1dc9363/2147483647/strip/true/crop/3936x2214+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffe%2Fac%2Fcd65a13cb3b124efcdb35954e605%2F7852cb8d959c4a0caaf68021c2f45786",
-      "source": "Associated Press",
-      "publishedAt": "2026-01-16T21:12:00Z"
-    },
-    {
-      "title": "US’s largest offshore wind farm can resume construction, in a third blow to Trump - Electrek",
-      "description": "A federal judge today issued an order granting a preliminary injunction allowing construction to resume on the 2.6-GW CVOW project.",
-      "url": "http://electrek.co/2026/01/16/us-largest-offshore-wind-farm-can-resume-construction-in-a-third-blow-to-trump/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Coastal-Virginia-Offshore-Wind.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-01-16T21:11:00Z"
-    },
-    {
-      "title": "White House Plan Would Let Americans Tap 401(k)s for Down Payments on Homes - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/politics/policy/trump-plan-would-let-americans-use-401-k-s-for-down-payments-on-homes-official-says-64eb4375",
-      "urlToImage": null,
+      "title": "Soaring Electricity Costs Are Now a Hot Political Issue - The Wall Street Journal",
+      "description": "Electricity-cost increases are outpacing other kinds of inflation, putting utility bills in the spotlight ahead of the midterms",
+      "url": "https://www.wsj.com/business/energy-oil/soaring-electricity-costs-are-now-a-hot-political-issue-d0319a1d",
+      "urlToImage": "https://images.wsj.net/im-76394005/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-16T20:48:00Z"
+      "publishedAt": "2026-01-17T17:00:00Z"
     },
     {
-      "title": "Bill Gates isn’t even close to America’s largest private landowner. It’s ‘Silent Stan’ Kroenke, Walmart husband and LA Rams owner - Fortune",
-      "description": "Kroenke’s purchase of nearly 1 million acres of ranchless marks a growing trend of the ultrawealthy snapping up farmland as an alternative asset.",
-      "url": "https://fortune.com/2026/01/16/who-owns-most-private-land-us-stan-kroenke-billionaire-rams-owner-bill-gates/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2229292387-e1768594225474.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-01-16T20:23:00Z"
-    },
-    {
-      "title": "Verizon Outage Caused by Software Issue, but Details Are Still Elusive - CNET",
-      "description": "We're still piecing together what caused Verizon's extended service blackout, but network experts point to possibilities based on how it transpired.",
-      "url": "https://www.cnet.com/tech/mobile/verizon-network-outage-jan-2026-cause/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/20ac3220026b21c4559acc6da1e92c1192470e11/hub/2026/01/15/67c3c659-3164-4c57-a835-1ba786f0b19b/gettyimages-2255714782.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-01-16T20:08:00Z"
-    },
-    {
-      "title": "NYC Mayor Zohran Mamdani Is Cracking Down On Food Delivery Apps - The Takeout",
-      "description": "Mamdami's administration sued third-party platform Motoclick, claiming it failed to meet the city's minimum pay standards and docking driver pay and tips.",
-      "url": "https://www.thetakeout.com/2077845/nyc-mayor-mamdani-food-delivery-legal-action/",
-      "urlToImage": "https://www.thetakeout.com/img/gallery/nyc-mayor-zohran-mamdani-is-cracking-down-on-food-delivery-apps/l-intro-1768593335.jpg",
-      "source": "The Takeout",
-      "publishedAt": "2026-01-16T20:07:29Z"
-    },
-    {
-      "title": "YouTube relaxes monetization policy on videos with controversial content - AP News",
-      "description": "YouTube is updating its guidelines for videos containing what advertisers define as controversial content, like abortion and self-harm, allowing more creators to earn full ad revenue when they tackle sensitive issues in a nongraphic way. YouTube videos that d…",
-      "url": "https://apnews.com/article/youtube-monetization-update-policy-controversial-issues-545e27e27e26e0baefb937c86620b676",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d8cd850/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2F3f%2F9b4937e8bbec787dcc06713a5cb8%2Fad061b7b0372442da425191bd9f835f4",
-      "source": "Associated Press",
-      "publishedAt": "2026-01-16T19:53:00Z"
-    },
-    {
-      "title": "‘DEAD’: Hassett’s Fed chair bid thrown into doubt - Politico",
-      "description": "“I actually want to keep you where you are if you want to know the truth,” the president told his top economic adviser, Kevin Hassett, on Friday.",
-      "url": "https://www.politico.com/news/2026/01/16/trump-kevin-hassett-federal-reserve-chair-00733312",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F62%2F67%2Ffe69bcad4b47aba52b48b00e2e7b%2Ftrump-92430.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-01-16T19:39:51Z"
-    },
-    {
-      "title": "Trump Administration Calls for Emergency Power Auction to Build Big Power Plants Again - Department of Energy (.gov)",
-      "description": "Building a more reliable and affordable electricity supply for American industry and families across the Mid-Atlantic U.S.",
-      "url": "https://www.energy.gov/articles/trump-administration-calls-emergency-power-auction-build-big-power-plants-again",
-      "urlToImage": "https://www.energy.gov/sites/default/files/2025-02/DOE%20Full%20Seal%20on%20white%20gray%20background%20-%201250x785_1.png",
-      "source": "Energy.gov",
-      "publishedAt": "2026-01-16T18:40:17Z"
-    },
-    {
-      "title": "Senate Democrats serious about crypto bill reboot, they said in call with industry - CoinDesk",
-      "description": "The Democratic contingent in negotiations over U.S. crypto market structure got back into the talks over the bill, though they sought to keep details private.",
-      "url": "https://www.coindesk.com/policy/2026/01/16/senate-democrats-serious-about-crypto-bill-reboot-they-said-in-call-with-industry",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/247f226332678a2c28b0c638725f8789bc530467-1920x1079.jpg?auto=format",
-      "source": "CoinDesk",
-      "publishedAt": "2026-01-16T18:28:15Z"
-    },
-    {
-      "title": "Uncommon Knowledge: Trump Gets a Shock on Chinese EVs - Newsweek",
-      "description": "“Let China come in,” says the president. America's allies, including Canada, are already rolling out the red carpet.",
-      "url": "https://www.newsweek.com/donald-trump-china-canada-carney-evs-11373197",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/01/GettyImages-2204586767.jpg?w=1200crop=1",
-      "source": "Newsweek",
-      "publishedAt": "2026-01-16T16:27:00Z"
-    },
-    {
-      "title": "Podcast: Janet Yellen Says Trump’s Moves Against Powell Are Backfiring - Bloomberg.com",
-      "description": "In this episode of Everybody’s Business , the former Treasury secretary argues the criminal probe of the Fed Chair is “akin to shooting oneself in the foot.”",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-16/podcast-janet-yellen-says-trump-s-moves-against-powell-are-backfiring",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLIZMOMUByzc/v0/1200x873.jpg",
+      "title": "Trump Is Pushing Gas to Power AI Boom, But Building Plants Takes Years - Bloomberg",
+      "description": "To speed the construction of new energy plants, the Trump administration called for an emergency power auction. They favor gas, coal and nuclear.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-17/trump-is-pushing-gas-to-power-ai-boom-but-building-plants-take-years",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i836sPyPu0Kc/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-01-16T16:20:23Z"
+      "publishedAt": "2026-01-17T16:45:07Z"
+    },
+    {
+      "title": "Illinois, Indiana among 6 states included in distilled water recall - NBC 5 Chicago",
+      "description": "Meijer, the Midwest-based grocery chain, is recalling more than 38,000 gallons of distilled water.",
+      "url": "https://www.nbcchicago.com/news/local/illinois-indiana-among-6-states-included-in-meijer-distilled-water-recall/3877593/",
+      "urlToImage": "https://media.nbcchicago.com/2023/03/GettyImages-1151133820-2.jpg?quality=85&strip=all&resize=1200%2C675",
+      "source": "NBC Chicago",
+      "publishedAt": "2026-01-17T16:34:21Z"
+    },
+    {
+      "title": "Behind the Curtain: The AI future has arrived - Axios",
+      "description": "Claude shows in vivid and unforgettable ways how AI will forever change work.",
+      "url": "https://www.axios.com/2026/01/17/ai-coding-claude-apps",
+      "urlToImage": "https://images.axios.com/vUOCPBaPpYQB3a5QIgPCh_2d2EY=/0x53:2528x1475/1366x768/2026/01/17/1768659002106.png",
+      "source": "Axios",
+      "publishedAt": "2026-01-17T16:22:22Z"
+    },
+    {
+      "title": "Costco rival launches expansion plans - thestreet.com",
+      "description": "As shoppers seek out new ways to save money on groceries, Costco may have to pivot.",
+      "url": "https://www.thestreet.com/retail/costco-rival-launches-expansion-plans",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTkwODQ4Nzk4ODk1OTA4NDMz/grocery-inflation.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2026-01-17T15:47:00Z"
+    },
+    {
+      "title": "As Trump's deadline for a cap on credit card rates looms, banks have only questions and no answers - AP News",
+      "description": "President Donald Trump has demanded a 10% cap on credit card interest rates by January 20. Consumer groups, politicians, and bankers remain unclear about the White House's plans. The White House has not detailed consequences for non-compliance. Researchers es…",
+      "url": "https://apnews.com/article/trump-credit-cards-interest-rate-jpmorgan-banks-002ddd40b706d503af9d74940f441dcf",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bee1c61/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F5b%2F9a3b8b59aab2754cba143144efe5%2F721f639a7cfa4e67888f9b0d849e8d8e",
+      "source": "Associated Press",
+      "publishedAt": "2026-01-17T13:49:00Z"
+    },
+    {
+      "title": "Ahead of Q4 Earnings, Let’s Look at Who Owns Netflix Stock (NFLX) - TipRanks",
+      "description": "Streaming giant Netflix (NFLX) is set to report its fourth-quarter Fiscal 2025 results after market close on Tuesday, January 20. The stock has gained about 2.5% in 2025. Wall Street expects Netflix",
+      "url": "https://www.tipranks.com/news/ahead-of-q4-earnings-lets-look-at-who-owns-netflix-stock-nflx",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/01/netflix-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2026-01-17T13:24:59Z"
+    },
+    {
+      "title": "Best photos from 2026 Detroit Auto Show Charity Preview - Detroit Free Press",
+      "description": "The best images from the 2026 Detroit Auto Show Charity Preview held at Huntington Place in Detroit on Friday, Jan. 16, 2026.",
+      "url": "https://www.freep.com/picture-gallery/money/cars/detroit-auto-show/2026/01/17/2026-detroit-auto-show-charity-preview/88220963007/",
+      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/01/17/PDTF/88223980007-charity-preview-011626-kpm-1117.jpg?crop=2398,1351,x2,y160&width=2398&height=1351&format=pjpg&auto=webp",
+      "source": "Detroit Free Press",
+      "publishedAt": "2026-01-17T12:39:00Z"
+    },
+    {
+      "title": "'Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why. - Business Insider",
+      "description": "Michael Burry of \"The Big Short\" fame relayed a Warren Buffett story to warn of wasteful tech spending, and took aim at Nvidia and Palantir again.",
+      "url": "https://www.businessinsider.com/big-short-michael-burry-warren-buffett-ai-boom-nvidia-palantir-2026-1",
+      "urlToImage": "https://i.insider.com/696a77cbc58df2ecd5ccad22?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-01-17T11:32:00Z"
+    },
+    {
+      "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46656911",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2026-01-17T11:29:57Z"
+    },
+    {
+      "title": "The 2025 Inflation Numbers Are Finally In. Here’s the Good and Bad News. - The Wall Street Journal",
+      "description": "Gasoline prices are down, but rising grocery costs continue to weigh on consumers",
+      "url": "https://www.wsj.com/economy/consumers/inflation-price-changes-2025-charts-a8deee40",
+      "urlToImage": "https://images.wsj.net/im-83636851/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-01-17T10:30:00Z"
+    },
+    {
+      "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania - NPR",
+      "description": "Prediction market apps are thriving in Trump's second term, with traders betting on migrant deportations to election outcomes. A community of young, mostly male and very online traders are driving the industry's bonanza.",
+      "url": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F48%2F6d2a42ea43ad91400b620e9b3b83%2Fprediction-markets.png",
+      "source": "NPR",
+      "publishedAt": "2026-01-17T10:00:00Z"
     }
   ]
 }
