@@ -1,119 +1,159 @@
 {
-  "updatedAt": "2026-01-19T06:54:40.702Z",
+  "updatedAt": "2026-01-20T06:53:07.499Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "These prophets of economic doom are worried about another collapse - The Washington Post",
-      "description": "The current investment boom is triggering déjà vu for some economists and traders who successfully predicted past economic crashes.",
-      "url": "https://www.washingtonpost.com/technology/2026/01/18/ai-bubble-predictions-crash/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GZE73QGJCZCNHKHHX6T53HC6VE.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-01-17T17:31:25Z"
-    },
-    {
-      "title": "Trump administration’s legal setbacks are good news for offshore wind — and the grid - TechCrunch",
-      "description": "Three offshore wind projects under construction on the U.S. East Coast are back to building after judges rebuked the Department of the Interior's actions.",
-      "url": "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1067",
-      "source": "TechCrunch",
-      "publishedAt": "2026-01-17T17:30:00Z"
-    },
-    {
-      "title": "Soaring Electricity Costs Are Now a Hot Political Issue - The Wall Street Journal",
-      "description": "Electricity-cost increases are outpacing other kinds of inflation, putting utility bills in the spotlight ahead of the midterms",
-      "url": "https://www.wsj.com/business/energy-oil/soaring-electricity-costs-are-now-a-hot-political-issue-d0319a1d",
-      "urlToImage": "https://images.wsj.net/im-76394005/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-17T17:00:00Z"
-    },
-    {
-      "title": "Trump Is Pushing Gas to Power AI Boom, But Building Plants Takes Years - Bloomberg",
-      "description": "To speed the construction of new energy plants, the Trump administration called for an emergency power auction. They favor gas, coal and nuclear.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-17/trump-is-pushing-gas-to-power-ai-boom-but-building-plants-take-years",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i836sPyPu0Kc/v0/1200x800.jpg",
+      "title": "Trump Tariff Threats Weigh on Asian Risk Appetite: Markets Wrap - Bloomberg.com",
+      "description": "European and US stock futures fell and haven assets such as gold rallied after President Donald Trump proposed new levies on eight countries that have opposed his plans to acquire Greenland. The dollar weakened against most of its major peers.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-18/trump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEHEpcDLj01Y/v0/1200x675.png",
       "source": "Bloomberg",
-      "publishedAt": "2026-01-17T16:45:07Z"
+      "publishedAt": "2026-01-19T05:15:00Z"
     },
     {
-      "title": "Illinois, Indiana among 6 states included in distilled water recall - NBC 5 Chicago",
-      "description": "Meijer, the Midwest-based grocery chain, is recalling more than 38,000 gallons of distilled water.",
-      "url": "https://www.nbcchicago.com/news/local/illinois-indiana-among-6-states-included-in-meijer-distilled-water-recall/3877593/",
-      "urlToImage": "https://media.nbcchicago.com/2023/03/GettyImages-1151133820-2.jpg?quality=85&strip=all&resize=1200%2C675",
-      "source": "NBC Chicago",
-      "publishedAt": "2026-01-17T16:34:21Z"
+      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT - TechCrunch",
+      "description": "Sequoia Capital is reportedly joining a blockbuster funding round for Anthropic, the AI startup behind Claude, according to the Financial Times. It's a",
+      "url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/05/tcdisrupt_ny16-5284.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-01-18T22:15:17Z"
     },
     {
-      "title": "Behind the Curtain: The AI future has arrived - Axios",
-      "description": "Claude shows in vivid and unforgettable ways how AI will forever change work.",
-      "url": "https://www.axios.com/2026/01/17/ai-coding-claude-apps",
-      "urlToImage": "https://images.axios.com/vUOCPBaPpYQB3a5QIgPCh_2d2EY=/0x53:2528x1475/1366x768/2026/01/17/1768659002106.png",
-      "source": "Axios",
-      "publishedAt": "2026-01-17T16:22:22Z"
+      "title": "EPA Rule Clarification Hits a Significant Source of Grok’s Electricity - Gizmodo",
+      "description": "It seems xAI has been taking liberties with gas turbines that federal rules don’t actually tolerate.",
+      "url": "https://gizmodo.com/epa-rule-clarification-hits-a-significant-source-of-groks-electricity-2000711569",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-01-18T21:40:07Z"
     },
     {
-      "title": "Costco rival launches expansion plans - thestreet.com",
-      "description": "As shoppers seek out new ways to save money on groceries, Costco may have to pivot.",
-      "url": "https://www.thestreet.com/retail/costco-rival-launches-expansion-plans",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTkwODQ4Nzk4ODk1OTA4NDMz/grocery-inflation.jpg",
+      "title": "Canada’s Tariff Cut Just Made This High-Tech Chinese EV 50% Cheaper - InsideEVs",
+      "description": "A high-end electric performance SUV that's made in China is about to get dramatically cheaper for Canadians.",
+      "url": "https://insideevs.com/news/784754/lotus-eletre-price-cut-canada-tariff-chinese-evs/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/9mNGVl/s1/2024-lotus-eletre-s-exterior-front-quarter.jpg",
+      "source": "InsideEVs ",
+      "publishedAt": "2026-01-18T21:01:00Z"
+    },
+    {
+      "title": "Popular sports apparel retail chain files Chapter 11 bankruptcy - thestreet.com",
+      "description": "The retailer of licensed sports team hats, apparel, and merchandise files for bankruptcy to reorganize its business.",
+      "url": "https://www.thestreet.com/retail/popular-sports-apparel-retail-chain-files-chapter-11-bankruptcy",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODQ0MDAz/sports-team-apparel-lead-ko-011826.jpg",
       "source": "TheStreet",
-      "publishedAt": "2026-01-17T15:47:00Z"
+      "publishedAt": "2026-01-18T20:42:03Z"
     },
     {
-      "title": "As Trump's deadline for a cap on credit card rates looms, banks have only questions and no answers - AP News",
-      "description": "President Donald Trump has demanded a 10% cap on credit card interest rates by January 20. Consumer groups, politicians, and bankers remain unclear about the White House's plans. The White House has not detailed consequences for non-compliance. Researchers es…",
-      "url": "https://apnews.com/article/trump-credit-cards-interest-rate-jpmorgan-banks-002ddd40b706d503af9d74940f441dcf",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bee1c61/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F5b%2F9a3b8b59aab2754cba143144efe5%2F721f639a7cfa4e67888f9b0d849e8d8e",
+      "title": "Trump's voice in a new Fannie Mae ad is generated by artificial intelligence, with his permission - AP News",
+      "description": "What sounds like President Donald Trump narrating a new Fannie Mae ad actually is an AI-cloned voice reading text, according to a disclaimer in the video. The ad comes as the Trump administration is making a big push to make housing affordable and the preside…",
+      "url": "https://apnews.com/article/trump-voice-ai-housing-fannie-ad-davos-7a792aed20c56bcc3f7b53733ec331ad",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9026d98/2147483647/strip/true/crop/5167x2906+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F5d%2Fc7d96ca5af0ed4f787480933f988%2F42e50ac239b04e7dae79d03b442d5ef2",
       "source": "Associated Press",
-      "publishedAt": "2026-01-17T13:49:00Z"
+      "publishedAt": "2026-01-18T20:19:00Z"
     },
     {
-      "title": "Ahead of Q4 Earnings, Let’s Look at Who Owns Netflix Stock (NFLX) - TipRanks",
-      "description": "Streaming giant Netflix (NFLX) is set to report its fourth-quarter Fiscal 2025 results after market close on Tuesday, January 20. The stock has gained about 2.5% in 2025. Wall Street expects Netflix",
-      "url": "https://www.tipranks.com/news/ahead-of-q4-earnings-lets-look-at-who-owns-netflix-stock-nflx",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/01/netflix-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-01-17T13:24:59Z"
+      "title": "Homeless warming fire ignites Portland Red Robin, firefighters say - OregonLive.com",
+      "description": "Firefighters managed to quench the blaze before it engulfed the whole building.",
+      "url": "https://www.oregonlive.com/crime/2026/01/homeless-warming-fire-ignites-portland-red-robin-firefighters-say.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/COD56JVC6VH45L7B2UGC23HPNI.jpeg?auth=0d1e0b1bd3a34348856c41ea110c7a5cea3564175dfcade8001d2ed3537f0e57&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2026-01-18T19:55:00Z"
     },
     {
-      "title": "Best photos from 2026 Detroit Auto Show Charity Preview - Detroit Free Press",
-      "description": "The best images from the 2026 Detroit Auto Show Charity Preview held at Huntington Place in Detroit on Friday, Jan. 16, 2026.",
-      "url": "https://www.freep.com/picture-gallery/money/cars/detroit-auto-show/2026/01/17/2026-detroit-auto-show-charity-preview/88220963007/",
-      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/01/17/PDTF/88223980007-charity-preview-011626-kpm-1117.jpg?crop=2398,1351,x2,y160&width=2398&height=1351&format=pjpg&auto=webp",
-      "source": "Detroit Free Press",
-      "publishedAt": "2026-01-17T12:39:00Z"
+      "title": "United works to get plane off Orlando runway after flight from Chicago experiences ‘issue’ upon landing, airline says - WKMG",
+      "description": "The Greater Orlando Aviation Authority has confirmed to News 6 that United Airlines flight 2323 from Chicago “experienced an issue upon landing” Sunday at Orlando International Airport, leading to its passengers being disembarked.",
+      "url": "https://www.clickorlando.com/news/local/2026/01/18/united-works-to-get-plane-off-orlando-runway-after-flight-from-chicago-experiences-issue-upon-landing-airline-says/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ANECNNQJCFE55IXK4LEPCZPWJM.jpg?_a=DATAg1eAZAA0",
+      "source": "WKMG News 6 & ClickOrlando",
+      "publishedAt": "2026-01-18T19:27:27Z"
     },
     {
-      "title": "'Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why. - Business Insider",
-      "description": "Michael Burry of \"The Big Short\" fame relayed a Warren Buffett story to warn of wasteful tech spending, and took aim at Nvidia and Palantir again.",
-      "url": "https://www.businessinsider.com/big-short-michael-burry-warren-buffett-ai-boom-nvidia-palantir-2026-1",
-      "urlToImage": "https://i.insider.com/696a77cbc58df2ecd5ccad22?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-01-17T11:32:00Z"
+      "title": "Hassett Says Trump May Be Right to Pass Him Over for Fed Chair - Bloomberg.com",
+      "description": "White House economic adviser Kevin Hassett said President Donald Trump may well keep him in his current job, which would eliminate him from contention for the next Federal Reserve chair.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-18/hassett-says-trump-may-be-right-to-pass-him-over-for-fed-chair",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw0vZhYe1BJs/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-18T18:41:42Z"
     },
     {
-      "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news - Hacker News",
+      "title": "Prediction markets are ushering in a world in which news becomes about gambling - Hacker News",
       "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46656911",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46670524",
       "urlToImage": null,
       "source": "Hacker News",
-      "publishedAt": "2026-01-17T11:29:57Z"
+      "publishedAt": "2026-01-18T18:33:03Z"
     },
     {
-      "title": "The 2025 Inflation Numbers Are Finally In. Here’s the Good and Bad News. - The Wall Street Journal",
-      "description": "Gasoline prices are down, but rising grocery costs continue to weigh on consumers",
-      "url": "https://www.wsj.com/economy/consumers/inflation-price-changes-2025-charts-a8deee40",
-      "urlToImage": "https://images.wsj.net/im-83636851/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-17T10:30:00Z"
+      "title": "FDA's new expedited drug program raises legal questions and concerns - PBS",
+      "description": "The FDA commissioner's effort to drastically shorten the review of drugs favored by President Donald Trump's administration is causing alarm across the agency.",
+      "url": "https://www.pbs.org/newshour/health/fdas-new-expedited-drug-program-raises-legal-questions-and-concerns",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-15T224228Z_1773975969_RC29XGAXTHOM_RTRMADP_3_HEALTH-USA-FDA-VOUCHERS-1024x673.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-01-18T18:04:59Z"
     },
     {
-      "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania - NPR",
-      "description": "Prediction market apps are thriving in Trump's second term, with traders betting on migrant deportations to election outcomes. A community of young, mostly male and very online traders are driving the industry's bonanza.",
-      "url": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F48%2F6d2a42ea43ad91400b620e9b3b83%2Fprediction-markets.png",
-      "source": "NPR",
-      "publishedAt": "2026-01-17T10:00:00Z"
+      "title": "Chicken sold in 7 states, including Ohio, recalled for potential listeria contamination - WKRC",
+      "description": "Chicken products sold in seven states, including Ohio, were recalled due to potentially being contaminated with listeria monocytogenes.",
+      "url": "https://local12.com/news/nation-world/chicken-recall-recalled-recalling-recalls-ohio-listeria-contamination-infection-breast-ready-to-eat-grilled-third-party-lab-laboratory-meat-dangerous-contaminated-cooked-monocytogenes-food-poisoning",
+      "urlToImage": "https://local12.com/resources/media2/16x9/2996/1320/3x397/90/f06c16a4-a4fb-498d-93ee-1fa122f22ca3-GettyImages53217933.jpg",
+      "source": "WKRC TV Cincinnati",
+      "publishedAt": "2026-01-18T17:57:19Z"
+    },
+    {
+      "title": "New Bilt cards exclude tax payments, eBay, Facebook Marketplace, and more - Frequent Miler",
+      "description": "When Bilt Card 2.0 launched this week, there were a few surprises in the terms and conditions. Among them is the fact that using your card for tax payments will not earn rewards or Bilt Cash (if you choose the Bilt Cash option). Oddly, there are also restrict…",
+      "url": "https://frequentmiler.com/new-bilt-cards-exclude-tax-payments-ebay-facebook-marketplace-and-more/",
+      "urlToImage": "https://frequentmiler.com/wp-content/uploads/2026/01/Bilt-no-rewards-on-taxes-or-ebay.jpg",
+      "source": "Frequentmiler.com",
+      "publishedAt": "2026-01-18T17:45:09Z"
+    },
+    {
+      "title": "DDR5 prices in Germany hit 4.4x July 2025 levels, even DDR3 memory price keeps rising - VideoCardz.com",
+      "description": "RAMpocalypse analyzed: DDR5 memory is now 340% pricier since July, even DDR3 memory sees a 75%+ increase A new update to 3DCenter's memory price index",
+      "url": "https://videocardz.com/newz/ddr5-prices-in-germany-hit-4-4x-july-2025-levels-even-ddr3-memory-price-keeps-rising",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/05/01-gskill-ddr5-trident-z5-neo-rg.jpg",
+      "source": "Videocardz.com",
+      "publishedAt": "2026-01-18T16:49:00Z"
+    },
+    {
+      "title": "New U.S. Army M1E3 Tank vs. Russia's 'Best in the World' T-14 Armata: Who Wins in 3 Words - 19FortyFive",
+      "description": "M1E3 Abrams’ Detroit tech demonstrator hints at an unmanned turret, hybrid power, and a 3-person crew—then stacks up against the T-14 Armata.",
+      "url": "https://www.19fortyfive.com/2026/01/new-u-s-army-m1e3-tank-vs-russias-best-in-the-world-t-14-armata-who-wins-in-3-words/",
+      "urlToImage": "https://www.19fortyfive.com/wp-content/uploads/2026/01/M1E3-Tank-19FortyFive-Photo-from-Detroit-Auto-Show.jpg",
+      "source": "19fortyfive.com",
+      "publishedAt": "2026-01-18T16:31:18Z"
+    },
+    {
+      "title": "29 Boyfriends And Husbands Who Make Their Partner's Day-To-Day Lives Harder Than It Already Is - BuzzFeed",
+      "description": "It's never too late to dump him.",
+      "url": "https://www.buzzfeed.com/ajanibazile/incompetent-husbands-and-boyfriends",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/16/22/thumb/npKNPt2z3.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-01-18T16:31:02Z"
+    },
+    {
+      "title": "BlackRock CEO delivers blunt warning on US national debt - thestreet.com",
+      "description": "Markets may not be ready for this.",
+      "url": "https://www.thestreet.com/investing/blackrock-ceo-delivers-blunt-warning-on-us-national-debt",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODQyMzkw/larry-fink-chief-executive-officer-of-blackrock-inc-at-the-world-economic-forum-wef-in-davos-switzerland-on-thursday-jan-23-2025-the-annual-davos-gathering-of-political-leaders-top-executives-and-cele.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2026-01-18T16:03:00Z"
+    },
+    {
+      "title": "Homeowners don’t want to move. It’s a big deal for their shrinking backyards. - The Washington Post",
+      "description": "Americans have more and more reasons to have smaller outdoor spaces.",
+      "url": "https://www.washingtonpost.com/business/2026/01/18/high-mortgage-rates-shrinking-backyards/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZLH6I3AAU5YWIEH3PI2WHMKZ3U.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-01-18T16:01:49Z"
+    },
+    {
+      "title": "Mall-based women’s retailer begins liquidation, closing all stores - thestreet.com",
+      "description": "The mall-based retailer has started liquidation sales across all locations, surprising shoppers and continuing a trend of mall closures nationwide.",
+      "url": "https://www.thestreet.com/retail/mall-based-womens-retailer-francescas-begins-liquidation-closing-all-stores",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTkyMTcxODQ2MzkyMDk1OTIw/mall-shoppers-lead-3-js-090722.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2026-01-18T15:56:20Z"
     }
   ]
 }
