@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-01-22T06:51:25.756Z",
+  "updatedAt": "2026-01-23T06:50:58.630Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "S&P 500 Futures Advance, Japanese Bonds Rebound: Markets Wrap - Bloomberg.com",
-      "description": "Japanese bonds rebounded after a selloff that rippled through global debt markets, while US equity-index futures rose as volatility showed tentative signs of easing.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-20/asian-stocks-set-to-fall-as-global-selloff-deepens-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCvUW_x7YU6k/v0/1200x800.jpg",
+      "title": "Asian Stocks to Gain as Trump Touts Greenland Deal: Markets Wrap - Bloomberg",
+      "description": "Global stocks were set to extend a rally after US President Donald Trump abandoned his tariff threat against Europe, easing concerns about a renewed trade war.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-21/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwqht.bbuASs/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-01-21T03:05:00Z"
+      "publishedAt": "2026-01-22T03:06:00Z"
     },
     {
-      "title": "Sony to Cede Control of Bravia TVs to China’s TCL Electronics - Bloomberg.com",
-      "description": "Sony Group Corp. is spinning off control of its home entertainment business, including the flagship Bravia television brand, to Chinese rival TCL Electronics Holdings Ltd., the latest Japanese company to cut exposure in the low-margin segment.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-20/sony-to-cede-control-of-bravia-tvs-to-china-s-tcl-electronics",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLuXGnj_bk1k/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-01-21T02:08:00Z"
-    },
-    {
-      "title": "Warren Buffett's successor eyes selling off Berkshire Hathaway's 325 million Kraft Heinz shares - AP News",
-      "description": "Warren Buffett’s successor appears to be considering his first significant move after taking over as CEO this month. Kraft Heinz warned investors Tuesday that Berkshire Hathaway may be interested in selling its 325 million shares in the name brand food giant …",
-      "url": "https://apnews.com/article/kraft-heinz-berkshire-hathaway-warren-buffett-abel-f965118c42175ac5b33fe9c8500ab87a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fa69602/2147483647/strip/true/crop/4498x2530+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2Ff5%2Fa2513c206e3603ffaf985675d6c8%2F67f6986bb5b24317b58fe9d0642abce9",
-      "source": "Associated Press",
-      "publishedAt": "2026-01-21T01:55:00Z"
-    },
-    {
-      "title": "Amazon gets approval to build massive retail concept in Orland Park - chicago.suntimes.com",
-      "description": "The estimated 230,000-square-foot store will offer shoppers general merchandise and grocery items.",
-      "url": "https://chicago.suntimes.com/real-estate/2026/01/20/amazon-approval-build-massive-new-retail-concept-orland-park",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/32185ec/2147483647/strip/true/crop/6122x3495+0+588/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F1d%2Ff7a5b1a84aaeac1b84a011b43685%2Famazonstore-260121-02.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2026-01-21T01:41:00Z"
-    },
-    {
-      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism - TechCrunch",
-      "description": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.",
-      "url": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-01-21T01:39:58Z"
-    },
-    {
-      "title": "UPDATED: Judge approves sale of Genesis HealthCare assets to bidder 101 West Street - McKnight's Long-Term Care News",
-      "description": "A federal bankruptcy judge on Tuesday evening approved the sale of Genesis HealthCare and its nearly 300 subsidiaries to a newly formed investment group whose bid emerged as a surprise last week.",
-      "url": "https://www.mcknights.com/news/breaking-judge-approves-sale-of-genesis-healthcare-assets-to-bidder-101-west-street/",
-      "urlToImage": "https://www.mcknights.com/wp-content/uploads/sites/5/2023/11/012_Legal_1440X810.jpg",
-      "source": "McKnight's Long Term Care News",
-      "publishedAt": "2026-01-21T00:45:00Z"
-    },
-    {
-      "title": "Stock futures are little changed after S&P 500 and Dow notch worst day since October: Live updates - CNBC",
-      "description": "All three major U.S. stock indexes logged their worst daily performances since Oct. 10 as Trump escalated his Greenland tariff threats.",
-      "url": "https://www.cnbc.com/2026/01/20/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254453-1768932204557-gettyimages-2256714490-US_STOCKS.jpeg?v=1768951308&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-21T00:31:00Z"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Stops Wall Street from Competing with Main Street Homebuyers - The White House (.gov)",
-      "description": "STOPPING WALL STREET FROM COMPETING WITH MAIN STREET HOMEBUYERS: Today, President Donald J. Trump signed an Executive Order to protect the American Dream",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-stops-wall-street-from-competing-with-main-street-homebuyers/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2026-01-21T00:18:34Z"
-    },
-    {
-      "title": "Billionaire Dalio sends 2-word warning as stocks sell-off - thestreet.com",
-      "description": "The former hedge fund manager offered a blunt take on markets.",
-      "url": "https://www.thestreet.com/investing/billionaire-dalio-sends-2-word-warning-as-stocks-sell-off",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODQ1MjA2/ray-dalio-1-20-2026-gettyimages-2243629590.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2026-01-20T23:26:16Z"
-    },
-    {
-      "title": "Zuck stuck on Trump’s bad side: FTC appeals loss in Meta monopoly case - Ars Technica",
-      "description": "FTC will appeal ruling that found Meta has no monopoly in social networking.",
-      "url": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/zuck-the-monopolist-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-01-20T23:22:26Z"
-    },
-    {
-      "title": "Netflix Stock Is Tumbling. This Is Overshadowing the Streamer’s Earnings Beat. - Barron's",
-      "description": "",
-      "url": "https://www.barrons.com/articles/netflix-earnings-stock-price-3122d0cc",
-      "urlToImage": "https://images.barrons.com/im-87966003/social",
-      "source": "Barron's",
-      "publishedAt": "2026-01-20T22:18:00Z"
-    },
-    {
-      "title": "Supreme Court to weigh Trump's bid to oust Lisa Cook from Fed board, with Powell probe looming over arguments - CBS News",
-      "description": "President Trump moved to fire Lisa Cook from the Federal Reserve Board of Governors in August.",
-      "url": "https://www.cbsnews.com/news/supreme-court-lisa-cook-federal-reserve/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/20/4237ec62-7335-4a24-9615-a685bdb1257d/thumbnail/1200x630/2837028a705bda27d388608ef36826dd/gettyimages-2221380365.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-01-20T22:01:43Z"
-    },
-    {
-      "title": "Trump's tariff threats spark new fears of 'Sell America' trade - Politico",
-      "description": "The president has long been sensitive to bond market movements and regularly cites surges in stocks as evidence that his agenda is working.",
-      "url": "https://www.politico.com/news/2026/01/20/trumps-tariff-threats-spark-new-fears-of-sell-america-trade-00736714",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F15%2F4f%2F4f3d11424099ab69d28cffed8155%2Ftrump-18046.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-01-20T21:53:40Z"
-    },
-    {
-      "title": "Markets Slump as Greenland, Japan Fears Shake Up Torpid Trading - Bloomberg.com",
-      "description": "As financial markets settled into an unusual state of tranquility, with stocks slowly grinding higher week after week and bond yields hovering in narrow ranges, many on Wall Street started to prepare for a sudden jolt.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-20/market-calm-gives-way-as-greenland-tension-opens-up-tail-risk",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWTthUCLZ1n8/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-01-20T21:47:52Z"
-    },
-    {
-      "title": "Danish pension fund to sell $100 million in U.S. Treasuries due to \"poor U.S. government finances\" - CBS News",
-      "description": "The chief investment officer of AkademikerPension said the decision was not directly related to the rift between the U.S. and Greenland.",
-      "url": "https://www.cbsnews.com/news/danish-pension-fund-treasuries-government-finances-trump-greenland/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/20/fbeedf78-fdef-4b1c-865f-ec6e0281e939/thumbnail/1200x630/bd562980f7ecc184c46feacb9b514e30/gettyimages-2217185195-1.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-01-20T21:42:06Z"
-    },
-    {
-      "title": "Exclusive | Democratic Senators Demand Records on Powell Probe - The Wall Street Journal",
-      "description": "Sens. Elizabeth Warren and Dick Durbin call criminal investigation ‘serious misuse of power’",
-      "url": "https://www.wsj.com/politics/democratic-senators-demand-records-on-powell-probe-75ad7d99",
-      "urlToImage": "https://images.wsj.net/im-26502594/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-20T21:40:00Z"
-    },
-    {
-      "title": "Trump added $2.25 trillion to the national debt in his first year back in charge, watchdog says - Fortune",
-      "description": "The Peter G. Peterson Foundation, a nonpartisan budget watchdog, ran the numbers exclusively for Fortune.",
-      "url": "https://fortune.com/2026/01/20/how-much-national-debt-grew-trump-first-year-back-in-office-president/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2255937257-e1768940565628.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-01-20T21:36:00Z"
-    },
-    {
-      "title": "Mortgage Rates Jump to Match Highest Levels in Nearly a Month - Mortgage News Daily",
-      "description": "Mortgage rates jumped sharply higher on Tuesday in response to weakness driven by geopolitical events and overseas financial markets. After hitting lows of 5.99% for a few hours on January 9th and spending last week in the low 6's, the average top tier 30yr f…",
-      "url": "https://www.mortgagenewsdaily.com/markets/mortgage-rates-01202026",
-      "urlToImage": "https://a.mortgagenewsdaily.com/dsocial/696febda0976dafff837cff6/696febda0976dafff837cff6_0_202601210455.jpg?provider=facebook",
-      "source": "Mortgage News Daily",
-      "publishedAt": "2026-01-20T21:00:00Z"
-    },
-    {
-      "title": "Musk and Altman Tussle Over Reports of ChatGPT-Linked Deaths - The Information",
-      "description": "Elon Musk and Sam Altman traded barbs on X this week over media reports of deaths linked to OpenAI’s ChatGPT and other AI-related safety issues. On Monday, Musk  shared a post  about a man who committed a murder-suicide after a series of delusional conversati…",
-      "url": "https://www.theinformation.com/briefings/musk-altman-tussle-reports-chatgpt-linked-deaths",
-      "urlToImage": "https://tii.imgix.net/global/defaults/article_image_unavailable.jpg",
-      "source": "The Information",
-      "publishedAt": "2026-01-20T20:47:14Z"
-    },
-    {
-      "title": "This innovation saved lives in the pandemic. Now it’s showing strength against cancer. - The Washington Post",
-      "description": "The experimental mRNA-based drug sharply reduced the risk of recurrence or death when combined with immunotherapy Keytruda, according to the drugs’ sponsors.",
-      "url": "https://www.washingtonpost.com/health/2026/01/20/cancer-drug-mrna-melanoma/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4BJYZVAORCK5DBXBNK4MTRU3VE.JPG&w=1440",
+      "title": "Supreme Court appears likely to allow Lisa Cook to remain on Fed board - The Washington Post",
+      "description": "Such a decision, which would hold while a lawsuit challenging her removal plays out, would prevent Trump from exerting greater influence over the powerful central bank.",
+      "url": "https://www.washingtonpost.com/politics/2026/01/21/fed-lisa-cook-supreme-court-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KVRIENPMLXWADHXDLY24SQZKI.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-01-20T19:55:30Z"
+      "publishedAt": "2026-01-22T02:39:37Z"
+    },
+    {
+      "title": "Trump credit card plan would be a 'disaster', JP Morgan boss warns - BBC",
+      "description": "Jamie Dimon said Donald Trump's interest rate cap proposal would restrict Americans' access to credit.",
+      "url": "https://www.bbc.com/news/articles/c3944lv2220o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b096/live/59c66860-f71e-11f0-9491-9dbdb0e655d1.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-22T01:09:38Z"
+    },
+    {
+      "title": "Intel Stock (INTC) Scores an Upgrade Ahead of Earnings on Server CPU Strength - TipRanks",
+      "description": "Intel (NASDAQ:INTC) is set to report its 4Q25 results on Thursday, with the earnings report shaping up as a key test of the company’s turnaround narrative. So far, the market",
+      "url": "https://www.tipranks.com/news/intel-stock-intc-scores-an-upgrade-ahead-of-earnings-on-server-cpu-strength",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/05/intel-shutterstock_2358338121-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2026-01-22T01:09:31Z"
+    },
+    {
+      "title": "Deloitte is overhauling job titles for its US workforce — here's why - Business Insider",
+      "description": "The Big Four firm is giving its US employees a new job title, according to an internal presentation seen by Business Insider.",
+      "url": "https://www.businessinsider.com/deloitte-gives-us-employees-new-job-titles-leader-role-2026-1",
+      "urlToImage": "https://i.insider.com/69711e1ea645d1188187bc5a?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-01-22T00:51:00Z"
+    },
+    {
+      "title": "Japan's December exports growth drops to 5.1%, missing expectations, as shipments to U.S. plunge - CNBC",
+      "description": "Reuters-polled analysts had estimated exports growth would remain unchanged from November at 6.1%.",
+      "url": "https://www.cnbc.com/2026/01/22/japan-trade-data-december-exports-imports.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108035613-1726622471539-gettyimages-2157647468-JAPAN_NAGOYA_PORT.jpeg?v=1726622489&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-21T23:59:21Z"
+    },
+    {
+      "title": "Boozman set to release GOP-only crypto draft - Politico",
+      "description": "A spokesperson for the Senate Agriculture Chair said the lawmaker “appreciates the good-faith effort to reach a bipartisan compromise.”",
+      "url": "https://www.politico.com/live-updates/2026/01/21/congress/boozman-expected-to-release-gop-only-crypto-draft-00740344",
+      "urlToImage": "https://www.politico.com/dims4/default/34ac53d/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F49%2F02%2F722da4ca4a8298d5a6d573818bce%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2192525659",
+      "source": "Politico",
+      "publishedAt": "2026-01-21T23:37:30Z"
+    },
+    {
+      "title": "As Trump talks tariffs, his Argentine ally welcomes a shipload of Chinese EVs for the first time - Yahoo Finance",
+      "description": "Chinese automaker BYD has sped up its exports and undercut rivals the world over, alarming Washington, upsetting Western and Japanese auto giants, and...",
+      "url": "https://finance.yahoo.com/news/trump-talks-tariffs-argentine-ally-231038284.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/X_A4QVHeA.2iqPe5eI9xgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTk-/https://media.zenfs.com/en/ap_finance_articles_694/d4c9e73c64ac64e44a9d1d98c2602d94",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-01-21T23:10:38Z"
+    },
+    {
+      "title": "Elizabeth Holmes asks Trump administration to commute her prison sentence - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/US/elizabeth-holmes-asks-trump-administration-commute-prison-sentence/story?id\\\\u003d129434633",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2026-01-21T22:40:33Z"
+    },
+    {
+      "title": "Lululemon Founder Slams Board After See-Through Leggings Fiasco - Bloomberg.com",
+      "description": "Lululemon Athletica Inc. founder Chip Wilson lashed out over the company’s latest product flop, calling it a “total operational failure” that he blamed on the company’s board of directors.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-21/lululemon-founder-slams-board-after-see-through-leggings-fiasco",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idE23ohO.QIQ/v1/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-21T22:38:14Z"
+    },
+    {
+      "title": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - TechCrunch",
+      "description": "The newly revised document offers a roadmap for what Anthropic says is a safer and more helpful chatbot experience.",
+      "url": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2026-01-21T22:07:58Z"
+    },
+    {
+      "title": "US Natural Gas Jumps Over 50% This Week as Freeze Takes Hold - Bloomberg",
+      "description": "US natural gas futures jumped more than 50% in two days, putting futures on track for their biggest weekly gain in more than three decades, as dangerously cold temperatures are set to take hold of a massive swath of the country.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-21/us-natural-gas-jumps-over-50-this-week-as-freeze-takes-hold",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX.IyD4u1ZpU/v0/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-21T21:15:14Z"
+    },
+    {
+      "title": "Berkeley-based Peet's Coffee closing multiple Bay Area locations just months after being acquired by Keurig Dr Pepper - abc7news.com",
+      "description": "Workers at multiple Bay Area Peet's Coffee shops are still processing the news that their stores will be closing. This is happening as the Berkeley-based coffee chain is being taken over by Keurig Dr Pepper.",
+      "url": "https://abc7news.com/post/berkeley-based-peets-coffee-closing-multiple-bay-area-locations-months-being-acquired-keurig-dr-pepper/18444120/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18444550_012126-kgo-peets-closing-img.jpg?w=1600",
+      "source": "KGO-TV",
+      "publishedAt": "2026-01-21T21:04:58Z"
+    },
+    {
+      "title": "Trump pushes for lower rates and ban on investor home purchases in bid to make homes more affordable - AP News",
+      "description": "President Donald Trump’s plans for bringing homeownership within reach of more Americans involve pushing for lower interest rates on home loans and credit cards, and banning large institutional investors from buying single-family homes. Trump outlined four ho…",
+      "url": "https://apnews.com/article/trump-housing-affordability-investors-davos-aa03b50c0603be5532fedc8f1fcfd97e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d7bb1ce/2147483647/strip/true/crop/8448x4752+0+440/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2b%2Fb4%2Fa2135e06c9d47ea46f1c26c46a83%2F7cd5ba1cb59d48289572f9de37604c26",
+      "source": "Associated Press",
+      "publishedAt": "2026-01-21T20:51:00Z"
+    },
+    {
+      "title": "Ryanair CEO dismisses Elon Musk’s idea of buying the airline as verbal feud escalates - AP News",
+      "description": "Ryanair's CEO Michael O'Leary is dismissing Elon Musk's idea of buying the airline and shrugging off his insults. The spat began when Ryanair ruled out installing Musk's Starlink Wi-Fi on its planes. O'Leary called Musk an \"idiot,\" while Musk labeled O'Leary …",
+      "url": "https://apnews.com/article/elon-musk-ryanair-social-media-starlink-ireland-35efb37b2f31e49970c40bf306c6d9c0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/644d64b/2147483647/strip/true/crop/3500x1969+0+190/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F54%2F6211cb9f5df569a59678b8c5b79e%2F057e862acdf547d98f90b8f7f12b8319",
+      "source": "Associated Press",
+      "publishedAt": "2026-01-21T20:08:00Z"
+    },
+    {
+      "title": "Bezos' Blue Origin to deploy thousands of satellites for new communications network - NBC News",
+      "description": "Jeff Bezos’ space company Blue Origin announced a plan to deploy 5,408 satellites in space for a communications network, jumping into a market dominated by Elon Musk’s SpaceX.",
+      "url": "https://www.nbcnews.com/science/space/bezos-blue-origin-satellites-communications-network-rcna255260",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260121-blue-origin-launch-mn-1435-07f9d3.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-01-21T20:06:07Z"
+    },
+    {
+      "title": "Volvo EX60 Revealed: 'An End To Range Anxiety', With Next-Generation Seat Belts - InsideEVs",
+      "description": "Volvo's most important EV yet could be a major comeback story—and it's packed with tech that takes electric cars to the next level.",
+      "url": "https://insideevs.com/news/785050/2027-volvo-ex60-revealed-details/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/P3MYlK/s1/volvo-ex60-reveal.jpg",
+      "source": "InsideEVs ",
+      "publishedAt": "2026-01-21T17:39:24Z"
+    },
+    {
+      "title": "Canned tuna recalled for 'potentially fatal' botulism risk was mistakenly reshipped to 9 states - NBC News",
+      "description": "Federal officials are warning shoppers to steer clear of cans of potentially tainted Genova Yellowfin Tuna that were mistakenly shipped this week to six grocery store chains in nine different states",
+      "url": "https://www.nbcnews.com/news/us-news/canned-tuna-recalled-potentially-fatal-botulism-risk-mistakenly-reship-rcna255212",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260121-Genova-canned-tuna-gk-55215f.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-01-21T17:12:16Z"
     }
   ]
 }
