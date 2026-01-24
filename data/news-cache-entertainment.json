@@ -1,167 +1,111 @@
 {
-  "updatedAt": "2026-01-23T06:50:58.859Z",
+  "updatedAt": "2026-01-24T06:46:19.011Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "‘The Masked Singer’ Reveals the Identities of Handyman and Scarab: Here Are the Celebrities Under the Costumes - Variety",
-      "description": "On \"The Masked Singer\" Season 14 Episode 3, celebrities were revealed as Handyman and Scarab. Here's a recap of who was under the masks.",
-      "url": "https://variety.com/2026/tv/news/the-masked-singer-season-14-episode-3-recap-handyman-scarab-1236636437/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/Handyman-Scarab-Masked-Singer.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-01-22T02:00:00Z"
-    },
-    {
-      "title": "Blake Lively called Justin Baldoni 'a clown' in text messages - BBC",
-      "description": "Newly unsealed court documents show Lively criticising the It Ends With Us director.",
-      "url": "https://www.bbc.com/news/articles/cwy1l9pgjv7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1e83/live/6b8871d0-455b-11f0-835b-310c7b938e84.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-22T00:54:16Z"
-    },
-    {
-      "title": "Ashton Kutcher: Hollywood isn't to blame for pushing unrealistic beauty standards - BBC",
-      "description": "The actor stars in The Beauty,  which explores the negative impact of a world full of beautiful people.",
-      "url": "https://www.bbc.com/news/articles/cddgrp0yvg1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56f0/live/a5751c10-f6e3-11f0-a4dd-a5af35a571cb.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-22T00:40:20Z"
-    },
-    {
-      "title": "Prue Leith announces she's leaving 'The Great British Baking Show' - NBC News",
-      "description": "Prue Leith, a beloved judge on \"The Great British Bake Off,\" has announced Wednesday she's leaving \"The Tent\" after nine scrumptious seasons",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/prue-leith-leaving-great-british-baking-show-rcna255290",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260121-Prue-Leith-gk-7dfab4.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-01-21T22:59:39Z"
-    },
-    {
-      "title": "'Wheel of Fortune' star Vanna White announces surprise marriage on Facebook and Instagram - abc7.com",
-      "description": "Vanna White announces her surprise marriage. See pictures here.",
-      "url": "https://abc7.com/post/wheel-fortune-star-vanna-white-announces-surprise-marriage-facebook-instagram/18444899/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18444938_012126-otrc-vannawhite-img.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-01-21T22:28:09Z"
-    },
-    {
-      "title": "Bruce Lee play and Vocal Arts DC join growing list of Kennedy Center cancellations - AP News",
-      "description": "The producers of a Bruce Lee-inspired stage play and Vocal Arts DC have canceled shows at the Kennedy Center. This follows President Trump's controversial decision to rename it the Trump-Kennedy Center, a change experts say requires Congress's approval. Lin-M…",
-      "url": "https://apnews.com/article/kennedy-center-cancel-vocal-arts-bruce-lee-44b6ebf2b058f66533946b5744367efd",
-      "urlToImage": "https://dims.apnews.com/dims4/default/de37eef/2147483647/strip/true/crop/5535x3113+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2b%2Fa1%2F81b0408377baf11bb55871ab83f9%2F52e54a7097d243d3a69b3ee8edebbd1a",
-      "source": "Associated Press",
-      "publishedAt": "2026-01-21T22:21:00Z"
-    },
-    {
-      "title": "It’s Business As Usual for the Beckhams - The Cut",
-      "description": "After a string of accusatory Instagram Stories from their son Brooklyn, David and Victoria Beckham are posting birthday messages on Instagram like nothing happened.",
-      "url": "http://www.thecut.com/article/david-victoria-beckham-back-posting-brooklyn.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/f56/b9f/2516af35ca56ad5dc3ef0d9528ea603f7d-brooklyn-david-victoria-beckham-lede.1x.rsocial.w1200.jpg",
-      "source": "The Cut",
-      "publishedAt": "2026-01-21T20:55:10Z"
-    },
-    {
-      "title": "Final Oscar Nominations Predictions via Feinberg Forecast - hollywoodreporter.com",
-      "description": "The Hollywood Reporter's executive editor of awards coverage projects that the field will be led by 'Sinners' (with a record-breaking 15 noms), 'One Battle After Another' (12), Frankenstein (11) and 'Hamnet' (11).",
-      "url": "http://www.hollywoodreporter.com/lists/final-oscar-nominations-predictions-feinberg-forecast/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/04/rev-1-GRC-TT-0026r_High_Res_JPEG-H-2025.jpg?w=1296&h=730&crop=1",
+      "title": "'Wonder Man' Review: Ben Kingsley in Marvel Disney+ Dramedy - hollywoodreporter.com",
+      "description": "Kingsley reprises his role as Trevor Slattery, now just an actor looking for his next big role, in the eight-part dramedy co-created by 'Shang-Chi' director Destin Daniel Cretton.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-reviews/wonder-man-review-disney-ben-kingsley-yahya-abdul-mateen-1236481754/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/CBK-107-06639_R.jpg?crop=0px%2C47px%2C6000px%2C3357px&resize=1440%2C810",
       "source": "Hollywood Reporter",
-      "publishedAt": "2026-01-21T20:50:13Z"
+      "publishedAt": "2026-01-23T05:02:50Z"
     },
     {
-      "title": "‘Legally Blonde’ Prequel Series ‘Elle’ Sets Release Date, Amazon Renews Show for Season 2 - Variety",
-      "description": "The \"Legally Blonde\" prequel series has set its official premiere date on Prime Video, with the streamer also renewing the show for a second season.",
-      "url": "https://variety.com/2026/tv/news/legally-blonde-prequel-elle-release-date-renewed-season-2-1236637143/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/Elle_Woods_Lexi_Minetree_Amazon_MGM_Studios_3000.jpg?w=1000&h=563&crop=1",
+      "title": "'The Pitt': Noah Wyle on Honoring Muslim Community After Tree of Life Attack - Variety",
+      "description": "Noah Wyle and 'The Pitt' producers wanted to honor the Tree of Life attack victims and the Muslim community who helped in their latest season.",
+      "url": "https://variety.com/2026/tv/news/the-pitt-noah-wyle-muslim-community-tree-of-life-attack-1236638423/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/irina-dubova-noah-wyle.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
-      "publishedAt": "2026-01-21T20:33:00Z"
+      "publishedAt": "2026-01-23T03:00:00Z"
     },
     {
-      "title": "‘Beef’ Season 2 First Look: Charles Melton Lifts Weights, Carey Mulligan Considers a Facelift and More - Variety",
-      "description": "Charles Melton lifts weights shirtless, Carey Mulligan considers a facelift and more in first-look images of Netflix's 'Beef' Season 2, due in April.",
-      "url": "https://variety.com/2026/tv/news/beef-season-2-photos-1236637110/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/BEEF_202_SG_1142518-e1769026125617.jpg?w=1000&h=563&crop=1",
+      "title": "Jaime King's Husband Austin Sosa Files For Divorce - TMZ",
+      "description": null,
+      "url": "https://www.tmz.com/2026/01/22/jaime-king-austin-sosa-files-divorce/",
+      "urlToImage": null,
+      "source": "TMZ",
+      "publishedAt": "2026-01-23T02:13:21Z"
+    },
+    {
+      "title": "Victoria Beckham Stole Her Son's Romantic Wedding Dance With His Wife To Dance 'Very Inappropriately' On Him - OutKick",
+      "description": "If the mother of the groom can't make the wedding about herself, why is she even invited? Isn't that part of the whole song and dance?",
+      "url": "https://www.outkick.com/culture/victoria-beckham-stole-her-sons-romantic-wedding-dance-his-wife-dance-very-inappropriately-him",
+      "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2026/01/victoria-beckham-accused-of-grinding-on-her-on-brooklyn-at-his-wedding-during-inappropriate-dance.jpg",
+      "source": "Outkick.com",
+      "publishedAt": "2026-01-23T00:20:26Z"
+    },
+    {
+      "title": "Sundance 2026’s Buzziest Sales Titles Include Pics With Jenna Ortega, Charli XCX, Channing Tatum & A Docu EP’ed By Prince Harry & Meghan Markle - Deadline",
+      "description": null,
+      "url": "https://deadline.com/2026/01/sundance-2026-hot-list-movies-1236692079/",
+      "urlToImage": null,
+      "source": "Deadline",
+      "publishedAt": "2026-01-22T20:45:00Z"
+    },
+    {
+      "title": "Justin Baldoni’s Lawyer Invokes ‘Heated Rivalry’ to Defend Improvised Intimacy With Blake Lively on ‘It Ends With Us’ Set - Variety",
+      "description": "Justin Baldoni's lawyer invoked 'Heated Rivalry' in his argument that improvised intimacy on set does not amount to sexual harassment.",
+      "url": "https://variety.com/2026/film/news/justin-baldoni-heated-rivalry-blake-lively-it-ends-with-us-1236638167/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/12/GettyImages-2165117678.jpg?crop=0px%2C136px%2C3979px%2C2238px&resize=1000%2C563",
       "source": "Variety",
-      "publishedAt": "2026-01-21T20:22:00Z"
+      "publishedAt": "2026-01-22T20:01:00Z"
     },
     {
-      "title": "These 5 Kansas City area restaurants and bars are 2026 James Beard Award semifinalists - kcur.org",
-      "description": "Some of Kansas City’s most highly regarded culinary figures are among this year's nomiees, including Helen Jo Leach and Johnny Leach at The Town Company. The list also includes several new area restaurants.",
-      "url": "https://www.kcur.org/arts-life/2026-01-21/these-5-kansas-city-area-restaurants-and-bars-are-2026-james-beard-award-semifinalists",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/5527906/2147483647/strip/true/crop/1760x924+0+5/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F34%2Fc5f6546849d99134bdd41d5d318f%2Fjaysanders-copy.jpg",
-      "source": "KCUR",
-      "publishedAt": "2026-01-21T20:02:57Z"
-    },
-    {
-      "title": "FINAL 2026 Oscar Nomination Predictions in All 24 Categories - AwardsWatch",
-      "description": "Seemingly predicting the impossible with five films receiving 10+ nominations: Sinners (14), One Battle After Another (13), Frankenstein (11), Marty Supreme (11) and Hamnet (10). That’s not g…",
-      "url": "https://awardswatch.com/final-2026-oscar-nomination-predictions-in-all-24-categories/",
-      "urlToImage": "https://i0.wp.com/awardswatch.com/wp-content/uploads/2026/01/final-2026-oscar-predictions-in-all-24.png?fit=1200%2C675&ssl=1",
-      "source": "Awardswatch.com",
-      "publishedAt": "2026-01-21T19:38:48Z"
-    },
-    {
-      "title": "‘Mel Brooks: The 99 Year Old Man!’ Review: Judd Apatow’s HBO Doc Pays Loving, Lovely Tribute to a Comedy Giant - hollywoodreporter.com",
-      "description": "Co-directed by Mike Bonfiglio, the four-parter celebrates the 'Blazing Saddles' auteur, his friendship with Carl Reiner and his marriage to Anne Bancroft.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-reviews/mel-brooks-the-99-year-old-man-review-judd-apatow-hbo-1236479870/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/mel-brooks_4.jpeg?w=1440&h=810&crop=1",
+      "title": "Michael B. Jordan on ‘Sinners’ Breaking Records With 16 Oscar Noms: “Hard to Put Into Words” - hollywoodreporter.com",
+      "description": "The ‘Sinners’ star also earned his first-ever personal nomination for the film, recognition he says “is a solidifying feeling.”",
+      "url": "http://www.hollywoodreporter.com/movies/movie-features/michael-b-jordan-sinners-oscar-nomination-interview-1236481760/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2210278287.jpg?w=1440&h=810&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2026-01-21T19:22:14Z"
+      "publishedAt": "2026-01-22T19:12:17Z"
     },
     {
-      "title": "Sundance 2026 Hot List: Will New Films From Channing Tatum, Charli xcx and Natalie Portman Spark Bidding Wars? - Variety",
-      "description": "Films from Channing Tatum, Charli xcx, Olivia Wilde, Natalie Portman and more top the Sundance 2026 hot list.",
-      "url": "https://variety.com/2026/film/news/sundance-2026-hot-list-channing-tatum-charli-xcx-natalie-portman-1236635454/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/Sundance-2026-Buzz-Titles.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-01-21T18:33:00Z"
+      "title": "Harry Styles Is Playing 30 Nights at Madison Square Garden - Pitchfork",
+      "description": null,
+      "url": "https://pitchfork.com/news/harry-styles-is-playing-30-nights-at-madison-square-garden/",
+      "urlToImage": null,
+      "source": "Pitchfork",
+      "publishedAt": "2026-01-22T17:53:13Z"
     },
     {
-      "title": "Box Office: Chris Pratt’s ‘Mercy’ Targets $12 Million Debut, Aims to Dethrone ‘Avatar: Fire and Ash’ in Sixth Weekend - Variety",
-      "description": "Will Chris Pratt's \"Mercy\" dethrone\" Avatar: Fire and Ash\" at the weekend box office?",
-      "url": "https://variety.com/2026/film/box-office/mercy-box-office-projections-chris-pratt-avatar-fire-and-ash-1236635972/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/MCDMERC_MG019.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-01-21T17:26:00Z"
+      "title": "Star Wars: Maul – Shadow Lord Teaser Trailer and First Poster Arrive - StarWars.com",
+      "description": "Executive producers break down new characters and locations from the animated series, which premieres on Disney+ April 6, 2026, with the full cast announcement and a first look at the story to come.",
+      "url": "https://www.starwars.com/news/star-wars-maul-shadow-lord-first-trailer-poster-art",
+      "urlToImage": "https://lumiere-a.akamaihd.net/v1/images/maul-shadow-lord-teaser-trailer-feature_035a8b27.jpeg?region=0%2C0%2C1920%2C1080",
+      "source": "Star Wars",
+      "publishedAt": "2026-01-22T17:01:25Z"
     },
     {
-      "title": "Where are Elizabeth Smart's kidnappers now? Here's what became of Brian David Mitchell and Wanda Barzee - Entertainment Weekly",
-      "description": "'Kidnapped: Elizabeth Smart' looks back at the Utah teen's 2002 abduction by Brian David Mitchell and Wanda Barzee. With the documentary now on Netflix, here's a look at where her kidnappers are now.",
-      "url": "https://ew.com/where-are-elizabeth-smart-s-kidnappers-now-11888710",
-      "urlToImage": "https://ew.com/thmb/1LCkNPhLBAtG7Bpmj9WR4IB6Gp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kidnapped-Elizabeth-Smart-Brian-David-Mitchell-Wanda-Barzee-012026-75be12aadc63476685f73a65df6715e8.jpg",
+      "title": "Delroy Lindo scores first Oscar nomination at 73 after past snubs - Entertainment Weekly",
+      "description": "Beloved vet Delroy Lindo, who just earned his first-ever Oscar nomination for 'Sinners,' opened up to EW about having been long ignored by the Academy. 'One must keep working.'",
+      "url": "https://ew.com/delroy-lindo-first-oscar-nomination-sinners-after-snubs-11890317",
+      "urlToImage": "https://ew.com/thmb/qbDlqig9zlP_rftOEYaQQLn4zzc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Delroy-Lindo-Sinners-012226-d3f89125bbc54563bdf3cf8ee00ba438.jpg",
       "source": "Entertainment Weekly",
-      "publishedAt": "2026-01-21T17:13:11Z"
+      "publishedAt": "2026-01-22T16:48:31Z"
     },
     {
-      "title": "Phil Collins says he's under 24-hour care due to health challenges: 'Everything that could go wrong with me did' - Entertainment Weekly",
-      "description": "A week before his 75th birthday, Phil Collins opened up about his health challenges and journey with sobriety in a rare interview. 'It's just been a difficult, interesting, frustrating last few years.'",
-      "url": "https://ew.com/phil-collins-under-24-hour-care-health-challenges-11889475",
-      "urlToImage": "https://ew.com/thmb/t7AKkdx1qwZsfnrNw43rcKyy-7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Phil-Collins-012126-1-7d28d98f016042ab887f00fc88af1c18.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2026-01-21T16:50:31Z"
+      "title": "Nicki Minaj faces possible sale of $20m mansion after failing to pay $503k court judgment - International Business Times UK",
+      "description": "Nicki Minaj could lose her $20 million California mansion after failing to comply with a court order to pay $503,000 to a former employee, with a judge set to issue a final ruling this week.",
+      "url": "https://www.ibtimes.co.uk/nicki-minaj-risks-losing-20m-california-mansion-after-court-order-pay-503k-former-employee-1773113",
+      "urlToImage": "https://d.ibtimes.co.uk/en/full/1777150/nicki-minaj.png",
+      "source": "International Business Times UK",
+      "publishedAt": "2026-01-22T16:32:00Z"
     },
     {
-      "title": "Tenacious D’s Kyle Gass Joked About Trump Getting Shot. ‘I’ve Felt Terrible Ever Since’ - Rolling Stone",
-      "description": "In 2024, Tenacious D's Kyle Gass joked about Trump getting shot. In exclusive interview, he talks the group's future and making up with Jack Black.",
-      "url": "http://www.rollingstone.com/music/music-features/tenacious-d-kyle-gass-jack-black-donald-trump-interview-1235501791/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/01/20260114KyleGass0753.jpg?crop=0px%2C548px%2C1800px%2C1013px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-01-21T16:41:34Z"
+      "title": "Mercy movie review & film summary (2026) - Roger Ebert",
+      "description": "Screen-popping and kinetic but ultimately tiresome and borderline dopey.",
+      "url": "https://www.rogerebert.com/reviews/mercy-chris-pratt-rebecca-ferguson-ai-movie-review-2026",
+      "urlToImage": "https://www.rogerebert.com/wp-content/uploads/2026/01/mercyre.jpg",
+      "source": "Rogerebert.com",
+      "publishedAt": "2026-01-22T14:07:28Z"
     },
     {
-      "title": "'The Beauty' review: Ryan Murphy's latest is gorgeous, unhinged ridiculousness - Mashable",
-      "description": "It's bananas, but I think I love it.",
-      "url": "https://mashable.com/article/the-beauty-review-ryan-murphy",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07mP9jo7pDPU17w6l0gOVYF/hero-image.fill.size_1200x675.v1768952538.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-01-21T16:01:17Z"
-    },
-    {
-      "title": "Meghan Trainor Explains Why She Used Surrogate for Third Baby (Exclusive) - People.com",
-      "description": "Meghan Trainor opens up to PEOPLE exclusively about why she and husband Daryl Sabara chose to use a surrogate for their third baby. The pop star revealed in a Jan. 20, 2026 Instagram post that they had welcomed a daughter, Mikey Moon, on Jan. 18. \"It wasn't o…",
-      "url": "https://people.com/meghan-trainor-explains-why-she-used-surrogate-third-baby-exclusive-11889284",
-      "urlToImage": "https://people.com/thmb/F3hgwJCoOEf8LoKt7MsDuBWbEkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/meghan-trainor-baby-012126-781a84fa870f42fba42f5e61aed8e26a.jpg",
-      "source": "PEOPLE",
-      "publishedAt": "2026-01-21T15:35:48Z"
+      "title": "'Masters of the Universe' Trailer Unleashes the Power of Grayskull with First Look at Jared Leto's Skeletor - MovieWeb",
+      "description": "Nicholas Galitzine's He-Man battles Jared Leto's Skeletor in First Trailer for 'Masters of the Universe'",
+      "url": "https://movieweb.com/masters-of-the-universe-trailer-first-look-at-jared-leto-skeletor/",
+      "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/01/img_2026-01-22-141244.jpg?w=1600&h=900&fit=crop",
+      "source": "MovieWeb",
+      "publishedAt": "2026-01-22T14:05:09Z"
     }
   ]
 }
