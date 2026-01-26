@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-01-25T06:47:25.387Z",
+  "updatedAt": "2026-01-26T06:53:34.911Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock Market News for Jan. 23, 2026: Dow Drops; Intel Stock Slides - The Wall Street Journal",
-      "description": "Dollar tumbles against the yen, while gold prices hit record",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-23-2026",
-      "urlToImage": "https://images.wsj.net/im-34062673/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-24T03:23:00Z"
+      "title": "US Winter Storm Sets Off Power Grid Emergencies, Travel Chaos - Bloomberg",
+      "description": "A sprawling winter storm has grounded more than 14,500 flights around the US, triggered a grid emergency and knocked out power to thousands, all while threatening to drop a foot of snow on New York City and the rest of the Northeast corridor on Sunday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-25/winter-storm-shakes-energy-transportation-across-the-us",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ighcv2QGnJ5c/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-01-25T03:03:00Z"
     },
     {
-      "title": "Dow Jones Futures: Tesla, Microsoft, Meta, Apple Lead Earnings Wave; What To Do Now - Investor's Business Daily",
-      "description": "The major indexes are all above key levels, while small caps are at record highs.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-microsoft-meta-apple-earnings-wave-trump-week/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BigWavePipe-08-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-01-24T01:35:00Z"
-    },
-    {
-      "title": "Analyst sends blunt 3-word warning on Intel stock after earnings - thestreet.com",
-      "description": "Here’s what could be next for Intel stock.",
-      "url": "https://www.thestreet.com/investing/stocks/analyst-sends-blunt-3-word-warning-on-intel-stock-after-earnings",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODU3MTgx/gettyimages-2212049822-1.jpg",
+      "title": "Major Mexican dining chain shuts down locations, no bankruptcy - thestreet.com",
+      "description": "The Mexican restaurant chain closes multiple locations after evaluating the performance of its portfolio.",
+      "url": "https://www.thestreet.com/restaurants/torchys-tacos-closes-several-locations",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE3MDU3Mjg5NTU3Nzc5ODIz/closed-sign1-ko-081525.jpg",
       "source": "TheStreet",
-      "publishedAt": "2026-01-24T01:33:00Z"
+      "publishedAt": "2026-01-25T02:54:00Z"
     },
     {
-      "title": "Amazon staff cope with looming layoffs by roasting Jeff Bezos' '2-pizza rule' - Business Insider",
-      "description": "Amazon employees respond to expected layoffs and corporate job cuts by posting memes referencing  founder Jeff Bezos' two-pizza rule.",
-      "url": "https://www.businessinsider.com/amazon-employees-share-memes-layoffs-pizza-2026-1",
-      "urlToImage": "https://i.insider.com/690519770be9845f2dc586c5?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-01-23T23:28:00Z"
+      "title": "Up to 200,000 customers could lose power in Houston area, CenterPoint says in winter storm update - houstonchronicle.com",
+      "description": "CenterPoint says as many as 200,000 Houston-area customers could lose power during the winter storm rolling through Texas",
+      "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/centerpoint-houston-power-outage-21313515.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/57/22/27/29173236/3/rawImage.jpg",
+      "source": "Houston Chronicle",
+      "publishedAt": "2026-01-25T01:31:09Z"
     },
     {
-      "title": "Sudden Chaos in Japan’s Bond Market Puts Stock Bulls on Notice - Bloomberg",
-      "description": "From the start of the year, Japanese stocks surged on bets that Prime Minister Sanae Takaichi would cement power through a snap election and then ramp up spending. Then on Tuesday, the so-called Takaichi trade unraveled.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-23/sudden-chaos-in-japan-s-bond-market-puts-stock-bulls-on-notice",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKpOjTiVO9kI/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-01-23T23:00:00Z"
-    },
-    {
-      "title": "Tesla Removed Some Safety Monitors From Robotaxis. Now Musk Makes This FSD Warning. - Investor's Business Daily",
-      "description": "Tesla removed safety monitors Thursday from a few Model Y robotaxis in Austin.",
-      "url": "https://www.investors.com/news/tesla-stock-fresh-off-robotaxi-news-musk-makes-fsd-warning/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Tesla-ScreenInt-shut.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-01-23T22:48:00Z"
-    },
-    {
-      "title": "Is China quietly winning the AI race? - BBC",
-      "description": "The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.",
-      "url": "https://www.bbc.com/news/articles/c86v52gv726o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg",
+      "title": "Five ways weight-loss jabs are changing spending habits - BBC",
+      "description": "With GLP-1 drugs rising in popularity, how are businesses adapting to a new type of consumer?",
+      "url": "https://www.bbc.com/news/articles/cj6wy85l3x5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16b1/live/462ceee0-f7b0-11f0-a422-4ba8a094a8fa.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-01-23T22:31:33Z"
+      "publishedAt": "2026-01-25T01:11:19Z"
     },
     {
-      "title": "Why the dollar just had its worst week in 8 months despite Trump’s pivot on tariffs - MarketWatch",
-      "description": "The U.S. dollar swooned, but stocks and Treasurys bounced off lows after Trump’s pivot on Greenland",
-      "url": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7",
-      "urlToImage": "https://images.mktw.net/im-71520660/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-01-23T21:51:00Z"
+      "title": "U.S. to inject $1.6 billion into rare earths miner for 10% stake, FT reports - CNBC",
+      "description": "The miner has brought in Cantor Fitzgerald, chaired by Brandon Lutnick, son of Secretary of Commerce Howard Lutnick, to lead efforts to raise over $1 billion.",
+      "url": "https://www.cnbc.com/2026/01/24/us-rare-earths-miner.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108244283-1766166128397-gettyimages-2220669778-MAGNETS.jpeg?v=1766166208&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-25T01:11:00Z"
     },
     {
-      "title": "New NYC tipping rules for DoorDash, Uber Eats, Grubhub start Monday, judge says - gothamist.com",
-      "description": "DoorDash and Uber Eats aimed to block the rules, which require them to give users the option to tip at checkout.",
-      "url": "https://gothamist.com/news/new-nyc-tipping-rules-for-doordash-uber-eats-grubhub-start-monday-judge-says",
-      "urlToImage": "https://api-prod.gothamist.com/images/355100/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-01-23T21:51:00Z"
+      "title": "Winter storm service changes: January 25-26, 2026 - MTA",
+      "description": "A winter storm is expected to bring snow and frigid temperatures to our area this weekend. Here's how that will impact MTA service.",
+      "url": "https://www.mta.info/article/winter-storm-service-changes-january-25-26-2026",
+      "urlToImage": "https://www.mta.info/themes/custom/bootstrap_mta/images/social_image.jpg",
+      "source": "Mta.info",
+      "publishedAt": "2026-01-25T00:22:07Z"
     },
     {
-      "title": "Goldman Sachs Boosts CEO Solomon’s Pay 21% to $47 Million - Bloomberg",
-      "description": "Goldman Sachs Group Inc. boosted Chief Executive Officer David Solomon’s pay to $47 million, his biggest award ever and capping a year in which the investment bank’s shares soared and its leader reasserted his control at the top.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-23/goldman-sachs-boosts-ceo-david-solomon-s-pay-21-to-47-million",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4LmiqzsNQAs/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-01-23T21:27:35Z"
+      "title": "Live weather cameras | A look at conditions around the Louisville area in real time - wdrb.com",
+      "description": "Here's a feed of cameras around the Louisville area showing live weather conditions.",
+      "url": "https://www.wdrb.com/news/live-weather-cameras-a-look-at-conditions-around-the-louisville-area-in-real-time/article_f8bd649d-f963-43ed-9a3d-a31f4722ca6c.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/5/12/5129f512-6c92-412c-a48b-5979f9e05c30/697556124b9e4.image.jpg?crop=1297%2C681%2C0%2C53&resize=1200%2C630&order=crop%2Cresize",
+      "source": "WDRB",
+      "publishedAt": "2026-01-24T21:23:14Z"
     },
     {
-      "title": "Protests against ICE underway in Pittsburgh - triblive.com",
-      "description": "Hundreds of anti-immigration enforcement demonstrators protested Friday afternoon in Pittsburgh&rsquo;s East Liberty neighborhood &mdash; with the intention of speaking with management at the local Target store. &ldquo;Target says its mission is to help all f…",
-      "url": "https://triblive.com/news/politics-election/protests-against-ice-underway-in-pittsburgh/",
-      "urlToImage": "https://assets-varnish.triblive.com/2026/01/9227471_web1_ptr-iceprot.jpg",
-      "source": "TribLIVE",
-      "publishedAt": "2026-01-23T20:35:15Z"
-    },
-    {
-      "title": "What to know about Netflix’s landmark acquisition of Warner Bros. - TechCrunch",
-      "description": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
-      "url": "https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/AdobeStock_500522615_Editorial_Use_Only-scaled-1.webp?resize=1200,768",
+      "title": "Tech CEOs boast and bicker about AI at Davos - TechCrunch",
+      "description": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+      "url": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2026-01-23T20:31:27Z"
+      "publishedAt": "2026-01-24T20:00:46Z"
     },
     {
-      "title": "The U.S. has 'escalation dominance' in a debt war as Europe would face a violent market crash if it dumps Treasuries - Fortune",
-      "description": "Europe accounts for about a third of U.S. government bonds held overseas, or roughly 10% of the overall Treasury market.",
-      "url": "https://fortune.com/2026/01/23/us-debt-war-escalation-dominance-europe-treasury-bonds-weaponization/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2257589864-e1769180446201.jpg?resize=1200,600",
+      "title": "Tesla to increase Full Self-Driving subscription price: here’s when - Teslarati",
+      "description": "Tesla will increase its Full Self-Driving subscription price, meaning it will eventually be more than the current $99 per month price tag it has right now. Already stating that the ability to purchase the suite outright will be removed, Tesla CEO Elon Musk sa…",
+      "url": "https://www.teslarati.com/tesla-increase-full-self-driving-subscription-price-heres-when/",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/07/tesla-interior-navigation-fsd-1000x600.jpeg",
+      "source": "Teslarati",
+      "publishedAt": "2026-01-24T19:59:44Z"
+    },
+    {
+      "title": "Wiper malware targeted Poland energy grid, but failed to knock out electricity - Ars Technica",
+      "description": "Destructive payload unleashed on 10-year anniversary of Russia's attack on Ukraine's grid.",
+      "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-01-24T19:08:06Z"
+    },
+    {
+      "title": "H-E-B store hours amid the Texas winter storm - mysanantonio.com",
+      "description": "Despite a winter storm barreling down across Texas, including San Antonio and Austin, H-E-B appears to be operating normal hours, but Curbside is filling up.",
+      "url": "https://www.mysanantonio.com/business/article/heb-hours-21311416.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/55/50/20/28738580/3/rawImage.jpg",
+      "source": "mySA",
+      "publishedAt": "2026-01-24T18:11:15Z"
+    },
+    {
+      "title": "Public urged to cut back on electrical usage across central Indiana, southern Indiana - wthr.com",
+      "description": "A spokesperson for Hoosier Energy said \"high demand for electricity and tight power supplies throughout the Midwest are causing a serious power supply emergency.\"",
+      "url": "https://www.wthr.com/article/news/local/public-urged-to-cut-back-on-electrical-usage-across-central-indiana-southern-indiana-hoosier-energy/531-1665b0c0-20dc-4e42-8005-158cc9bc012c",
+      "urlToImage": "https://media.tegna-media.com/assets/WTHR/images/6a720315-4ca6-4f8d-9091-ce9948f03c8a/20250722T003048/6a720315-4ca6-4f8d-9091-ce9948f03c8a_1140x641.jpg",
+      "source": "WTHR",
+      "publishedAt": "2026-01-24T16:38:00Z"
+    },
+    {
+      "title": "Why long-lasting power outages could be a big problem after the storm - The Washington Post",
+      "description": "As elected officials and energy companies insist they are better prepared than ever for challenges that snow and ice bring, the coming storm will present yet another stiff test.",
+      "url": "https://www.washingtonpost.com/weather/2026/01/24/winter-storm-states-power-outage-plans/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WN45SXKWYVHXZP7W6GGJP2RDUY_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-01-24T16:31:43Z"
+    },
+    {
+      "title": "“Make Dulles Great Again” Airport Renderings Are In — Including A Trump Terminal And DJT People Movers - View from the Wing",
+      "description": "New “revitalize Dulles” renderings are in after a DOT request. For now it’s all concept work, not an approved project, but it tees up a real fight over who controls Dulles modernization, how it gets funded, and naming politics.",
+      "url": "https://viewfromthewing.com/make-dulles-great-again-airport-renderings-are-in-including-a-trump-terminal-and-djt-people-movers/",
+      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2026/01/trump-terminal-dulles.webp",
+      "source": "Viewfromthewing.com",
+      "publishedAt": "2026-01-24T15:04:12Z"
+    },
+    {
+      "title": "Wall Street Grapples With New Risk: A European Buyers’ Strike - Yahoo Finance",
+      "description": "A day later, his boss, President Donald Trump, predicted the US stock market would double from records he openly took credit for.  There’s a stark tension...",
+      "url": "https://finance.yahoo.com/news/wall-street-grapples-risk-european-140000668.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D1Jy8LkCwHpSTh8e6WmIHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/2234e43d30259530ed960fc958f8e345",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-01-24T14:00:00Z"
+    },
+    {
+      "title": "From $40 billion to $225 billion: Inside the Trump housing plan to radically change the mortgage bond buying plan - Fortune",
+      "description": "An email obtained by the AP reveals how Trump official Bill Pulte raised the caps on mortgage bond holdings at Fannie Mae and Freddie Mac.",
+      "url": "https://fortune.com/2026/01/24/what-happened-mortgage-bonds-trump-pulte-fannie-mae-freddie-mac/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/AP26009684539738-e1769262996824.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2026-01-23T20:20:00Z"
+      "publishedAt": "2026-01-24T13:59:00Z"
     },
     {
-      "title": "Nessel sues big oil companies, alleges cartel-like plot to control market - detroitnews.com",
-      "description": "The federal antitrust suit alleges the nation's largest oil companies had acted as a \"cartel\" to restrain trade and deter renewable energy competition",
-      "url": "https://www.detroitnews.com/story/news/politics/2026/01/23/nessel-sues-big-oil-companies-alleges-cartel-like-plot-to-control-market/88317102007/",
-      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/08/28/PDTN/85870501007-20250828-dgnessel-0752.jpg?crop=7645,4301,x4,y0&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "The Detroit News",
-      "publishedAt": "2026-01-23T20:11:00Z"
+      "title": "We're Only Three Weeks Into 2026 And These 32 People Have Already Posted The Dumbest Things I've Ever Seen In My Life - BuzzFeed",
+      "description": "Well, here's to 2027, I guess.",
+      "url": "https://www.buzzfeed.com/daves4/dumbest-things-people-posted-january-2026",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/23/18/thumb/phHtARFeV.jpg?crop=2500:1309;0,176%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-01-24T13:31:21Z"
     },
     {
-      "title": "Your Xcel Energy bill is already going up amid Colorado’s current winter storm. Here’s why. - coloradosun.com",
-      "description": "Xcel is already warning Coloradans of a natural gas price spike from this weekend's cold snap that will show up on their bills.",
-      "url": "http://coloradosun.com/2026/01/23/xcel-colorado-storm-price-increase-natural-gas/",
-      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/12/AP22356655088413.jpg",
-      "source": "The Colorado Sun",
-      "publishedAt": "2026-01-23T20:05:51Z"
+      "title": "Did everyone forget about DeepSeek? What Wall Street is getting wrong about Chinese AI. - MarketWatch",
+      "description": "Shares of U.S. hyperscalers seem to have put DeepSeek in the rearview mirror. But if you look closely, a different story emerges.",
+      "url": "https://www.marketwatch.com/story/did-everyone-forget-about-deepseek-what-wall-street-is-getting-wrong-about-chinese-ai-62cb8bcf",
+      "urlToImage": "https://images.mktw.net/im-54198946/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-01-24T13:30:00Z"
     },
     {
-      "title": "How the TikTok deal could tighten Trump’s cultural grip - Politico",
-      "description": "As Trump-friendly billionaires take control of TikTok’s U.S. operation, some see the beginnings of a ‘cultural vibe shift’ on the platform — and an echo of changes taking place across the U.S. media landscape.",
-      "url": "https://www.politico.com/news/2026/01/23/how-the-tiktok-deal-could-tighten-trumps-cultural-grip-00744497",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0d%2F8c%2Fc272f0a94911a1f5325bcde37aa8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237004309",
-      "source": "Politico",
-      "publishedAt": "2026-01-23T19:38:59Z"
+      "title": "AI in 2026 - Uncharted Territories | Tomas Pueyo",
+      "description": "The AI bubble, who will win, the rate of AI progress, are we getting close to AGI, the impact on jobs, and more.",
+      "url": "https://unchartedterritories.tomaspueyo.com/p/ai-in-2026",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!QH-C!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecbf4bdf-7f56-4569-93ab-f7f2dd6af5ce_1536x1024.png",
+      "source": "Tomaspueyo.com",
+      "publishedAt": "2026-01-24T13:02:15Z"
     },
     {
-      "title": "The Chevy Bolt EV never got a fighting chance as GM flips back to gas cars - Electrek",
-      "description": "The new Chevy Bolt EV just went into production at GM’s Fairfax plant in Kansas in November, but it won’t...",
-      "url": "http://electrek.co/2026/01/23/chevy-bolt-ev-never-got-chance-gm-flips-to-gas-cars/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Chevy-Bolt-EV-production-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-01-23T18:59:00Z"
-    },
-    {
-      "title": "BlackRock’s Rick Rieder surges in Federal Reserve chair race - Financial Times",
-      "description": "Donald Trump has said he plans to name his nominee to run the US central bank ‘in the not too distant future’",
-      "url": "https://www.ft.com/content/a9bad7cb-ff5f-41ca-abcd-be93e7e20cd1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F06d9cb7e-9fe3-4814-8842-e9311482ac1e.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-01-23T18:24:13Z"
+      "title": "These 4 charts capture the whirlwind action in global markets so far this year - MarketWatch",
+      "description": "Investors are facing tumult in Japan’s bond market, a big rally in small-cap stocks, and surging prices for natural gas, gold and silver. And the year has only just begun.",
+      "url": "https://www.marketwatch.com/story/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year-8f71103d",
+      "urlToImage": "https://images.mktw.net/im-50152591/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-01-24T13:00:00Z"
     }
   ]
 }
