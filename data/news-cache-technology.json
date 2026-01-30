@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2026-01-29T07:02:38.715Z",
+  "updatedAt": "2026-01-30T07:03:37.750Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Fatal Frame 2: Crimson Butterfly Remake Switch 2 Demo And Silent Hill f DLC Collab Announced - Nintendo Life",
-      "description": "The full game launches this March",
-      "url": "https://www.nintendolife.com/news/2026/01/fatal-frame-2-crimson-butterfly-remake-switch-2-demo-and-silent-hill-f-dlc-collab-announced",
-      "urlToImage": "https://images.nintendolife.com/20b4d0fd43875/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-01-28T01:05:00Z"
+      "title": "Villion: Code announced for Nintendo Switch 2 and Switch, new school RPG from Kouji Okada of Megami Tensei and Persona fame [update: trailer] - Nintendo Everything",
+      "description": "January 27: This week’s issue of Famitsu has revealed Villion: Code, which is in the works for Nintendo Switch 2 and Switch. A release is planned for June 25, 2026 in Japan. This is a new school RPG from Kouji Okada, the co-creator of Megami Tensei and Person…",
+      "url": "https://nintendoeverything.com/villion-code-announced-for-nintendo-switch-2-and-switch-new-school-rpg-from-kouji-okada-of-megami-tensei-and-persona-fame/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Villion-Code-1.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-01-29T03:27:34Z"
     },
     {
-      "title": "Samsung’s first Galaxy S26 teaser is for the ‘Privacy Display’ [Gallery] - 9to5Google",
-      "description": "Samsung is teasing the Galaxy S26’s new “Privacy display” feature in a series of new videos that showcase how the...",
-      "url": "http://9to5google.com/2026/01/27/samsung-galaxy-s26-privacy-display-teaser/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/samsung-galaxy-s25-ultra-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Galaxy S26 phones look sleek in new official-looking photos - PhoneArena",
+      "description": "A case listing reveals the official design of the Galaxy S26, S26+, and S26 Ultra.",
+      "url": "https://www.phonearena.com/news/galaxy-s26-plus-ultra-final-design_id177769",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/177769-wide-two_1200/Galaxy-S26-phones-look-sleek-in-new-official-looking-photos.jpg",
+      "source": "PhoneArena",
+      "publishedAt": "2026-01-29T01:23:31Z"
+    },
+    {
+      "title": "Android Gets Enhanced Set of Theft Protection Feature Updates - Droid Life",
+      "description": "Android is getting a host of new theft protection updates from Google, designed for users on Android 16+. The updates are being built onto existing features, “designed to give you greater peace of mind by making your device a much harder target for criminals.…",
+      "url": "https://www.droid-life.com/2026/01/28/android-theft-protection-updates/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/01/Android-Theft-Protection-2292x1200-cropped.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-01-28T23:26:40Z"
+    },
+    {
+      "title": "Disney Afternoon Collection Finally Announced for Nintendo Switch Consoles With February Release Date and 2 New Games - IGN",
+      "description": "The nostalgia-packed The Disney Afternoon Collection finally has a Nintendo Switch and Nintendo Switch 2 release date, and it’s bringing two more games for patient fans.",
+      "url": "https://www.ign.com/articles/disney-afternoon-collection-finally-announced-for-nintendo-switch-consoles-with-february-release-date-and-2-new-games",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/01/28/the-disney-afternoon-collection-is-coming-to-nintendo-switch-and-switch-2-1769634681047.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-01-28T23:04:52Z"
+    },
+    {
+      "title": "Seven things to know about how Apple's Creator Studio subscriptions work - Ars Technica",
+      "description": "For the Mac versions of pro apps, things aren't actually changing much (yet).",
+      "url": "https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Screenshot-2026-01-28-at-4.09.33-PM-1152x648.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-01-28T21:53:57Z"
+    },
+    {
+      "title": "Warning: These Continuity Features Are Broken on Latest iOS 26.3 and iPadOS 26.3 Betas - MacRumors",
+      "description": "Users of Apple's latest iPhone and iPad Pro models who have been beta testing iOS 26.3 and iPadOS 26.3 may want to hold off on updating to the...",
+      "url": "https://www.macrumors.com/2026/01/28/continuity-features-broken-ios-26-3-beta/",
+      "urlToImage": "https://images.macrumors.com/t/RK_1FNg1HVfWsvjvo-Xhd3b5EwU=/1600x/article-new/2026/01/iphone-mirroring-blue.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-01-28T21:51:16Z"
+    },
+    {
+      "title": "Xbox Revenue Declines As Microsoft Reports FY26 Q2 Earnings - Insider Gaming",
+      "description": "Microsoft delivered strong FY26 Q2 earnings, but Xbox struggled as hardware revenue dropped 32% and content growth slowed.",
+      "url": "https://insider-gaming.com/xbox-revenue-declines-microsoft-earnings/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2025/07/xbox-layoffs.jpg",
+      "source": "Insider-gaming.com",
+      "publishedAt": "2026-01-28T21:50:18Z"
+    },
+    {
+      "title": "The Amount Google's AI Knows About You Will Cause an Uncomfortable Prickling Sensation on Your Scalp - Futurism",
+      "description": "Google has released a new \"Personal Intelligence\" feature that lets its AI go through an alarming amount of your data.",
+      "url": "http://futurism.com/artificial-intelligence/google-ai-knows-about-you-uncomfortable",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/google-ai-knows-about-you-uncomfortable.jpg?w=1200",
+      "source": "Futurism",
+      "publishedAt": "2026-01-28T19:09:32Z"
+    },
+    {
+      "title": "Moltbot Is Taking Over Silicon Valley - WIRED",
+      "description": "People are letting the viral AI assistant formerly known as Clawdbot run their lives, regardless of the privacy concerns.",
+      "url": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
+      "urlToImage": "https://media.wired.com/photos/69793a0b5294d9145baa708c/191:100/w_1280,c_limit/AI-Lab-The-Power-and-Peril-of-Clawdbot-Business.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-01-28T19:01:00Z"
+    },
+    {
+      "title": "Windows 11 will support resuming Spotify, web browsing, and other apps from Android - 9to5Google",
+      "description": "Microsoft might’ve ditched Android apps in Windows 11 a couple of years ago, but that doesn’t mean it’s abandoned cross-platform...",
+      "url": "http://9to5google.com/2026/01/28/windows-11-android-cross-device-resume-spotify-office-browsing/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/surface-laptop-7-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-01-27T23:25:00Z"
+      "publishedAt": "2026-01-28T18:13:00Z"
     },
     {
-      "title": "Microsoft promises behind the scenes platform changes on Windows 11 in 2026 - Windows Central",
-      "description": "After a rough few weeks, Microsoft has promised to make behind-the-scenes platform changes to Windows 11 as it begins testing the next wave of features.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-vows-to-make-behind-the-scenes-platform-changes-as-it-begins-testing-next-phase-of-windows-11",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UsYxGPC6eFnVyC7C3weAtj-2048-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2026-01-27T23:08:59Z"
+      "title": "Photos: Samsung’s 25W Magnetic Charging Puck for Galaxy S26 Series - Droid Life",
+      "description": "We keep seeing upcoming accessories for the Galaxy S26 series, all basically confirming the lineup’s support for the Qi2 charging standard. In simple terms, that means magnets. The latest is a few photos of the Magnet Wireless Charger made by Samsung. The pho…",
+      "url": "https://www.droid-life.com/2026/01/28/photos-samsungs-25w-magnetic-charging-puck-for-galaxy-s26-series/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/01/Galaxy-S26-Magnetic-Charger-1200x628-cropped.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-01-28T17:53:35Z"
     },
     {
-      "title": "Android’s full desktop interface leaks: New status bar, Chrome Extensions, more [Video] - 9to5Google",
-      "description": "A Google bug report on the Chromium Issue Tracker today has inadvertently leaked the Android desktop interface for the first time.",
-      "url": "http://9to5google.com/2026/01/27/android-desktop-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/hp-dragonfly-pro-chromebook-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-01-27T22:02:00Z"
+      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware - The Hacker News",
+      "description": "A fake VS Code extension posing as a Moltbot AI assistant installed ScreenConnect malware, giving attackers persistent remote access to developer syst",
+      "url": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDOoAyo7J2datj6fehqndPoEoXI2bIED_JR3Wiyi-XWBhzWlStRSgOUjJ9XGw8Wf5r5l-Vc3KIWs6ELAT_4MH-EgTiGYsrOI4JGGlYTTRYA9GhfAzRmzpzufVSOMTP8xdDA7Z68BE1mkdbPEmDSVWkfEeM6FmEMoDdjPcuEs5oSeoU0ZRqWNGgSV79rIc/s1700-e365/moltbot.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-01-28T17:46:00Z"
     },
     {
-      "title": "Ubisoft Increases 'Just Dance' Subscription Prices In The Wake Of Restructuring & Cuts - Nintendo Life",
-      "description": "Money+",
-      "url": "https://www.nintendolife.com/news/2026/01/ubisoft-increases-just-dance-subscription-prices-in-the-wake-of-restructuring-and-cuts",
-      "urlToImage": "https://images.nintendolife.com/75eeb602fd14e/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-01-27T21:30:00Z"
-    },
-    {
-      "title": "Apple Watch hypertension notifications now supported in seven additional countries - 9to5Mac",
-      "description": "Apple Watch hypertension alerts are rolling out to users in select countries across Asia, Oceania, South America, and the Middle East.",
-      "url": "https://9to5mac.com/2026/01/27/apple-watch-hypertension-notifications-now-supported-in-seven-additional-countries/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/hypertension-apple-watch-ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-01-27T21:12:00Z"
-    },
-    {
-      "title": "A New King of Handhelds? Intel Stock (NASDAQ:INTC) Jumps With New Panther Lake Details - TipRanks",
-      "description": "Things have been rough lately for chip stock Intel ($INTC), but one potential winner of a point emerged today as Intel looks like it is more ready than ever before",
-      "url": "https://www.tipranks.com/news/a-new-king-of-handhelds-intel-stock-nasdaqintc-jumps-with-new-panther-lake-details",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/01/intel-shutterstock_2049884693-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-01-27T20:35:42Z"
-    },
-    {
-      "title": "Gemini 3 Flash’s new ‘Agentic Vision’ improves image responses - 9to5Google",
-      "description": "Agentic Vision is a new capability for Gemini 3 Flash to make image-related tasks more accurate by “grounding answers in visual evidence.”",
-      "url": "http://9to5google.com/2026/01/27/gemini-3-flash-agentic-vision/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-3-Flash-Agentic-Vision-cover1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-01-27T19:40:00Z"
-    },
-    {
-      "title": "WinRAR path traversal flaw still exploited by numerous hackers - BleepingComputer",
-      "description": "Multiple threat actors, both state-sponsored and financially motivated, are exploiting the CVE-2025-8088 high-severity vulnerability in WinRAR for initial access and to deliver various malicious payloads.",
-      "url": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/10/18/winrar-malicious.png",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-01-27T19:38:24Z"
-    },
-    {
-      "title": "Grounded 2 Update: The Toxic Tangle – Available Now - Xbox Wire",
-      "description": "The Toxic Tangle update is available now, expanding Grounded 2 with a massive new Garden biome,, new creatures and gear including a new mount, the mysterious Tang effect, and much more.",
-      "url": "https://news.xbox.com/en-us/2026/01/27/grounded-2-update-the-toxic-tangle-available-now/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/G2_LADYBUG_Hero-f18e0641ff659fe61d63.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-01-27T18:13:33Z"
-    },
-    {
-      "title": "Resident Evil Requiem Not An Open-World Game - Kotaku",
-      "description": "Resident Evil Requiem game director Koshi Nakanishi reassured fans in Game Informer interview: Requiem isn't open-world.",
-      "url": "https://kotaku.com/resident-evil-requiem-not-open-world-capcom-2000663537",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/08/GyvXtduXoAA8Jjc-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-01-27T17:34:03Z"
-    },
-    {
-      "title": "34.4.2 Patch Notes - Blizzard Entertainment",
-      "description": "Check out the latest balance changes for Hearthstone, Arena, and Battlegrounds.",
-      "url": "https://playhearthstone.com/en-gb/blog/24244400/",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/k5/K5F11X5LUOTY1769045517030.jpg",
-      "source": "Playhearthstone.com",
-      "publishedAt": "2026-01-27T17:18:18Z"
-    },
-    {
-      "title": "Why There's Simply No Need For An iPad Anymore - bgr.com",
-      "description": "Apple may finally be releasing the iPhone Fold this year, as well as a MacBook with touchscreen capabilities, eliminating the need for an iPad.",
-      "url": "https://www.bgr.com/2081519/why-no-one-needs-ipads-anymore/",
-      "urlToImage": "https://www.bgr.com/img/gallery/why-theres-simply-no-need-for-an-ipad-anymore/l-intro-1769013872.jpg",
+      "title": "Samsung's Cool New Gadget Has The First Display Of Its Kind In The World - bgr.com",
+      "description": "The 13-inch Samsung Color E-Paper features the world's first display housing made in part with a bio-resin crafted from phytoplankton, a type of microalgae.",
+      "url": "https://www.bgr.com/2087342/samsung-cool-new-gadget-e-reader-world-first-display/",
+      "urlToImage": "https://www.bgr.com/img/gallery/samsungs-cool-new-gadget-has-the-first-display-of-its-kind-in-the-world/l-intro-1769622010.jpg",
       "source": "BGR",
-      "publishedAt": "2026-01-27T17:17:00Z"
+      "publishedAt": "2026-01-28T17:44:10Z"
     },
     {
-      "title": "Google AI Overviews follow up questions jump you directly to AI Mode - Search Engine Land",
-      "description": "This will result in less traffic to your site and more traffic to Google's AI Mode. Plus, Gemini 3 is now powering all AI Overviews globally by default.",
-      "url": "https://searchengineland.com/google-ai-overviews-follow-up-questions-jump-you-directly-to-ai-mode-468016",
-      "urlToImage": "https://searchengineland.com/wp-content/seloads/2026/01/google-robot-laptop-1920.jpg",
-      "source": "Search Engine Land",
-      "publishedAt": "2026-01-27T17:00:00Z"
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+      "url": "https://www.marvelrivals.com/20260128/41525_1284020.html",
+      "urlToImage": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "source": "Marvelrivals.com",
+      "publishedAt": "2026-01-28T17:05:45Z"
     },
     {
-      "title": "Android phones are getting more anti-theft features - TechCrunch",
-      "description": "Google says Android devices will get new security features, like stronger authentication safeguards and enhanced recovery tools.",
-      "url": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/Pixel-10-Pro-feat-.jpg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-01-27T17:00:00Z"
+      "title": "Manage a group of ex-supervillains who are given one last shot at redemption in Dispatch, available now - nintendo.com",
+      "description": "Shop now on Nintendo.com or Nintendo eShop. Manage a group of ex-supervillains who are given one last shot at redemption!",
+      "url": "https://www.nintendo.com/us/whatsnew/manage-a-group-of-ex-supervillains-who-are-given-one-last-shot-at-redemption-in-dispatch-available-now/",
+      "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+      "source": "Nintendo.com",
+      "publishedAt": "2026-01-28T17:00:45Z"
     },
     {
-      "title": "“Breathtaking” Leaked Pre-Alpha Images of Prince of Persia: Sands of Time Remake are Salt in the Wound for Fans in Mourning - Wccftech",
-      "description": "Leaked images of an early Prince of Persia: Sands of Time Remake build are breathtaking according to fans who are now more upset at Ubisoft",
-      "url": "https://wccftech.com/breathtaking-leaked-pre-alpha-images-of-prince-of-persia-sands-of-time-remake-are-salt-in-the-wound-for-fans-in-mourning/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Prince-of-Persia-Sands-of-Time-Remake-Leaked-Footage.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-01-27T16:52:00Z"
+      "title": "PlayStation Plus Free Games For February 2026 Revealed - GameSpot",
+      "description": "Here's the list of free games that PS Plus subscribers can claim in February 2026.",
+      "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-february-2026/1100-6537632/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4640544-february2026psplus.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-01-28T16:59:14Z"
     },
     {
-      "title": "Minecraft 26.1 Snapshot 5 - Minecraft",
-      "description": "Minecraft 26.1 Snapshot 5",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5",
-      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/26.1-snapshot-5%201170x500.jpg",
-      "source": "Minecraft.net",
-      "publishedAt": "2026-01-27T16:08:30Z"
+      "title": "iOS 26.2.1—Update Now Warning Issued To Millions Of iPhone Users - Forbes",
+      "description": "Apple has released iOS 26.2.1, an important update that all iPhone users should apply now. Here's what you need to know.",
+      "url": "https://www.forbes.com/sites/kateoflahertyuk/2026/01/28/ios-2621-update-now-warning-issued-to-millions-of-iphone-users/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/693d2bc81607dd2aa1d99822/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-01-28T16:43:00Z"
+    },
+    {
+      "title": "Ryzen 9850X3D review: AMD’s bragging-rights gaming CPU gets more to brag about - Ars Technica",
+      "description": "The tradeoffs in the $499 9850X3D make it hard to get excited about.",
+      "url": "https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-01-28T16:41:40Z"
+    },
+    {
+      "title": "Leak shows Google’s new Aluminium OS in action for the first time - PCWorld",
+      "description": "In screenshots and videos, we get a first peek at Google's new operating system that combines Android and ChromeOS.",
+      "url": "https://www.pcworld.com/article/3045882/leak-shows-googles-new-aluminium-os-in-action-for-the-first-time.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/Google-leaked-screenshot-of-Aluminium-OS-first-peek-1.jpg?quality=50&strip=all&w=1024",
+      "source": "PCWorld",
+      "publishedAt": "2026-01-28T15:26:00Z"
     }
   ]
 }

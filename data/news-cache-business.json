@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-01-29T07:02:38.768Z",
+  "updatedAt": "2026-01-30T07:03:37.850Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "S&P 500 futures climb ahead of Fed decision, major tech earnings: Live updates - CNBC",
-      "description": "The S&P 500 climbed to a new all-time high and closed at a record on Tuesday as traders eagerly awaited earnings from major tech companies.",
-      "url": "https://www.cnbc.com/2026/01/27/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108257698-1769534842387-Traders-Photo-20260127-KK-PRESS-014.jpg?v=1769535031&w=1920&h=1080",
+      "title": "Deutsche Bank beats profit expectations in fourth-quarter earnings - CNBC",
+      "description": "Deutsche Bank's net profit attributable to shareholders came in at 1.3 billion euros.",
+      "url": "https://www.cnbc.com/2026/01/29/deutsche-bank-q4-earnings-2025-profits-revenues-german-lender.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108010300-1721732502170-gettyimages-2159801467-20240702_deutsche_bank_004.jpeg?v=1769669075&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-01-28T06:45:00Z"
+      "publishedAt": "2026-01-29T06:12:42Z"
     },
     {
-      "title": "Trump’s Embrace of Weaker Dollar Fuels Bets on New Downtrend - Bloomberg.com",
-      "description": "President Donald Trump’s relaxed tone about the dollar selloff is fueling speculation the US currency is at the start of a longer-term decline.",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-28/trump-s-embrace-of-weaker-dollar-seen-as-start-of-new-downtrend",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq5Dr6biluXU/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-01-28T06:12:00Z"
-    },
-    {
-      "title": "Amazon accidentally sends email confirming layoffs - BBC",
-      "description": "The message was apparently sent in error hours before workers were expecting thousands of job cuts to be announced.",
-      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ceca/live/1b3c5410-faf7-11f0-8d99-4d63080b9583.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-28T03:19:23Z"
-    },
-    {
-      "title": "Tech leaders’ alliance with Trump is tested by a killing in Minneapolis - The Washington Post",
-      "description": "Silence from top executives who once criticized President Donald Trump has sparked frustration as senior Silicon Valley figures speak out against his immigration policy.",
-      "url": "https://www.washingtonpost.com/technology/2026/01/27/tech-criticism-trump-ice-pretti/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GVQAHRTF5B7EM2HECFYAAPYWUY.jpg&w=1440",
+      "title": "Fed holds rates steady, signaling risks to economy are dropping - The Washington Post",
+      "description": "The central bank opted for its first pause after three rate cuts last year, as officials wait for clearer signs that inflation is cooling.",
+      "url": "https://www.washingtonpost.com/business/2026/01/28/fed-pauses-rate-cuts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZVJO3JYO54HPP5JQIBNLNOZFU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-01-28T02:45:54Z"
+      "publishedAt": "2026-01-29T02:33:54Z"
     },
     {
-      "title": "UPS to cut 30,000 jobs as it moves away from Amazon - BBC",
-      "description": "The parcel delivery giant says it is cutting back on low-profit deliveries for the online retailer.",
-      "url": "https://www.bbc.com/news/articles/cdxjpj7j754o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/860a/live/617f9780-fbf0-11f0-87b3-73f1ffad89c1.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-28T02:26:41Z"
+      "title": "Amazon’s AI push raises employee climate, layoff concerns - The Seattle Times",
+      "description": "Amid data center expansions and layoffs, concern is growing among Amazon employees over AI's climate impact.",
+      "url": "https://www.seattletimes.com/business/amazon/amazons-ai-push-raises-employee-climate-layoff-concerns/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/01/01282026_tzr_tzr_172207.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2026-01-29T01:52:09Z"
     },
     {
-      "title": "Trump to urge families to open Trump Accounts as tax season begins - ABC News",
-      "description": null,
-      "url": "https://abcnews.go.com/Politics/trump-urge-families-open-trump-accounts-tax-season/story?id\\\\u003d129611160",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2026-01-28T00:58:38Z"
-    },
-    {
-      "title": "Amazon Fresh grocery store closures include 10 in the suburbs - dailyherald.com",
-      "description": "Amazon on Tuesday announced plans to shutter its brick-and-mortar Amazon Fresh and Amazon Go stores, including 10 locations in the suburbs. Amazon Fresh grocery stores are in Arlington Heights, Bloomi...",
-      "url": "https://www.dailyherald.com/20260127/news/amazon-fresh-grocery-store-closures-include-10-in-the-suburbs/",
-      "urlToImage": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=d7d20f2d-7a92-52b6-ba96-936cb39a775e&function=fit&type=preview",
-      "source": "Chicago Daily Herald",
-      "publishedAt": "2026-01-28T00:42:12Z"
-    },
-    {
-      "title": "ADM to pay $40 million in US SEC settlement, avoids criminal charges - Yahoo Finance",
-      "description": "WASHINGTON, Jan 27 (Reuters) - Grain trader Archer-Daniels-Midland Company will pay a $40 million civil penalty after the U. Securities and Exchange...",
-      "url": "https://finance.yahoo.com/news/adm-pay-40-million-us-003303571.html",
-      "urlToImage": "https://s.yimg.com/os/en/reuters.com/771efb0679590fb5e703ab4eeaa95302",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-28T00:33:00Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Slips 400 Points; UnitedHealth Stock Slides After Earnings — Live Updates - The Wall Street Journal",
-      "description": "S&P hits new high; dollar slumps on new Trump comments",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-27-2026",
-      "urlToImage": "https://images.wsj.net/im-34062673/social",
+      "title": "Microsoft’s Earnings Surge Is Overshadowed by Data-Center Spending - The Wall Street Journal",
+      "description": "Higher-than-anticipated capital spending and slower growth in cloud computing weigh on shares",
+      "url": "https://www.wsj.com/tech/ai/microsofts-earnings-surge-elevated-by-cloud-business-251829c2",
+      "urlToImage": "https://images.wsj.net/im-64908296/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-01-28T00:05:00Z"
+      "publishedAt": "2026-01-29T00:28:00Z"
     },
     {
-      "title": "Asia markets open mostly higher after S&P 500 hits record, South Korea pushes fresh highs - CNBC",
-      "description": "Markets across Asia extended gains Wednesday after a record close on Wall Street, with Australia’s inflation release in focus.",
-      "url": "https://www.cnbc.com/2026/01/28/asia-markets-today-wednesday-hang-seng-index-nikkei-225-kospi-inflation-yen-australia-cpi.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242349-1765891861943-gettyimages-1131691816-_sto7685-1.jpeg?v=1765895184&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-27T23:59:06Z"
+      "title": "Tesla profits slumped 46% last year, as it lost its crown as the top EV seller - NPR",
+      "description": "The company announced it was ending production of its higher-end Model S and Model Y, and turning that production space over to making humanoid robots.",
+      "url": "https://www.npr.org/2026/01/28/nx-s1-5684154/tesla-earnings-2025",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F73%2F4bfced234220bae0205c4bd172fc%2Fap23207689478887.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-01-29T00:01:39Z"
     },
     {
-      "title": "Meta is spending millions to convince people that data centers are cool and you like them - The Verge",
-      "description": "Meta spent $6.4 million on an ad campaign attempting to win over viewers to the construction of new data centers, in response to growing backlash over energy costs.",
-      "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951355/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-01-27T23:53:53Z"
+      "title": "Bessent touts Trump Accounts as rainy day fund and slams critics as \"out of touch\" - CBS News",
+      "description": "Treasury Secretary Scott Bessent emphasized the benefits of Trump Accounts and addressed affordability concerns in an interview with CBS News.",
+      "url": "https://www.cbsnews.com/news/trump-accounts-scott-bessent-treasury-secretary/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/28/4f9d5881-0f6b-4efb-8b40-bc7fb8b5f8f2/thumbnail/1200x630g2/f0c1fc7f5eb99bed2c7420d701ba7556/gettyimages-2258137313.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-01-28T23:24:00Z"
     },
     {
-      "title": "Anthropic CEO issues dire AI warning. Here's what he gets wrong. - Mashable",
-      "description": "Dario Amodei falls into the same traps he warns about.",
-      "url": "https://mashable.com/article/opinion-anthropic-ceo-dario-amodei-essay-warning-artificial-intelligence",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/012uOQiMzgGE1MxZwh1A7wn/hero-image.fill.size_1200x675.v1769480595.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-01-27T23:15:00Z"
+      "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026 - TechCrunch",
+      "description": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
+      "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
+      "source": "TechCrunch",
+      "publishedAt": "2026-01-28T23:16:02Z"
     },
     {
-      "title": "Flight Attendants Are Sleeping On Airport Floors — American Airlines Has Lost Track Of Crews While They Cancel Nearly 10,000 Flights - View from the Wing",
-      "description": "American’s winter-storm disruption has turned into something worse than weather: nearly 10,000 cancellations and reports that the airline has effectively lost track of crews, leaving flights short of pilots or flight attendants even when aircraft are ready to…",
-      "url": "https://viewfromthewing.com/flight-attendants-are-sleeping-on-airport-floors-american-airlines-has-lost-track-of-crews-while-they-cancel-nearly-10000-flights/",
-      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2020/09/Flight-service-group.jpeg",
+      "title": "IREN, Cipher Mining (CIFR) and Hut 8 (HUT) could be set to add to AI-related gains - CoinDesk",
+      "description": "In its fourth quarter earnings report, Meta said capital spending plans for 2026 should be in the range of $115-$135 billion, well ahead of consensus forecasts.",
+      "url": "https://www.coindesk.com/markets/2026/01/28/meta-and-microsoft-continue-going-big-on-ai-spending-here-s-how-bitcoin-miners-could-benefit",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/56453a2e6db3c22213e237056935b08c68f8e043-612x396.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-01-28T23:09:19Z"
+    },
+    {
+      "title": "World token jumps 27% as Sam Altman reportedly eyes a biometric social network to kill off bots - CoinDesk",
+      "description": "The WLD token surged after Forbes reported that Sam Altman's OpenAI is planning to use Worldcoin to fight bots online.",
+      "url": "https://www.coindesk.com/business/2026/01/28/world-token-jumps-27-as-sam-altman-reportedly-eyes-a-biometric-social-network-to-kill-off-bots",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/132d05dd6e7ac3319223bc9f01ba0feb99e81ce9-1024x683.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-01-28T22:47:01Z"
+    },
+    {
+      "title": "Carvana Dives After Short Seller Criticizes Ties To Lenders - Investor's Business Daily",
+      "description": "Carvana stock fell about 20% on Wednesday after a short-seller report alleged the company's earnings depended on shaky loans.",
+      "url": "https://www.investors.com/news/carvana-short-seller-report/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/05/IT07_carvana_051018_news.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-01-28T22:23:00Z"
+    },
+    {
+      "title": "US stocks hold near their all-time high while the dollar’s value stabilizes - AP News",
+      "description": "Few ripples washed through Wall Street after the Federal Reserve decided to keep its main interest rate steady, just like investors expected. The U.S. stock and bond markets each remained at a virtual standstill on Wednesday, while the U.S. dollar stabilized …",
+      "url": "https://apnews.com/article/stocks-markets-gold-dollar-trump-fab8069d207df512c2c95994285ecac6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/703d3f3/2147483647/strip/true/crop/4919x3278+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F15%2F63ae9962851f2ea5e4b9900596aa%2F2362b1203c1943ab86680549f7ed8939",
+      "source": "Associated Press",
+      "publishedAt": "2026-01-28T22:22:00Z"
+    },
+    {
+      "title": "Lisa Cook lawsuit is ‘the most important legal case’ in Fed history, Powell says - Politico",
+      "description": "The central bank chief defended his decision to attend the Supreme Court argument on Trump's move to fire his Fed colleague.",
+      "url": "https://www.politico.com/news/2026/01/28/powell-lisa-cook-lawsuit-is-the-most-important-legal-case-in-the-feds-history-00753346",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F68%2F37%2F894c170442e8b8f201c7f2273c93%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2221374570",
+      "source": "Politico",
+      "publishedAt": "2026-01-28T22:13:21Z"
+    },
+    {
+      "title": "Tesla to invest $2B in Elon Musk’s xAI - TechCrunch",
+      "description": "Elon Musk's AI company xAI disclosed earlier this month it had raised $20 billion.",
+      "url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-01-28T21:52:21Z"
+    },
+    {
+      "title": "Home Depot to cut 800 corporate jobs, require workers back to office full time - ajc.com",
+      "description": "Home Depot says it is eliminating about 800 corporate jobs tied to its Vinings headquarters.",
+      "url": "https://www.ajc.com/business/2026/01/home-depot-to-cut-800-corporate-jobs-require-workers-back-to-office-full-time/",
+      "urlToImage": "https://images.ajc.com/resizer/v2/DFWXDZNT6ZAVRCPMCVZYZQADKE.JPG?auth=366c48c6cef50759fd1f180e69a8bf0c86626fa3be7f7faa9d10b1654de4c09a&width=1200&height=630&smart=true",
+      "source": "Atlanta Journal Constitution",
+      "publishedAt": "2026-01-28T20:35:06Z"
+    },
+    {
+      "title": "Starbucks scraps $250,000 cap on boss's use of company jet - BBC",
+      "description": "The coffee chain changes Brian Niccol's travel budget due to media attention and \"credible threat actors\".",
+      "url": "https://www.bbc.com/news/articles/c20gy48571po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f560/live/f1ac8b10-fc77-11f0-8e2e-b175b7c5e0d9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-01-28T20:16:05Z"
+    },
+    {
+      "title": "Target's incoming CEO addresses 'Minneapolis violence' in memo to employees - bringmethenews.com",
+      "description": "In a message to employees, the incoming CEO at Minneapolis-based Target called the two recent fatal shootings of residents by immigration agents “extremely painful.”   In a video message sent to workers on Monday and obtained by CNBC, Michael Fiddelke said “t…",
+      "url": "https://bringmethenews.com/minnesota-business/targets-incoming-ceo-addresses-minneapolis-violence-in-memo-to-employees",
+      "urlToImage": "https://bringmethenews.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_345%2Cy_307/MjE3MTY5NjIyODE2NzkzOTY4/michael-fiddelke.jpg",
+      "source": "Bring Me The News",
+      "publishedAt": "2026-01-28T19:46:07Z"
+    },
+    {
+      "title": "I Flew Southwest On Day One Of Assigned Seating — The Boarding Was A Mess And Bin Space Was Chaos - View from the Wing",
+      "description": "I didn’t plan to be a guinea pig for Southwest’s first day of assigned seating, but after American’s storm cancellations and operational meltdown I rebooked—and got a front-row seat to the new boarding reality. Seats may now be assigned, but the gate process …",
+      "url": "https://viewfromthewing.com/i-flew-southwest-on-day-one-of-assigned-seating-the-boarding-was-a-mess-and-bin-space-was-chaos/",
+      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2026/01/20260127_151911-1024x768.jpg",
       "source": "Viewfromthewing.com",
-      "publishedAt": "2026-01-27T22:04:54Z"
-    },
-    {
-      "title": "CMS Announces Selection of Drugs for Third Cycle of Medicare Drug Price Negotiation Program, Including First-Ever Part B Drugs - Centers for Medicare & Medicaid Services | CMS (.gov)",
-      "description": "CMS Announces Selection of Drugs for Third Cycle of Medicare Drug Price Negotiation Program, Including First-Ever Part B DrugsNegotiations Will Occur in 2026 With Negotiated Prices Effective in 2028",
-      "url": "https://www.cms.gov/newsroom/press-releases/cms-announces-selection-drugs-third-cycle-medicare-drug-price-negotiation-program-including-first",
-      "urlToImage": null,
-      "source": "Cms.gov",
-      "publishedAt": "2026-01-27T21:53:51Z"
-    },
-    {
-      "title": "Judge rules Massachusetts offshore wind project halted by Trump administration can continue - Yahoo",
-      "description": "A federal judge said Tuesday that a nearly completed Massachusetts offshore wind project can continue, as the industry successfully challenges the Trump...",
-      "url": "https://www.yahoo.com/news/articles/judge-rules-massachusetts-offshore-wind-214723843.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gIGvRpNHv9LadeBf6OckAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/255c1b4ea63c85934a1d1df9c90a1908",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-01-27T21:47:23Z"
-    },
-    {
-      "title": "USA Rare Earth Stock Price Target Triples Following Government Deal. Here’s Why. - Barron's",
-      "description": "",
-      "url": "https://www.barrons.com/articles/usa-rare-earth-stock-price-e56abc0d",
-      "urlToImage": "https://images.barrons.com/im-42222267/social",
-      "source": "Barron's",
-      "publishedAt": "2026-01-27T21:35:00Z"
-    },
-    {
-      "title": "Boeing Earnings Trounce Expectations. The Stock Is All Over the Place. - Barron's",
-      "description": "",
-      "url": "https://www.barrons.com/articles/boeing-earnings-stock-price-225a6d1c",
-      "urlToImage": "https://images.barrons.com/im-66290038/social",
-      "source": "Barron's",
-      "publishedAt": "2026-01-27T21:19:00Z"
-    },
-    {
-      "title": "Supreme Court to decide how 1988 videotape privacy law applies to online video - Ars Technica",
-      "description": "Salazar v. Paramount hinges on video privacy law's definition of \"consumer.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/01/supreme-court-to-decide-how-1988-videotape-privacy-law-applies-to-online-video/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/videocassette-1152x648-1769547628.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-01-27T21:15:51Z"
+      "publishedAt": "2026-01-28T16:58:20Z"
     }
   ]
 }
