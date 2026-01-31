@@ -1,135 +1,143 @@
 {
-  "updatedAt": "2026-01-30T07:03:37.636Z",
+  "updatedAt": "2026-01-31T06:55:14.282Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Deutsche Bank beats profit expectations in fourth-quarter earnings - CNBC",
-      "description": "Deutsche Bank's net profit attributable to shareholders came in at 1.3 billion euros.",
-      "url": "https://www.cnbc.com/2026/01/29/deutsche-bank-q4-earnings-2025-profits-revenues-german-lender.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108010300-1721732502170-gettyimages-2159801467-20240702_deutsche_bank_004.jpeg?v=1769669075&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-01-29T06:12:42Z"
-    },
-    {
-      "title": "Car slams into Chabad World Headquarters in Crown Heights, Brooklyn; police investigating - abc7ny.com",
-      "description": "The NYPD is investigating the incident as a hate crime",
-      "url": "https://abc7ny.com/post/car-slams-chabad-world-headquarters-crown-heights-brooklyn-police-investigating/18496735/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18497060_012826-wabc-chabad-scene-img.jpg?w=1600",
-      "source": "WABC-TV",
-      "publishedAt": "2026-01-29T06:03:10Z"
-    },
-    {
-      "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf - BBC",
-      "description": "Tehran says its armed forces are ready \"with their fingers on the trigger\" to respond to any aggression.",
-      "url": "https://www.bbc.com/news/articles/cly5pd459gko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-01-29T05:47:03Z"
-    },
-    {
-      "title": "Kennedy Center’s new programming head resigns days after hire was announced - The Washington Post",
-      "description": "Kevin Couch, appointed the Kennedy Center’s senior vice president of artistic programming, resigned less than two weeks after his hire was announced.",
-      "url": "https://www.washingtonpost.com/entertainment/2026/01/28/kennedy-center-kevin-couch-resigns-svp-artistic-programming/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFPGT7YW3LVUYBMFBOR3RINPLE_size-normalized.jpg&w=1440",
+      "title": "Democrats and Trump strike government funding deal as shutdown looms - The Washington Post",
+      "description": "President Donald Trump and Senate Democrats say they’ve agreed to separate DHS funding from a larger spending package after the killing of Alex Pretti.",
+      "url": "https://www.washingtonpost.com/politics/2026/01/29/government-shutdown-democrats-whitehouse/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOCTAOT4W6IHQQKVQPBB4NV23Y.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-01-29T04:15:00Z"
+      "publishedAt": "2026-01-30T02:56:55Z"
     },
     {
-      "title": "Immigration was a Republican strength. Now some fear it's slipping away before the midterms - AP News",
-      "description": "Republicans are increasingly worried about immigration enforcement becoming a political problem in the upcoming midterm elections. Concerns have grown after two people were killed by federal agents during President Donald Trump's crackdown in Minneapolis. Alt…",
-      "url": "https://apnews.com/article/election-republicans-minnesota-immigration-homeland-ice-5fe9c40236203703751c6274f8da435f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bb6b254/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F48%2Fa185e4ef901baae7c829cb8cdf04%2Fd877cff3579743ac9b539b90fb6beb16",
-      "source": "Associated Press",
-      "publishedAt": "2026-01-29T03:08:00Z"
-    },
-    {
-      "title": "Kenan Thompson Sued By Landlord Over Breach of Lease - TMZ",
-      "description": "Kenan Thompson is being dragged to court by a landlord, who claims he owes over $34,000 for breaking his lease on a rental home.",
-      "url": "https://www.tmz.com/2026/01/28/kenan-thompson-sued-breach-of-lease/",
-      "urlToImage": "https://imagez.tmz.com/image/fe/16by9/2026/01/29/fe90d08c9d234417b2b6e6a5a174d96a_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2026-01-29T02:30:00Z"
-    },
-    {
-      "title": "2026 Senior Bowl Day 2 standouts: NFL draft sleepers emerge at QB, WR - NFL.com",
-      "description": "Which 2026 NFL Draft prospects emerged on Day 2 of Senior Bowl practice? Lance Zierlein and Eric Edholm highlight five stars from Wednesday and provide more takeaways from the event.",
-      "url": "https://www.nfl.com/news/2026-senior-bowl-day-2-standouts-2026-nfl-draft",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/ngxujzo50ktpmsh7wgfz",
-      "source": "NFL News",
-      "publishedAt": "2026-01-29T01:11:00Z"
-    },
-    {
-      "title": "What the ‘mother of all deals’ between India and the EU means for global trade - The Conversation",
-      "description": "The new agreement will affect the lives of 2 billion people across economies representing about a quarter of global GDP.",
-      "url": "https://theconversation.com/what-the-mother-of-all-deals-between-india-and-the-eu-means-for-global-trade-274515",
-      "urlToImage": "https://images.theconversation.com/files/714739/original/file-20260128-70-zhxiht.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C3670%2C1835&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-01-29T01:02:00Z"
-    },
-    {
-      "title": "Officials warn of 'moderate' risk after TB outbreak in SF high school - SFGATE",
-      "description": "Three active cases have been reported at Archbishop Riordan High School since last November.",
-      "url": "https://www.sfgate.com/bayarea/article/san-francisco-tuberculosis-school-21320252.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/62/41/72/30023303/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-01-29T00:05:30Z"
-    },
-    {
-      "title": "House Republicans fume at Kristi Noem as impeachment push looms - Axios",
-      "description": "For vulnerable Republicans, the prospect of an impeachment vote tied to enforcement efforts would be particularly painful.",
-      "url": "https://www.axios.com/2026/01/28/republicans-congress-noem-impeachment",
-      "urlToImage": "https://images.axios.com/OL3Teu15RBRg0fXWJmyv_OxRg40=/0x299:3600x2324/1366x768/2026/01/28/1769631305483.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-01-28T23:12:09Z"
-    },
-    {
-      "title": "Kid Rock to Congress: For Fans and Artists, the Live Nation-Ticketmaster “Experiment Has Failed Miserably” - hollywoodreporter.com",
-      "description": "The country-rock artists returned to Capitol Hill to discuss the astronomical cost of tickets and how to combat speculative ticketing and ticket-scooping bots.",
-      "url": "http://www.hollywoodreporter.com/music/music-news/kid-rock-congress-ticketing-live-nation-ticketmaster-1236487577/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/GettyImages-2258121469.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-01-28T21:23:51Z"
-    },
-    {
-      "title": "First pediatric flu death in Washington state highlights rising cases across the state - komonews.com",
-      "description": "A school-age teenager has died after becoming ill from influenza last week, marking the first pediatric influenza death in the state this season.",
-      "url": "https://komonews.com/news/local/snohomish-county-teen-flu-season-death-health-department-vaccine-washington-state-department-of-health-covid-rsv-hospital-flu-cases-across-western-washington",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/1920/1320/center/90/65be5042-ed63-4f38-b8dc-0ceedcd6636b-HospitalGeneric_frame_238.jpeg",
-      "source": "KOMO News",
-      "publishedAt": "2026-01-28T21:03:44Z"
-    },
-    {
-      "title": "Brendan Banfield testifies at his double-murder trial ‘there was no plan’ with au pair - CNN",
-      "description": "A Virginia man on trial for allegedly killing his wife and another man took the stand in his own defense to tell his side of the story.",
-      "url": "https://www.cnn.com/2026/01/28/us/brendan-banfield-testifies-double-murder-trial",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-22317051-7222614-356-still.jpg?c=16x9&q=w_800,c_fill",
+      "title": "What to know about the Nipah virus - CNN",
+      "description": "The World Health Organization reported two cases of a rare virus in an eastern Indian state on Thursday.",
+      "url": "https://www.cnn.com/2026/01/29/health/nipah-virus-explainer",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2024-07-20t000000z-273274256-rc26z8akmznl-rtrmadp-3-india-virus.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2026-01-28T20:55:03Z"
+      "publishedAt": "2026-01-30T02:48:00Z"
     },
     {
-      "title": "New animal species that survived mass extinction event half a billion years ago found in a quarry in China - CBS News",
-      "description": "The fossils offer a rare glimpse into a cataclysmic event that brought a sudden end to the greatest explosion of life in our planet's history.",
-      "url": "https://www.cbsnews.com/news/ancient-species-mass-extinction-event-found-quarry-china/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/28/8d367abb-b56c-4eea-b154-94dfc65f1305/thumbnail/1200x630/1dcceb83bd0c2fd1268ff6f7b86efca1/2026-01-28t155716z-1600308451-rc2nh9ag8wux-rtrmadp-3-science-cambrian.jpg",
+      "title": "Trump reportedly says 'very dangerous' for UK to do business with China as Starmer looks to mend ties - CNBC",
+      "description": "Starmer is on a 4-day visit to China this week, the first trip by a British leader in eight years, signaling an attempt at resetting the bilateral ties.",
+      "url": "https://www.cnbc.com/2026/01/30/trump-china-uk-starmer-visit-xi-canada-carney.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254684-1768965252681-gettyimages-2240467882-AFP_78MT3V6.jpeg?v=1769735662&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-01-30T01:58:00Z"
+    },
+    {
+      "title": "'The Blind Side' Star Quinton Aaron Suffered Spinal Stroke - TMZ",
+      "description": "\"The Blind Side\" star Quinton Aaron's family is revealing what led to his hospitalization ... they tell us he suffered a spinal stroke.",
+      "url": "https://www.tmz.com/2026/01/29/quinton-aaron-suffered-spinal-stroke/",
+      "urlToImage": "https://imagez.tmz.com/image/d6/16by9/2026/01/30/d6b25f33d93345fbb13e224dfcd326e0_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2026-01-30T00:55:28Z"
+    },
+    {
+      "title": "Your Halo Story | Halo - Official Site (en) - Halo Waypoint",
+      "description": "<p>I’m obsessed with stories. This comes as a shock to many of you, I know. These days when we hear the term, the immediate association is likely with penwoven narratives underpinning myriad entertainment properties and creative content. Or perhaps some varia…",
+      "url": "https://www.halowaypoint.com/news/your-halo-story-chapter-01",
+      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2026/01/25yearsofhalo.png",
+      "source": "Halowaypoint.com",
+      "publishedAt": "2026-01-29T23:53:01Z"
+    },
+    {
+      "title": "‘ICE Out’: Protest Songs From Bruce Springsteen, My Morning Jacket, NOFX, and Others - Rolling Stone",
+      "description": "Bruce Springsteen, My Morning Jacket, and more have written ICE protest songs following the deaths of U.S. citizens and violence ICE has perpetuated.",
+      "url": "http://www.rollingstone.com/music/music-news/ice-protest-songs-bruce-springsteen-my-morning-jacket-nofx-1235507156/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/01/ICE-protest-songs-lead.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-01-29T23:01:32Z"
+    },
+    {
+      "title": "Massachusetts on \"razor's edge\" with weekend storm. Maps show best chance for snow, high winds. - CBS News",
+      "description": "It does not appear that the storm will track close enough to New England to deliver what could have been, a devastating and destructive blow.",
+      "url": "https://www.cbsnews.com/boston/news/massachusetts-snow-map-boston-storm-bombogenesis/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/29/8fa1a5ef-18b5-4b54-8dad-6558855907a2/thumbnail/1200x630/f0529e0f88d9d25a72c073808b2bb1c8/wx4.png",
       "source": "CBS News",
-      "publishedAt": "2026-01-28T20:21:40Z"
+      "publishedAt": "2026-01-29T22:21:00Z"
     },
     {
-      "title": "‘The Only Living Pickpocket in New York’ Review: An Old School Thief Holds on in the Age of Apple Pay - IndieWire",
-      "description": "John Turturro stars in 'The Only Living Pickpocket in New York.' Read our Sundance review.",
-      "url": "https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/",
-      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-28-at-12.06.28-PM.png?w=650",
-      "source": "IndieWire",
-      "publishedAt": "2026-01-28T20:15:00Z"
+      "title": "Oscar Season’s Messy Side Comes for ‘Marty Supreme’ - hollywoodreporter.com",
+      "description": "The nine-time Oscar nominee has faced resurfaced allegations regarding its director’s conduct on a previous movie, sharp criticism from the family who inspired its main character — and suspicions of a smear campaign.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/marty-supreme-safdie-oscars-1236488756/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/https___cdn.sanity.io_images_xq1bjtf4_production_17e310ccf6c12ba23f5c6454fd0afde0d39a9d99-6000x4000-EMBED-2025.jpg?w=1000&h=667&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-01-29T22:17:17Z"
     },
     {
-      "title": "Samsung's Cool New Gadget Has The First Display Of Its Kind In The World - bgr.com",
-      "description": "The 13-inch Samsung Color E-Paper features the world's first display housing made in part with a bio-resin crafted from phytoplankton, a type of microalgae.",
-      "url": "https://www.bgr.com/2087342/samsung-cool-new-gadget-e-reader-world-first-display/",
-      "urlToImage": "https://www.bgr.com/img/gallery/samsungs-cool-new-gadget-has-the-first-display-of-its-kind-in-the-world/l-intro-1769622010.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-01-28T17:44:10Z"
+      "title": "Astronomers watch 1st black hole ever imaged launch a 3,000‑light‑year‑long cosmic jet from its glowing 'shadow' - Space",
+      "description": "\"It is amazing to see that we are gradually moving towards combining these breakthrough observations across multiple frequencies and completing the picture of the jet launching region.\"",
+      "url": "https://www.space.com/astronomy/black-holes/astronomers-watch-1st-black-hole-ever-imaged-launch-a-3-000-light-year-long-cosmic-jet-from-its-glowing-shadow",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hpLw8QjLxtFpwGinGSiYF7-1600-80.png",
+      "source": "Space.com",
+      "publishedAt": "2026-01-29T22:00:00Z"
+    },
+    {
+      "title": "Trump's border czar suggests a possible drawdown in Minnesota, but only after ‘cooperation’ - AP News",
+      "description": "President Donald Trump’s border czar says immigration enforcement could reduce the number of officers in Minnesota. Tom Homan suggested during a news conference Thursday that a drawdown could happen, but only after “cooperation” from state officials. Trump se…",
+      "url": "https://apnews.com/article/homan-minneapolis-immigration-enforcement-0d559bf53b630d7cc525fd3219f430ba",
+      "urlToImage": "https://dims.apnews.com/dims4/default/16d3311/2147483647/strip/true/crop/5439x3624+1+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F67%2Fa54716a873bc6d151c2758ae1a18%2F198f307b40aa4f15a144d18b7166c4a3",
+      "source": "Associated Press",
+      "publishedAt": "2026-01-29T21:38:00Z"
+    },
+    {
+      "title": "Australian Open 2026: How to watch the Carlos Alcaraz vs. Alexander Zverev match tonight - Yahoo Sports",
+      "description": "Carlos Alcaraz and Alexander Zverev play in the men's semifinals of the Australian Open tonight. Here's how to watch.",
+      "url": "https://sports.yahoo.com/tennis/article/australian-open-2026-how-to-watch-the-carlos-alcaraz-vs-alexander-zverev-match-tonight-181100154.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XkkVZT1bqQl37hpUEZpstQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f94fb360-fd26-11f0-bbb6-f32d272c3e8a",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-01-29T21:17:00Z"
+    },
+    {
+      "title": "Google gives Pixel Tablet another two years of Android OS updates - 9to5Google",
+      "description": "Google’s mostly-forgotten Pixel Tablet is getting a new lease on life, as the company is giving its one and only...",
+      "url": "http://9to5google.com/2026/01/29/google-gives-pixel-tablet-another-two-years-of-android-os-updates/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/Pixel-Tablet-Header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-01-29T19:22:00Z"
+    },
+    {
+      "title": "Medicare Advantage insurers face new curbs on overcharges in Trump plan - NPR",
+      "description": "Federal officials have a plan that could curb billions of dollars in overpayments to Medicare Advantage plans. But will they follow through on it?",
+      "url": "https://www.npr.org/2026/01/29/nx-s1-5691896/medicare-advantage-health-insurance-trump-oz-cms-upcoding",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5809x3268+0+13/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F1c%2F99977417410e819c316cfee7ec1f%2Fgettyimages-2252588712.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-01-29T18:58:56Z"
+    },
+    {
+      "title": "Handling of Pretti investigation has some prosecutors on verge of quitting - The Washington Post",
+      "description": "Federal prosecutors in Minneapolis, deeply frustrated by the response to the shootings of Renée Good and Alex Pretti, have suggested they could resign en masse.",
+      "url": "https://www.washingtonpost.com/national-security/2026/01/29/minneapolis-shootings-prosecutor-resignations/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZCA7X5CCWTNJSJUVR2ZTSHVC6M_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-01-29T18:53:40Z"
+    },
+    {
+      "title": "Curiosity Just Lit Up Mars At Night And Revealed A Never-Before-Seen Side Of The Red Planet - The Daily Galaxy",
+      "description": "Curiosity switched on its lights during the Martian night, capturing a rare view that is forcing scientists to look at the Red Planet in a new way.",
+      "url": "https://dailygalaxy.com/2026/01/curiosity-just-lit-up-mars-never-seen-side/",
+      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2026/01/Curiosity-Just-Lit-Up-Mars-At-Night-And-Revealed-A-Never-Before-Seen-Side-Of-The-Red-Planet-scaled.png",
+      "source": "The Daily Galaxy --Great Discoveries Channel",
+      "publishedAt": "2026-01-29T17:45:00Z"
+    },
+    {
+      "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account - WIRED",
+      "description": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company's stuffed animals.",
+      "url": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
+      "urlToImage": "https://media.wired.com/photos/697b91bbe49b1882e7ffc198/191:100/w_1280,c_limit/012826-AI-toy-children-chat-3.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-01-29T17:00:00Z"
+    },
+    {
+      "title": "Crypto bill clears U.S. Senate milestone despite Democrat opposition - CoinDesk",
+      "description": "The market structure legislation for the first time advanced beyond a committee, setting up the next steps that could end with a vote of the overall chamber.",
+      "url": "https://www.coindesk.com/policy/2026/01/29/crypto-bill-clears-u-s-senate-milestone-as-effort-advanced-through-first-committee",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5bd276aa14d3dfc246e30b0d8d0bbde392826cf3-2404x1352.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-01-29T16:44:20Z"
     }
   ]
 }
