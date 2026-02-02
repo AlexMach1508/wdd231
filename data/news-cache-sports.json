@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-02-01T07:02:57.209Z",
+  "updatedAt": "2026-02-02T07:15:28.581Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Nets guard Egor Demin sets NBA rookie record with 3-pointer - ESPN",
-      "description": "Nets guard Egor Demin made a 3-pointer in an NBA rookie-record 34th straight game on Friday night against the Jazz.",
-      "url": "https://www.espn.com/nba/story/_/id/47783563/nets-guard-egor-demin-sets-nba-rookie-record-3-pointer",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0131%2Fr1608269_1296x729_16%2D9.jpg",
+      "title": "UFC 325 results: Alexander Volkanovski retains title with impressive win over Diego Lopes - CBS Sports",
+      "description": "Volkanovski put on an impressive display in front of his home crowd on Saturday in Australia",
+      "url": "https://www.cbssports.com/ufc/news/ufc-325-live-updates-results-alexander-volkanovski-vs-diego-lopes-highlights-analysis/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/02/01/6adfa8e7-8fa7-425b-bbf2-1c35156d56a6/thumbnail/1200x675/6adb77fd232f14393fd9fdd7da2c8d5b/alex-volkanovski-belt-325.jpg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-02-01T05:57:09Z"
+    },
+    {
+      "title": "Three Keys & a Pick: No. 9 Illinois at No. 5 Nebraska - 247Sports",
+      "description": "Illini Inquirers Kyle Tausk previews the Illinis road rematch against Nebraska on Sunday",
+      "url": "https://247sports.com/college/illinois/article/illinois-fighting-illini-basketball-three-keys-pick-nebraska-272849204/",
+      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/899/586/13586899.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+      "source": "247Sports",
+      "publishedAt": "2026-02-01T05:23:19Z"
+    },
+    {
+      "title": "Xander Zayas unifies titles in close decision over Abass Baraou - ESPN",
+      "description": "Xander Zayas unified the WBO and WBA junior middleweight titles Saturday night, edging Abass Baraou by split decision.",
+      "url": "https://www.espn.com/boxing/story/_/id/47793837/xander-zayas-unifies-titles-close-decision-abass-baraou",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0201%2Fr1608683_1296x729_16%2D9.jpg",
       "source": "ESPN",
-      "publishedAt": "2026-01-31T03:39:00Z"
+      "publishedAt": "2026-02-01T04:41:00Z"
     },
     {
-      "title": "4 takeaways from No. 3 Michigan Basketball’s win at No. 7 MSU - Maize n Brew",
-      "description": "Michigan Basketball just won at Michigan State for the first time since 2018. Here are 4 takeaways from the Wolverines’ huge win:",
-      "url": "https://www.maizenbrew.com/michigan-mens-basketball/105025/michigan-basketball-takeaways-michigan-state-yaxel-lendeborg-jeremy-fears-dusty-may-tom-izzo",
-      "urlToImage": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2026/01/imagn-28122956.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "Maize n Brew",
-      "publishedAt": "2026-01-31T03:37:00Z"
+      "title": "Reports: Cavaliers trade De'Andre Hunter to Kings in 3-team deal with Bulls - NBA",
+      "description": "Keon Ellis and Dennis Schröder reportedly headed to Cleveland, while Dario Šarić is off to Chicago.",
+      "url": "https://www.nba.com/news/cavs-trade-deandre-hunter-to-kings",
+      "urlToImage": "https://cdn.nba.com/manage/2026/01/GettyImages-2257491808-scaled-e1769919564658.jpg",
+      "source": "Heat.com",
+      "publishedAt": "2026-02-01T04:35:32Z"
     },
     {
-      "title": "Doncic makes history in nation’s capital after dominating performance - New York Post",
-      "description": "Luka Doncic could do no wrong in the nation’s capital.",
-      "url": "https://nypost.com/2026/01/30/sports/lakers-doncic-beat-wizards-142-111-friday-night/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-oyf1hfjav-1769826267622.jpg?quality=75&strip=all&1769808307&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-01-31T02:27:00Z"
-    },
-    {
-      "title": "Aaron Tau issues statement after weight cut debacle, fight cancellation - MMA Fighting",
-      "description": "Aaron Tau apologized for missing weight ahead of UFC 325.",
-      "url": "https://www.mmafighting.com/latest-news/469025/aaron-tau-issues-statement-after-weight-cut-debacle-fight-cancellation",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2258977121.jpg?quality=90&strip=all&crop=0%2C2.3562909073596%2C100%2C78.534031413613&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-01-31T01:00:00Z"
-    },
-    {
-      "title": "Trump announces upcoming IndyCar race through Washington's streets — including Pennsylvania Avenue - AP News",
-      "description": "President Donald Trump has announced an IndyCar race will be held through the streets of Washington as part of America's 250th birthday celebrations. The race is set for August 23, and could feature cars speeding past the White House at nearly 200 mph. Trump …",
-      "url": "https://apnews.com/article/trump-indycar-race-washington-penske-9df7398879c960722b88fbc92795f86a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fbff4d3/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fc2%2F0e338269f63ee72131ffa3eac26a%2F6b35b6f73d72426ebd3b46964de00bc6",
-      "source": "Associated Press",
-      "publishedAt": "2026-01-31T00:41:00Z"
-    },
-    {
-      "title": "ESPN: Seahawks could be sold after Super Bowl LX; Allen Estate says ‘not for sale’ - KIRO 7 News Seattle",
-      "description": "Sportico values the Seahawks at $6.59 billion, ranking them 14th among NFL teams.",
-      "url": "https://www.kiro7.com/sports/nfl/seattle-seahawks/espn-seahawks-could-be-sold-after-super-bowl-lx-allen-estate-says-not-sale/PXFO6ZQ2DJD7JPVS72H5RSLJIU/",
-      "urlToImage": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FO5YRHUNYMJDWXDAJIHULCOFVDU.jpg?auth=46ce5b5fbff86c0485e367324af727f07ff56489588623d0ed40ef063b5c7726&width=1200&height=630&smart=true",
-      "source": "KIRO Seattle",
-      "publishedAt": "2026-01-31T00:35:00Z"
-    },
-    {
-      "title": "Drake Maye among the nine players Patriots list as questionable - NBC Sports",
-      "description": "Super Bowl LX won't be played until Feb. 8.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-among-the-nine-players-patriots-list-as-questionable",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/979f02c/2147483647/strip/true/crop/3556x2000+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2Ffc%2F9a5ec91649159bae44fbee3006a5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2258472522",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-01-31T00:31:15Z"
-    },
-    {
-      "title": "NASCAR’s Greg Biffle wasn’t flying his plane before crash that killed him and 6 others - AP News",
-      "description": "Federal safety officials have concluded that retired NASCAR driver Greg Biffle was not flying his jet when it crashed last month, killing him and six others. The National Transportation Safety Board released a preliminary report on Friday. It states that whil…",
-      "url": "https://apnews.com/article/biffle-nascar-plane-crash-cause-north-carolina-15106ae84f272e2a805cf4b15b496ed2",
-      "urlToImage": "https://dims.apnews.com/dims4/default/91981ee/2147483647/strip/true/crop/8192x5459+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F70%2Fa802cd2759d34c503f9b51bdf252%2Fc2f9bef5f417486e8d396165496e7643",
-      "source": "Associated Press",
-      "publishedAt": "2026-01-31T00:18:00Z"
-    },
-    {
-      "title": "2026 NFL Draft burning questions: QBs in class to know beyond Fernando Mendoza? Deepest position? - NFL.com",
-      "description": "Will a QB-needy team look to Ty Simpson, Carson Beck or Garrett Nussmeier? Which position is the deepest? Bucky Brooks answers six burning questions on the 2026 NFL Draft.",
-      "url": "https://www.nfl.com/news/2026-nfl-draft-burning-questions-qbs-in-class-to-know-beyond-fernando-mendoza-deepest-position",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/lnrse0nmdm04j7yesf26",
-      "source": "NFL News",
-      "publishedAt": "2026-01-31T00:03:00Z"
-    },
-    {
-      "title": "Kaboly: ‘I’ve Heard’ Steelers Expect Aaron Rodgers Back - Steelers Depot",
-      "description": "The Pittsburgh Steelers have their head coach in Mike McCarthy. They’re hard at work assembling the coaching staff under McCarthy. The next big question for the Steelers is who will be the starting quarterback in 2026? Will QB Aaron Rodgers be back, especiall…",
-      "url": "https://steelersdepot.com/2026/01/kaboly-ive-heard-steelers-expect-aaron-rodgers-back/",
-      "urlToImage": "https://steelersdepot.com/wp-content/uploads/2026/01/Aaron-Rodgers-celebrate3-1000x600.jpg",
-      "source": "Steelers Depot",
-      "publishedAt": "2026-01-31T00:01:58Z"
-    },
-    {
-      "title": "Former UCLA star, NBA player Amari Bailey planning college return - On3",
-      "description": ".",
-      "url": "https://www.on3.com/news/former-ucla-star-nba-player-amari-bailey-planning-college-return/",
-      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/01/26101347/NCAA-Basketball.png",
-      "source": "On3.com",
-      "publishedAt": "2026-01-30T23:36:37Z"
-    },
-    {
-      "title": "Cavs Rumors: Giannis, Hunter, Ball, Lakers, Ellis, More - Hoops Rumors",
-      "description": "Will the Cavaliers consider pursuing Giannis Antetokounmpo? That and more trade rumors involving the Cavs.",
-      "url": "https://www.hoopsrumors.com/2026/01/cavs-rumors-giannis-hunter-ball-lakers-ellis-more.html",
-      "urlToImage": "https://cdn.hoopsrumors.com/files/2026/01/Giannis-Antetokounmpo-Evan-Mobley-900x600.jpg",
-      "source": "hoopsrumors.com",
-      "publishedAt": "2026-01-30T23:15:25Z"
-    },
-    {
-      "title": "Royals, Vinnie Pasquantino Avoid Arbitration - MLB Trade Rumors",
-      "description": "Why would you want to be in an arbitration hearing with a Pasquatch?",
-      "url": "https://www.mlbtraderumors.com/2026/01/royals-vinnie-pasquantino-avoid-arbitration.html",
-      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/01/Vinnie_Pasquantino_Royals-copy-2-1024x683.jpg",
-      "source": "MLB Trade Rumors",
-      "publishedAt": "2026-01-30T23:03:45Z"
-    },
-    {
-      "title": "History Is on the Line for Novak Djokovic in the Australian Open Final - Sports Illustrated",
-      "description": "The 38-year-old is one win away from claiming a historic 25th major singles title after pulling off one of the signature victories of his career in the semifinal.",
-      "url": "https://www.si.com/tennis/australian-open/history-novak-djokovic-2026-australian-open-final",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_20,w_3269,h_1838/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kg8h8knhpnqn8t9k74.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-01-30T22:48:32Z"
-    },
-    {
-      "title": "Cougars downplaying matchup of superstars ahead of showdown with No. 14 Kansas - Deseret News",
-      "description": "BYU coach Kevin Young says Saturday's Big 12 showdown with No. 14 Kansas is much more than a battle between BYU's AJ Dybantsa, KU's Darryn Peterson",
-      "url": "https://www.deseret.com/sports/2026/01/30/byu-basketball-cougars-kansas-jayhawks-allen-fieldhouse-rematch/",
-      "urlToImage": "https://www.deseret.com/resizer/v2/LVJV7RXVXRBX7PBY6VPNKPUR6A.JPG?focal=0%2C0&auth=a769032a7f1ff6d1da4c47f95d41c99433db939879f241db0eb2cb746cc6b2a3&width=630",
+      "title": "What Kansas coach Bill Self said after defeating No. 13 BYU - Deseret News",
+      "description": "",
+      "url": "https://www.deseret.com/sports/2026/01/31/bill-self-postgame-kansas-win-over-byu-2026/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/DCQJ7ACLA5BH7JESRUYE6YFKWE.jpg?focal=2227%2C1537&auth=a5b301514e63857c8166e986c3d533fd420f99b100cbe73c3dea7ac2d5cc92e2&width=630",
       "source": "Deseret News",
-      "publishedAt": "2026-01-30T22:46:16Z"
+      "publishedAt": "2026-02-01T04:23:00Z"
     },
     {
-      "title": "David Robertson Announces Retirement - MLB Trade Rumors",
-      "description": "All-Star reliever and World Series champion David Robertson is calling it a career after 19 seasons. Read more at MLB Trade Rumors.",
-      "url": "https://www.mlbtraderumors.com/2026/01/david-robertson-announces-retirement.html",
-      "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/08/USATSI_18970372_168416865_lowres-1024x696.jpg",
+      "title": "Report: Government approves ESPN, NFL Media merger - NBC Sports",
+      "description": "The NFL now owns 10 percent of ESPN.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-government-approves-espn-nfl-media-merger",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a4153c5/2147483647/strip/true/crop/4671x2627+0+243/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2F4b%2Fb45c20ef441997ba4215f17b4df4%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2246572317",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-02-01T04:17:38Z"
+    },
+    {
+      "title": "Dodgers Notes: Ohtani, Snell, Edman - MLB Trade Rumors",
+      "description": "Los Angeles brass delivered some injury updates on several key players, including Shohei Ohtani and Blake Snell.",
+      "url": "https://www.mlbtraderumors.com/2026/01/dodgers-notes-ohtani-snell-edman.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/01/ShoheiOhtani-1024x683.jpg",
       "source": "MLB Trade Rumors",
-      "publishedAt": "2026-01-30T22:41:06Z"
+      "publishedAt": "2026-02-01T03:31:24Z"
     },
     {
-      "title": "Friedman: Some NHL teams believe Capitals are ‘aggressively pursuing’ Artemi Panarin, but will only do trade with a contract extension in place - RMNB",
-      "description": "Artemi Panarin is currently the hottest trade topic in the NHL. The Russian star appears to have played his last game with…",
-      "url": "https://russianmachineneverbreaks.com/2026/01/30/capitals-aggressively-pursuing-artemi-panarin-trade-contract-extension-rumor-elliotte-friedman/",
-      "urlToImage": "https://i0.wp.com/russianmachineneverbreaks.com/wp-content/uploads/2026/01/file-artemi-panarin-rangers-aland-8526.jpg?fit=1200%2C800&ssl=1&original",
-      "source": "Russian Machine Never Breaks",
-      "publishedAt": "2026-01-30T22:33:07Z"
+      "title": "Doug Shows tried to royally screw Kentucky at Arkansas: ‘Worst technical foul I’ve ever seen’ - A Sea Of Blue",
+      "description": "“Doug Shows should never be allowed to officiate another game after that.“",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-basketball/161810/doug-show-uk-arkansas-worst-technical-foul-ive-ever-seen",
+      "urlToImage": "https://platform.aseaofblue.com/wp-content/uploads/sites/13/2026/01/imagn-27958551.jpg?quality=90&strip=all&crop=20.363639831543%2C8.5299234005417%2C79.636360168457%2C61.648390521557&w=1200",
+      "source": "A Sea Of Blue",
+      "publishedAt": "2026-02-01T03:20:00Z"
     },
     {
-      "title": "Graham named Steelers defensive coordinator - Steelers.com",
-      "description": "Patrick Graham brings 17 years of NFL coaching experience to the Steelers defense",
-      "url": "https://www.steelers.com/news/graham-named-steelers-defensive-coordinator",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/f5b9fd99z9o4a8anwczx",
-      "source": "Steelers.com",
-      "publishedAt": "2026-01-30T22:32:09Z"
+      "title": "76ers 124-114 Pelicans (Jan 31, 2026) Game Recap - ESPN",
+      "description": null,
+      "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401810554",
+      "urlToImage": null,
+      "source": "ESPN",
+      "publishedAt": "2026-02-01T02:48:45Z"
     },
     {
-      "title": "Bodycam Shows Track Star Getting Arrested For Speeding At Over 100 MPH - OutKick",
-      "description": "Olympic sprinters Sha'Carri Richardson and Christian Coleman arrested in Florida after traffic stop involving speeding, tailgating, and drug paraphernalia.",
-      "url": "https://www.outkick.com/sports/shacarri-richardson-arrested-speeding-florida-christian-coleman-charged",
-      "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2026/01/gettyimages-2236582793.jpg",
-      "source": "Outkick.com",
-      "publishedAt": "2026-01-30T22:30:08Z"
+      "title": "Lucas: Peachy - University of North Carolina Athletics",
+      "description": "Saturday brought thousands of Tar Heels out in the snow--and reminded them why they do it.",
+      "url": "https://goheels.com/news/2026/1/31/mens-basketball-lucas-peachy",
+      "urlToImage": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Func.sidearmsports.com%2Fimages%2F2026%2F1%2F31%2FA22I5235.jpg&width=1600&type=jpeg",
+      "source": "Goheels.com",
+      "publishedAt": "2026-02-01T02:32:27Z"
     },
     {
-      "title": "2026 NFL salary cap expected to exceed $300 million - Pride Of Detroit",
-      "description": "The 2026 NFL salary cap is expected to increase beyond initial estimates for the second consecutive year.",
-      "url": "https://www.prideofdetroit.com/detroit-lions-salary-cap-contracts/156521/2026-nfl-salary-cap-expected-to-exceed-300-million",
-      "urlToImage": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/01/imagn-26985870.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
-      "source": "Prideofdetroit.com",
-      "publishedAt": "2026-01-30T22:00:58Z"
+      "title": "Giants to sign three-time batting champion Luis Arraez to a 1-year deal - San Francisco Chronicle",
+      "description": "Bringing Luis Arráez to San Francisco adds a hitter who consistently makes contact and increases the chances the Giants might look to trade Casey Schmitt.",
+      "url": "https://www.sfchronicle.com/sports/giants/article/giants-sign-three-time-batting-champion-luis-21326669.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/62/64/44/30099718/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2026-02-01T02:31:14Z"
+    },
+    {
+      "title": "Darryn Peterson Is Clear No. 1 NBA Draft Pick After Outshining AJ Dybantsa - Sports Illustrated",
+      "description": "The Kansas guard’s ability to score from all three levels without forcing the game exposed a clear gap in feel, polish and self-sufficiency at the top of the draft.",
+      "url": "https://www.si.com/college-basketball/darryn-peterson-is-clear-no-1-nba-draft-pick-after-outshining-aj-dybantsa",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_123,w_5354,h_3011/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kgbcbkt9y2m6dvnxe9.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-02-01T01:29:37Z"
+    },
+    {
+      "title": "Great Group, Great Memories: 2016 Penguins Reunite - NHL.com",
+      "description": "On Saturday, the Pittsburgh Penguins celebrated the 10-year reunion of the 2016 Stanley Cup Championship team as part of a weekend filled with emotions and nostalgia.\nDuring a pregame ceremony ahead of Pittsburgh’s matchup with the New York Rangers, the curre…",
+      "url": "https://www.nhl.com/penguins/news/great-group-great-memories-2016-penguins-reunite",
+      "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/ud95hlyp3hpbjehviprp.jpg",
+      "source": "NHL News",
+      "publishedAt": "2026-02-01T01:25:09Z"
+    },
+    {
+      "title": "At the Buzzer: Indiana 98, UCLA 97 - Inside the Hall",
+      "description": "Quick thoughts on a 98-97 double overtime win at UCLA:",
+      "url": "https://www.insidethehall.com/2026/01/31/at-the-buzzer-indiana-98-ucla-97/",
+      "urlToImage": "https://www.insidethehall.com/wp-content/uploads/2026/01/DRM_9675-1.jpg",
+      "source": "Inside the Hall",
+      "publishedAt": "2026-02-01T01:07:43Z"
+    },
+    {
+      "title": "McKenna has hot day outdoors for Penn State at Beaver Stadium - NHL.com",
+      "description": "Projected No. 1 pick in 2026 NHL Draft has goal, 2 assists in OT loss against Michigan State",
+      "url": "https://www.nhl.com/news/gavin-mckenna-shows-off-skills-in-penn-state-game-at-beaver-stadium",
+      "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/aoetucxpnnoik7o9iil0.jpg",
+      "source": "NHL News",
+      "publishedAt": "2026-02-01T00:59:37Z"
+    },
+    {
+      "title": "Cowboys finalizing defensive staff: Derrick Ansley, Ryan Smith officially hired - Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "description": "The Cowboys are beginning to round out new defensive coordinator Christian Parker's staff, as the team hired Derrick Ansley to be their DBs coach/defensive pass game coordinator and Ryan Smith to be their secondary coach on Saturday.",
+      "url": "https://www.dallascowboys.com/news/cowboys-finalizing-defensive-staff-derrick-ansley-ryan-smith-officially-hired",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/cowboys/iz9ybjm9vbpdc6zfdui8",
+      "source": "DallasCowboys.com",
+      "publishedAt": "2026-02-01T00:34:16Z"
+    },
+    {
+      "title": "Underdog Josh Kelly dethrones Bakhram Murtazaliev in Newcastle - Boxing Scene",
+      "description": "After 12 competitive rounds and after both fighters tasted the canvas, Josh Kelly's hand was raised in Newcastle following a majority decision victory over previously-undefeated Bakhram Murtazaliev.",
+      "url": "https://www.boxingscene.com/articles/underdog-josh-kelly-dethrones-bakhram-murtazaliev-in-newcastle",
+      "urlToImage": "https://photo.boxingscene.com/uploads/KellyMurtazalievknockdown.webp",
+      "source": "BoxingScene.com",
+      "publishedAt": "2026-02-01T00:22:30Z"
+    },
+    {
+      "title": "2026 Senior Bowl takeaways: Garrett Nussmeier delivers MVP performance in NFL draft showcase - NFL.com",
+      "description": "Which QB shined brightest in Saturday's Senior Bowl? Who were the other prospects that stood out in the 2026 NFL Draft showcase? Eric Edholm offers three takeaways from the all-star event.",
+      "url": "https://www.nfl.com/news/2026-senior-bowl-game-takeaways-2026-nfl-draft",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/on15hvrlmci6yjlesqgg",
+      "source": "NFL News",
+      "publishedAt": "2026-01-31T23:10:00Z"
     }
   ]
 }
