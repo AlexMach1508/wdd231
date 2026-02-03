@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-02-02T07:15:28.365Z",
+  "updatedAt": "2026-02-03T07:05:55.257Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Top 8 Players and Decks of Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
-      "description": "Meet the Top 8 players that will face off in the Sunday showdown at Pro Tour Lorwyn Eclipsed!",
-      "url": "https://magic.gg/news/top-8-players-and-decks-of-pro-tour-lorwyn-eclipsed",
-      "urlToImage": "https://images.ctfassets.net/ryplwhabvmmk/6YB2ni1ve2WLQIcDR8Z6rn/e1018fd03f388b187e3e91809fc1ef54/Pro-Tour-Lorwyn-Eclipsed-Top-8-Group-Stage-1920x1280.jpg",
-      "source": "Magic.gg",
-      "publishedAt": "2026-02-01T05:59:49Z"
-    },
-    {
-      "title": "Octopath Traveler 0 Receives Another Update On Switch And Switch 2 - Nintendo Life",
-      "description": "Download it now",
-      "url": "https://www.nintendolife.com/news/2026/02/octopath-traveler-0-receives-another-update-on-switch-and-switch-2",
-      "urlToImage": "https://images.nintendolife.com/1c85c61b12b33/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-02-01T03:30:00Z"
-    },
-    {
-      "title": "These 10+ Games Are Coming To Xbox Next Week (February 2-6) - Pure Xbox",
-      "description": "Including three new Game Pass titles!",
-      "url": "https://www.purexbox.com/features/these-10plus-games-are-coming-to-xbox-next-week-february-2-6",
-      "urlToImage": "https://images.purexbox.com/30ec9670f6a78/large.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2026-02-01T01:04:39Z"
-    },
-    {
-      "title": "4 Devices Compatible With Your Car's USB Port That You Need To Know About - bgr.com",
-      "description": "The variety of gadgets that are compatible with your car's USB port is vast, but mini fridges and portable humidifiers should be on everyone's short list.",
-      "url": "https://www.bgr.com/2084887/devices-compatible-car-usb-port/",
-      "urlToImage": "https://www.bgr.com/img/gallery/4-devices-compatible-with-your-cars-usb-port-that-you-need-to-know-about/l-intro-1769435676.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-01T00:17:00Z"
-    },
-    {
-      "title": "PlayStation Plus Users Have 72 Hours to Get $170 Worth of PS5 Games for Free - ComicBook.com",
-      "description": "PlayStation Plus users have roughly 72 hours to get $170 worth of PS5 games for free before each game reverts back to its normal price.",
-      "url": "http://comicbook.com/gaming/news/playstation-plus-users-have-72-hours-to-get-170-worth-of-ps5-games-for-free/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/p-l-a-y-s-t-a-t-i-o-n-p-l-u-s_b23358.png?resize=2000,1125",
-      "source": "ComicBook.com",
-      "publishedAt": "2026-02-01T00:06:54Z"
-    },
-    {
-      "title": "Swift is a more convenient Rust (2023) - Hacker News",
-      "description": null,
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46841374",
-      "urlToImage": null,
-      "source": "Hacker News",
-      "publishedAt": "2026-01-31T22:55:45Z"
-    },
-    {
-      "title": "Weekly Windows Wrap: Microsoft finally reads the room — right as it loses $440 billion - Windows Central",
-      "description": "Between a historic stock slide and a sudden pivot to fix botched updates, Microsoft spent the week looking in the mirror.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/weekly-windows-wrap-microsoft-finally-reads-the-room-right-as-it-loses-usd440-billion",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bREAq4J8kKF3M87MhK8oLN-2560-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2026-01-31T22:03:16Z"
-    },
-    {
-      "title": "4 Gadgets That Can Upgrade Your Old Car's Power Outlet - bgr.com",
-      "description": "For anyone with an older car who relies on 12V power outlets, useful gadgets like a portable tire inflator promise useful upgrades without breaking the bank.",
-      "url": "https://www.bgr.com/2084820/gadgets-use-old-car-power-outlet/",
-      "urlToImage": "https://www.bgr.com/img/gallery/4-gadgets-that-can-upgrade-your-old-cars-power-outlet/l-intro-1769430638.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-01-31T21:17:00Z"
-    },
-    {
-      "title": "Nintendo has cut the price of some upcoming amiibo - Nintendo Everything",
-      "description": "Upcoming amiibo figures from Nintendo appear to have received an official price cut - here are the new prices.",
-      "url": "https://nintendoeverything.com/nintendo-has-cut-the-price-of-some-upcoming-amiibo/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/amiibo-price-cut.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-01-31T21:03:03Z"
-    },
-    {
-      "title": "New Samsung Galaxy S26 Ultra Leak Confirms Disappointing News - Forbes",
-      "description": "The Samsung Galaxy S26 Ultra release date has been confirmed, but some of the new specifications reveal disappointing news.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/01/31/samsung-galaxy-s26-ultra-release-date-leak-battery-spec/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f940ce7486e3f54d6e2e95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title": "Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes",
+      "description": "While we’re waiting for Samsung to announce its next flagship phones, the company has unveiled a killer new feature. Here’s what it is and why it’s so ground-breaking.",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/02/01/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697fea496f30aaafda4a4ea0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "source": "Forbes",
-      "publishedAt": "2026-01-31T20:52:58Z"
+      "publishedAt": "2026-02-02T00:06:00Z"
     },
     {
-      "title": "This Wild Encounter Between A Boomer And A Millennial Has Gone Viral, And People Have LOTS To Say - BuzzFeed",
-      "description": "\"Not all heroes wear capes; some wear AirPods.\"",
-      "url": "https://www.buzzfeed.com/kristatorres/entitled-boomer-reddit",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/29/22/thumb/M3Mb-nJPa.jpg?crop=1250:654;0,5%26downsize=1250:*",
-      "source": "Buzzfeed",
-      "publishedAt": "2026-01-31T20:30:45Z"
-    },
-    {
-      "title": "China Makes Major Advancements in Space Mining Technologies - The Daily Galaxy",
-      "description": "China is making significant strides in space mining technologies, with a focus on extracting resources from asteroids and other minor planets.",
-      "url": "https://dailygalaxy.com/2026/01/china-major-advancements-space-mining/",
-      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2026/01/China-Makes-Major-Advancements-in-Space-Mining-Technologies-scaled.png",
-      "source": "The Daily Galaxy --Great Discoveries Channel",
-      "publishedAt": "2026-01-31T19:30:00Z"
-    },
-    {
-      "title": "Should you downgrade to Google AI Plus? - 9to5Google",
-      "description": "Google AI Plus came to the US this week as the more affordable alternative to AI Pro, which previously served...",
-      "url": "http://9to5google.com/2026/01/31/google-ai-plus-downgrade/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-AI-Plus-cover-us.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-01-31T19:15:00Z"
-    },
-    {
-      "title": "Asking Eric: If I call my son, he hangs up as soon as he hears my voice - NJ.com",
-      "description": "I don’t know if I should keep trying to contact him. I have no idea why he cut me out of his life and he hasn’t told me.",
-      "url": "https://www.nj.com/advice/2026/01/asking-eric-if-i-call-my-son-he-hangs-up-as-soon-as-he-hears-my-voice.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/K7SE4WJOOBEMVHZIM2KSBMTR3Q.jpg?auth=6b30453387ca42b8db950836a64c30b0154c0237e6a1c7f0255a7f9037e0e891&width=1280&smart=true&quality=90",
-      "source": "nj.com",
-      "publishedAt": "2026-01-31T19:00:00Z"
-    },
-    {
-      "title": "Fantasmic Billboard Updated in Disney’s Hollywood Studios - WDW News Today",
-      "description": "The Fantasmic advertisement billboard in Hollywood Studios has been replaced with a newer version.",
-      "url": "https://wdwnt.com/2026/01/fantasmic-billboard-updated-in-disneys-hollywood-studios/",
-      "urlToImage": "https://r2-media.wdwnt.com/2026/01/WDW-DHS-Fantasmic-Sign2-edited.jpg",
-      "source": "wdwnt.com",
-      "publishedAt": "2026-01-31T18:56:22Z"
-    },
-    {
-      "title": "Apple revamps how you buy a Mac online, removes preconfigured options - 9to5Mac",
-      "description": "Apple has updated its website with changes to the checkout flow when buying a new Mac. Previously, the Apple Online...",
-      "url": "https://9to5mac.com/2026/01/31/apple-revamps-how-you-buy-a-mac-online-removes-preconfigured-options/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-MacBook-Pro-M4-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-01-31T18:46:00Z"
-    },
-    {
-      "title": "Saturday Pre-orders – Chaos Space Marines and Marauders running wild - Warhammer Community",
-      "description": "Check out today’s latest pre-orders.",
-      "url": "https://www.warhammer-community.com/articles/uapels1d/saturday-pre-orders-chaos-space-marines-and-marauders-running-wild",
-      "urlToImage": "https://assets.warhammer-community.com/preorders-jan31-1-feature-imevzukpit.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-01-31T17:58:01Z"
-    },
-    {
-      "title": "Microsoft update broke ASUS ROG Xbox Ally handhelds software - VideoCardz.com",
-      "description": "Microsoft breaks ASUS ROG Xbox Ally Armory Crate If there's a handheld that Microsoft shouldn't break, it's the Xbox branded one. Windows 11 users are",
-      "url": "https://videocardz.com/newz/microsoft-update-broke-asus-rog-xbox-ally-handhelds-software",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/01/ASUS-XBOX-ALLY-SMART-APP-CONTROL-ISSUE.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-01-31T17:43:00Z"
-    },
-    {
-      "title": "Samsung Galaxy Z TriFold Phone quickly sells out online despite near $3,000 pricetag - Mashable",
-      "description": "The TriFold went on sale this morning in the U.S. It was out of stock within minutes.",
-      "url": "https://mashable.com/article/samsung-galaxy-z-trifold-smartphone-sells-out-at-us-launch",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02EMhswuv6kqWaQgiGSsFIy/hero-image.fill.size_1200x675.v1769880890.jpg",
+      "title": "Ditch app subscriptions with this Microsoft Office lifetime license - Mashable",
+      "description": "Get Microsoft Office apps for life for less than $5 each.",
+      "url": "https://mashable.com/article/feb-1-microsoft-office-professional-2021-for-windows",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/031Qi6jtx4Nf7UtuNU22hS2/hero-image.fill.size_1200x675.v1769582259.jpg",
       "source": "Mashable",
-      "publishedAt": "2026-01-31T17:34:51Z"
+      "publishedAt": "2026-02-01T23:00:00Z"
     },
     {
-      "title": "Motorola promises zero Android OS upgrades for its latest budget phones, ships with Android 15 - 9to5Google",
-      "description": "Motorola is not exactly known for timely Android updates, but its latest releases in Europe don’t even promise OS upgrades...",
-      "url": "http://9to5google.com/2026/01/31/motorola-android-os-updates-moto-g17/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/moto-g17-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Studio Display refresh looms with three key upgrades - 9to5Mac",
+      "description": "Studio Display shipping times are sliding into late February and early March, adding to mounting signs Apple’s long-rumored refresh is close.",
+      "url": "https://9to5mac.com/2026/02/01/studio-display-refresh-looms-with-three-key-upgrades/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Mac-mini-Sequoia-Studio-Display-FI-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-02-01T19:14:00Z"
+    },
+    {
+      "title": "Pixel 10 and Pixel Watch 4 discounts return to the Google Store - 9to5Google",
+      "description": "After the inaugural 2026 deal, the US Google Store has brought back the same discounts on the Pixel 10 series and Pixel Watch 4.",
+      "url": "http://9to5google.com/2026/02/01/google-store-february-2026-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-Pro-XL-in-sunlight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-01-31T17:30:00Z"
+      "publishedAt": "2026-02-01T18:46:00Z"
+    },
+    {
+      "title": "M2’s Tokihiro NAITO and Skipmore announce pixel art ‘puzzle adventure shooter’ XeGrader plus for PC - Gematsu",
+      "description": "Tokihiro NAITO, a game designer and director who works for M2, has announced XeGrader plus, a fantasy “puzzle adventure shooter” with pixel art by Skipmore. It will be available for PC …",
+      "url": "https://www.gematsu.com/2026/02/m2s-tokihiro-naito-and-skipmore-announce-pixel-art-puzzle-adventure-shooter-xegrader-plus-for-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/XeGrader-plus-Ann_02-01-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-02-01T18:35:01Z"
+    },
+    {
+      "title": "Escape from Tarkov ducks for its first major crossover event - Eurogamer",
+      "description": "Battlestate Games has confirmed its first major crossover event is on the way, and it's with Escape from Duckov.",
+      "url": "https://www.eurogamer.net/escape-from-tarkov-ducks-for-its-first-major-crossover-event",
+      "urlToImage": "https://assetsio.gnwcdn.com/G_9ZKkyXwAA76wk.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-02-01T17:56:24Z"
+    },
+    {
+      "title": "3 Clever Uses For Your Old Nintendo Wii - bgr.com",
+      "description": "You can turn your old Nintendo Wii into a media center, an emulation platform, or a homebrew console with the right mods and software. Here's how to do it.",
+      "url": "https://www.bgr.com/2086315/uses-for-your-old-nintendo-wii/",
+      "urlToImage": "https://www.bgr.com/img/gallery/3-clever-uses-for-your-old-nintendo-wii/l-intro-1769533905.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-02-01T17:47:00Z"
+    },
+    {
+      "title": "Fujifilm Fixed Its Biggest Pre-2024 Mistake: The Beauty of an Open X-Mount Lens Roundup - Fuji Rumors",
+      "description": "Full List of Third Party AF Fujifilm X mount lenses available on Amazon When I wrote the FujiRumors 14-year anniversary article, I mentioned that our journey wasn’t without difficult moments—and that Fujifilm, at times, made some serious mistakes. The biggest…",
+      "url": "https://www.fujirumors.com/fujifilm-fixed-its-biggest-pre-2024-mistake-the-beauty-of-an-open-x-mount-lens-roundup/",
+      "urlToImage": "https://www.fujirumors.com/wp-content/uploads/2026/02/Fujifilm-Mount.jpg",
+      "source": "Fujirumors.com",
+      "publishedAt": "2026-02-01T17:43:46Z"
+    },
+    {
+      "title": "Pokémon GO Events This Week: February 2 to February 8, 2026 - Pokémon GO Hub",
+      "description": "Pokémon GO’s February 2 to February 8 week has us entering the final month of Precious Paths! Get ready for carnival with the debut of Flamigo, and show off your catching skills with Oricorio. Plus the weekly rotating Spotlight and Raid Hours, Dynamax Battles…",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-february-2-to-february-8-2026/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/01/oricorio-catch-mastery.jpg",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-02-01T17:39:02Z"
+    },
+    {
+      "title": "Pokémon GO Pass: February - Pokémon GO Hub",
+      "description": "Pokémon GO's February 2026 GO Pass and GO Pass Deluxe feature exclusive rewards, including an encounter with Altered Forme Giratina, XP and Stardust bonuses, and the return of the PokéCoin bonus! Trainers can earn GO Points by completing Pass Tasks, unlock mi…",
+      "url": "https://pokemongohub.net/post/news/pokemon-go-pass-february/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/01/origin-giratina-go-pass.jpg",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-02-01T17:33:36Z"
+    },
+    {
+      "title": "This 12-Minute Bodyweight Routine Builds More Strength Than Hour-Long Gym Sessions - Eat This Not That",
+      "description": "12-minute bodyweight workout with exclusive CPT guidance to build full-body strength fast, no gym required.",
+      "url": "https://www.eatthis.com/12-minute-bodyweight-workout/",
+      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/01/shutterstock_2684087739b.jpg?quality=82&strip=all",
+      "source": "Eatthis.com",
+      "publishedAt": "2026-02-01T17:32:47Z"
+    },
+    {
+      "title": "Apple's Foldable iPhone Rumored to Feature Unrivaled Battery Life - MacRumors",
+      "description": "Apple's first foldable could feature the biggest ever iPhone battery and eclipse rival devices, according to a known leaker.   In a new post, the...",
+      "url": "https://www.macrumors.com/2026/02/01/foldable-iphone-to-feature-unrivaled-battery-life/",
+      "urlToImage": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-02-01T17:27:44Z"
+    },
+    {
+      "title": "This to-do app actually keeps up with my brain - Android Police",
+      "description": "Speaking is faster than typing, and it actually works",
+      "url": "https://www.androidpolice.com/this-to-do-app-actually-keeps-up-with-my-brain/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/01/todoist-ramble-featured-image.png?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-02-01T17:15:10Z"
+    },
+    {
+      "title": "The Science of the Modern Base Season: Why Zone 2 Isn’t Enough Anymore - Outside Magazine",
+      "description": "It's important to keep working hard all through the year, avoiding a major reliance on Zone 2 training. This is why.",
+      "url": "https://velo.outsideonline.com/road/road-training/the-science-of-the-modern-base-season-why-zone-2-isnt-enough-anymore/#article",
+      "urlToImage": "https://velo.outsideonline.com/wp-content/uploads/2026/02/Z8D_3896.jpg",
+      "source": "Outside",
+      "publishedAt": "2026-02-01T17:10:28Z"
+    },
+    {
+      "title": "Nintendo maintenance schedule - February 1, 2026 - Wii U and 3DS session coming this month - Nintendo Everything",
+      "description": "Nintendo has released its maintenance schedule for the week of February 1, 2026: As previously announced, a session is planned for Wii U and 3DS that’s happening later this month. Along with software downloads, the Nintendo eShop will be impacted. Below is th…",
+      "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-february-1-2026/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Wii-U-3DS-maintenance.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-02-01T17:05:10Z"
+    },
+    {
+      "title": "8 new Windows 11 features expected to arrive with the February 2026 update - Windows Central",
+      "description": "Microsoft's February \"Patch Tuesday\" for 2026 brings some quality changes to Windows 11, and this is what you need to know.",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/8-features-expected-to-arrive-with-the-february-2026-update-for-windows-11",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bBYmqhaiuTLnB37p369wje-1920-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2026-02-01T17:00:00Z"
+    },
+    {
+      "title": "Underrated 2023 PS5, PS4 Adventure Game 80% Off on PS Store - PlayStation LifeStyle",
+      "description": "An underrated gem PS5, PS4 action adventure game from 2023 is a whopping 80% off in a limited-time PS Store deal.",
+      "url": "https://www.playstationlifestyle.net/2026/02/01/scars-above-ps-store-deal-february-2026/",
+      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/01/scars-above-ps-store-deal.jpg?resize=1200,630",
+      "source": "PlayStation LifeStyle",
+      "publishedAt": "2026-02-01T17:00:00Z"
+    },
+    {
+      "title": "Book Review: Super Nintendo: How One Japanese Company Helped The World Have Fun - Nintendo Life",
+      "description": "Super by name, super by nature",
+      "url": "https://www.nintendolife.com/features/book-review-super-nintendo-how-one-japanese-company-helped-the-world-have-fun",
+      "urlToImage": "https://images.nintendolife.com/58446a9d9d94d/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-01T17:00:00Z"
+    },
+    {
+      "title": "Phones don’t need yearly sequels anymore, and there’s never been a better time to start - 9to5Google",
+      "description": "Smartphones have gotten really boring over the past few years, with most year-over-year “upgrades” just acting as a rehash of...",
+      "url": "http://9to5google.com/2026/02/01/phones-dont-need-yearly-sequels-anymore/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-01T17:00:00Z"
     }
   ]
 }

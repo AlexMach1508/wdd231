@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2026-02-02T07:15:28.236Z",
+  "updatedAt": "2026-02-03T07:05:55.132Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Mike Johnson warned by Jeffries not to count on Democrats' votes to end shutdown - Axios",
-      "description": null,
-      "url": "https://www.axios.com/2026/01/31/mike-johnson-democrats-shutdown-jeffries-ice-dhs",
-      "urlToImage": null,
+      "title": "Trump plans to close Kennedy Center for about two years, starting in July - The Washington Post",
+      "description": "Under a proposal by President Donald Trump, the closure could begin July 4, with construction beginning immediately.",
+      "url": "https://www.washingtonpost.com/style/2026/02/01/kennedy-center-trump-closure-construction/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XBUCFDSEXFYYX5SE72I54E3F64_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-02-02T06:16:53Z"
+    },
+    {
+      "title": "'TODAY' Anchor Savannah Guthrie’s Mom Missing - TMZ",
+      "description": "Authorities in Arizona are searching for Nancy Guthrie, the mother of 'TODAY' anchor Savannah Guthrie, who was reported missing under what authorities are calling concerning circumstances.",
+      "url": "https://www.tmz.com/2026/02/01/today-anchor-savannah-guthrie-s-mom-missing/",
+      "urlToImage": "https://imagez.tmz.com/image/03/16by9/2026/02/02/03280d87ec65424cbad48a2f7201e7e1_xl.png",
+      "source": "TMZ",
+      "publishedAt": "2026-02-02T04:32:46Z"
+    },
+    {
+      "title": "Speaker Johnson is moving to end the shutdown by Tuesday — without Democratic support - Axios",
+      "description": "There's friction to come over funding the Department of Homeland Security.",
+      "url": "https://www.axios.com/2026/02/01/johnson-government-shutdown-dhs-ice-funding",
+      "urlToImage": "https://images.axios.com/Vdgu_d9XyArhcCP182OSk4hVzzs=/0x622:8115x5187/1366x768/2026/02/01/1769974519603.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-02-01T06:40:07Z"
+      "publishedAt": "2026-02-02T04:24:29Z"
     },
     {
-      "title": "Highway 99 in Tulare County reopens after 59-vehicle pileup, CHP says - ABC30 Fresno",
-      "description": "Highway 99 in Tulare County has reopened after a 59-vehicle pile-up forced a total closure Saturday morning near Earlimart.",
-      "url": "https://abc30.com/post/150-vehicle-pileup-forces-total-closure-highway-99-tulare-county-officials-say/18516483/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18516555_013126-kfsn-tulareco-hwy99-pileup.jpg?w=1600",
-      "source": "KFSN-TV",
-      "publishedAt": "2026-02-01T05:43:58Z"
+      "title": "Lightning players wear full-padded Bucs uniforms, get Baker Mayfield escort before Stadium Series in Tampa - Fox News",
+      "description": "The Tampa Bay Lightning wore throwback Buccaneers uniforms arriving at Raymond James Stadium for the NHL's Stadium Series outdoor game against the Boston Bruins.",
+      "url": "https://www.foxnews.com/sports/lightning-players-wear-full-padded-bucs-uniforms-get-baker-mayfield-escort-before-stadium-series-tampa",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/lightning-buccaneers-1.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-02-02T01:50:32Z"
     },
     {
-      "title": "Donald Trump’s unprecedented political war chest got even bigger in 2025 - Politico",
-      "description": "Campaign finance disclosures filed late Saturday revealed details of the president’s unmatched political fundraising operation.",
-      "url": "https://www.politico.com/news/2026/02/01/donald-trump-fundraising-midterms-00759005",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb1%2Fb3%2F56f121c8465b8717682ed2a2177a%2Ftrump-19434.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-02-01T05:31:20Z"
+      "title": "‘Historic storm’ delivers biggest snowfall in decades for North Carolina - The Washington Post",
+      "description": "The nor’easter, which became a bomb cyclone offshore of North Carolina late Saturday, will go down as the biggest snowstorm in decades for parts of the state.",
+      "url": "https://www.washingtonpost.com/weather/2026/02/01/winter-storm-north-carolina-florida-snow-impacts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BA3MUF6EXZBR3FFW4XX3DGTWRM.png&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-02-02T00:09:58Z"
     },
     {
-      "title": "Iran’s Gen Z Helped Propel the Protests. They Paid With Their Lives. - The Wall Street Journal",
-      "description": "A generation who grew up in a more connected world rebelled against a failing economy and strict social rules",
-      "url": "https://www.wsj.com/world/middle-east/irans-gen-z-helped-propel-the-protests-they-paid-with-their-lives-80675ef3",
-      "urlToImage": "https://images.wsj.net/im-52115067/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-02-01T04:00:00Z"
-    },
-    {
-      "title": "Nvidia Investment in OpenAI Round ‘Nothing Like’ $100 Billion - Bloomberg.com",
-      "description": "Nvidia Corp. Chief Executive Officer Jensen Huang said the company will be participating in OpenAI’s latest funding round, describing it as potentially “the largest investment we’ve ever made.”",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKGtfaOjgGN8/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-02-01T03:53:00Z"
-    },
-    {
-      "title": "Updated snow totals for southeastern Virginia: Forecast down - The Virginian-Pilot",
-      "description": "The weather service says Norfolk, Portsmouth, Suffolk and most of Chesapeake and Virginia Beach is likely to see 3-4 inches of snow. Higher amounts are possible.",
-      "url": "https://www.pilotonline.com/2026/01/31/updated-snow-forecast-virginia/",
-      "urlToImage": "https://www.pilotonline.com/wp-content/uploads/2026/01/snowfall-4-pm-sat.jpg?w=864&h=613",
-      "source": "The Virginian-Pilot",
-      "publishedAt": "2026-02-01T03:46:04Z"
-    },
-    {
-      "title": "Doug Shows tried to royally screw Kentucky at Arkansas: ‘Worst technical foul I’ve ever seen’ - A Sea Of Blue",
-      "description": "“Doug Shows should never be allowed to officiate another game after that.“",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-basketball/161810/doug-show-uk-arkansas-worst-technical-foul-ive-ever-seen",
-      "urlToImage": "https://platform.aseaofblue.com/wp-content/uploads/sites/13/2026/01/imagn-27958551.jpg?quality=90&strip=all&crop=20.363639831543%2C8.5299234005417%2C79.636360168457%2C61.648390521557&w=1200",
-      "source": "A Sea Of Blue",
-      "publishedAt": "2026-02-01T03:20:00Z"
-    },
-    {
-      "title": "‘Spy Sheikh’ Bought Secret Stake in Trump Company - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-02-01T02:00:00Z"
-    },
-    {
-      "title": "Thousands march against ICE in downtown Portland; federal officers deployed tear gas on crowds that included children - Oregon Public Broadcasting - OPB",
-      "description": "Federal officers deployed clouds of tear gas and other crowd control munitions, including flash-bang grenades, on Saturday afternoon outside the U.S. Immigration and Customs Enforcement building in Portland on demonstrators.",
-      "url": "https://www.opb.org/article/2026/01/31/labor-against-ice-portland-oregon-immigration-protest/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/NXBL24KUFNFKDFUYP4JCB3QPRE.jpg?auth=21660a63aace456c39ef88f4b820ff2a00a236eb2e4bdc42d0264a5a41f064cc&width=1200&height=675&smart=true",
-      "source": "OPB News",
-      "publishedAt": "2026-02-01T01:41:15Z"
-    },
-    {
-      "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say - BBC",
-      "description": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
-      "url": "https://www.bbc.com/news/articles/c701g1g00gdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77d5/live/cbf50f70-fe96-11f0-ae1d-b56660f38b59.jpg",
+      "title": "Farmers Insurance Open: Justin Rose secures record-breaking victory - BBC",
+      "description": "England's Justin Rose clinches an utterly dominant win at the Farmers Insurance Open in a new tournament record score.",
+      "url": "https://www.bbc.com/sport/golf/articles/c74wk9g2272o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e5b9/live/5ed2df00-ffca-11f0-b669-eb89c7ddc639.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-02-01T01:30:24Z"
+      "publishedAt": "2026-02-01T23:55:06Z"
     },
     {
-      "title": "Orange County confirms second measles case in traveler who visited Disneyland, California Adventure - CBS News",
-      "description": "Orange County health officials have confirmed their second measles case of 2026 in an international traveler who arrived in California at Los Angeles International Airport before visiting Disneyland and California Adventure last week.",
-      "url": "https://www.cbsnews.com/losangeles/news/orange-county-measles-disneyland-california-adventure-lax-airport/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/14/831420ac-d018-421d-9b41-9494f026d016/thumbnail/1200x630/5dcf8ef39658c251ba6de34812513f43/gettyimages-1359395701-1.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-02-01T01:21:00Z"
+      "title": "Tens of thousands back Czech president amid cabinet dispute - dw.com",
+      "description": "A large rally in Prague showed support for Czech President Petr Pavel, who accused the country's top diplomat of blackmail. The row centers on Pavel's refusal to appoint a controversial candidate as environment minister.",
+      "url": "https://www.dw.com/en/tens-of-thousands-back-czech-president-amid-cabinet-dispute/a-75754342",
+      "urlToImage": "https://static.dw.com/image/75753789_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2026-02-01T23:19:27Z"
     },
     {
-      "title": "McKenna has hot day outdoors for Penn State at Beaver Stadium - NHL.com",
-      "description": "Projected No. 1 pick in 2026 NHL Draft has goal, 2 assists in OT loss against Michigan State",
-      "url": "https://www.nhl.com/news/gavin-mckenna-shows-off-skills-in-penn-state-game-at-beaver-stadium",
-      "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/aoetucxpnnoik7o9iil0.jpg",
-      "source": "NHL News",
-      "publishedAt": "2026-02-01T00:59:37Z"
+      "title": "Mayor of Portland, Oregon, demands ICE leave the city after federal agents gas protesters - Politico",
+      "description": "Witnesses said agents deployed tear gas, pepper balls and rubber bullets.",
+      "url": "https://www.politico.com/news/2026/02/01/portland-oregon-mayor-ice-leave-city-00759387",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F29%2Fe0%2F5d050ec740e5a0dfbcf668518093%2Fimmigration-enforcement-california-protests-97321.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-02-01T22:29:52Z"
     },
     {
-      "title": "4 Devices Compatible With Your Car's USB Port That You Need To Know About - bgr.com",
-      "description": "The variety of gadgets that are compatible with your car's USB port is vast, but mini fridges and portable humidifiers should be on everyone's short list.",
-      "url": "https://www.bgr.com/2084887/devices-compatible-car-usb-port/",
-      "urlToImage": "https://www.bgr.com/img/gallery/4-devices-compatible-with-your-cars-usb-port-that-you-need-to-know-about/l-intro-1769435676.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-01T00:17:00Z"
+      "title": "Lakers vs Knicks Prediction, Odds, NBA Picks for Sunday, Feb. 1 - Action Network",
+      "description": "Find Los Angeles Lakers vs New York Knicks predictions, odds, and NBA picks for Sunday, February 1.",
+      "url": "https://www.actionnetwork.com/nba/los-angeles-lakers-vs-new-york-knicks-prediction-pick-odds-sunday-february-1",
+      "urlToImage": "https://images.actionnetwork.com/blog/2026/01/Lakers-vs-Knicks-2.1.26.jpg",
+      "source": "The Action Network",
+      "publishedAt": "2026-02-01T22:17:00Z"
     },
     {
-      "title": "2026 Senior Bowl takeaways: Garrett Nussmeier delivers MVP performance in NFL draft showcase - NFL.com",
-      "description": "Which QB shined brightest in Saturday's Senior Bowl? Who were the other prospects that stood out in the 2026 NFL Draft showcase? Eric Edholm offers three takeaways from the all-star event.",
-      "url": "https://www.nfl.com/news/2026-senior-bowl-game-takeaways-2026-nfl-draft",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/on15hvrlmci6yjlesqgg",
-      "source": "NFL News",
-      "publishedAt": "2026-01-31T23:10:00Z"
+      "title": "Top energy expert puts odds of U.S. attack on Iran at 75% — 'this one is real' - Fortune",
+      "description": "\"The markets are pricing the risk that this time the past will not indicate the future—that we could have a sustained disruption in energy flows.\"",
+      "url": "https://fortune.com/2026/02/01/us-attack-iran-probability-75-percent-disruption-risk-oil-supply-crude-prices/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26026255706004-e1769978809634.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-02-01T21:53:00Z"
     },
     {
-      "title": "The reviews are in on the Stadium Series ice, and not all are raves - Tampa Bay Times",
-      "description": "Jon Cooper is enthralled by the spectacle of a rink under a tent. Nikita Kucherov isn’t thrilled with the playing surface.",
-      "url": "https://www.tampabay.com/sports/lightning/2026/01/31/stadium-series-raymond-james-stadium-nikita-kucherov/",
-      "urlToImage": "https://www.tampabay.com/resizer/v2/JDGIKH2N5REKVKT7VG5AZ5NITA.JPG?auth=ac2cf0012f0b1c21ea97466220c018e4d476d9b49eab5c2cf0ff35d19c1d5c79&height=675&width=1200&smart=true",
-      "source": "Tampa Bay Times",
-      "publishedAt": "2026-01-31T21:06:16Z"
+      "title": "Police officer killed, another critically wounded in shooting at Georgia hotel - ABC News",
+      "description": "Gunfire broke out after two officers were dispatched on a call reporting fraud.",
+      "url": "https://abcnews.go.com/US/wireStory/police-officer-killed-critically-wounded-shooting-georgia-hotel-129755947",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "source": "ABC News",
+      "publishedAt": "2026-02-01T20:37:02Z"
     },
     {
-      "title": "Nintendo has cut the price of some upcoming amiibo - Nintendo Everything",
-      "description": "Upcoming amiibo figures from Nintendo appear to have received an official price cut - here are the new prices.",
-      "url": "https://nintendoeverything.com/nintendo-has-cut-the-price-of-some-upcoming-amiibo/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/amiibo-price-cut.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-01-31T21:03:03Z"
+      "title": "“Meanwhile in U Street – Broken Water Main, cars are frozen in the water that is rapidly freezing.” Good Lord This is not Good - PoPville",
+      "description": "Update from AlertDC: \"DC Water reports a water outage on Wallach Place, NW, between 13th and 14th Streets due to utility repairs. The estimated restoration is 8-10 hours. Affected customers can contact DC Water at 202-612-3400.\" Update from PuckBuddys: \"Walla…",
+      "url": "https://www.popville.com/2026/02/u-street-broken-watermain-freeze/",
+      "urlToImage": "https://www.popville.com/wp-content/uploads/2026/02/image0.jpeg",
+      "source": "PoPville",
+      "publishedAt": "2026-02-01T19:12:52Z"
     },
     {
-      "title": "New Samsung Galaxy S26 Ultra Leak Confirms Disappointing News - Forbes",
-      "description": "The Samsung Galaxy S26 Ultra release date has been confirmed, but some of the new specifications reveal disappointing news.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/01/31/samsung-galaxy-s26-ultra-release-date-leak-battery-spec/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f940ce7486e3f54d6e2e95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-01-31T20:52:58Z"
+      "title": "Don Lemon’s arrest balances freedom of religion vs. freedom of the press, Todd Blanche says - Politico",
+      "description": "“It doesn't matter if you happen to be a former CNN journalist,\" he argued.",
+      "url": "https://www.politico.com/news/2026/02/01/don-lemon-todd-blanche-press-religion-00759255",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd9%2F61%2F7c7e62584c0eb9ab71a60d2c4e80%2Fimmigration-enforcement-don-lemon-59612.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-02-01T19:08:40Z"
     },
     {
-      "title": "Lifespan may be 50% heritable, study suggests - Live Science",
-      "description": "A new study suggests that lifespan might be 50% heritable — although for now, it's hard to know if the finding applies across diverse populations.",
-      "url": "https://www.livescience.com/health/ageing/lifespan-may-be-50-percent-heritable-study-suggests",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gwVZfGDoH4gbHJC74NxAka-1920-80.jpg",
-      "source": "Live Science",
-      "publishedAt": "2026-01-31T19:00:00Z"
+      "title": "Escape from Tarkov ducks for its first major crossover event - Eurogamer",
+      "description": "Battlestate Games has confirmed its first major crossover event is on the way, and it's with Escape from Duckov.",
+      "url": "https://www.eurogamer.net/escape-from-tarkov-ducks-for-its-first-major-crossover-event",
+      "urlToImage": "https://assetsio.gnwcdn.com/G_9ZKkyXwAA76wk.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-02-01T17:56:24Z"
     },
     {
-      "title": "Saturday Pre-orders – Chaos Space Marines and Marauders running wild - Warhammer Community",
-      "description": "Check out today’s latest pre-orders.",
-      "url": "https://www.warhammer-community.com/articles/uapels1d/saturday-pre-orders-chaos-space-marines-and-marauders-running-wild",
-      "urlToImage": "https://assets.warhammer-community.com/preorders-jan31-1-feature-imevzukpit.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-01-31T17:58:01Z"
+      "title": "IOC prez: ICE, Epstein files 'sad' distractions from Games - ESPN",
+      "description": "With the opening ceremony of the Milan Cortina Winter Games set for Friday, IOC president Kirsty Coventry said American storylines of ICE and the Epstein files have been \"sad\" distractions.",
+      "url": "https://www.espn.com/olympics/story/_/id/47798757/ioc-prez-ice-epstein-files-sad-distractions-games",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0201%2Fr1608904_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-02-01T17:42:00Z"
+    },
+    {
+      "title": "Pokémon GO Events This Week: February 2 to February 8, 2026 - Pokémon GO Hub",
+      "description": "Pokémon GO’s February 2 to February 8 week has us entering the final month of Precious Paths! Get ready for carnival with the debut of Flamigo, and show off your catching skills with Oricorio. Plus the weekly rotating Spotlight and Raid Hours, Dynamax Battles…",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-february-2-to-february-8-2026/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/01/oricorio-catch-mastery.jpg",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-02-01T17:39:02Z"
+    },
+    {
+      "title": "Bright Light Streaks Across New Zealand Skyline: What Could It Be? - The Daily Galaxy",
+      "description": "A mysterious streak of light appeared over Wellington, New Zealand, on January 30, 2026.",
+      "url": "https://dailygalaxy.com/2026/02/bright-light-streaks-across-new-zealand/",
+      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2026/02/Bright-Light-Streaks-Across-New-Zealand-Skyline-What-Could-It-Be-scaled.png",
+      "source": "The Daily Galaxy --Great Discoveries Channel",
+      "publishedAt": "2026-02-01T17:16:00Z"
     }
   ]
 }
