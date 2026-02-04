@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-02-03T07:05:55.257Z",
+  "updatedAt": "2026-02-04T07:06:42.168Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
+      "title": "Pokémon 30th Anniversary Nintendo Store Event Announced (US) - Nintendo Life",
+      "description": "Pokémon Day is almost here!",
+      "url": "https://www.nintendolife.com/news/2026/02/pokemon-30th-anniversary-nintendo-store-event-announced-us",
+      "urlToImage": "https://images.nintendolife.com/4aaacfef91d49/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-03T04:22:56Z"
+    },
+    {
+      "title": "Azure Striker Gunvolt Trilogy Enhanced ‘CONNECT iX’ Copen mode update now available - Gematsu",
+      "description": "Inti Creates has released an update for Azure Striker Gunvolt Trilogy Enhanced that adds the new “CONNECT iX” mode to Azure Striker Gunvolt 3, in which Copen from Gunvolt Chronicles: Lu…",
+      "url": "https://www.gematsu.com/2026/02/azure-striker-gunvolt-trilogy-enhanced-connect-ix-copen-mode-update-now-available",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/AZG-Trilogy-CONNECT-iX_02-02-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-02-03T03:00:39Z"
+    },
+    {
+      "title": "Nitro Deck 2 for Nintendo Switch 2 Is Up for Preorder at Amazon With a May 1 Release Date - IGN",
+      "description": "This might just be the best way to play your Switch 2, so here's how to make sure you get one.",
+      "url": "https://www.ign.com/articles/where-to-preorder-the-nitro-deck-2-for-nintendo-switch-2",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/02/02/nitro-deck-2-official-trailer-crkd-0-48-screenshot-1770062036873.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-02-03T01:15:00Z"
+    },
+    {
+      "title": "Android 16 QPR3: Pixel adds Adaptive Connectivity auto-switch, battery settings - 9to5Google",
+      "description": "With Android 16 QPR3, Google is introducing more granular Adaptive Connectivity settings on Pixel phones...",
+      "url": "http://9to5google.com/2026/02/02/pixel-adaptive-connectivity-settings/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Adaptive-connectivity-cover1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-03T00:54:00Z"
+    },
+    {
+      "title": "Google Home gets the upgrade we've all been waiting for - Android Police",
+      "description": "It's time to get physical",
+      "url": "https://www.androidpolice.com/google-home-gets-the-upgrade-weve-all-been-waiting-for/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/12/google-home-favorites-tab-16-9.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-02-02T23:33:33Z"
+    },
+    {
+      "title": "Where’s the February Pixel Update? - Droid Life",
+      "description": "Pixel updates are no longer released on the first Monday of the month, as Google has shifted to a schedule that gives it more flexibility and to release updates when they are truly ready. We probably don’t need to keep explaining this to you, so this may be t…",
+      "url": "https://www.droid-life.com/2026/02/02/wheres-the-february-pixel-update/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/02/Pixel-10-February-Update-scaled-2292x1200-cropped.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-02-02T23:03:57Z"
+    },
+    {
+      "title": "'People Have a Right to Be Pissed' — Dispatch Developer Apologizes to Fans Over Nintendo Switch Censorship, Says Disclaimer Wasn't Visible Enough - IGN",
+      "description": "The developer of a game censored due to Nintendo's content guidelines has apologized to fans and said it that its own disclaimer on the changes should have been more visible.",
+      "url": "https://www.ign.com/articles/people-have-a-right-to-be-pissed-dispatch-developer-apologizes-to-fans-over-nintendo-switch-censorship-says-disclaimer-wasnt-visible-enough",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/22/dispatch-blogroll-1761149597985.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-02-02T22:20:30Z"
+    },
+    {
+      "title": "12 Useful Mini Tools That Every Homeowner Should Have Around The Home - SlashGear",
+      "description": "Some solid mini tools for homeowners include the Husky Stubby Ratchet and Socket Set, the Leatherman Bond multitool, and the Kobalt Portable Mini Toolbox.",
+      "url": "https://www.slashgear.com/2086367/useful-home-mini-tool-every-homeowner-should-own/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/12-useful-mini-tools-that-every-homeowner-should-have-around-the-home/l-intro-1769534609.jpg",
+      "source": "SlashGear",
+      "publishedAt": "2026-02-02T21:30:00Z"
+    },
+    {
+      "title": "Jez Corden argues next Xbox could inherit Windows’ strengths and its flaws - Windows Central",
+      "description": "I've been using Windows almost daily for 30 years. I know my way around its idiosyncrasies and foibles. Will upgrading Xbox fans be caught off guard?",
+      "url": "https://www.windowscentral.com/gaming/xbox/the-next-xbox-is-a-pc-with-all-of-windows-strengths-will-it-come-with-its-weaknesses-too",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PYKVqUjZU9zoohy6d7JkQW-2560-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2026-02-02T21:20:21Z"
+    },
+    {
+      "title": "Adobe Animate is shutting down as company focuses on AI - TechCrunch",
+      "description": "Adobe Animate will be discontinued on March 1, 2026, as Adobe shifts its focus to AI.",
+      "url": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-95799630.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-02T21:15:03Z"
+    },
+    {
+      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks - BleepingComputer",
+      "description": "Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in multiple versions of Microsoft Office.",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/10/16/Office.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-02-02T21:00:07Z"
+    },
+    {
       "title": "Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes",
       "description": "While we’re waiting for Samsung to announce its next flagship phones, the company has unveiled a killer new feature. Here’s what it is and why it’s so ground-breaking.",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/02/01/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/02/02/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697fea496f30aaafda4a4ea0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "source": "Forbes",
-      "publishedAt": "2026-02-02T00:06:00Z"
+      "publishedAt": "2026-02-02T20:17:48Z"
     },
     {
-      "title": "Ditch app subscriptions with this Microsoft Office lifetime license - Mashable",
-      "description": "Get Microsoft Office apps for life for less than $5 each.",
-      "url": "https://mashable.com/article/feb-1-microsoft-office-professional-2021-for-windows",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/031Qi6jtx4Nf7UtuNU22hS2/hero-image.fill.size_1200x675.v1769582259.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-02-01T23:00:00Z"
+      "title": "Russia Is Building a Plasma Engine to Get Humans to Mars in 30 Days - AOL.com",
+      "description": "Plasma engines could be the future of human space travel, and Russia’s “manetoplasma rockets” have the most ambitious travel goals",
+      "url": "https://www.popularmechanics.com/space/rockets/a70162796/russian-plasma-engine-30-days/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/do4d96uQzoXPOdPnf1HvHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_popular_mechanics_812/2228659d5be2e8d96b8a644a1fd8eb3a",
+      "source": "Popular Mechanics",
+      "publishedAt": "2026-02-02T20:14:29Z"
     },
     {
-      "title": "Studio Display refresh looms with three key upgrades - 9to5Mac",
-      "description": "Studio Display shipping times are sliding into late February and early March, adding to mounting signs Apple’s long-rumored refresh is close.",
-      "url": "https://9to5mac.com/2026/02/01/studio-display-refresh-looms-with-three-key-upgrades/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Mac-mini-Sequoia-Studio-Display-FI-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-02-01T19:14:00Z"
+      "title": "Get Ready for New Pixel Theme Packs - Droid Life",
+      "description": "A new wave of Pixel Theme packs is on the way, but will it be another collaboration or something original for your Pixel 10? As a part of the November Pixel Feature Drop, Google first introduced us to Pixel Theme packs. These packs, at least in theory, would …",
+      "url": "https://www.droid-life.com/2026/02/02/get-ready-for-new-pixel-theme-packs/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/02/Pixel-Themes-2-scaled-2292x1200-cropped.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-02-02T20:07:09Z"
     },
     {
-      "title": "Pixel 10 and Pixel Watch 4 discounts return to the Google Store - 9to5Google",
-      "description": "After the inaugural 2026 deal, the US Google Store has brought back the same discounts on the Pixel 10 series and Pixel Watch 4.",
-      "url": "http://9to5google.com/2026/02/01/google-store-february-2026-pixel/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-Pro-XL-in-sunlight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Firefox is adding a switch to turn AI features off - The Verge",
+      "description": "Mozilla is launching a new option that will allow you to turn off AI-powered features inside Firefox, including abuilt-in chatbot, AI translations, AI tab groups, and more.",
+      "url": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/FX_Design_Blog_Header_1400x770.webp?quality=90&strip=all&crop=0,10.970966206568,100,78.058067586863",
+      "source": "The Verge",
+      "publishedAt": "2026-02-02T20:02:39Z"
+    },
+    {
+      "title": "Gemini Live rolling out floating pill redesign on Android - 9to5Google",
+      "description": "Since launch, Gemini Live has primarily been a fullscreen experience, but Google is now rolling out a floating pill redesign on Android.",
+      "url": "http://9to5google.com/2026/02/02/gemini-live-floating-redesign/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Gemini-Live-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-02-01T18:46:00Z"
+      "publishedAt": "2026-02-02T19:33:00Z"
     },
     {
-      "title": "M2’s Tokihiro NAITO and Skipmore announce pixel art ‘puzzle adventure shooter’ XeGrader plus for PC - Gematsu",
-      "description": "Tokihiro NAITO, a game designer and director who works for M2, has announced XeGrader plus, a fantasy “puzzle adventure shooter” with pixel art by Skipmore. It will be available for PC …",
-      "url": "https://www.gematsu.com/2026/02/m2s-tokihiro-naito-and-skipmore-announce-pixel-art-puzzle-adventure-shooter-xegrader-plus-for-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/XeGrader-plus-Ann_02-01-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-02-01T18:35:01Z"
+      "title": "There's Such A Thing As Too Much Dash-To-Axle And It Looks Like The Donkervoort P24 RS - Jalopnik",
+      "description": "If you want the Borzoi of motor vehicles, there's no better place to look.",
+      "url": "https://www.jalopnik.com/2091317/donkervoort-p24-rs-reveal-dash-to-axle-design/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/theres-such-a-thing-as-too-much-dash-to-axle-and-it-looks-like-the-donkervoort-p24-rs/l-intro-1770060654.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-02-02T19:31:47Z"
     },
     {
-      "title": "Escape from Tarkov ducks for its first major crossover event - Eurogamer",
-      "description": "Battlestate Games has confirmed its first major crossover event is on the way, and it's with Escape from Duckov.",
-      "url": "https://www.eurogamer.net/escape-from-tarkov-ducks-for-its-first-major-crossover-event",
-      "urlToImage": "https://assetsio.gnwcdn.com/G_9ZKkyXwAA76wk.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-02-01T17:56:24Z"
-    },
-    {
-      "title": "3 Clever Uses For Your Old Nintendo Wii - bgr.com",
-      "description": "You can turn your old Nintendo Wii into a media center, an emulation platform, or a homebrew console with the right mods and software. Here's how to do it.",
-      "url": "https://www.bgr.com/2086315/uses-for-your-old-nintendo-wii/",
-      "urlToImage": "https://www.bgr.com/img/gallery/3-clever-uses-for-your-old-nintendo-wii/l-intro-1769533905.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-01T17:47:00Z"
-    },
-    {
-      "title": "Fujifilm Fixed Its Biggest Pre-2024 Mistake: The Beauty of an Open X-Mount Lens Roundup - Fuji Rumors",
-      "description": "Full List of Third Party AF Fujifilm X mount lenses available on Amazon When I wrote the FujiRumors 14-year anniversary article, I mentioned that our journey wasn’t without difficult moments—and that Fujifilm, at times, made some serious mistakes. The biggest…",
-      "url": "https://www.fujirumors.com/fujifilm-fixed-its-biggest-pre-2024-mistake-the-beauty-of-an-open-x-mount-lens-roundup/",
-      "urlToImage": "https://www.fujirumors.com/wp-content/uploads/2026/02/Fujifilm-Mount.jpg",
-      "source": "Fujirumors.com",
-      "publishedAt": "2026-02-01T17:43:46Z"
-    },
-    {
-      "title": "Pokémon GO Events This Week: February 2 to February 8, 2026 - Pokémon GO Hub",
-      "description": "Pokémon GO’s February 2 to February 8 week has us entering the final month of Precious Paths! Get ready for carnival with the debut of Flamigo, and show off your catching skills with Oricorio. Plus the weekly rotating Spotlight and Raid Hours, Dynamax Battles…",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-february-2-to-february-8-2026/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/01/oricorio-catch-mastery.jpg",
-      "source": "Pokemon GO Hub",
-      "publishedAt": "2026-02-01T17:39:02Z"
-    },
-    {
-      "title": "Pokémon GO Pass: February - Pokémon GO Hub",
-      "description": "Pokémon GO's February 2026 GO Pass and GO Pass Deluxe feature exclusive rewards, including an encounter with Altered Forme Giratina, XP and Stardust bonuses, and the return of the PokéCoin bonus! Trainers can earn GO Points by completing Pass Tasks, unlock mi…",
-      "url": "https://pokemongohub.net/post/news/pokemon-go-pass-february/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/01/origin-giratina-go-pass.jpg",
-      "source": "Pokemon GO Hub",
-      "publishedAt": "2026-02-01T17:33:36Z"
-    },
-    {
-      "title": "This 12-Minute Bodyweight Routine Builds More Strength Than Hour-Long Gym Sessions - Eat This Not That",
-      "description": "12-minute bodyweight workout with exclusive CPT guidance to build full-body strength fast, no gym required.",
-      "url": "https://www.eatthis.com/12-minute-bodyweight-workout/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/01/shutterstock_2684087739b.jpg?quality=82&strip=all",
-      "source": "Eatthis.com",
-      "publishedAt": "2026-02-01T17:32:47Z"
-    },
-    {
-      "title": "Apple's Foldable iPhone Rumored to Feature Unrivaled Battery Life - MacRumors",
-      "description": "Apple's first foldable could feature the biggest ever iPhone battery and eclipse rival devices, according to a known leaker.   In a new post, the...",
-      "url": "https://www.macrumors.com/2026/02/01/foldable-iphone-to-feature-unrivaled-battery-life/",
-      "urlToImage": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-02-01T17:27:44Z"
-    },
-    {
-      "title": "This to-do app actually keeps up with my brain - Android Police",
-      "description": "Speaking is faster than typing, and it actually works",
-      "url": "https://www.androidpolice.com/this-to-do-app-actually-keeps-up-with-my-brain/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/01/todoist-ramble-featured-image.png?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2026-02-01T17:15:10Z"
-    },
-    {
-      "title": "The Science of the Modern Base Season: Why Zone 2 Isn’t Enough Anymore - Outside Magazine",
-      "description": "It's important to keep working hard all through the year, avoiding a major reliance on Zone 2 training. This is why.",
-      "url": "https://velo.outsideonline.com/road/road-training/the-science-of-the-modern-base-season-why-zone-2-isnt-enough-anymore/#article",
-      "urlToImage": "https://velo.outsideonline.com/wp-content/uploads/2026/02/Z8D_3896.jpg",
-      "source": "Outside",
-      "publishedAt": "2026-02-01T17:10:28Z"
-    },
-    {
-      "title": "Nintendo maintenance schedule - February 1, 2026 - Wii U and 3DS session coming this month - Nintendo Everything",
-      "description": "Nintendo has released its maintenance schedule for the week of February 1, 2026: As previously announced, a session is planned for Wii U and 3DS that’s happening later this month. Along with software downloads, the Nintendo eShop will be impacted. Below is th…",
-      "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-february-1-2026/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Wii-U-3DS-maintenance.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-02-01T17:05:10Z"
-    },
-    {
-      "title": "8 new Windows 11 features expected to arrive with the February 2026 update - Windows Central",
-      "description": "Microsoft's February \"Patch Tuesday\" for 2026 brings some quality changes to Windows 11, and this is what you need to know.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/8-features-expected-to-arrive-with-the-february-2026-update-for-windows-11",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bBYmqhaiuTLnB37p369wje-1920-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2026-02-01T17:00:00Z"
-    },
-    {
-      "title": "Underrated 2023 PS5, PS4 Adventure Game 80% Off on PS Store - PlayStation LifeStyle",
-      "description": "An underrated gem PS5, PS4 action adventure game from 2023 is a whopping 80% off in a limited-time PS Store deal.",
-      "url": "https://www.playstationlifestyle.net/2026/02/01/scars-above-ps-store-deal-february-2026/",
-      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/01/scars-above-ps-store-deal.jpg?resize=1200,630",
-      "source": "PlayStation LifeStyle",
-      "publishedAt": "2026-02-01T17:00:00Z"
-    },
-    {
-      "title": "Book Review: Super Nintendo: How One Japanese Company Helped The World Have Fun - Nintendo Life",
-      "description": "Super by name, super by nature",
-      "url": "https://www.nintendolife.com/features/book-review-super-nintendo-how-one-japanese-company-helped-the-world-have-fun",
-      "urlToImage": "https://images.nintendolife.com/58446a9d9d94d/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-02-01T17:00:00Z"
-    },
-    {
-      "title": "Phones don’t need yearly sequels anymore, and there’s never been a better time to start - 9to5Google",
-      "description": "Smartphones have gotten really boring over the past few years, with most year-over-year “upgrades” just acting as a rehash of...",
-      "url": "http://9to5google.com/2026/02/01/phones-dont-need-yearly-sequels-anymore/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Galaxy S26 is skipping built-in Qi2 magnets in latest leak - 9to5Google",
+      "description": "Leaks continue to tell us the GalaxyS26 series won’t be a particularly big upgrade, and it seems more likely than...",
+      "url": "http://9to5google.com/2026/02/02/galaxy-s26-is-skipping-built-in-qi2-magnets-in-latest-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-poster-leak-blass-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-02-01T17:00:00Z"
+      "publishedAt": "2026-02-02T19:20:00Z"
+    },
+    {
+      "title": "YouTube soft confirms a native Switch 2 app that’s ‘coming soon’ - Nintendo Wire",
+      "description": "Last night, a rumor started making the rounds that YouTube would be launching a native Switch 2 app for the popular video sharing platform. While no further",
+      "url": "https://nintendowire.com/news/2026/02/02/youtube-soft-confirms-a-native-switch-2-app-thats-coming-soon/",
+      "urlToImage": "https://nintendowire.com/wp-content/uploads/2026/02/Banner-NintendoSwitch2-YouTube.jpg",
+      "source": "Nintendo Wire",
+      "publishedAt": "2026-02-02T19:10:44Z"
+    },
+    {
+      "title": "Report: Ashes Of Creation Developer Intrepid Studios Shuts Down Weeks After The MMO's Early Access Launch - Game Informer",
+      "description": "Employees are posting on LinkedIn that the entire studio has been shut down.",
+      "url": "https://gameinformer.com/2026/02/02/report-ashes-of-creation-developer-intrepid-studios-shuts-down-weeks-after-the-mmos",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/02/02/319dac5f/ashes_of_creation_header_2.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-02-02T18:54:12Z"
     }
   ]
 }
