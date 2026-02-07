@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-02-06T07:09:02.637Z",
+  "updatedAt": "2026-02-07T06:57:30.265Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Latest macOS 26.3 beta adds to signs that new M5 MacBook Pros are imminent - 9to5Mac",
-      "description": "Today’s macOS 26.3 RC adds to the expectation that updated MacBook Pro versions with new M5 chips are coming sooner rather than later.",
-      "url": "https://9to5mac.com/2026/02/04/latest-macos-26-3-beta-adds-to-signs-that-new-m5-macbook-pros-are-imminent/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 Updated To Version 1.3.1, Here Are The Full Patch Notes - Nintendo Life",
+      "description": "Download it now",
+      "url": "https://www.nintendolife.com/news/2026/02/super-mario-galaxy-plus-super-mario-galaxy-2-updated-to-version-1-3-1-here-are-the-full-patch-notes",
+      "urlToImage": "https://images.nintendolife.com/34e49f03dfec4/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-06T03:51:59Z"
+    },
+    {
+      "title": "New iPhone launching this month with four key changes: report - 9to5Mac",
+      "description": "According to a new report today, Apple’s next iPhone is launching very soon. Macwelt reports that the iPhone 17e is...",
+      "url": "https://9to5mac.com/2026/02/05/new-iphone-launching-soon-with-four-new-features/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iPhone-16e-white-rear.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-02-05T02:51:00Z"
+      "publishedAt": "2026-02-05T23:52:00Z"
     },
     {
-      "title": "System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience - Phoronix",
-      "description": "Following December's release of COSMIC Epoch 1 along with the Pop!_OS 24.04 release by System76, today they shared more of their feature plans for the next two major COSMIC desktop updates.",
-      "url": "https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming",
-      "urlToImage": "https://www.phoronix.net/image.php?id=popos-2404-beta&image=popos_2404_4",
-      "source": "Phoronix",
-      "publishedAt": "2026-02-05T01:13:00Z"
+      "title": "Video: Hollow Knight Nintendo Switch 2 vs. Switch graphics comparison - Nintendo Everything",
+      "description": "Check out a new Hollow Knight Nintendo Switch 2 vs. Switch graphics comparison video following the new version's launch.",
+      "url": "https://nintendoeverything.com/video-hollow-knight-nintendo-switch-2-vs-switch-graphics-comparison/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Hollow-Knight-Switch-2-vs-Switch-comparison-1.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-02-05T22:41:45Z"
     },
     {
-      "title": "Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing - The Verge",
-      "description": "Valve is delaying the launch of the Steam Machine, Steam Frame, and Steam Controller, and it says that it has to revisit pricing because of the memory and storage crunch.",
-      "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-05T00:12:00Z"
-    },
-    {
-      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors - TechCrunch",
-      "description": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
-      "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-04T23:28:31Z"
-    },
-    {
-      "title": "Russian-state hackers exploit Office vulnerability to infect computers - Ars Technica",
-      "description": "The window to patch vulnerabilities is shrinking rapidly.",
-      "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
+      "title": "The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica",
+      "description": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't.",
+      "url": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/coolboarders-1152x648-1770328338.jpg",
       "source": "Ars Technica",
-      "publishedAt": "2026-02-04T23:08:04Z"
+      "publishedAt": "2026-02-05T22:14:34Z"
     },
     {
-      "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps - TechCrunch",
-      "description": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
-      "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/gizmo-app.jpg?resize=1200,764",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-04T21:45:32Z"
-    },
-    {
-      "title": "Overwatch’s Heroes Are Getting Hotter, Here’s Why - Kotaku",
-      "description": "Blizzard says that it’s hoping for more character diversity moving forward",
-      "url": "https://kotaku.com/overwatch-heroes-characters-hotter-young-skins-collab-2000665796",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/02/Anran-1200x675.jpg",
+      "title": "Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos - Kotaku",
+      "description": "Jetpack Cat can tether onto allies and enemies and fly them around the battlefield",
+      "url": "https://kotaku.com/overwatch-jetpack-cat-tether-bob-dva-ultimate-flight-2000666163",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/02/download-1200x675.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-02-04T21:38:59Z"
+      "publishedAt": "2026-02-05T21:45:12Z"
     },
     {
-      "title": "Nintendo’s new Virtual Boy is more fun to look at than to play - The Verge",
-      "description": "The new Virtual Boy headset looks like a gorgeous blast from Nintendo’s past, but the games definitely show their age.",
-      "url": "https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-04-at-9.02.44%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C3.3616601455206%2C100%2C93.276679708959&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-04T21:37:50Z"
+      "title": "SUPER BOMBERMAN COLLECTION - Nintendo Switch 2 Edition for Nintendo Switch 2 - Nintendo",
+      "description": "Buy SUPER BOMBERMAN COLLECTION - Nintendo Switch 2 Edition and shop other great Nintendo products online at the official My Nintendo Store.",
+      "url": "https://www.nintendo.com/us/store/products/super-bomberman-collection-nintendo-switch-2-edition-switch-2/",
+      "urlToImage": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000113451/95dbce46ffbe632089717c5dc5f8583584c617f0c8a8752145528f71615eb717",
+      "source": "Nintendo.com",
+      "publishedAt": "2026-02-05T21:40:50Z"
     },
     {
-      "title": "\"This has been heartbreaking\" - laid-off Ashes Of Creation devs won't get final paychecks and compensation, says former comms head - Rock Paper Shotgun",
-      "description": "Ashes Of Creation devs laid off during the reported closure of Intrepid Studios will not receive the compensation they're due, according to a former comms head.",
-      "url": "https://www.rockpapershotgun.com/this-has-been-heartbreaking-laid-off-ashes-of-creation-devs-wont-get-final-paychecks-and-compensation-says-former-comms-head",
-      "urlToImage": "https://assetsio.gnwcdn.com/ashesofcreation1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Rock Paper Shotgun",
-      "publishedAt": "2026-02-04T19:20:37Z"
-    },
-    {
-      "title": "At 82, he’s as fit as a 20-year-old. His body holds clues to healthy aging. - washingtonpost.com",
-      "description": "Scientists are studying Juan López García, 82, a world-record-holding ultramarathoner, to learn how we can stay healthy as we age.",
-      "url": "https://www.washingtonpost.com/wellness/2026/02/04/healthy-aging-juan-lopez-garcia-ultramarathoner/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y6ZWVTIKQDFN6HOCZDRJM3NJGE.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-02-04T19:00:00Z"
-    },
-    {
-      "title": "GitHub adds Claude and Codex AI coding agents - The Verge",
-      "description": "GitHub is adding rival AI agents from Anthropic and OpenAI. Claude and Codex are both available in preview in GitHub for developers",
-      "url": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/githubclaudehero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-04T17:00:00Z"
-    },
-    {
-      "title": "Six New Leagues Coming to Apple Sports - MacRumors",
-      "description": "Following today's update, Apple plans to add support for six new soccer leagues to the next version of the Sports app, MacRumors has discovered. ...",
-      "url": "https://www.macrumors.com/2026/02/04/six-new-leagues-coming-to-apple-sports/",
-      "urlToImage": "https://images.macrumors.com/t/6s7x2HgD6QPrXonOrV6Bt7KgeyA=/2500x/article-new/2026/02/Apple-Sports-Feature.jpg",
+      "title": "Tim Cook Teases Plans for Apple's Upcoming 50th Anniversary - MacRumors",
+      "description": "Apple turns 50 this year, and its CEO Tim Cook has promised to celebrate the milestone. The big day falls on April 1, 2026.   \"I've been...",
+      "url": "https://www.macrumors.com/2026/02/05/tim-cook-teases-apple-50th-anniversary/",
+      "urlToImage": "https://images.macrumors.com/t/q2Y06RgtQ3e5H8J0E83j51QxwFE=/1920x/article-new/2026/02/Apple-Logo-Zoomed.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-02-04T16:15:49Z"
+      "publishedAt": "2026-02-05T20:54:35Z"
     },
     {
-      "title": "Amazon Discounts Anker's Newest Prime Chargers - MacRumors",
-      "description": "Earlier this week, Anker debuted its new Prime 3-in-1 Wireless Charging Station with a launch discount on Amazon. If ordered this week, you can clip...",
-      "url": "https://www.macrumors.com/2026/02/04/amazon-ankers-newest-prime-chargers/",
-      "urlToImage": "https://images.macrumors.com/t/clnIj8VhPKoYPTgHv033RcsdEVI=/2500x/article-new/2026/02/anker-charging-february.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2026-02-04T15:59:58Z"
+      "title": "GO Battle League Now Awards Championship Points: Leaderboard Challenges Explained - Pokémon GO Hub",
+      "description": "Scopely and The Pokémon Company have announced a major competitive expansion for Pokémon GO: Pokémon GO Battle League Leaderboard Challenges. This new system lets GO Battle League players earn Championship Points directly from in-game battles, creating a clea…",
+      "url": "https://pokemongohub.net/post/news/go-battle-league-leaderboard-challenges/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/02/go-battle-league-leaderboard-challenge.webp",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-02-05T20:49:12Z"
     },
     {
-      "title": "Stardew Valley is getting two new \"marriage candidates\" and more interesting children in its upcoming 1.7 update - Eurogamer",
-      "description": "Update 1.7 for Stardew Valley will add two extra characters that can be married and upgrade the children, developer ConcernedApe has now confirmed.",
-      "url": "https://www.eurogamer.net/stardew-valley-getting-new-marriage-options-better-children-in-next-update",
-      "urlToImage": "https://assetsio.gnwcdn.com/Stardew-Valley_Jas-custom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google",
+      "description": null,
+      "url": "http://9to5google.com/2026/02/05/samsung-galaxy-s26-upgrades-price-hike/",
+      "urlToImage": null,
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-05T20:05:00Z"
+    },
+    {
+      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46903616",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2026-02-05T19:26:29Z"
+    },
+    {
+      "title": "My AI Adoption Journey - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46903558",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2026-02-05T19:16:26Z"
+    },
+    {
+      "title": "Oblivion, Skyrim And Fallout Switch 2 Physicals Will All Be Code-In-A-Box, Bethesda Confirms - Nintendo Life",
+      "description": "Indy whips up a proper physical instead",
+      "url": "https://www.nintendolife.com/news/2026/02/oblivion-skyrim-and-fallout-switch-2-physicals-will-all-be-code-in-a-box-bethesda-confirms",
+      "urlToImage": "https://images.nintendolife.com/5fc2023c2b33d/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-05T18:15:00Z"
+    },
+    {
+      "title": "Amazon Users Call This Handy $14 USB Gadget The 'Perfect Gift' - bgr.com",
+      "description": "With a built-in USB connection and a magnetic base, this keychain flashlight is a steal at only $14 for Amazon Prime subscribers.",
+      "url": "https://www.bgr.com/2089252/amazon-usb-gadget-rechargable-keychain-flashlight/",
+      "urlToImage": "https://www.bgr.com/img/gallery/amazon-users-call-this-handy-14-usb-gadget-the-perfect-gift/l-intro-1769798047.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-02-05T17:17:00Z"
+    },
+    {
+      "title": "Preparing for your second Expedition - ARC Raiders",
+      "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+      "url": "https://arcraiders.com/news/second-expedition-rewards-and-requirements",
+      "urlToImage": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+      "source": "Arcraiders.com",
+      "publishedAt": "2026-02-05T17:02:39Z"
+    },
+    {
+      "title": "Square Enix Will 'Share More Updates Than Ever Before' on Final Fantasy 7 Remake Project This Year, Says Director - IGN",
+      "description": "Square Enix is planning to \"share more updates than ever before\" on its Final Fantasy 7 Remake project this year, according to game director Naoki Hamaguchi.",
+      "url": "https://www.ign.com/articles/square-enix-will-share-more-updates-than-ever-before-on-final-fantasy-7-remake-project-this-year-says-director",
+      "urlToImage": "https://assets1.ignimgs.com/2019/11/25/aerith-keyart-1920x1080-1574695314570.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-02-05T16:28:47Z"
+    },
+    {
+      "title": "Today’s Nintendo Direct Was A Damning Display Of The State Of Switch 2 - Kotaku",
+      "description": "Without a single original big-name reveal, the Switch 2 feels like the home of the afterthought",
+      "url": "https://kotaku.com/nintendo-direct-switch-2-games-fallout-elder-scrolls-2000666038",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/02/switch2question-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-02-05T16:27:51Z"
+    },
+    {
+      "title": "Resident Evil Requiem's Amiibo Get The Spotlight In A New Switch 2 Trailer - Nintendo Life",
+      "description": "They look... okay?",
+      "url": "https://www.nintendolife.com/news/2026/02/resident-evil-requiems-amiibo-get-the-spotlight-in-a-new-switch-2-trailer",
+      "urlToImage": "https://images.nintendolife.com/7025ea4364509/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-05T16:15:00Z"
+    },
+    {
+      "title": "Horizon Hunters Gathering is a three-player tactical co-op game that looks a bit like Dauntless (with a closed playtest coming soon) - Eurogamer",
+      "description": "Guerrilla and PlayStation have lifted the lid on Horizon Hunters Gathering, a new co-op game set for PC and PS5.",
+      "url": "https://www.eurogamer.net/horizon-hunters-gathering-is-a-three-player-tactical-co-op-game-that-looks-a-bit-like-dauntless-with-a-closed-playtest-coming-soon",
+      "urlToImage": "https://assetsio.gnwcdn.com/Aloy-puts-a-hand-on-Errand's-shoulder-in-Horizon-Hunters-Gathering-trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
-      "publishedAt": "2026-02-04T15:26:13Z"
+      "publishedAt": "2026-02-05T16:06:38Z"
     },
     {
-      "title": "Samsung starts teasing Galaxy S26's camera capabilities - SamMobile",
-      "description": "With the official announcement of the Galaxy S26 series just a few weeks away, Samsung has begun teasing some of its upcoming features. A few days ago, the company introduced the Privacy Display feature, which is designed to protect user data from shoulder su…",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-camera-teaser-videos/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Plus-camera-app-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2026-02-04T15:10:00Z"
-    },
-    {
-      "title": "GTA 6 Was Revealed Four Years Ago Today - GameSpot",
-      "description": "Two trailers in four years.",
-      "url": "https://www.gamespot.com/articles/gta-6-was-revealed-four-years-ago-today/1100-6537916/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4646447-grandtheftautovitrailer11-16screenshotlarge.jpeg",
-      "source": "GameSpot",
-      "publishedAt": "2026-02-04T15:01:51Z"
-    },
-    {
-      "title": "Spotify launches offline lyrics, translations, and lyric previews - The Verge",
-      "description": "Spotify is expanding lyric translations to all users worldwide and introducing lyric previews, along with offline lyrics for Spotify Premium users.",
-      "url": "https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-04T14:31:10Z"
-    },
-    {
-      "title": "iPhone 17 Pro Max has the best battery life of 35 smartphones tested - 9to5Mac",
-      "description": "Battery life tests carried out by CNET reveal that the iPhone 17 Pro Max has the best battery life of...",
-      "url": "https://9to5mac.com/2026/02/04/iphone-17-pro-max-has-the-best-battery-life-of-35-smartphones-tested/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iPhone-17-Pro-Max-has-the-best-battery-life-of-35-smartphones-tested.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-02-04T14:07:00Z"
+      "title": "GameShare just took me from interested in Switch 2's beautiful co-op space opera Orbitals, to overwhelmingly excited - Eurogamer",
+      "description": "Tell me I can play something that looks this good with a partner, across two Switches, for the entry price of just the one game, and I'm sold.",
+      "url": "https://www.eurogamer.net/gameshare-just-took-me-from-interested-in-switch-2s-beautiful-co-op-space-opera-orbitals-to-overwhelmingly-excited",
+      "urlToImage": "https://assetsio.gnwcdn.com/orbitals.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-02-05T15:44:42Z"
     }
   ]
 }
