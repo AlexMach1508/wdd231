@@ -1,55 +1,71 @@
 {
-  "updatedAt": "2026-02-11T07:16:27.988Z",
+  "updatedAt": "2026-02-12T07:15:00.308Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Kid Rock Sounds Off on Bad Bunny’s Super Bowl Halftime Show: ‘I Didn’t Understand Any of It’ and ‘I Fault the NFL’ - Variety",
-      "description": "Kid Rock said he 'didn't understand' any of Bad Bunny's Super Bowl Halftime Show.",
-      "url": "https://variety.com/2026/music/news/kid-rock-bad-bunny-super-bowl-halftime-show-nfl-1236657634/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/02/MixCollage-09-Feb-2026-06-04-PM-1122.jpg?crop=15px%2C18px%2C1170px%2C658px&resize=1000%2C563",
+      "title": "Inside the Oscars Luncheon: Ryan Coogler’s Big Moment, a Buckley–Byrne Hug, and Emma Stone and Timothée Chalamet Holding It Down at Table 3 - Variety",
+      "description": "The Oscars nominees luncheon took place where this year's artists were celebrated including Timothee Chalamet, Emma Stone, Jessie Buckley and more.",
+      "url": "https://variety.com/2026/film/news/oscars-nominees-luncheon-2026-1236657491/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/02/MixCollage-10-Feb-2026-05-48-PM-8198.jpg?crop=0px%2C0px%2C1200px%2C675px&resize=1000%2C563",
       "source": "Variety",
-      "publishedAt": "2026-02-10T02:16:00Z"
+      "publishedAt": "2026-02-11T02:17:00Z"
     },
     {
-      "title": "‘Wuthering Heights’: What the Critics Are Saying - The Hollywood Reporter",
-      "description": "The Emerald Fennell-directed film, starring Margot Robbie and Jacob Elordi, hits theaters on Feb. 13.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/wuthering-heights-review-roundup-critics-1236500830/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/rev-1-WHE-T2-0061_High_Res_JPEG-H-2025.jpg?w=1296&h=730&crop=1",
+      "title": "‘Wuthering Heights’ To Seduce The World With $70M+ Opening – Box Office Preview - Deadline",
+      "description": "The first big weekend of the 2026 box office arrives Friday with three major studio movies aimed at three different demos: women, families and guys over 25. However, the tallest of them all is the Jacob Elordi-Margot Robbie pic Wuthering Heights Warner Bros, …",
+      "url": "http://deadline.com/2026/02/wuthering-heights-box-office-projection-jacob-elordi-1236714805/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/MCDWUHE_WB035.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-02-10T23:50:00Z"
+    },
+    {
+      "title": "The Swamp: What Kennedy Center Boss Really Knew About Trump’s Shutdown - The Daily Beast",
+      "description": "The Kennedy Center’s imminent closure takes a surprise new twist, our must-read newsletter reveals.",
+      "url": "https://www.thedailybeast.com/the-swamp-what-kennedy-center-boss-really-knew-about-trumps-shutdown/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/YHR6TLIRKFFFTKY7K4C4XVLMTU.jpg?smart=true&auth=bd8ebd7f99ea1fb1254354d9318bc309d5d28c38de78115589ca90077a6afaeb&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2026-02-10T23:48:00Z"
+    },
+    {
+      "title": "Couple from Tampa got engaged during Bad Bunny Super Bowl halftime show - Tampa Bay Times",
+      "description": "Tampa’s dance community surprised to see one of their own on world’s biggest stage.",
+      "url": "https://www.tampabay.com/news/tampa/2026/02/10/bad-bunny-engaged-proposal-couple-married-halftime/",
+      "urlToImage": "https://www.tampabay.com/resizer/v2/ZF7WUVM7BZD6NBWQIT7KGIR544.jpeg?auth=c475c7c537dfb4263ca1fbe5029d2b884240ffeba77b0b96806f78efbb3f9cdd&height=675&width=1200&smart=true",
+      "source": "Tampa Bay Times",
+      "publishedAt": "2026-02-10T23:32:39Z"
+    },
+    {
+      "title": "Kid Rock Swears He Wasn’t Lip-Synching at the Pretaped TPUSA Halftime Show - Rolling Stone",
+      "description": "Kid Rock insisted he wasn't lip-synching at the Turning Point USA halftime show, but acknowledged his pretaped performance was out of sync.",
+      "url": "http://www.rollingstone.com/music/music-news/kid-rock-denies-lip-synching-turning-point-usa-halftime-1235514334/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/02/GettyImages-2210956654.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-02-10T20:40:46Z"
+    },
+    {
+      "title": "‘Spider-Noir’ Unveils New Photos Of Nicolas Cage’s The Spider, Robbie Robertson, Cat Hardy & Janet - Deadline",
+      "description": "We're a getting a peek at the characters in Prime Video's upcoming live-action series Spider-Noir, starring Nicolas Cage as The Spider.",
+      "url": "http://deadline.com/2026/02/spider-noir-photos-nicolas-cage-the-spider-robbie-robertson-1236714669/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/NORE_Still_7_3000.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-02-10T20:09:00Z"
+    },
+    {
+      "title": "Ryan Coogler Goes Deep on Shattering Oscar Records, Losing Chadwick and Battling Impostor Syndrome - The Hollywood Reporter",
+      "description": "The ‘Sinners' director silenced skeptics by scoring big at the box office and making the most nominated film ever. After a decade of hitmaking, is he finally ready to admit that this is where he deserves to be?",
+      "url": "http://www.hollywoodreporter.com/movies/movie-features/ryan-coogler-interview-sinners-oscars-chadwick-boseman-1236500968/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/ClaremontxSanFran17556-SPLASH-2026.jpg?w=1440&h=810&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2026-02-10T01:43:25Z"
+      "publishedAt": "2026-02-10T14:01:43Z"
     },
     {
-      "title": "Catherine O'Hara cause of death confirmed as pulmonary embolism - BBC",
-      "description": "The Schitt's Creek and Home Alone actress died last month in a US hospital, at the age of 71.",
-      "url": "https://www.bbc.com/news/articles/ckg19nql0w8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/557e/live/879b36b0-0607-11f1-8c32-271a400f2f4c.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-10T01:26:32Z"
-    },
-    {
-      "title": "Travis Kelce’s Ex Kayla Nicole Pokes Fun at His Relationship With Taylor Swift in Super Bowl Ad - Billboard",
-      "description": "Travis Kelce's ex Kayla Nicole poked fun at his romance with Taylor Swift in a Super Bowl ad also starring Offset and Tiffany Haddish.",
-      "url": "http://www.billboard.com/music/music-news/travis-kelce-ex-kayla-nicole-pokes-fun-taylor-swift-sb-ad-1236176948/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/02/P115P0LL-e1770676437545.jpg?w=1024",
-      "source": "Billboard",
-      "publishedAt": "2026-02-09T23:14:46Z"
-    },
-    {
-      "title": "King's 'profound concern' as police consider Andrew claims over Epstein - BBC",
-      "description": "Making his first intervention in the Epstein scandal, the King said he is ready to support the police in their inquiries.",
-      "url": "https://www.bbc.com/news/articles/cqlgv3z79klo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6298/live/d9724e40-05e6-11f1-b7e1-afb6d0884c18.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-09T20:13:41Z"
-    },
-    {
-      "title": "Best and worst Super Bowl commercials of 2026 as rated by experts - cbsnews.com",
-      "description": "Google and Pepsi were among the best ads of the Big Game, while Coinbase and ai.com got failing grades, according to one ranking.",
-      "url": "https://www.cbsnews.com/news/best-worst-super-bowl-commercials-2026/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/09/507c6fd8-05dd-4d52-86b4-42532e183f63/thumbnail/1200x630/74243eab9f43fe94052dbe6aaf07da73/google-sb-new-home-thumbnail-16x9.jpg",
+      "title": "Catherine O'Hara's cause of death was a pulmonary embolism, with cancer as underlying cause, AP reports - CBS News",
+      "description": "Catherine O'Hara, known for her roles in \"Home Alone,\" \"Schitt's Creek\" and \"Beetlejuice,\" died on Jan. 30 at the age of 71.",
+      "url": "https://www.cbsnews.com/news/catherine-ohara-cause-of-death-pulmonary-embolism-cancer/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/09/c6c650e6-05b6-4690-b105-5a434e29916a/thumbnail/1200x630g4/8d66c434fe355b07e110cd3d41e80a71/gettyimages-1187047113.jpg",
       "source": "CBS News",
-      "publishedAt": "2026-02-09T13:19:00Z"
+      "publishedAt": "2026-02-10T00:06:48Z"
     }
   ]
 }
