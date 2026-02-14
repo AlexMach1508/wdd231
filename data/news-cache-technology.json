@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-02-13T07:12:38.550Z",
+  "updatedAt": "2026-02-14T07:00:42.053Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini - NBC News",
-      "description": "Google says its flagship AI chatbot, Gemini, has been inundated by “commercially motivated” actors who are trying to clone the chatbot.",
-      "url": "https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-google-ww-1810-a0892a.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-02-12T07:00:00Z"
+      "title": "Samsung Galaxy S26 colors, renders leak. See them now. - Mashable",
+      "description": "We've got the images.",
+      "url": "https://mashable.com/article/samsung-galaxy-s26-leak",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02N5LVDl7Qxbtk9cjX1oITu/hero-image.fill.size_1200x675.v1770904149.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-02-13T06:33:58Z"
     },
     {
-      "title": "Mario Tennis Fever Takes To The Court With A Small Day One Game Update - Nintendo Life",
-      "description": "Version 1.0.1 is required to play online",
-      "url": "https://www.nintendolife.com/news/2026/02/mario-tennis-fever-takes-to-the-court-with-a-small-day-one-game-update",
-      "urlToImage": "https://images.nintendolife.com/2d802de77cb6a/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-02-12T01:30:00Z"
+      "title": "Metal Gear Solid: Master Collection Vol. 1 2.1.0 update out now, includes Nintendo Switch 2 improvements - Nintendo Everything",
+      "description": "Metal Gear Solid Master Collection Vol. 1 gets new 2.1.0 update, including tech upgrades on Nintendo Switch 2 - check out the patch notes.",
+      "url": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-1-2-1-0-update-out-now-includes-nintendo-switch-2-improvements/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Metal-Gear-Solid-Master-Collection-Vol.-1-2.1.0-update.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-02-13T02:59:18Z"
     },
     {
-      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks - BleepingComputer",
-      "description": "Apple has released security updates to fix a zero-day vulnerability that was exploited in an \"extremely sophisticated attack\" targeting specific individuals.",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/12/01/back.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-02-12T01:06:05Z"
-    },
-    {
-      "title": "Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch - The Verge",
-      "description": "Highguard developer Wildlight Entertainment has laid off “most of the team,” according to a former staffer on LinkedIn. Highguard launched in late January.",
-      "url": "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_6a0272b3cd10c3ffa73b8b8e7855817f3ab75d50.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-12T00:30:00Z"
-    },
-    {
-      "title": "Blizzard Is Bringing The Warlock Class To Diablo IV: Lord Of Hatred, Diablo II, And Diablo Immortal - Game Informer",
-      "description": "You can play as the Warlock in Diablo II starting today as part of the new Reign of the Warlock DLC.",
-      "url": "https://gameinformer.com/2026/02/11/blizzard-is-bringing-the-warlock-class-to-diablo-iv-lord-of-hatred-diablo-ii-and-diablo",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/02/11/2ec4c5b1/diablo_warlock_1.jpg.webp",
+      "title": "Everything Announced At The February PlayStation State Of Play - Game Informer",
+      "description": "Here's everything announced at the February 2026 State of Play, in case you missed the big stream.",
+      "url": "https://gameinformer.com/state-of-play/2026/02/12/everything-announced-at-the-february-playstation-state-of-play",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/02/12/8a872a69/large_1.jpg.webp",
       "source": "Gameinformer.com",
-      "publishedAt": "2026-02-11T22:59:07Z"
+      "publishedAt": "2026-02-13T01:29:28Z"
     },
     {
-      "title": "Apple’s Siri revamp reportedly delayed… again - TechCrunch",
-      "description": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in Septemb…",
-      "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-11T21:19:46Z"
-    },
-    {
-      "title": "Rules of mysterious ancient board game decoded by AI, scientists say - CBS News",
-      "description": "The aim of the \"deceptively simple but thrilling strategy game\" was to hunt and trap the opponent's pieces in as few moves as possible, scientists said.",
-      "url": "https://www.cbsnews.com/news/mysterious-ancient-board-game-rules-decoded-ai-scientists/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/02/11/00acc264-6eb4-44dd-87d6-5e2edcb995f6/thumbnail/1200x630/353f1fe673375b134e9f36395423ef33/bord-game-urn-cambridge-org-id-binary-20260211104309887-0006-s0003598x25102640-s0003598x25102640-fig1.png",
-      "source": "CBS News",
-      "publishedAt": "2026-02-11T20:57:34Z"
-    },
-    {
-      "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users - TechCrunch",
-      "description": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of a victim's computer by clicking a malicious link or opening a file. Patch now.",
-      "url": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-11T20:46:40Z"
-    },
-    {
-      "title": "Jurassic Park: Classic Games Collection To Be Delisted Just Two Years After Release - Nintendo Life",
-      "description": "Extinction",
-      "url": "https://www.nintendolife.com/news/2026/02/jurassic-park-classic-games-collection-to-be-delisted-just-two-years-after-release",
-      "urlToImage": "https://images.nintendolife.com/86c6e8b3ea063/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-02-11T20:45:00Z"
-    },
-    {
-      "title": "Is Therian Enamorus Worth Raiding in Pokémon GO? Full Meta Breakdown - Pokémon GO Hub",
-      "description": "We are in that time of the year when hearts are made (or break), soulmates meet (or leave). We are in Valentine's Week, so staying true to this love-hate theme, we have a raid day, right on the big love day itself! Starting on 14th February, 2-5pm, the Love-H…",
-      "url": "https://pokemongohub.net/post/meta/is-therian-enamorus-worth-raiding-in-pokemon-go-full-meta-breakdown/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/02/enamorus.jpg",
-      "source": "Pokemon GO Hub",
-      "publishedAt": "2026-02-11T20:43:46Z"
-    },
-    {
-      "title": "Here's when the Samsung Galaxy Z TriFold may be back in stock - GSMArena.com news - GSMArena.com",
-      "description": "A new rumor from Korea sheds some light on what we can expect. Samsung's first dual-folding device, the Galaxy Z TriFold, sold out in minutes in both Korea...",
-      "url": "https://www.gsmarena.com/heres_when_the_samsung_galaxy_z_trifold_may_be_back_in_stock-news-71511.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/02/samsung-galaxy-z-trifold-us-restocking/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-02-11T20:37:02Z"
-    },
-    {
-      "title": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices - Ars Technica",
-      "description": "It's getting a little easier to move from iOS to Android, if that's your thing.",
-      "url": "https://arstechnica.com/gadgets/2026/02/apple-releases-ios-26-3-with-updates-that-mainly-benefit-non-apple-devices/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-02-11T19:49:13Z"
-    },
-    {
-      "title": "Apple is about to launch a ‘game-changer’ iPhone - thestreet.com",
-      "description": "Apple is about to pull a classic move while leaning into affordability.",
-      "url": "https://www.thestreet.com/investing/apple-is-about-to-launch-a-game-changer-iphone",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODc5Mjk5/tim-cook-chief-executive-officer-of-apple-inc-during-an-event-at-apple-park-campus-in-cupertino-california-us-on-monday-sept-9-2024-apple-inc-unveiled-a-new-version-of-its-smartwatch-with-a-bigger-scr.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2026-02-11T19:33:00Z"
-    },
-    {
-      "title": "Overwatch's new \"story-driven era\" launch doubles release day concurrent record on Steam | News-in-Brief - GamesIndustry.biz",
-      "description": "The resource for people who make and sell games.",
-      "url": "https://www.gamesindustry.biz/overwatchs-new-story-driven-era-launch-doubles-release-day-concurrent-record-on-steam-news-in-brief",
-      "urlToImage": "https://assetsio.gnwcdn.com/Overwatch-2.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2026-02-11T19:18:46Z"
-    },
-    {
-      "title": "Samsung’s offering up to $900 of trade-in credit toward its new phones - The Verge",
-      "description": "Samsung’s Unpacked is coming, where it’ll likely debut the Galaxy S26, along with some wearables and earbuds. Here’s how to get some preorder perks.",
-      "url": "https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/galaxyai.jpg?quality=90&strip=all&crop=0,10.699162574239,100,78.601674851523",
-      "source": "The Verge",
-      "publishedAt": "2026-02-11T18:55:36Z"
-    },
-    {
-      "title": "Google announces Android 17 Beta 1, officially signaling the death of Developer Previews [UPDATE] - Android Police",
-      "description": "Platform Stability expected in March",
-      "url": "https://www.androidpolice.com/android-17-beta-rolling-out-now/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-17-hero.jpg?w=1200&h=675&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2026-02-11T18:00:10Z"
-    },
-    {
-      "title": "Get the Excellent Sonos Arc Soundbar with Dolby Atmos for Half the Price of an Arc Ultra - IGN",
-      "description": "Certified refurbished from Sonos direct with the same warranty as buying new.",
-      "url": "https://www.ign.com/articles/sonos-arc-soundbar-deal-sonos-presidents-day-sale",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/02/10/sonosarc3-1770747387711.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-02-11T16:45:59Z"
-    },
-    {
-      "title": "Celebrating the 2025 Xbox Excellence Awards - Xbox Wire",
-      "description": "Join us in celebrating the year’s most outstanding games and the teams behind them with the 2025 Xbox Excellence Awards. Check out the full list and winners here: #url#",
-      "url": "https://news.xbox.com/en-us/2026/02/11/xbox-excellence-awards-2025/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/02/XboxExcellenceAwards-ee3f19dfbac652492cd1.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-02-11T16:02:18Z"
-    },
-    {
-      "title": "Reanimal wants to devour you - The Verge",
-      "description": "Tarsier, the studio behind the Little Nightmares series, is back with horror game Reanimal, which launches on February 13th on the PS5, Xbox, PC, and Switch 2.",
-      "url": "https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/REANIMAL_Screenshot_6.jpg?quality=90&strip=all&crop=0%2C3.4719740594264%2C100%2C93.056051881147&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-11T16:00:00Z"
-    },
-    {
-      "title": "After cutting half of 2XKO's team less than 30 days from launch, I have to ask: how can any of us get behind a new Riot game ever again? - Eurogamer",
-      "description": "Riot Games is cutting roughly half the development roles on the 2XKO team, the latest in a string of fumbles by the company.",
-      "url": "https://www.eurogamer.net/2xkos-cuts-layoffs-how-can-any-of-us-get-behind-a-new-riot-game-ever-again",
-      "urlToImage": "https://assetsio.gnwcdn.com/riot-jinx.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Open world PS5 game Project Windless is part-God of War, part-Dynasty Warriors, and has a veteran Far Cry director as its lead - Eurogamer",
+      "description": "Krafton has unveiled open-world fantasy adventure Project Windless for PlayStation 5 and PlayStation 5 Pro.",
+      "url": "https://www.eurogamer.net/open-world-ps5-game-project-windless",
+      "urlToImage": "https://assetsio.gnwcdn.com/project-windless-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
-      "publishedAt": "2026-02-11T15:00:11Z"
+      "publishedAt": "2026-02-13T01:01:16Z"
+    },
+    {
+      "title": "Castlevania: Belmont's Curse Unveiled For Switch, Launching In 2026 - Nintendo Life",
+      "description": "\"Set 23 years after Castlevania Dracula's Curse\"",
+      "url": "https://www.nintendolife.com/news/2026/02/castlevania-belmonts-curse-unveiled-for-switch-launching-in-2026",
+      "urlToImage": "https://images.nintendolife.com/19350f62e4f7c/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-13T01:00:00Z"
+    },
+    {
+      "title": "Resident Evil Requiem Trailer Reveals Leon Is, Sadly, Once Again Infected — And Another Returning Character | Sony State of Play - IGN",
+      "description": "Tonight's State of Play broadcast has given us one last look at Capcom's tantalizing Resident Evil: Requiem — and confirmed what many fans had previously deduced: Leon S. Kennedy is once again infected.",
+      "url": "https://www.ign.com/articles/resident-evil-requiem-trailer-reveals-leon-is-sadly-once-again-infected-and-another-returning-character-sony-state-of-play",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/02/05/nintendo-direct-partner-showcase-2-5-2026-52-21-screenshot-1770302005065.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-02-12T23:58:27Z"
+    },
+    {
+      "title": "New ‘God of War’ Game ‘Sons of Sparta’ Surprise Launches on PlayStation, Original Trilogy Remake in the Works - Variety",
+      "description": "A new \"God of War\" game surprise launched for PlayStation Thursday, just as the publisher revealed a remake of the original \"God of War\" trilogy is in the works.",
+      "url": "https://variety.com/2026/gaming/news/god-of-war-game-sons-of-sparta-original-trilogy-remake-1236661145/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/12/GodOfWar.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-02-12T23:17:00Z"
+    },
+    {
+      "title": "Crystal Dynamics just announced the first new Legacy of Kain game in 23 years (and another slick-looking Soul Reaver remaster, too) - Eurogamer",
+      "description": "Legacy of Kain is back with an old classic, and some fresh blood: and both release sooner than you'd think.",
+      "url": "https://www.eurogamer.net/legacy-of-kain-ascendance-defiance-remastered-release-dates-march",
+      "urlToImage": "https://assetsio.gnwcdn.com/lok-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-02-12T23:16:15Z"
+    },
+    {
+      "title": "‘Marathon’ Announces Free Open Beta Release Date, And It’s A Bit Late - Forbes",
+      "description": "Bungie has announced the dates for Marathon's free open beta preview test, and it's going to be pretty late in the game.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/02/12/marathon-announces-free-open-beta-release-date-and-its-a-bit-late/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/698e4bd949dd6fcdb3b633fc/0x0.jpg?format=jpg&crop=2002,1127,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-02-12T22:57:09Z"
+    },
+    {
+      "title": "Silent Hill: Townfall launches in 2026 for PS5, PC; reveal trailer - Gematsu",
+      "description": "Silent Hill: Townfall will launch in 2026 for PlayStation 5 and PC via Steam and Epic Games Store, publishers Konami and Annapurna Interactive, and developer Screen Burn Interactive announced.",
+      "url": "https://www.gematsu.com/2026/02/silent-hill-townfall-launches-in-2026-for-ps5-pc-reveal-trailer",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Silent-Hill-Townfall_2026_02-12-26_009.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-02-12T22:49:57Z"
+    },
+    {
+      "title": "Rayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game - Game Informer",
+      "description": "Starting tomorrow you can play the PlayStation, Atari Jaguar, MS-DOS, Game Boy Advance, and Game Boy Color versions of the original Rayman in one release.",
+      "url": "https://gameinformer.com/state-of-play/2026/02/12/rayman-30th-anniversary-edition-releases-tomorrow-collects-five-versions",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/02/12/42a7575a/rymn30_keyart_nologo.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-02-12T22:29:08Z"
+    },
+    {
+      "title": "DEAD OR ALIVE 6 Last Round announced for PS5, Xbox Series, and PC - Gematsu",
+      "description": "Publisher Koei Tecmo and developer Team NINJA have announced DEAD OR ALIVE 6 Last Round for PlayStation 5, Xbox Series, and PC (Steam). It will launch on June 25 for $39.99 / £32.99 / €39.99 / ¥6,3…",
+      "url": "https://www.gematsu.com/2026/02/dead-or-alive-6-last-round-announced-for-ps5-xbox-series-and-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/DoA6-LR-Ann_02-12-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-02-12T22:18:54Z"
+    },
+    {
+      "title": "Apple sees $200 billion market-cap wipeout as stock slides on AI fears - MarketWatch",
+      "description": "Apple reportedly is facing even more snags in its planned rollout of a more advanced version of Siri, which has been long delayed",
+      "url": "https://www.marketwatch.com/story/apple-sees-200-billion-market-cap-wipeout-as-stock-slides-on-ai-fears-88917cc0",
+      "urlToImage": "https://images.mktw.net/im-02178896/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-02-12T22:16:00Z"
+    },
+    {
+      "title": "Highguard dev blames content creators for the game's failure - \"It was dead on arrival\" - Notebookcheck",
+      "description": null,
+      "url": "https://www.notebookcheck.net/Highguard-dev-blames-content-creators-for-the-game-s-failure-It-was-dead-on-arrival.1225463.0.html",
+      "urlToImage": null,
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-02-12T21:59:00Z"
+    },
+    {
+      "title": "YouTube finally launches a dedicated app for Apple Vision Pro - TechCrunch",
+      "description": "When Apple Vision Pro first came out two years ago, YouTube hesitated to release a dedicated app. Today is the day they officially launch one.",
+      "url": "https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/wwdc-2023-vision-pro-eyesight.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-12T20:14:15Z"
+    },
+    {
+      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says - Ars Technica",
+      "description": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+      "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-02-12T19:42:08Z"
+    },
+    {
+      "title": "An AI agent published a hit piece on me - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46990729",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2026-02-12T16:27:50Z"
+    },
+    {
+      "title": "Sony WF-1000XM6 Earbuds Review: A Cut Above - CNET",
+      "description": "They aren't cheap at $330, but Sony's new flagship noise-canceling earbuds may very well be the best out there right now. Here's why.",
+      "url": "https://www.cnet.com/tech/mobile/sony-wf-1000xm6-earbuds-review/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/5418bc2982c15b915a3e089ea26a1d0dffbba0e7/hub/2026/02/10/38a79b49-5ae5-4cbf-bb73-a01afbced8b8/sony-wf-1000xm6-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2026-02-12T16:01:00Z"
+    },
+    {
+      "title": "High On Life 2′ s Intro Is One Of The Best Video Game Openings Ever - Kotaku",
+      "description": "More games should include fast-paced montages at the start and stop wasting my time",
+      "url": "https://kotaku.com/high-on-life-2-intro-start-epstein-files-fps-sci-fi-montage-2000668195",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/02/ss_7f78760f3c1c3e2b782cc5734992c-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-02-12T15:56:43Z"
     }
   ]
 }

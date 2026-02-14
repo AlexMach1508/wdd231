@@ -1,135 +1,159 @@
 {
-  "updatedAt": "2026-02-13T07:12:38.658Z",
+  "updatedAt": "2026-02-14T07:00:42.133Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Protesters in multiple states press Target to oppose the immigration crackdown in Minnesota - AP News",
-      "description": "Activists have planned protests at more than two dozen Target stores around the United States to pressure the discount retailer into taking a public stand against the 5-week-old immigration crackdown in its home state of Minnesota. A coalition of community gr…",
-      "url": "https://apnews.com/article/target-ice-protest-minneapolis-4a9012400f6c8b44e96451a04e0113c8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b4c3d5e/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2F4b%2F0c21286550df92efb109736bd28b%2Fa47da828500d4aa1829a33d9e314beaa",
-      "source": "Associated Press",
-      "publishedAt": "2026-02-12T00:45:00Z"
+      "title": "Trump’s campaign against ‘left-wing’ media finds a new target: Apple News - The Washington Post",
+      "description": "Federal Trade Commission Chairman Andrew Ferguson wrote a letter to Apple that warned the company its choice of articles in Apple News could violate the law.",
+      "url": "https://www.washingtonpost.com/technology/2026/02/12/apple-news-bias-ftc-ferguson-letter/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OL5NUA7QUSJAS62X5BNDEMFLRQ.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-02-13T04:12:00Z"
     },
     {
-      "title": "AppLovin CEO Downplays Risks From AI - The Wall Street Journal",
-      "description": "CEO Adam Foroughi says the company will only continue to benefit from more advanced AI models",
-      "url": "https://www.wsj.com/business/earnings/applovin-profit-rises-as-sales-jump-106536cc",
-      "urlToImage": "https://images.wsj.net/im-14217628/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-02-12T00:15:00Z"
+      "title": "Amazon no longer working with controversial police tech company after backlash over Ring doorbell Super Bowl ad - NBC News",
+      "description": "Amazon has dropped plans to partner its Ring doorbell cameras with the police surveillance tech company Flock Safety, the companies said Thursday, days after Amazon aired a controversial ad for Ring that some viewed as depicting the technology as a threat to …",
+      "url": "https://www.nbcnews.com/news/us-news/amazon-no-longer-working-police-tech-flock-safety-super-bowl-ad-rcna258855",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260212-ring-camera-amazon-ww-2021-0c2d2e.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-02-13T04:06:00Z"
     },
     {
-      "title": "Cisco Earnings Top Estimates, But Shares Dip - Investor's Business Daily",
-      "description": "Cisco stock fell amid fiscal Q2 earnings and revenue that topped estimates while the company's April quarter revenue outlook came in above views.",
-      "url": "https://www.investors.com/news/technology/cisco-stock-cisco-earnings-q42025/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/12/stock-Cisco-07-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-02-11T23:29:00Z"
-    },
-    {
-      "title": "The Walt Disney Company Hit with Record Fine by California DOJ - WDW News Today",
-      "description": "The California Department of Justice (DOJ) has announced a settlement with The Walt Disney Company for violations regarding consumer privacy.",
-      "url": "https://wdwnt.com/2026/02/the-walt-disney-company-hit-with-record-fine-by-california-doj/",
-      "urlToImage": "https://r2-media.wdwnt.com/2026/02/oag-opengraph-edited.jpg",
-      "source": "wdwnt.com",
-      "publishedAt": "2026-02-11T23:27:19Z"
-    },
-    {
-      "title": "Two more xAI co-founders are among those leaving after the SpaceX merger - The Verge",
-      "description": "Since the xAI-SpaceX merger was announced, a handful of xAI employees and two of its co-founders have abruptly exited Elon Musk’s company.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_XAI__A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-11T23:26:43Z"
-    },
-    {
-      "title": "Stock Market Dips, Shrugs Off Solid Jobs Report; IBD 50 Jumps 2%, Led By Vertiv, AnaptsysBio - Investor's Business Daily",
-      "description": "Early gains faded for the stock market Wednesday despite better-than-expected jobs data for January. But growth stocks outperformed again.",
-      "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-dips-january-jobs-report-ibd-50-jumps/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/04/stock-nyse-20-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-02-11T23:03:00Z"
-    },
-    {
-      "title": "Shopify Stock Jumps Despite Earnings Miss. Here's Why. - Investor's Business Daily",
-      "description": "Shopify earnings missed Q4 estimates but revenue edged by views and guidance topped expectations. The e-commerce software stock reversed down.",
-      "url": "https://www.investors.com/news/technology/shopify-stock-shopify-earnings-news-q42025/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/03/stock-Shopify-04-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-02-11T22:49:00Z"
-    },
-    {
-      "title": "Time Owner Booed at Staff Event Over ICE Joke - The Daily Beast",
-      "description": "Marc Benioff reportedly went on to moan about Bad Bunny’s Super Bowl halftime performance, too.",
-      "url": "https://www.thedailybeast.com/time-owner-marc-benioff-booed-at-staff-event-over-ice-joke/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/S3MGAS2UKFDMRFURB5OAI5MVZM.jpg?smart=true&auth=807fef7f3591bdb0770758b14b29393b945a06853e13ebca826e989914d23771&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2026-02-11T22:12:00Z"
-    },
-    {
-      "title": "ChargePoint data shows a new EV bottleneck forming - Electrek",
-      "description": "ChargePoint says EV charging sessions rose 34% in 2025, outpacing new charger installs and tightening utilization.",
-      "url": "http://electrek.co/2026/02/11/chargepoint-data-shows-a-new-ev-bottleneck-forming/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/ChargePoint_CP6000_2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-02-11T21:20:00Z"
-    },
-    {
-      "title": "Olympic gold medalist Ilia Malinin posts in support of Lloyd Center ice rink - OregonLive.com",
-      "description": "The Quad God took to Instagram stories to show support for preserving the ice rink at Portland’s Lloyd Center mall.",
-      "url": "https://www.oregonlive.com/portland/2026/02/olympic-gold-medalist-ilia-malinin-posts-in-support-of-lloyd-center-ice-rink.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/D55UPX3SEJBTVE63AA5GWC5AOQ.jpg?auth=b9e0e9d3484bbf0d964d382802b8219b8361fbe1bd9000625a0fc14aac098cc2&width=1280&smart=true&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2026-02-11T21:11:00Z"
-    },
-    {
-      "title": "Prasad overruled FDA staff to reject Moderna’s flu vaccine application - statnews.com",
-      "description": "The rejection is the latest instance of Vinay Prasad overruling career FDA scientists to place vaccines under harsher scrutiny.",
-      "url": "https://www.statnews.com/2026/02/11/moderna-flu-vaccine-application-rejected-by-prasad-overruling-fda-staff/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/05/20250523_Prasad_Vinay_3200x2133_Flag-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2026-02-11T20:17:40Z"
-    },
-    {
-      "title": "T-Mobile Added Fewer Postpaid Phone Subscribers Than Expected in Fourth Quarter - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/business/earnings/t-mobile-revenue-climbs-on-continued-postpaid-phone-growth-2a1d724a",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-02-11T20:17:00Z"
-    },
-    {
-      "title": "CBO Boosts US Deficit Call by $1.4 Trillion on Trump Policies - Bloomberg.com",
-      "description": "The Congressional Budget Office on Wednesday warned yet again that the US is on an unsustainable fiscal path, jacking up its estimate of deficits for the coming decade by $1.4 trillion thanks in part to President Donald Trump’s 2025 tax law and immigration po…",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-11/cbo-boosts-us-deficit-call-by-1-4-trillion-on-trump-policies",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id4caz_yOlDI/v1/1200x800.jpg",
+      "title": "Gold Steadies After Sharp Drop Sparked by Wider Market Jitters - Bloomberg.com",
+      "description": "Gold clawed back some losses after a sudden selloff in the previous session, with dip-buyers snapping up the metal ahead of key US inflation data.",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-12/gold-steadies-after-sharp-drop-sparked-by-wider-market-jitters",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNhIR0xJ1HY0/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-02-11T19:30:03Z"
+      "publishedAt": "2026-02-13T02:29:00Z"
     },
     {
-      "title": "Ford CEO says 'the customer has spoken' after its EV business lost nearly $5 billion last year - Business Insider",
-      "description": "Ford once predicted it would sell 150,000 electric pickups each year. Instead, it recorded another multi-billion-dollar loss in 2025.",
-      "url": "https://www.businessinsider.com/ford-ceo-customer-spoken-ev-business-lost-billions-2026-2",
-      "urlToImage": "https://i.insider.com/698ca0e8a645d118818920b5?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-02-11T18:18:00Z"
+      "title": "Asian Stocks to Drop as AI Jitters Hit Wall Street: Markets Wrap - Bloomberg.com",
+      "description": "Asian equities retreated from a record after concerns over the impact of artificial intelligence on some companies spurred a selloff in US technology stocks. Gold and silver recouped some of their losses from the prior session.",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-12/stock-market-today-dow-s-p-live-updates-",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVCggCp6CoCc/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2026-02-13T01:36:00Z"
     },
     {
-      "title": "Toyota reveals the Highlander EV as first 3-row electric SUV with 320 miles range [Images] - Electrek",
-      "description": "Toyota’s first three-row electric SUV is finally here. The 2027 Highlander EV can drive up to 320 miles on a...",
-      "url": "http://electrek.co/2026/02/11/toyota-reveals-highlander-ev-as-first-3-row-electric-suv-images/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/Toyota-reveals-Highlander-EV.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-02-11T15:07:00Z"
+      "title": "When Amazon badly needed a ride, Europe’s Ariane 6 rocket delivered - Ars Technica",
+      "description": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
+      "url": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-02-13T00:34:29Z"
     },
     {
-      "title": "Activist Investor Slams WBD For Rushing Into “Flawed” Netflix Deal, Tells Board To Engage With Paramount As Temperature Rises - Deadline",
-      "description": "Activist investor and Warner Bros. Discovery shareholder Ancora Capital threatened to vote ‘no’ on the Netflix deal and launch its own proxy fight if the WBD board does not engage with Paramount.",
-      "url": "http://deadline.com/2026/02/activist-investor-warner-bros-discovery-netflix-paramount-1236714881/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/David-Ellison.-David-Zaslav-and-Ted-Sarandos-and-Greg-Peters-.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-02-11T14:48:00Z"
+      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT - TechCrunch",
+      "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+      "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-12T23:26:56Z"
+    },
+    {
+      "title": "Moderna’s president weighs in on FDA’s decision not to review its flu vaccine - statnews.com",
+      "description": "In an interview, Moderna President Stephen Hoge took questions on an FDA decision on the biotech's mRNA flu vaccine, as well as the impact on the company and others in the industry.",
+      "url": "https://www.statnews.com/2026/02/12/moderna-stephen-hoge-interview-flu-vaccine/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanModerna3biz-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2026-02-12T23:23:31Z"
+    },
+    {
+      "title": "Stock futures are little changed as traders await big consumer inflation report: Live updates - CNBC",
+      "description": "Major U.S. averages dropped on Thursday as fears around artificial intelligence disruption spread across the market.",
+      "url": "https://www.cnbc.com/2026/02/12/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108263924-1770739931770-Traders-Photo-20260210-KK-PRESS-006.jpg?v=1770740267&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-02-12T23:23:00Z"
+    },
+    {
+      "title": "Rivian was saved by software in 2025 - TechCrunch",
+      "description": "The company's annual revenue was boosted by its technology joint venture with Volkswagen Group.",
+      "url": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/250522-ANASTASIA-BENSON-GOOGLE-MAPS-AEB08056-FINAL.jpg?resize=1200,790",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-12T23:17:32Z"
+    },
+    {
+      "title": "An Australian Influencer Goes Viral For Shooting Her Shot With A Guy On A Plane - OutKick",
+      "description": "Love was in the air over Australia back in January when a guy caught the eye of an influencer with more than 50k TikTok followers.",
+      "url": "https://www.outkick.com/culture/australian-influencer-goes-viral-shooting-her-shot-guy-plane",
+      "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2026/02/australian-influencer-goes-viral-shooting-her-shot-with-a-guy-on-an-airplane.jpg",
+      "source": "Outkick.com",
+      "publishedAt": "2026-02-12T23:00:58Z"
+    },
+    {
+      "title": "Citigroup CEO Jane Fraser’s Pay Jumped to $42 Million in 2025 - The Wall Street Journal",
+      "description": "Fraser made roughly $7.5 million more than she earned the year before",
+      "url": "https://www.wsj.com/business/citigroup-ceo-jane-frasers-pay-jumped-to-42-million-in-2025-8f443528",
+      "urlToImage": "https://images.wsj.net/im-485629/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-02-12T22:52:00Z"
+    },
+    {
+      "title": "US antitrust chief resigns amid tensions with Trump officials - BBC",
+      "description": "The departure of Gail Slater has raised questions about the White House's approach to policing big mergers and monopolies.",
+      "url": "https://www.bbc.com/news/articles/cnv6j9vrn06o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2d0c/live/32550c80-084b-11f1-ba49-bb79b430dd38.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-02-12T22:46:15Z"
+    },
+    {
+      "title": "Micron Stock Rises. Why Samsung's Claim to Be 'First' on HBM4 Isn't a Problem. - Barron's",
+      "description": "",
+      "url": "https://www.barrons.com/articles/micron-stock-samsung-hbm4-memory-chips-e0a6f07d",
+      "urlToImage": "https://images.barrons.com/im-413943/social",
+      "source": "Barron's",
+      "publishedAt": "2026-02-12T22:36:00Z"
+    },
+    {
+      "title": "Corporate broadcast news fumbles January jobs report - Media Matters for America",
+      "description": null,
+      "url": "https://www.mediamatters.org/broadcast-networks/corporate-broadcast-news-fumbles-january-jobs-report",
+      "urlToImage": "https://cloudfront.mediamatters.org/static/D8Image/2024/04/25/abc-cbs-nbc-pbs.png",
+      "source": "Mediamatters.org",
+      "publishedAt": "2026-02-12T21:45:59Z"
+    },
+    {
+      "title": "R2: Hitting the Pavement - Rivian Stories",
+      "description": "There is a specific kind of energy at our Irvine headquarters when a new vehicle hits the pavement. Last week, that energy shifted into high gear. We opened our doors to a select group of global journalists and creators for our first R2 Pre-Production Drive E…",
+      "url": "https://stories.rivian.com/r2-media-drive-event-pre-production-february-2026",
+      "urlToImage": "https://exposure.accelerator.net/production/posts/4984173/cover-photo/cover-1770829860.jpg;resize(1200,630,crop).jpeg?auto=webp",
+      "source": "Rivian.com",
+      "publishedAt": "2026-02-12T21:29:31Z"
+    },
+    {
+      "title": "Coinbase Hit With Double Downgrade Ahead Of Tough Earnings Test - Investor's Business Daily",
+      "description": "Coinbase missed estimates for Q4 results late Thursday as the crypto exchange contends with a digital asset bear market.",
+      "url": "https://www.investors.com/news/coinbase-earnings-q4-2025-coin-stock-bitcoin-clarity-act-stablecoin-prediction-markets/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/02/Stock-coinbase-four-shutt.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-02-12T21:29:00Z"
+    },
+    {
+      "title": "‘We are in a recession,’ Portland economist warns - OregonLive.com",
+      "description": "Persistent job losses, stagnant population growth and anemic housing construction are dragging the region down.",
+      "url": "https://www.oregonlive.com/business/2026/02/we-are-in-a-recession-portland-economist-warns.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/GPT5N6YM35BDBISZCZRQET4UUM.jpg?auth=645ddc074393e9ede936d68e7e8b25bb58f3de94d6669e17590d9ea81ac5d6fd&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2026-02-12T21:04:00Z"
+    },
+    {
+      "title": "Trump administration moves to end \"universally hated\" start/stop feature for cars - CBS News",
+      "description": "The EPA said it will end credits for the start/stop feature, which shuts off gas engines when cars are idle to save fuel.",
+      "url": "https://www.cbsnews.com/news/trump-epa-start-stop-feature-cars-impact/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/11/b9d844b3-74a6-4c31-856c-3a947a05dee2/thumbnail/1200x630/11d4ca3fcb3dbbf7f34a17f6ba8c3c79/gettyimages-79250979.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-02-12T20:53:00Z"
+    },
+    {
+      "title": "Alarm bells just rang at San Francisco's 2 buzziest tech companies - SFGATE",
+      "description": "OpenAI and Anthropic lost researchers Zoë Hitzig and Mrinank Sharma, with each publishing screeds that cast some doubt on their former employers' actions.",
+      "url": "https://www.sfgate.com/tech/article/alarm-openai-anthropic-21350218.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/63/14/34/30197562/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2026-02-12T20:41:21Z"
     }
   ]
 }
