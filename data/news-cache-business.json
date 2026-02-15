@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2026-02-14T07:00:42.133Z",
+  "updatedAt": "2026-02-15T07:03:14.190Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Trump’s campaign against ‘left-wing’ media finds a new target: Apple News - The Washington Post",
-      "description": "Federal Trade Commission Chairman Andrew Ferguson wrote a letter to Apple that warned the company its choice of articles in Apple News could violate the law.",
-      "url": "https://www.washingtonpost.com/technology/2026/02/12/apple-news-bias-ftc-ferguson-letter/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OL5NUA7QUSJAS62X5BNDEMFLRQ.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-02-13T04:12:00Z"
-    },
-    {
-      "title": "Amazon no longer working with controversial police tech company after backlash over Ring doorbell Super Bowl ad - NBC News",
-      "description": "Amazon has dropped plans to partner its Ring doorbell cameras with the police surveillance tech company Flock Safety, the companies said Thursday, days after Amazon aired a controversial ad for Ring that some viewed as depicting the technology as a threat to …",
-      "url": "https://www.nbcnews.com/news/us-news/amazon-no-longer-working-police-tech-flock-safety-super-bowl-ad-rcna258855",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260212-ring-camera-amazon-ww-2021-0c2d2e.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-02-13T04:06:00Z"
-    },
-    {
-      "title": "Gold Steadies After Sharp Drop Sparked by Wider Market Jitters - Bloomberg.com",
-      "description": "Gold clawed back some losses after a sudden selloff in the previous session, with dip-buyers snapping up the metal ahead of key US inflation data.",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-12/gold-steadies-after-sharp-drop-sparked-by-wider-market-jitters",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNhIR0xJ1HY0/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-02-13T02:29:00Z"
-    },
-    {
-      "title": "Asian Stocks to Drop as AI Jitters Hit Wall Street: Markets Wrap - Bloomberg.com",
-      "description": "Asian equities retreated from a record after concerns over the impact of artificial intelligence on some companies spurred a selloff in US technology stocks. Gold and silver recouped some of their losses from the prior session.",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-12/stock-market-today-dow-s-p-live-updates-",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVCggCp6CoCc/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2026-02-13T01:36:00Z"
-    },
-    {
-      "title": "When Amazon badly needed a ride, Europe’s Ariane 6 rocket delivered - Ars Technica",
-      "description": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
-      "url": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-02-13T00:34:29Z"
-    },
-    {
-      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT - TechCrunch",
-      "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
-      "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-12T23:26:56Z"
-    },
-    {
-      "title": "Moderna’s president weighs in on FDA’s decision not to review its flu vaccine - statnews.com",
-      "description": "In an interview, Moderna President Stephen Hoge took questions on an FDA decision on the biotech's mRNA flu vaccine, as well as the impact on the company and others in the industry.",
-      "url": "https://www.statnews.com/2026/02/12/moderna-stephen-hoge-interview-flu-vaccine/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanModerna3biz-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2026-02-12T23:23:31Z"
-    },
-    {
-      "title": "Stock futures are little changed as traders await big consumer inflation report: Live updates - CNBC",
-      "description": "Major U.S. averages dropped on Thursday as fears around artificial intelligence disruption spread across the market.",
-      "url": "https://www.cnbc.com/2026/02/12/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108263924-1770739931770-Traders-Photo-20260210-KK-PRESS-006.jpg?v=1770740267&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-02-12T23:23:00Z"
-    },
-    {
-      "title": "Rivian was saved by software in 2025 - TechCrunch",
-      "description": "The company's annual revenue was boosted by its technology joint venture with Volkswagen Group.",
-      "url": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/250522-ANASTASIA-BENSON-GOOGLE-MAPS-AEB08056-FINAL.jpg?resize=1200,790",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-12T23:17:32Z"
-    },
-    {
-      "title": "An Australian Influencer Goes Viral For Shooting Her Shot With A Guy On A Plane - OutKick",
-      "description": "Love was in the air over Australia back in January when a guy caught the eye of an influencer with more than 50k TikTok followers.",
-      "url": "https://www.outkick.com/culture/australian-influencer-goes-viral-shooting-her-shot-guy-plane",
-      "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2026/02/australian-influencer-goes-viral-shooting-her-shot-with-a-guy-on-an-airplane.jpg",
-      "source": "Outkick.com",
-      "publishedAt": "2026-02-12T23:00:58Z"
-    },
-    {
-      "title": "Citigroup CEO Jane Fraser’s Pay Jumped to $42 Million in 2025 - The Wall Street Journal",
-      "description": "Fraser made roughly $7.5 million more than she earned the year before",
-      "url": "https://www.wsj.com/business/citigroup-ceo-jane-frasers-pay-jumped-to-42-million-in-2025-8f443528",
-      "urlToImage": "https://images.wsj.net/im-485629/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-02-12T22:52:00Z"
-    },
-    {
-      "title": "US antitrust chief resigns amid tensions with Trump officials - BBC",
-      "description": "The departure of Gail Slater has raised questions about the White House's approach to policing big mergers and monopolies.",
-      "url": "https://www.bbc.com/news/articles/cnv6j9vrn06o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2d0c/live/32550c80-084b-11f1-ba49-bb79b430dd38.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-12T22:46:15Z"
-    },
-    {
-      "title": "Micron Stock Rises. Why Samsung's Claim to Be 'First' on HBM4 Isn't a Problem. - Barron's",
-      "description": "",
-      "url": "https://www.barrons.com/articles/micron-stock-samsung-hbm4-memory-chips-e0a6f07d",
-      "urlToImage": "https://images.barrons.com/im-413943/social",
-      "source": "Barron's",
-      "publishedAt": "2026-02-12T22:36:00Z"
-    },
-    {
-      "title": "Corporate broadcast news fumbles January jobs report - Media Matters for America",
+      "title": "Stock Market News: Indexes Head for Weekly Losses; Inflation Slows to 2.4% - The Wall Street Journal",
       "description": null,
-      "url": "https://www.mediamatters.org/broadcast-networks/corporate-broadcast-news-fumbles-january-jobs-report",
-      "urlToImage": "https://cloudfront.mediamatters.org/static/D8Image/2024/04/25/abc-cbs-nbc-pbs.png",
-      "source": "Mediamatters.org",
-      "publishedAt": "2026-02-12T21:45:59Z"
+      "url": "https://www.wsj.com/livecoverage/cpi-inflation-data-stock-market-02-13-2026",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-02-14T01:20:00Z"
     },
     {
-      "title": "R2: Hitting the Pavement - Rivian Stories",
-      "description": "There is a specific kind of energy at our Irvine headquarters when a new vehicle hits the pavement. Last week, that energy shifted into high gear. We opened our doors to a select group of global journalists and creators for our first R2 Pre-Production Drive E…",
-      "url": "https://stories.rivian.com/r2-media-drive-event-pre-production-february-2026",
-      "urlToImage": "https://exposure.accelerator.net/production/posts/4984173/cover-photo/cover-1770829860.jpg;resize(1200,630,crop).jpeg?auto=webp",
-      "source": "Rivian.com",
-      "publishedAt": "2026-02-12T21:29:31Z"
+      "title": "Bank of America (BAC) Raises CEO Moynihan’s Compensation 17% to $41 Million - TipRanks",
+      "description": "The balance sheet and share price remain strong.",
+      "url": "https://www.tipranks.com/news/bank-of-america-bac-raises-ceo-moynihans-compensation-17-to-41-million",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/02/aaa-91-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2026-02-13T23:10:05Z"
     },
     {
-      "title": "Coinbase Hit With Double Downgrade Ahead Of Tough Earnings Test - Investor's Business Daily",
-      "description": "Coinbase missed estimates for Q4 results late Thursday as the crypto exchange contends with a digital asset bear market.",
-      "url": "https://www.investors.com/news/coinbase-earnings-q4-2025-coin-stock-bitcoin-clarity-act-stablecoin-prediction-markets/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/02/Stock-coinbase-four-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-02-12T21:29:00Z"
+      "title": "Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu. - MarketWatch",
+      "description": "As shares of Amazon deepen into a bear market, investors are once again weighing if the company’s spending plans will pay off",
+      "url": "https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3",
+      "urlToImage": "https://images.mktw.net/im-49547616/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-02-13T22:14:00Z"
     },
     {
-      "title": "‘We are in a recession,’ Portland economist warns - OregonLive.com",
-      "description": "Persistent job losses, stagnant population growth and anemic housing construction are dragging the region down.",
-      "url": "https://www.oregonlive.com/business/2026/02/we-are-in-a-recession-portland-economist-warns.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/GPT5N6YM35BDBISZCZRQET4UUM.jpg?auth=645ddc074393e9ede936d68e7e8b25bb58f3de94d6669e17590d9ea81ac5d6fd&width=1280&smart=true&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2026-02-12T21:04:00Z"
+      "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK - WIRED",
+      "description": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+      "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+      "urlToImage": "https://media.wired.com/photos/698e1b134e0cc71b0d6dee95/191:100/w_1280,c_limit/OpenAI-Nuking-4o-Model-Business.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-02-13T21:56:00Z"
     },
     {
-      "title": "Trump administration moves to end \"universally hated\" start/stop feature for cars - CBS News",
-      "description": "The EPA said it will end credits for the start/stop feature, which shuts off gas engines when cars are idle to save fuel.",
-      "url": "https://www.cbsnews.com/news/trump-epa-start-stop-feature-cars-impact/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/11/b9d844b3-74a6-4c31-856c-3a947a05dee2/thumbnail/1200x630/11d4ca3fcb3dbbf7f34a17f6ba8c3c79/gettyimages-79250979.jpg",
+      "title": "Toyota suddenly has four new electric SUVs that it is betting will win over EV buyers - Electrek",
+      "description": "With the new Highlander EV arriving later this year, Toyota will have a full lineup of electric SUVs. Toyota believes...",
+      "url": "http://electrek.co/2026/02/13/toyota-four-new-electric-suvs-win-over-ev-buyers/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/Toyota-four-new-EVs.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2026-02-13T21:49:00Z"
+    },
+    {
+      "title": "Tillis suggests Warsh faces long Fed chair nomination process that could restrict his business life - CBS News",
+      "description": "GOP Sen. Thom Tillis of North Carolina says he won't support the confirmation of any Fed nominee until the Justice Dept.'s investigation into chairman Jerome Powell is resolved.",
+      "url": "https://www.cbsnews.com/news/tillis-powell-investigation-kevin-warsh/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/13/e7a2392c-9c05-4268-878f-6ef1936f2936/thumbnail/1200x630/528479bb1069fe74191afdb1873ebcac/screenshot-2026-02-13-at-11-08-55-am.png",
       "source": "CBS News",
-      "publishedAt": "2026-02-12T20:53:00Z"
+      "publishedAt": "2026-02-13T21:27:00Z"
     },
     {
-      "title": "Alarm bells just rang at San Francisco's 2 buzziest tech companies - SFGATE",
-      "description": "OpenAI and Anthropic lost researchers Zoë Hitzig and Mrinank Sharma, with each publishing screeds that cast some doubt on their former employers' actions.",
-      "url": "https://www.sfgate.com/tech/article/alarm-openai-anthropic-21350218.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/63/14/34/30197562/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-02-12T20:41:21Z"
+      "title": "Amazon's Ring ends deal with surveillance firm after backlash - BBC",
+      "description": "A Super Bowl advert had sparked new scrutiny of the smart doorbell company's privacy practices.",
+      "url": "https://www.bbc.com/news/articles/cwy8dxz1g7zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/081a/live/ccd2b870-090e-11f1-a882-79e5fd8f6638.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-02-13T21:09:19Z"
+    },
+    {
+      "title": "Marc Andreessen made a dire software prediction 15 years ago. Now it’s happening in a way nobody imagined - Fortune",
+      "description": "The billionaire venture capitalist explained why software would eat the world in 2011. He had no idea.",
+      "url": "https://fortune.com/2026/02/13/marc-andreessen-software-eating-the-world-saaspocalypse-morgan-stanley-gut-check-displaced-labor/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261448673-e1771011357961.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-02-13T21:00:00Z"
+    },
+    {
+      "title": "US Briefly Names Alibaba, Baidu as Firms Aiding China’s Military - Bloomberg.com",
+      "description": "The Pentagon added Alibaba Group Holding Ltd., BYD Co., Baidu Inc. and TP-Link Technologies Co. to a list of companies that aid the Chinese military – before withdrawing it minutes later without explanation.",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/us-to-put-alibaba-on-list-for-aiding-china-s-military-reuters",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibM_catu4lKo/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-02-13T20:52:59Z"
+    },
+    {
+      "title": "FDA rejects rare disease therapy from Disc Medicine, early recipient of commissioner’s voucher - statnews.com",
+      "description": "The FDA has rejected a rare disease therapy from Disc Medicine, an early recipient of a commissioner's voucher from the agency.",
+      "url": "https://www.statnews.com/2026/02/13/disc-medicine-fda-decision/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2020/08/GettyImages-1227710671-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2026-02-13T20:33:31Z"
+    },
+    {
+      "title": "Gold and Silver Climb to Finish Week In Positive Territory - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-steady-could-undergo-technical-recovery-72e661fe",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-02-13T19:43:00Z"
+    },
+    {
+      "title": "I'm not worried about AI job loss - Hacker News",
+      "description": null,
+      "url": "https://news.ycombinator.com/item?id\\\\u003d47006513",
+      "urlToImage": null,
+      "source": "Hacker News",
+      "publishedAt": "2026-02-13T19:34:43Z"
+    },
+    {
+      "title": "90% of Trump's tariffs are paid for by American consumers and companies, New York Fed says - Fortune",
+      "description": "The president has insisted other countries are paying for his import taxes. American companies and consumers are telling a different story.",
+      "url": "https://fortune.com/2026/02/13/new-york-fed-economists-confirm-americans-footing-trump-tariff-bill/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2256775757-e1771009143581.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-02-13T19:12:00Z"
+    },
+    {
+      "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune",
+      "description": "Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”",
+      "url": "https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2207866106-e1771004365410.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-02-13T17:47:00Z"
+    },
+    {
+      "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10 - TechCrunch",
+      "description": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.",
+      "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-13T17:16:27Z"
+    },
+    {
+      "title": "Trump Trade Team Working to Narrow Scope of Metals Tariffs - Bloomberg.com",
+      "description": "The Trump administration is working to narrow its broad tariffs on steel and aluminum products that companies find difficult to calculate and the European Union wants reined in as part of its pending trade deal with the US, a person familiar with the matter s…",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/trump-trade-team-working-to-scale-back-scope-of-metals-tariffs",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifhVgjPg4HXI/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-02-13T17:04:57Z"
+    },
+    {
+      "title": "Wendy's closing hundreds of U.S. restaurants as sales plunge - Axios",
+      "description": "Interim CEO Ken Cook said Friday that the company will shutter 5% to 6% of its U.S. restaurants.",
+      "url": "https://www.axios.com/2026/02/13/wendys-stores-closing-mcdonalds",
+      "urlToImage": "https://images.axios.com/aTLNq5MwCZLeDzrG7kVh9uccz2w=/0x85:4154x2422/1366x768/2026/02/13/1770996391130.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-02-13T16:33:12Z"
     }
   ]
 }
