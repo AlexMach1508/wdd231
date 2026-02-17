@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-02-16T07:18:18.376Z",
+  "updatedAt": "2026-02-17T07:12:29.884Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Pokémon Pinball Machine Officially Revealed By Stern Pinball, Available Now - Nintendo Life",
-      "description": "Here's a first look!",
-      "url": "https://www.nintendolife.com/news/2026/02/pokemon-pinball-machine-officially-revealed-by-stern-pinball-available-now",
-      "urlToImage": "https://images.nintendolife.com/d48da61d9fadf/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-02-15T02:40:47Z"
+      "title": "Pixel's 'Now Playing' is becoming a real app, but not for everyone - Android Authority",
+      "description": "Google is spinning Pixel's Now Playing feature into a standalone app on the Play Store, but not everyone will be able to download it.",
+      "url": "https://www.androidauthority.com/google-pixel-now-playing-app-play-store-3641143/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Pixel-7-whats-this-song-now-playing-scaled.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2026-02-16T03:23:35Z"
     },
     {
-      "title": "Rayman: 30th Anniversary Edition Is Getting A Physical Switch Release - Nintendo Life",
-      "description": "Pre-orders are now live",
-      "url": "https://www.nintendolife.com/news/2026/02/rayman-30th-anniversary-edition-is-getting-a-physical-switch-release",
-      "urlToImage": "https://images.nintendolife.com/7a6d4d7a45f61/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-02-15T00:30:00Z"
+      "title": "Kingdom’s Return: Time-Eating Fruit and the Ancient Monster ‘Alchemist Introduction’ trailer - Gematsu",
+      "description": "Inti Creates has released a new trailer for hybrid 2D action and strategy game Kingdom’s Return: Time-Eating Fruit and the Ancient Monster introducing the Alchemist class.",
+      "url": "https://www.gematsu.com/2026/02/kingdoms-return-time-eating-fruit-and-the-ancient-monster-alchemist-introduction-trailer",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Kingdoms-Return-Trailer_02-15-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-02-16T03:00:31Z"
     },
     {
-      "title": "Why There's Simply No Need For An Amazon Fire TV Stick Anymore - bgr.com",
-      "description": "The Amazon Fire TV Stick is no longer essential because there are cheaper competitors and most smart TVs today include the same range of apps in their OS.",
-      "url": "https://www.bgr.com/2098089/why-no-one-uses-amazon-fire-tv-stick-anymore/",
-      "urlToImage": "https://www.bgr.com/img/gallery/why-theres-simply-no-need-for-an-amazon-fire-tv-stick-anymore/l-intro-1770749351.jpg",
+      "title": "5 MagSafe Gadgets You'll Use Every Day - bgr.com",
+      "description": "If you think MagSafe on your iPhone is only for wireless charging, you might be surprised by the variety of gadgets it supports, such as SSDs, mounts, and more.",
+      "url": "https://www.bgr.com/2099044/magsafe-gadgets-use-every-day/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-magsafe-gadgets-youll-use-every-day/l-intro-1770837467.jpg",
       "source": "BGR",
-      "publishedAt": "2026-02-15T00:17:00Z"
+      "publishedAt": "2026-02-16T02:17:00Z"
     },
     {
-      "title": "Lifetime access to ChatGPT, Gemini, and more comes with this $75 tool - Mashable",
-      "description": "That’s an all-time low price.",
-      "url": "https://mashable.com/article/feb-14-1minai-advanced-business-plan-lifetime-subscription",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00R2svaWNwOWuazEcHYfBXE/hero-image.fill.size_1200x675.v1770834784.png",
-      "source": "Mashable",
-      "publishedAt": "2026-02-14T23:00:00Z"
+      "title": "Bloodstained: The Scarlet Engagement creative director Shutaro Ida dies at age 52 - Gematsu",
+      "description": "Shutaro Ida, creative director behind the upcoming Bloodstained: The Scarlet Engagement, has died at age 52 after a one-and-a-half years battle with cancer, developer ArtPlay announced.",
+      "url": "https://www.gematsu.com/2026/02/bloodstained-the-scarlet-engagement-creative-director-shutaro-ida-dies-at-age-52",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Shutaro-Ida-Daeth-02-15-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-02-16T02:00:06Z"
     },
     {
-      "title": "Samsung Galaxy S26 Ultra Release Date Latest: New Prices And Deals - Forbes",
-      "description": "This Samsung Galaxy S26 Ultra release date will see a new price strategy with a change to the pre-order deal.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/02/14/samsung-galaxy-s26-ultra-price-pre-order-deal-trade-in/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b6c8d1fcaaf31544d0ba53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-02-14T22:50:30Z"
+      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS - BleepingComputer",
+      "description": "Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns.",
+      "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-02-16T00:29:00Z"
     },
     {
-      "title": "These Are The Biggest Differences Between The Chevy C8 Corvette Stingray And Z06 - Jalopnik",
-      "description": "The Z06 is wider, more aggressive and more powerful than the C8 Stingray, which has a lower price tag and a smaller footprint.",
-      "url": "https://www.jalopnik.com/2097521/biggest-differences-between-corvette-stingray-z06/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/these-are-the-biggest-differences-between-the-chevy-c8-corvette-stingray-and-z06/l-intro-1770714320.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-02-14T22:25:00Z"
-    },
-    {
-      "title": "5 Clever Milwaukee Accessories You Can 3D Print At Home - SlashGear",
-      "description": "From Packout add-ons to tool holders and bit storage, these Milwaukee accessories can be 3D printed at home using readily available templates.",
-      "url": "https://www.slashgear.com/2098607/clever-milwaukee-accessories-to-3d-print-at-home/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-clever-milwaukee-accessories-you-can-3d-print-at-home/l-intro-1770807762.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2026-02-14T22:15:00Z"
-    },
-    {
-      "title": "Lego Batman Slashes RAM Requirements On PC As Prices Spike - Kotaku",
-      "description": "Lego Batman just cleaved its recommended RAM in half",
-      "url": "https://kotaku.com/lego-batman-recommended-pc-specs-ram-prices-2000668982",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/02/batman-lego--1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-02-14T21:58:41Z"
-    },
-    {
-      "title": "Deals: foldables up to $500 off, Pixel 10 phones up to $300 off, Galaxy S25 FE also on sale - GSMArena.com news - GSMArena.com",
-      "description": "A 512GB Pixel 10 Pro Fold costs the same as a 256GB Galaxy Z Fold7. A 512GB Razr Ultra 2025 costs $100 less than a 256GB Galaxy Z Flip7.",
-      "url": "https://www.gsmarena.com/deals_foldables_up_to_500_off_pixel_10_phones_up_to_300_off_galaxy_s25_fe_also_on_sale-news-71548.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/02/weekly-deals-13/-952x498w6/gsmarena_us.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-02-14T20:55:01Z"
-    },
-    {
-      "title": "Nintendo has seemingly gone after every Switch emulator and fork on GitHub with DMCA notices - Nintendo Everything",
-      "description": "A new development in Nintendo's fight against Switch emulators has come about with the company going after every emulator and fork on GitHub.",
-      "url": "https://nintendoeverything.com/nintendo-switch-emulator-takedown-github/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-emulator-takedown-GitHub.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-02-14T20:29:21Z"
-    },
-    {
-      "title": "Not Roku, Not Firestick - This Is The Best Smart TV OS You Can Use - bgr.com",
-      "description": "The best smart TV OS for your device can depend on a variety of elements, but here's why we think Apple TV is superior to both Roku and Firestick.",
-      "url": "https://www.bgr.com/2097986/apple-tvos-best-smart-tv/",
-      "urlToImage": "https://www.bgr.com/img/gallery/not-roku-not-firestick-this-is-the-best-smart-tv-os-you-can-use/l-intro-1770745203.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-14T19:47:00Z"
-    },
-    {
-      "title": "Dell XPS 14 Core Ultra 7 355 review: Still great, but not nearly as special - Notebookcheck",
-      "description": "Users who don't need the much-improved graphics horsepower of the Core Ultra X7 will find the less expensive Core Ultra 7 option much more attractive especially if upgrading from an older XPS 13 or XPS 14 model.",
-      "url": "https://www.notebookcheck.net/Dell-XPS-14-Core-Ultra-7-355-review-Still-great-but-not-nearly-as-special.1222645.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_14_Core_Ultra_7_355/xps14feature.jpg",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-02-14T19:39:00Z"
-    },
-    {
-      "title": "Poll: Are You Happy with Your PS Plus Extra, Premium Games for February 2026? - Push Square",
-      "description": "Plus or minus?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-february-2026",
-      "urlToImage": "https://images.pushsquare.com/bd735843b0504/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-02-14T18:00:00Z"
-    },
-    {
-      "title": "8 Apple Products You Should Buy And 4 You Should Skip - bgr.com",
-      "description": "Some Apple products are obvious buys. Some are poor value for the price. And a few look tempting but make no sense once you dig deeper.",
-      "url": "https://www.bgr.com/2096359/must-have-apple-products/",
-      "urlToImage": "https://www.bgr.com/img/gallery/8-apple-products-you-should-buy-and-4-you-should-skip/l-intro-1770296132.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-14T17:02:00Z"
-    },
-    {
-      "title": "Indiana Jones on Switch 2: The Next Big Test For Current-Gen Ports? - Digital Foundry",
-      "description": "The first footage looks compelling.",
-      "url": "https://www.digitalfoundry.net/news/2026/02/indiana-jones-on-switch-2-the-next-big-test-for-current-gen-ports",
-      "urlToImage": "https://images.digitalfoundry.net/c4d2a17c551c9/large.jpg",
-      "source": "Digitalfoundry.net",
-      "publishedAt": "2026-02-14T17:02:00Z"
-    },
-    {
-      "title": "5 Gadgets Sold At Home Depot That Any DIYer Would Consider A Must-Have - SlashGear",
-      "description": "From work lights and multi-tools to voltage testers and digital calipers, these Home Depot gadgets are practical must-haves for serious DIYers.",
-      "url": "https://www.slashgear.com/2097512/home-depot-gadgets-for-diy-enthusiasts/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-gadgets-sold-at-home-depot-that-any-diyer-would-consider-a-must-have/l-intro-1770711390.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2026-02-14T16:15:00Z"
-    },
-    {
-      "title": "Ashes of Creation Investor Alleges Founder Orchestrated $140 Million Fraud - Wccftech",
-      "description": "Major investor claims Intrepid Studios founder never invested in Ashes of Creation despite public claims, alleging $140 million fraud scheme.",
-      "url": "https://wccftech.com/ashes-creation-investor-alleges-140-million-fraud/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Ashes-of-Creation-Steven-Sharif-HD-scaled.jpeg",
-      "source": "Wccftech",
-      "publishedAt": "2026-02-14T16:00:00Z"
-    },
-    {
-      "title": "Google sets accelerated Android 17 release schedule - 9to5Google",
-      "description": "Besides replacing Developer Previews, the Android 17 Beta cycle is operating on a faster release schedule.",
-      "url": "http://9to5google.com/2026/02/14/android-17-schedule/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-02-14T15:30:00Z"
-    },
-    {
-      "title": "These rumored iPhone 18 Pro features might tempt you to upgrade later this year - 9to5Mac",
-      "description": "Later this year, Apple will once again unveil a full set of flagship iPhones. It may feel like iPhone 17...",
-      "url": "https://9to5mac.com/2026/02/14/new-iphone-18-pro-features-upgrade-worthy/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Apple launching 5+ new products over the next several weeks - 9to5Mac",
+      "description": "Apple is reportedly preparing to launch several new products soon, including a low-cost MacBook, M5 MacBook Air, iPhone 17e, and more.",
+      "url": "https://9to5mac.com/2026/02/15/apple-launching-5-new-products-over-the-next-several-weeks-per-report/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Jeffs-Studio-Setup-Apple-Studio-Display-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-02-14T15:30:00Z"
+      "publishedAt": "2026-02-15T22:51:00Z"
     },
     {
-      "title": "Gross Diablo 4 Gaming PC Filled W/ Real Human Blood Still Runs - Kotaku",
-      "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-      "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-02-14T15:26:50Z"
+      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates - BleepingComputer",
+      "description": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an \"UNMOUNTABLE_BOOT_VOLUME\" error after installing recent security updates, with the fix delivered in the February 2026 Patch Tuesday update.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-02-15T22:08:53Z"
+    },
+    {
+      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice - TechCrunch",
+      "description": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
+      "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-837551280.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-15T22:07:51Z"
+    },
+    {
+      "title": "A bunch of first-party Nintendo Switch games are now on sale - Nintendo Everything",
+      "description": "Nintendo has put eight different Switch games on sale, including Super Mario RPG, Xenoblade Chronicles X, Zelda: Link's Awakening, and more.",
+      "url": "https://nintendoeverything.com/a-bunch-of-first-party-nintendo-switch-games-are-now-on-sale/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-game-sale-GameStop-Amazon.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-02-15T22:04:21Z"
+    },
+    {
+      "title": "It’s time for Apple to let go of 60Hz displays - 9to5Mac",
+      "description": "It’s been nearly a decade since the introduction of the first 120Hz ProMotion display, if you can believe that. It...",
+      "url": "https://9to5mac.com/2026/02/15/its-time-for-apple-to-let-go-of-60hz-displays/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/m2-macbook-air-purple.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-02-15T21:46:00Z"
+    },
+    {
+      "title": "Software Development On The Nintendo Famicom In Family BASIC - Hackaday",
+      "description": "Back in the 1980s, your options for writing your own code and games were rather more limited than today. This also mostly depended on what home computer you could get your hands on, which was a mar…",
+      "url": "https://hackaday.com/2026/02/15/software-development-on-the-nintendo-famicom-in-family-basic/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/02/programming_famicom_basic_throaty_mumbo_youtube.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2026-02-15T21:00:00Z"
+    },
+    {
+      "title": "Gemini app makes sharing more prominent in chats, boosts icon - 9to5Google",
+      "description": "Gemini for Android has rolled out tweaks to the chat page that make sharing and the overflow menu more prominent actions.",
+      "url": "http://9to5google.com/2026/02/15/gemini-app-chat-share/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-shortcut-generic-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-15T20:46:00Z"
+    },
+    {
+      "title": "Couple goes viral after inviting Sony to their wedding and receiving free PlayStation games - Dexerto",
+      "description": "A couple has gone viral after revealing that Sony responded to their wedding invite by sending them a bundle of free PlayStation games.",
+      "url": "https://www.dexerto.com/gaming/couple-goes-viral-after-inviting-sony-to-their-wedding-and-receiving-free-playstation-games-3319235/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/09/11/Playstation-5-Pro-enhanced-games.jpg",
+      "source": "Dexerto",
+      "publishedAt": "2026-02-15T20:20:27Z"
+    },
+    {
+      "title": "China Built A Shape-Shifting Robot That Can Grow Like A Human - bgr.com",
+      "description": "A new robot out of China can change its shape by inflating or deflating, and its creators hope it can be put to use for search and rescue operations.",
+      "url": "https://www.bgr.com/2098835/china-shape-shifting-robot-human-inspired-growth/",
+      "urlToImage": "https://www.bgr.com/img/gallery/china-built-a-shape-shifting-robot-that-can-grow-like-a-human/l-intro-1770826672.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-02-15T19:47:00Z"
+    },
+    {
+      "title": "Rayman 30th anniversary has save data bug and Ubisoft support says post launch support has ended - My Nintendo News",
+      "description": "Update: Apparently a Ubisoft employee has now said on Reddit that post-launch support has not ended. Though it’s not clear when this issue will be resolved. Rayman 30th Anniversary Edition was…",
+      "url": "https://mynintendonews.com/2026/02/15/rayman-30th-anniversary-has-save-data-bug-and-ubisoft-support-says-post-launch-support-has-ended/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/02/rayman_30th_anniversary.png?fit=1229%2C691&ssl=1",
+      "source": "My Nintendo News",
+      "publishedAt": "2026-02-15T18:59:09Z"
+    },
+    {
+      "title": "This 100TB cloud storage deal means never deleting anything ever again - SFGATE",
+      "description": "Get 100TB of cloud storage from Internxt for $849.97 (MSRP $9,900). No coupon is needed. This deal ends February 22.",
+      "url": "https://www.sfgate.com/shopping/article/internxt-cloud-storage-deal-21339694.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/63/11/12/30184120/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2026-02-15T18:32:47Z"
+    },
+    {
+      "title": "Man aims to cross the Atlantic using 3-foot boat smaller than an airline seat in adventure of a lifetime - supercarblondie.com",
+      "description": "This man wants to cross the Atlantic from Canada to Ireland in one of the smallest boats the world has ever seen - it's a far cry from luxury superyachts",
+      "url": "https://supercarblondie.com/man-aims-to-cross-atlantic-with-3-foot-boat/",
+      "urlToImage": "https://supercarblondie.com/wp-content/uploads/Andrew-Bedwell-Atlantic-Crossing-Yacht.webp",
+      "source": "Supercarblondie.com",
+      "publishedAt": "2026-02-15T17:40:00Z"
+    },
+    {
+      "title": "This 'Perfect' $6 Amazon Gadget Adds MagSafe Support To Your Kindle - bgr.com",
+      "description": "Amazon has several MagSafe rings that you can buy and attach to the back of your Kindle. You can then use MagSafe accessories with your e-reader.",
+      "url": "https://www.bgr.com/2098572/cheap-amazon-gadget-kindle-magsafe/",
+      "urlToImage": "https://www.bgr.com/img/gallery/this-perfect-6-amazon-gadget-adds-magsafe-support-to-your-kindle/l-intro-1770798443.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-02-15T17:17:00Z"
+    },
+    {
+      "title": "Mario Tennis Fever review for Nintendo Switch 2 - Nintendo Everything",
+      "description": "Mario Tennis Fever is Camelot's latest Mario sports outing, and this review explains why it's a step in the right direction for the series.",
+      "url": "https://nintendoeverything.com/mario-tennis-fever-review-for-nintendo-switch-2/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mario-Tennis-Fever-review.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-02-15T17:04:21Z"
     }
   ]
 }
