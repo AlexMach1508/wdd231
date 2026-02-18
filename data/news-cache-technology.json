@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-02-17T07:12:29.884Z",
+  "updatedAt": "2026-02-18T07:13:51.674Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Pixel's 'Now Playing' is becoming a real app, but not for everyone - Android Authority",
-      "description": "Google is spinning Pixel's Now Playing feature into a standalone app on the Play Store, but not everyone will be able to download it.",
-      "url": "https://www.androidauthority.com/google-pixel-now-playing-app-play-store-3641143/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Pixel-7-whats-this-song-now-playing-scaled.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2026-02-16T03:23:35Z"
+      "title": "Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis - The Verge",
+      "description": "Valve’s Steam Deck OLED website say that it may be out of stock “intermittently in some regions due to memory and storage shortages.”",
+      "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-02-17T02:57:00Z"
     },
     {
-      "title": "Kingdom’s Return: Time-Eating Fruit and the Ancient Monster ‘Alchemist Introduction’ trailer - Gematsu",
-      "description": "Inti Creates has released a new trailer for hybrid 2D action and strategy game Kingdom’s Return: Time-Eating Fruit and the Ancient Monster introducing the Alchemist class.",
-      "url": "https://www.gematsu.com/2026/02/kingdoms-return-time-eating-fruit-and-the-ancient-monster-alchemist-introduction-trailer",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Kingdoms-Return-Trailer_02-15-26.jpg",
+      "title": "Magical Princess launches this spring - Gematsu",
+      "description": "Daughter raising simulation game Magical Princess will launch for PC via Steam this spring, publisher and developer MAGI Inc., and developer Neotro announced. It will support English, Japanese, and…",
+      "url": "https://www.gematsu.com/2026/02/magical-princess-launches-this-spring",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Magical-Princess_02-16-26.jpg",
       "source": "Gematsu",
-      "publishedAt": "2026-02-16T03:00:31Z"
+      "publishedAt": "2026-02-17T01:17:48Z"
     },
     {
-      "title": "5 MagSafe Gadgets You'll Use Every Day - bgr.com",
-      "description": "If you think MagSafe on your iPhone is only for wireless charging, you might be surprised by the variety of gadgets it supports, such as SSDs, mounts, and more.",
-      "url": "https://www.bgr.com/2099044/magsafe-gadgets-use-every-day/",
-      "urlToImage": "https://www.bgr.com/img/gallery/5-magsafe-gadgets-youll-use-every-day/l-intro-1770837467.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-16T02:17:00Z"
-    },
-    {
-      "title": "Bloodstained: The Scarlet Engagement creative director Shutaro Ida dies at age 52 - Gematsu",
-      "description": "Shutaro Ida, creative director behind the upcoming Bloodstained: The Scarlet Engagement, has died at age 52 after a one-and-a-half years battle with cancer, developer ArtPlay announced.",
-      "url": "https://www.gematsu.com/2026/02/bloodstained-the-scarlet-engagement-creative-director-shutaro-ida-dies-at-age-52",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Shutaro-Ida-Daeth-02-15-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-02-16T02:00:06Z"
-    },
-    {
-      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS - BleepingComputer",
-      "description": "Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns.",
-      "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-02-16T00:29:00Z"
-    },
-    {
-      "title": "Apple launching 5+ new products over the next several weeks - 9to5Mac",
-      "description": "Apple is reportedly preparing to launch several new products soon, including a low-cost MacBook, M5 MacBook Air, iPhone 17e, and more.",
-      "url": "https://9to5mac.com/2026/02/15/apple-launching-5-new-products-over-the-next-several-weeks-per-report/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Jeffs-Studio-Setup-Apple-Studio-Display-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-02-15T22:51:00Z"
-    },
-    {
-      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates - BleepingComputer",
-      "description": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an \"UNMOUNTABLE_BOOT_VOLUME\" error after installing recent security updates, with the fix delivered in the February 2026 Patch Tuesday update.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-02-15T22:08:53Z"
-    },
-    {
-      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice - TechCrunch",
-      "description": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
-      "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-837551280.jpg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-15T22:07:51Z"
-    },
-    {
-      "title": "A bunch of first-party Nintendo Switch games are now on sale - Nintendo Everything",
-      "description": "Nintendo has put eight different Switch games on sale, including Super Mario RPG, Xenoblade Chronicles X, Zelda: Link's Awakening, and more.",
-      "url": "https://nintendoeverything.com/a-bunch-of-first-party-nintendo-switch-games-are-now-on-sale/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-game-sale-GameStop-Amazon.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-02-15T22:04:21Z"
-    },
-    {
-      "title": "It’s time for Apple to let go of 60Hz displays - 9to5Mac",
-      "description": "It’s been nearly a decade since the introduction of the first 120Hz ProMotion display, if you can believe that. It...",
-      "url": "https://9to5mac.com/2026/02/15/its-time-for-apple-to-let-go-of-60hz-displays/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/m2-macbook-air-purple.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-02-15T21:46:00Z"
-    },
-    {
-      "title": "Software Development On The Nintendo Famicom In Family BASIC - Hackaday",
-      "description": "Back in the 1980s, your options for writing your own code and games were rather more limited than today. This also mostly depended on what home computer you could get your hands on, which was a mar…",
-      "url": "https://hackaday.com/2026/02/15/software-development-on-the-nintendo-famicom-in-family-basic/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/02/programming_famicom_basic_throaty_mumbo_youtube.jpg",
-      "source": "Hackaday",
-      "publishedAt": "2026-02-15T21:00:00Z"
-    },
-    {
-      "title": "Gemini app makes sharing more prominent in chats, boosts icon - 9to5Google",
-      "description": "Gemini for Android has rolled out tweaks to the chat page that make sharing and the overflow menu more prominent actions.",
-      "url": "http://9to5google.com/2026/02/15/gemini-app-chat-share/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-shortcut-generic-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-02-15T20:46:00Z"
-    },
-    {
-      "title": "Couple goes viral after inviting Sony to their wedding and receiving free PlayStation games - Dexerto",
-      "description": "A couple has gone viral after revealing that Sony responded to their wedding invite by sending them a bundle of free PlayStation games.",
-      "url": "https://www.dexerto.com/gaming/couple-goes-viral-after-inviting-sony-to-their-wedding-and-receiving-free-playstation-games-3319235/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/09/11/Playstation-5-Pro-enhanced-games.jpg",
-      "source": "Dexerto",
-      "publishedAt": "2026-02-15T20:20:27Z"
-    },
-    {
-      "title": "China Built A Shape-Shifting Robot That Can Grow Like A Human - bgr.com",
-      "description": "A new robot out of China can change its shape by inflating or deflating, and its creators hope it can be put to use for search and rescue operations.",
-      "url": "https://www.bgr.com/2098835/china-shape-shifting-robot-human-inspired-growth/",
-      "urlToImage": "https://www.bgr.com/img/gallery/china-built-a-shape-shifting-robot-that-can-grow-like-a-human/l-intro-1770826672.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-15T19:47:00Z"
-    },
-    {
-      "title": "Rayman 30th anniversary has save data bug and Ubisoft support says post launch support has ended - My Nintendo News",
-      "description": "Update: Apparently a Ubisoft employee has now said on Reddit that post-launch support has not ended. Though it’s not clear when this issue will be resolved. Rayman 30th Anniversary Edition was…",
-      "url": "https://mynintendonews.com/2026/02/15/rayman-30th-anniversary-has-save-data-bug-and-ubisoft-support-says-post-launch-support-has-ended/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/02/rayman_30th_anniversary.png?fit=1229%2C691&ssl=1",
-      "source": "My Nintendo News",
-      "publishedAt": "2026-02-15T18:59:09Z"
-    },
-    {
-      "title": "This 100TB cloud storage deal means never deleting anything ever again - SFGATE",
-      "description": "Get 100TB of cloud storage from Internxt for $849.97 (MSRP $9,900). No coupon is needed. This deal ends February 22.",
-      "url": "https://www.sfgate.com/shopping/article/internxt-cloud-storage-deal-21339694.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/63/11/12/30184120/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-02-15T18:32:47Z"
-    },
-    {
-      "title": "Man aims to cross the Atlantic using 3-foot boat smaller than an airline seat in adventure of a lifetime - supercarblondie.com",
-      "description": "This man wants to cross the Atlantic from Canada to Ireland in one of the smallest boats the world has ever seen - it's a far cry from luxury superyachts",
-      "url": "https://supercarblondie.com/man-aims-to-cross-atlantic-with-3-foot-boat/",
-      "urlToImage": "https://supercarblondie.com/wp-content/uploads/Andrew-Bedwell-Atlantic-Crossing-Yacht.webp",
+      "title": "California dealer refuses to sell 2025 Ferrari 296 GTS despite being offered $348,000 - supercarblondie.com",
+      "description": "This California dealer refused to sell a 2025 Ferrari 296 GTS - despite being offered over $348,000 for it at a recent auction",
+      "url": "https://supercarblondie.com/california-dealer-refuses-sell-2025-ferrari-296-gts-despite-high-offer/",
+      "urlToImage": "https://supercarblondie.com/wp-content/uploads/296.webp",
       "source": "Supercarblondie.com",
-      "publishedAt": "2026-02-15T17:40:00Z"
+      "publishedAt": "2026-02-17T01:05:00Z"
     },
     {
-      "title": "This 'Perfect' $6 Amazon Gadget Adds MagSafe Support To Your Kindle - bgr.com",
-      "description": "Amazon has several MagSafe rings that you can buy and attach to the back of your Kindle. You can then use MagSafe accessories with your e-reader.",
-      "url": "https://www.bgr.com/2098572/cheap-amazon-gadget-kindle-magsafe/",
-      "urlToImage": "https://www.bgr.com/img/gallery/this-perfect-6-amazon-gadget-adds-magsafe-support-to-your-kindle/l-intro-1770798443.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-02-15T17:17:00Z"
+      "title": "Best portable power station deal: Save 39% on the DJI Power 1000 V2 - Mashable",
+      "description": "The second version of the DJI Power 1000 is awesome for content creators or anyone looking for a solid value.",
+      "url": "https://mashable.com/article/feb-16-dji-power-1000-v2-deal",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0398Ltl5l6SLeVNb7DgUmVX/hero-image.fill.size_1200x675.v1771259344.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-02-17T00:22:30Z"
     },
     {
-      "title": "Mario Tennis Fever review for Nintendo Switch 2 - Nintendo Everything",
-      "description": "Mario Tennis Fever is Camelot's latest Mario sports outing, and this review explains why it's a step in the right direction for the series.",
-      "url": "https://nintendoeverything.com/mario-tennis-fever-review-for-nintendo-switch-2/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mario-Tennis-Fever-review.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-02-15T17:04:21Z"
+      "title": "Samsung Promotes New Feature Ahead Of Galaxy S26 Ultra Launch - Forbes",
+      "description": "Ahead of Galaxy Unpacked and the launch of the Galaxy S26 Ultra, Samsung has teased a new feature that will help the new flagship stand out against the competition.",
+      "url": "https://www.forbes.com/sites/ewanspence/2026/02/16/samsung-galaxy-s26-ultra-new-features-upgrade-privacy-display/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65a9b89b23b1dcd269a93c1f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-02-16T23:55:19Z"
+    },
+    {
+      "title": "Android getting new ‘local file backup’ feature via Google Drive - 9to5Google",
+      "description": "According to new Google Play Services release notes, Android phones will be getting a “new local file backup feature” with Google Drive.",
+      "url": "http://9to5google.com/2026/02/16/android-local-file-backup/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-file-transfer-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-16T22:12:00Z"
+    },
+    {
+      "title": "Hasbro has Reportedly Shut Down G.I. Joe Snake Eyes Game Makers, Atomic Arcade [Update] - Wccftech",
+      "description": "Hasbro and Wizards of the Coast have reportedly shut down the studio behind its big-budget G.I. Joe Snake Eyes game, Atomic Arcade.",
+      "url": "https://wccftech.com/hasbro-wizards-of-the-coast-reportedly-shut-down-g-i-joe-snake-eyes-game-makers-atomic-arcade/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Atomic-Arcade-Shut-Down.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2026-02-16T21:43:00Z"
+    },
+    {
+      "title": "Here’s how you’ll control and navigate Android XR glasses - 9to5Google",
+      "description": "Android XR glasses are coming in 2026. Here’s what you can expect from the user interface and experience...",
+      "url": "http://9to5google.com/2026/02/16/android-xr-glasses-ui/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Android-XR-glasses-UI-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-16T21:35:00Z"
+    },
+    {
+      "title": "visionOS 26.4 unlocks new ‘foveated streaming’ feature for apps and games - 9to5Mac",
+      "description": "visionOS 26.4 beta 1 debuted today for Apple Vision Pro, with the update unlocking ‘foveated streaming’ support for apps and games.",
+      "url": "https://9to5mac.com/2026/02/16/visionos-26-4-unlocks-new-foveated-streaming-feature-for-apps-and-games/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/M5-Vision-Pro-goes-on-sale-in-two-more-countries.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-02-16T21:04:00Z"
+    },
+    {
+      "title": "Anchor Point Studios set to break from NetEase and go independent - GamesIndustry.biz",
+      "description": "Anchor Point Studios has spun out from its parent company, NetEase.",
+      "url": "https://www.gamesindustry.biz/anchor-point-studios-set-to-break-from-netease-and-go-independent",
+      "urlToImage": "https://assetsio.gnwcdn.com/1770950630029.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-02-16T20:55:24Z"
+    },
+    {
+      "title": "macOS Tahoe 26.4 and iPadOS 26.4 add compact tab bar in Safari - 9to5Mac",
+      "description": "macOS Tahoe and iPadOS 26 removed support for the compact tab bar in Safari. Now, the feature is back in macOS 26.4 and iPadOS 26.4 beta 1.",
+      "url": "https://9to5mac.com/2026/02/16/macos-tahoe-26-4-and-ipados-26-4-add-compact-tab-bar-in-safari/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/ipados-26-4-safari-compact-tab-bar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-02-16T20:32:00Z"
+    },
+    {
+      "title": "Get ready for new Macs and iPads: Apple announces \"Special Experience\" on March 4 - Ars Technica",
+      "description": "Apple has not confirmed whether you'll be able to watch live, but Ars will bring you the news.",
+      "url": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Apple-March-4-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-02-16T20:30:15Z"
+    },
+    {
+      "title": "Apple starts testing end-to-end encrypted RCS messages on iPhone - The Verge",
+      "description": "Apple is testing end-to-end encrypted (E2EE) RCS messages with the iOS 26.4 first beta. When officially released, the feature will let iPhone and Android users send cross-platform encrypted messages.",
+      "url": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01706-1.jpg?quality=90&strip=all&crop=0%2C10.740652134574%2C100%2C78.518695730853&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-02-16T20:21:33Z"
+    },
+    {
+      "title": "Apple introduces a new video podcast experience on Apple Podcasts - Apple",
+      "description": "Apple today announced a transformative update coming to Apple Podcasts this spring that will bring advanced video podcast capabilities to the app.",
+      "url": "https://www.apple.com/newsroom/2026/02/apple-introduces-a-new-video-podcast-experience-on-apple-podcasts/",
+      "urlToImage": "https://www.apple.com/newsroom/images/2026/02/apple-introduces-a-new-video-podcast-experience-on-apple-podcasts/tile/Apple-Podcasts-enables-video-lp.jpg.og.jpg?202602161816",
+      "source": "Apple Newsroom",
+      "publishedAt": "2026-02-16T20:18:32Z"
+    },
+    {
+      "title": "Ubisoft acknowledges disappointment over Rayman: 30th Anniversary Edition's \"reimagined soundtrack,\" leaves the door open for old tunes to return - GoNintendo",
+      "description": "A Ray of hope",
+      "url": "https://gonintendo.com/contents/57782-ubisoft-acknowledges-disappointment-over-rayman-30th-anniversary-edition-s",
+      "urlToImage": "https://gonintendo.com/attachments/image/76727/file/medium-44a57a16f5a818b4a921be5e74e82868.png",
+      "source": "GoNintendo",
+      "publishedAt": "2026-02-16T20:10:55Z"
+    },
+    {
+      "title": "macOS Tahoe 26.4 Displays Warnings for Apps That Won't Work After Rosetta 2 Support Ends - MacRumors",
+      "description": "macOS Tahoe will be the last version of macOS that supports Intel-based Macs, with Apple planning to phase out Intel Macs entirely following its...",
+      "url": "https://www.macrumors.com/2026/02/16/macos-tahoe-26-4-rosetta-2-warnings/",
+      "urlToImage": "https://images.macrumors.com/t/D-XnVpUc4DMC0MsfclEj6Ahth34=/2190x/article-new/2025/06/intel-macs-no-more-updates.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-02-16T20:08:50Z"
+    },
+    {
+      "title": "Metal Gear Solid 4 Remaster Is Leaving Online Multiplayer In The Past - Kotaku",
+      "description": "But Peace Walker's coop mode is back",
+      "url": "https://kotaku.com/msg4-multiplayer-remaster-online-konami-2000669466",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/02/msg4-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-02-16T19:53:18Z"
+    },
+    {
+      "title": "Switch 2 price, PS6 release could be impacted by memory shortage - Mashable",
+      "description": "Rumors are surfacing about more problems related to RAM shortages.",
+      "url": "https://mashable.com/article/switch-2-price-ps6-release-could-be-impacted-by-memory-shortage",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06L1IE7WqucpcJ8AuSzBbqC/hero-image.fill.size_1200x675.v1771267659.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-02-16T19:01:14Z"
+    },
+    {
+      "title": "Open World Fantasy RPG Promises No Day-One Microtransactions - Kotaku",
+      "description": "The MMO maker promises no cosmetic store to start",
+      "url": "https://kotaku.com/crimson-desert-mtx-microtransactions-deluxe-price-2000669462",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/02/ss_322285fcb1937f1acbe1fb349c019d7e68d91017.1920x1080.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-02-16T19:00:03Z"
+    },
+    {
+      "title": "Apple Music in iOS 26.4 has new design for albums, playlists, and more - 9to5Mac",
+      "description": "iOS 26.4 beta 1 launched today, and among its changes, Apple Music introduces a new fullscreen design for albums, playlists, and more.",
+      "url": "https://9to5mac.com/2026/02/16/apple-music-in-ios-26-4-has-new-design-for-albums-playlists-and-more/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-music-ios-26-4-design.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-02-16T19:00:00Z"
     }
   ]
 }
