@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2026-02-26T07:13:11.068Z",
+  "updatedAt": "2026-02-27T07:08:48.956Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Nvidia Earnings: What to Watch for on Feb. 25 - The Motley Fool",
-      "description": "Nvidia's comments could act as a catalyst for its stock -- and tech stocks in general.",
-      "url": "https://www.fool.com/investing/2026/02/24/nvidia-earnings-what-to-watch-for-on-feb-25/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F857649%2Fgettyimages-876388422.jpg&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-02-25T02:10:00Z"
-    },
-    {
-      "title": "Payments Processor Stripe Expresses Interest in PayPal - Bloomberg",
-      "description": "Payment processing firm Stripe Inc. is considering an acquisition of all or parts of PayPal Holdings Inc., according to people familiar with the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZpBHsBYBeYU/v0/1200x800.jpg",
+      "title": "Nvidia Investors Give Tepid Reaction to Upbeat Forecast - Bloomberg.com",
+      "description": "Nvidia Corp., the dominant maker of artificial intelligence processors, failed to impress investors with its latest sales forecast, signaling that concerns about an overheated AI economy will continue to dog the company.",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-25/nvidia-s-rosy-revenue-forecast-shows-the-ai-boom-remains-strong",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8OFM7hx1Wqc/v0/1200x799.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-02-25T02:00:00Z"
+      "publishedAt": "2026-02-26T01:42:00Z"
     },
     {
-      "title": "Workday Guides for Subscription Revenue Growth to Slow Amid Mounting AI Worries - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/earnings/workday-guides-for-subscription-revenue-growth-to-slow-8d8412ef",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-02-24T23:44:00Z"
+      "title": "Oregon company recalls 55,000 pounds of frozen berries due to listeria concerns - OregonLive.com",
+      "description": "The U.S. Food and Drug Administration bumped the recall to the highest urgency level Tuesday.",
+      "url": "https://www.oregonlive.com/retail/2026/02/oregon-company-recalls-55000-pounds-of-frozen-berries-due-to-listeria-concerns.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/54BBELLHUNCHVIS6A6PZEZCPDA.png?auth=7e57063df03c5e3ebaa4a2130f3ad42857b8637cd81a476f17cec712f360ce46&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2026-02-26T00:01:00Z"
     },
     {
-      "title": "Discord delays age verification plans after user outcry - BBC",
-      "description": "Users were unhappy about plans for age verification to require facial or ID scans.",
-      "url": "https://www.bbc.com/news/articles/cvgv0yg4n9lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8855/live/2be49530-11cb-11f1-9e62-fdfd27f5d401.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-24T22:43:26Z"
+      "title": "IMF urges US to change course on economic policy - Financial Times",
+      "description": "Trump administration’s government job cuts threaten critical economic functions, fund warns",
+      "url": "https://www.ft.com/content/a6d0ff20-257e-4805-9908-ba2172d59da5",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39d55953-8746-46ad-bf7c-49b023216396.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-02-25T23:50:41Z"
     },
     {
-      "title": "US stocks rise after getting a reminder of AI’s potential upsides - AP News",
-      "description": "The U.S. stock market rose after getting a reminder that the artificial-intelligence technology boom may also have an upside. The S&P 500 climbed 0.8% Tuesday and recovered nearly three-quarters of its loss from the day before, when worries worsened that AI c…",
-      "url": "https://apnews.com/article/stocks-markets-trump-ai-iran-209a20c307b116ef8104c7166c8d2c9c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ceb461f/2147483647/strip/true/crop/4897x3263+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F9f%2F10ae2190ffaa63db9cfee11cd74e%2F5574b2d20110466b8db6e0bc6a56e0e9",
+      "title": "Nvidia's CEO says agentic AI is driving chip demand - MarketWatch",
+      "description": "Nvidia reported earnings on Wednesday afternoon. The company vastly exceeded expectations with its guidance, but the report wasn't enough to spur a major positive stock reaction.",
+      "url": "https://www.marketwatch.com/livecoverage/nvidia-earnings-stock-results-q4-guidance-ai",
+      "urlToImage": "https://images.mktw.net/im-72615127/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-02-25T23:07:00Z"
+    },
+    {
+      "title": "Nvidia and other tech stocks lead Wall Street higher - AP News",
+      "description": "U.S. stocks rose and erased their losses for the week so far, as Nvidia and other technology companies led the way. The S&P 500 gained 0.8% Wednesday for a second straight gain following Monday’s swoon. The Dow Jones Industrial Average added 0.6%, and the Nas…",
+      "url": "https://apnews.com/article/stocks-markets-trump-ai-iran-amd-meta-c498f7da5c7bc6822729b220499bf240",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d7bb972/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2Ff4%2F2ed85e72cb67e52e1dbb1c7e7993%2F1818d371f6af46689a51456e4402ff2b",
       "source": "Associated Press",
-      "publishedAt": "2026-02-24T22:33:00Z"
+      "publishedAt": "2026-02-25T22:40:00Z"
     },
     {
-      "title": "Trump administration considers requiring banks to collect citizenship information - The Washington Post",
-      "description": "The Trump administration is exploring measures to require banks to collect additional citizenship information from customers, part of its crackdown on illegal immigration.",
-      "url": "https://www.washingtonpost.com/business/2026/02/24/trump-banks-citizenship-status/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7DR6LOFJWZYNW7AJUGNQPFL2K4.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-02-24T22:32:47Z"
+      "title": "KTLA layoffs hit local TV news hosts Mark Kriski, Lu Parker and Glen Walker - Los Angeles Daily News",
+      "description": "Kriski had delivered the morning weather forecasts since 1991 when KTLA created its morning news show.",
+      "url": "https://www.dailynews.com/2026/02/25/ktla-layoffs-hit-local-tv-news-hosts-mark-kriski-lu-parker-and-glen-walker/",
+      "urlToImage": "https://www.dailynews.com/wp-content/uploads/2026/02/LDN-L-KTLACUTS-0226-03-1.jpg?w=1024&h=744",
+      "source": "LA Daily News",
+      "publishedAt": "2026-02-25T22:32:49Z"
     },
     {
-      "title": "LCID Earnings: Lucid Stock Slides after Mixed Q4 Results - TipRanks",
-      "description": "Shares of Lucid ($LCID) fell in after-hours trading after the EV company reported earnings for its fourth quarter of Fiscal Year 2025. Adjusted earnings per share came in at -$3.08,",
-      "url": "https://www.tipranks.com/news/lcid-earnings-lucid-stock-slides-after-mixed-q4-results",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/02/shutterstock_2345531643-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-02-24T21:53:50Z"
-    },
-    {
-      "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery - TechCrunch",
-      "description": "Form Energy's iron-air batteries will store wind and solar power to keep the data center running 24/7.",
-      "url": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2177664491.jpeg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-24T21:32:22Z"
-    },
-    {
-      "title": "Warner Bros. Discovery Board of Directors Determines Revised Proposal from Paramount Skydance Could Reasonably Be Expected to Lead to a \"Company Superior Proposal\" - PR Newswire",
-      "description": "/PRNewswire/ -- Warner Bros. Discovery, Inc. (\"Warner Bros. Discovery\" or \"WBD\") (NASDAQ: WBD) today announced that its Board of Directors (the \"Board\"),...",
-      "url": "https://www.prnewswire.com/news-releases/warner-bros-discovery-board-of-directors-determines-revised-proposal-from-paramount-skydance-could-reasonably-be-expected-to-lead-to-a-company-superior-proposal-302696253.html",
-      "urlToImage": null,
-      "source": "PRNewswire",
-      "publishedAt": "2026-02-24T21:21:00Z"
-    },
-    {
-      "title": "DJI sues the FCC for “carelessly” restricting its drones - Ars Technica",
-      "description": "DJI lawsuit says company has been \"severely harmed by the FCC’s ruling.\"",
-      "url": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1436102852-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-02-24T21:15:26Z"
-    },
-    {
-      "title": "Warren urges Trump to press GOP on reining in Wall Street’s housing purchases - Politico",
-      "description": "“If Trump wanted to make real changes that would lower costs for the American people, we can make that happen,” said the Massachusetts Democrat.",
-      "url": "https://www.politico.com/news/2026/02/24/warren-urges-trump-to-press-gop-on-reining-in-wall-streets-housing-purchases-00794831",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffd%2F29%2Fbf2867da412caa8f97548c0e3c02%2Fu-s-congress-38204.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-02-24T21:11:33Z"
-    },
-    {
-      "title": "White House Economist Calls Citrini AI Report ‘Science Fiction’ - Bloomberg",
-      "description": "A top White House economist dubbed the weekend report about artificial intelligence risks that had roiled the stock market “science fiction.”",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-24/white-house-economist-calls-citrini-ai-report-science-fiction",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivOXDWjY75SM/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-02-24T21:00:25Z"
-    },
-    {
-      "title": "Breeze lands in Birmingham and Tallahassee this July - The Points Guy",
-      "description": "David Neeleman's latest airline, Breeze Airways, will add two new destinations in a 17-route growth spurt this summer.",
-      "url": "https://thepointsguy.com/news/breeze-airways-new-routes-florida-alabama/",
-      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/02/breeze-airways.jpeg",
-      "source": "The Points Guy",
-      "publishedAt": "2026-02-24T20:34:12Z"
-    },
-    {
-      "title": "Hmm: Spirit Airlines Expects To Emerge From Chapter 11 Bankruptcy Soon - One Mile at a Time",
-      "description": "Spirit Airlines claims that it will emerge from Chapter 11 bankruptcy in the coming months, stronger than ever. Is that really realistic?",
-      "url": "https://onemileatatime.com/news/spirit-airlines-emerge-chapter-11-bankruptcy/",
-      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2022/12/Spirit-Airlines-A321-Big-Front-Seat-11.jpeg",
-      "source": "One Mile at a Time",
-      "publishedAt": "2026-02-24T20:29:29Z"
-    },
-    {
-      "title": "Trump to announce data center energy deals during State of the Union - Politico",
-      "description": "The agreements with tech companies could help lower energy bills as parties spar about affordability concerns.",
-      "url": "https://www.politico.com/news/2026/02/24/trump-to-announce-data-center-energy-deals-during-state-of-the-union-00794834",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F27%2F27%2Fb22111e64d8a81abf613d2da9465%2Fu-s-congress-31309.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-02-24T19:15:46Z"
-    },
-    {
-      "title": "Investors Are Dumping Software Stocks and Earnings Won’t Stop It - Yahoo Finance",
-      "description": "A number of software companies report earnings this week, including Workday Inc., Salesforce Inc., Intuit Inc., Autodesk Inc. and Snowflake Inc. But worries ...",
-      "url": "https://finance.yahoo.com/news/investors-dumping-software-stocks-earnings-104057192.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5S0C_K789J04YmBdbRHckA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDI-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a51828926a97dd83fa213ef27c47bd18",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-02-24T18:56:29Z"
-    },
-    {
-      "title": "AMD Stock Surges After AI Chip Maker Agrees to Meta Deal. It's a Big Win. - Barron's",
+      "title": "IonQ Stock Jumps After Earnings Beat. 2026 Revenue Outlook Tops Expectations. - Barron's",
       "description": "",
-      "url": "https://www.barrons.com/articles/amd-stock-price-meta-deal-ai-chips-cee1fa34",
-      "urlToImage": "https://images.barrons.com/im-79969/social",
+      "url": "https://www.barrons.com/articles/ionq-earnings-stock-price-d671ccae",
+      "urlToImage": "https://images.barrons.com/im-81163699/social",
       "source": "Barron's",
-      "publishedAt": "2026-02-24T18:53:00Z"
+      "publishedAt": "2026-02-25T22:01:00Z"
+    },
+    {
+      "title": "Sarandos Schleps To White House To Counterpunch Paramount’s Potential Upper Hand In WBD Bid - Deadline",
+      "description": "Ted Sarandos is heading to the White House Thursday to salvage Netflix's bid for Warner Bros' studio & streaming assets",
+      "url": "http://deadline.com/2026/02/sarandos-white-house-netflix-paramount-warner-bros-1236736230/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/sarandos-congress-feb-getty.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-02-25T21:27:00Z"
+    },
+    {
+      "title": "Salesforce issues soft outlook amid concerns about AI’s threat to software - Financial Times",
+      "description": "Shares in company that sells software as a service fall after it projects revenue below Wall Street’s expectations",
+      "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff9ebeb17-ad7f-49ab-be87-1c8aa1b654c1.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-02-25T21:04:54Z"
+    },
+    {
+      "title": "Why Jeep's New Hurricane Four Turbo Engine Is Actually Insane - Motor1.com",
+      "description": "Using a mixture of F1-derived and high-performance technology, the Jeep Grand Cherokee's new base engine is a technical showcase.",
+      "url": "https://www.motor1.com/news/788190/jeep-hurricane-four-deep-dive/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/wlWBmQ/s1/jeep-hurricane-4.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2026-02-25T21:02:46Z"
+    },
+    {
+      "title": "Bank of America resets AMD stock price target on deal with Meta - thestreet.com",
+      "description": "Here’s what BofA says could happen to AMD shares next.",
+      "url": "https://www.thestreet.com/investing/bank-of-america-resets-amd-stock-price-target-on-deal-with-meta",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODk2NTY2/lisa-su-chair-and-chief-executive-officer-of-advanced-micro-devices-inc-amd-speaks-during-an-amd-news-conference-ahead-of-the-annual-consumer-electronics-show-in-las-vegas-nevada-on-january-5-2026-pho.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2026-02-25T21:00:00Z"
+    },
+    {
+      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would. - TechCrunch",
+      "description": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
+      "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-25T20:42:14Z"
+    },
+    {
+      "title": "Jim Cramer drops unexpected take on stock market - thestreet.com",
+      "description": "The CNBC host challenges the popular assumption about AI stocks driving market sentiment.",
+      "url": "https://www.thestreet.com/investing/jim-cramer-drops-unexpected-take-on-stock-market",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODk2MDkx/new-york-ny-august-03-jim-cramer-visits-the-new-york-stock-exchange-opening-bell-at-new-york-stock-exchange-on-august-3-2016-in-new-york-city-photo-by-noam-galaigetty-images-stockpack-gettyimages.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2026-02-25T19:33:00Z"
+    },
+    {
+      "title": "US Data Center Construction Fell Amid Permit and Power Delays - Bloomberg.com",
+      "description": "Construction of new data centers in the US fell for the first time since 2020 despite soaring demand for artificial intelligence computing capacity, as developers face delays in permitting, zoning and power procurement.",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-25/us-data-center-construction-fell-amid-permit-and-power-delays",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik2Gki4sTWGg/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-02-25T18:05:20Z"
+    },
+    {
+      "title": "If AI Causes an Office Job Wipeout, It’ll Cause Huge Problems for Blue Collar Work Too - Futurism",
+      "description": "All those white collar jobs that will supposedly be eliminated by AI won't be wiped out in a vacuum, an expert warns.",
+      "url": "http://futurism.com/artificial-intelligence/ai-blue-collar-jobs-wipeout",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/02/ai-blue-collar-jobs-wipeout.jpg?w=1200",
+      "source": "Futurism",
+      "publishedAt": "2026-02-25T18:04:47Z"
+    },
+    {
+      "title": "Trump floats new retirement benefit for 54 million workers - The Washington Post",
+      "description": "The White House does not have the legal authority to do what the president suggested, and some experts are skeptical of proposed legislation.",
+      "url": "https://www.washingtonpost.com/business/2026/02/25/private-sector-workers-retirement-benefit/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AJ3MX3MLWWDXRKWFXPGK6MZYBE_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-02-25T17:21:44Z"
+    },
+    {
+      "title": "Shares of Kentucky bourbon company plummet, taking competitors’ stocks down too - Lexington Herald Leader",
+      "description": "Diageo halves dividend, lowers sales forecast, dragging Kentucky bourbon stocks like Bulleit and Louisville-based Brown-Forman as U.S. spirits demand softens.",
+      "url": "https://www.kentucky.com/lexgoeat/bourbon/article314833909.html",
+      "urlToImage": "https://www.kentucky.com/public/news/business/f2purh/picture195325459/alternates/LANDSCAPE_1140/bulleit%20bottles",
+      "source": "Lexington Herald Leader",
+      "publishedAt": "2026-02-25T16:58:00Z"
+    },
+    {
+      "title": "Netflix Stock Has Best Day In Over A Year After Paramount's New Warner Bros. Bid - Investor's Business Daily",
+      "description": "Netflix stock had its best day in over a year, after Warner Bros.' board said it still favored the streamer's merger deal over Paramount's.",
+      "url": "https://www.investors.com/news/netflix-paramount-skydance-warner-bros-bid-offer/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/05/Stock-Netflix-Upfront2025nyc-01-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-02-25T16:44:00Z"
     }
   ]
 }
