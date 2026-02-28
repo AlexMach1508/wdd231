@@ -1,119 +1,135 @@
 {
-  "updatedAt": "2026-02-27T07:08:48.903Z",
+  "updatedAt": "2026-02-28T06:54:08.267Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Unlock the full potential of your Galaxy S26 with Spigen’s MagFit ecosystem - 9to5Google",
-      "description": "The Galaxy S26 looks and feels pretty similar to previous phones in the series, so if you’re upgrading this year,...",
-      "url": "http://9to5google.com/2026/02/25/unlock-the-full-potential-of-your-galaxy-s26-with-spigens-magfit-ecosystem/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/PR_s26_9to5GOOGLE_01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-02-26T04:38:00Z"
-    },
-    {
-      "title": "Limited Run Games Announces Collection Of Classic Marvel Arcade Games - Game Informer",
-      "description": "Marvel Maximum Collection bundles six classic games from the 8 and 16-bit eras.",
-      "url": "https://gameinformer.com/2026/02/25/limited-run-games-announces-collection-of-classic-marvel-arcade-games",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/02/25/9dfab870/marvel_maximum_collection_reveal_trailer_1.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-02-25T22:34:43Z"
-    },
-    {
-      "title": "Google teases ‘amazing things’ in Android 17 - 9to5Google",
-      "description": "Google’s Sameer Samat took the stage at Galaxy Unpacked today and teased “amazing things” coming to Android 17.",
-      "url": "http://9to5google.com/2026/02/25/android-17-tease-unpacked-2026/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Google-Samsung-Unpacked-2026-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-02-25T20:59:00Z"
-    },
-    {
-      "title": "Hide from Meta's spyglasses with this new Android app - theregister.com",
-      "description": ": Academic urges users not to harass those suspected of snooping with (sp)eyewear",
-      "url": "https://www.theregister.com/2026/02/25/meta_smart_glasses_android_app/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/03/meta-ray-ban.jpg",
-      "source": "Theregister.com",
-      "publishedAt": "2026-02-25T20:13:00Z"
-    },
-    {
-      "title": "Preorders for Samsung’s S26 phones come with up to $200 in gift cards - The Verge",
-      "description": "The Galaxy S26, S26 Plus, and S26 Ultra won’t arrive until March 11th, but you can already preorder them from several retailers with a few added incentives.",
-      "url": "https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268373_Samsung_Galaxy_Unpacked_Feb_2026_AJohnson_0008.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-25T19:09:29Z"
-    },
-    {
-      "title": "[Galaxy Unpacked 2026] A First Look at the Galaxy Buds4 Series: Precision Sound Meets Intelligent Design - Samsung Global Newsroom",
-      "description": "On February 25, Samsung Electronics unveiled the Galaxy Buds4 series at Galaxy Unpacked 2026 in San Francisco, showcasing exceptional sound performance and advanced AI capabilities. Reimagined as a personalized audio assistant, the Galaxy Buds4 series marks a…",
-      "url": "https://news.samsung.com/global/galaxy-unpacked-2026-a-first-look-at-the-galaxy-buds4-series-precision-sound-meets-intelligent-design",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/02/26015445/Samsung-Mobile-Galaxy-Unpacked-2026-Galaxy-Buds4-Series-A-First-Look_Thumb932.jpg",
-      "source": "Samsung.com",
-      "publishedAt": "2026-02-25T18:03:00Z"
-    },
-    {
-      "title": "Xbox Won't Back Away From First-Party And Become 'Just A Publisher', Insists EVP Matt Booty - Pure Xbox",
-      "description": "Good to know!",
-      "url": "https://www.purexbox.com/news/2026/02/xbox-wont-back-away-from-first-party-and-become-just-a-publisher-insists-evp-matt-booty",
-      "urlToImage": "https://images.purexbox.com/c3542e775b093/large.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2026-02-25T18:00:00Z"
-    },
-    {
-      "title": "PlayStation Plus Free Games For March 2026 Revealed - GameSpot",
-      "description": "Here's what PS Plus subscribers can look forward to in March.",
-      "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-march-2026/1100-6538344/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4655633-psplusmarch.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2026-02-25T16:48:58Z"
-    },
-    {
-      "title": "We played Resident Evil Requiem, ask us anything - The Verge",
-      "description": "Resident Evil Requiem launches on February 27th, and The Verge is holding an AMA about the horror game for subscribers.",
-      "url": "https://www.theverge.com/entertainment/884295/resident-evil-requiem-ask-me-anything",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Resident_Evil_Requiem_-_Screenshot_3.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-02-25T15:05:00Z"
-    },
-    {
-      "title": "‘ARC Raiders’ Leans Even Harder Into PvE With New Shrouded Sky Change - Forbes",
-      "description": "ARC Raiders takes another step toward being more PvE friendly with its new Shrouded Sky patch eliminating some PvP rewards.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/02/25/arc-raiders-leans-even-harder-into-pve-with-new-shrouded-sky-change/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/699f019be083a4457dc236b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-02-25T14:08:26Z"
-    },
-    {
-      "title": "Video: We've Played Fallout 4 On Switch 2 - Here's 12 Minutes Of Gameplay - Nintendo Life",
-      "description": "Okey dokey",
-      "url": "https://www.nintendolife.com/news/2026/02/video-weve-played-fallout-4-on-switch-2-heres-12-minutes-of-gameplay",
-      "urlToImage": "https://images.nintendolife.com/daf7dddabcbb0/large.jpg",
+      "title": "Resident Evil Requiem Day One Patch And amiibo Release Date Confirmed - Nintendo Life",
+      "description": "The new amiibo launch later this year",
+      "url": "https://www.nintendolife.com/news/2026/02/resident-evil-requiem-day-one-patch-and-amiibo-release-date-confirmed",
+      "urlToImage": "https://images.nintendolife.com/3a309fcb27072/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2026-02-25T10:15:00Z"
+      "publishedAt": "2026-02-27T05:05:47Z"
     },
     {
-      "title": "‘Rechargable sun battery’ outperforms lithium-ion batteries - futurity.org",
-      "description": "When the sun goes down, solar panels stop working. A new solution doesn't require bulky batteries or electrical grids.",
-      "url": "https://www.futurity.org/solar-energy-battery-heat-3323622-2/",
-      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/02/solar-energy-battery-molecule-1600.jpg",
-      "source": "Futurity: Research News",
-      "publishedAt": "2026-02-25T01:09:16Z"
+      "title": "Hands-On With Nano Banana 2, the Latest Version of Google's AI Image Generator - WIRED",
+      "description": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
+      "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+      "urlToImage": "https://media.wired.com/photos/69a070265fd6da9c76c63408/191:100/w_1280,c_limit/Aspect%20Ratio.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-02-27T00:01:10Z"
     },
     {
-      "title": "Chevy Corvette ZR1 Sets Car And Driver's New Lightning Lap Record, Beats McLaren Senna By 0.7 Seconds - Jalopnik",
-      "description": "This isn't one of those, \"Sure it's quick in a straight line, but what about corners?\" conversations that people normally have about cheap American performance.",
-      "url": "https://www.jalopnik.com/2109419/chevy-corvette-zr1-sets-car-and-driver-lightning-lap-record/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/corvette-zr1-sets-car-and-drivers-new-lightning-lap-record-beats-mclaren-senna-by-0-7-seconds/l-intro-1771972056.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-02-24T22:29:20Z"
+      "title": "Samsung Galaxy S26 Ultra vs. Galaxy S25 Ultra, S24 Ultra: How the Ultras Stack Up - CNET",
+      "description": null,
+      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s25-ultra-s24-ultra-how-the-ultras-stack-up/",
+      "urlToImage": null,
+      "source": "CNET",
+      "publishedAt": "2026-02-26T23:16:00Z"
     },
     {
-      "title": "Minecraft 26.1 Snapshot 10 - Minecraft",
-      "description": "Minecraft 26.1 Snapshot 10",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-10",
-      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/26.1-snapshot-10-1170x500.jpg",
-      "source": "Minecraft.net",
-      "publishedAt": "2026-02-24T18:09:25Z"
+      "title": "Android 17 Beta 2 brings a pop-out windowed mode to all apps with ‘bubbles’ - 9to5Google",
+      "description": "Android 17 Beta 2 fell into our laps today, and unlike Google’s first build, this one is chock full of...",
+      "url": "http://9to5google.com/2026/02/26/android-17-beta-2-brings-a-pop-out-windowed-mode-to-all-apps-with-bubbles/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-Fold-taskbar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-26T21:37:00Z"
+    },
+    {
+      "title": "NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR",
+      "description": "Why did a $72 million mission to study water on the moon fail so soon after launch? A new NASA report has the answer.",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/768x432+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F58%2F3272fc774a248257f51fe81175ee%2Fpia24161.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-02-26T20:55:33Z"
+    },
+    {
+      "title": "NVIDIA “unlaunches” its GeForce 595.59 driver after reports of fan and clock issues - VideoCardz.com",
+      "description": "NVIDIA unreleases its latest Game Ready drivers We just noted on X/Twitter that, for the first time in a long time, all three major GPU vendors released a",
+      "url": "https://videocardz.com/newz/nvidia-unlaunches-its-geforce-595-59-driver-after-reports-of-fan-and-clock-issues",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/02/GEFORCE-DRIVER-NOT-GAME-READY.jpg",
+      "source": "Videocardz.com",
+      "publishedAt": "2026-02-26T18:20:00Z"
+    },
+    {
+      "title": "Stardew Valley is celebrating being one third the age of Pokémon with a video looking at its highly anticipated next update - Eurogamer",
+      "description": "Stardew Valley is celebrating its 10th anniversary with a special video featuring a look at its next major update.",
+      "url": "https://www.eurogamer.net/stardew-valley-is-celebrating-birthday-with-a-look-at-its-next-update",
+      "urlToImage": "https://assetsio.gnwcdn.com/stardew-chicken.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-02-26T17:24:36Z"
+    },
+    {
+      "title": "Add Drift Tuning to Select New Vehicles Including the Brand New Shitzu Keitora - Rockstar Games",
+      "description": "Slide around obstacles on your way to drift deity status during this week’s Drift Event in GTA Online with a collection of new vehicles now eligible for Drift Tuning upgrades, a triple boost on GTA$ and RP for competing in Drift Races, free vehicles,...",
+      "url": "https://www.rockstargames.com/newswire/article/o39k8ka94348a9/add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39k8ka94348a9/a475ea10a0bc5978800b461ee3199923f7fba294.jpg",
+      "source": "Rockstargames.com",
+      "publishedAt": "2026-02-26T17:17:47Z"
+    },
+    {
+      "title": "iRacing Development Update: February 2026 - iRacing",
+      "description": "Hello iRacers, The first few months of the year are an incredible time to be a motorsport fan. With real-world series deep into preseason testing or waving their first green flags, we get that first look at the new cars, technologies, and regulations that wil…",
+      "url": "https://www.iracing.com/iracing-development-update-february-2026/",
+      "urlToImage": "https://s100.iracing.com/wp-content/uploads/2026/02/iR_DevBlog_S2_26_web-350x197.jpg",
+      "source": "Iracing.com",
+      "publishedAt": "2026-02-26T16:09:59Z"
+    },
+    {
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica",
+      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-02-26T15:45:18Z"
+    },
+    {
+      "title": "Before You Buy Pokémon FireRed Or LeafGreen , Check The Version-Exclusive Monsters - Kotaku",
+      "description": "If you’re jumping into the remakes for the first time, here’s the monsters you can only catch in one game",
+      "url": "https://kotaku.com/pokemon-firered-leafgreen-version-exclusives-switch-2-2000674027",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/02/f703a66e41a704d67d853e45ed0cfaed-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-02-26T15:37:42Z"
+    },
+    {
+      "title": "11 ‘Marathon’ Server Slam Tips From The Game Director Himself - Forbes",
+      "description": "Marathon's server slam is about to go live, and if you want to succeed, you may want to listen to the game director's tips.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/02/26/11-marathon-server-slam-tips-from-the-game-director-himself/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a054c7303f64cc8f8f404e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-02-26T14:15:10Z"
+    },
+    {
+      "title": "How to get Galaxy Buds 4 Pro for FREE during Galaxy S26 pre-order week - 9to5Toys",
+      "description": "The gigantic pre-order deals on new Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra are officially underway. You can indeed...",
+      "url": "http://9to5toys.com/2026/02/26/how-to-galaxy-buds-4-pro-free/",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/02/How-to-get-Galaxy-Buds-4-Pro-for-FREE.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Toys",
+      "publishedAt": "2026-02-26T10:40:00Z"
+    },
+    {
+      "title": "The MOST Effective Thermal Mass Works Like A Sunburn - Hackaday",
+      "description": "Way, way back in the days when men wore beards and wide-lapelled suits in exotic colors, only NASA had access to photovoltaics and ‘solar’ meant solar thermal. In those days of appropri…",
+      "url": "https://hackaday.com/2026/02/25/the-most-effective-thermal-mass-works-like-a-sunburn/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/02/singhvp93-water-heater-491270_1920-e1771458060635.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2026-02-26T03:00:00Z"
+    },
+    {
+      "title": "Google details MCP-like ‘AppFunctions’ that let Gemini use Android apps - 9to5Google",
+      "description": "Following the Gemini automation announcement today, Google is detailing how all this works under the hood on Android.",
+      "url": "http://9to5google.com/2026/02/25/android-appfunctions-gemini/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Android-appfunctions-UI-automation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-26T00:54:00Z"
+    },
+    {
+      "title": "Ex-Microsoft games leader not worried new Xbox CEO has no games experience | Ed Fries exclusive interview - GamesBeat",
+      "description": null,
+      "url": "https://gamesbeat.com/ex-microsoft-games-leader-not-worried-new-xbox-ceo-has-no-games-experience-ed-fries-interview/",
+      "urlToImage": null,
+      "source": "Gamesbeat.com",
+      "publishedAt": "2026-02-25T14:47:17Z"
     }
   ]
 }
