@@ -1,135 +1,167 @@
 {
-  "updatedAt": "2026-02-28T06:54:08.267Z",
+  "updatedAt": "2026-03-01T07:00:35.504Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Resident Evil Requiem Day One Patch And amiibo Release Date Confirmed - Nintendo Life",
-      "description": "The new amiibo launch later this year",
-      "url": "https://www.nintendolife.com/news/2026/02/resident-evil-requiem-day-one-patch-and-amiibo-release-date-confirmed",
-      "urlToImage": "https://images.nintendolife.com/3a309fcb27072/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-02-27T05:05:47Z"
-    },
-    {
-      "title": "Hands-On With Nano Banana 2, the Latest Version of Google's AI Image Generator - WIRED",
-      "description": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
-      "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
-      "urlToImage": "https://media.wired.com/photos/69a070265fd6da9c76c63408/191:100/w_1280,c_limit/Aspect%20Ratio.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-02-27T00:01:10Z"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra vs. Galaxy S25 Ultra, S24 Ultra: How the Ultras Stack Up - CNET",
-      "description": null,
-      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s25-ultra-s24-ultra-how-the-ultras-stack-up/",
-      "urlToImage": null,
-      "source": "CNET",
-      "publishedAt": "2026-02-26T23:16:00Z"
-    },
-    {
-      "title": "Android 17 Beta 2 brings a pop-out windowed mode to all apps with ‘bubbles’ - 9to5Google",
-      "description": "Android 17 Beta 2 fell into our laps today, and unlike Google’s first build, this one is chock full of...",
-      "url": "http://9to5google.com/2026/02/26/android-17-beta-2-brings-a-pop-out-windowed-mode-to-all-apps-with-bubbles/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-Fold-taskbar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-02-26T21:37:00Z"
-    },
-    {
-      "title": "NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR",
-      "description": "Why did a $72 million mission to study water on the moon fail so soon after launch? A new NASA report has the answer.",
-      "url": "https://www.npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/768x432+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F58%2F3272fc774a248257f51fe81175ee%2Fpia24161.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-02-26T20:55:33Z"
-    },
-    {
-      "title": "NVIDIA “unlaunches” its GeForce 595.59 driver after reports of fan and clock issues - VideoCardz.com",
-      "description": "NVIDIA unreleases its latest Game Ready drivers We just noted on X/Twitter that, for the first time in a long time, all three major GPU vendors released a",
-      "url": "https://videocardz.com/newz/nvidia-unlaunches-its-geforce-595-59-driver-after-reports-of-fan-and-clock-issues",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/02/GEFORCE-DRIVER-NOT-GAME-READY.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-02-26T18:20:00Z"
-    },
-    {
-      "title": "Stardew Valley is celebrating being one third the age of Pokémon with a video looking at its highly anticipated next update - Eurogamer",
-      "description": "Stardew Valley is celebrating its 10th anniversary with a special video featuring a look at its next major update.",
-      "url": "https://www.eurogamer.net/stardew-valley-is-celebrating-birthday-with-a-look-at-its-next-update",
-      "urlToImage": "https://assetsio.gnwcdn.com/stardew-chicken.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-02-26T17:24:36Z"
-    },
-    {
-      "title": "Add Drift Tuning to Select New Vehicles Including the Brand New Shitzu Keitora - Rockstar Games",
-      "description": "Slide around obstacles on your way to drift deity status during this week’s Drift Event in GTA Online with a collection of new vehicles now eligible for Drift Tuning upgrades, a triple boost on GTA$ and RP for competing in Drift Races, free vehicles,...",
-      "url": "https://www.rockstargames.com/newswire/article/o39k8ka94348a9/add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu",
-      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39k8ka94348a9/a475ea10a0bc5978800b461ee3199923f7fba294.jpg",
-      "source": "Rockstargames.com",
-      "publishedAt": "2026-02-26T17:17:47Z"
-    },
-    {
-      "title": "iRacing Development Update: February 2026 - iRacing",
-      "description": "Hello iRacers, The first few months of the year are an incredible time to be a motorsport fan. With real-world series deep into preseason testing or waving their first green flags, we get that first look at the new cars, technologies, and regulations that wil…",
-      "url": "https://www.iracing.com/iracing-development-update-february-2026/",
-      "urlToImage": "https://s100.iracing.com/wp-content/uploads/2026/02/iR_DevBlog_S2_26_web-350x197.jpg",
-      "source": "Iracing.com",
-      "publishedAt": "2026-02-26T16:09:59Z"
-    },
-    {
-      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica",
-      "description": "That guest network you set up for your neighbors may not be as secure as you think.",
-      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
+      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
+      "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+      "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
       "source": "Ars Technica",
-      "publishedAt": "2026-02-26T15:45:18Z"
+      "publishedAt": "2026-02-28T01:26:41Z"
     },
     {
-      "title": "Before You Buy Pokémon FireRed Or LeafGreen , Check The Version-Exclusive Monsters - Kotaku",
-      "description": "If you’re jumping into the remakes for the first time, here’s the monsters you can only catch in one game",
-      "url": "https://kotaku.com/pokemon-firered-leafgreen-version-exclusives-switch-2-2000674027",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/02/f703a66e41a704d67d853e45ed0cfaed-1200x675.jpg",
+      "title": "What to Expect From Apple's Big Week: iPhone 17e, Low-Cost MacBook, New iPads, and More - MacRumors",
+      "description": "Starting on Monday, we're going to get our first major product announcements of 2026. Apple CEO Tim Cook teased a \"big week ahead\" with...",
+      "url": "https://www.macrumors.com/guide/apple-products-march-2026/",
+      "urlToImage": "https://images.macrumors.com/t/i45pIv3J9hVw5S1yOfw1UeoER88=/1888x/article-new/2026/02/Apple-Announces-Special-Event-in-New-York-Feature-1.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-02-27T23:29:09Z"
+    },
+    {
+      "title": "Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto",
+      "description": "Porsche’s Resident Evil Requiem collaboration has taken a turn, after fans reacted to the reveal trailer by joking that Leon S. Kennedy would destroy the Cayenne Turbo GT before the game even ends.",
+      "url": "https://www.dexerto.com/resident-evil/porsche-responds-after-resident-evil-fans-claim-leon-will-definitely-destroy-his-porsche-in-resident-evil-requiem-3326192/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/27/porsche-resident-evil.jpg",
+      "source": "Dexerto",
+      "publishedAt": "2026-02-27T23:16:52Z"
+    },
+    {
+      "title": "A Dish of Neurons Playing DOOM Is the Wildest Thing I’ve Seen in Ages - Gizmodo",
+      "description": "Coming soon to a LAN party near you: a Petri dish.",
+      "url": "https://gizmodo.com/a-dish-of-neurons-playing-doom-is-the-wildest-thing-ive-seen-in-ages-2000727674",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/02/cl-1-playing-doom-1200x675.png",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-02-27T22:50:47Z"
+    },
+    {
+      "title": "BMW’s new 2027 EVs leak online before the site is taken down - Electrek",
+      "description": "BMW accidentally listed its 2027 lineup online, confirming several new electric vehicles, including the first Neue Klasse EV, the iX3....",
+      "url": "http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/BMW-new-iX3-EV-2027.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2026-02-27T21:55:00Z"
+    },
+    {
+      "title": "It's time for Nintendo to free the RPG geniuses at Camelot from Mario sports games - AV Club",
+      "description": "The designers behind some of the best RPGs ever made have spent almost 30 years primarily making Mario sports games. That's got to stop.",
+      "url": "https://www.avclub.com/mario-tennis-fever-camelot-rpgs",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2026/02/26124051/mario_tennis_fever_1920.jpg",
+      "source": "The A.V. Club",
+      "publishedAt": "2026-02-27T21:05:05Z"
+    },
+    {
+      "title": "Sony’s Bluepoint Pitched ‘Bloodborne’ Remake Before Closure - Bloomberg.com",
+      "description": "The inside story of why PlayStation closed its beloved subsidiary",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-27/sony-s-bluepoint-pitched-bloodborne-remake-before-closure",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igccpi7ihe9o/v4/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-02-27T20:03:38Z"
+    },
+    {
+      "title": "There’s A Game-Long Resident Evil Requiem Puzzle No One’s Been Able To Solve - Kotaku",
+      "description": "The ‘Final Puzzle’ is stumping even those who have been playing the game pre-launch",
+      "url": "https://kotaku.com/resident-evil-requiem-final-puzzle-solution-severed-hand-2000674538",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214174353-1200x675.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-02-26T15:37:42Z"
+      "publishedAt": "2026-02-27T19:45:34Z"
     },
     {
-      "title": "11 ‘Marathon’ Server Slam Tips From The Game Director Himself - Forbes",
-      "description": "Marathon's server slam is about to go live, and if you want to succeed, you may want to listen to the game director's tips.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/02/26/11-marathon-server-slam-tips-from-the-game-director-himself/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a054c7303f64cc8f8f404e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-02-26T14:15:10Z"
+      "title": "Galaxy Buds 4 ultra-high quality audio only supports these devices - SamMobile",
+      "description": "Samsung's newly launched Galaxy Buds 4 and Galaxy Buds 4 Pro both have support for ultra-high quality or UHQ audio. Audiophiles will also be pleased that they have support for 24-bit Hi-Fi as well. These are specific features that don't work with all devices …",
+      "url": "https://www.sammobile.com/news/galaxy-buds-4-ultra-high-quality-audio-only-supports-these-devices/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-Buds-4-Pro-hands-on-33-1200x675.jpg",
+      "source": "SamMobile",
+      "publishedAt": "2026-02-27T19:12:00Z"
     },
     {
-      "title": "How to get Galaxy Buds 4 Pro for FREE during Galaxy S26 pre-order week - 9to5Toys",
-      "description": "The gigantic pre-order deals on new Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra are officially underway. You can indeed...",
-      "url": "http://9to5toys.com/2026/02/26/how-to-galaxy-buds-4-pro-free/",
-      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/02/How-to-get-Galaxy-Buds-4-Pro-for-FREE.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Toys",
-      "publishedAt": "2026-02-26T10:40:00Z"
+      "title": "Xbox Drops 6 Free Games, Includes AAA That Doesn't Require Game Pass - GAMINGbible",
+      "description": "Download and play six free games courtesy of Xbox Free Play Days campaign, and you don't need Game Pass",
+      "url": "https://www.gamingbible.com/news/platform/xbox/xbox-drops-6-free-games-aaa-pass-036680-20260227",
+      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9c46ba6666806a5a/69a1bfa4533ab444eccb2d42/marathon-27022026.jpg",
+      "source": "Gamingbible.com",
+      "publishedAt": "2026-02-27T19:00:00Z"
     },
     {
-      "title": "The MOST Effective Thermal Mass Works Like A Sunburn - Hackaday",
-      "description": "Way, way back in the days when men wore beards and wide-lapelled suits in exotic colors, only NASA had access to photovoltaics and ‘solar’ meant solar thermal. In those days of appropri…",
-      "url": "https://hackaday.com/2026/02/25/the-most-effective-thermal-mass-works-like-a-sunburn/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/02/singhvp93-water-heater-491270_1920-e1771458060635.jpg",
-      "source": "Hackaday",
-      "publishedAt": "2026-02-26T03:00:00Z"
+      "title": "Pokemon FireRed And LeafGreen On Switch Won’t Let You Name Your Rival ‘Dickbutt’ - Kotaku",
+      "description": "A long-standing Pokémon tradition is impossible on the Switch ports",
+      "url": "https://kotaku.com/pokemon-firered-leafgreen-nickname-rival-censorship-2000674512",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/02/charizardbleep-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-02-27T17:49:33Z"
     },
     {
-      "title": "Google details MCP-like ‘AppFunctions’ that let Gemini use Android apps - 9to5Google",
-      "description": "Following the Gemini automation announcement today, Google is detailing how all this works under the hood on Android.",
-      "url": "http://9to5google.com/2026/02/25/android-appfunctions-gemini/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Android-appfunctions-UI-automation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Samsung confirms satellite connectivity for Galaxy S26 and older Galaxy devices - 9to5Google",
+      "description": "As satellite connectivity has started to become a more standard offering in smartphones, Samsung is finally adding proper support with...",
+      "url": "http://9to5google.com/2026/02/27/samsung-confirms-satellite-connectivity-for-galaxy-s26-and-older-galaxy-devices/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/S26-in-hand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-02-26T00:54:00Z"
+      "publishedAt": "2026-02-27T16:40:00Z"
     },
     {
-      "title": "Ex-Microsoft games leader not worried new Xbox CEO has no games experience | Ed Fries exclusive interview - GamesBeat",
-      "description": null,
-      "url": "https://gamesbeat.com/ex-microsoft-games-leader-not-worried-new-xbox-ceo-has-no-games-experience-ed-fries-interview/",
-      "urlToImage": null,
-      "source": "Gamesbeat.com",
-      "publishedAt": "2026-02-25T14:47:17Z"
+      "title": "Mutants and Mutagen in Magic: The Gathering® | Teenage Mutant Ninja Turtles - Magic: The Gathering",
+      "description": "Learn the secrets of the ooze (and Mutagen tokens) with these behind-the-scenes stories from Magic: The Gathering | Teenage Mutant Ninja Turtles.",
+      "url": "https://magic.wizards.com/en/news/feature/mutants-and-mutagen-in-teenage-mutant-ninja-turtles",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/60ykeSNdjFjlCotghITOut/9879ebbbfee1bac71a40a5d3454fc2f9/TMT_Venus__Torn_Between_Worlds_960x540.jpg",
+      "source": "Wizards.com",
+      "publishedAt": "2026-02-27T16:34:02Z"
+    },
+    {
+      "title": "Everything You Can Do With Google's Nano Banana 2 Image Generator - Lifehacker",
+      "description": "Better pictures in less time.",
+      "url": "https://lifehacker.com/tech/testing-google-gemini-nano-banana-2",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01KJFM0THBH52M4ZTG8HW05YHZ/hero-image.fill.size_1200x675.jpg",
+      "source": "Lifehacker.com",
+      "publishedAt": "2026-02-27T16:00:00Z"
+    },
+    {
+      "title": "Two More Studio Display 2 Upgrades Leaked in New Report - MacRumors",
+      "description": "Macworld's Filipe Espósito today again reported that Apple appears to be developing two new Studio Display models with different specs.   Based...",
+      "url": "https://www.macrumors.com/2026/02/27/two-more-studio-display-2-rumors/",
+      "urlToImage": "https://images.macrumors.com/t/lj1Ir66PPY6b2jaJGorKO-8ycDI=/1960x/article-new/2022/03/Apple-Studio-Display-Magic-Trackpad-Keyboard-Mouse.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-02-27T15:19:32Z"
+    },
+    {
+      "title": "The Pokémon Center’s Game Boy Jukebox Hits All the Right Notes - Pokemon.com",
+      "description": "Game Boy Jukebox features 45 cartridges bumping classics like “Pallet Town Theme.”",
+      "url": "https://www.pokemon.com/us/pokemon-news/the-pokemon-centers-game-boy-jukebox-hits-all-the-right-notes",
+      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/misc/_tiles/pokemon-center/2026/02/27/pokemon-center-169.png",
+      "source": "Pokemon.com",
+      "publishedAt": "2026-02-27T14:47:23Z"
+    },
+    {
+      "title": "Pokémon Continues 30th Celebrations with the Unveiling of Pokémon Winds and Pokémon Waves, the Newest Entries in the Pokémon Video Game Series - Pokemon Press",
+      "description": "Pokémon Day Video Presentation Packed with New Updates Across the Franchise, Including PokémonXP and the 2026 Pokémon World Championships, Pokémon Champions, the Pokémon Trading Card Game and More\r\n \r\nPokémon FireRed Version and LeafGreen Version Released Tod…",
+      "url": "https://press.pokemon.com/en/Pokemon-Continues-30th-Celebrations-with-the-Unveiling-of-Pokemon-Wind",
+      "urlToImage": "https://imguscdn.gamespress.com/cdn/files/PokemonAmerica/2026/02/271333-26aeaacb/Pokemon_Day_Logo_2026_EN.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=9910e9edd0c2ba655f8a1efae05c2333dcbec3bee7115b89b4c778a00640d5bf",
+      "source": "Pokemon.com",
+      "publishedAt": "2026-02-27T14:45:18Z"
+    },
+    {
+      "title": "Nintendo GameCube – Nintendo Classics adds Pokemon XD: Gale of Darkness in March - Gematsu",
+      "description": "Pokemon XD: Gale of Darkness will launch via the Nintendo GameCube – Nintendo Classics app for Switch 2 in March, Nintendo announced.",
+      "url": "https://www.gematsu.com/2026/02/nintendo-gamecube-nintendo-classics-adds-pokemon-xd-gale-of-darkness-in-march",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Pokemon-XD-Switch-2_02-27-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-02-27T14:11:23Z"
+    },
+    {
+      "title": "The 2026 Chevrolet Corvette ZR1X Is Peak Corvette - Road & Track",
+      "description": "Chevrolet has created a genuine hypercar with the ZR1X—one that matches outlandish performance to assured control.",
+      "url": "https://www.roadandtrack.com/reviews/a70495234/the-zr1x-is-peak-corvette/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/2026-chevrolet-corvette-zr1x-4-69971db2f1388.jpg?crop=0.998xw:0.750xh;0.00160xw,0.151xh&resize=1200:*",
+      "source": "RoadandTrack.com",
+      "publishedAt": "2026-02-27T14:04:14Z"
+    },
+    {
+      "title": "It's Official: Resident Evil Requiem Uses Sony's Brand-New PSSR Upscaler - Digital Foundry",
+      "description": "And here's how it compares to FSR4 and DLSS.",
+      "url": "https://www.digitalfoundry.net/news/2026/02/its-official-resident-evil-requiem-uses-sonys-brand-new-pssr-upscaler",
+      "urlToImage": "https://images.digitalfoundry.net/56e1e5dcd758b/large.jpg",
+      "source": "Digitalfoundry.net",
+      "publishedAt": "2026-02-27T13:00:00Z"
     }
   ]
 }

@@ -1,151 +1,39 @@
 {
-  "updatedAt": "2026-02-28T06:54:08.325Z",
+  "updatedAt": "2026-03-01T07:00:35.543Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover - BBC",
-      "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
-      "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/64f2/live/3b76e450-1368-11f1-af0d-af544dd82419.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-27T01:28:14Z"
-    },
-    {
-      "title": "Jack Dorsey's layoff memo is an ominous sign of what could come next - Business Insider",
-      "description": "The billionaire's move to slash nearly half of Block's workforce in one fell swoop signals a departure from Big Tech's pattern of repeated cuts.",
-      "url": "https://www.businessinsider.com/jack-dorsey-block-memo-new-era-white-collar-layoffs-2026-2",
-      "urlToImage": "https://i.insider.com/69a0c0bbd3e2f1aef3699e3b?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-02-27T01:01:00Z"
-    },
-    {
-      "title": "Netflix Is Big Winner in Warner Takeover Battle as CEO Puts Shareholders Over Ego - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/netflix-winner-warner-paramount-stock-e3008c5d",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2026-02-27T00:56:00Z"
-    },
-    {
-      "title": "Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News",
-      "description": "A 20-year-old woman is seeking to hold social media companies responsible for harms to children who use their platforms. She began using the platforms as a young child and claims her early use of social media addicted her to the technology and exacerbated dep…",
-      "url": "https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-2afb4809d2dbbb0d1e69739c7f2b20b3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3041a46/2147483647/strip/true/crop/3782x2520+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2F26%2F042b435dd6ddd00d95ae97a8de42%2F6ccb3c7493c34209afe921060a87bb34",
-      "source": "Associated Press",
-      "publishedAt": "2026-02-27T00:53:00Z"
-    },
-    {
-      "title": "Dow Jones Futures Fall As AI Fears Revive; Block, Netflix, Applied Opto Jump - Investor's Business Daily",
-      "description": "Outside Nvidia and artificial intelligence plays, the stock market had an OK day.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-fears-block-netflix-applied-opto/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/11/Stock-AIcyber-Head-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-02-27T00:48:00Z"
-    },
-    {
-      "title": "Burger King AI bot will check up on staffs' please and thank yous - BBC",
-      "description": "The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers.",
-      "url": "https://www.bbc.com/news/articles/cgk2zygg0k3o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3569/live/0bbe0ec0-135c-11f1-911e-799f6530902b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-26T22:09:46Z"
-    },
-    {
-      "title": "State Farm auto customers getting $100 refund - Axios",
-      "description": "State Farm, the nation's largest auto insurer, is lowering insurance rates and issuing an average dividend of $100 per vehicle to policyholders.",
-      "url": "https://www.axios.com/2026/02/26/state-farm-auto-insurance-refund",
-      "urlToImage": "https://images.axios.com/0rk6Lsp5NMXZhCyw1kPsbJpRbLM=/0x396:3800x2533/1366x768/2026/02/25/1772046216189.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-02-26T22:09:42Z"
-    },
-    {
-      "title": "CoreWeave Stock Falls On Q4 Earnings As Order Backlog Grows 20% - Investor's Business Daily",
-      "description": "CoreWeave stock fell after the cloud computing services provider reported a wider-than-expected loss while revenue slightly topped estimates.",
-      "url": "https://www.investors.com/news/technology/coreweave-stock-crwv-coreweave-earnings-q42025/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/05/Stock-CoreWeave-computer-01-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-02-26T21:42:00Z"
-    },
-    {
-      "title": "Nvidia’s Upbeat Sales Forecast Gets Lackluster Investor Response - Bloomberg.com",
-      "description": "Nvidia Corp., the dominant maker of artificial intelligence chips, suffered its worst stock decline in 10 months after the company’s latest forecast failed to dispel fears of an AI bubble.",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-25/nvidia-s-rosy-revenue-forecast-shows-the-ai-boom-remains-strong",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8OFM7hx1Wqc/v0/1200x799.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-02-26T21:05:48Z"
-    },
-    {
-      "title": "Meta’s Internal Chip Design Efforts Hit Roadblocks - The Information",
-      "description": "As Meta Platforms strikes new chip supply deals with AMD and Nvidia, it has been running into problems with AI chips it is designing internally, according to six people with direct knowledge of the matter. Meta last week scrapped the most advanced chip it was…",
-      "url": "https://www.theinformation.com/articles/metas-internal-chip-design-efforts-hit-roadblocks",
-      "urlToImage": "https://tii.imgix.net/production/articles/16665/c17ada10-40b3-4b0c-9b08-cda4342d3c14.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "source": "The Information",
-      "publishedAt": "2026-02-26T20:59:00Z"
-    },
-    {
-      "title": "Live Earnings: Complete Rocket Lab (RKLB) Coverage - 24/7 Wall St.",
-      "description": "Live Updates LIVE UPDATES IN PROGRESS — Stay on This Page Pinned 1 hour ago Live We are updating this story in real time as new information breaks. Stay on this page for the latest developments, key quotes, numbers, and market reaction as they happen. Earning…",
-      "url": "https://247wallst.com/investing/2026/02/26/live-earnings-complete-rocket-lab-rklb-coverage/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2024/02/GettyImages-1240778446.jpg",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-02-26T20:30:00Z"
-    },
-    {
-      "title": "Papa John's to close 300 restaurants as it moves to cut costs and boost growth - CBS News",
-      "description": "Struggling pizza chain Papa John's said it will close 200 restaurants this year and another 100 by the end of 2027.",
-      "url": "https://www.cbsnews.com/news/papa-johns-close-300-restaurants-2027/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/02/26/b6da3891-f13c-4d3b-be4e-ad10ac5be6b8/thumbnail/1200x630/1d1680fe2c99d80bbcefafbf01d0ffdd/gettyimages-2152235607.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-02-26T20:05:00Z"
-    },
-    {
-      "title": "Trump claims America is ‘winning so much.’ The IMF agrees, adding that Trump’s trade policies are the only thing holding it back from even more - Fortune",
-      "description": "Trump’s tariffs will make it harder for the U.S. to balance its budget and reduce its deficit over the long term.",
-      "url": "https://fortune.com/2026/02/26/trump-trade-policy-undermines-strong-us-economy-imf/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2262890276-e1772125257842.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-02-26T18:55:00Z"
-    },
-    {
-      "title": "Svetlana 'the stowaway' Dali allegedly snuck onto United flight at Newark airport: Sources - ABC News",
-      "description": null,
-      "url": "https://abcnews.com/US/svetlana-stowaway-dali-allegedly-snuck-united-flight-newark/story?id\\\\u003d130531628",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-02-26T18:27:04Z"
-    },
-    {
-      "title": "David Zaslav Calls Sale Process Rigorous, Highly Competitive & Thorough, Touts WBD “Creative Resurgence” - Deadline",
-      "description": "David Zaslav calls sale process rigorous, highly competitive and thorough as he extolls Warner Bros. Discovery's \"creative resurgence”.",
-      "url": "http://deadline.com/2026/02/david-zaslav-wbd-sale-process-creative-resurgence-1236737428/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/david-Zaslav-sept-14-2025-getty.jpg?w=1024",
+      "title": "Paramount + WBD Vs. Coalition Of The Unwilling: CA AG Pulling Together Blue States Probe Of Mega-Merger - Deadline",
+      "description": "The clock is ticking on the Paramount & WBD mega-merger, literally, & things could get sticky & expensive if California's Attorney General has his way",
+      "url": "http://deadline.com/2026/02/paramount-warner-bros-california-blue-states-1236739027/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/paramount-california-flag-warner-bros.jpg?w=1024",
       "source": "Deadline",
-      "publishedAt": "2026-02-26T18:16:00Z"
+      "publishedAt": "2026-02-27T23:53:00Z"
     },
     {
-      "title": "Tampa Airport Announces Divisive New Dress Code Rule Banning This Popular Travel Outfit - instyle.com",
-      "description": "Tampa International Airport announced a polarizing new dress code rule on February 26 that bans a popular airplane travel outfit, saying, \"We've seen enough. We've heard enough\" in a post shared on X (formerly Twitter). Read more, here.",
-      "url": "https://www.instyle.com/tampa-airport-new-dress-code-rule-pajamas-crocs-11915111",
-      "urlToImage": "https://www.instyle.com/thmb/XbzDkK4km4-YxIrLqaeJEwjG0dY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22049449221-870842271e19420d855eefdd5dac6763.jpg",
-      "source": "InStyle",
-      "publishedAt": "2026-02-26T18:10:43Z"
+      "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios",
+      "description": "The Pentagon has complained Anthropic's red lines on military use were \"woke.\"",
+      "url": "https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic",
+      "urlToImage": "https://images.axios.com/QQpzWmSkQ48mF8mNgB7pdDZeqv4=/0x34:5143x2927/1366x768/2026/02/27/1772235904101.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-02-27T23:51:21Z"
     },
     {
-      "title": "Ford Recalls 4 Million Vehicles—F-Series Trucks, SUVs, More—Over Software Glitch - Forbes",
-      "description": "The automaker issued a record number of recalls last year.",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/02/26/ford-recalls-4-million-vehicles-f-series-trucks-suvs-more-over-software-glitch/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a060c0227c7c8a41011e8d/0x0.jpg?format=jpg&crop=2281,1283,x0,y116,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-02-26T15:04:15Z"
+      "title": "Jack Dorsey lays off 40% of Block because of AI and sees most firms making similar cuts in next year - Fortune",
+      "description": "The former Twitter CEO said AI was “enabling a new way of working” as his company scales back its workforce as a result of AI productivity gains.",
+      "url": "https://fortune.com/2026/02/27/block-jack-dorsey-ceo-xyz-stock-square-4000-ai-layoffs/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1233275147-e1772213494534.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-02-27T17:52:00Z"
     },
     {
-      "title": "US Department of Labor proposes rule clarifying employee, independent contractor status under federal wage and hour laws - U.S. Department of Labor (.gov)",
-      "description": null,
-      "url": "https://www.dol.gov/newsroom/releases/whd/whd20260226",
-      "urlToImage": "https://www.dol.gov/sites/dolgov/files/OPA/twitter-cards/DOLnews.png",
-      "source": "Dol.gov",
-      "publishedAt": "2026-02-26T14:00:24Z"
+      "title": "OpenAI Raises $110 Billion as It Races Toward IPO - WSJ",
+      "description": "New funding, which values the company at $730 billion before the investment, came from Amazon, SoftBank and Nvidia",
+      "url": "https://www.wsj.com/tech/openai-raises-110-billion-a2a34d23",
+      "urlToImage": "https://images.wsj.net/im-27261388/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-02-27T15:42:00Z"
     }
   ]
 }
