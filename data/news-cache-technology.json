@@ -1,23 +1,103 @@
 {
-  "updatedAt": "2026-03-01T07:00:35.504Z",
+  "updatedAt": "2026-03-02T07:12:37.539Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
-      "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-      "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-02-28T01:26:41Z"
+      "title": "Column | Asking Eric: Grandson has no motivation; daughter enables him - The Washington Post",
+      "description": "A concerned grandfather doesn’t want to enable his unmotivated grandson – like his daughter is already doing.",
+      "url": "https://www.washingtonpost.com/advice/2026/03/01/asking-eric-grandson-lacking-motivation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-03-01T08:47:25Z"
     },
     {
-      "title": "What to Expect From Apple's Big Week: iPhone 17e, Low-Cost MacBook, New iPads, and More - MacRumors",
-      "description": "Starting on Monday, we're going to get our first major product announcements of 2026. Apple CEO Tim Cook teased a \"big week ahead\" with...",
-      "url": "https://www.macrumors.com/guide/apple-products-march-2026/",
-      "urlToImage": "https://images.macrumors.com/t/i45pIv3J9hVw5S1yOfw1UeoER88=/1888x/article-new/2026/02/Apple-Announces-Special-Event-in-New-York-Feature-1.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-02-27T23:29:09Z"
+      "title": "Gallery: Here's A Look At Pokémon Winds & Waves On Switch 2 - Nintendo Life",
+      "description": "Coming 2027",
+      "url": "https://www.nintendolife.com/news/2026/03/gallery-heres-a-look-at-pokemon-winds-and-waves-on-switch-2",
+      "urlToImage": "https://images.nintendolife.com/5834766f16ba0/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-03-01T00:55:00Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 vs. Apple iPhone 17: Battle of the Premium Phones - PCMag",
+      "description": "Choosing between the two biggest names in smartphones isn’t getting any easier. We compare the just-announced Galaxy S26 with the tested iPhone 17 lineup on value, specs, features, AI smarts, and ecosystem perks to help you decide.",
+      "url": "https://www.pcmag.com/comparisons/samsung-galaxy-s26-vs-apple-iphone-17-battle-of-the-premium-phones",
+      "urlToImage": "https://i.pcmag.com/imagery/products/01lK1sgeE5s9CTe7NGKNJe9.fit_lim.size_1200x630.v1772152647.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2026-02-28T19:27:48Z"
+    },
+    {
+      "title": "Poll: Are You Happy with Your PS Plus Essential Games for March 2026? - Push Square",
+      "description": "Plus or minus?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-march-2026",
+      "urlToImage": "https://images.pushsquare.com/fc8ec16cbb078/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-02-28T19:00:00Z"
+    },
+    {
+      "title": "Xbox 360 boss shuts down “gamer CEO” criticism from co‑founder - Windows Central",
+      "description": "Moore responds to claims that Xbox is being sunsetted, defends Phil Spencer’s legacy, and calls for perspective during a leadership transition.",
+      "url": "https://www.windowscentral.com/gaming/xbox/former-xbox-360-boss-peter-moore-publicly-shuts-down-xbox-co-founders-criticism-of-new-ceo-asha-sharma",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xL9MCX7hWYkf4q94jk82aa-2560-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2026-02-28T15:58:41Z"
+    },
+    {
+      "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank - TechCrunch",
+      "description": "We round up everything Xiaomi announced at its Mobile World Congress event.",
+      "url": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/xiaomi.jpg?resize=1200,600",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-28T15:09:03Z"
+    },
+    {
+      "title": "Roundup: Here's What The First Reviews / Impressions Say About The Marathon Server Slam - Pure Xbox",
+      "description": "What do you think of it?",
+      "url": "https://www.purexbox.com/news/2026/02/roundup-heres-what-the-first-reviews-impressions-say-about-the-marathon-server-slam",
+      "urlToImage": "https://images.purexbox.com/be9a673e69313/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-02-28T15:02:00Z"
+    },
+    {
+      "title": "Xiaomi’s tracker doesn’t need a case to clip to your keys - The Verge",
+      "description": "﻿The Xiaomi Tag has a built-in loop and is compatible with Apple’s Find My and Google’s Find Hub tracking networks.",
+      "url": "https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/xiaomi_tag2.jpg?quality=90&strip=all&crop=0%2C10.723437243423%2C100%2C78.553125513154&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-02-28T14:30:00Z"
+    },
+    {
+      "title": "Review: Fallout 4: Anniversary Edition (Switch 2) - A Solid Port With Plenty Of Extra Content, And Bugs - Nintendo Life",
+      "description": "War never changes",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/fallout-4-anniversary-edition",
+      "urlToImage": "https://images.nintendolife.com/05980ab9e2730/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-28T13:00:00Z"
+    },
+    {
+      "title": "Security News This Week: Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums - WIRED",
+      "description": "Plus: The top US cyber agency falls into shambles, AI models develop an upsetting penchant for nuclear weapons, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
+      "urlToImage": "https://media.wired.com/photos/69a203e0a1f07be8b2d1f0b8/191:100/w_1280,c_limit/sec-roundup-romo-2228166651.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-02-28T11:30:00Z"
+    },
+    {
+      "title": "These 30+ Games Are Coming To Xbox Next Week (March 2-6) - Pure Xbox",
+      "description": "Including some great Game Pass titles!",
+      "url": "https://www.purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-march-2-6",
+      "urlToImage": "https://images.purexbox.com/83910c5b92d91/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-02-28T03:40:07Z"
+    },
+    {
+      "title": "Pokémon FireRed & LeafGreen Switch Update Censors Naughty And Offensive Names - Nintendo Life",
+      "description": "Watch your language, trainers",
+      "url": "https://www.nintendolife.com/news/2026/02/pokemon-firered-and-leafgreen-switch-update-censors-naughty-and-offensive-names",
+      "urlToImage": "https://images.nintendolife.com/27101ee173e6e/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-02-28T01:30:00Z"
     },
     {
       "title": "Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto",
@@ -28,12 +108,12 @@
       "publishedAt": "2026-02-27T23:16:52Z"
     },
     {
-      "title": "A Dish of Neurons Playing DOOM Is the Wildest Thing I’ve Seen in Ages - Gizmodo",
-      "description": "Coming soon to a LAN party near you: a Petri dish.",
-      "url": "https://gizmodo.com/a-dish-of-neurons-playing-doom-is-the-wildest-thing-ive-seen-in-ages-2000727674",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/02/cl-1-playing-doom-1200x675.png",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-02-27T22:50:47Z"
+      "title": "Asus and Dell announce new mini PCs for Windows 365 - Notebookcheck",
+      "description": "Dell and Asus have announced new mini PCs intended for use with Windows 365. These systems will not power themselves, but will simply allow users to operate Windows running in the cloud.",
+      "url": "https://www.notebookcheck.net/Asus-and-Dell-announce-new-mini-PCs-for-Windows-365.1236853.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows_365_asus_dell_mini_pc.jpg",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-02-27T22:00:00Z"
     },
     {
       "title": "BMW’s new 2027 EVs leak online before the site is taken down - Electrek",
@@ -52,116 +132,28 @@
       "publishedAt": "2026-02-27T21:05:05Z"
     },
     {
-      "title": "Sony’s Bluepoint Pitched ‘Bloodborne’ Remake Before Closure - Bloomberg.com",
-      "description": "The inside story of why PlayStation closed its beloved subsidiary",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-02-27/sony-s-bluepoint-pitched-bloodborne-remake-before-closure",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igccpi7ihe9o/v4/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-02-27T20:03:38Z"
+      "title": "Video Game Archive Myrient To Shut Down On March 31 - Hackaday",
+      "description": "Recently the Myrient game video archive announced that they’re shutting down on March 31st of this year, for a couple of reasons, but primarily the skyrocketing financial costs of hosting the…",
+      "url": "https://hackaday.com/2026/02/27/video-game-archive-myrient-to-shut-down-on-march-31/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/02/myrient_shutdown_message.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2026-02-27T21:00:00Z"
     },
     {
-      "title": "There’s A Game-Long Resident Evil Requiem Puzzle No One’s Been Able To Solve - Kotaku",
-      "description": "The ‘Final Puzzle’ is stumping even those who have been playing the game pre-launch",
-      "url": "https://kotaku.com/resident-evil-requiem-final-puzzle-solution-severed-hand-2000674538",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214174353-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-02-27T19:45:34Z"
+      "title": "Pokémon Go habitat hour schedule, raid schedule and every habitat Pokémon for Go Tour Kalos listed - Eurogamer",
+      "description": null,
+      "url": "https://www.eurogamer.net/pokemon-go-habitat-hour-schedule-raid-schedule-go-tour-kalos",
+      "urlToImage": null,
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-02-27T21:00:00Z"
     },
     {
-      "title": "Galaxy Buds 4 ultra-high quality audio only supports these devices - SamMobile",
-      "description": "Samsung's newly launched Galaxy Buds 4 and Galaxy Buds 4 Pro both have support for ultra-high quality or UHQ audio. Audiophiles will also be pleased that they have support for 24-bit Hi-Fi as well. These are specific features that don't work with all devices …",
-      "url": "https://www.sammobile.com/news/galaxy-buds-4-ultra-high-quality-audio-only-supports-these-devices/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-Buds-4-Pro-hands-on-33-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2026-02-27T19:12:00Z"
-    },
-    {
-      "title": "Xbox Drops 6 Free Games, Includes AAA That Doesn't Require Game Pass - GAMINGbible",
-      "description": "Download and play six free games courtesy of Xbox Free Play Days campaign, and you don't need Game Pass",
-      "url": "https://www.gamingbible.com/news/platform/xbox/xbox-drops-6-free-games-aaa-pass-036680-20260227",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9c46ba6666806a5a/69a1bfa4533ab444eccb2d42/marathon-27022026.jpg",
-      "source": "Gamingbible.com",
-      "publishedAt": "2026-02-27T19:00:00Z"
-    },
-    {
-      "title": "Pokemon FireRed And LeafGreen On Switch Won’t Let You Name Your Rival ‘Dickbutt’ - Kotaku",
-      "description": "A long-standing Pokémon tradition is impossible on the Switch ports",
-      "url": "https://kotaku.com/pokemon-firered-leafgreen-nickname-rival-censorship-2000674512",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/02/charizardbleep-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-02-27T17:49:33Z"
-    },
-    {
-      "title": "Samsung confirms satellite connectivity for Galaxy S26 and older Galaxy devices - 9to5Google",
-      "description": "As satellite connectivity has started to become a more standard offering in smartphones, Samsung is finally adding proper support with...",
-      "url": "http://9to5google.com/2026/02/27/samsung-confirms-satellite-connectivity-for-galaxy-s26-and-older-galaxy-devices/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/S26-in-hand.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-02-27T16:40:00Z"
-    },
-    {
-      "title": "Mutants and Mutagen in Magic: The Gathering® | Teenage Mutant Ninja Turtles - Magic: The Gathering",
-      "description": "Learn the secrets of the ooze (and Mutagen tokens) with these behind-the-scenes stories from Magic: The Gathering | Teenage Mutant Ninja Turtles.",
-      "url": "https://magic.wizards.com/en/news/feature/mutants-and-mutagen-in-teenage-mutant-ninja-turtles",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/60ykeSNdjFjlCotghITOut/9879ebbbfee1bac71a40a5d3454fc2f9/TMT_Venus__Torn_Between_Worlds_960x540.jpg",
-      "source": "Wizards.com",
-      "publishedAt": "2026-02-27T16:34:02Z"
-    },
-    {
-      "title": "Everything You Can Do With Google's Nano Banana 2 Image Generator - Lifehacker",
-      "description": "Better pictures in less time.",
-      "url": "https://lifehacker.com/tech/testing-google-gemini-nano-banana-2",
-      "urlToImage": "https://lifehacker.com/imagery/articles/01KJFM0THBH52M4ZTG8HW05YHZ/hero-image.fill.size_1200x675.jpg",
-      "source": "Lifehacker.com",
-      "publishedAt": "2026-02-27T16:00:00Z"
-    },
-    {
-      "title": "Two More Studio Display 2 Upgrades Leaked in New Report - MacRumors",
-      "description": "Macworld's Filipe Espósito today again reported that Apple appears to be developing two new Studio Display models with different specs.   Based...",
-      "url": "https://www.macrumors.com/2026/02/27/two-more-studio-display-2-rumors/",
-      "urlToImage": "https://images.macrumors.com/t/lj1Ir66PPY6b2jaJGorKO-8ycDI=/1960x/article-new/2022/03/Apple-Studio-Display-Magic-Trackpad-Keyboard-Mouse.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-02-27T15:19:32Z"
-    },
-    {
-      "title": "The Pokémon Center’s Game Boy Jukebox Hits All the Right Notes - Pokemon.com",
-      "description": "Game Boy Jukebox features 45 cartridges bumping classics like “Pallet Town Theme.”",
-      "url": "https://www.pokemon.com/us/pokemon-news/the-pokemon-centers-game-boy-jukebox-hits-all-the-right-notes",
-      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/misc/_tiles/pokemon-center/2026/02/27/pokemon-center-169.png",
-      "source": "Pokemon.com",
-      "publishedAt": "2026-02-27T14:47:23Z"
-    },
-    {
-      "title": "Pokémon Continues 30th Celebrations with the Unveiling of Pokémon Winds and Pokémon Waves, the Newest Entries in the Pokémon Video Game Series - Pokemon Press",
-      "description": "Pokémon Day Video Presentation Packed with New Updates Across the Franchise, Including PokémonXP and the 2026 Pokémon World Championships, Pokémon Champions, the Pokémon Trading Card Game and More\r\n \r\nPokémon FireRed Version and LeafGreen Version Released Tod…",
-      "url": "https://press.pokemon.com/en/Pokemon-Continues-30th-Celebrations-with-the-Unveiling-of-Pokemon-Wind",
-      "urlToImage": "https://imguscdn.gamespress.com/cdn/files/PokemonAmerica/2026/02/271333-26aeaacb/Pokemon_Day_Logo_2026_EN.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=9910e9edd0c2ba655f8a1efae05c2333dcbec3bee7115b89b4c778a00640d5bf",
-      "source": "Pokemon.com",
-      "publishedAt": "2026-02-27T14:45:18Z"
-    },
-    {
-      "title": "Nintendo GameCube – Nintendo Classics adds Pokemon XD: Gale of Darkness in March - Gematsu",
-      "description": "Pokemon XD: Gale of Darkness will launch via the Nintendo GameCube – Nintendo Classics app for Switch 2 in March, Nintendo announced.",
-      "url": "https://www.gematsu.com/2026/02/nintendo-gamecube-nintendo-classics-adds-pokemon-xd-gale-of-darkness-in-march",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/02/Pokemon-XD-Switch-2_02-27-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-02-27T14:11:23Z"
-    },
-    {
-      "title": "The 2026 Chevrolet Corvette ZR1X Is Peak Corvette - Road & Track",
-      "description": "Chevrolet has created a genuine hypercar with the ZR1X—one that matches outlandish performance to assured control.",
-      "url": "https://www.roadandtrack.com/reviews/a70495234/the-zr1x-is-peak-corvette/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/2026-chevrolet-corvette-zr1x-4-69971db2f1388.jpg?crop=0.998xw:0.750xh;0.00160xw,0.151xh&resize=1200:*",
-      "source": "RoadandTrack.com",
-      "publishedAt": "2026-02-27T14:04:14Z"
-    },
-    {
-      "title": "It's Official: Resident Evil Requiem Uses Sony's Brand-New PSSR Upscaler - Digital Foundry",
-      "description": "And here's how it compares to FSR4 and DLSS.",
-      "url": "https://www.digitalfoundry.net/news/2026/02/its-official-resident-evil-requiem-uses-sonys-brand-new-pssr-upscaler",
-      "urlToImage": "https://images.digitalfoundry.net/56e1e5dcd758b/large.jpg",
-      "source": "Digitalfoundry.net",
-      "publishedAt": "2026-02-27T13:00:00Z"
+      "title": "Microsoft testing Windows 11 batch file security improvements - BleepingComputer",
+      "description": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-02-27T20:00:27Z"
     }
   ]
 }

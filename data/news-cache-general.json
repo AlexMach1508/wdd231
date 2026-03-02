@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-03-01T07:00:35.430Z",
+  "updatedAt": "2026-03-02T07:12:37.469Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Israel launches strike against Iran, declares state of emergency across country - CNN",
-      "description": "Israel launched what it called a “preemptive strike” against Iran Saturday morning, according to Defense Minister Israel Katz, as a state of emergency was declared across the country.",
-      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/breaking-news-1-5x.png?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-02-28T06:28:05Z"
-    },
-    {
-      "title": "Prochazka-Ulberg title bout set for UFC 327; Pereira vacates belt - ESPN",
-      "description": "The UFC announced a vacant light heavyweight title bout between Jiri Prochazka and Carlos Ulberg at UFC 327, meaning former champ Alex Pereira has vacated his belt.",
-      "url": "https://www.espn.com/mma/story/_/id/48059111/prochazka-ulberg-title-bout-set-ufc-327-pereira-vacates-belt",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1226%2Fr1593755_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-02-28T04:36:00Z"
-    },
-    {
-      "title": "ACE Eddie Awards Winners List – Updating Live - Deadline",
-      "description": "Winners list for the 2026 ACE Eddie Awards on February 27",
-      "url": "http://deadline.com/2026/02/ace-eddie-awards-2026-winners-list-1236739337/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/ACE-Eddie-Awards-logo.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-02-28T04:32:00Z"
-    },
-    {
-      "title": "Logan Paul qualifies for Elimination Chamber after mystery masked man is revealed - Cageside Seats",
-      "description": "Jey Uso is replaced by a YouTuber after Jacob Fatu gets screwed over yet again in a wild finish.",
-      "url": "https://www.cagesideseats.com/wwe/421310/logan-paul-qualifies-wwe-elimination-chamber-mystery-masked-man-reveal-jey-uso-replaced-fatu",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/02/maskedman.jpg?quality=90&strip=all&crop=0,2.508536384281,100,89.511906772505",
-      "source": "Cageside Seats",
-      "publishedAt": "2026-02-28T04:17:00Z"
-    },
-    {
-      "title": "Renee Good was ‘slow to anger, quick to love,’ her father tells AP - AP News",
-      "description": "Renee Good loved sparkles and laughter and any excuse for a celebration. She loved pretty much everyone she met, and was late for pretty much everything. That's according to her mother, Donna Ganger, who along with other family members sat down for an AP inte…",
-      "url": "https://apnews.com/article/renee-good-ice-shooting-minneapolis-f766260ec7cfbb2b158d6b8eb3403607",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cd36cd6/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2F83%2F77c932337bee58b6649b38d5978c%2F72815e225dad4fa981dccb9a4c789301",
-      "source": "Associated Press",
-      "publishedAt": "2026-02-28T03:04:00Z"
-    },
-    {
-      "title": "12.5-minute buzzer derailed Donovan Mitchell interview, ESPN’s Pistons-Cavs broadcast - Awful Announcing",
-      "description": "A malfunctioning buzzer lasted 12 and a half minutes during ESPN's broadcast of Pistons-Cavs, derailing a Donovan Mitchell interview.",
-      "url": "https://awfulannouncing.com/nba/donovan-mitchell-interview-interrupted-incessant-buzzer-pistons-cavs-game.html",
-      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/02/Buzzer-scaled-e1772246488727.jpg",
-      "source": "Awful Announcing",
-      "publishedAt": "2026-02-28T02:47:03Z"
-    },
-    {
-      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
-      "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-      "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-02-28T01:26:41Z"
-    },
-    {
-      "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC",
-      "description": "The two countries are repairing a strained relationship as they also seek to reduce their trade reliance on the US.",
-      "url": "https://www.bbc.com/news/articles/c1l7q871gnro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5afc/live/0c738cc0-1404-11f1-8e3a-e7cecfbdc12f.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-28T00:03:55Z"
-    },
-    {
-      "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios",
-      "description": "The Pentagon has complained Anthropic's red lines on military use were \"woke.\"",
-      "url": "https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic",
-      "urlToImage": "https://images.axios.com/QQpzWmSkQ48mF8mNgB7pdDZeqv4=/0x34:5143x2927/1366x768/2026/02/27/1772235904101.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-02-27T23:51:21Z"
-    },
-    {
-      "title": "Unified boxing champ Oleksandr Usyk to face Rico Verhoeven at Pyramids of Giza - Sherdog",
-      "description": "Sometimes these things happen in boxing.",
-      "url": "https://www.sherdog.com/news/news/Unified-boxing-champ-Oleksandr-Usyk-to-face-Rico-Verhoeven-at-Pyramids-of-Giza-200283",
-      "urlToImage": "https://www1-cdn.sherdog.com/_images/headers/20260227103157_giza.JPG",
-      "source": "Sherdog.com",
-      "publishedAt": "2026-02-27T22:38:21Z"
-    },
-    {
-      "title": "U.S.-Iran deal is \"within our reach,\" Omani mediator says - CBS News",
-      "description": "Negotiators from the U.S. and Iran have made \"substantial progress\" toward a deal to curb Iran's nuclear program, Omani Foreign Minister Badr Albusaidi told CBS News on Friday.",
-      "url": "https://www.cbsnews.com/news/us-iran-deal-within-our-reach-oman-mediator-says/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/27/680f0bd6-6e3f-4cc9-8316-cbfa0fa7d471/thumbnail/1200x630g2/7b407bd1736ca9d3b149b042eab59aab/oman-fm.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-02-27T21:29:00Z"
-    },
-    {
-      "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat - BBC",
-      "description": "Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary.",
-      "url": "https://www.bbc.com/news/articles/cd6z382de8yo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12a8/live/c3924a30-13ec-11f1-b048-c9424b2cf5fd.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-02-27T20:31:27Z"
-    },
-    {
-      "title": "New poll: Trump's SOTU pivot on the economy didn't work - Strength In Numbers | G. Elliott Morris",
-      "description": "A poll conducted in the two days after Trump's State of the Union address reveals the public is still skeptical the president can deliver on affordability",
-      "url": "https://www.gelliottmorris.com/p/flash-poll-post-sotu-voters-say-trump",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!OnWQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb56878d-0937-4137-add6-5457339f427a_1248x568.png",
-      "source": "Gelliottmorris.com",
-      "publishedAt": "2026-02-27T20:23:39Z"
-    },
-    {
-      "title": "San Mateo County Health Announces Potential Measles Exposure - County of San Mateo, CA",
-      "description": "San Mateo County, Calif. – San Mateo County Health is working with Santa Clara County Public Health to notify the public of a confirmed case of measles in the area. The case is an adult who recently returned from international travel. The individual, a Santa …",
-      "url": "https://www.smcgov.org/ceo/news/san-mateo-county-health-announces-potential-measles-exposure",
-      "urlToImage": null,
-      "source": "Smcgov.org",
-      "publishedAt": "2026-02-27T20:10:40Z"
-    },
-    {
-      "title": "NBA Best Bets Today: Expert Picks, Predictions & Odds for February 27, 2026 - Action Network",
-      "description": "Our NBA best bets, expert picks, predictions and odds for Friday, February 27, 2026.",
-      "url": "https://www.actionnetwork.com/nba/nba-best-bets-february-27-2026",
-      "urlToImage": "https://images.actionnetwork.com/blog/2026/02/NBABestBets22726.jpg",
-      "source": "The Action Network",
-      "publishedAt": "2026-02-27T19:34:00Z"
-    },
-    {
-      "title": "A total lunar eclipse will turn the moon blood red on Tuesday across several continents - NBC News",
-      "description": "A blood-red moon will soon grace the skies for a total lunar eclipse — and there won’t be another until late 2028",
-      "url": "https://www.nbcnews.com/science/science-news/total-lunar-eclipse-will-turn-moon-blood-red-tuesday-several-continent-rcna261016",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260227-blood-moon-gk-fa771c.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-02-27T18:48:52Z"
-    },
-    {
-      "title": "Column | New dietary guidelines promise science over bias — but come up short - The Washington Post",
-      "description": "The Trump administration says it wants evidence driving nutrition conclusions, but bias keeps getting in the way.",
-      "url": "https://www.washingtonpost.com/food/2026/02/27/american-dietary-guidelines-rfk-saturated-fats/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ETROUQEEYBH4ZPT7GATJ7UUVXM.jpg&w=1440",
+      "title": "Column | Asking Eric: Grandson has no motivation; daughter enables him - The Washington Post",
+      "description": "A concerned grandfather doesn’t want to enable his unmotivated grandson – like his daughter is already doing.",
+      "url": "https://www.washingtonpost.com/advice/2026/03/01/asking-eric-grandson-lacking-motivation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-02-27T18:31:52Z"
+      "publishedAt": "2026-03-01T08:47:25Z"
     },
     {
-      "title": "Why Are Celebrities on GoFundMe? And Why Are We Giving Them So Much Cash? - Rolling Stone",
-      "description": "After the deaths of James Van Der Beek and Eric Dane, fans took to GoFundMe to help out the stars' families — a trend that experts believe will grow.",
-      "url": "http://www.rollingstone.com/culture/culture-features/james-van-der-beek-eric-dane-gofundme-financial-support-1235522277/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/02/Celeb-GoFundMes.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-02-27T17:48:54Z"
+      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei killed in US-Israel attack - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BRHVheEFBVUpmNUpoZkw3RWJxNVFNRl9rc2FmVWtMd1FRNEJTSFJLNUxuRjVVZkcyTWs0VVZpYnE3d1pqaGpNTDlRTTRldlFQOS00Sg?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-03-01T08:45:17Z"
+    },
+    {
+      "title": "Live updates: Hundreds of protesters storm US Consulate in Pakistan after Iran’s supreme leader is killed - AP News",
+      "description": "The U.S. and Israel killed Iranian Supreme Leader Ayatollah Ali Khamenei in strikes on Saturday. President Donald Trump called on Iranians to “take back” their country.",
+      "url": "https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026",
+      "urlToImage": "https://dims.apnews.com/dims4/default/730263c/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2F25%2Fd6549fcc4b9ba5b78fe3bece526c%2Fap26060314070136.jpg",
+      "source": "Associated Press",
+      "publishedAt": "2026-03-01T08:37:30Z"
+    },
+    {
+      "title": "Connor Storrie Brings Out ‘Heated Rivalry’ Co-Star Hudson Williams in ‘SNL’ Debut - The Hollywood Reporter",
+      "description": "The 26-year-old actor is fresh off his breakout role in the unexpected hit series, ‘Heated Rivalry.’",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/connor-storrie-saturday-night-live-debut-hockey-olympics-1236518366/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/1-4.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-03-01T06:05:04Z"
+    },
+    {
+      "title": "Two months, two tracks: How Trump chose war with Iran - Axios",
+      "description": "In the end, Trump's ambiguity was itself a strategic asset.",
+      "url": "https://www.axios.com/2026/03/01/trump-iran-war-attack-behind-scenes",
+      "urlToImage": "https://images.axios.com/lqvAThKFwlEVwcXrSXrHViG_Yro=/0x146:1400x933/1366x768/2026/03/01/1772332639940.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-03-01T04:15:01Z"
+    },
+    {
+      "title": "Outside White House, hundreds protest attack on Iran, urge end to conflict - The Washington Post",
+      "description": "The protest near the White House was among the demonstrations that erupted across the country after Israel and the United States launched strikes on Iran.",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/QGUH4CKBVFSPAKEOCUNK6722JE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-03-01T04:05:20Z"
+    },
+    {
+      "title": "Lucas: Virginia Tech Rapid Reactions - University of North Carolina Athletics",
+      "description": "Quick takeaways from the matchup with Virginia Tech.",
+      "url": "https://goheels.com/news/2026/2/28/mens-basketball-lucas-virginia-tech-rapid-reactions",
+      "urlToImage": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Func.sidearmsports.com%2Fimages%2F2026%2F2%2F28%2FPowell_Jonathan.vt.127.jpg&width=1600&type=jpeg",
+      "source": "Goheels.com",
+      "publishedAt": "2026-03-01T04:00:03Z"
+    },
+    {
+      "title": "Brenen Thompson runs a blazing 4.26-second 40 - NBC Sports",
+      "description": "For most positions, the 40-yard dash doesn't mean much.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brenen-thompson-runs-a-blazing-4-26-second-40",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5f206b7/2147483647/strip/true/crop/4840x2723+0+252/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2F97%2F3d9cf19d41108e9d0498eaed9cb2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2264111057",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-03-01T03:12:49Z"
+    },
+    {
+      "title": "Veteran analyst sends shocking message on Nvidia after earnings - thestreet.com",
+      "description": "Nvidia’s record results meet a ruthless tape.",
+      "url": "https://www.thestreet.com/investing/veteran-analyst-sends-shocking-message-on-nvidia-after-earnings",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODk4ODEz/nvidia-founder-and-ceo-jensen-huang-speaks-about-the-vera-rubin-ai-platform-during-a-question-and-answer-session-with-reporters-at-the-annual-consumer-electronics-show-ces-in-las-vegas-nevada-on-janua.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2026-03-01T02:37:00Z"
+    },
+    {
+      "title": "Warren Buffett's Final $373 Billion Warning Sent Shockwaves Through Wall Street - The Motley Fool",
+      "description": "The Oracle of Omaha's actions leading up to his retirement make clear that the time to be fearful when others are greedy is here.",
+      "url": "https://www.fool.com/investing/2026/02/28/warren-buffett-final-373-billion-warning-wall-st/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F858520%2Fbuffett9-tmf.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-03-01T02:21:00Z"
+    },
+    {
+      "title": "2026 NFL combine stock up/stock down, Day 3: Taylen Green among 10 players on the move - NFL.com",
+      "description": "Who boosted their draft stock and who took a step in the wrong direction on the third day of workouts at the 2026 NFL Scouting Combine? Chad Reuter provides a stock report from Indianapolis.",
+      "url": "https://www.nfl.com/news/2026-nfl-combine-stock-up-stock-down-day-3-taylen-green-among-10-players-on-the-move",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/cgouskokmlggekzbfsn1",
+      "source": "NFL News",
+      "publishedAt": "2026-03-01T01:35:00Z"
+    },
+    {
+      "title": "AJ Lee Reveals Real Reason Behind Her WWE Return - Ringside News",
+      "description": "AJ Lee is stepping back into singles competition for the first time in over a decade, and she made it clear exactly why she chose now — and why Becky",
+      "url": "https://www.ringsidenews.com/aj-lee-reveals-real-reason-behind-her-wwe-return/",
+      "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2026/02/aj-lee-reveals-real-reason-behind-her-wwe-return-14.jpg",
+      "source": "Ringside News",
+      "publishedAt": "2026-02-28T23:14:09Z"
+    },
+    {
+      "title": "NASCAR at COTA, St. Petersburg: Key information, links, results throughout race weekend - NASCAR.com",
+      "description": "Bookmark this page and return often as links, results and more for the 2026 race weekend at COTA and St. Petersburg are added.",
+      "url": "https://www.nascar.com/news-media/2026/02/28/nascar-at-cota-st-petersburg-key-information-links-results-throughout-race-weekend/",
+      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/25/GettyImages-2202898143-672x372.jpg",
+      "source": "NASCAR",
+      "publishedAt": "2026-02-28T21:41:47Z"
+    },
+    {
+      "title": "Body of notorious cartel boss \"El Mencho\" returned to family by Mexican authorities - CBS News",
+      "description": "Mexico's attorney general's office said it performed genetic tests to match the cartel leader's remains to the family.",
+      "url": "https://www.cbsnews.com/news/body-cartel-boss-el-mencho-returned-family-mexico/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/28/61a1e76f-4567-46ec-8d29-052f69489c88/thumbnail/1200x630/bb5cbf021236e638654298a3ebfa8305/2026-02-25t234859z-286447071-rc29tjaknez7-rtrmadp-3-mexico-violence-mencho.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T21:19:07Z"
+    },
+    {
+      "title": "Giant Study Reveals The Secret to Heart Health, And It's Not Low-Carb or Low-Fat - ScienceAlert",
+      "description": "The key to heart health isn't cutting down on pasta or potatoes, new evidence suggests; it's not even a low-fat diet.",
+      "url": "https://www.sciencealert.com/giant-study-reveals-the-secret-to-heart-health-and-its-not-low-carb-or-low-fat",
+      "urlToImage": "https://www.sciencealert.com/images/2026/02/HeartHealth.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2026-02-28T21:02:13Z"
+    },
+    {
+      "title": "NASA astronaut Mike Fincke, a Pittsburgh-area native, suffered an unprecedented medical issue in space - Pittsburgh Post-Gazette",
+      "description": "False",
+      "url": "https://www.post-gazette.com/news/science/2026/02/28/mike-fincke-nasa-astronaut-emsworth/stories/202602270073",
+      "urlToImage": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202602270073/1140x_a10-7_cTC/space022726-2_1772227644.jpg",
+      "source": "Pittsburgh Post-Gazette",
+      "publishedAt": "2026-02-28T20:52:55Z"
+    },
+    {
+      "title": "Jeremiyah Love posts second-fastest 40 time among fastest RB group in Combine history - NBC Sports",
+      "description": "Jeremiyah Love came into the Scouting Combine as the top running back on most lists of prospects and his 40-yard dash did not do anything to hurt that standing.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-love-posts-second-fastest-40-time-among-fastest-rb-group-in-combine-history",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/d3a7156/2147483647/strip/true/crop/7752x4361+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F11%2F68fa543c4fd58b445e5eb6f878b9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2251898924",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-02-28T20:44:36Z"
+    },
+    {
+      "title": "Gauging the Impact of Massive U.S.-Israeli Strikes on Iran - Council on Foreign Relations",
+      "description": "CFR experts assess the brewing conflict between the United States, Israel, and Iran, following the launch of a joint U.S.-Israeli military operation on February 28.",
+      "url": "https://www.cfr.org/articles/gauging-the-impact-of-massive-u-s-israeli-strikes-on-iran",
+      "urlToImage": "https://res.cloudinary.com/dmovl8u5q/images/f_auto,q_auto/v1772294359/IranAttack_HP/IranAttack_HP.jpg?_i=AA",
+      "source": "Council on Foreign Relations",
+      "publishedAt": "2026-02-28T19:53:23Z"
+    },
+    {
+      "title": "Match Awards from Bayern Munich’s thrilling 3-2 win over Borussia Dortmund - Bavarian Football Works",
+      "description": "FC Bayern thwarted Dortmund in a classic rivalry match.",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-match-awards/172682/match-awards-postgame-analysis-bayern-munich-borussia-dortmund-der-klassiker-3-2",
+      "urlToImage": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/02/gettyimages-2264076160.jpg?quality=90&strip=all&crop=0%2C8.3642398089845%2C100%2C83.271520382031&w=1200",
+      "source": "Bavarian Football Works",
+      "publishedAt": "2026-02-28T19:50:05Z"
+    },
+    {
+      "title": "The Rubin Observatory’s alert system sent 800,000 pings on its first night - The Verge",
+      "description": "The Vera C. Rubin Observatory sent 800,000 pings about asteroids and potential supernovas on the first night its automated alert system was online.",
+      "url": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/NSF-DOE-Vera-C.-Rubin-Observatory-2.jpg?quality=90&strip=all&crop=0%2C7.2694749375456%2C100%2C85.461050124909&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-02-28T19:33:51Z"
     }
   ]
 }
