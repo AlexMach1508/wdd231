@@ -1,63 +1,95 @@
 {
-  "updatedAt": "2026-03-03T07:06:38.781Z",
+  "updatedAt": "2026-03-04T07:03:00.553Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Markets begin to react as Trump’s attack on Iran risks hitting American pocketbooks - The Washington Post",
-      "description": "Oil supplies are vulnerable if conflict escalates.",
-      "url": "https://www.washingtonpost.com/business/2026/03/01/iran-strikes-economic-costs-usa-middle-east-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TYPUABCIQEVM6ARYSMJ7YDEAOA.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-03-02T04:51:00Z"
+      "title": "Amazon says drones damaged three facilities in UAE and Bahrain - BBC",
+      "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
+      "url": "https://www.bbc.com/news/articles/cgk28nj0lrjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5baa/live/a5e55a50-16b1-11f1-bf96-b78779c3b393.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-03-03T03:59:26Z"
     },
     {
-      "title": "Dollar, Bonds Rally as Traders Absorb War Impact: Markets Wrap - Bloomberg",
-      "description": "Stocks extended their losses and oil prices jumped as conflict in the Middle East jolted global markets, triggering a broad retreat from risk assets. Gold and the dollar rose in haven demand.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-01/dollar-surges-as-traders-brace-for-war-impact-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i64ANy_8h8Kg/v1/1200x800.jpg",
+      "title": "Asia Poised for Weak Open After Treasuries Sink: Markets Wrap - Bloomberg.com",
+      "description": "Stock losses deepened and bonds got sold off as Iran stepped up its attacks on the US and its allies in the Middle East, pushing oil prices higher and fueling inflation concerns. The dollar strengthened.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/asia-poised-for-weak-open-after-treasuries-sink-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLnHpMN4Dbu0/v0/1200x675.png",
       "source": "Bloomberg",
-      "publishedAt": "2026-03-02T04:49:00Z"
+      "publishedAt": "2026-03-03T00:46:00Z"
     },
     {
-      "title": "Prediction market trader 'Magamyman' made $553,000 on death of Iran's supreme leader - NPR",
-      "description": "It's the latest trade drawing scrutiny on the popular prediction market site for appearing to show an insider making profits on military secrets.",
-      "url": "https://www.npr.org/2026/03/01/nx-s1-5731568/polymarket-trade-iran-supreme-leader-killing",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+625/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8a%2F456e888d415ea2821f049c8e4eae%2Fgettyimages-2263725030.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-03-02T02:57:24Z"
+      "title": "GW sold Virginia campus for $427 million to Amazon for data center development - The GW Hatchet",
+      "description": "The deal transfers all of GW’s roughly 122 acres of property in Loudoun County, Virginia, to ADS for $427,299,350 — roughly $3.5 million an acre — according to real estate records.",
+      "url": "https://gwhatchet.com/2026/03/02/gw-sold-virginia-campus-for-427-million-to-amazon-for-data-center-development/",
+      "urlToImage": "https://gwhatchet.com/wp-content/uploads/2026/02/022726_AC_GWVirginiaCampus_061.jpg",
+      "source": "Gwhatchet.com",
+      "publishedAt": "2026-03-03T00:14:43Z"
     },
     {
-      "title": "Gold, Silver Rise as Middle East Conflict Spurs Safe-Haven Demand - WSJ",
+      "title": "US LNG producers rush to seize on surging gas prices triggered by Iran conflict - Financial Times",
+      "description": "Venture Global and Cheniere Energy look to bring on extra capacity as prices surge in Europe and Asia",
+      "url": "https://www.ft.com/content/fb837a9d-6334-43da-a58d-cb9830dc68fe",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff50e6991-3121-4dea-8c75-8e37fb9a9ec9.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-03-03T00:06:25Z"
+    },
+    {
+      "title": "AES to Be Taken Private in $33 Billion Deal. Why It’s the S&P 500’s Worst Stock Today. - Barron's",
+      "description": "",
+      "url": "https://www.barrons.com/articles/aes-stock-take-private-acquisition-3d7d72be",
+      "urlToImage": "https://images.barrons.com/im-61994182/social",
+      "source": "Barron's",
+      "publishedAt": "2026-03-02T21:30:00Z"
+    },
+    {
+      "title": "Prediction markets draw scrutiny over Iran bets: \"Insider trading in broad daylight,\" senator says - CBS News",
+      "description": "Lawmakers are raising concerns that prediction market users are engaging in insider trading to wager on U.S. military actions.",
+      "url": "https://www.cbsnews.com/news/iran-khamenei-prediction-markets-insider-trading/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/02/fffb9fbf-c462-48a1-b3a7-c2a35784d16c/thumbnail/1200x630/ab5c47b8ec8ebad1ce06b9dae094b158/gettyimages-2230669911.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-03-02T21:26:00Z"
+    },
+    {
+      "title": "Lumentum, Coherent Surge On Nvidia's Optical Networking Investments - Investor's Business Daily",
       "description": null,
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-as-middle-east-conflict-spurs-safe-haven-demand-7be4c63d",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-investments-lumentum-coherent-optical-networking-push/",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-03-01T23:50:00Z"
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-03-02T21:02:00Z"
     },
     {
-      "title": "Oil prices fallout: OPEC producers boost output after Iran strikes - Axios",
-      "description": "The boost is an early sign of how producers and companies will respond to U.S. and Israeli strikes on Iran.",
-      "url": "https://www.axios.com/2026/03/01/iran-strikes-oil-prices-opec",
-      "urlToImage": "https://images.axios.com/NVdgvaxpZ3G1xqS6N5Qm4od1ijE=/0x0:8256x4644/1366x768/2026/03/01/1772377641044.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-03-01T21:19:47Z"
+      "title": "Ted Sarandos on Netflix Nixing Warner Bros. Bid, Trump’s Role and Dialogue With Theaters - The Hollywood Reporter",
+      "description": "The co-CEO pulled back the curtain on the stunning events of the past week that led to David Ellison prevailing with a sweetened $111 billion deal to merge two of Hollywood's last remaining legacy studios.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/ted-sarandos-netflix-warner-bros-bid-david-ellison-trump-1236519280/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-2263210391.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-03-02T19:38:31Z"
     },
     {
-      "title": "When AI Meets Geopolitics - TipRanks",
-      "description": "Another volatile week capped a rough month. On Friday, stocks were caught up in a whirlwind of market-moving headlines – from higher-than-expected wholesale inflation bringing back sticky-inflation worries to Block’s",
-      "url": "https://www.tipranks.com/news/when-ai-meets-geopolitics",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/03/shutterstock_2480837637-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-03-01T18:07:46Z"
+      "title": "The best mobile tech announced at MWC 2026 so far - The Verge",
+      "description": "Robot phones, a folding smartphone you can dunk, and a modular laptop concept that lets you swap in ports as needed.",
+      "url": "https://www.theverge.com/tech/882992/mobile-world-congress-mwc-2026-smartphones-laptops-headphones",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/mwc_lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "source": "The Verge",
+      "publishedAt": "2026-03-02T15:52:37Z"
     },
     {
-      "title": "Hollywood's Worst Deal Ever? Critic Sounds Alarm On Paramount's $111 Billion Warner Bros. Win: 'There Was No Good Outcome' - Yahoo Finance",
-      "description": null,
-      "url": "https://finance.yahoo.com/news/hollywoods-worst-deal-ever-critic-160118215.html",
-      "urlToImage": null,
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-03-01T16:01:18Z"
+      "title": "DOJ vs. Live Nation-Ticketmaster trial begins today: what you should know as the case heads to a jury - TicketNews",
+      "description": "The long-awaited U.S. antitrust case targeting Live Nation Entertainment and Ticketmaster officially enters its most consequential phase this week, with...",
+      "url": "https://www.ticketnews.com/2026/03/doj-vs-live-nation-ticketmaster-trial-begins-today-what-you-should-know-as-the-case-heads-to-a-jury/",
+      "urlToImage": "https://www.ticketnews.com/wp-content/uploads/Untitled-design-2024-01-04T151414.966.jpg",
+      "source": "TicketNews",
+      "publishedAt": "2026-03-02T15:31:46Z"
+    },
+    {
+      "title": "Trump’s action against Iran is yet another wobble for government debt, warns UBS - Fortune",
+      "description": "Military action in Iran over the coming month comes at a time when the U.S. Treasury has already been hit with a SCOTUS ruling on tariffs.",
+      "url": "https://fortune.com/2026/03/02/us-iran-conflict-deficits-spend-military-weapons-tariffs-ubs/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2263584555.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-03-02T11:46:00Z"
     },
     {
       "title": "Jack Dorsey’s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing - Bloomberg.com",
@@ -66,38 +98,6 @@
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7xgckkKVcCA/v0/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2026-03-01T16:00:00Z"
-    },
-    {
-      "title": "What Investors Are Watching This Week: Iran Developments, Jobs Data, Earnings Reports - Investopedia",
-      "description": "Market participants will be keeping close tabs on developments in Iran after the U.S. and Israel launched strikes over the weekend, while awaiting a slew of economic reports, highlighted by the scheduled release Friday of the February jobs report.",
-      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-investors-watching-developments-in-iran-awaiting-jobs-report-other-economic-data-earnings-reports-11915269",
-      "urlToImage": "https://www.investopedia.com/thmb/pE9AZ_LljMb7Y9Xc9m9TNWqq95M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2245999369-118d1e93bcea44eb807b8c20a8d1dc8b.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2026-03-01T11:00:00Z"
-    },
-    {
-      "title": "NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms - NVIDIA Newsroom",
-      "description": "NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on …",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms",
-      "urlToImage": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202602/69a1ee533d6332129bb94843_NVIDIA-6G-Commitment/NVIDIA-6G-Commitment_ac56f214-3ae4-4850-b65c-b5b8ae88619d-prv.jpg",
-      "source": "Nvidia.com",
-      "publishedAt": "2026-03-01T07:04:35Z"
-    },
-    {
-      "title": "Bitcoin Is Headed to $500,000. This Wall Street Analyst Explains Why. - The Motley Fool",
-      "description": "Bitcoin investors may soon forget the recent correction.",
-      "url": "https://www.fool.com/investing/2026/02/28/bitcoin-is-headed-to-500000-this-wall-street-analy/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825262%2Fgettyimages-1369878070-1201x821-8520869.jpg&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-03-01T02:45:00Z"
-    },
-    {
-      "title": "Veteran analyst sends shocking message on Nvidia after earnings - thestreet.com",
-      "description": "Nvidia’s record results meet a ruthless tape.",
-      "url": "https://www.thestreet.com/investing/veteran-analyst-sends-shocking-message-on-nvidia-after-earnings",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODk4ODEz/nvidia-founder-and-ceo-jensen-huang-speaks-about-the-vera-rubin-ai-platform-during-a-question-and-answer-session-with-reporters-at-the-annual-consumer-electronics-show-ces-in-las-vegas-nevada-on-janua.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2026-03-01T02:37:00Z"
     }
   ]
 }
