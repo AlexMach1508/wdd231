@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2026-03-05T07:06:13.384Z",
+  "updatedAt": "2026-03-06T07:04:29.720Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock futures fall as traders monitor latest developments in U.S.-Iran war: Live updates - CNBC",
-      "description": "The Dow Industrials ended Tuesday's session down just over 400 points. The 30-stock index curtailed its losses after falling more than 1,200 points at the low.",
-      "url": "https://www.cnbc.com/2026/03/03/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108272862-1772556132298-Traders-OB-20260303-ACJ-PRESS-5.jpg?v=1772556274&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-03-04T05:09:00Z"
-    },
-    {
-      "title": "Goldman’s Solomon Says Market Reaction to War Is ‘Benign’ So Far - Bloomberg.com",
-      "description": "Goldman Sachs Group Inc. Chairman David Solomon said he’s been surprised by the “benign” reaction in financial markets to the Middle East conflict, adding that it will take weeks to understand more about the situation.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-04/goldman-s-solomon-says-market-reaction-to-war-is-benign-so-far",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVxqE45C.2I/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-04T04:22:00Z"
-    },
-    {
-      "title": "Trump met with Coinbase CEO before bashing banks over crypto bill - Politico",
-      "description": "The legislation is mired in a fight between crypto companies and the banking industry.",
-      "url": "https://www.politico.com/live-updates/2026/03/03/congress/trump-met-with-coinbase-ceo-before-bashing-banks-over-crypto-bill-00811277",
-      "urlToImage": "https://www.politico.com/dims4/default/e70f86f/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb2%2F75%2F97c98c28446e9c8c777a25c02479%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2249752682",
-      "source": "Politico",
-      "publishedAt": "2026-03-04T04:05:11Z"
-    },
-    {
-      "title": "Korean Stock Gauge Poised for Correction on Iran War Selloff - Bloomberg",
-      "description": "Panic swept across trading desks in South Korea as local stocks, by far the hottest in the world over the past year, extended their freefall into Wednesday.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-04/korean-stock-gauge-poised-for-correction-on-iran-war-selloff",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGo5RFghDgNM/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-04T03:07:00Z"
-    },
-    {
-      "title": "China's factory activity expands at quickest pace in over 5 years, private PMI shows - Yahoo Finance",
-      "description": "BEIJING, March 4 (Reuters) - China's factory activity in February expanded at the fastest pace since December 2020, driven by robust demand that helped lift ...",
-      "url": "https://finance.yahoo.com/news/chinas-factory-activity-expands-quickest-015522109.html",
-      "urlToImage": "https://s.yimg.com/os/en/reuters.com/6e00bfbfd5521c0dd41ac5162b64afb2",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-03-04T01:55:00Z"
-    },
-    {
-      "title": "Pentagon dispute bolsters Anthropic reputation but raises questions about AI readiness in military - AP News",
-      "description": "Anthropic’s moral stand on U.S. military use of artificial intelligence is reshaping the competition between leading AI companies but also exposing a growing awareness that maybe chatbots just aren’t capable enough for acts of war. Anthropic’s chatbot, Claude…",
-      "url": "https://apnews.com/article/anthropic-pentagon-openai-claude-chatgpt-military-ai-b2bbcf5fda3f27353eae1e0eb7ab07b6",
-      "urlToImage": "https://dims.apnews.com/dims4/default/71a1398/2147483647/strip/true/crop/5000x3332+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2Ffc%2Fb0a9322d8b3a7bb0f830d81736c3%2Fd7504a18deea46a19f3fe992d42e0d55",
+      "title": "War with Iran chokes flows of oil and natural gas, highlighting energy security risks for Asia - AP News",
+      "description": "The war with Iran is disrupting oil and LNG shipments through the Strait of Hormuz, a key artery for global energy trade, sending prices higher and threatening global growth. The risks are highest for countries in Asia. Japan, South Korea and Taiwan depend he…",
+      "url": "https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-8041a26142b8b7ce122c8b548f375924",
+      "urlToImage": "https://dims.apnews.com/dims4/default/600d6f5/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2Ff5%2F61268e702b4c3e1e5f9deee7112f%2Fc0918fa3f71044b0ba35e6b18039bb96",
       "source": "Associated Press",
-      "publishedAt": "2026-03-04T01:48:00Z"
+      "publishedAt": "2026-03-05T03:07:00Z"
     },
     {
-      "title": "Prediction: Nvidia (NVDA) Will Be Worth More Than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft Combined by 2030 - The Motley Fool",
-      "description": "Nvidia is expected to deliver unreal growth over the next few years.",
-      "url": "https://www.fool.com/investing/2026/03/03/prediction-nvidia-nvda-will-be-worth-more-than-alp/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F838142%2Fperson-looking-at-computer-screen-in-shock.jpg&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-03-04T01:45:00Z"
+      "title": "RFK Jr.’s dunk on Dunkin’ riles up New Englanders: ‘Come and take it’ - The Washington Post",
+      "description": "“We’re going to ask Dunkin’ Donuts and Starbucks, ‘Show us the safety data that show that it’s okay for a teenage girl to drink an iced coffee with 115 grams of sugar in it,’” the health secretary said recently.",
+      "url": "https://www.washingtonpost.com/politics/2026/03/04/kennedy-vs-dunkin-donuts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLHJIN6QHKWG3YXA7XJGZE6TL4_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-03-05T01:36:11Z"
     },
     {
-      "title": "Feds Warn Savannah Chrisley Over Alleged False, Misleading Weight Loss Statements - TMZ",
-      "description": "Savannah Chrisley's prescription weight loss website is under a federal microscope ... 'cause the FDA warned her about making false and misleading claims about GLP-1s.",
-      "url": "https://www.tmz.com/2026/03/03/feds-warn-savannah-chrisley-over-alleged-misleading-website/",
-      "urlToImage": "https://imagez.tmz.com/image/cf/16by9/2026/03/04/cf0027a91b0343a4a6b213cb4969f33b_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2026-03-04T01:32:58Z"
-    },
-    {
-      "title": "Target tackles groceries as first swing to revive sales growth - Star Tribune",
-      "description": "After another sales slide in the holiday quarter, executives laid out a turnaround plan that will spend billions to update both merchandise and stores.",
-      "url": "https://www.startribune.com/target-turnaround-plan-reinventing-home-category-expansion-food-grocery/601589208",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/W6XQCDJW5NADFAIT2IM4QKB56A.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2026-03-04T00:34:07Z"
-    },
-    {
-      "title": "Ajinomoto Foods North America, Inc. Expands Recall for Chicken and Pork Fried Rice, Ramen, and Shu Mai Products Due to Possible Foreign Matter Contamination | Food Safety and Inspection Service - fsis.usda.gov",
+      "title": "Nvidia Stock Is Rising Again after a 2% Gain on Wednesday — What’s Driving the Rally? - TipRanks",
       "description": null,
-      "url": "http://www.fsis.usda.gov/recalls-alerts/ajinomoto-foods-north-america-inc--expands-recall-chicken-and-pork-fried-rice-ramen",
-      "urlToImage": "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png",
-      "source": "Usda.gov",
-      "publishedAt": "2026-03-03T23:44:17Z"
-    },
-    {
-      "title": "Starbucks opening corporate office in Tennessee, moving some Seattle jobs - KING5.com",
-      "description": "Jobs impacted are within the company's supply chain department.",
-      "url": "https://www.king5.com/article/money/business/starbucks-opening-corporate-office-nashville-tennessee/281-c73f3c97-9565-4cb8-83d8-62bc8697341e",
-      "urlToImage": "https://media.king5.com/assets/KING/images/bb327359-734b-416a-bf81-97ae94c2884a/20250715T125756/bb327359-734b-416a-bf81-97ae94c2884a_1140x641.jpg",
-      "source": "KING5.com",
-      "publishedAt": "2026-03-03T23:29:00Z"
-    },
-    {
-      "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal - Ars Technica",
-      "description": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau.",
-      "url": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1795499144-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-03-03T22:20:06Z"
-    },
-    {
-      "title": "FCC chair calls Paramount/WBD merger \"a lot cleaner\" than defunct Netflix deal - Ars Technica",
-      "description": "FCC to review foreign debt, but Carr indicates it will be a formality.",
-      "url": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-chair-paramount-warner-bros-merger-likely-to-get-quick-approval/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/netflix-paramount-wb-icons-1152x648-1767815429.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-03-03T22:05:36Z"
-    },
-    {
-      "title": "I tried McDonald’s massive new Big Arch burger and stopped after three bites - Cleveland.com",
-      "description": "The new Big Arch Burger at McDonald's packs a half-pound of beef and 1020 calories into one sandwich.",
-      "url": "https://www.cleveland.com/entertainment/2026/03/i-tried-mcdonalds-massive-new-big-arch-burger-and-stopped-after-three-bites.html",
-      "urlToImage": "https://www.cleveland.com/resizer/v2/RXDRIHZABZDO3OFMS2BWI2XZL4.JPG?auth=ff3cbbb145cc924643d61cda3a8f2320621b189686d12f93366c290b93a01aae&width=1280&smart=true&quality=90",
-      "source": "cleveland.com",
-      "publishedAt": "2026-03-03T21:30:00Z"
-    },
-    {
-      "title": "Archer Aviation Stock Falls After Earnings. Why the Drone Maker Is Tumbling Despite the Iran War. - Barron's",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbC1laXgtM1FwWVdGbDIwNmRXZVgxUFZHSU5VZF9NQkxTZHBaNW9kYkpzMkxObTZYZ3hjaUVxY3cweElPbjRXTXkyX1A0TDRwLUg0c1ZDd0R3MjV6UXdEdFM5QVBWMVpQeHZxMGNUZUxmUVRWTlc1b3R4OHdIaVZLOV9RUl8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUJsam1nZ2FyWGRXY0p6QVlBRERTZDQtTnpzUHQxUUJNVWpKT2RyVEZYZG1VTlE5eVEwdlZ0cUVTeEtXQ191VkJRQ2hOSXk4aERJcHhBY3ZpVjAwTVF0MExqR1VpcVRTcUs5dmhkYzJaM09tdC1fVHdIY2NnR2IxRkJmTzJZNFUzMVBiM3JUZWZGYklyV21iaDNCWk9NNDkzMXVoQjVNd3VPdXlHbnRj?oc=5",
       "urlToImage": null,
       "source": "Google News",
-      "publishedAt": "2026-03-03T21:29:00Z"
+      "publishedAt": "2026-03-05T01:13:05Z"
     },
     {
-      "title": "5 ways the Iran conflict is upending Europe’s energy plans - politico.eu",
-      "description": "The EU already had energy problems. The chaos in the Gulf just made them a whole lot worse.",
-      "url": "https://www.politico.eu/article/5-ways-iran-conflict-is-upending-europe-energy-plans/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/03/GettyImages-2245835309-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-03-03T20:39:00Z"
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers - TechCrunch",
+      "description": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-05T01:08:28Z"
     },
     {
-      "title": "ChatGPT Health 'under-triaged' half of medical emergencies in a new study - NBC News",
-      "description": "ChatGPT Health — OpenAI’s new health-focused chatbot — frequently underestimated the severity of medical emergencies, according to a study published last week in the journal Nature Medicine",
-      "url": "https://www.nbcnews.com/health/health-news/chatgpt-health-under-triaged-half-medical-emergencies-rcna261409",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/030226-chatp-gpt-health-vsb-1651-4a2b49.jpg",
+      "title": "Google hit with shocking wrongful death lawsuit over Gemini AI chatbot - Mashable",
+      "description": "Other chatbots have been similarly sued, but this is Gemini's first time.",
+      "url": "https://mashable.com/article/google-sued-gemini-ai-chatbot-wrongful-death-lawsuit",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/063lhOltsrtTAB9p2OlAA34/hero-image.fill.size_1200x675.v1772663985.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-03-05T01:07:41Z"
+    },
+    {
+      "title": "Musk defends himself against accusations of misconduct prior to Twitter takeover - PBS",
+      "description": "A defiant Elon Musk on Wednesday took the stand in a jury trial to defend himself against accusations that he engaged in a pattern of deceptive behavior that misled investors as he attempted to back out of his $44 billion deal to buy Twitter before he finally…",
+      "url": "https://www.pbs.org/newshour/nation/musk-defends-himself-against-accusations-of-misconduct-prior-to-twitter-takeover",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2025-04-10T172535Z_1576739421_RC25VDAIZ7D1_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-03-05T00:56:03Z"
+    },
+    {
+      "title": "Korean Stocks to Bounce, US Inflation Fears Ease: Markets Wrap - Bloomberg.com",
+      "description": "Asian equities rebounded, with South Korea leading gains after its worst rout on record, as sentiment showed signs of a recovery following an initial bout of volatility sparked by the Middle East conflict.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/stock-market-today-dow-s-p-live-updates-",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im5irHvt2jEE/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2026-03-05T00:39:00Z"
+    },
+    {
+      "title": "Tim Sweeney signed away his right to criticize Google until 2032 - The Verge",
+      "description": "Epic CEO Tim Sweeney signed away Epic’s rights to sue and disparage the company and his right to advocate for any further changes to Google’s app store polices.",
+      "url": "https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK186_TIM_SWEENEY_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-03-04T23:52:21Z"
+    },
+    {
+      "title": "The New United Airlines Policy That Could Get You Kicked Off a Flight - Gizmodo",
+      "description": "The airline cited the expansion of Starlink as the reason for the new rule.",
+      "url": "https://gizmodo.com/the-new-united-airlines-policy-that-could-get-you-kicked-off-a-flight-2000729750",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/United-Airlines-Boeing-737-Max-8-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-03-04T23:08:59Z"
+    },
+    {
+      "title": "TerraPower gets OK to start construction of its first nuclear plant - Ars Technica",
+      "description": "Plant won't be done until 2030 at the earliest, and it still needs an operating license.",
+      "url": "https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1245008497-1024x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-03-04T22:54:40Z"
+    },
+    {
+      "title": "Netflix, After Walking Away From Warner Bros. Deal, Will 'Move Forward' With '$2.8 Billion in Our Pocket That We Didn't Have a Few Weeks Ago,' CFO Says - Variety",
+      "description": "Netflix CFO Spence Neumann, speaking Wednesday at the Morgan Stanley Technology, Media & Telecom Conference, reiterated the company's position that it bailed out of the bidding for Warner Bros. because Paramount increased its offer price.",
+      "url": "https://variety.com/2026/tv/news/netflix-warner-bros-deal-2-8-billion-in-our-pocket-cfo-says-1236679712/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/06/Netflix-LA-Building.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-03-04T22:30:00Z"
+    },
+    {
+      "title": "Broadcom Earnings Beat Estimates as AI Demand Remains Strong - Barron's",
+      "description": "",
+      "url": "https://www.barrons.com/articles/broadcom-avgo-earnings-stock-price-0e2efe3e",
+      "urlToImage": "https://images.barrons.com/im-41429545/social",
+      "source": "Barron's",
+      "publishedAt": "2026-03-04T21:52:00Z"
+    },
+    {
+      "title": "Bitcoin Surges to $74,000 After President Trump Throws Support Behind Key Crypto Bill - Investopedia",
+      "description": "The world's largest cryptocurrency has gained about 8% over the last 24 hours, hitting its highest level in a month.",
+      "url": "https://www.investopedia.com/bitcoin-surges-after-president-trump-throws-support-behind-key-crypto-bill-11919161",
+      "urlToImage": "https://www.investopedia.com/thmb/JjW0kobSZ4qO4JFbkumY3Qcplb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22091330602-2696e765b3fa4ee19b828644506b119b.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2026-03-04T20:15:47Z"
+    },
+    {
+      "title": "Trader Joe's recalls over 36 million pounds of product after glass found in rice - NBC News",
+      "description": "A recall of Trader Joe's food products that may contain glass was significantly expanded on Tuesday to more than 36 million pounds nationwide, officials said",
+      "url": "https://www.nbcnews.com/news/us-news/trader-joes-recalls-36-million-pounds-product-glass-found-rice-rcna261741",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260304-TRADER-JOES-GK-0a8fb7.jpg",
       "source": "NBC News",
-      "publishedAt": "2026-03-03T17:02:23Z"
+      "publishedAt": "2026-03-04T19:42:43Z"
     },
     {
-      "title": "Blue Owl slides below listing price as private credit worries mount - Financial Times",
-      "description": "Investor redemptions and fears of AI disruption to software companies have prompted worries across the industry",
-      "url": "https://www.ft.com/content/5e1404da-af6c-4f8a-a095-3e16827cadc9",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89f52130-969d-495a-b706-411b881c741c.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-03-03T15:54:51Z"
+      "title": "FAA to cap flights at Chicago O'Hare to avoid disruptions - The Points Guy",
+      "description": "American Airlines and United Airlines will need to prune their schedules at Chicago's O'Hare International Airport following FAA intervention.",
+      "url": "https://thepointsguy.com/news/american-united-airlines-chicago-ohare-faa/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/10/American-Boeing-787-9-Dreamliner-LHR-ORD-Business-104.jpg",
+      "source": "The Points Guy",
+      "publishedAt": "2026-03-04T19:34:23Z"
     },
     {
-      "title": "Quantum firms set up across Chicago ahead of South Works campus - Crain's Chicago Business",
-      "description": "Companies slated for the Illinois Quantum & Microelectronics Park are opening labs at mHUB, Hyde Park Labs and downtown while the South Works campus is built.",
-      "url": "https://www.chicagobusiness.com/technology/illinois-quantum-pritzker-uchicago-university-of-illinois-mhub/",
-      "urlToImage": "https://cloudfront-us-east-1.images.arcpublishing.com/crain/UQBF7QUCCFBGPPTRR544D22SOY.jpg",
-      "source": "Crain's Chicago Business",
-      "publishedAt": "2026-03-03T15:37:53Z"
+      "title": "Amazon cuts jobs in strategically important robotics division - Business Insider",
+      "description": "Amazon's e-commerce operations rely on thousands of robots to automate warehouse operations. Still, this division hasn't avoided job cuts.",
+      "url": "https://www.businessinsider.com/amazon-robotics-division-job-cuts-2026-3",
+      "urlToImage": "https://i.insider.com/69a874541fb3fcb42648e929?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-04T19:25:00Z"
+    },
+    {
+      "title": "Coinbase, Other Crypto Stocks Surge. What’s Behind the Rally. - Barron's",
+      "description": "",
+      "url": "https://www.barrons.com/articles/coinbase-stock-price-bitcoin-crypto-robinhood-strategy-017a594f",
+      "urlToImage": "https://images.barrons.com/im-325124/social",
+      "source": "Barron's",
+      "publishedAt": "2026-03-04T16:14:00Z"
     }
   ]
 }

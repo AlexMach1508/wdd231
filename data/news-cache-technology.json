@@ -1,151 +1,87 @@
 {
-  "updatedAt": "2026-03-05T07:06:13.323Z",
+  "updatedAt": "2026-03-06T07:04:29.645Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Resident Evil Requiem sales top five million - Gematsu",
-      "description": "Total sales for Resident Evil Requiem have surpassed five million units, Capcom announced.",
-      "url": "https://www.gematsu.com/2026/03/resident-evil-requiem-sales-top-five-million",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/03/RE-Requiem-Sales_03-04-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-03-04T07:15:25Z"
+      "title": "macOS Will Alert You to MacBook Neo's USB-C Port Limitation - MacRumors",
+      "description": "The new MacBook Neo is equipped with two USB-C ports, but they are not the same. The left USB-C port supports USB 3 speeds of up to 10 Gb/s, while...",
+      "url": "https://www.macrumors.com/2026/03/04/macbook-neo-usb-c-port-limitation/",
+      "urlToImage": "https://images.macrumors.com/t/rptdbDB_0-JRVAZqdq3ohLTxlsg=/2000x/article-new/2026/03/macbook-neo-ports.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-05T01:24:11Z"
+    },
+    {
+      "title": "Everything Apple announced: M5 chips, iPhone 17e, new displays - Mashable",
+      "description": "Apple dropped a ton of new hardware this week. Here's a breakdown.",
+      "url": "https://mashable.com/article/apple-announced-macbook-neo-iphone-17e",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03kwJHx7LykIh7BO9PejERI/hero-image.fill.size_1200x675.v1772648592.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-03-04T23:59:14Z"
+    },
+    {
+      "title": "There's Some inFAMOUS: Second Son in Control Resonant, Says Remedy - Push Square",
+      "description": "We can see it",
+      "url": "https://www.pushsquare.com/news/2026/03/theres-some-infamous-second-son-in-control-resonant-says-remedy",
+      "urlToImage": "https://images.pushsquare.com/83c397913f418/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-03-04T21:00:00Z"
+    },
+    {
+      "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price - The Verge",
+      "description": "You can get a $50 gift card when you buy the M5 Air at Best Buy.The 15-inch M4 MacBook Air has also dropped to an all-time low of $1,099.",
+      "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-03-04T20:23:41Z"
+    },
+    {
+      "title": "Ubisoft's worst-kept secret is finally official as Assassin's Creed Black Flag Resynced artwork is revealed - Eurogamer",
+      "description": "Three years after reports of an Assassin's Creed Black Flag remake first surfaced, Ubisoft has finally made its worst-kept secret official.",
+      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-official-as-artwork-revealed",
+      "urlToImage": "https://assetsio.gnwcdn.com/AC4-Black-Flag_Edward-Kenway_ship-background.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-03-04T20:17:20Z"
     },
     {
       "title": "The T-Mobile Samsung Galaxy S26 Ultra \"On Us\" Deal Explained (No Trade-In or Port-In Required) - IGN",
-      "description": null,
+      "description": "Preorder Samsung's new flagship phone for 2026.",
       "url": "https://www.ign.com/articles/t-mobile-samsung-galaxy-s26-ultra-deals-no-trade-in-or-port-in-required",
-      "urlToImage": null,
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/02/27/samsunggalaxys26ultra-1772229184071.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-03-04T05:44:00Z"
+      "publishedAt": "2026-03-04T18:01:04Z"
     },
     {
-      "title": "Pokémon Pokopia For Switch 2 Receives A Day One Update - Nintendo Life",
-      "description": "You'll need it to access online play",
-      "url": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-for-switch-2-receives-a-day-one-update",
-      "urlToImage": "https://images.nintendolife.com/917d67cce9a17/large.jpg",
+      "title": "I used the Google Pixel 10a for two weeks, and it makes me question if price is a feature - Android Central",
+      "description": "Little changed between the Pixel 9a and the Pixel 10a, but that doesn't mean it's a bad deal.",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-10a-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zyVrzjaXHApDiiPgEMdPME-2560-80.jpg",
+      "source": "Android Central",
+      "publishedAt": "2026-03-04T17:00:11Z"
+    },
+    {
+      "title": "\"We're Not Hiding Anything,\" Crimson Desert Rep Says As Players Demand Console Footage - GameSpot",
+      "description": "There has been a lack of console footage for Crimson Desert.",
+      "url": "https://www.gamespot.com/articles/were-not-hiding-anything-crimson-desert-rep-says-as-players-demand-console-footage/1100-6538561/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1849/18498836/4661504-crimsondesert.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-03-04T16:58:54Z"
+    },
+    {
+      "title": "Play a Limited Time Event in Pokémon Pokopia on Nintendo Switch 2 - Pokemon.com",
+      "description": "You can celebrate the release of this cozy new adventure on Nintendo Switch 2 with a special limited-time event and an early-purchase bonus.",
+      "url": "https://www.pokemon.com/us/pokemon-news/play-a-limited-time-event-in-pokemon-pokopia-on-nintendo-switch-2",
+      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/2026/03/04/pokemon-pokopia-169.png",
+      "source": "Pokemon.com",
+      "publishedAt": "2026-03-04T15:19:49Z"
+    },
+    {
+      "title": "Resident Evil Requiem Has Already Sold Over 5 Million Copies - Nintendo Life",
+      "description": "Performing with Grace",
+      "url": "https://www.nintendolife.com/news/2026/03/resident-evil-requiem-has-already-sold-over-5-million-copies",
+      "urlToImage": "https://images.nintendolife.com/2f9b215d9be75/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2026-03-04T03:55:00Z"
-    },
-    {
-      "title": "Nintendo Expands Switch Online's Virtual Boy And GBA Library With Three More Titles - Nintendo Life",
-      "description": "Celebrating MAR10 Day",
-      "url": "https://www.nintendolife.com/news/2026/03/nintendo-expands-switch-onlines-virtual-boy-and-gba-library-with-three-more-titles",
-      "urlToImage": "https://images.nintendolife.com/d337f3941ef3c/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-03-04T01:25:00Z"
-    },
-    {
-      "title": "Legacy Of Kain: Defiance Remastered Switch Versions Hit With Last-Minute Delay - Nintendo Life",
-      "description": "Now launching at a \"later date\"",
-      "url": "https://www.nintendolife.com/news/2026/03/legacy-of-kain-defiance-remastered-switch-versions-hit-with-last-minute-delay",
-      "urlToImage": "https://images.nintendolife.com/12a4b097f4c5e/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-03-04T00:55:00Z"
-    },
-    {
-      "title": "Apple introduces the new MacBook Air with M5 - Apple",
-      "description": "Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031722",
-      "source": "Apple Newsroom",
-      "publishedAt": "2026-03-04T00:53:40Z"
-    },
-    {
-      "title": "First M4 iPad Air Benchmarks Surface - MacRumors",
-      "description": null,
-      "url": "https://www.macrumors.com/2026/03/03/first-m4-ipad-air-benchmarks-surface/",
-      "urlToImage": null,
-      "source": "MacRumors",
-      "publishedAt": "2026-03-03T23:38:30Z"
-    },
-    {
-      "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals - TechCrunch",
-      "description": "Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for \"secondhand\" exploits.",
-      "url": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/apple-mac-iphone-security.jpg?resize=1200,797",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-03T23:27:31Z"
-    },
-    {
-      "title": "March Pixel Drop unlocks new features you wish you had sooner - Android Police",
-      "description": "Get it now!",
-      "url": "https://www.androidpolice.com/march-pixel-drop-lands-with-new-upgrades-you-dont-want-to-miss/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/android-s-iphone-problem-7-5-screenshot-1.png?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2026-03-03T22:16:30Z"
-    },
-    {
-      "title": "Apple's Studio Display XDR Supports DICOM Medical Imaging for Diagnostic Radiology - MacRumors",
-      "description": "The new Studio Display XDR is designed for all kinds of professional work, and it is uniquely suited for use in the medical field.   The Studio...",
-      "url": "https://www.macrumors.com/2026/03/03/studio-display-xdr-dicom-medical-imaging/",
-      "urlToImage": "https://images.macrumors.com/t/hxg0EY47Fe_UQyr_AkF7ncKuHzY=/1884x/article-new/2026/03/studio-display-xdr-medical-presets.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-03-03T22:11:00Z"
-    },
-    {
-      "title": "Windows 12 release date in 2026 possible, with AI features that may force CPU upgrades - Notebookcheck",
-      "description": "Windows 12 could be another costly upgrade for supporters of Microsoft operating systems. A new report reveals that the AI-dominated OS will require AMD and Intel CPUs with a dedicated NPU. Possibly surfacing in late 2026, the follow-up to Windows 11 may also…",
-      "url": "https://www.notebookcheck.net/Windows-12-release-date-in-2026-possible-with-AI-features-that-may-force-CPU-upgrades.1241181.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MicrosoftCopilotbanner.jpg",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-03-03T21:51:00Z"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra vs iPhone 17 Pro Max: Sample Photos Comparison - PhoneArena",
-      "description": "The Galaxy S26 Ultra brings faster apertures and better image processing. Is that enough to beat the iPhone?",
-      "url": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max-sample-photos-comparison_id178493",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/178493-wide-two_1200/Samsung-Galaxy-S26-Ultra-vs-iPhone-17-Pro-Max-Sample-Photos-Comparison.jpg",
-      "source": "PhoneArena",
-      "publishedAt": "2026-03-03T21:36:33Z"
-    },
-    {
-      "title": "Resident Evil Requiem’s ‘Final Puzzle’ Has Been Solved Without Datamining - Kotaku",
-      "description": "Now we know all the clues and steps to solve the game-long puzzle",
-      "url": "https://kotaku.com/resident-evil-requiem-final-puzzle-solution-datamine-video-2000675457",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214170655.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-03-03T21:10:51Z"
-    },
-    {
-      "title": "Google brings Android’s desktop mode to Pixel devices - The Verge",
-      "description": "The Pixel 8 and up will display a desktop-like experience when connected to an external monitor.",
-      "url": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKE007_GOOGLE_PIXEL_2025_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-03-03T19:00:00Z"
-    },
-    {
-      "title": "Fallout 76 | Venture through The Backwoods TODAY in Fallout 76’s latest free update - Bethesda.net",
-      "description": "Expect some Uninvited Guests on your journey through the Appalachian post-nuclear wilderness with this free update for all players, including the legendary Bigfoot!",
-      "url": "https://fallout.bethesda.net/en/article/3WShEgKi8FqC5Si4hePXJA/fallout-76-the-backwoods-launch",
-      "urlToImage": "//images.ctfassets.net/rporu91m20dc/3BMYcvXSfLNEtPlInNb2NK/d8ab284c75958ab21fca0579c593f2e2/F76_Backwoods_Key_Crop_HERO_1920x870.png",
-      "source": "Bethesda.net",
-      "publishedAt": "2026-03-03T18:17:35Z"
-    },
-    {
-      "title": "The Division 10th Anniversary Showcase: The Division 2 Anniversary Season and Roadmap, The Division Resurgence Launch Date - Ubisoft",
-      "description": "The Division 2's Anniversary Season offers a limited-time Realism Mode, free access to the Warlords of New York expansion, new Tom Clancy Cosmetics, free permanent visual upgrades, and more.",
-      "url": "https://news.ubisoft.com/en-us/article/5pVBLd1upCxSwirB01VQ9m/the-division-10th-anniversary-showcase-the-division-2-anniversary-season-and-roadmap-the-division-resurgence-launch-date",
-      "urlToImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2IkK9nezGfIb2yA7FyJ86r/b18b6934c1d62a91093531aaaf493be5/TCTD_Anniversary_Keyart.jpg",
-      "source": "Ubisoft.com",
-      "publishedAt": "2026-03-03T17:28:49Z"
-    },
-    {
-      "title": "Google accelerates Chrome’s release cycle from every four weeks to two - The Verge",
-      "description": "Google will release updated versions of Chrome every two weeks, starting in September.",
-      "url": "https://www.theverge.com/tech/888001/google-accelerates-chrome-releases-cutting-cycle-in-half",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-03-03T17:00:00Z"
-    },
-    {
-      "title": "MacBook Neo leaks as name for low-cost model powered by iPhone chip - 9to5Mac",
-      "description": "Apple is expected to announce an all-new, low-cost MacBook as soon as tomorrow, and MacBook Neo may be the official...",
-      "url": "https://9to5mac.com/2026/03/03/macbook-neo-could-be-name-for-low-cost-model-powered-by-iphone-chip/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/macbook-a18-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-03-03T15:07:00Z"
+      "publishedAt": "2026-03-04T12:00:00Z"
     }
   ]
 }
