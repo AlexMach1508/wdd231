@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-03-08T06:57:32.741Z",
+  "updatedAt": "2026-03-09T07:14:51.260Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Live Updates: 2 dead as severe storms bring hail, damaging winds and tornado risk to northeast Oklahoma - News On 6",
-      "description": "A Tornado Watch is active for parts of Green Country until 4 a.m.",
-      "url": "https://www.newson6.com/oklahoma-severe-weather-live-updates",
-      "urlToImage": "https://cdn.griffin.news/dims4/default/0d84801/2147483647/strip/true/crop/1536x864+0+592/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fgriffin-media-production-griffin.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fd1%2F95%2Ff1875d3b465a997724bcd8b771f2%2Fbristowtornadodamage-6.jpg",
-      "source": "News On 6",
-      "publishedAt": "2026-03-07T05:40:49Z"
-    },
-    {
-      "title": "No. 19 Miami (Ohio) caps undefeated regular season with OT win - ESPN",
-      "description": "Miami (Ohio) finished the regular season as the only unbeaten team in Division I men's basketball, winning 110-108 in overtime over Ohio on Friday night.",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48128883/no-19-miami-ohio-caps-undefeated-regular-season-ot-win",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0307%2Fr1624561_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-03-07T05:08:00Z"
-    },
-    {
-      "title": "Unprepared for Iranian drones, U.S. and partners seek Ukraine’s help - The Washington Post",
-      "description": "Swarms of low-cost drones used by the Russians in Ukraine have been breaching U.S. air defense systems and striking targets across the Middle East.",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/06/us-unprepared-iran-drones-ukraine/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7MXTVXIH5DA5OVNJ57WB3GY4BA_size-normalized.JPG&w=1440",
+      "title": "Trump says Iran targets will expand, honors U.S. troops killed in war - The Washington Post",
+      "description": "President Donald Trump honors slain U.S. service members at Dover, threatens to widen U.S. targets after Iran’s president dismissed the notion of surrender.",
+      "url": "https://www.washingtonpost.com/world/2026/03/07/iran-war-us-trump-israel-strikes/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C63SK7IOQPGVI3GHKLZ7OPW2A4_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-03-07T04:53:36Z"
+      "publishedAt": "2026-03-08T08:20:38Z"
     },
     {
-      "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs - The Verge",
-      "description": "DJI will pay Sammy Azdoufal $30,000 after he used Claude Code to accidentally access a network of 7,000 robot vacuums.",
-      "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/romo.jpg?quality=90&strip=all&crop=0%2C10.719532078152%2C100%2C78.560935843696&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-03-07T02:59:00Z"
+      "title": "US embassy in Oslo hit by explosion, Norway police say - BBC",
+      "description": "No injuries are reported after the blast in the Norwegian capital in the early hours on Sunday.",
+      "url": "https://www.bbc.com/news/articles/c5yjegg892lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/26b4/live/2d368920-1aa9-11f1-b048-c9424b2cf5fd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-03-08T06:54:58Z"
     },
     {
-      "title": "Neiman Marcus store at Ala Moana Center to close - Honolulu Star-Advertiser",
-      "description": "Saks Global is closing the Neiman Marcus department store at Ala Moana Center as part of ongoing restructuring efforts, the luxury retailer said in a news release today.",
-      "url": "https://www.staradvertiser.com/2026/03/06/breaking-news/neiman-marcus-store-to-close-at-ala-moana-center/",
-      "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2026/03/web1_20260306_WEB_Neiman-Marcus.jpeg",
-      "source": "Honolulu Star-Advertiser",
-      "publishedAt": "2026-03-07T02:55:30Z"
+      "title": "Huge fire engulfs Kuwait City tower as Trump accuses Starmer of seeking to 'join wars after we've already won' - BBC",
+      "description": "Heavy Israeli airstrikes hit Iranian oil depots, with residents telling the BBC 'it was as if the night had turned into day'.",
+      "url": "https://www.bbc.com/news/live/cz0g2yg3579t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ace8/live/f50b4ac0-1aa5-11f1-801d-ed3cff6bf876.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-03-08T06:32:09Z"
     },
     {
-      "title": "Sources: Raiders to trade Maxx Crosby to Ravens for two 1sts - ESPN",
-      "description": "The Ravens have won the Maxx Crosby sweepstakes, beating out the Cowboys and others by sending 2026 and 2027 first-round picks to the Raiders for the star pass rusher, sources told ESPN's Adam Schefter.",
-      "url": "https://www.espn.com/nfl/story/_/id/48127564/sources-raiders-trade-maxx-crosby-ravens-two-1sts",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0217%2Fr1616429_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-03-07T02:23:00Z"
+      "title": "3 takeaways from BYU’s upset win over No. 10 Texas Tech - Deseret News",
+      "description": "The BYU Cougars beat the Texas Tech Red Raiders in Provo, Utah, on Saturday.",
+      "url": "https://www.deseret.com/sports/2026/03/07/byu-basketball-upsets-texas-tech-3-takeaways/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/JLPJ35CRIZE33L6Z3LNYFO4ATU.JPG?focal=1891%2C827&auth=0ac52320ef78cc147c0f36559d660a4f81c3b5cd6c15e8a84b367e34217f1fef&width=630",
+      "source": "Deseret News",
+      "publishedAt": "2026-03-08T06:19:00Z"
     },
     {
-      "title": "President Trump plans to sign executive order to \"save college sports\" - NBC Sports",
-      "description": "At a time when there are far more important issues to address (one in particular), President Trump devoted time on Friday afternoon to a \"Saving College Sports\" roundtable.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/president-trump-plans-to-sign-executive-order-to-save-college-sports",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/1734786/2147483647/strip/true/crop/5504x3096+0+286/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F61%2F85114ebe4b60bf22e308fda669c1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2265162024",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-03-07T01:58:48Z"
+      "title": "Iran president apologizes for attacks on neighbors, mocks Trump’s call for ‘unconditional surrender' - Fox News",
+      "description": "Iranian President Masoud Pezeshkian said the country would cease its attacks on neighboring nations unless it was hit first. He also dismissed President Donald Trump's call for an \"unconditional surrender” as Operation Epic Fury continues.",
+      "url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-7",
+      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/03/b4e5ca8c90b67120f080eddf487062dc.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-03-08T06:06:07Z"
     },
     {
-      "title": "Hailey Bieber Poses For Sexy Selfies In New Luscious Lip Thirst Traps - TMZ",
-      "description": "Hailey Bieber is feeling herself ... because she whipped out her camera and took a bunch of stunning selfies, and now she's sharing them with the world.",
-      "url": "https://www.tmz.com/2026/03/06/hailey-bieber-thirst-trap-selfies/",
-      "urlToImage": "https://imagez.tmz.com/image/6e/16by9/2026/03/07/6e74d170ce4d461fa0a1bfcb8e38d483_xl.png",
-      "source": "TMZ",
-      "publishedAt": "2026-03-07T01:58:20Z"
+      "title": "Ryan Gosling’s ‘SNL’ Monologue Upstaged by Even Bigger Star - The Daily Beast",
+      "description": "The three-time Oscar nominee played second fiddle during his “Saturday Night Live” monologue.",
+      "url": "https://www.thedailybeast.com/obsessed/ryan-goslings-snl-monologue-upstaged-by-even-bigger-star/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/UV2TAOQOPBD7FBI7EW6AULZVJ4.jpg?smart=true&auth=8a93ff813c378cd844cc9cfb033c8954e424f10c336c9e772a40905cdc3091fc&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2026-03-08T06:00:00Z"
     },
     {
-      "title": "Justice Dept. releases missing Epstein documents with Trump allegations - The Washington Post",
-      "description": "The agency said the records, which include allegations made against President Donald Trump in 2019, were not previously released because they were “ incorrectly coded.”",
-      "url": "https://www.washingtonpost.com/politics/2026/03/06/justice-department-epstein-documents-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CXRRD4QYV4DOGIVAEPG6KBUA4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-03-07T01:48:52Z"
+      "title": "After Olympics controversy, Eileen Gu gets nothing but love at SF parade - SFGATE",
+      "description": "Riding down the city’s streets in a red Mustang, Eileen Gu got a warm reception at San Francisco’s Chinese New Year Parade.",
+      "url": "https://www.sfgate.com/sports/article/eileen-gu-sf-parade-21962355.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/65/33/47/30783997/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2026-03-08T04:46:51Z"
     },
     {
-      "title": "California official calling on Trump administration to return deaf Bay Area boy, his family deported to Colombia - ABC7 Los Angeles",
-      "description": "State Superintendent Tony Thurmond says the boy does not have his hearing aids with him",
-      "url": "https://abc7.com/post/california-official-calling-trump-administration-return-deaf-bay-area-boy-family-deported-colombia/18686782/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18686660_030626-kgo-bay-area-ice-deport-img.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-03-07T01:36:19Z"
+      "title": "How a sketch of an unknown woman found in a Georgia swamp revealed a twisted case of death and deception - CBS News",
+      "description": "Mindi Kassotis' friends and family were told the wife of a decorated former Navy JAG officer had died unexpectedly in a hospital. Imagine their surprise months later when the remains of a woman, found dismembered in a swamp near Savannah, Georgia were identif…",
+      "url": "https://www.cbsnews.com/news/mindi-kassotis-death-nicholas-kassotis-murder-trial-georgia-48-hours/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/25/149ea82c-ab96-4642-872f-b7389acebe9a/thumbnail/1200x630/96689b3a0e053f5274b02ba9bfa4511e/kassotis-sneakpeek.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-03-08T04:10:00Z"
     },
     {
-      "title": "Google gives CEO Sundar Pichai new pay deal worth up to $692mn - Financial Times",
-      "description": "Alphabet boss gets bumper package of stock options tied to the share price and growth of Waymo in the next three years",
-      "url": "https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc12160e-2c7a-495e-a2e9-41675ea462a0.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-03-07T01:10:33Z"
+      "title": "Vengeance Day recap: More like Tuesday night - Cageside Seats",
+      "description": "It’s giving CW.",
+      "url": "https://www.cagesideseats.com/wwe/423586/nxt-vengeance-day-2026-recap-joe-hendry-ricky-saints",
+      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/03/20260307_NXT_VDay_Final.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+      "source": "Cageside Seats",
+      "publishedAt": "2026-03-08T04:08:00Z"
     },
     {
-      "title": "Shield of the Americas Summit to showcase Trump's push to reshape the hemisphere - Axios",
-      "description": "Kristi Noem steps into a new envoy role as Trump reasserts regional influence.",
-      "url": "https://www.axios.com/2026/03/07/trump-shield-americas-summit-noem-envoy",
-      "urlToImage": "https://images.axios.com/zF4Kku3w86Us_ghxlHNLfbL3taY=/0x548:5265x3510/1366x768/2026/03/06/1772837418613.jpg",
+      "title": "2026 Big Ten wrestling tournament: Live updates, brackets, schedule - NCAA.com",
+      "description": "Everything you need to know about the 2026 Big Ten men's wrestling tournament.",
+      "url": "https://www.ncaa.com/live-updates/wrestling-men/d1/2026-big-ten-wrestling-tournament-live-updates-brackets-schedule",
+      "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/images/2026-03/Luke%20Lilledahl%20Big%20Tens.png",
+      "source": "NCAA.com",
+      "publishedAt": "2026-03-08T02:12:22Z"
+    },
+    {
+      "title": "Lucas: Duke Rapid Reactions - University of North Carolina Athletics - University of North Carolina Athletics",
+      "description": "Quick takeaways from the rematch.",
+      "url": "https://goheels.com/news/2026/3/7/mens-basketball-lucas-duke-rapid-reactions",
+      "urlToImage": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Func.sidearmsports.com%2Fimages%2F2026%2F3%2F7%2FStevenson_Jarin.duke.04.JPG&width=1600&type=jpeg",
+      "source": "Goheels.com",
+      "publishedAt": "2026-03-08T01:51:18Z"
+    },
+    {
+      "title": "Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/world/middle-east/irans-historic-capital-is-ground-zero-for-the-u-s-israeli-air-war-3602a7ba",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-03-08T01:00:00Z"
+    },
+    {
+      "title": "Paramount Eyes Changes to Historic Studio Lot Following Warner Bros. Merger - The Hollywood Reporter",
+      "description": "The lot has hosted productions for films such as 'The Godfather,' 'Titanic' and the 'Mission: Impossible' franchise.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-studio-lot-changes-warner-bros-merger-1236524430/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2020/03/paramount_studios_lot.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-03-08T00:30:14Z"
+    },
+    {
+      "title": "Apple Adds Three Executives to Leadership Page - MacRumors",
+      "description": "Apple on Friday added three new executive profiles to its leadership page for Jennifer Newstead, Molly Anderson, and Steve Lemay.   Jennifer...",
+      "url": "https://www.macrumors.com/2026/03/07/apple-adds-three-executives-to-leadership-page/",
+      "urlToImage": "https://images.macrumors.com/t/6xrvEOM_TcerNOi3ln5u4hht7Zc=/1800x/article-new/2026/01/wwdc-sans-text-feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-07T23:17:33Z"
+    },
+    {
+      "title": "Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran - Axios",
+      "description": "The U.S. has backed many coups abroad, whether or not it played a role in picking leaders to fill vacancies.",
+      "url": "https://www.axios.com/2026/03/07/iran-war-trump-cuba-venezuela",
+      "urlToImage": "https://images.axios.com/9hqoU_zkrPT-ADme11sZ7vhxj8k=/0x0:2000x1125/1366x768/2026/03/06/1772835341769.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-03-07T01:10:00Z"
+      "publishedAt": "2026-03-07T22:52:05Z"
     },
     {
-      "title": "'Princess Bride' Star Cary Elwes Honors Rob Reiner On First Birthday Since Murder - TMZ",
-      "description": "Cary Elwes is missing Rob Reiner a little extra today.",
-      "url": "https://www.tmz.com/2026/03/06/cary-elwes-honors-rob-reiner-on-first-birthday-since-murder/",
-      "urlToImage": "https://imagez.tmz.com/image/e4/16by9/2026/03/06/e448ea453c0a4380b135a69b59636c3e_xl.png",
-      "source": "TMZ",
-      "publishedAt": "2026-03-07T00:38:44Z"
+      "title": "Josef Newgarden earns thrilling IndyCar win at Phoenix - Motorsport.com",
+      "description": "Newgarden continued a perfect weekend for Team Penske, collecting the checkered flag in an eventful IndyCar race",
+      "url": "https://www.motorsport.com/indycar/news/josef-newgarden-earns-thrilling-indycar-win-at-phoenix/10803205/",
+      "urlToImage": "https://cdn-2.motorsport.com/images/amp/25d3oWn0/s6/josef-newgarden-team-penske-2.jpg",
+      "source": "Motorsport.com",
+      "publishedAt": "2026-03-07T22:51:27Z"
     },
     {
-      "title": "Americans stuck in the Middle East recount finding their way home with little government help - AP News",
-      "description": "Stranded Americans across the Middle East say they’ve been left to navigate flight cancellations and confusing government guidance on their own. They expressed frustration with the State Department's directions to “depart now” on commercial flights even thoug…",
-      "url": "https://apnews.com/article/stranded-travelers-us-response-iran-war-b7a5da348d4fee76ac4a662bc16cf627",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0efbacb/2147483647/strip/true/crop/5263x3507+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F2f%2F01c9bdb27e02b70a7239e3bdcedb%2F14e5c79bd9fe4c8d99a514bade5e397e",
-      "source": "Associated Press",
-      "publishedAt": "2026-03-07T00:24:00Z"
+      "title": "Stock Market Rally Attempt Depends On Iran War, Oil's Next Move - Investor's Business Daily",
+      "description": "Oil prices spiked 36% for the week. Here's why they could still go a lot higher.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-Oilbarrel-fire-05-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-03-07T22:02:00Z"
     },
     {
-      "title": "Iranian Intelligence Agent Convicted of Terrorism and Murder for Hire in Connection with Foiled Plot to Assassinate U.S. Politicians and Government Officials - Department of Justice (.gov)",
-      "description": "A federal jury convicted Asif Merchant, also known as “Asif Raza Merchant,” of murder for hire and attempting to commit an act of terrorism transcending national boundaries. Merchant was a trained operative of the Iranian government’s global terrorist force, …",
-      "url": "https://www.justice.gov/opa/pr/iranian-intelligence-agent-convicted-terrorism-and-murder-hire-connection-foiled-plot",
-      "urlToImage": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
-      "source": "Justice.gov",
-      "publishedAt": "2026-03-07T00:10:40Z"
+      "title": "Some buyers return Samsung Galaxy S26 Ultra over screen issue - Sammy Fans",
+      "description": "Samsung launched the Galaxy S26 Ultra, a phone that comes with a new Privacy Display feature. This feature is meant to keep what’s on your screen private, so people sitting next to you in public places can’t see it. While it sounds useful, some buyers are ret…",
+      "url": "https://www.sammyfans.com/2026/03/07/some-buyers-return-samsung-galaxy-s26-ultra-over-screen-issue/",
+      "urlToImage": "https://www.sammyfans.com/wp-content/uploads/2026/02/Samsung-galaxy-s26-ultra-ftrd-image-sg26u-privacy-display.jpg",
+      "source": "Sammyfans.com",
+      "publishedAt": "2026-03-07T21:03:50Z"
     },
     {
-      "title": "Spoiler: WWE SmackDown Tag Team Turmoil Teams Revealed Ahead of March 6 Episode - Ringside News",
-      "description": "The lineup for tonight’s March 6 episode of WWE SmackDown has received another update, and this time the focus is on the tag team division. According to",
-      "url": "https://www.ringsidenews.com/spoiler-wwe-smackdown-tag-team-turmoil-teams-revealed-ahead-march-6-episode/",
-      "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2026/03/spoiler-title-change-expected-for-fridays-wwe-smackdown-24.jpg",
-      "source": "Ringside News",
-      "publishedAt": "2026-03-06T23:57:44Z"
+      "title": "Health officials confirm measles case in visitor to Hawaii - Honolulu Star-Advertiser",
+      "description": "Hawaii health officials say they have confirmed a case of measles in a vaccinated adult visitor to Oahu.",
+      "url": "https://www.staradvertiser.com/2026/03/07/breaking-news/health-officials-confirm-measles-case-in-visitor-to-hawaii/",
+      "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2026/03/web1_DOH0025.jpg",
+      "source": "Honolulu Star-Advertiser",
+      "publishedAt": "2026-03-07T20:15:07Z"
     },
     {
-      "title": "Xbox Drops 2 AAA Free Games, No Game Pass Required To Play - GAMINGbible",
-      "description": "Xbox users can enjoy 4 AAA games for free for a limited time, with 2 games not requiring a Game Pass subscription! Have a good weekend gamers.",
-      "url": "https://www.gamingbible.com/news/platform/xbox/xbox-drops-2-aaa-free-games-528407-20260306",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt08688c64db00be11/69aae7a6b2d0790008d237b1/FBCFirebreakFReePlayDays.jpg",
-      "source": "Gamingbible.com",
-      "publishedAt": "2026-03-06T22:00:00Z"
-    },
-    {
-      "title": "Measles is 'worse than expected' in Utah, officials say - NBC News",
-      "description": "In southern Utah, a measles outbreak that’s been simmering since last summer is showing signs of wider spread.",
-      "url": "https://www.nbcnews.com/health/health-news/measles-worse-expected-utah-officials-say-rcna262087",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251016-mmr-vaccine-mn-0900-44a130.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-03-06T20:42:06Z"
-    },
-    {
-      "title": "Trump’s Real Plan for Iran Might Be Coming Into View - Slate",
-      "description": "The U.S. president sows chaos even when he clearly doesn’t mean the things he says.",
-      "url": "https://slate.com/news-and-politics/2026/03/iran-trump-news-war-kurds-kurdistan.html",
-      "urlToImage": "https://compote.slate.com/images/25bccb0b-5236-46ad-b46b-bf764d6b58a3.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-03-06T20:27:00Z"
+      "title": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister - BBC",
+      "description": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
+      "url": "https://www.bbc.com/news/articles/c93w6y0lnd9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/740d/live/6f99d390-1a3f-11f1-bbcf-6dca17345a4c.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-03-07T19:45:09Z"
     }
   ]
 }
