@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-03-14T07:01:55.275Z",
+  "updatedAt": "2026-03-15T07:11:02.833Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Duke shows its championship mettle in comeback win over Florida State - WRAL",
-      "description": "The top-seeded Blue Devils played without two injured starters in point guard Caleb Foster and center Patrick Ngongba.",
-      "url": "https://www.wral.com/sports/duke-florida-state-acc-tournament-quarterfinals-march-2026/",
-      "urlToImage": "https://images.wral.com/65b91ddb-5f6d-4f56-9002-d4fb7da4ea73?w=1200&h=630",
-      "source": "WRAL.com",
-      "publishedAt": "2026-03-13T03:34:29Z"
-    },
-    {
-      "title": "Suspect in Detroit-area synagogue attack is killed by security, officials say - CBS News",
-      "description": "A suspect in an attack on a synagogue in the Detroit area is dead after ramming a vehicle into the building and being confronted by synagogue security, Oakland County Sheriff Michael Bouchard said.",
-      "url": "https://www.cbsnews.com/detroit/news/police-respond-active-shooter-situation-at-temple-israel/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/12/53d23319-dae7-4feb-b8a1-8419e4be7d49/thumbnail/1200x630/a2c79a769cc3a54bf7eaebc17db9c0b2/snapshot-3.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-03-13T03:20:09Z"
-    },
-    {
-      "title": "US eases Russia oil sanctions as Iran war pushes up energy prices - BBC",
-      "description": "US Treasury Secretary Scott Bessent said it was a temporary measure that will last until 11 April.",
-      "url": "https://www.bbc.com/news/articles/clyzj3g3pygo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/04bc/live/30b400b0-1e86-11f1-9610-8d2927afc8b3.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-03-13T02:50:52Z"
-    },
-    {
-      "title": "ROTC students at Old Dominion University subdued and killed shooter who left 1 dead, 2 hurt - AP News",
-      "description": "The FBI says the suspect has been identified by authorities as Mohamed Bailor Jalloh, who pleaded guilty in 2016 to attempting to provide material support to the Islamic State. FBI Director Kash Patel said in a social media post that the shooting is being inv…",
-      "url": "https://apnews.com/article/old-dominion-university-virginia-gunman-dead-e49b6d42f2b76d2ad92a2ee72833e9ad",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3c10e24/2147483647/strip/true/crop/7157x4769+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2Faa%2F3768324f65958660036aab88096d%2F1dd6daaff67c4165907d8f9391b0b2e1",
-      "source": "Associated Press",
-      "publishedAt": "2026-03-13T01:48:00Z"
-    },
-    {
-      "title": "Florida Legislature passes citizen verification for voters, restricts IDs accepted at the polls - Sun Sentinel",
-      "description": "Republicans in the Florida House and Senate passed a measure to verify voters’ citizenship and restrict the kinds of IDs voters can use to identify themselves at the polls.",
-      "url": "https://www.sun-sentinel.com/2026/03/12/florida-senate-votes-to-require-citizen-verification-for-voters-restrict-ids-accepted-at-the-polls/",
-      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2026/03/TFL-L-senator-erin-grall-01.jpg?w=580&h=334",
-      "source": "Sun Sentinel",
-      "publishedAt": "2026-03-13T01:44:33Z"
-    },
-    {
-      "title": "Unanimous vote in key risk assessment has moon mission crew barreling toward a new launch date - CNN",
-      "description": "NASA has finished a crucial step toward getting its Artemis II moon mission off the ground, and is now targeting early April to send four astronauts on an unprecedented path.",
-      "url": "https://www.cnn.com/2026/03/12/science/nasa-artemis-2-launch-date-risk-assessment",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/nhq202601170046-large.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-03-13T01:34:00Z"
-    },
-    {
-      "title": "U.S. Air Force refueler crashes in Iraq while supporting Iran war - The Washington Post",
-      "description": "Rescue efforts are ongoing, officials said, after the KC-135 tanker was involved in an apparent accident with another KC-135.",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/12/kc-135-crash-iraq-iran/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JMMAVBUVY6DZGM3EAW7XC4UBGU_size-normalized.jpg&w=1440",
+      "title": "Trump says U.S. bombed Kharg Island, striking core of Iran’s oil economy - The Washington Post",
+      "description": "About 90 percent of the country’s oil exports move through facilities on Kharg Island, located some 15 miles from the mainland in the Persian Gulf.",
+      "url": "https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQLZDHUUDH25YRPNLR7H45EIYU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-03-13T01:23:46Z"
+      "publishedAt": "2026-03-14T04:53:00Z"
     },
     {
-      "title": "'Southern Hospitality' Star Grace Lilly Arrested On Drug Charges - TMZ",
-      "description": "\"Southern Hospitality\" star Grace Lilly was arrested Tuesday ... and it looks like drugs were allegedly involved.",
-      "url": "https://www.tmz.com/2026/03/12/southern-hospitality-grace-lilly-arrested-drugs/",
-      "urlToImage": "https://imagez.tmz.com/image/97/16by9/2026/03/13/979365611063429b9810e0699423d889_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2026-03-13T01:22:12Z"
+      "title": "Big 12 Tournament: What Tommy Lloyd, Arizona players said after win over Iowa State - Arizona Desert Swarm",
+      "description": "",
+      "url": "https://www.azdesertswarm.com/basketball/77063/arizona-wildcats-postgame-comments-big-12-tournament-semifinals-tommy-lloyd-jaden-bradley",
+      "urlToImage": "https://platform.azdesertswarm.com/wp-content/uploads/sites/15/2026/03/gettyimages-2266387455.jpg?quality=90&strip=all&crop=0%2C10.738702513043%2C100%2C78.522594973913&w=1200",
+      "source": "Arizona Desert Swarm",
+      "publishedAt": "2026-03-14T03:06:00Z"
     },
     {
-      "title": "Singapore Disputes US Trade Surplus Data as New Tariffs Loom - Bloomberg.com",
-      "description": "Singapore said it ran a trade deficit with the US in 2024, disputing figures published by Washington that showed the city-state posted a surplus and challenging suggestions that it is contributing to global manufacturing overcapacity.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-13/singapore-disputes-us-trade-surplus-data-as-new-tariffs-loom",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iahWH8g87L0E/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-13T00:47:00Z"
+      "title": "Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post",
+      "description": "Lt. Col. Brandon Shah, 42, became an ROTC instructor at Old Dominion after serving in Iraq as an Army aviator.",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/03/13/shah-old-dominion-shooter-terrorism/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EVMXXYRGRLIB53WYU2B3T2US5A.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-03-14T02:30:22Z"
     },
     {
-      "title": "Kyler Murray grew up a Vikings fan, \"cried real tears\" during 2009 NFC Championship - NBC Sports",
-      "description": "Most NFL players never play for the NFL team they grew up rooting for.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-grew-up-a-vikings-fan-cried-real-tears-during-2009-nfc-championship",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/84a91c2/2147483647/strip/true/crop/5020x2824+0+262/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F4f%2F796756ec4ac59d7cf6b97d46f16c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239840827",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-03-12T23:32:41Z"
+      "title": "Ducks' Radko Gudas slapped with 5-game ban for kneeing Auston Matthews - ESPN",
+      "description": "Anaheim Ducks defenseman Radko Gudas was suspended for five games by the NHL Department of Player Safety for a knee-on-knee hit that ended Toronto Maple Leafs star Auston Matthews' season.",
+      "url": "https://www.espn.com/nhl/story/_/id/48200305/ducks-radko-gudas-slapped-5-game-ban-kneeing-auston-matthews",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0314%2Fr1628106_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-03-14T01:47:05Z"
     },
     {
-      "title": "Deadly virus outbreak at Bay Area state park spreads to nearby beaches - SFGATE",
-      "description": "After an avian flu outbreak was first reported in Ano Nuevo State Park earlier this month, it's spreading to other species and expanding in the Bay Area.",
-      "url": "https://www.sfgate.com/local/article/bay-area-virus-spreads-22073761.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/63/40/67/30281191/7/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-03-12T23:09:03Z"
-    },
-    {
-      "title": "Democrats are trouncing Republicans in state elections since Trump took office - Politico",
-      "description": "Voter turnout in state elections over the last 14 months has Republicans concerned as the midterms approach.",
-      "url": "https://www.politico.com/news/2026/03/12/dems-flip-28-state-legislature-seats-in-trump-2-0-00827125",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fee%2F34%2Fc3ebb65a4515b77229b08a40dbb0%2Ffetal-homicide-law-iowa-17703.jpg",
+      "title": "8 accused of antifa ties convicted on terrorism charges over shooting at Texas immigration facility - Politico",
+      "description": "The charges followed President Donald Trump’s order last fall to designate antifa as a domestic terrorist organization.",
+      "url": "https://www.politico.com/news/2026/03/13/8-accused-of-antifa-ties-convicted-on-terrorism-charges-over-shooting-at-texas-immigration-facility-00829182",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F20%2F25%2Fd88ba2494c6bb7c959368d78236c%2Fimmigration-detention-center-shooting-48624.jpg",
       "source": "Politico",
-      "publishedAt": "2026-03-12T23:02:04Z"
+      "publishedAt": "2026-03-14T01:36:33Z"
     },
     {
-      "title": "NFL free agency 2026 live updates: Tracking all rumors, signings and trades on Day 4 - CBS Sports",
-      "description": "We've reached the fourth day of free agency as teams begin searching for bargains to fill needs",
-      "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-2026-live-updates-tracker-march-12/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/01/090fca39-5de1-4470-902d-075df2233bfe/thumbnail/1200x675/0b8e68e53bfc04284638f65f7ab8888c/kyler-murray.jpg",
+      "title": "Team USA Baseball vs. Canada score: Live updates from World Baseball Classic quarterfinals - CBS Sports",
+      "description": "It's win-or-go-home time in the 2026 World Baseball Classic -- can Team USA bounce back from a stunning loss to Italy?",
+      "url": "https://www.cbssports.com/mlb/news/team-usa-baseball-canada-score-live-updates-wbc/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/03/14/530724cc-e26b-46d9-9361-1f41df65c717/thumbnail/1200x675/4017c8460b223576ad1e4ca06a54be53/team-usa-witt-getty-1.png",
       "source": "CBS Sports",
-      "publishedAt": "2026-03-12T22:41:29Z"
+      "publishedAt": "2026-03-14T01:05:00Z"
     },
     {
-      "title": "Arvada sports bar linked to growing measles outbreak in Broomfield - KUSA.com",
-      "description": "State health officials are asking people who visited Bout Time Pub & Grub Tuesday or Wednesday night to watch for symptoms.",
-      "url": "https://www.9news.com/article/news/health/broomfield-measles-outbreak-arvada-colorado/73-8897bbd7-92c7-441c-bb8d-64060dadd2b4",
-      "urlToImage": "https://media.9news.com/assets/KUSA/images/f93633a7-75a0-4008-bc53-3a142e08d814/20260312T213139/f93633a7-75a0-4008-bc53-3a142e08d814_1140x641.jpg",
-      "source": "9News.com KUSA",
-      "publishedAt": "2026-03-12T22:41:00Z"
+      "title": "Ground stop impacted airports, including BWI-Marshall | Here's why - WBAL-TV",
+      "description": "Baltimore-Washington International Thurgood Marshall Airport was among several airports where a ground stop was issued.",
+      "url": "https://www.wbaltv.com/article/bwi-airport-march-13-2026-ground-stop/70738978",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/eb59492b-9f47-4a9e-882c-8d2108c4503e/285c43ff-0a38-4434-89c2-79a77ca0ec52.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+      "source": "WBAL TV Baltimore",
+      "publishedAt": "2026-03-14T00:50:00Z"
     },
     {
-      "title": "Celebrity chef René Redzepi resigns from iconic Danish restaurant Noma after abuse allegations - AP News",
-      "description": "René Redzepi has stepped down from his post at the iconic Danish restaurant Noma following allegations of abuse and assault at the Copenhagen landmark. The restaurant founder and celebrity chef has been dogged for years by reports of staff mistreatment and ye…",
-      "url": "https://apnews.com/article/noma-rene-redzepi-denmark-abuse-allegations-43685e19c75849a0f7f48c487205ce4d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/141947f/2147483647/strip/true/crop/5779x3851+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F79%2Fcfb18e70bf1352c6c8037fddcbcc%2F94615ec054e540b1a98274540e3a186c",
-      "source": "Associated Press",
-      "publishedAt": "2026-03-12T22:23:00Z"
+      "title": "NASA officials sidestepped questions on Artemis II risks—there’s a reason why - Ars Technica",
+      "description": "This ought to make for some good reading,\" NASA's mission management team chair said.",
+      "url": "https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0397-1-1152x648-1773442516.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-03-14T00:17:31Z"
     },
     {
-      "title": "Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief - Bloomberg.com",
-      "description": "President Donald Trump and Iran’s new supreme leader both struck defiant tones on the 13th day of the war, offering little relief to energy markets despite fresh US efforts to curb oil prices.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-12/trump-iran-strike-defiant-tone-as-oil-markets-see-little-relief",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5GkyjH3lGbk/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-12T22:09:35Z"
+      "title": "The Iran war's looming economic threat: Higher food prices - NBC News",
+      "description": "The ongoing war in Iran is disrupting fertilizer shipments through the Strait of Hormuz, raising farmers' costs and pushing food prices higher.",
+      "url": "https://www.nbcnews.com/business/consumer/iran-war-fertilizer-prices-food-rcna263336",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260313-supermarket-ch-1016-be1695.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-03-13T22:10:11Z"
     },
     {
-      "title": "Newsom says no imminent threat to California of possible Iran drone attack; White House rejects reports - ABC7 Los Angeles",
-      "description": "California Gov. Gavin Newsom said there was no imminent threat to the state, and Press Secretary Karoline Leavitt said on X, \"No such threat from Iran to our homeland exists, and it never did.\"",
-      "url": "https://abc7.com/post/newsom-says-no-imminent-threat-california-possible-iran-drone-attack-white-house-rejects-reports/18707070/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/17999567_101325-kfsn-newsom-ap-img.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-03-12T21:48:49Z"
+      "title": "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
+      "description": "The announcement appeared to tacitly acknowledge a growing body of evidence that U.S. forces, not Iran, were responsible for the deadly attack.",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/13/hegseth-iran-school-strike/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4JC6LNDSCQI6QM2CN6XLQ4HQBY.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-03-13T22:04:09Z"
     },
     {
-      "title": "'Completely bonkers': Astronomers find evidence of a cataclysmic collision between exoplanets - Space",
-      "description": "\"We were like, 'Hello, what's going on here?'",
-      "url": "https://www.space.com/astronomy/exoplanets/completely-bonkers-astronomers-find-evidence-of-a-cataclysmic-collision-between-planets",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/S8xCJoFb4XgrFZAAmemjPY-1600-80.png",
+      "title": "Explosion shakes Tehran amid state-organised rally after Israeli warning - France 24",
+      "description": "A blast rocked a major pro-Palestinian rally in Tehran on Friday after Israel warned it could target the area, as the nearly two-week war between Israel and Iran escalated across the Middle East. Washington ordered roughly 2,500 additional Marines to the regi…",
+      "url": "https://www.france24.com/en/middle-east/20260313-explosion-shakes-tehran-amid-state-organised-rally-after-israeli-warning",
+      "urlToImage": "https://s.france24.com/media/display/021502ec-1f24-11f1-ba27-005056a90284/w:1280/p:16x9/2026-03-13T122257Z-1513762429-RC2K3KAG87U4-RTRMADP-3-ISRAEL-PALESTINIANS-ALQUDSDAY-IRAN.jpg",
+      "source": "FRANCE 24 English",
+      "publishedAt": "2026-03-13T21:49:38Z"
+    },
+    {
+      "title": "Subpoenas against Fed chair Powell tossed in a scathing opinion - Axios",
+      "description": "The judge accused the Trump administration of using the criminal investigation to pressure the head of the world's most important central bank to lower interest rates.",
+      "url": "https://www.axios.com/2026/03/13/fed-powell-trump-judge",
+      "urlToImage": "https://images.axios.com/7P5e3Hx1RvAxHuhZBp2Ceg-i3Yk=/0x425:4000x2675/1366x768/2026/03/13/1773429899429.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-03-13T21:39:07Z"
+    },
+    {
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing - TechCrunch",
+      "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-13T21:37:01Z"
+    },
+    {
+      "title": "Doja Cat reveals BPD diagnosis while defending Chappell Roan: 'Let her have an attitude' - Entertainment Weekly",
+      "description": "'Need to Know' rapper Doja Cat shared that she wanted to be as honest as the 'Hot to Go!' singer Chappell Roan in a new TikTok.",
+      "url": "https://ew.com/doja-cat-bpd-diagnosis-defends-chappell-roan-11926038",
+      "urlToImage": "https://ew.com/thmb/_hOu_Bankh8o_neeqc65WYQpNws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/doja-cat-97th-Oscars-2025-030425-6442dc0908f64f51a583474b63200ea3.jpg",
+      "source": "Entertainment Weekly",
+      "publishedAt": "2026-03-13T21:13:50Z"
+    },
+    {
+      "title": "Hubble and NASA space telescopes track 'game-changing' gamma-ray burst back to neutron star collision in 'forbidden' region of the universe - Space",
+      "description": "\"We found a collision within a collision. The galaxy collision triggered a wave of star formation that, over hundreds of millions of years, led to the birth and eventual collision of these neutron stars.\"",
+      "url": "https://www.space.com/astronomy/stars/hubble-and-nasa-space-telescopes-track-game-changing-gamma-ray-burst-back-to-neutron-star-collision-in-forbidden-region-of-the-universe",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6vq7zhTsTNyMLJtx9CZCsj-1600-80.png",
       "source": "Space.com",
-      "publishedAt": "2026-03-12T21:00:00Z"
+      "publishedAt": "2026-03-13T21:00:00Z"
     },
     {
-      "title": "Oscars 2026: Inside the A-List Parties and Events (Updating) - The Hollywood Reporter",
-      "description": "All the highlights from Hollywood's biggest and busiest week.",
-      "url": "http://www.hollywoodreporter.com/lists/oscars-2026-inside-parties-and-events/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/2266069385.jpg?crop=0px%2C56px%2C4450px%2C2491px&resize=1440%2C810",
+      "title": "Oscars Predictions via Feinberg Forecast: Scott’s Final Picks - The Hollywood Reporter",
+      "description": "The Hollywood Reporter's executive editor of awards coverage projects that 'One Battle After Another' will lead the field with six wins, followed by four for 'Sinners,' three for 'Frankenstein' and two for 'KPop Demon Hunters.'",
+      "url": "http://www.hollywoodreporter.com/lists/2026-oscar-winner-predictions-feinberg-forecast-awards-show/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Sinners-Hamnet-and-One-Battle-After-Another-Split-Everett-H-2026.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2026-03-12T20:55:57Z"
+      "publishedAt": "2026-03-13T20:57:51Z"
     }
   ]
 }
