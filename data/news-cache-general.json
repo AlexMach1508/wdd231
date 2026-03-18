@@ -1,143 +1,127 @@
 {
-  "updatedAt": "2026-03-17T07:17:08.950Z",
+  "updatedAt": "2026-03-18T07:15:41.945Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Drone strike hits Dubai airport, a major global hub, sparking huge fire - The Washington Post",
-      "description": "Iranian drones have repeatedly hit Dubai International Airport, among the world’s busiest, since the U.S.-Israeli attack on Iran, but Monday’s strike was the largest.",
-      "url": "https://www.washingtonpost.com/world/2026/03/16/dubai-airport-drone-strike-iran/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RRJNUSJUZKFGEMQULZW2X5IGOQ.JPG&w=1440",
+      "title": "Hundreds feared dead in strike on Kabul hospital - Financial Times",
+      "description": "Taliban blames Pakistan for attack that threatens to escalate neighbours’ conflict",
+      "url": "https://www.ft.com/content/da1d82c6-5939-4479-8e7d-71915ab7f520",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48166fcf-eff6-4fb4-9bff-95b320d505cf.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-03-17T05:34:35Z"
+    },
+    {
+      "title": "Judge halts RFK Jr.’s vaccine overhaul, citing flawed process - The Washington Post",
+      "description": "The judge said the government has undermined its history of recognizing the importance of involving independent experts in setting the national public health agenda.",
+      "url": "https://www.washingtonpost.com/health/2026/03/16/rfk-vaccine-policy-blocked-lawsuit/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ANK4LF727AJTYEMAZO2FEGJC5U_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-03-16T08:10:11Z"
+      "publishedAt": "2026-03-17T04:07:19Z"
     },
     {
-      "title": "Fifth member of Iranian women’s soccer team gives up asylum in Australia - AP News",
-      "description": "An official says the Iranian women’s soccer team has yet to reveal plans to leave Malaysia after five of the seven squad members who created a diplomatic furor by accepting asylum in Australia a week ago have rejoined their teammates in Kuala Lumpur. The team…",
-      "url": "https://apnews.com/article/iran-australia-womens-soccer-asylum-bfa42b14841ed4e27490e2664c2d5e69",
-      "urlToImage": "https://dims.apnews.com/dims4/default/925a225/2147483647/strip/true/crop/6341x4225+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F94%2F1ab8d03029abe0b8748c2cf5215b%2F2c817c7d536743338f6cfc651fda8cea",
-      "source": "Associated Press",
-      "publishedAt": "2026-03-16T07:58:00Z"
+      "title": "3 big lineup decisions facing Team USA in Classic final - MLB.com",
+      "description": "Managers often have to pull exactly the right strings to win a big game, and Tuesday’s World Baseball Classic final will be no exception.\nAhead of Team USA’s championship clash with Venezuela at 8 p.m. ET on FOX, U.S. manager Mark DeRosa must make some major …",
+      "url": "https://www.mlb.com/news/key-lineup-decisions-for-team-usa-in-world-baseball-classic-final",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/owug8qmk61vcmqenrvtj.jpg",
+      "source": "MLB.com",
+      "publishedAt": "2026-03-17T03:13:47Z"
     },
     {
-      "title": "UniCredit to strengthen stake in Commerzbank to 30% laying groundwork for potential takeover - CNBC",
-      "description": "UniCredit launched a voluntary takeover offer for Commerzbank on Monday.",
-      "url": "https://www.cnbc.com/2026/03/16/unicredit-strengthens-stake-commerzbank-takeover.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108175535-1753250441684-gettyimages-2225194084-250715emc009_ukaz0ube.jpeg?v=1773645675&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-03-16T07:34:23Z"
+      "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from California - Spaceflight Now",
+      "description": null,
+      "url": "https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/",
+      "urlToImage": null,
+      "source": "Spaceflight Now",
+      "publishedAt": "2026-03-17T03:01:10Z"
     },
     {
-      "title": "One Battle After Another’s big night: Key takeaways from the 2026 Oscars - Al Jazeera",
-      "description": "Paul Thomas Anderson’s political chase film earned six Oscars, beating the vampire thriller Sinners, which scored four.",
-      "url": "https://www.aljazeera.com/news/2026/3/16/one-battle-after-anothers-big-night-key-takeaways-from-the-2026-oscars",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69b793c6e8ba-1773638598.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-16T05:40:42Z"
+      "title": "US embassy in Iraq hit by drone strikes as UAE reopens airspace after missile threats from Iran - BBC",
+      "description": "The attack on the US embassy in Baghdad is described as \"the most intense assault\" since the war broke out while air traffic returns to normal around one of the busiest international transit hubs.",
+      "url": "https://www.bbc.com/news/live/cx2lr40g17kt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eb7/live/621f0b20-21a8-11f1-bebc-a7f36f9d3390.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-03-17T02:35:59Z"
     },
     {
-      "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz - Al Jazeera",
-      "description": "Brent crude tops $106 a barrel as markets see no end in sight to the halt of traffic through the critical waterway.",
-      "url": "https://www.aljazeera.com/economy/2026/3/16/oil-prices-keep-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260314__A39E2WF__v1__MidRes__JapanEconomyOil-1773622227_e3a436-1773627756.jpg?resize=1200%2C630&quality=80",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-16T04:25:03Z"
+      "title": "Iran Update Evening Special Report: March 16, 2026 - Institute for the Study of War",
+      "description": "Supreme Leader Mojtaba Khamenei’s reported inner circle is dominated by long-standing hardline IRGC commanders.",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-16-2026/",
+      "urlToImage": "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp",
+      "source": "Understandingwar.org",
+      "publishedAt": "2026-03-17T02:13:56Z"
     },
     {
-      "title": "CEOs of America's biggest airlines say $0 TSA paychecks during the government shutdown are 'simply unacceptable' - Business Insider",
-      "description": "The CEOs of United Airlines, Delta Air Lines, and other companies called for Congress to pass acts protecting TSA workers during shutdowns.",
-      "url": "https://www.businessinsider.com/airline-ceo-tsa-paycheck-government-shutdown-unacceptable-2026-3",
-      "urlToImage": "https://i.insider.com/69b77485a96e437d6eb85812?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-03-16T04:08:07Z"
+      "title": "Drone Strike Sets UAE Natural Gas Field Ablaze, Abu Dhabi Says - Bloomberg.com",
+      "description": "Iran stepped up attacks on energy infrastructure around the Persian Gulf and set a massive gas field ablaze, adding more pressure to an increasingly fraught global fuel supply situation.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/drone-strike-sets-uae-natural-gas-field-ablaze-abu-dhabi-says",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwWWLfqctiY0/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-03-17T02:09:00Z"
     },
     {
-      "title": "Oscars 2026: Rose Byrne, Zoe Saldaña and Damson Idris Top the Best-Dressed List - The Hollywood Reporter",
-      "description": "Feathers, frock coats and fantastic brooches ruled the red carpet. Here's a ruthless edit of the night's most stylish looks.",
-      "url": "http://www.hollywoodreporter.com/lifestyle/style/best-dressed-stars-oscars-2026-1236533561/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Oscars-2026-Red-Carpet-Best-Dressed-Split-Hero-Teyana-Taylor-Nicole-Kidman-Demi-Moore-H.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-03-16T03:36:56Z"
+      "title": "Taylor Frankie Paul, ex-boyfriend investigated after alleged incident - USA Today",
+      "description": "Police are reportedly looking into an alleged incident involving \"Secret Lives of Mormon Wives\" stars Dakota Mortensen and Taylor Frankie Paul.",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/03/16/taylor-frankie-paul-dakota-mortensen-domestic-violence/89186943007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/16/USAT/89187221007-taylor-frankie-paul-and-dakota-mortensen.jpg?crop=1773,997,x604,y211&width=1773&height=997&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-03-17T02:01:00Z"
     },
     {
-      "title": "'Lost one leg': Iran's new leader Mojtaba Khamenei secretly flown to Russia for surgery, says report - WION",
-      "description": "The \"Fog of War\" surrounding Iran's newly appointed Supreme Leader, Mojtaba Khamenei, is finally lifting, and the reality exposes a deeply vulnerable regime.",
-      "url": "https://www.wionews.com/photos/-mojtaba-khamenei-lost-one-leg-iran-s-new-leader-secretly-flown-to-russia-for-surgery-says-report-1773630442416",
-      "urlToImage": "https://cdn1.wionews.com/prod/wion/images/2026/20260314/image-1773464453930.jpg?imwidth=1200&imheight=900",
-      "source": "WION",
-      "publishedAt": "2026-03-16T03:19:00Z"
+      "title": "‘FBI’: Missy Peregrym Says Maggie Will ‘Never Be the Same’ After Major Loss - TV Insider",
+      "description": "'It was hell,' says Peregrym. She also reveals what she didn't like about the original ending of this episode.",
+      "url": "https://www.tvinsider.com/1252128/fbi-maggie-sister-erin-dead-ray-distefano-missy-peregrym-interview/",
+      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/03/fbi-814-maggie-1420x798.jpg",
+      "source": "TVInsider",
+      "publishedAt": "2026-03-17T02:00:18Z"
     },
     {
-      "title": "Vanity Fair Oscar Party Photos: Best Looks From The Red Carpet - Deadline",
-      "description": "This year marks the 32nd anniversary of the coveted Vanity Fair bash",
-      "url": "https://deadline.com/gallery/vanity-fair-oscar-party-2026/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/tim-kylie.png?w=1024",
+      "title": "YouTuber upgrades MacBook Neo to 1TB, posts ASMR video of the process - 9to5Mac",
+      "description": "YouTube creator DirectorFeng is back with another ASMR-themed video in which they attempt to upgrade the storage on a new Apple device.",
+      "url": "https://9to5mac.com/2026/03/16/youtuber-upgrades-macbook-neo-to-1tb-posts-asmr-video-of-the-process/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbookneo-1tb.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-03-17T01:42:45Z"
+    },
+    {
+      "title": "Cannabis shows little benefit for most mental disorders, data review finds - KSL.com",
+      "description": "Cannabis-based medicines have shown little evidence of effectiveness for treating most mental health ​and substance-use disorders, according to a large review of past studies published Monday.",
+      "url": "https://www.ksl.com/article/51466956/cannabis-shows-little-benefit-for-most-mental-disorders-data-review-finds",
+      "urlToImage": "https://img.ksl.com/slc/3148/314888/31488863.JPG?filter=kslv2/responsive_story_lg",
+      "source": "KSL.com",
+      "publishedAt": "2026-03-17T01:40:20Z"
+    },
+    {
+      "title": "Jane Fonda Asks Why Barbra Streisand Did Robert Redford Oscars Tribute - Deadline",
+      "description": "Jane Fonda playfully commented on Barbra Streisand's tribute to Robert Redford at the 98th Academy Awards Sunday night.",
+      "url": "http://deadline.com/2026/03/jane-fonda-barbra-streisand-robert-redford-oscar-tribute-1236757187/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/Jane-Fonda-at-Vanity-Fair-and-Barbara-Streisand-at-the-Academy-Awards.jpg?w=1024",
       "source": "Deadline",
-      "publishedAt": "2026-03-16T03:08:00Z"
+      "publishedAt": "2026-03-16T23:12:00Z"
     },
     {
-      "title": "2026 printable March Madness women's bracket - ESPN",
-      "description": "Follow along with the 2026 women's basketball tournament using ESPN's printable bracket.",
-      "url": "https://www.espn.com/womens-college-basketball/ncaatourney00/story/_/id/48216486/2026-ncaa-women-tournament-march-madness-printable-brackets-college-basketball",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0315%2Fr1628901_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-03-16T02:50:00Z"
+      "title": "10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors",
+      "description": "Apple refreshed the AirPods Max today, and the main new addition is an H2 chip that replaces the H1 chip. The H2 chip has previously been used in the...",
+      "url": "https://www.macrumors.com/2026/03/16/airpods-max-2-audio-improvements/",
+      "urlToImage": "https://images.macrumors.com/t/7Lw_OuxXYws-tsCrC_o_Q-xdr0Q=/2500x/article-new/2024/10/airpods-max-dark-blue.jpeg",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-16T22:28:21Z"
     },
     {
-      "title": "China’s Economy Gets Off to Better-Than-Forecast Start to Year - Bloomberg.com",
-      "description": "China’s main economic indicators fared better than forecast to start the year, in a sign that momentum was improving before the war in Iran roiled the outlook for global growth and inflation.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/china-s-economy-gets-off-to-better-than-forecast-start-to-year",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEL3DlRw4xsw/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-16T02:33:00Z"
+      "title": "Bombs explode in northeastern Nigeria, leaving scores killed and injured, authorities say - AP News",
+      "description": "Bomb blasts hit Maiduguri in northeastern Nigeria’s Borno state, killing and injuring many people, according to emergency officials. Officials say the explosions happened on Monday night in at least three places. Nigeria’s emergency agency says blasts hit the…",
+      "url": "https://apnews.com/article/nigeria-bombings-boko-haram-borno-maiduguri-2256cebae89370b21930b006c5aa6f6e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7c3e150/2147483647/strip/true/crop/4080x2719+0+177/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2F4a%2F172178bae40a41a7ef366d0dd87a%2Fe0c7d555c7aa4416b8741035b1cfc547",
+      "source": "Associated Press",
+      "publishedAt": "2026-03-16T22:27:00Z"
     },
     {
-      "title": "Trump Leaves Allies and Foes Guessing on Endgame for Iran - Bloomberg.com",
-      "description": "As the US-Israeli war on Iran enters its third week, pressure is growing on the person in the best position to end it: Donald Trump.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-15/trump-leaves-allies-and-foes-guessing-on-his-endgame-for-iran",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iekSgJvkkCTg/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-16T02:06:00Z"
-    },
-    {
-      "title": "Conan O'Brien Oscars Monologue Best Jokes: Timothée Chalamet & More - Variety",
-      "description": "Conan O'Brien opened his Oscar monologue by talking about Timothée Chalamet's recent opera and ballet controversy.",
-      "url": "https://variety.com/2026/awards/news/conan-obrien-oscars-best-jokes-timothee-chalamet-1236686082/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/03/Conan.jpg?crop=0px%2C0px%2C1920px%2C1080px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2026-03-16T00:22:00Z"
-    },
-    {
-      "title": "Wisconsin Department of Transportation urging people to stay off roads - WMTV 15 NEWS",
-      "description": "The Wisconsin Department of Transportation is urging people to stay home and limit travel to only emergencies during the current winter storm.",
-      "url": "https://www.wmtv15news.com/2026/03/15/wisconsin-department-transportation-urging-people-stay-off-roads/",
-      "urlToImage": "https://gray-wmtv-prod.gtv-cdn.com/resizer/v2/QJMP46E3XZC35OXHZ3MPYGHPCE.jpg?auth=0e51420d2d1f0b98ed9c029957eba13611d8e922e8e32c9efe491f5b1db928c8&width=1200&height=600&smart=true",
-      "source": "Wmtv15news.com",
-      "publishedAt": "2026-03-15T23:38:00Z"
-    },
-    {
-      "title": "‘Very rare’ severe weather threat prompts statewide warning in North Carolina - WECT",
-      "description": "North Carolina officials are urging residents statewide to prepare for severe weather after the National Weather Service issued a rare Level 4 Moderate Risk for parts of the state.",
-      "url": "https://www.wect.com/2026/03/15/very-rare-severe-weather-threat-prompts-statewide-warning-north-carolina/",
-      "urlToImage": "https://gray-wect-prod.gtv-cdn.com/resizer/v2/S7HSDGQEZRGK5F7HRPOGZIORUM.jpg?auth=b4194c3bd0e1c52043b3ec5012b8bcdc89f969602e7c4b2896ec23454240c456&width=1200&height=600&smart=false&focal=643%2C327",
-      "source": "WECT",
-      "publishedAt": "2026-03-15T23:10:28Z"
-    },
-    {
-      "title": "Starcloud files plans for 88,000-satellite constellation - SpaceNews",
-      "description": "An orbital data center startup is seeking approval from the Federal Communications Commission for a constellation of as many as 88,000 satellites.",
-      "url": "http://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg",
-      "source": "SpaceNews",
-      "publishedAt": "2026-03-15T22:32:15Z"
-    },
-    {
-      "title": "Selection Sunday: Duke No. 1 overall in men's tournament, UConn women get top seed - NPR",
-      "description": "Duke will be the top overall seed in the men's NCAA basketball tournament. In the women's, the top-ranked UConn Huskies are undefeated and hope to repeat as champions for the first time in a decade.",
-      "url": "https://www.npr.org/2026/03/15/g-s1-113846/selection-sunday-march-madness-duke-uconn-ucla",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5943x3343+0+310/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2F35%2Ff42bb77f42fb9d6a26ec1fdfde92%2Fgettyimages-2266559685.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-03-15T21:09:34Z"
+      "title": "Supreme Court to hear arguments over push to end legal protections for migrants from Haiti, Syria - AP News",
+      "description": "The Supreme Court will hear arguments over the Trump administration’s push to end legal protections for people fleeing war and natural disaster from countries around the world, including Haiti and Syria. The justices refused to immediately lift the protection…",
+      "url": "https://apnews.com/article/supreme-court-migrant-protections-haiti-syria-3b3f42bffff1ca2c3a4e8ec5fc9f1765",
+      "urlToImage": "https://dims.apnews.com/dims4/default/96c9178/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2F07%2Fe88b9b5a8deefebcb528872923af%2F9107886e7fb44b3faea34d2cb3ae2065",
+      "source": "Associated Press",
+      "publishedAt": "2026-03-16T22:08:00Z"
     }
   ]
 }

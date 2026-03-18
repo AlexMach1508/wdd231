@@ -1,127 +1,143 @@
 {
-  "updatedAt": "2026-03-17T07:17:09.109Z",
+  "updatedAt": "2026-03-18T07:15:42.092Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "UniCredit to strengthen stake in Commerzbank to 30% laying groundwork for potential takeover - CNBC",
-      "description": "UniCredit launched a voluntary takeover offer for Commerzbank on Monday.",
-      "url": "https://www.cnbc.com/2026/03/16/unicredit-strengthens-stake-commerzbank-takeover.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108175535-1753250441684-gettyimages-2225194084-250715emc009_ukaz0ube.jpeg?v=1773645675&w=1920&h=1080",
+      "title": "S&P 500 futures fall after major averages rebound on easing oil prices: Live updates - CNBC",
+      "description": "Each of the 11 S&P sectors closed higher in Monday's regular session, led by gains in tech.",
+      "url": "https://www.cnbc.com/2026/03/16/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108278532-1773686704319-gettyimages-2266445218-US_STOCKS.jpeg?v=1773686751&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-03-16T07:34:23Z"
+      "publishedAt": "2026-03-17T05:24:00Z"
     },
     {
-      "title": "The billionaires made a promise — now some want out - TechCrunch",
-      "description": "In 2010, Warren Buffett and Bill Gates launched a disarmingly simple campaign they called the Giving Pledge: a public commitment, open to the world's",
-      "url": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1167010571.jpg?resize=1200,800",
+      "title": "Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks - CNBC",
+      "description": "The 25 basis points hike was in line with expectations from analysts polled by Reuters",
+      "url": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204841-1759114332631-gettyimages-2223441276-AUSTRALIA_BULLOCK.jpeg?v=1759114345&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-03-17T03:34:00Z"
+    },
+    {
+      "title": "Asia stocks advance tracking US tech gains; Iran conflict, RBA decision in focus - Investing.com",
+      "description": "Asia stocks advance tracking US tech gains; Iran conflict, RBA rate hike in focus",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-advance-tracking-us-tech-gains-iran-conflict-rba-decision-in-focus-4564498",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB0Q00K_L.jpg",
+      "source": "Investing.com",
+      "publishedAt": "2026-03-17T03:16:18Z"
+    },
+    {
+      "title": "Bitcoin price: BTC surges past $75,000, XRP (XRP) and ether (ETH) jump 8% - CoinDesk",
+      "description": "Bitcoin's move, led by unwinding of shorts, has lifted the broader crypto market, with the CoinDesk 20 Index up 5%.",
+      "url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/63a84be0e44cdafa5a9c41fdf3dc3aa1f9ee62b2-2850x1070.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-17T01:56:58Z"
+    },
+    {
+      "title": "Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material - NPR",
+      "description": "The three girls say that the nonconsensual nude images were created by a perpetrator who used AI company xAI's image generation tools.",
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7983x4490+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2Fc5%2F8120f5224928a37e1cded839faf5%2Fgettyimages-2255390636.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-03-17T01:02:37Z"
+    },
+    {
+      "title": "CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court - 404 Media",
+      "description": "The CEO of Krafton used ChatGPT to push out the head of the studio developing Subnautica 2 against the advice of his own legal team and failed miserably.",
+      "url": "https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/",
+      "urlToImage": "https://www.404media.co/content/images/size/w1200/2026/03/CleanShot-2026-03-16-at-15.39.04@2x.png",
+      "source": "404media.co",
+      "publishedAt": "2026-03-17T00:55:20Z"
+    },
+    {
+      "title": "The Live Nation trial restarts with a ‘velvet hammer’ - The Verge",
+      "description": "States’ case against Live Nation-Ticketmaster resumed in court Monday after the Justice Department announced it had settled its claims last week.",
+      "url": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257604_ticketmaster_antitrust_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-03-17T00:08:00Z"
+    },
+    {
+      "title": "David Zaslav to Receive More Than $550 Million in Compensation Related to Warner Bros.-Paramount Merger - Variety",
+      "description": "David Zaslav is set to receive at least $550 million in compensation with the closing of Paramount Skydance's deal to buy Warner Bros. Discovery.",
+      "url": "https://variety.com/2026/biz/news/david-zaslav-pay-warner-bros-paramount-merger-1236690521/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/David-Zaslav.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-03-16T23:02:00Z"
+    },
+    {
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security - TechCrunch",
+      "description": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
       "source": "TechCrunch",
-      "publishedAt": "2026-03-16T04:40:24Z"
+      "publishedAt": "2026-03-16T22:45:51Z"
     },
     {
-      "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz - Al Jazeera",
-      "description": "Brent crude tops $106 a barrel as markets see no end in sight to the halt of traffic through the critical waterway.",
-      "url": "https://www.aljazeera.com/economy/2026/3/16/oil-prices-keep-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260314__A39E2WF__v1__MidRes__JapanEconomyOil-1773622227_e3a436-1773627756.jpg?resize=1200%2C630&quality=80",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-16T04:25:03Z"
+      "title": "BMW accidentally leaks new i3 EV days before its debut [Images] - Electrek",
+      "description": "The new i3 will make its official debut in two days, but we are already getting a look at it...",
+      "url": "http://electrek.co/2026/03/16/bmw-leaks-new-i3-ev-days-before-debut-images/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/03/BMW-leaks-new-i3-EV.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2026-03-16T21:43:00Z"
     },
     {
-      "title": "Japan warns ready to take decisive action on FX - ramps up verbal intervention on yen - investingLive",
-      "description": "Japan warned it is ready to take decisive action on currency volatility as authorities intensify monitoring of foreign exchange markets.",
-      "url": "https://investinglive.com/centralbank/japan-warns-ready-to-take-decisive-action-on-fx-ramps-up-verbal-intervention-on-yen-20260316/",
-      "urlToImage": "https://images.investinglive.com/images/usdyen%20verbal%20intervention%2016%20March%202026_id_6b159d70-d96b-41b1-8b8b-54f93e7e9ae3_size975.jpg",
-      "source": "Investinglive.com",
-      "publishedAt": "2026-03-16T03:32:27Z"
+      "title": "Jensen Huang just put Nvidia's Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere - TechCrunch",
+      "description": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-2026-getty.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-16T21:41:37Z"
     },
     {
-      "title": "Goldman Sachs Sees S&P 500 Rising to 7600 as Earnings Growth Drives Market (SP500:) - Seeking Alpha",
-      "description": "Goldman Sachs sees S&P 500 hitting 7,600 by end-2026 on earnings growth, tech leadership and steady GDP.",
-      "url": "https://seekingalpha.com/news/4564598-goldman-sachs-sees-s-and-p-500-rising-to-7600-as-earnings-growth-drives-market",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1627645232/image_1627645232.jpg?io=getty-c-w630",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-03-16T02:33:04Z"
+      "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts? - MarketWatch",
+      "description": "Ed Yardeni points out that analysts have continued to raise their profitability forecasts, which might be helping U.S. stocks shake off worst of the blowback from Iran conflict",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-have-been-surprisingly-resilient-as-the-iran-conflict-threatens-global-economic-disruption-thank-industry-analysts-fba3b2ca",
+      "urlToImage": "https://images.mktw.net/im-00656557/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-03-16T21:28:00Z"
     },
     {
-      "title": "China’s Economy Gets Off to Better-Than-Forecast Start to Year - Bloomberg.com",
-      "description": "China’s main economic indicators fared better than forecast to start the year, in a sign that momentum was improving before the war in Iran roiled the outlook for global growth and inflation.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-16/china-s-economy-gets-off-to-better-than-forecast-start-to-year",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEL3DlRw4xsw/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-16T02:33:00Z"
+      "title": "BYD, Geely, Isuzu and Nissan Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles - NVIDIA Newsroom",
+      "description": "NVIDIA today announced that NVIDIA DRIVE Hyperion™ platform adoption is growing expansively, including with global automakers BYD, Geely, Isuzu and Nissan, as well as leading mobility providers — reflecting rapid momentum toward safe, scalable autonomous vehi…",
+      "url": "http://nvidianews.nvidia.com/news/drive-hyperion-level-4",
+      "urlToImage": "https://iprsoftwaremedia.com/219/files/202603/69b739b43d633235f074de14_drive-hyperion-l4/drive-hyperion-l4_9fcddc20-04bc-4625-a681-08cd5c26a3e5-prv.jpg",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-03-16T20:33:33Z"
     },
     {
-      "title": "Tech companies are blaming massive layoffs on AI. What’s really going on? - The Conversation",
-      "description": "Amazon, Block and Atlassian have announced AI-driven job cuts, and Meta is reportedly planning its own – but all may not be as it seems.",
-      "url": "https://theconversation.com/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on-278314",
-      "urlToImage": "https://images.theconversation.com/files/723920/original/file-20260316-57-k32i4y.png?ixlib=rb-4.1.0&rect=0%2C288%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-03-16T02:33:00Z"
-    },
-    {
-      "title": "Stock futures rise slightly as oil hovers at $100 with S&P 500 on 3-week losing streak: Live updates - CNBC",
-      "description": "The moves come after the S&P 500 notched its third losing week in a row and closed at its lowest level of the year on Friday.",
-      "url": "https://www.cnbc.com/2026/03/15/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108276080-1773155599796-gettyimages-2265777512-mms11164_id1yg9pu.jpeg?v=1773581348&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-03-16T02:15:00Z"
-    },
-    {
-      "title": "You need to stop using Claude like it's ChatGPT and instead use these prompts to unlock its true potential - supercarblondie.com",
-      "description": "If you’ve recently made the switch from ChatGPT to Claude, but you’re still using the same sort of prompts, then you might not be getting the most out of it",
-      "url": "https://supercarblondie.com/tech/stop-using-claude-like-chatgpt-use-these-prompts/",
-      "urlToImage": "https://supercarblondie.com/wp-content/uploads/claude-2.webp",
-      "source": "Supercarblondie.com",
-      "publishedAt": "2026-03-16T02:01:00Z"
-    },
-    {
-      "title": "Oil Supplies in Focus Ahead of Stock, Bond Open: Markets Wrap - Bloomberg.com",
-      "description": "US and European stock index futures rose after crude oil gave up part of its early surge as President Donald Trump raised pressure on nations to help reopen the Strait of Hormuz and said the US was talking to Iran.",
+      "title": "Oil Declines, Giving Stocks and Bonds a Boost: Markets Wrap - Bloomberg.com",
+      "description": "A slide in oil prices lifted stocks and bonds on hopes that more tankers will be able to traverse the Strait of Hormuz, with signals that rich nations could release more stockpiles also helping sentiment.",
       "url": "https://www.bloomberg.com/news/articles/2026-03-15/oil-supplies-in-focus-ahead-of-stock-bond-open-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIrj4KRcpJFw/v1/1200x800.jpg",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is5AC1EXlBm8/v0/1200x675.png",
       "source": "Bloomberg",
-      "publishedAt": "2026-03-16T01:00:00Z"
+      "publishedAt": "2026-03-16T20:10:30Z"
     },
     {
-      "title": "People turn to private health care to beat NHS waits, says watchdog - BBC",
-      "description": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
-      "url": "https://www.bbc.com/news/articles/cn4892wnv2zo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-03-16T00:35:08Z"
+      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
+      "description": "NVIDIA today announced that its latest accelerated computing platforms are unlocking a new era of space innovation, bringing AI compute to orbital data centers (ODCs), geospatial intelligence and autonomous space operations.",
+      "url": "http://nvidianews.nvidia.com/news/space-computing",
+      "urlToImage": "https://iprsoftwaremedia.com/219/files/202603/69b739773d6332360e74de41_space-computing/space-computing_d121f37c-8b1e-4784-a44c-0ecb710c4a3a-prv.jpg",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-03-16T20:08:33Z"
     },
     {
-      "title": "Munitions Metal Tungsten Outshines Gold, Copper in 557% Rally - Bloomberg.com",
-      "description": "A metal used in weapons and semiconductors is finding itself the subject of geopolitical tensions as Chinese export limits and rising military demand squeeze supplies, sending prices to record highs.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-15/munitions-metal-tungsten-outshines-gold-copper-in-557-rally",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5Is74ovPV2Y/v6/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-15T23:48:42Z"
+      "title": "Feds Tell 97 Car Dealerships To Knock It Off With The Hidden Fees Already - Jalopnik",
+      "description": "Many dealerships tack on ridiculous, expensive nonsense to the end of your price, like advertising fees, nitrogen tire inflation, and dealer prep fees.",
+      "url": "https://www.jalopnik.com/2124372/feds-97-car-dealerships-hidden-fees/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/feds-tell-97-car-dealerships-to-knock-it-off-with-the-hidden-fees-already/l-intro-1773673318.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-03-16T20:05:00Z"
     },
     {
-      "title": "11 Famous Brands Behind Walmart's Great Value Products - The Takeout",
-      "description": "Walmart's Great Value products live up to their name, considering many are produced by manufacturers behind famous name brands. Read on to discover which.",
-      "url": "https://www.thetakeout.com/2120393/famous-brands-behind-walmart-great-value-products/",
-      "urlToImage": "https://www.thetakeout.com/img/gallery/11-famous-brands-behind-walmarts-great-value-products/l-intro-1773173537.jpg",
-      "source": "The Takeout",
-      "publishedAt": "2026-03-15T23:40:00Z"
-    },
-    {
-      "title": "Prime Video will restrict basic users to HD streaming - Mashable",
-      "description": "Is Amazon's new Prime Video Ultra subscription worth it? It depends on how much you value 4K streaming.",
-      "url": "https://mashable.com/article/amazon-introduces-new-ultra-tier-for-prime-video",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02HIdozY80tKBielxRJWz1z/hero-image.fill.size_1200x675.v1773600608.png",
-      "source": "Mashable",
-      "publishedAt": "2026-03-15T22:18:45Z"
-    },
-    {
-      "title": "Exclusive | Oil Industry Warns Trump Administration That Fuel Crunch Will Likely Worsen - WSJ",
-      "description": "Oil executives told officials in White House meetings the closure of the Strait of Hormuz may push up oil prices further",
-      "url": "https://www.wsj.com/business/energy-oil/oil-industry-warns-trump-administration-energy-crisis-will-likely-worsen-0a5c8b1a",
-      "urlToImage": "https://images.wsj.net/im-76885460/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-03-15T22:00:00Z"
+      "title": "NVIDIA launches Vera CPU and Vera Rubin Platform for Agentic AI - VideoCardz.com",
+      "description": "NVIDIA Announces Vera CPU With 88 cores, Rubin Platform follows NVIDIA has announced the Vera CPU alongside its Vera Rubin platform at GTC 2026, combining",
+      "url": "https://videocardz.com/newz/nvidia-launches-vera-cpu-and-vera-rubin-platform-for-agentic-ai",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/03/NVIDIA-RUBIN-HERO5.jpg",
+      "source": "Videocardz.com",
+      "publishedAt": "2026-03-16T20:04:00Z"
     }
   ]
 }
