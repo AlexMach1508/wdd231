@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-03-20T07:09:57.924Z",
+  "updatedAt": "2026-03-21T06:59:25.407Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "By Director Mr. Sakurai, Kirby Air Riders: Development Insights — Part 4 - nintendo.com",
-      "description": "Join Kirby Air Riders director Masahiro Sakurai as he shares insights into the development and details behind some of the game's modes and features. Check out the rest of the interview Part 1: Air Ride and Top Ride Part 2: Cramming everything into S…",
-      "url": "https://www.nintendo.com/us/whatsnew/by-director-mr-sakurai-kirby-air-riders-development-insights-part-4/",
+      "title": "Crimson Desert Day One Update Goes Live in Full on PC, in Part on Console — Check Out the Patch Notes - IGN",
+      "description": "Crimson Desert has launched across all platforms, and with it comes a day one update that makes some significant improvements to the game, some balance changes, and various fixes. Pearl Abyss recommended players download the patch “for the best experience.” C…",
+      "url": "https://www.ign.com/articles/crimson-desert-day-one-update-goes-live-in-full-on-pc-in-part-on-console-check-out-the-patch-notes",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/19/cd-main-1773960325692.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-03-19T23:05:43Z"
+    },
+    {
+      "title": "User Grabs iBuyPower Gaming PC With Ryzen 9800X3D-RTX 5070 Combo, 32 GB RAM And 2 TB SSD For Just $1000 - Wccftech",
+      "description": "Redditor scores an iBuyPower gaming PC at Costco for $1000, featuring Ryzen 7 9800X3D and RTX 5070, worth nearly $2500",
+      "url": "https://wccftech.com/user-grabs-ibuypower-gaming-pc-with-ryzen-9800x3d-rtx-5070-combo-32-gb-ram-and-2-tb-ssd-for-just-1000/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/03/Costco-iBuypower-gaming-PC-deal.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2026-03-19T22:53:00Z"
+    },
+    {
+      "title": "Xbox's Starfield Rockets to the Top of the PS5's Pre-Order Charts - Push Square",
+      "description": "To infinity and beyond",
+      "url": "https://www.pushsquare.com/news/2026/03/xboxs-starfield-rockets-to-the-top-of-the-ps5s-pre-order-charts",
+      "urlToImage": "https://images.pushsquare.com/ecd3e89aac41c/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-03-19T21:00:00Z"
+    },
+    {
+      "title": "Switch 2 Handheld Boost Mode Battery Life Sucks But Is Worth It - Kotaku",
+      "description": "Handheld Boost Mode is breathing new life into old Switch games",
+      "url": "https://kotaku.com/switch-2-handheld-boost-mode-battery-life-xenoblade-2000680392",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/03/switch-2s-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-03-19T20:34:43Z"
+    },
+    {
+      "title": "The Big Backlash Against Nvidia’s DLSS 5 ‘AI Slop Filter,’ Explained - Forbes",
+      "description": "Nvidia’s DLSS 5 graphics upgrade sparked backlash, memes and mockery, with gamers rejecting the proposed “AI slop” filter.",
+      "url": "https://www.forbes.com/sites/danidiplacido/2026/03/19/gamers-rebel-against-nvidias-dlss-5-ai-slop-filter/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69bc5571da4eadc493e16590/0x0.jpg?format=jpg&crop=741,417,x861,y54,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-03-19T20:17:59Z"
+    },
+    {
+      "title": "Steam Spring Sale 2026 Recommendations For Steam Deck - Part 1 - Steam Deck HQ",
+      "description": "The Steam Spring Sale is here, so let's go over some of the best discounted games to add to your Steam Deck libraries.",
+      "url": "https://steamdeckhq.com/news/steam-spring-sale-2026-steam-deck-part-1/",
+      "urlToImage": "https://steamdeckhq.com/wp-content/uploads/2026/03/Screenshot_19-3-2026_122351_store.steampowered.com_-1.webp",
+      "source": "Steamdeckhq.com",
+      "publishedAt": "2026-03-19T19:28:04Z"
+    },
+    {
+      "title": "Analyst: Foldable iPhone Likely to Ship in December, iPhone 18 Plus is Possible Next Year - MacRumors",
+      "description": "In a research note for investment bank Barclays earlier this month, Apple analyst Tim Long said his supply chain sources mentioned the possibility of...",
+      "url": "https://www.macrumors.com/2026/03/19/foldable-iphone-december-shipping-rumor/",
+      "urlToImage": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-19T19:27:53Z"
+    },
+    {
+      "title": "Everything New In Fortnite Chapter 7 Season 2 - GameSpot",
+      "description": "Bugs Bunny just stumbled into a grudge match between Dwayne \"The Foundation\" Johnson and the Ice King.",
+      "url": "https://www.gamespot.com/gallery/everything-new-in-fortnite-chapter-7-season-2/2900-7621/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1757/17577455/4668287-fortnitec7s2keyartwords.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-03-19T19:17:13Z"
+    },
+    {
+      "title": "Firefox Is Adding a Free Built-In VPN. Here's What It Means for You - CNET",
+      "description": "Mozilla sets a release date for its next version of Firefox, which will include a free VPN service and a new split-screen tab mode.",
+      "url": "https://www.cnet.com/tech/services-and-software/firefoxs-free-built-in-browser-vpn/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/54634549615eccfe93d75868b49c0905837f7854/hub/2026/03/19/21acb708-f680-42d5-91ae-3be73d1746de/distilled-featurelaunch-vpn-02-1024x576.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2026-03-19T18:58:00Z"
+    },
+    {
+      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security - The Hacker News",
+      "description": "54 EDR killers exploit 34 vulnerable drivers via BYOVD, gaining kernel access to disable defenses, increasing ransomware success rates.",
+      "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIi1shGpEknr4-CSa7F-hGXgqRLy4TeRhG2CLzUE9WOs7c-XA-TRmAFhxGmJePCWAjYzRvtRW5ukvGvKluq5hOfv8F8QmzqTUxVjElk6zf3ovVxZIvqUdn1A2Z02kv7t8efDgyyZEUljfWZRxOZqAynFB92c66-ywA8vxkCUXiJ75g4U2vJUlOlzblxU_z/s1600/edr.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-03-19T18:52:00Z"
+    },
+    {
+      "title": "Apple Urges iPhone Users Running Outdated iOS Versions to Update Immediately - MacRumors",
+      "description": "Apple today urged iPhone users who are running iOS 13 or iOS 14 to upgrade to iOS 15 to protect themselves from being hacked through malicious web...",
+      "url": "https://www.macrumors.com/2026/03/19/apple-outdated-ios-update-warning/",
+      "urlToImage": "https://images.macrumors.com/t/9wmJf3U0aC0SUy0xxYM8bKaMyrk=/1896x/article-new/2026/01/iphonelineupguide-gradient-background.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-19T17:41:37Z"
+    },
+    {
+      "title": "\"It could be confusing\" - US game age ratings won't change like they will in Europe, ESRB says - Eurogamer",
+      "description": "PEGI is making big changes to Euro game ratings this summer, to factor in things like paid in-game purchases. US age ratings body ESRB it won't do the same",
+      "url": "https://www.eurogamer.net/esrb-pegi-age-rating-changes",
+      "urlToImage": "https://assetsio.gnwcdn.com/esrb-ratings.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-03-19T17:35:37Z"
+    },
+    {
+      "title": "Google introduces a new way for users to sideload Android apps that still protects against scams - TechCrunch",
+      "description": "Google is making Android sideloading easier with a new advanced setting that lets users disable app verification after a multistep security process.",
+      "url": "https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/google-play-store-getty.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-19T17:00:00Z"
+    },
+    {
+      "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo - Ars Technica",
+      "description": "8GB unified memory is the minimum practical configuration.\"",
+      "url": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3670-1-1152x648.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-03-19T16:50:10Z"
+    },
+    {
+      "title": "Nintendo brings hands-on Nintendo Switch 2 gameplay experiences featuring Mario and Pokémon to PAX East 2026 - Nintendo",
+      "description": "From March 26 to 29, Nintendo is bringing some of the latest Nintendo Switch 2 game experiences to Boston’s Thomas M. Menino Convention & Exhibition Center. Celebrate the launch of the Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in…",
+      "url": "https://www.nintendo.com/us/whatsnew/nintendo-brings-hands-on-nintendo-switch-2-gameplay-experiences-featuring-mario-and-pokemon-to-pax-east-2026/",
       "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "source": "Nintendo.com",
-      "publishedAt": "2026-03-19T01:01:07Z"
+      "publishedAt": "2026-03-19T16:44:57Z"
     },
     {
-      "title": "Hackers target millions of iPhones with new DarkSword spyware - Mashable",
-      "description": "The exploit doesn't even require anything to be downloaded on a victim's iPhone.",
-      "url": "https://mashable.com/article/hackers-target-apple-iphone-darksword-spyware",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04eScefKFToFkxf4fITRb1j/hero-image.fill.size_1200x675.v1773865540.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-03-18T22:32:13Z"
-    },
-    {
-      "title": "Nintendo seems to have improved GameCube emulation on Switch 2 - Nintendo Everything",
-      "description": "New improvements to the GameCube app on Nintendo Switch 2 app have now been discovered.",
-      "url": "https://nintendoeverything.com/nintendo-seems-to-have-improved-gamecube-emulation-on-switch-2/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/GameCube-Switch-2-improvements.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-03-18T22:14:11Z"
-    },
-    {
-      "title": "New Cyberpunk TCG becomes the most-funded TCG game in Kickstarter history | News-in-brief - GamesIndustry.biz",
-      "description": "The resource for people who make and sell games.",
-      "url": "https://www.gamesindustry.biz/new-cyberpunk-tcg-becomes-the-most-funded-tcg-game-in-kickstarter-history-news-in-brief",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-03-18-at-20.57.23.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2026-03-18T21:00:36Z"
-    },
-    {
-      "title": "Devolver Digital and doinksoft announce fantasy action platformer Dark Scrolls for Switch, PC - Gematsu",
-      "description": "Publisher Devolver Digital and developer doinksoft have announced Dark Scrolls, a fantasy-themed side-scrolling action platformer that “fuses shoot ’em up-style chaos with roguelite pro…",
-      "url": "https://www.gematsu.com/2026/03/devolver-digital-and-doinksoft-announce-fantasy-action-platformer-dark-scrolls-for-switch-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/03/Dark-Scrolls-Announced_03-18-26.jpg",
+      "title": "Basketball Classics now available for Xbox Series, PS4, Xbox One, and Switch - Gematsu",
+      "description": "8-bit basketball game Basketball Classics is now available for Xbox Series, PlayStation 4, Xbox One, and Switch for $9.99 with a 10 percent-off launch discount, publisher Acclaim and developer Namo…",
+      "url": "https://www.gematsu.com/2026/03/basketball-classics-now-available-for-xbox-series-ps4-xbox-one-and-switch",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/03/Basketball-Classics-Consoles_03-19-26.jpg",
       "source": "Gematsu",
-      "publishedAt": "2026-03-18T19:04:51Z"
+      "publishedAt": "2026-03-19T16:01:03Z"
     },
     {
-      "title": "A private space company has a radical new plan to bag an asteroid - Ars Technica",
-      "description": "Company has previously tested its technology on the International Space Station.",
-      "url": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-03-18T19:00:40Z"
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+      "url": "https://www.marvelrivals.com/balancepost/20260319/41667_1292065.html",
+      "urlToImage": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "source": "Marvelrivals.com",
+      "publishedAt": "2026-03-19T15:05:21Z"
     },
     {
-      "title": "Apple highlights 13 enhancements coming to iPhone with iOS 26.4 - 9to5Mac",
-      "description": "Apple has released the first iOS 26.4 RC build, highlighting 13 enhancements coming to your iPhone, and that means three...",
-      "url": "https://9to5mac.com/2026/03/18/apple-highlights-13-enhancements-coming-to-iphone-with-ios-26-4/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-hero-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-03-18T18:27:00Z"
-    },
-    {
-      "title": "Sony Reportedly Issuing Automatic Refunds for Additional Content Bought for Short-Lived Live Service, Highguard - IGN",
-      "description": "Sony is issuing automatic refunds to players who paid for additional content in Highguard.",
-      "url": "https://www.ign.com/articles/sony-reportedly-issuing-automatic-refunds-for-additional-content-bought-for-short-lived-live-service-highguard",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/18/ss-c441bff8b21e97cd5f241128b494ec5e38114369-1920x1080-1773827492033.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-03-18T17:59:47Z"
-    },
-    {
-      "title": "Don't Expect Crimson Desert Xbox Series X or S Gameplay Footage Before Launch - IGN",
-      "description": "Crimson Desert developer and publisher Pearl Abyss won’t show gameplay footage of the Xbox Series X and S version ahead of its March 19 release date.",
-      "url": "https://www.ign.com/articles/dont-expect-crimson-desert-xbox-series-x-or-s-gameplay-footage-before-launch",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/18/crimson-desert-1773856570111.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-03-18T17:57:11Z"
-    },
-    {
-      "title": "Shinobi: Art Of Vengeance 'SEGA Villains Stage' DLC Arrives Next Month - Nintendo Life",
-      "description": "Three familiar faces join the fight",
-      "url": "https://www.nintendolife.com/news/2026/03/shinobi-art-of-vengeance-sega-villains-stage-dlc-arrives-next-month",
-      "urlToImage": "https://images.nintendolife.com/d07c6d394c31c/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-03-18T17:30:00Z"
-    },
-    {
-      "title": "AirPods Max 2 are here, but rumors say a bigger overhaul might be coming - 9to5Mac",
-      "description": "Apple unveiled AirPods Max 2 earlier this week, but you should know that rumors indicate another new model might be coming next year.",
-      "url": "https://9to5mac.com/2026/03/18/airpods-max-2-are-here-but-rumors-say-a-bigger-overhaul-might-be-coming/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/airpods-max-usbc-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-03-18T16:05:00Z"
-    },
-    {
-      "title": "Double Fine’s Pottery Party Brawler Kiln Arrives April 23 (Plus a Direct Look at the First Public Play Sessions) - Xbox Wire",
-      "description": "Kiln arrives on April 23! Read on for beta details and our observations of the first public play sessions:",
-      "url": "https://news.xbox.com/en-us/2026/03/18/kiln-release-date/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/Kiln_KeyArt_Master_RGB_FINAL-v260114-d1fc965560069cc65cec.jpg",
+      "title": "Free Play Days – Sea of Thieves, Totally Reliable Delivery Service, Trailmakers, Hell Let Loose and Firefighting Simulator: Ignite - Xbox Wire",
+      "description": "Free Play Days - hop into Sea of Thieves, Totally Reliable Delivery Service, Trailmakers, Hell Let Loose and Firefighting Simulator: Ignite this weekend.",
+      "url": "https://news.xbox.com/en-us/2026/03/19/free-play-days-03-19-2026/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/FY26-FreePlayDays_03-19-2026_1920x1080-5shot-2060ca6db3ee1f79e4af.jpg",
       "source": "Xbox.com",
-      "publishedAt": "2026-03-18T16:04:02Z"
+      "publishedAt": "2026-03-19T15:01:25Z"
     },
     {
-      "title": "Share In The Incredible Moment An Indie Dev Discovers His Game Made $250,000 - Kotaku",
-      "description": "Tangy TD developer Cakez livestreamed the moment he looked at his game's income",
-      "url": "https://kotaku.com/tangy-td-cakez-twitch-steam-pc-indie-success-story-2000679960",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/03/tangytd.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-03-18T15:45:16Z"
+      "title": "Tinder Plans to Let AI Scan Your Camera Roll - 404 Media",
+      "description": "In a feature the dating app says is set to roll out in the U.S. later this spring, Tinder plans to access users' camera rolls to pick photos and determine what they're into.",
+      "url": "https://www.404media.co/tinder-plans-to-let-ai-scan-your-camera-roll/",
+      "urlToImage": "https://www.404media.co/content/images/size/w1200/2026/03/photo-1644446271703-970d7c1e3203-1.jpeg",
+      "source": "404media.co",
+      "publishedAt": "2026-03-19T14:45:51Z"
     },
     {
-      "title": "Available for Xbox Insiders: More Groups on Home, Custom User Colors, Quick Resume Settings, and More - Xbox Wire",
-      "description": null,
-      "url": "https://news.xbox.com/en-us/2026/03/18/xbox-insiders-april-2026-console-features/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/1-Hero-Comp-d56396749b81882b85a2.png",
-      "source": "Xbox.com",
-      "publishedAt": "2026-03-18T15:03:09Z"
-    },
-    {
-      "title": "Captain Tsubasa II: World Fighters ‘Systems’ trailer - Gematsu",
-      "description": "Publisher Bandai Namco and developer Tamsoft have released a new traler for Captain Tsubasa II: World Fighters introducing the game’ systems.",
-      "url": "https://www.gematsu.com/2026/03/captain-tsubasa-ii-world-fighters-systems-trailer",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/03/Captain-Tsubasa-2-PV_03-18-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-03-18T14:12:39Z"
-    },
-    {
-      "title": "Here’s The Release Time For ‘Fortnite’ Chapter 7, Season 2: Showdown - Forbes",
-      "description": "Fortnite Chapter 7 season 2 is about to arrive, and here's the release time, along with some of the things we know are coming.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/03/18/heres-the-release-time-for-fortnite-chapter-7-season-2-showdown/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69baac62463dda98fd54c570/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-03-18T13:47:53Z"
-    },
-    {
-      "title": "DLSS 5: Has Nvidia’s AI graphics technology gone too far? - The Verge",
-      "description": "Nvidia’s new DLSS 5 technology uses AI to “achieve photorealism” by adjusting a game’s look in real-time, but so far a lot of gamers don’t like it.",
-      "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-03-18T13:32:19Z"
-    },
-    {
-      "title": "MacBook Neo is just fine with 4K video editing and 59 Chrome tabs - 9to5Mac",
-      "description": "Sam Henri Gold last week wrote a rather sweet blog post about the difference between advice from tech reviewers and...",
-      "url": "https://9to5mac.com/2026/03/18/macbook-neo-is-just-fine-with-4k-video-editing-and-59-chrome-tabs/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-03-18T13:16:00Z"
-    },
-    {
-      "title": "Microsoft 365 pauses Copilot creep after admins cry foul - theregister.com",
-      "description": ": Automatic deployment of Redmond's assistant halted for now",
-      "url": "https://www.theregister.com/2026/03/18/automatic_deployment_copilot/",
-      "urlToImage": "https://regmedia.co.uk/2023/09/07/copilot_shutterstock.jpg",
-      "source": "Theregister.com",
-      "publishedAt": "2026-03-18T12:38:00Z"
-    },
-    {
-      "title": "At $3,999, Could This 1998 Dodge Neon Brighten Your Day? - Jalopnik",
-      "description": "The $3,999 asking price is just about as old-school as the car itself. Does that seem fair given the car's presentation?",
-      "url": "https://www.jalopnik.com/2125684/1989-dodge-neon-for-sale-3999/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/at-3999-could-this-1998-dodge-neon-brighten-your-day/l-intro-1773769321.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-03-18T12:25:00Z"
+      "title": "I’ve been using the Nothing Phone (4a) Pro for a week, and it’s absolutely brilliant - 9to5Google",
+      "description": "Since its announcement earlier this month, I’ve been pretty excited for the Nothing Phone (4a) Pro’s debut and, after using...",
+      "url": "http://9to5google.com/2026/03/19/nothing-phone-4a-pro-impressions/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-1_67c942.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-03-19T14:00:00Z"
     }
   ]
 }
