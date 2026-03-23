@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-03-22T07:04:14.423Z",
+  "updatedAt": "2026-03-23T07:37:06.167Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Open-world adventure game CookieRun: New World announced for console, PC, and mobile - Gematsu",
-      "description": "Devsisters has announced CookieRun: New World, an open-world adventure game based on the CookieRun mobile game franchise with over 300 million players and more than $1 billion in lifetime revenue. …",
-      "url": "https://www.gematsu.com/2026/03/open-world-adventure-game-cookierun-new-world-announced-for-console-pc-and-mobile",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/03/CookieRun-New-World-Ann_03-20-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-03-21T02:48:47Z"
+      "title": "Multiple Switch Games Receive Switch 2 Compatibility Fixes - Nintendo Life",
+      "description": "Kirby, Final Fantasy and more",
+      "url": "https://www.nintendolife.com/news/2026/03/multiple-switch-games-receive-switch-2-compatibility-fixes",
+      "urlToImage": "https://images.nintendolife.com/63ec77975a5f8/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-03-22T04:35:00Z"
     },
     {
-      "title": "Google wants to fill Fitbit with AI — and your medical records - Mashable",
-      "description": "This isn't your father's Fitbit.",
-      "url": "https://mashable.com/article/google-fitbit-ai",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05XSAOrKQaik3Nx4CLp9mUg/hero-image.fill.size_1200x675.v1773966280.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-03-21T02:03:45Z"
+      "title": "Deals: Galaxy S26 series gets its first price drop, the Pixel 10 series drops even further - GSMArena.com news - GSMArena.com",
+      "description": "Meanwhile, the 2025 MacBook Airs are getting cheaper too - not quite as cheap as the Neo, but they are an important alternative for those who need more RAM.",
+      "url": "https://www.gsmarena.com/deals_galaxy_s26_series_gets_its_first_price_drop_the_pixel_10_series_drops_even_further-news-72031.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/03/weekly-deals-20/-952x498w6/gsmarena_us.jpg",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-03-22T01:31:02Z"
     },
     {
-      "title": "Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo",
-      "description": "Less Copilot, better search, and more taskbar customization are apparently in the pipeline.",
-      "url": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-03-20T22:45:42Z"
-    },
-    {
-      "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors",
-      "description": "iOS 26.4 isn't the major update with new Siri features that we hoped for, but there are some useful quality of life improvements, and a little...",
-      "url": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/",
-      "urlToImage": "https://images.macrumors.com/t/LIMJiu5Da6NSM_E4TAt3NtJNnEY=/1600x/article-new/2026/02/ios-26-4-pastel.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-03-20T21:44:41Z"
-    },
-    {
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows - TechCrunch",
-      "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T20:53:09Z"
-    },
-    {
-      "title": "Amazon's smartphone would be ill-timed: IDC analyst - theregister.com",
-      "description": ": The market is contracting",
-      "url": "https://www.theregister.com/2026/03/20/amazon_phone_worst_possible_time/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/12/fire_shutterstock.jpg",
-      "source": "Theregister.com",
-      "publishedAt": "2026-03-20T20:20:00Z"
-    },
-    {
-      "title": "Crimson Desert Players Debate If The Game Secretly Uses AI Art - Kotaku",
-      "description": "One painting shows off a terrifying convention of weird-looking centaurs",
-      "url": "https://kotaku.com/crimson-desert-painting-gen-ai-art-2000680661",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/06/b9bef52bda98339558b107680508bc57-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-03-20T19:17:36Z"
-    },
-    {
-      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It Either - WIRED",
-      "description": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
-      "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
-      "urlToImage": "https://media.wired.com/photos/69bd423627b92679d2037984/191:100/w_1280,c_limit/nvidia-dlss-5.jpeg",
-      "source": "Wired",
-      "publishedAt": "2026-03-20T19:13:00Z"
-    },
-    {
-      "title": "Samsung's Galaxy Z TriFold Replaced My Phone, Tablet, and Laptop—But There's a Big Catch - PCMag",
-      "description": "The Galaxy Z TriFold aims to be an all-in-one device—serving as your phone, tablet, and even a makeshift laptop. It largely delivers on that promise, though its price is undeniably steep, and Samsung is no longer selling new models.",
-      "url": "https://www.pcmag.com/reviews/samsung-galaxy-z-trifold",
-      "urlToImage": "https://i.pcmag.com/imagery/reviews/041OPl2P6laQkuJjF8Fbpbu-3.fit_lim.size_1200x630.v1773852937.png",
-      "source": "PCMag.com",
-      "publishedAt": "2026-03-20T17:04:06Z"
-    },
-    {
-      "title": "Google Messages launches group RCS Mentions and Trash folder - 9to5Google",
-      "description": "After beta testing for the past several weeks and months, Google Messages today officially announced Mentions and the Trash folder.",
-      "url": "http://9to5google.com/2026/03/20/google-messages-mentions-trash/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Google-Messages-Mentions-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-03-20T16:46:54Z"
-    },
-    {
-      "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
-      "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T16:43:09Z"
-    },
-    {
-      "title": "New controls can stretch, blur and even reverse quantum time flow - Phys.org",
-      "description": null,
-      "url": "https://phys.org/news/2026-03-blur-reverse-quantum.html",
-      "urlToImage": null,
-      "source": "Phys.Org",
-      "publishedAt": "2026-03-20T16:40:03Z"
-    },
-    {
-      "title": "Crimson Desert developers \"doing our utmost\" to respond to its various launch issues, as game still passes huge one-day sales milestone - Eurogamer",
-      "description": "Crimson Desert - the ambitious single player RPG spin-off from Pearl Abyss - has sold through 2m copies following its release.",
-      "url": "https://www.eurogamer.net/crimson-desert-sales-milestone-launch-day-issues-fix",
-      "urlToImage": "https://assetsio.gnwcdn.com/Crimson-Desert-image-showing-a-male-character-with-wings-and-a-mask-covering-his-face.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-03-20T15:46:23Z"
-    },
-    {
-      "title": "iRacing Brings the World’s Premier Motorsport Simulation to Apple Vision Pro - iRacing.com",
-      "description": "iRacing is pleased to share that through a collaboration with Apple and NVIDIA, the world’s premier motorsport simulation will be available on Apple Vision Pro later this spring with the release of visionOS 26.4 and NVIDIA’s CloudXR 6.0 streaming platform. “W…",
-      "url": "https://www.iracing.com/iracing-brings-the-worlds-premier-motorsport-simulation-to-apple-vision-pro/",
-      "urlToImage": "https://s100.iracing.com/wp-content/uploads/2022/01/iRacing-Inline-Color-White-288x197.png",
-      "source": "Iracing.com",
-      "publishedAt": "2026-03-20T15:11:03Z"
-    },
-    {
-      "title": "Google Search is now using AI to replace headlines - The Verge",
-      "description": "Google is beginning to replace news headlines in its search results with ones that are AI-generated. After AI clickbait nonsense in its Google Discover news feed, it’s starting to mess with headlines in the “10 blue links” too.",
-      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-03-20T14:30:00Z"
-    },
-    {
-      "title": "Blocked Intel graphics cards, failed Xbox App booting, and 120GB patches hit Crimson Desert as launch woes continue - Eurogamer",
-      "description": "Crimson Desert is facing several technical hurdles across various platforms on launch.",
-      "url": "https://www.eurogamer.net/crimson-desert-blocked-graphics-card-120gb-patch-xbox-app-problem",
-      "urlToImage": "https://assetsio.gnwcdn.com/Crimson-Desert_Screenshot_10.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-03-20T14:29:31Z"
-    },
-    {
-      "title": "Feb 2026 USA Sales: PS5 Outsells Nintendo's New Switch 2 for a Second Consecutive Month - Push Square",
-      "description": null,
-      "url": "https://www.pushsquare.com/news/2026/03/feb-2026-usa-sales-ps5-outsells-nintendos-new-switch-2-for-a-second-consecutive-month",
-      "urlToImage": null,
+      "title": "PSN Service Returning on PS5, PS4 as Brief Outage Took Service Offline - Push Square",
+      "description": "Taken offline for roughly two hours",
+      "url": "https://www.pushsquare.com/news/2026/03/psn-service-returning-on-ps5-ps4-as-brief-outage-took-service-offline",
+      "urlToImage": "https://images.pushsquare.com/eeb6c25a06d3d/large.jpg",
       "source": "Push Square",
-      "publishedAt": "2026-03-20T14:09:39Z"
+      "publishedAt": "2026-03-21T22:45:00Z"
     },
     {
-      "title": "MS update kills Microsoft account sign-ins in Windows 11 - theregister.com",
-      "description": ": OneDrive, Office, Teams Free users greeted with phantom 'no internet' errors, restart may help if you're lucky",
-      "url": "https://www.theregister.com/2026/03/20/microsoft_account_not_working_have/",
-      "urlToImage": "https://regmedia.co.uk/2018/11/14/facepalm_shutterstock.jpg",
-      "source": "Theregister.com",
-      "publishedAt": "2026-03-20T13:37:00Z"
+      "title": "Google Search test replaces headlines and website titles with AI - 9to5Google",
+      "description": "Google Search has started testing the use of AI to replace headlines and website titles, a change that seems both...",
+      "url": "http://9to5google.com/2026/03/21/google-search-test-replaces-headlines-and-website-titles-with-ai/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-hq-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-03-21T20:31:32Z"
     },
     {
-      "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch - MacRumors",
-      "description": "Apple's CEO Tim Cook today said the Mac just had its \"best launch week ever for first-time Mac customers,\" which suggests that the new...",
-      "url": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/",
-      "urlToImage": "https://images.macrumors.com/t/uM1O4t-WvpT_0N08sMzApDgK9eg=/1920x/article-new/2026/03/macbook-neo-product-film-feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-03-20T13:14:21Z"
+      "title": "Surprise! Minecraft Dungeons 2 is coming later this year - Eurogamer",
+      "description": "Surprise! Minecraft Dungeons 2 is coming to PC via Xbox and Steam, PS5, Nintendo Switch and Switch 2, and Xbox Series a…",
+      "url": "https://www.eurogamer.net/surprise-minecraft-dungeons-2-is-coming-later-this-year",
+      "urlToImage": "https://assetsio.gnwcdn.com/NET_assets_Article_1280x720_Spicewood.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-03-21T18:22:57Z"
     },
     {
-      "title": "New Slay The Spire 2 patch will \"make infinites harder to achieve\" by letting the Doormaker eat your cards, amongst other surprises - Rock Paper Shotgun",
-      "description": "Slay The Spire 2's first major update is upon us, an avalanche of balancing tweaks and fixes for the roguelite deckbuilder that has two broad goals.",
-      "url": "https://www.rockpapershotgun.com/new-slay-the-spire-2-patch-will-make-infinites-harder-to-achieve-by-letting-the-doormaker-eat-your-cards-amongst-other-surprises",
-      "urlToImage": "https://assetsio.gnwcdn.com/doormaker.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Crimson Desert Dev Promises Patch to Address 'Discomfort Many Players Have Experienced With the Controls,' Apologizes for Awful Keyboard and Mouse Experience - IGN",
+      "description": "Crimson Desert developer Pearl Abyss has told players it will address the game's widely criticized controls via an upcoming patch.",
+      "url": "https://www.ign.com/articles/crimson-desert-dev-promises-patch-to-address-discomfort-many-players-have-experienced-with-the-controls-apologizes-for-awful-keyboard-and-mouse-experience",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/21/ss-653759c43cbc7900686a917d4b165f33b8cd334f-1920x1080-1774106981616.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-03-21T18:20:03Z"
+    },
+    {
+      "title": "Minecraft Gets Tiny Takeover Release Date as Mojang Digs Up Sulfur Blocks for Chaos Cubed Update Later This Year - IGN",
+      "description": "Mojang has unveiled more information about updates coming to Minecraft in 2026, including the release date for Tiny Takeover and a sneak peek at the Chaos Cubed game drop.",
+      "url": "https://www.ign.com/articles/mojang-reveals-chaos-cubed-update-coming-to-minecraft-later-this-year-with-tiny-takeover-release-date-set-for-next-week",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/21/mcv-tinytakeover-hero-1-overworldoverload-1920x1080-1774078136968.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-03-21T18:06:50Z"
+    },
+    {
+      "title": "\"This progress will not be linear\": Mega Crit outline their patching process for Slay the Spire 2 after ruffling some feathers - Rock Paper Shotgun",
+      "description": "\"The game will go through constant changes with the ultimate goal of making it as balanced of an experience as StS1 became.\"",
+      "url": "https://www.rockpapershotgun.com/this-progress-will-not-be-linear-mega-crit-outline-their-patching-process-for-slay-the-spire-2-after-ruffling-some-feathers",
+      "urlToImage": "https://assetsio.gnwcdn.com/slay-the-spire-2-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Rock Paper Shotgun",
-      "publishedAt": "2026-03-20T12:47:49Z"
+      "publishedAt": "2026-03-21T17:10:44Z"
+    },
+    {
+      "title": "35 photos that show what life looked like in 1973 - AOL.com",
+      "description": "A senior portrait so perfectly 1973 it could have been Michael Kelso's yearbook photo — the side-swept hair, the wide lapels, the expression of a guy who kno...",
+      "url": "https://stacker.com/stories/retrospective/35-photos-show-would-life-looked-1973",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qaV9bsUwCeJEp6kTVrFJkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_stacker_articles_387/c35e4d5533f380a3f2ddf60c31ea0f27",
+      "source": "Stacker.com",
+      "publishedAt": "2026-03-21T17:00:22Z"
+    },
+    {
+      "title": "Apple M5 MacBook Pro and Air Review: When the Neo Isn’t Enough - Bloomberg.com",
+      "description": "Apple’s new laptops and high-end display fit the bill for the company’s most demanding customers.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-21/apple-m5-macbook-pro-and-air-review-fast-enough-for-demanding-users",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKKhgq2XUNW0/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-03-21T15:00:05Z"
+    },
+    {
+      "title": "Xbox Game Pass is losing two games you can quickly beat in under 3 hours - TrueAchievements",
+      "description": "It's time to look over all the new and leaving Xbox Game Pass achievements for March 2026's third week — come see how easy these games are to beat.",
+      "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-achievements-march-2026-week-3",
+      "urlToImage": "https://www.trueachievements.com/imgs/172700/xbox-game-pass-leaving-games.jpg",
+      "source": "TrueAchievements",
+      "publishedAt": "2026-03-21T14:02:29Z"
+    },
+    {
+      "title": "Shark’s new ChillPill portable fan will be a savior when summer starts sizzling - CNN",
+      "description": "Our testing writers tried the Shark ChillPill, a portable fan with a swappable cooling plate and misting nozzle, to see how well it helps them beat the heat.",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/shark-chillpill",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/carolina-chillpill.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-03-21T14:00:00Z"
+    },
+    {
+      "title": "Calculate Your VO2 Max at Home in Just 5 Minutes, No Complex Lab Tests Needed - Outside Magazine",
+      "description": "It's one of endurance sport's most talked about yet elusive numbers, until now. A simple power test will spare you a costly trip to a performance lab for specialist VO2 Max testing.",
+      "url": "https://velo.outsideonline.com/road/road-training/calculate-vo2-max/#article",
+      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/03/vo2-test.jpg",
+      "source": "Outside",
+      "publishedAt": "2026-03-21T13:22:44Z"
+    },
+    {
+      "title": "Steam Spring Sale offers over 100 big fighting game deals including Tekken 8, Fatal Fury, and dozens more to check out - EventHubs",
+      "description": "Spring time is now finally upon us, and you know what that means — it's time to save money on fighting games.The Steam Spring Sale is officially underway offering up over 100 deals on fighting games and their DLC ...",
+      "url": "https://www.eventhubs.com/news/2026/mar/21/spring-sale-100-big-fighters/",
+      "urlToImage": "https://media.eventhubs.com/images/2026/03/20-spring-salet.webp",
+      "source": "EventHubs",
+      "publishedAt": "2026-03-21T13:15:10Z"
+    },
+    {
+      "title": "Staff at New Data Center Powered by Human Brain Cells Need to Swap Out Cerebrospinal Fluid Every Day - Futurism",
+      "description": "To keep the human brain cell-powered computers running, technicians constantly replenish their stores of cerebrospinal fluid.",
+      "url": "http://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/03/staff-brain-data-center-spine-fluid.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "publishedAt": "2026-03-21T13:00:00Z"
+    },
+    {
+      "title": "Marathon’s Cryo Archive Is Where Cool Design Meets Cold Reality - Forbes",
+      "description": "Marathon's Cryo Archive is one of the coolest shooter maps ever. But it's difficult raises questions about how it helps the already wobbly fate of the game.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/03/21/marathons-cryo-archive-is-where-cool-design-meets-cold-reality/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69b8019c67cfd7947c1df95f/0x0.jpg?format=jpg&crop=1613,906,x786,y0,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-03-21T12:34:44Z"
+    },
+    {
+      "title": "Xbox Project Helix Specs Leak: Why Microsoft’s New Console is Amazing - Geeky Gadgets",
+      "description": "Microsoft’s Project Helix hybrid aims to run Xbox and PC games natively with a dedicated NPU, with dev kits due early 2027.",
+      "url": "https://www.geeky-gadgets.com/project-helix-xbox-hybrid/",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/fsr-diamond-4k-upscaling-demo-screen.jpg",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-03-21T12:05:31Z"
+    },
+    {
+      "title": "Spyware once used by governments is now spreading to cybercriminals - Axios",
+      "description": "Anyone with an iPhone can now be the target of invasive malware that siphons off personal texts, call histories and calendar data.",
+      "url": "https://www.axios.com/2026/03/21/iphone-spyware-is-everyones-problem-now",
+      "urlToImage": "https://images.axios.com/6B3DCIPFdIajxE98LeyC-xCDScA=/1366x768/smart/2022/08/25/221410-1661465650505.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-03-21T12:03:43Z"
+    },
+    {
+      "title": "Large Hadron Collider Discovers All-New Particle - Futurism",
+      "description": "Scientists have used CERN's Large Hadron Collider (LHC) to uncover what they say is an entirely new type of particle, dubbed Xi-cc-plus.",
+      "url": "http://futurism.com/science-energy/large-hadron-collider-discovers-all-new-particle",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/03/large-hadron-collider-discovers-all-new-particle.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "publishedAt": "2026-03-21T12:00:00Z"
     }
   ]
 }
