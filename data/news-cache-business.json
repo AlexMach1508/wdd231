@@ -1,103 +1,151 @@
 {
-  "updatedAt": "2026-03-25T07:15:49.573Z",
+  "updatedAt": "2026-03-26T07:23:33.944Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Estée Lauder in Talks to Acquire Spain’s Puig to Create Global Beauty Giant - WSJ",
-      "description": "Target company has a market value of about $10 billion, with brands including Carolina Herrera and Charlotte Tilbury",
-      "url": "https://www.wsj.com/business/deals/estee-lauder-in-talks-to-acquire-spains-puig-to-create-global-beauty-giant-28c376d3",
-      "urlToImage": "https://images.wsj.net/im-68104441/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-03-24T06:49:00Z"
-    },
-    {
-      "title": "FCC Bans Wireless Router Imports, Citing Security Concerns - Bloomberg.com",
-      "description": "The Federal Communications Commission ordered a ban on the import of new models of foreign-produced consumer wireless routers after an interagency panel determined they threaten national security.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-23/fcc-bans-all-foreign-made-routers-citing-security-risks",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwtk9P2yBfuQ/v1/1200x800.jpg",
+      "title": "Gold Has Been a Terrible Iran War Hedge — Why? - Bloomberg.com",
+      "description": "The precious metal has not lived up to its billing as a geopolitical shelter.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-24/gold-has-been-a-terrible-iran-war-hedge",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNGidZ5EuL3w/v13/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-03-24T02:55:00Z"
+      "publishedAt": "2026-03-25T04:58:15Z"
     },
     {
-      "title": "Exclusive: Kalshi to preemptively block athletes and politicians from trading on their markets - Axios",
-      "description": "Prediction market Kalshi plans to preemptively block participants from betting on their sports and campaigns, Axios has learned.",
-      "url": "https://www.axios.com/2026/03/23/kalshi-prediction-markets-insider-trading-ban",
-      "urlToImage": "https://images.axios.com/OBqOAFH2-sZ7IFEMCx_uwytJSHg=/0x0:1920x1080/1366x768/2026/01/23/1769192201019.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-03-24T01:58:50Z"
+      "title": "Arm to Sell Its Own Chips, Eyeing Sales Goal of $15 Billion - Yahoo Finance",
+      "description": "(Bloomberg) -- Arm Holdings Plc, which made its name licensing technology to semiconductor makers, will begin selling its own chips for the first time...",
+      "url": "https://finance.yahoo.com/news/arm-sell-own-chips-eyeing-213818863.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vRKYBBgs4PwH57FlVBRgmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/686d07d73ab97e5dc46ece40a1541b8d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-25T04:18:00Z"
     },
     {
-      "title": "Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund - CNBC",
-      "description": "The withdrawals show that Apollo didn't avoid the rush of investor redemptions plaguing rivals, driven by concern over private credit loans to software firms.",
-      "url": "https://www.cnbc.com/2026/03/23/apollo-private-credit-fund-gives-investors-only-45percent-of-requested-withdrawals.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107343203-1701784072826-gettyimages-1825440400-APOLLO_ROWAN.jpeg?v=1774313055&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-03-23T22:38:24Z"
-    },
-    {
-      "title": "Traders placed $580mn in oil bets ahead of Donald Trump’s social media post on Iran talks - Financial Times",
-      "description": "Thousands of Brent and WTI contracts changed hands 15 minutes before president’s message on Truth Social",
-      "url": "https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbcfda986-7b88-4608-a6df-f10227b506b6.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-03-23T21:14:28Z"
-    },
-    {
-      "title": "Chevron (CVX) CEO Warns More Oil Shocks Are Coming - TipRanks",
-      "description": "Markets have ‘scant information’ on the current situation with crude markets.",
-      "url": "https://www.tipranks.com/news/chevron-cvx-ceo-warns-more-oil-price-shocks-are-coming",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/03/aaa-11.webp",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-03-23T20:51:07Z"
-    },
-    {
-      "title": "What is Elon Musk's Terafab chip project? Here are his \"most epic\" goals for the factory. - CBS News",
-      "description": "Elon Musk unveiled plans for a massive chip manufacturing facility in Austin, Texas, that he said will power his \"galactic\" aspirations.",
-      "url": "https://www.cbsnews.com/news/terafab-elon-musk-chips-semiconductors-what-to-know/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/03/727e58a0-bb5c-4717-9e7f-7cea1cec2bd0/thumbnail/1200x630/b213b2963bd736c125ccd99f1d7dbd7f/cbsn-fusion-french-authorities-raid-paris-x-office-and-summon-elon-musk-to-appear-for-questioning-thumbnail.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-03-23T19:12:00Z"
-    },
-    {
-      "title": "Uniqlo Returns To Mag Mile Friday With New Flagship Store - Block Club Chicago",
-      "description": "Giveaways and discounts for opening weekend will include early access to the new Roger Federer Collection and free snacks for the first 500 customers each day.",
-      "url": "https://blockclubchicago.org/2026/03/23/uniqlo-returns-to-mag-mile-friday-with-new-flagship-store/",
-      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2026/03/resdcaed71b74227bac9123fb206450d9c2fr.jpg",
-      "source": "Block Club Chicago",
-      "publishedAt": "2026-03-23T18:37:55Z"
-    },
-    {
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43 - BBC",
-      "description": "Leo Radvinsky became a billionaire after investing in the site, known for its pornographic content.",
-      "url": "https://www.bbc.com/news/articles/c33le6yv7pno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f23/live/a7d7c1e0-26bf-11f1-8e76-0980f24c4126.jpg",
+      "title": "Oil price slides as Trump talks up Iran peace negotiations - BBC",
+      "description": "The US president said talks to end the war are underway with Iran - a claim that officials in Tehran have disputed.",
+      "url": "https://www.bbc.com/news/articles/c995xp4jxj2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd61/live/b8c2d160-27e7-11f1-84b8-75a06f84718a.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-03-23T15:23:00Z"
+      "publishedAt": "2026-03-25T03:35:01Z"
     },
     {
-      "title": "Why Texas isn’t cheering oil price spike - Politico",
-      "description": "Industry executives are gathering in the U.S. energy capital this week as uncertainty mounts and crude costs soar.",
-      "url": "https://www.politico.com/news/2026/03/23/texas-isnt-cheering-oil-price-spike-00837618",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbe%2F65%2Fc83501c2496bbe5c964d1d0ce299%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2220827219",
+      "title": "Meta Offers Top Execs Stock Options for First Time Since IPO - Bloomberg.com",
+      "description": "Meta Platforms Inc. is offering top executives stock options for the first time since its 2012 IPO — an effort to retain and compensate executives as the company continues to spend aggressively to compete in the heated AI race.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii7wm7hL2Y6Q/v1/1200x797.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-03-25T02:08:00Z"
+    },
+    {
+      "title": "Merck nears $6bn biotech deal to boost cancer drug pipeline - Financial Times",
+      "description": "Terns Pharma stock has jumped since promising clinical data on its bone and blood cancer treatment last year",
+      "url": "https://www.ft.com/content/3f695210-8cc0-4736-837a-7961d80588d9?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7517e5f2-7157-4f5f-a050-d207cd2e0b9e.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-03-25T01:00:40Z"
+    },
+    {
+      "title": "OpenAI will shutter Sora video app - Axios",
+      "description": "The AI video app shot to the top of the app store charts before downloads plummeted.",
+      "url": "https://www.axios.com/2026/03/24/openai-discontinue-sora-video-app",
+      "urlToImage": "https://images.axios.com/hoIZjMhaZXLMiXTDH6WrEK2s3hA=/0x0:1920x1080/1366x768/2026/03/24/1774386454318.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-03-25T00:39:47Z"
+    },
+    {
+      "title": "An air traffic controller was juggling extra roles during the LaGuardia plane crash - NPR",
+      "description": "The National Transportation Safety Board said it has concerns about air traffic controllers who work the midnight shift taking on extra work in an airspace as busy as LaGuardia's.",
+      "url": "https://www.npr.org/2026/03/24/nx-s1-5759710/laguardia-airport-plane-crash",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2958x1664+0+308/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F1e%2F7b09ef9c46dcbf790fc4fdaf7350%2Fap26083749521621.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-03-25T00:10:25Z"
+    },
+    {
+      "title": "OpenAI Set to Raise About $10 Billion From MGX, Coatue, Thrive - Bloomberg.com",
+      "description": "OpenAI is nearing a deal to raise about $10 billion from venture investors, according to people familiar with the matter, bringing the total haul from its latest funding round to more than $120 billion.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-24/openai-set-to-raise-about-10-billion-from-mgx-coatue-thrive",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikhrpD9Uck1Y/v0/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-03-24T23:04:00Z"
+    },
+    {
+      "title": "‘The worst I’ve seen’: Oil industry grapples with the fallout from US-Israel war with Iran - Politico",
+      "description": "The Middle East war is scrambling markets and threatening to remake the energy industry.",
+      "url": "https://www.politico.com/news/2026/03/24/the-worst-ive-seen-oil-industry-grapples-with-the-fallout-from-trumps-war-with-iran-00841820",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F68%2Fb3%2Fec43d57b4c93a6db3199c6eb522e%2Fpersian-gulf-tensions-90988.jpg",
       "source": "Politico",
-      "publishedAt": "2026-03-23T11:30:00Z"
+      "publishedAt": "2026-03-24T22:00:00Z"
     },
     {
-      "title": "Why gold’s plunge into a bear market is a good signal for stocks, according to Morgan Stanley - MarketWatch",
-      "description": "Bullion’s rise in previous months shows investors were wary of geopolitics, suggests Morgan Stanley strategist Mike Wilson",
-      "url": "https://www.marketwatch.com/story/why-golds-plunge-into-a-bear-market-is-a-good-signal-for-stocks-according-to-morgan-stanley-bacf5d35",
-      "urlToImage": "https://images.mktw.net/im-20835544/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-03-23T10:41:00Z"
+      "title": "Jury finds Meta's platforms are harmful to children in 1st wave of social media addiction lawsuits - PBS",
+      "description": "A New Mexico jury found Tuesday that social media conglomerate Meta is harmful to children's mental health and in violation of state consumer protection law. The case was among the first to reach trial in a wave of litigation involving social media platforms …",
+      "url": "https://www.pbs.org/newshour/nation/jury-finds-metas-platforms-are-harmful-to-children-in-1st-wave-of-social-media-addiction-lawsuits",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-24T212346Z_1267381213_RC28BKAQXVRA_RTRMADP_3_META-LAWSUIT-NEW-MEXICO-VERDICT-1024x684.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-03-24T21:41:39Z"
     },
     {
-      "title": "International Energy Agency head says global economy faces ‘major, major threat’ from Iran war - AP News",
-      "description": "The head of the International Energy Agency says the global economy faces a “major, major threat” because of the Iran war. Fatih Birol told Australia’s National Press Club in Canberra on Monday that the crisis in the Middle East has had a worse impact on oil …",
-      "url": "https://apnews.com/article/iran-war-australia-international-energy-agency-f1e7ccd313263fd63e695f43a2e68165",
-      "urlToImage": "https://dims.apnews.com/dims4/default/59e5f4f/2147483647/strip/true/crop/6921x4612+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2Fb5%2F8bd65306e322f150eb3dd6625360%2F5cd7836018964b3186634f8d02f9719b",
+      "title": "Trump administration's $1B deal to stop offshore wind shows an evolution in its anti-wind strategy - AP News",
+      "description": "The Trump administration’s $1 billion payout to a French energy company to walk away from U.S. offshore wind development is a novel tactic against the industry that supporters see as creative, but opponents see as foolish and extreme. The Interior Department …",
+      "url": "https://apnews.com/article/trump-offshore-wind-energy-climate-totalenergies-interior-9e7d909510473f9eb13904c8035fe047",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7d8181e/2147483647/strip/true/crop/6264x4174+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fa0%2F849c93e24bbeb5b58005bcb3b868%2F716ab1a55ad7450eb735c54e8a76d296",
       "source": "Associated Press",
-      "publishedAt": "2026-03-23T08:02:00Z"
+      "publishedAt": "2026-03-24T20:54:00Z"
+    },
+    {
+      "title": "CRCL, COIN news: Circle, Coinbase tumbles as regulators move to ban interest on stablecoins - CoinDesk",
+      "description": "The latest version of the Clarity Act is pressuring stocks as it would restrict stablecoin rewards.",
+      "url": "https://www.coindesk.com/markets/2026/03/24/circle-stock-plunges-18-as-a-new-draft-of-the-clarity-act-threatens-stablecoin-rewards",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-24T19:59:17Z"
+    },
+    {
+      "title": "Nobel laureate calls it 'treason': $580 million traded minutes before Trump's oil reversal - Fortune",
+      "description": "Approximately $580 million of oil futures were sold before Trump shocked the markets with a dubious statement.",
+      "url": "https://fortune.com/2026/03/24/paul-krugman-treason-oil-futures-trading-trump-white-house/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1160442159-e1774376184114.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-03-24T19:26:00Z"
+    },
+    {
+      "title": "Everything You Need to Know About the Foreign-Made Router Ban in the US - WIRED",
+      "description": "The FCC just banned the sale of new consumer-grade Wi-Fi routers manufactured outside the US. Here’s what it means for you.",
+      "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "urlToImage": "https://media.wired.com/photos/69c2c874bebdcbc5795fe12e/191:100/w_1280,c_limit/US-Foreign-Made-Router-Ban-Gear-2222209888.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-03-24T18:59:00Z"
+    },
+    {
+      "title": "The bond market is nearing a 5% threshold — but there’s a crucial difference this time - MarketWatch",
+      "description": "The rate on government ‘long’ bonds headed back toward 5% on Tuesday, after touching that level in the previous session",
+      "url": "https://www.marketwatch.com/story/the-bond-market-is-nearing-a-5-threshold-but-theres-a-crucial-difference-this-time-5e4ac029",
+      "urlToImage": "https://images.mktw.net/im-44326785/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-03-24T18:18:00Z"
+    },
+    {
+      "title": "Asia everyday life is being upended by Iran war fuel crisis - BBC",
+      "description": "Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.",
+      "url": "https://www.bbc.com/news/articles/c1450zj6n48o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca7d/live/f5c4bd60-27a3-11f1-b815-a14f790a1de4.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-03-24T17:12:50Z"
+    },
+    {
+      "title": "Zoox expands into Marina, North Beach, and Chinatown - The San Francisco Standard",
+      "description": "But most San Franciscans still can’t catch a ride — unless they work at Zoox, know someone who does, or make it off the waitlist.",
+      "url": "https://sfstandard.com/2026/03/24/zoox-expands-marina-north-beach-chinatown/",
+      "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_di4c9433nh3j58i86vp6fpj250/-C100.00%25x93.33%25%2C0.00%25%2C6.67%25-S1200x630-FPNG",
+      "source": "Sfstandard.com",
+      "publishedAt": "2026-03-24T15:20:34Z"
+    },
+    {
+      "title": "Ares Limits Private Credit Fund Withdrawals as Redemptions Surge - Bloomberg.com",
+      "description": "Two of the biggest names in private credit, Ares Management Corp. and Apollo Global Management Inc., blocked investors from getting even half of the money they wanted out of their funds, a sign of mounting strain in the $1.8 trillion market.",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-24/ares-limits-private-credit-fund-withdrawals-as-redemptions-surge",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iedPZ5o8aMa0/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-03-24T14:55:54Z"
     }
   ]
 }
