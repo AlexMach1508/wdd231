@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2026-03-26T07:23:33.819Z",
+  "updatedAt": "2026-03-27T07:21:53.921Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Iran War Live Updates: Mediators Aim for U.S.-Iran Meeting by Thursday - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-03-25T06:39:13Z"
-    },
-    {
-      "title": "New ‘Lord of the Rings’ Movie From Stephen Colbert and His Son in Development at Warner Bros. - Variety",
-      "description": "Stephen Colbert and his son are developing a brand new film in the \"Lord of the Rings\" universe.",
-      "url": "https://variety.com/2026/film/news/lord-of-the-rings-movie-stephen-colbert-warner-bros-1236698684/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/11/P102T5F9.jpg?crop=0px%2C129px%2C2000px%2C1125px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2026-03-25T05:05:00Z"
-    },
-    {
-      "title": "Senate Republicans pitch deal to end DHS shutdown, but Trump isn’t sold - The Washington Post",
-      "description": "The deal under discussion would fund the department except for the part of Immigration and Customs Enforcement charged with arresting and deporting undocumented immigrants.",
-      "url": "https://www.washingtonpost.com/politics/2026/03/24/dhs-funding-senate-white-house/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EXZYM2CF7QFPAHNLWCR6LIXLGA.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-03-25T04:25:49Z"
-    },
-    {
-      "title": "Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict - The Washington Post",
-      "description": "The orders follow weeks of speculation about whether the 82nd Airborne Division would join the war, after its headquarters unit abruptly pulled out of a training exercise this month.",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/24/us-orders-82nd-airborne-iran-paratroopers-kharg/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XY2WPWRQYYI6VFY3IO7MH74YMA.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-03-25T04:20:00Z"
-    },
-    {
-      "title": "Oil price slides as Trump talks up Iran peace negotiations - BBC",
-      "description": "The US president said talks to end the war are underway with Iran - a claim that officials in Tehran have disputed.",
-      "url": "https://www.bbc.com/news/articles/c995xp4jxj2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd61/live/b8c2d160-27e7-11f1-84b8-75a06f84718a.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-03-25T03:35:01Z"
-    },
-    {
-      "title": "U.S. Sends Iran 15-Point Plan to End War - WSJ",
-      "description": "The U.S. has sent Iran a 15-point plan to end the war, officials said, which centers largely around previous Trump administration demands of Tehran. The document, sent through intermediaries, calls on Iran to dismantle its three main nuclear sites and end any…",
-      "url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates-2026/card/u-s-sends-iran-15-point-plan-to-end-war-zw82CTZP3cVSX9UsJjkj",
-      "urlToImage": "https://images.wsj.net/im-78944815/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-03-25T02:58:42Z"
-    },
-    {
-      "title": "Candidates for UNC's Next Basketball Coach - 247Sports",
-      "description": "Now that UNC is officially looking for a new basketball coach to run its iconic program we have spoken with multiple sources to get a gauge on what direction the Tar Heels might take Below is a compilation of names either confirmed as legitimate targets or fe…",
-      "url": "https://247sports.com/college/north-carolina/article/north-carolina-unc-tar-heels-basketball-coach-hubert-davis-278927475/",
-      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/498/674/13674498.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
-      "source": "247Sports",
-      "publishedAt": "2026-03-25T02:20:46Z"
-    },
-    {
-      "title": "Meta Offers Top Execs Stock Options for First Time Since IPO - Bloomberg.com",
-      "description": "Meta Platforms Inc. is offering top executives stock options for the first time since its 2012 IPO — an effort to retain and compensate executives as the company continues to spend aggressively to compete in the heated AI race.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii7wm7hL2Y6Q/v1/1200x797.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-03-25T02:08:00Z"
-    },
-    {
-      "title": "Survivor, Denmark: Mette Frederiksen clings on — offering lessons for Europe’s left - politico.eu",
-      "description": "The Danish prime minister suffered a major slump in vote share, but will still be in pole position to lead the next government.",
-      "url": "https://www.politico.eu/article/denmark-election-2026-survivor-mette-frederiksen-dealmaking-path-to-power/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/25/GettyImages-2267698426-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-03-25T01:34:00Z"
-    },
-    {
-      "title": "Emily Osment Addresses Absence From ‘Hannah Montana’ Anniversary Special - Deadline",
-      "description": "Miley Cyrus celebrated the 20th anniversary of Hannah Montana with a Disney+ special, but not all of her castmates returned, and Emily Osment addressed her absence.",
-      "url": "http://deadline.com/2026/03/emily-osment-missing-hannah-montana-anniversary-special-1236765002/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/emily-osment-hannah-montana.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-03-25T01:07:00Z"
-    },
-    {
-      "title": "Democrat wins Florida house district containing Trump's Mar-a-Lago estate - BBC",
-      "description": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
-      "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7003/live/f1067cf0-27ee-11f1-9321-33bc3b2b38dc.png",
-      "source": "BBC News",
-      "publishedAt": "2026-03-25T01:06:51Z"
-    },
-    {
-      "title": "‘NCIS’ Shocker! Longtime Star Speaks out About Exit After 18 Seasons - TV Insider",
-      "description": "The 500th episode also featured a surprising return.",
-      "url": "https://www.tvinsider.com/1253738/ncis-vance-dead-rocky-carroll-leaving-ducky-return-season-23/",
-      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/03/video-header-NCIS-1-1420x798.jpg",
-      "source": "TVInsider",
-      "publishedAt": "2026-03-25T01:00:20Z"
-    },
-    {
-      "title": "OpenAI will shutter Sora video app - Axios",
-      "description": "The AI video app shot to the top of the app store charts before downloads plummeted.",
-      "url": "https://www.axios.com/2026/03/24/openai-discontinue-sora-video-app",
-      "urlToImage": "https://images.axios.com/hoIZjMhaZXLMiXTDH6WrEK2s3hA=/0x0:1920x1080/1366x768/2026/03/24/1774386454318.jpeg",
+      "title": "Senate locked in staring contest on DHS as insults fly - Axios",
+      "description": "\"It's not even close to being real,\" Thune said of Democrats' counteroffer.",
+      "url": "https://www.axios.com/2026/03/25/senate-dhs-shtudown-tsa-democrats-republicans",
+      "urlToImage": "https://images.axios.com/wmC7LWxdGfB-0sqQvRlGuUqwCpo=/0x0:6000x3375/1366x768/2026/03/25/1774480157829.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-03-25T00:39:47Z"
+      "publishedAt": "2026-03-26T04:00:15Z"
     },
     {
-      "title": "Green fireball captured on dashcam video as a meteor streaks across the Pacific Northwest sky - abcnews.com",
-      "description": "A bright green fireball was visible in parts of the Pacific Northwest as it beamed across the sky",
-      "url": "https://abcnews.com/Technology/wireStory/green-fireball-captured-dashcam-video-meteor-streaks-pacific-131379561",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-03-24T23:35:33Z"
+      "title": "White House holds off on CDC pick as search for permanent chief continues - The Washington Post",
+      "description": "The responsibilities of leading the agency will remain with Jay Bhattacharya, the head of the National Institutes of Health, who has been serving as acting CDC director since last month.",
+      "url": "https://www.washingtonpost.com/health/2026/03/25/cdc-nomination-delayed-jay-bhattacharya/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4KS53JNMGH7N7PMP5GFSAUHE4Q.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-03-26T03:22:10Z"
     },
     {
-      "title": "Prosecutor conceded lack of criminal evidence in Federal Reserve investigation, transcript shows - AP News",
-      "description": "Newly released court records indicate the Justice Department's investigation of a $2.5 billion renovation project at the Federal Reserve didn’t find any evidence of a crime before a judge quashed government subpoenas, dealing a severe blow to the probe. Durin…",
-      "url": "https://apnews.com/article/federal-reserve-powell-subpoenas-trump-pirro-ab3dfc8278c8ae793e883f6bb9beff98",
-      "urlToImage": "https://dims.apnews.com/dims4/default/87e8277/2147483647/strip/true/crop/2839x1892+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Fb5%2F90d73e9bf51ef06ae22d98dd588d%2Fdd9170551eac451cb0c13a4b3561a5bb",
+      "title": "UNC coaching search: Incoming AD Steve Newmark recaps timeline that led to Hubert Davis firing - On3",
+      "description": "Incoming North Carolina AD Steve Newmark recapped the timeline that led to the firing of head coach Hubert Davis.",
+      "url": "https://www.on3.com/college/north-carolina-tar-heels/news/unc-coaching-search-incoming-ad-steve-newmark-recaps-timeline-that-led-to-hubert-davis-firing/",
+      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/03/20143112/0C1A0678-hubert-davis.jpg",
+      "source": "On3.com",
+      "publishedAt": "2026-03-26T03:05:10Z"
+    },
+    {
+      "title": "AdeptiCon Preview 2026 – The Red Terror hunts elite Cadians in new Kill Team expansion - Warhammer Community",
+      "description": "A man-eating Tyranid terror stalks Devlan.",
+      "url": "https://www.warhammer-community.com/articles/jwpyca89/adepticon-preview-2026-the-red-terror-hunts-elite-cadians-in-new-kill-team-expansion",
+      "urlToImage": "https://assets.warhammer-community.com/1-feature-03-dqqrlsx8yd.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-03-26T01:50:05Z"
+    },
+    {
+      "title": "Security guard takes 'full responsibility' for Chappell Roan hotel controversy, confirms he wasn't working for pop star - Entertainment Weekly",
+      "description": "Security guard Pascal Duvier said that he takes 'full responsibility' for the hotel controversy involving Chappell Roan and Jude Law's daughter Ava, noting that he was not working for the 'Hot to Go' singer.",
+      "url": "https://ew.com/security-guard-takes-full-responsibility-for-chappell-roan-hotel-controversy-11934703",
+      "urlToImage": "https://ew.com/thmb/pSh-EoIibAGuHtW4-EEn3Zz7h1A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chappell-roan-2024-olivia-rodrigo-guts-tour-012025-a437ce2f579a48d09a9b47ee799d3d41.jpg",
+      "source": "Entertainment Weekly",
+      "publishedAt": "2026-03-26T01:43:04Z"
+    },
+    {
+      "title": "Trump confirms landmark China visit for May, as war forces postponement - BBC",
+      "description": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
+      "url": "https://www.bbc.com/news/articles/c05dpr1m71go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-03-26T01:42:26Z"
+    },
+    {
+      "title": "What a GOP loss in Trump’s Mar-a-Lago district says about the midterms - The Washington Post",
+      "description": "Including off-year elections last year, Democrats have flipped 30 Republican seats since the start of 2025.",
+      "url": "https://www.washingtonpost.com/politics/2026/03/25/democrats-midterms-special-election-wins/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOBPG3JBDS6YOCWRFMFBBKUNPE_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-03-26T00:37:29Z"
+    },
+    {
+      "title": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever - The Verge",
+      "description": "Notebookcheck has tested a Dell XPS 16 with a 1-120Hz LG Display screen and a new Intel Panther Lake chip. It’s the most efficient ever in its Wi-Fi web browsing test.",
+      "url": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258180_Dell_XPS_14_16_laptops_CES_2026_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T00:33:00Z"
+    },
+    {
+      "title": "GOP lawmakers vent frustration over Trump administration’s lack of info on Iran war - CNN",
+      "description": "A key group of House Republicans are growing increasingly wary of the US war with Iran after a briefing with Department of Defense officials on Wednesday left some unsatisfied with what they were told about the objectives and length of the war effort.",
+      "url": "https://www.cnn.com/2026/03/25/politics/iran-war-gop-lawmakers-trump-administration-briefing",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267559221.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-03-25T23:51:35Z"
+    },
+    {
+      "title": "OpenAI drops AI video tool Sora, startling Disney, sources say - KSL.com",
+      "description": "The Walt Disney Company was blindsided with word that OpenAI was dropping video tool Sora altogether on Monday following a meeting, a person familiar with the matter said.",
+      "url": "https://www.ksl.com/article/51472526/openai-drops-ai-video-tool-sora-startling-disney-sources-say",
+      "urlToImage": "https://img.ksl.com/slc/3150/315014/31501401.JPG?filter=kslv2/responsive_story_lg",
+      "source": "KSL.com",
+      "publishedAt": "2026-03-25T23:44:16Z"
+    },
+    {
+      "title": "How to watch San Francisco Giants vs. New York Yankees - McCovey Chronicles",
+      "description": "Logan Webb gets the start against Max Fried as the Giants welcome the Yankees to Oracle Park for Opening Day!",
+      "url": "https://www.mccoveychronicles.com/san-francisco-giants-game-information/104270/mlb-2026-san-francisco-giants-how-to-watch-opening-day-new-york-yankees-logan-webb-max-fried",
+      "urlToImage": "https://platform.mccoveychronicles.com/wp-content/uploads/sites/105/2026/03/gettyimages-2266599813.jpg?quality=90&strip=all&crop=0%2C10.730415302961%2C100%2C78.539169394078&w=1200",
+      "source": "McCovey Chronicles",
+      "publishedAt": "2026-03-25T23:35:00Z"
+    },
+    {
+      "title": "Houston airport has become a symbol for the shutdown’s impacts on air travel - AP News",
+      "description": "Houston’s George Bush Intercontinental Airport shows how the partial government shutdown is straining air travel as TSA workers miss shifts without pay. Long security lines have hobbled airports across the U.S. But problems at Bush Intercontinental have been …",
+      "url": "https://apnews.com/article/shutdown-houston-airport-travel-impact-c46f4d6f49383bc9a457f3ebe001fbc1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5ef07f4/2147483647/strip/true/crop/7613x5073+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2F29%2F2140fb86ea775c9af128ea198060%2Ff8ef7dd064aa4eb88979194ece764e23",
       "source": "Associated Press",
-      "publishedAt": "2026-03-24T23:29:00Z"
+      "publishedAt": "2026-03-25T23:33:00Z"
     },
     {
-      "title": "TSA employees at ‘breaking point’ - Federal News Network",
-      "description": "Union representatives for TSA also blasted the Trump administration's deployment of ICE officers to airports, calling it a \"straight-up distraction.\"",
-      "url": "https://federalnewsnetwork.com/government-shutdown/2026/03/tsa-employees-at-breaking-point/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2026/03/Travel_Delays_88981-scaled.jpg",
-      "source": "Federal News Network",
-      "publishedAt": "2026-03-24T22:49:57Z"
+      "title": "Humans and dogs — scientists find new proof of ancient bond - DW.com",
+      "description": "Dogs were our friends and guardians thousands of years before the end of the last ice age, with new studies identifying a puppy that lived 15,800 years ago.",
+      "url": "https://www.dw.com/en/humans-and-dogs-scientists-find-new-proof-of-ancient-bond/a-76533203",
+      "urlToImage": "https://static.dw.com/image/76531096_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-25T23:05:53Z"
     },
     {
-      "title": "Apple Music 5.2 for Android adds iOS 26.4 Playlist Playground, album redesign - 9to5Google",
-      "description": "Following the first iOS 26.4 preview, Apple Music 5.2 entered beta earlier this week with three new features.",
-      "url": "http://9to5google.com/2026/03/24/apple-music-5-2-android/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Apple-Music-iOS-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-03-24T22:45:00Z"
+      "title": "tvOS 26.4 Adds These New Features to Your Apple TV - MacRumors",
+      "description": "Apple this week released tvOS 26.4, and the software update includes a handful of new features and changes for the Apple TV.   tvOS 26.4 is...",
+      "url": "https://www.macrumors.com/2026/03/25/tvos-26-4-features-and-release-notes/",
+      "urlToImage": "https://images.macrumors.com/t/GAyquGnnVSnhxBeZ-t47PVsJQ04=/2500x/article-new/2024/06/apple-tv-4k-new-orange.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-25T22:33:00Z"
     },
     {
-      "title": "NASA to spend $20bn on moon base, nuclear-powered Mars spacecraft - Al Jazeera",
-      "description": "The agency will increase robotic missions to the Moon and launch a nuclear spacecraft called Space Reactor 1 Freedom.",
-      "url": "https://www.aljazeera.com/news/2026/3/24/nasa-to-spend-20bn-on-moon-base-nuclear-powered-mars-spacecraft",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP26064798044256-1-1774386450.jpg?resize=1800%2C1200&quality=80",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-24T21:06:22Z"
+      "title": "Epigenetic memory of colitis promotes tumour growth - Nature",
+      "description": "Colonic stem cells retain a memory of inflammation following disease resolution and there is a mechanistic link between chronic inflammation and malignancy, suggesting potential strategies to mitigate cancer risk in patients with chronic inflammatory conditio…",
+      "url": "https://www.nature.com/articles/s41586-026-10258-4",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10258-4/MediaObjects/41586_2026_10258_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-25T22:07:30Z"
+    },
+    {
+      "title": "Dominant clones leverage developmental epigenomic states to drive ependymoma - Nature",
+      "description": "Single-nucleus chromatin and RNA sequencing identifies epigenetic chromatin domains that confer vulnerability to paediatric brain tumours such as ependymomas, providing insight into the development of such tumours despite ‘quiet’ genomes.",
+      "url": "https://www.nature.com/articles/s41586-026-10270-8",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10270-8/MediaObjects/41586_2026_10270_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-25T22:06:38Z"
     }
   ]
 }
