@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-03-28T07:11:02.781Z",
+  "updatedAt": "2026-03-29T07:17:12.056Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database - Fortune",
-      "description": "Anthropic stored information about an upcoming model, draft blog posts, and other private information in an unsecured, publicly-searchable data lake",
-      "url": "https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589216-e1774529882233.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-03-27T03:25:00Z"
+      "title": "Playing Wolfenstein 3D with one hand in 2026 - Ars Technica",
+      "description": "Over three decades later, this historical curiosity has more than a few rough edges...",
+      "url": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-03-27T22:09:00Z"
     },
     {
-      "title": "Devil May Cry 5 seemingly coming to Nintendo Switch 2, getting new Devil Hunter Edition - Nintendo Everything",
-      "description": "Devil May Cry 5 has apparently been leaked for Nintendo Switch 2 with the console getting a new Devil Hunter Edition.",
-      "url": "https://nintendoeverything.com/devil-may-cry-5-seemingly-coming-to-nintendo-switch-2-getting-new-devil-hunter-edition/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Devil-May-Cry-5-Switch-2.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-03-27T00:12:17Z"
+      "title": "Microsoft plans to build 100% native apps for Windows 11, as web apps ruin the OS experience - Windows Latest",
+      "description": "Microsoft has confirmed it will build 100% native apps for Windows 11 and form a new team to spearhead the project.",
+      "url": "https://www.windowslatest.com/2026/03/28/microsoft-plans-to-build-100-native-apps-for-windows-11-as-web-apps-ruin-the-os-experience/",
+      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/03/Windows-11-apps-in-the-Start-menu.jpg",
+      "source": "WindowsLatest",
+      "publishedAt": "2026-03-27T20:54:51Z"
     },
     {
-      "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
-      "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android 17 Beta 3 continues that blur trend...",
-      "url": "http://9to5google.com/2026/03/26/android-17-background-blur/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Android 17 Could Introduce “Priority Charging” Feature - droid-life.com",
+      "description": "Android 17 Beta 3 is packed with new features, some of which are hidden. Priority Charging is one that Pixel devices might soon get.",
+      "url": "https://www.droid-life.com/2026/03/27/android-17-priority-charging-feature/",
+      "urlToImage": null,
+      "source": "Droid Life",
+      "publishedAt": "2026-03-27T20:25:17Z"
+    },
+    {
+      "title": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory - 9to5Google",
+      "description": "Google has a few other Gemini app updates, starting with Personal Intelligence seeing wide US availability.",
+      "url": "http://9to5google.com/2026/03/27/gemini-free-personal-intelligence-rollout/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-03-26T23:52:56Z"
+      "publishedAt": "2026-03-27T19:45:39Z"
     },
     {
-      "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
-      "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life.",
-      "url": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability",
-      "urlToImage": "https://www.sciencealert.com/images/2025/11/melanized-fungus.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2026-03-26T22:27:37Z"
+      "title": "Microsoft Issues Statement On Why 'This Is An Xbox' Campaign Has Been Retired - purexbox.com",
+      "description": "MS spokesperson confirms it's been nixed by the new Xbox boss",
+      "url": "https://www.purexbox.com/news/2026/03/microsoft-issues-statement-on-why-this-is-an-xbox-campaign-has-been-retired",
+      "urlToImage": "https://images.purexbox.com/c52a255e001c6/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-03-27T19:20:28Z"
     },
     {
-      "title": "Apple Confirms Mac Pro Is Dead, No Future Models Planned - MacRumors",
-      "description": "Apple has discontinued the Mac Pro and has removed the machine from its website, reports 9to5Mac. Apple said it does not plan to design a new version...",
-      "url": "https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/",
-      "urlToImage": "https://images.macrumors.com/t/ZnWCapdza5uZM08uiZjE7HAH_qI=/2500x/article-new/2023/01/Mac-Pro-Feature-Teal.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-03-26T21:04:09Z"
-    },
-    {
-      "title": "Anker’s wireless charging pad offers Qi2 speeds for $15 - The Verge",
-      "description": "During Amazon’s Big Spring Sale, you can snag Anker’s Qi2 wireless charging pad that offers 15W speeds for just $14.99. That’s like a dollar per watt.",
-      "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ankerqi2lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "title": "Anker’s 160W Prime Charger can power three devices at once, and it’s $50 off - The Verge",
+      "description": "Anker’s 160W Prime Charger is down to $99.99 for Amazon’s Big Spring Sale. The USB-C charger can power up three devices at once, including beefier laptops.",
+      "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anker-Prime-Charger-160W-3-Ports-Smart-Display-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-03-26T21:00:00Z"
+      "publishedAt": "2026-03-27T18:30:00Z"
     },
     {
-      "title": "Ubisoft’s Cost-Cutting Crisis Could Put Its Biggest Games at Risk - Insider Gaming",
-      "description": "Ubisoft's cost cutting measures will lead us to getting worse games, with decreased scope and less quality.",
-      "url": "https://insider-gaming.com/ubisofts-cost-cutting-measures-will-give-us-worse-games/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/03/ubisoft-mess.jpg",
-      "source": "Insider-gaming.com",
-      "publishedAt": "2026-03-26T20:57:10Z"
+      "title": "Which tiny will take over? - Minecraft",
+      "description": "Take on the first of two challenges in the Tiny Takeover drop and earn adorable rewards together! Choose a side: land or water! Then name as many baby mobs you can on land OR in water using name tags between Mar 27, 8 AM PT to Mar 30, 10 AM PT!",
+      "url": "https://www.minecraft.net/en-us/article/which-tiny-will-take-over-",
+      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/MCV_TinyTakeover_CommunityChallenge1_dotNET_1170x500.jpg",
+      "source": "Minecraft.net",
+      "publishedAt": "2026-03-27T18:15:02Z"
     },
     {
-      "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Yahoo Finance",
-      "description": "(Bloomberg) -- Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major move aimed at bolstering the iPhone as an AI platform.The...",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-open-siri-rival-182447551.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e6fKGdPxO5GWtgx5AHCQEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_holding_pen_162/3df02569e976ff7f11f6d78ba6ad3c54",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-03-26T20:32:58Z"
-    },
-    {
-      "title": "Google Gemini Adds Tool to Make It Easier to Switch From ChatGPT - Bloomberg.com",
-      "description": "Google released new tools for its Gemini artificial intelligence assistant that will let users upload chat history and context from other AI apps, a move to lure users from rivals like OpenAI’s ChatGPT and Anthropic PBC’s Claude.",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ48NqsihryM/v1/1200x829.jpg",
+      "title": "It Sucks to Work in the Video-Game Industry Right Now - Bloomberg.com",
+      "description": "Even developers who successfully release big hits, like Fortnite and Battlefield , are losing their jobs",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-27/epic-layoffs-are-a-symptom-of-deeper-video-game-industry-problems",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKkl_cFXasIE/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-03-26T20:24:29Z"
+      "publishedAt": "2026-03-27T17:00:01Z"
     },
     {
-      "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
-      "description": "A chemistry student’s groundbreaking nail polish may soon allow anyone, no matter their hand conditions, to effortlessly use touchscreen devices.",
-      "url": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/",
-      "urlToImage": "https://indiandefencereview.com/wp-content/uploads/2026/03/student-develops-clear-nail-polish-that-turns-fingernails-into-touchscreen-styluses-scaled.png",
-      "source": "Indiandefencereview.com",
-      "publishedAt": "2026-03-26T20:15:00Z"
+      "title": "Slay the Spire 2's 'anti-infinite' balance patch has now itself been patched, much to the relief of some Silent and Necrobinder players - Rock Paper Shotgun",
+      "description": "Mega Crit have reverted some of the Slay the Spire 2 beta card nerfs that made Silent and Necrobinder players mad, while making the Doormaker boss less random.",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-anti-infinite-balance-patch-has-now-itself-been-patched-much-to-the-relief-of-some-silent-and-necrobinder-players",
+      "urlToImage": "https://assetsio.gnwcdn.com/slaythespire2-silent.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Rock Paper Shotgun",
+      "publishedAt": "2026-03-27T16:41:15Z"
     },
     {
-      "title": "Google Translate’s real-time headphone translations feature expands to iOS and more countries - TechCrunch",
-      "description": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.",
-      "url": "https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/google-translate.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-26T19:11:52Z"
+      "title": "All-new Star Fox and Zelda: Ocarina of Time remake reportedly set for Switch 2 release this year - Eurogamer",
+      "description": "Nintendo reportedly has great plans to tap into (and benefit from) our nostalgia this year.",
+      "url": "https://www.eurogamer.net/all-new-star-fox-and-zelda-ocarina-of-time-remake-reportedly-set-for-switch-2-release-this-year",
+      "urlToImage": "https://assetsio.gnwcdn.com/Artwork-for-Zelda-Ocarina-of-Time-showing-Link-and-Sheik-fighting-off-enemy-hordes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-03-27T16:31:15Z"
     },
     {
-      "title": "iOS 26.4 just made Apple Creator Studio even better, here’s what’s new - 9to5Mac",
-      "description": "iOS 26.4 is here, and among its many changes, the update expands Apple Creator Studio by introducing exclusive new Freeform features.",
-      "url": "https://9to5mac.com/2026/03/26/ios-26-4-just-made-apple-creator-studio-even-better-heres-whats-new/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/creator-studio.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Don't worry, Dispatch isn't going to be censored on Xbox - Eurogamer",
+      "description": "Dispatch won't be censored by default on Xbox, AdHoc has confirmed.",
+      "url": "https://www.eurogamer.net/dont-worry-dispatch-isnt-going-to-be-censored-on-xbox",
+      "urlToImage": "https://assetsio.gnwcdn.com/Dispatch's-Invisigal-and-Robert-looking-at-each-other-very-closely-in-the-face.-He-is-shirtless-and-bruised.-She-is-in-a-pink-jacket.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-03-27T16:22:55Z"
+    },
+    {
+      "title": "Galaxy Buds 4 Pro are reportedly a hit because they actually deserve to be - 9to5Google",
+      "description": "The latest data reveals that, roughly a month into sales, Samsung’s new Galaxy Buds 4 Pro are a massive hit,...",
+      "url": "http://9to5google.com/2026/03/27/samsung-galaxy-buds-4-pro-success/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-03-27T16:05:00Z"
+    },
+    {
+      "title": "Apple TV app just added Crunchyroll as new channel, here’s what that means - 9to5Mac",
+      "description": "Apple TV Channels lets you subscribe to and watch other services in the TV app, and Crunchyroll just became a new channel.",
+      "url": "https://9to5mac.com/2026/03/27/apple-tv-app-just-added-crunchyroll-as-new-channel-heres-what-that-means/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-03-26T18:48:00Z"
+      "publishedAt": "2026-03-27T15:13:00Z"
     },
     {
-      "title": "Super Meat Boy Brings Brutal 3D Platforming To Switch 2 This Month - Nintendo Life",
-      "description": "Update: It looks like we might have a date...",
-      "url": "https://www.nintendolife.com/news/2026/03/super-meat-boy-brings-brutal-3d-platforming-to-switch-2-this-month",
-      "urlToImage": "https://images.nintendolife.com/61d0cf34c6126/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-03-26T18:30:00Z"
+      "title": "Mac Pro Discontinued: Reflecting on 20 Years of Apple's Desktop Tower - MacRumors",
+      "description": "Apple this week announced that it has discontinued the Mac Pro, with new configurations no longer available and no further models planned.   Below,...",
+      "url": "https://www.macrumors.com/2026/03/27/reflecting-on-20-years-of-mac-pro/",
+      "urlToImage": "https://images.macrumors.com/t/T2J-ZeezRh7IxSQii23-6pdRRD8=/2500x/article-new/2023/06/Mac-Pro-Three-Generations-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-27T14:39:49Z"
     },
     {
-      "title": "The Life of a 2XKO Patch - 2XKO",
-      "description": "What’s Zero Bug Day, anyway? Here’s how a 2XKO patch gets made.",
-      "url": "https://2xko.riotgames.com/en-us/news/game-updates/the-life-of-a-2xko-patch/",
-      "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/27a0ac2ab966d66a7202cbf798e265b3a6a109c3-1920x1080.jpg?accountingTag=2XKO?w=1200&h=630&fm=webp&fit=crop&crop=center",
-      "source": "Riotgames.com",
-      "publishedAt": "2026-03-26T18:00:00Z"
+      "title": "All iPhone 18 models might offer key design change, per leaker - 9to5Mac",
+      "description": "A new leak indicates that one of iPhone 18 Pro’s rumored design changes—a smaller Dynamic Island—will apply to more iPhone 18 models too.",
+      "url": "https://9to5mac.com/2026/03/27/all-iphone-18-models-might-offer-key-design-change-per-leaker/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-03-27T14:34:00Z"
     },
     {
-      "title": "Xbox’s latest games showcase had Hades 2, The Expanse, and Bluey - The Verge",
-      "description": "At its Xbox Partner Preview livestream, Microsoft showed off a number of upcoming games, including the Xbox port of Hades 2.",
-      "url": "https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T17:42:01Z"
+      "title": "Pearl Abyss CEO Addresses ‘Disappointment’ In Crimson Desert’s Story - Forbes",
+      "description": "\"Crimson Desert\" has a great sandbox but a lackluster story, so much so that the CEO has addressed the problem with shareholders.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/03/27/pearl-abyss-ceo-addresses-disappointment-in-crimson-deserts-story/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69c683e085f3f3f7b83007ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-03-27T13:22:18Z"
     },
     {
-      "title": "Project Motor Racing free-to-play on PC - Traxion.GG",
-      "description": "The promotion means that those with a PC and Steam can play Project Motor Racing for no charge from now until the 30th March.",
-      "url": "https://traxion.gg/project-motor-racing-free-to-play-on-pc/",
-      "urlToImage": "https://traxion.gg/wp-content/uploads/2026/03/Project-Motor-Racing-free-on-PC.jpg",
-      "source": "Traxion.gg",
-      "publishedAt": "2026-03-26T17:39:54Z"
+      "title": "iOS 26.4 is Here: 12 Settings to Change for Better Battery and Privacy - Geeky Gadgets",
+      "description": "Master the new iOS 26.4 update with these 12 essential setting changes. From optimizing Liquid Glass UI to enabling Adaptive Power Mode.",
+      "url": "https://www.geeky-gadgets.com/ios-26-4-settings-to-change/",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/ios-26-4-7.jpg",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-03-27T13:01:32Z"
     },
     {
-      "title": "Hades II Comes to Xbox Game Pass on April 14 – Here’s How It Builds on the Iconic Original - Xbox Wire",
-      "description": "Hades II comes to Xbox (including Game Pass) on April 14, in its most complete form ever - find out more inside.",
-      "url": "https://news.xbox.com/en-us/2026/03/26/hades-2-xbox-partner-preview/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Hades-Hero-082f5b70e5822e537e9a.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-03-26T17:36:48Z"
+      "title": "AMD’s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip - Ars Technica",
+      "description": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
+      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-03-27T12:44:12Z"
     },
     {
-      "title": "Artificial Detective: Breaking Down the Gameplay Behind This Incredible Xbox Partner Preview Reveal - Xbox Wire",
-      "description": "Artificial Detective puts you on the case of solving humanity’s disappearance. We spoke to its creators on how they're blending hacking, stealth, and companion abilities in this upcoming decopunk action-adventure.",
-      "url": "https://news.xbox.com/en-us/2026/03/26/artificial-detective-xbox-partner-preview/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Artificial-Detective-Hero-b4853f67730d51e6c411.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-03-26T17:36:48Z"
-    },
-    {
-      "title": "My brief, weird time with the Samsung TriFold - The Verge",
-      "description": "$4000 and a ROM update later, the Galaxy Z TriFold we bought on eBay is up and running. But we’re starting to see why Samsung discontinued it abruptly.",
-      "url": "https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03111_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T17:30:00Z"
-    },
-    {
-      "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks - TechCrunch",
-      "description": "Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in.",
-      "url": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/broken-iphone-screen-zoomed-in.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-26T17:22:01Z"
+      "title": "New PlayStation Studio PS5 Game’s Launch Sales Bombed – Report - PlayStation LifeStyle",
+      "description": "In a concerning development, the latest PlayStation Studios first-party game appears to have bombed at launch on the PS5.",
+      "url": "https://www.playstationlifestyle.net/2026/03/27/playstation-studios-game-marathon-ps5-sales/",
+      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/03/marathon-ps5-game-sales.jpg?resize=1200,630",
+      "source": "PlayStation LifeStyle",
+      "publishedAt": "2026-03-27T12:44:10Z"
     }
   ]
 }
