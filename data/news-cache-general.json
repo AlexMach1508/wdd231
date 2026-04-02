@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2026-04-01T07:49:28.478Z",
+  "updatedAt": "2026-04-02T07:38:47.449Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Live updates: Kuwaiti tanker laden with oil attacked as Trump again threatens to blow up Iran’s energy facilities - CNN",
-      "description": "No oil leakage or injuries have been reported following the Iranian strike on the Kuwaiti tanker. Follow for live updates.",
-      "url": "https://www.cnn.com/2026/03/31/world/live-news/iran-war-us-trump-oil",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/03-2026-03-04t182121z-2122628346-rc24vjaejhvb-rtrmadp-3-iran-crisis-1.jpg?c=16x9&q=w_800,c_fill",
+      "title": "Artemis 2 livestream: Watch 4 astronauts launch to the moon today - Space",
+      "description": "Artemis 2 will be the first time humans have flown to the moon in 50 years, so be sure to tune in.",
+      "url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-launching-to-the-moon-on-april-1-watch-it-live",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YuNNftDbzSo6vPK7SzUAB4-1920-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-04-01T08:24:41Z"
+    },
+    {
+      "title": "Walking away from the Strait of Hormuz won’t make gas cheap again - CNN",
+      "description": "The world economy is being held hostage by the de facto closure of the Strait of Hormuz.",
+      "url": "https://www.cnn.com/2026/04/01/business/gas-prices-trump-strait-of-hormuz-iran",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267952561.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2026-03-31T05:31:00Z"
+      "publishedAt": "2026-04-01T07:00:55Z"
     },
     {
-      "title": "Trump shares renderings of his presidential library — a massive skyscraper in Miami - NBC News",
-      "description": "The mocked-up library dwarfs the nearby Freedom Tower, a downtown Miami landmark.",
-      "url": "https://www.nbcnews.com/politics/donald-trump/shares-renderings-presidential-library-miami-skyscraper-rcna265966",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260330-trump-oval-office-vsb-2304-2bd268.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-03-31T04:09:00Z"
-    },
-    {
-      "title": "Seizing Kharg Island would risk US troops’ lives and may not end Iran war, experts say - AP News",
-      "description": "President Donald Trump is threatening to deploy ground troops to seize critical oil infrastructure on Iran’s Kharg Island. It's a military gambit that experts say would risk American lives and could still fail to end the war. Trump has said he could hobble Ir…",
-      "url": "https://apnews.com/article/kharg-island-seize-ground-troops-oil-iran-4244166c19dd33689f8a59e96e1d7d5b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ce2d0d6/2147483647/strip/true/crop/4213x2807+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F27%2Fe559a45eab130b32019fb38bdd4a%2F4c0067a64092404fa96363bfd1cbe371",
-      "source": "Associated Press",
-      "publishedAt": "2026-03-31T04:01:00Z"
-    },
-    {
-      "title": "Trump says U.S. negotiating with Iranian leaders, despite Iran’s denials - The Washington Post",
-      "description": "Iran contradicted Trump’s claims that direct talks with more a moderate regime in Tehran were making “great progress.”",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/30/trump-iran-war-negotiations-denial/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/VFMFDGQZHBK5SHSZHSVS2JOAM4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-03-31T03:35:53Z"
-    },
-    {
-      "title": "Timberwolves 124-94 Mavericks (Mar 30, 2026) Game Recap - ESPN",
-      "description": null,
-      "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401810950",
-      "urlToImage": null,
-      "source": "ESPN",
-      "publishedAt": "2026-03-31T03:13:07Z"
-    },
-    {
-      "title": "Celine Dion announces comeback shows 4 years after diagnosis of rare condition - The Washington Post",
-      "description": "Dion announced a set of concerts for this fall in Paris.",
-      "url": "https://www.washingtonpost.com/style/2026/03/30/celine-dion-comeback-concerts-paris/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y7PWHPA6A2HJAOZXSRG4TEQO6A_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-03-31T02:52:41Z"
-    },
-    {
-      "title": "Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News",
-      "description": "Energy markets remain volatile as President Trump threatens Iran with an invasion to seize its oil while also suggesting a deal could soon end the war.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/30/e6b76bbb-c5f1-476b-94bd-d9c417702519/thumbnail/1200x630/bf9f4891f79020f0a90d0ca66d960dfe/gettyimages-2268548492.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-03-31T02:23:00Z"
-    },
-    {
-      "title": "Bulls waive guard Jaden Ivey after anti-LGBTQ comments, remarks about religion on Instagram - AP News",
-      "description": "The Chicago Bulls waived guard Jaden Ivey on Monday in the wake of anti-LGBTQ comments and remarks about religion he made in a series of videos on his Instagram account. Ivey criticized the NBA for celebrating Pride Month and what he described as “unrighteous…",
-      "url": "https://apnews.com/article/jaden-ivey-comments-waived-chicago-bulls-738cdd3a17c16d56ac9376bcb14dc747",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c2c8af5/2147483647/strip/true/crop/5043x3360+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2F7d%2Fe55d28b70461f56cf2cb92583fec%2Fa3e9e419a2e842808bd2331b7142e1ec",
-      "source": "Associated Press",
-      "publishedAt": "2026-03-31T01:45:00Z"
-    },
-    {
-      "title": "China's factory activity returns to growth, expanding at its sharpest pace in a year - CNBC",
-      "description": "China's official gauge for manufacturing activity pointed to a better-than-expected expansion in March, snapping two months of declines.",
-      "url": "https://www.cnbc.com/2026/03/31/china-pmi-data-march-factory-activity-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284781-1774881790823-gettyimages-2264040231-vcg111624576802.jpeg?v=1774881843&w=1920&h=1080",
+      "title": "Large Japanese companies are more optimistic despite Iran conflict, but analysts say this may not last - CNBC",
+      "description": "The positive sentiment may not fully capture the impact from the Iran war, analysts said, as Japan's Tankan survey period ended in March.",
+      "url": "https://www.cnbc.com/2026/04/01/japan-business-sentiment-improves-in-tankan-survey.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247756-1685410358793-gettyimages-1490621005-20221119__bot8525.jpeg?v=1775018942&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-03-31T01:37:00Z"
+      "publishedAt": "2026-04-01T05:36:00Z"
     },
     {
-      "title": "2026 NFL Mock Draft: Every First-Round Pick Gets Traded! - FOX Sports",
-      "description": "Which teams are best positioned to move up or down in the 2026 NFL Draft? Rob Rang proposes a trade for each first-round pick.",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-mock-draft-every-first-round-pick-gets-traded",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/03/1408/814/mock-draft_16x9-nfl-2.jpg?ve=1&tl=1",
-      "source": "Fox Sports",
-      "publishedAt": "2026-03-31T01:31:00Z"
+      "title": "Trump plans to attend Wednesday's Supreme Court hearing on birthright citizenship - NPR",
+      "description": "President Donald Trump plans to sit in on Wednesday's Supreme Court hearing on birthright citizenship, making him the first sitting president to attend oral arguments at the nation's highest court.",
+      "url": "https://www.npr.org/2026/04/01/g-s1-116019/trump-attend-supreme-court-birthright-citizenship",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F46%2F050ada314e7db96233ffc8466348%2Fap26090793814637.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-04-01T05:26:14Z"
     },
     {
-      "title": "TSA agents see partial paychecks - Federal News Network",
-      "description": "While most TSA employees should have received at least partial backpay on Monday, thousands more DHS employees continue to work without pay.",
-      "url": "https://federalnewsnetwork.com/government-shutdown/2026/03/tsa-agents-see-partial-paychecks/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2019/01/Government_Shutdown-Aviation_72323.jpg",
-      "source": "Federal News Network",
-      "publishedAt": "2026-03-31T01:24:15Z"
-    },
-    {
-      "title": "Air Canada CEO will retire this year after his English-only crash message was criticized - CNN",
-      "description": "Air Canada announced Monday that its CEO will retire later this year, after Michael Rousseau was criticized for his English-only message of condolence following this month’s deadly crash in New York.",
-      "url": "https://www.cnn.com/2026/03/30/business/air-canada-ceo-english-french-crash-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1236323759.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-03-31T01:18:00Z"
-    },
-    {
-      "title": "Israel suspends battalion that detained CNN crew in West Bank - The Washington Post",
-      "description": "Reservists from the IDF’s ultra-Orthodox Netzah Yehuda unit held CNN journalists for two hours on Thursday.",
-      "url": "https://www.washingtonpost.com/world/2026/03/30/israel-suspends-battalion-cnn/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LRGIN25CSK6RAPVKNY2LIOMG7M_size-normalized.JPG&w=1440",
+      "title": "Hegseth exonerates helicopter crews over Kid Rock flyby, nullifying Army probe - The Washington Post",
+      "description": "“No punishment. No investigation,” the Pentagon chief wrote on social media hours after military officials announced they had grounded the pilots involved.",
+      "url": "https://www.washingtonpost.com/national-security/2026/03/31/hegseth-kid-rock-flyby/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJDLNN5XGLKO77PHSEWWM52RE_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-03-31T01:17:14Z"
+      "publishedAt": "2026-04-01T05:06:00Z"
     },
     {
-      "title": "iOS 26.5 beta 1: Here are all the new features - 9to5mac.com",
-      "description": "Apple released iOS 26.5 beta 1 for developers today. The update doesn’t include any of the highly-anticipated new Siri features,...",
-      "url": "https://9to5mac.com/2026/03/30/ios-26-5-beta-1-here-are-all-the-new-features/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26.5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-03-31T00:38:00Z"
+      "title": "Iran War Live Updates: Trump Says U.S. Will Be Leaving Iran in 2-3 Weeks - WSJ",
+      "description": "The president says U.S. has eliminated Iran’s nuclear threat and ‘it will take 15-20 years' to rebuild",
+      "url": "https://www.wsj.com/livecoverage/iran-war-news-trump",
+      "urlToImage": "https://images.wsj.net/im-73054807/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-04-01T04:35:00Z"
     },
     {
-      "title": "Army reviews why helicopters flew near Kid Rock’s home, No Kings rallies - The Washington Post",
-      "description": "An Army official said “appropriate action” will be taken if the probe reveals violations of safety standards or other regulations.",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XP3DQ3PQNKE22IILRPLLHBCYBU_size-normalized.JPG&w=1440",
+      "title": "Megan Thee Stallion Hospitalized in New York After Exiting ‘Moulin Rouge’ Performance Mid-Show - The Hollywood Reporter",
+      "description": "“During Tuesday night’s production, Megan started feeling very ill and was promptly transported to a local hospital, where her symptoms are currently being evaluated,” her rep tells The Hollywood Reporter.",
+      "url": "http://www.hollywoodreporter.com/music/music-news/megan-thee-stallion-moulin-rouge-hospitalized-performance-1236553338/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2268222371.jpg?crop=0px%2C140px%2C1590px%2C890px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-04-01T03:44:42Z"
+    },
+    {
+      "title": "Dow Jones Futures Rise, UAE Willing To Help Force Hormuz Open; Trump To Speak To Nation On Iran - Investor's Business Daily",
+      "description": "President Trump will speak to the nation on the Iran War on Wednesday night.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/11/Stock-Trump-GoldRoom-shut.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-04-01T03:10:00Z"
+    },
+    {
+      "title": "Trump issues order attempting to change rules for mail-in voting - The Washington Post",
+      "description": "The order calls for limiting mail ballots and using federal data to compile lists of eligible voters – moves experts say exceed his constitutional authority.",
+      "url": "https://www.washingtonpost.com/politics/2026/03/31/trump-mail-voting-executive-order/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N5TFMKJPQT7TT5K6QTNJ7VFAWM_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-03-30T23:31:39Z"
+      "publishedAt": "2026-04-01T03:00:00Z"
     },
     {
-      "title": "‘Paradise’ Season 2 Finale: Sterling K. Brown, Thomas Doherty and Executive Producer Talk Big Sci-Fi Twist, ‘Multiverse’ Plans for Third and Final Season - Variety",
-      "description": "\"Paradise\" star Sterling K. Brown, actor Thomas Doherty and producer break down Season 2 finale and plans for ending in Season 3.",
-      "url": "https://variety.com/2026/tv/news/paradise-season-2-ending-explained-alex-dylan-season-3-1236702757/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/03/Paradise-Season-2.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-03-30T23:30:00Z"
+      "title": "Lizzo confesses she lost virginity after 2020 Grammys win: ‘I lied about it for a long time’ - Entertainment Weekly",
+      "description": "Lizzo made a promise to herself when she was younger that she wouldn't lose her virginity after she won her first Grammy. In 2020, she won three and made good on her promise.",
+      "url": "https://ew.com/lizzo-confesses-she-lost-her-virginity-after-2020-grammys-win-11940188",
+      "urlToImage": "https://ew.com/thmb/1NwY2hoNWqrXgvs_dg0cNcC6xe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lizzo-2020-grammys-033126-69a341d33c704cdc9ce5a21b65395040.jpg",
+      "source": "Entertainment Weekly",
+      "publishedAt": "2026-04-01T02:25:44Z"
     },
     {
-      "title": "Live updates: Artemis II countdown begins as 80% ‘Go’ weather forecast holds for Florida - FOX Weather",
-      "description": "NASA is targeting an April 1 launch for the historic Artemis II mission, with meteorologists currently tracking an 80% \"Go\" weather forecast at Kennedy Space Center. Follow our live updates for real-time radar, cloud thickness analysis, and the latest countdo…",
-      "url": "https://www.foxweather.com/live-news/live-updates-artemis-ii-countdown-begins-as-80-go-weather-forecast-holds-for-florida",
-      "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-weather/og/og-fox-weather.png",
-      "source": "Foxweather.com",
-      "publishedAt": "2026-03-30T23:06:29Z"
+      "title": "2026 NFL Draft: Mel Kiper shakes up Top 10 QB rankings as draft gets closer - On3",
+      "description": "Longtime ESPN draft analyst Mel Kiper Jr. overhauled his Top 10 QB ranking three weeks ahead of the 2026 NFL Draft April 23-25 in Pittsburgh.",
+      "url": "https://www.on3.com/pro/news/2026-nfl-draft-mel-kiper-shakes-up-top-10-qb-rankings-as-draft-gets-closer/",
+      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/03/31124314/2026-NFL-Draft-QB-Rankings.png",
+      "source": "On3.com",
+      "publishedAt": "2026-04-01T02:20:23Z"
     },
     {
-      "title": "Here’s When The ‘Arc Raiders’ Flashpoint Update Goes Live With New Guns, New Arc Enemies And More - Forbes",
-      "description": "The 'Arc Raiders' Flashpoint update brings two new guns, a deadly new Arc enemy and some quality of life improvements to the game. Here's everything you need to know.",
-      "url": "https://www.forbes.com/sites/erikkain/2026/03/30/arc-raiders-flashpoint-update-release-time-new-content/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69caf4c5cf20ed997c3e517d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-03-30T22:52:00Z"
+      "title": "Trump's White House ballroom project halted by judge - Axios",
+      "description": "The judge said Trump is the \"steward,\" not the \"owner\" of the White House, and that the project requires Congress' approval.",
+      "url": "https://www.axios.com/2026/03/31/trump-ballroom-plans-judge-order",
+      "urlToImage": "https://images.axios.com/0m2SSXKlKaSssa-eIETvUBkDhXM=/0x0:4000x2250/1366x768/2026/03/31/1774984893696.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-04-01T02:16:02Z"
     },
     {
-      "title": "Kylie Jenner and Timothée Chalamet Are Posting Coy Vacation Shots - The Cut",
-      "description": "Kylie Jenner and Timothée Chalamet simultaneously posted solo photos from vacation, leading people to believe they’re hiding being together.",
-      "url": "http://www.thecut.com/article/kylie-jenner-timothee-chalamet-coy-vacation-shots.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/017/e6f/9d7e1d5a5899f7e055e51bd6ea9ccf4003-GettyImages-2266753061.1x.rsocial.w1200.jpg",
-      "source": "The Cut",
-      "publishedAt": "2026-03-30T22:38:58Z"
+      "title": "'Summer House': Amanda Batula & West Wilson Bombshell Shakes Reality Series; Bravo Not Planning On Picking Up Cameras For Now - Deadline",
+      "description": "The Bravoverse is still physically shaking from the news that The Real Housewives of Miami was going on pause, and now a scandal involving Summer House is rattling the fanbase.",
+      "url": "http://deadline.com/2026/03/summer-house-amanda-batula-west-wilson-bombshell-bravo-1236770425/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/amanda-batula-westling-wilson-summer-house.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-04-01T00:21:00Z"
+    },
+    {
+      "title": "Google Readies Screenless Fitbit Band to Rival Growing Whoop Craze - Bloomberg.com",
+      "description": "Alphabet Inc.’s Google is developing its own fitness band, aiming to compete with screenless wearable devices from upstarts like Whoop Inc. and Oura Health Oy.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/google-readies-revamped-screenless-fitbit-to-rival-growing-whoop-craze",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iudhEn3vT_NU/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-04-01T00:02:00Z"
+    },
+    {
+      "title": "Trump criticizes European allies for not helping fix the damage his war against Iran has caused - AP News",
+      "description": "President Donald Trump entered his war of choice against Iran without consulting global allies. But as he weighs an exit from the conflict, he’s making it clear that he’s expecting the world to help him fix the unintended damage it’s caused. On Tuesday, he bl…",
+      "url": "https://apnews.com/article/iran-war-trump-europe-nato-strait-hormuz-f6aeaa9a8dad050a54a26ba339af4545",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6fb7fa2/2147483647/strip/true/crop/5824x3881+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F0c%2Ffd0e27dee0694a9a18104b7e29c3%2F1d67a00111204f03bfd1aee709d562a2",
+      "source": "Associated Press",
+      "publishedAt": "2026-03-31T23:51:00Z"
+    },
+    {
+      "title": "Health officials warn of leptospirosis risk after Hawaii floods - Honolulu Star-Advertiser",
+      "description": "The Hawaii Department of Health and Hawaiian Humane Society are urging residents and recovery workers to monitor for signs of leptospirosis in the aftermath of the “Kona low” storm floods.",
+      "url": "https://www.staradvertiser.com/2026/03/31/breaking-news/health-officials-warn-of-leptospirosis-risk-after-hawaii-floods/",
+      "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2026/03/web1_20260331_brk_klo01.jpg",
+      "source": "Honolulu Star-Advertiser",
+      "publishedAt": "2026-03-31T23:20:33Z"
+    },
+    {
+      "title": "Tiger Woods says he's \"stepping away\" to seek treatment after pleading not guilty to DUI - CBS News",
+      "description": "Tiger Woods announced Tuesday that he's \"stepping away for a period of time to seek treatment\" after pleading not guilty​ to charges including driving under the influence.",
+      "url": "https://www.cbsnews.com/news/tiger-woods-stepping-away-treatment-pleads-not-guilty-to-dui/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/27/8754746c-7216-4518-b738-a92e8fb5944c/thumbnail/1200x630/4c905653821202ce5aa858bfac6083ca/gettyimages-2268221885.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-03-31T23:08:55Z"
+    },
+    {
+      "title": "Kidnapping of US journalist in Iraq linked to Iranian militants - Politico",
+      "description": "The State Department said it had warned the journalist that she was at risk.",
+      "url": "https://www.politico.com/news/2026/03/31/kidnapping-us-journalist-iraq-iranian-militants-00853116",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fae%2F2f%2F1c1bc364416096ca7cb7cda7ddc7%2Firaq-iran-war-87-7.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-03-31T23:05:44Z"
     }
   ]
 }
