@@ -1,159 +1,159 @@
 {
-  "updatedAt": "2026-04-03T07:23:31.778Z",
+  "updatedAt": "2026-04-04T07:13:56.327Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock futures fall after Trump says Iran war will continue for weeks: Live updates - CNBC",
-      "description": "All three major averages rose on Wednesday to kick off the second quarter.",
-      "url": "https://www.cnbc.com/2026/04/01/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284819-1774884457695-gettyimages-2269086138-mms15943_njkd8bm8.jpeg?v=1774884502&w=1920&h=1080",
+      "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank - CNBC",
+      "description": "Microsoft said it plans to invest $10 billion in Japan between 2026 and 2029 to build AI infrastructure.",
+      "url": "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287018-1775193545233-gettyimages-2268954940-AFP_A6MJ79E.jpeg?v=1775193564&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-04-02T05:36:00Z"
+      "publishedAt": "2026-04-03T05:19:48Z"
     },
     {
-      "title": "Elon Musk’s SpaceX files to go public, seeking massive market debut - washingtonpost.com",
-      "description": "The aerospace company, valued at more than $1 trillion, could break the record for the largest public offering in history, according to reports.",
-      "url": "https://www.washingtonpost.com/technology/2026/04/01/elon-musk-spacex-ipo/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RCDEMVJDX2Z74ALZA5EAVCU2AU.JPG&w=1440",
+      "title": "Trump labor board orders Amazon to bargain with Teamsters - The Washington Post",
+      "description": "The decision reawakens a long-running dispute between a union that represents workers at a Staten Island warehouse and the tech giant following a milestone union victory in 2022.",
+      "url": "https://www.washingtonpost.com/technology/2026/04/02/amazon-trump-teamsters-nlrb/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJEY2YG4LQI6ZPBVVEOQVFESHM_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-04-02T03:58:53Z"
+      "publishedAt": "2026-04-03T02:04:41Z"
     },
     {
-      "title": "Best Amazon Spring Sale Deals Under $25: Cheap Finds Worth Buying - cnet.com",
-      "description": "Amazon has dozens of items to fill your Easter basket, from toys to tech to everyday essentials.",
-      "url": "https://www.cnet.com/deals/last-chance-best-amazon-spring-sale-under-25-deals-2026-4-1/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/646b5a000e547311eb051e5e63b6b2b9c924a21b/hub/2026/03/30/b577477e-8088-4c54-9af5-ea7748197b5b/under-25-ending-soon.png?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-04-02T02:20:03Z"
+      "title": "US: March Jobs Report Expected to Show a Bounce Back in Hiring - Forex Factory",
+      "description": "Economists forecast a rebound in hiring for the March employment report following a bleak showing in February, as the labor market continues to tread water. Analysts expect the March report to show 60,000 new jobs added, according to FactSet consensus estimat…",
+      "url": "https://www.forexfactory.com/news/1391850-us-march-jobs-report-expected-to-show-a",
+      "urlToImage": "https://www.forexfactory.com/news/1391850-us-march-jobs-report-expected-to-show-a/image",
+      "source": "Forex Factory",
+      "publishedAt": "2026-04-03T00:55:00Z"
     },
     {
-      "title": "Shoe brand once worth $4B closes all stores, avoids bankruptcy - thestreet.com",
-      "description": "After issuing a going concern warning, the brand closed all stores but found a lifeline to avoid bankruptcy.",
-      "url": "https://www.thestreet.com/retail/allbirds-once-worth-4b-closes-all-stores-avoids-bankruptcy",
-      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODcwMzE2/shoe-store-lead.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2026-04-02T01:09:00Z"
-    },
-    {
-      "title": "Roadway outdoor dining is back in NYC for 2026, but it's only a slice of what it once was - Gothamist",
-      "description": "The program is far smaller than during the pandemic. City leaders say they want to fix that.",
-      "url": "https://gothamist.com/news/roadway-outdoor-dining-is-back-in-nyc-for-2026-but-its-only-a-slice-of-what-it-once-was",
-      "urlToImage": "https://api-prod.gothamist.com/images/356231/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-04-02T00:00:00Z"
-    },
-    {
-      "title": "Nike Can’t Fix Its China Problem and That’s Tanking Its Stock - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/retail/nikes-road-to-recovery-in-china-is-hitting-new-hurdles-5aced75f",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-04-01T22:39:00Z"
-    },
-    {
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident - TechCrunch",
-      "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-01T22:12:13Z"
-    },
-    {
-      "title": "Americans say this is their savings \"magic number\" to retire comfortably - CBS News",
-      "description": "Most people fall far short of the savings they say they will need to maintain their standard of living in retirement, data shows.",
-      "url": "https://www.cbsnews.com/news/how-much-money-do-you-need-to-retire/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/01/ee6ea2e7-2434-417b-9133-4f8b94c51db3/thumbnail/1200x630/16e5c21ad7e6c504e79e2f7b58f2acda/gettyimages-2028070024.jpg",
+      "title": "Live Updates: As Iran war rages on and oil prices rise, Trump says U.S. \"hasn't even started destroying what's left\" - CBS News",
+      "description": "President Trump warned the U.S. \"hasn't even started destroying what's left in Iran,\" and previewed that strikes on bridges and power plants could be next.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-israel-iranian-president-letter-american-people/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/02/181de362-f260-4789-973a-9d952cf2a799/thumbnail/1200x630/cf0c11ba050dd4544d17e88d8405ec0a/gettyimages-2268853005.jpg",
       "source": "CBS News",
-      "publishedAt": "2026-04-01T21:55:24Z"
+      "publishedAt": "2026-04-03T00:22:00Z"
     },
     {
-      "title": "Recently laid-off Oracle worker says AI is coming for jobs - theregister.com",
-      "description": ": WARN filings in two states show 1,000+ layoffs, but wider cuts remain unconfirmed",
-      "url": "https://www.theregister.com/2026/04/01/laidoff_oracle_workers/",
-      "urlToImage": "https://regmedia.co.uk/2026/04/01/shutterstock_2690335969.jpg",
-      "source": "Theregister.com",
-      "publishedAt": "2026-04-01T21:55:00Z"
+      "title": "Federal government sues three states over their regulation of prediction markets - AP News",
+      "description": "The federal government is suing Connecticut, Arizona and Illinois, challenging their efforts to regulate prediction market operators such as Kalshi and Polymarket. All three states have sent cease and desist orders to such companies accusing them of engaging …",
+      "url": "https://apnews.com/article/prediction-markets-kalshi-polymarket-lawsuits-bf02dafc40758887b03b4e9fc8aac104",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8587311/2147483647/strip/true/crop/5100x3398+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F0f%2F2c0af1b42ab82f20e8d861bab9e2%2Fee34b18e76764c7f86e7dab635efd7b4",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-03T00:03:07Z"
     },
     {
-      "title": "The Protocol: Quantum computing could break Bitcoin sooner, says Google - CoinDesk",
-      "description": "Also: OpenAI raises $122 billion, crypto ecosystems diverging post-quantum strategies, and Base’s 2026 roadmap.",
-      "url": "https://www.coindesk.com/tech/2026/04/01/the-protocol-quantum-computing-could-break-bitcoin-sooner-says-google",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/58de25dd1cb2682200c4e10c33ddf7f5368f725f-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-01T21:39:18Z"
-    },
-    {
-      "title": "Microsoft CFO’s AI Spending Runs Up Against Tech Bubble Fears - Bloomberg.com",
-      "description": "After making a controversial call to pause some data center development last year, Amy Hood is navigating one of the toughest jobs in tech.",
-      "url": "https://www.bloomberg.com/news/features/2026-04-01/microsoft-s-ai-ambitions-rest-in-hands-of-satya-nadella-s-trusted-cfo",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVBNfOS76p.0/v0/1200x750.jpg",
+      "title": "Blue Owl Reels as Investors Who Fueled Its Growth Now Want Out - Bloomberg.com",
+      "description": "The top-line numbers from Blue Owl Capital Inc.’s funds were unambiguous and, by just about any measure, ugly.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-02/blue-owl-reels-as-investors-who-fueled-its-growth-now-want-out",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSvuqxCkBV54/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-04-01T21:00:04Z"
+      "publishedAt": "2026-04-02T23:00:05Z"
     },
     {
-      "title": "Hyundai teases first pickup with Boulder concept - Axios",
-      "description": "Hyundai's concept reveal at the New York International Auto Show is a shot across the bow of Detroit's domestic automakers.",
-      "url": "https://www.axios.com/2026/04/01/hyundai-truck-pickup-boulder",
-      "urlToImage": "https://images.axios.com/wUauj2Ucu1lr5t85jWGiUk6dqSE=/0x0:4800x2700/1366x768/2026/04/01/1775053806523.jpeg",
+      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets - TechCrunch",
+      "description": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired.",
+      "url": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/IMG_20221023_152246-e1666570908650.jpg?resize=1200,676",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-02T22:56:29Z"
+    },
+    {
+      "title": "United Airlines is raising bag fees by $10 beginning Friday - The Points Guy",
+      "description": "United Airlines will become the second U.S. airline to raise checked bag fees beginning Friday. The cost of a first bag on United will rise by $10.",
+      "url": "https://thepointsguy.com/news/united-airlines-raises-checked-bag-fees/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/03/united-elevated.jpeg",
+      "source": "The Points Guy",
+      "publishedAt": "2026-04-02T22:50:10Z"
+    },
+    {
+      "title": "MIT study challenges AI job apocalypse narrative - Axios",
+      "description": "AI is advancing across the workforce more like a \"rising tide\" than a \"crashing wave,\" the report finds.",
+      "url": "https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact",
+      "urlToImage": "https://images.axios.com/k2MQX0uMR5TxSzOIuyTx73T-CgM=/0x0:1920x1080/1366x768/2025/08/28/1756404040186.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-04-01T20:42:01Z"
+      "publishedAt": "2026-04-02T22:31:52Z"
     },
     {
-      "title": "Food pantries serving nearly 40 Minnesota communities suddenly close - Star Tribune",
-      "description": "Ruby’s Pantry operated food shelves for more than two decades in dozens of Minnesota communities and in other Upper Midwestern states. The nonprofit said the operation was “no longer financially sustainable.”",
-      "url": "https://www.startribune.com/rubys-pantry-food-shelf-closing-minnesota/601658368",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/3GSJTL2OEICNVWOWC24USZQ7FI.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2026-04-01T20:37:34Z"
+      "title": "Tesla EV sales \"underwhelming\" as Elon Musk pivots to AI - Axios",
+      "description": "Tesla's EV sales underwhelmed investors in Q1 — but the company doesn't seem to mind as CEO Elon Musk focuses on an AI-powered future.",
+      "url": "https://www.axios.com/2026/04/02/tesla-ev-elon-musk-gas-prices",
+      "urlToImage": "https://images.axios.com/RGxYPARrKJsE6kZ2cLg-91EywgY=/0x860:8256x5504/1366x768/2026/04/02/1775156042680.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-04-02T22:07:13Z"
     },
     {
-      "title": "Stock Market Today: Nasdaq Leads Charge After Trump's War Comments; Amazon, Tesla Rise (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index rises Wednesday after Trump said Iran's new president is asking for a ceasefire.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-jobs-data-nike-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BullBearMarket-07-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-04-01T20:37:00Z"
+      "title": "Iran Says It Hit Oracle Facilities in UAE - Gizmodo",
+      "description": "After Amazon, Oracle is now in the bulls-eye.",
+      "url": "https://gizmodo.com/iran-says-it-hit-oracle-facilities-in-uae-2000741785",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2264175714-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-04-02T21:16:40Z"
     },
     {
-      "title": "Facing backlash, Hershey says it will go back to original Reese's recipe in 2027 - phillyvoice.com",
-      "description": "The company was criticized for its use of chocolate and peanut butter substitutes in various products.",
-      "url": "https://www.phillyvoice.com/hershey-reeses-ingredients-peanut-butter-cups-kitkat-chocolate/",
-      "urlToImage": "https://media.phillyvoice.com/media/images/4126_Reeses_PB.2e16d0ba.fill-1200x630-c0.jpg",
-      "source": "PhillyVoice.com",
-      "publishedAt": "2026-04-01T20:29:57Z"
+      "title": "These Stocks Are Today’s Movers: Tesla, Globalstar, Blue Owl, United Airlines, Carnival, Lumentum, and More - Barron's",
+      "description": "Cruise line and airline stocks slide after President Donald Trump’s speech fails to assuage concerns over a drawn-out war in Iran.",
+      "url": "https://www.barrons.com/articles/stock-movers-cc1f9498",
+      "urlToImage": "https://images.barrons.com/im-88808064/social",
+      "source": "Barron's",
+      "publishedAt": "2026-04-02T20:41:00Z"
     },
     {
-      "title": "Intel to Pay $14 Billion to Buy Back Apollo Stake in Ireland Plant - Bloomberg.com",
-      "description": "Intel Corp., the chipmaker aiming to restore its manufacturing prowess, agreed to pay $14.2 billion to buy back half of a plant in Ireland that it had previously sold to Apollo Global Management.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-01/intel-intc-to-pay-14-billion-to-buy-back-apollo-apo-stake-in-ireland-plant",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izYFdMdlXS1k/v1/1200x800.jpg",
+      "title": "Wall Street Money Managers Hunker Down as Iran War Rages On - bloomberg.com",
+      "description": "Five weeks of war with Iran have wiped trillions off global stocks, pushed oil past $100 and kept it there and repriced wagers on interest rates and inflation.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-02/wall-street-money-managers-hunker-down-as-iran-war-rages-on",
+      "urlToImage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
       "source": "Bloomberg",
-      "publishedAt": "2026-04-01T20:09:55Z"
+      "publishedAt": "2026-04-02T20:31:45Z"
     },
     {
-      "title": "Which Brands Will Be Hardest Hit by FCC's Foreign Router Ban? Here's the List - PCMag",
-      "description": "Data from Ookla's Speedtest.net offers a rare look at the most popular Wi-Fi router brands in the US. Surprisingly, TP-Link isn't number one.",
-      "url": "https://www.pcmag.com/news/which-brands-will-be-hardest-hit-by-fccs-foreign-router-ban-heres-the-list",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/064KK9THEnFmabwp62oMIgi-1.fit_lim.size_1200x630.v1775062827.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2026-04-01T19:52:15Z"
+      "title": "Claude Code leak used to push infostealer malware on GitHub - BleepingComputer",
+      "description": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware.",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/03/25/GitHub.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-04-02T20:30:55Z"
     },
     {
-      "title": "Dr. Oz Announces Launch Of Program Covering Hemp THC And CBD Products Through Medicare - Marijuana Moment",
-      "description": "Federal health officials on Wednesday announced the launch of a new Trump administration initiative to cover up to $500 worth of hemp-derived products each year for eligible patients. The program being implemented by the Centers for Medicare & Medicaid Servic…",
-      "url": "https://www.marijuanamoment.net/dr-oz-announces-launch-of-program-covering-hemp-thc-and-cbd-products-through-medicare/",
-      "urlToImage": "https://www.marijuanamoment.net/wp-content/uploads/2024/11/dr-mehmet-oz-marijuana.webp",
-      "source": "Marijuana Moment",
-      "publishedAt": "2026-04-01T19:07:27Z"
+      "title": "Stock Market Today: Dow, Nasdaq Slip; Oil Rises After Trump Iran Address — Live Updates - WSJ",
+      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-02-2026",
+      "urlToImage": "https://images.wsj.net/im-34062673/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-04-02T20:25:00Z"
     },
     {
-      "title": "FDA Approves Eli Lilly’s GLP-1 Pill - WIRED",
-      "description": "Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.",
-      "url": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
-      "urlToImage": "https://media.wired.com/photos/69cd5dbf969ce77a468721f6/191:100/w_1280,c_limit/FDA-Approves-Eli-Lillys-GLP-1-Pill-Science-2237031585.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-04-01T18:56:00Z"
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show - TechCrunch",
+      "description": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-02T19:21:00Z"
+    },
+    {
+      "title": "Gov. Gretchen Whitmer issues executive order to save Michigan drivers money amid rising gas prices - ClickOnDetroit | WDIV Local 4",
+      "description": "Gov. Gretchen Whitmer has signed an executive order that will help save Michigan drivers money at the gas pump by easing restrictions on fuel blends.",
+      "url": "https://www.clickondetroit.com/news/local/2026/04/02/gov-gretchen-whitmer-issues-executive-order-to-save-michigan-drivers-money-amid-rising-gas-prices/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PSX62FTHBNH2JJS2J7POXZD7NY.jpg?_a=DATAg1fkZAA0",
+      "source": "WDIV ClickOnDetroit",
+      "publishedAt": "2026-04-02T18:32:47Z"
+    },
+    {
+      "title": "A new weight-loss pill is here — and could rival Wegovy and Zepbound. Here's how it compares. - Business Insider",
+      "description": "The FDA has approved Foundayo, a new weight-loss pill that could give Eli Lilly an edge over other drugmakers. Here's how it compares to other GLP-1s.",
+      "url": "https://www.businessinsider.com/foundayo-vs-zepbound-wegovy-rybelsus-cost-insurance-side-effects-2026-4",
+      "urlToImage": "https://i.insider.com/69cea7d46a864f6fcd7bccdc?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-02T18:30:00Z"
+    },
+    {
+      "title": "Here's Every Car That Debuted At The New York International Auto Show - Jalopnik",
+      "description": "I won't go so far as to say car shows are back, but this one could definitely be a bit of an indication that the tides are turning",
+      "url": "https://www.jalopnik.com/2138673/every-car-2026-new-york-international-auto-show/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/heres-every-car-that-debuted-at-the-new-york-international-auto-show/l-intro-1775152929.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-04-02T18:03:43Z"
     }
   ]
 }
