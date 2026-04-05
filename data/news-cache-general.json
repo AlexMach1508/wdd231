@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2026-04-04T07:13:56.204Z",
+  "updatedAt": "2026-04-05T07:20:35.870Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank - CNBC",
-      "description": "Microsoft said it plans to invest $10 billion in Japan between 2026 and 2029 to build AI infrastructure.",
-      "url": "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287018-1775193545233-gettyimages-2268954940-AFP_A6MJ79E.jpeg?v=1775193564&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-03T05:19:48Z"
+      "title": "NASA releases stunning first photos of Earth from Artemis II moon mission - Al Jazeera",
+      "description": "The crew were about 100,000 miles (160,000 kilometres) from Earth and were quickly closing in on the moon.",
+      "url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26093499359031-1775242604.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-04T02:47:49Z"
     },
     {
-      "title": "Details On Raiders QB Kirk Cousins’ Deal - NFL Rumors - ProFootballRumors.com",
-      "description": "Newly signed Raiders QB Kirk Cousins continues climbing up the NFL's all-time earnings list. More at Pro Football Rumors.",
-      "url": "https://www.profootballrumors.com/2026/04/details-on-raiders-qb-kirk-cousins-deal",
-      "urlToImage": "https://cdn.profootballrumors.com/files/2025/04/USATSI_25004803-1024x683.jpg",
-      "source": "profootballrumors.com",
-      "publishedAt": "2026-04-03T04:15:34Z"
+      "title": "Anthropic Cuts Off OpenClaw Support for Claude Subscriptions - Business Insider",
+      "description": "Anthropic said third-party tools like OpenClaw put an \"outsized strain on our systems.\" OpenClaw's founder said cutting support would be \"a loss.\"",
+      "url": "https://www.businessinsider.com/anthropic-cuts-off-openclaw-support-claude-subscriptions-2026-4",
+      "urlToImage": "https://i.insider.com/69d070e2c02a678bd7e47fbb?width=1024&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-04T02:25:00Z"
     },
     {
-      "title": "Blake Lively's sexual harassment claims against Justin Baldoni tossed out but robust case remains - WRAL",
-      "description": "A federal judge in New York has tossed out Blake Lively's sexual harassment claims against Justin Baldoni over the movie “It Ends With Us\" but left intact claims for retaliation. The written ruling by Judge Lewis J. Liman in Manhattan was released late Thursd…",
-      "url": "https://www.wral.com/news/ap/ad7a2-actor-blake-livelys-sexual-harassment-claims-against-actor-justin-baldoni-are-tossed-out/",
-      "urlToImage": "https://images.wral.com/0d82c8f4-278e-59be-92e1-11f48fe536d7?w=1200&h=630",
-      "source": "WRAL.com",
-      "publishedAt": "2026-04-03T03:29:19Z"
+      "title": "Geno Auriemma, Dawn Staley have heated exchange after Gamecocks upset Huskies - NBC News",
+      "description": "Two of women’s basketball’s biggest names had a heated exchange in the waning moments of a Final Four classic on Friday",
+      "url": "https://www.nbcnews.com/sports/college-basketball/geno-auriemma-dawn-staley-heated-exchange-gamecocks-upset-huskies-rcna266671",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260403-geno-auriemma-vsb-2154-cbfa45.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-04-04T02:10:00Z"
     },
     {
-      "title": "Measles confirmed at Safeway in Portland, health officials say - KATU",
-      "description": "People who visited the Safeway at 2800 S.E. Hawthorne Blvd. within the last week may have been exposed to the measles, the Oregon Health Authority said.",
-      "url": "https://katu.com/news/local/measles-confirmed-at-safeway-in-portland-health-officials-oregon-health-authority",
-      "urlToImage": "https://katu.com/resources/media2/16x9/1280/1320/center/90/1c987fe8-a7bc-4439-8834-51bc5f05ece5-MEASLESrashcaptioned.jpg",
-      "source": "KATU",
-      "publishedAt": "2026-04-03T03:22:22Z"
-    },
-    {
-      "title": "Hegseth removes Army's top general during Iran war - Axios",
-      "description": "George is the Army's most senior general and is being removed during a hot war.",
-      "url": "https://www.axios.com/2026/04/02/iran-war-hegseth-remove-gen-george-army-chief-staff",
-      "urlToImage": "https://images.axios.com/Uv09WBJJrtDfwjSOdvEy6eRo6TQ=/0x474:5879x3781/1366x768/2026/03/23/1774271105586.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-04-03T02:45:00Z"
-    },
-    {
-      "title": "Artemis II astronauts rocket toward the moon after spending a day around Earth - Politico",
-      "description": "Translunar ignition came 25 hours after launch, setting three Americans and a Canadian on a course for a lunar fly-around on Monday.",
-      "url": "https://www.politico.com/news/2026/04/02/artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth-00857021",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff3%2F96%2F3c3a0df0448d9fcb1a46e880e17e%2Fnasa-artemis-moonshot-38872.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-04-03T02:34:53Z"
-    },
-    {
-      "title": "No sign of war winding down in Mideast as Friday dawns with attacks across region - AP News",
-      "description": "There has been little sign Friday of the war in the Mideast winding down as Israel says it faced incoming fire from Iran, and Kuwait and Bahrain also reported being under attack. In Iran, eight people were killed while celebrating the close of Persian new yea…",
-      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-2-2026-c41dbdb8148d02ce6561ea6bd4aa0da1",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ea4a731/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2F03%2Fc1bdd02e16048276a77bc5e31273%2F29f12613ef4547f29fc89120985a9035",
-      "source": "Associated Press",
-      "publishedAt": "2026-04-03T02:10:00Z"
-    },
-    {
-      "title": "2026 NFL Draft: NFL.com unveils AI-powered mock draft with trade predictions, picks 1-32 - On3",
-      "description": ".",
-      "url": "https://www.on3.com/pro/news/2026-nfl-draft-nfl-com-unveils-ai-powered-mock-draft-with-trade-predictions-picks-1-32/",
-      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/04/02155127/2026-NFL-Draft-AI-powered-mock.png",
-      "source": "On3.com",
-      "publishedAt": "2026-04-03T02:08:04Z"
-    },
-    {
-      "title": "Hegseth says he will let troops take personal firearms onto military bases - CBS News",
-      "description": "Defense Secretary Pete Hegseth says he will allow service members to carry personal weapons onto military installations.",
-      "url": "https://www.cbsnews.com/news/hegseth-troops-personal-firearms-military-bases/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/31/8d71bd44-5112-4b88-a96a-ac0622972140/thumbnail/1200x630/7fad921d320c6597dd7b6d22dc6172a9/gettyimages-2267897661.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-04-03T01:48:39Z"
-    },
-    {
-      "title": "Federal government sues three states over their regulation of prediction markets - AP News",
-      "description": "The federal government is suing Connecticut, Arizona and Illinois, challenging their efforts to regulate prediction market operators such as Kalshi and Polymarket. All three states have sent cease and desist orders to such companies accusing them of engaging …",
-      "url": "https://apnews.com/article/prediction-markets-kalshi-polymarket-lawsuits-bf02dafc40758887b03b4e9fc8aac104",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8587311/2147483647/strip/true/crop/5100x3398+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F0f%2F2c0af1b42ab82f20e8d861bab9e2%2Fee34b18e76764c7f86e7dab635efd7b4",
-      "source": "Associated Press",
-      "publishedAt": "2026-04-03T00:03:07Z"
-    },
-    {
-      "title": "Audi Crooks enters transfer portal after 3 seasons at Iowa State - USA Today",
-      "description": "Audi Crooks has entered the women’s basketball transfer portal following her third season at Iowa State. Photos show her time with the Cyclones.",
-      "url": "https://www.usatoday.com/picture-gallery/sports/ncaab/2026/04/02/audi-crooks-enters-transfer-portal-iowa-state/89442842007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/02/USAT/89443128007-usatsi-27789388.jpg?crop=1763,992,x0,y92&width=1763&height=992&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-04-02T23:14:00Z"
-    },
-    {
-      "title": "Blue Owl Reels as Investors Who Fueled Its Growth Now Want Out - Bloomberg.com",
-      "description": "The top-line numbers from Blue Owl Capital Inc.’s funds were unambiguous and, by just about any measure, ugly.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-02/blue-owl-reels-as-investors-who-fueled-its-growth-now-want-out",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSvuqxCkBV54/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-02T23:00:05Z"
-    },
-    {
-      "title": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
-      "description": "Google's newest Gemma model is now both open-weight and open-source",
-      "url": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00Izl0v2KEWmNh4bZvozfNd/hero-image.fill.size_1200x675.v1775165829.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-04-02T22:21:48Z"
-    },
-    {
-      "title": "Kendra Duggar tells Joseph Duggar she no longer has their kids in prison phone calls - komonews.com",
-      "description": "Kendra and Joseph Duggar were both charged with endangering a minor and false imprisonment, and Joseph faces unrelated child molestation charges.",
-      "url": "https://thenationaldesk.com/news/entertainment/kendra-duggar-tells-joseph-duggar-she-no-longer-has-their-kids-in-prison-phone-calls",
-      "urlToImage": "https://thenationaldesk.com/resources/media2/16x9/3000/986/0x282/90/1433a581-4812-4efc-af56-6acc64fdb193-GettyImages2267587402.jpg",
-      "source": "Thenationaldesk.com",
-      "publishedAt": "2026-04-02T22:10:46Z"
-    },
-    {
-      "title": "Tesla EV sales \"underwhelming\" as Elon Musk pivots to AI - Axios",
-      "description": "Tesla's EV sales underwhelmed investors in Q1 — but the company doesn't seem to mind as CEO Elon Musk focuses on an AI-powered future.",
-      "url": "https://www.axios.com/2026/04/02/tesla-ev-elon-musk-gas-prices",
-      "urlToImage": "https://images.axios.com/RGxYPARrKJsE6kZ2cLg-91EywgY=/0x860:8256x5504/1366x768/2026/04/02/1775156042680.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-04-02T22:07:13Z"
-    },
-    {
-      "title": "Pharmaceuticals face 100% tariffs in US - unless firms strike a deal - BBC",
-      "description": "The order does not affect generic medicines, the most commonly used in the US.",
-      "url": "https://www.bbc.com/news/articles/cx29kke01gpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b7a7/live/07f8aa70-2ec8-11f1-bb7c-976587a5003c.jpg",
+      "title": "Iran and US race to find missing American pilot downed in fighter jet - reports - bbc.com",
+      "description": "Iranian security forces are searching for the missing crew member, Iranian state media report, after a US F-15 fighter jet was reportedly downed in southern Iran.",
+      "url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1299/live/44f69b20-2fbe-11f1-8e1e-69b35ddf5e37.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-04-02T22:06:30Z"
+      "publishedAt": "2026-04-04T02:00:44Z"
     },
     {
-      "title": "New COVID variant 'Cicada' spreading among kids - ABC7 Los Angeles",
-      "description": "A new COVID variant, named \"Cicada,\" appears to be spreading primarily among children.",
-      "url": "https://abc7.com/post/new-covid-variant-cicada-spreading-among-kids/18829742/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/18829491_040226-kabc-MD-kids-covid-variant-vid.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-04-02T21:43:40Z"
+      "title": "White House budget proposal silent on civilian federal pay raise - federalnewsnetwork.com",
+      "description": "The White House proposed up to a 7% pay raise for military members, but made no mention of a pay raise for civilian federal employees in 2027.",
+      "url": "https://federalnewsnetwork.com/budget/2026/04/white-house-budget-proposal-silent-on-civilian-federal-pay-raise/",
+      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2026/04/Trump_26091690155976-scaled.jpg",
+      "source": "Federal News Network",
+      "publishedAt": "2026-04-04T00:58:37Z"
     },
     {
-      "title": "Hailee Steinfeld Welcomes First Child With Husband Josh Allen - The Hollywood Reporter",
-      "description": "The 'Sinners' actress and Buffalo Bills quarterback announced Thursday that they are now the parents of a baby girl.",
-      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/hailee-steinfeld-welcomes-first-child-josh-allen-1236554889/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/GettyImages-2197472643-H-2025.jpg?w=1296&h=730&crop=1",
+      "title": "Trump signs order aimed at stabilizing college sports with threats to federal funding - pbs.org",
+      "description": "The threat of cutting funding to cash-starved schools that don’t comply is real, even if the stricter rules that come out of the executive order he signed Friday could take a while to figure out.",
+      "url": "https://www.pbs.org/newshour/politics/trump-signs-order-aimed-at-stabilizing-college-sports-with-threats-to-federal-funding",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-03-31T214550Z_758726487_RC2XFKA59QPB_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-04-04T00:17:14Z"
+    },
+    {
+      "title": "US Cardiologists Just Released New Guidelines That Could Transform Cholesterol Prevention Forever - Indian Defence Review",
+      "description": "New guidelines from leading cardiologists aim to reduce the risk of heart disease by promoting early cholesterol screening and proactive prevention, promising better long-term health outcomes.",
+      "url": "https://indiandefencereview.com/new-guidelines-cholesterol-prevention/",
+      "urlToImage": "https://indiandefencereview.com/wp-content/uploads/2026/04/us-cardiologists-just-released-new-guidelines-that-could-transform-cholesterol-prevention-forever-scaled.png",
+      "source": "Indiandefencereview.com",
+      "publishedAt": "2026-04-03T23:45:00Z"
+    },
+    {
+      "title": "Parkland Survivor Jackie Corin on ‘The Drama’ and Her Concerns About Casting Zendaya and Robert Pattinson - hollywoodreporter.com",
+      "description": "\"Definitely an interesting strategy — that's a way to word it,\" the activist quips to The Hollywood Reporter about the marketing for the A24 movie.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/the-drama-parkland-shooting-jackie-corin-zendaya-pattinson-1236555461/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/TD_DIGITAL_ONE_SHEET_Fin1.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2026-04-02T21:28:10Z"
+      "publishedAt": "2026-04-03T22:53:59Z"
     },
     {
-      "title": "South Carolina's Johnson on UConn loss: Sometimes you need losses - ESPN",
-      "description": "South Carolina gets the chance Friday to show it learned its lesson from the 82-59 loss to UConn in last year's national championship game.",
-      "url": "https://www.espn.com/womens-college-basketball/story/_/id/48380393/south-carolina-johnson-uconn-loss-somes-need-losses",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0402%2Fr1637772_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-04-02T21:08:00Z"
+      "title": "5 3D Printer Accessories You Can 3D Print - SlashGear",
+      "description": "A handful of smart 3D printer add-ons can solve common annoyances, and the best part is you can print them at home with minimal effort.",
+      "url": "https://www.slashgear.com/2136425/3d-printer-accessories-to-print/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/5-3d-printer-accessories-you-can-3d-print/l-intro-1774958786.jpg",
+      "source": "SlashGear",
+      "publishedAt": "2026-04-03T22:30:00Z"
     },
     {
-      "title": "Trump sends mixed messages on securing the Strait of Hormuz - CBS News",
-      "description": "The president said Wednesday that the strait \"will open up naturally\" as its closure sends gas prices soaring at the same time he's urging other countries to \"grab it.\"",
-      "url": "https://www.cbsnews.com/news/trump-strait-of-hormuz-iran-control/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/02/b181ef2a-366a-4811-9cdc-585ddb55b0c5/thumbnail/1200x630/dd83309296d8f0d9045eef61cb122a56/gettyimages-2268868790.jpg",
+      "title": "Pope Leo carries cross for all 14 stations during Good Friday procession, first pontiff to do so in decades - CBS News",
+      "description": "Pope Leo XIV carried a wooden cross for all of the 14 stations of the Way of the Cross at the Colosseum on his first Good Friday as pontiff, marking the first time in decades that a pope carried the cross to every station.",
+      "url": "https://www.cbsnews.com/news/pope-leo-carries-cross-14-stations-good-friday-procession/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/03/6a08b164-4f0c-4013-ad8e-9dc28c9a0d10/thumbnail/1200x630/50f8aeab799e35d4ce42583e123c1472/ap26093722092236.jpg",
       "source": "CBS News",
-      "publishedAt": "2026-04-02T21:00:12Z"
+      "publishedAt": "2026-04-03T22:19:00Z"
+    },
+    {
+      "title": "‘This is a recalibration’: Trump Cabinet worries no one is safe after Bondi and Noem firings - CNN",
+      "description": "When President Donald Trump ousted his attorney general, Pam Bondi, it sent a clear message to his remaining Cabinet members: The job security they’ve enjoyed until now is no longer guaranteed.",
+      "url": "https://www.cnn.com/2026/04/03/politics/trump-cabinet-fire-bondi-next",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235635789.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-04-03T22:15:35Z"
+    },
+    {
+      "title": "Liberating the Department of Homeland Security From the Democrat-Caused Shutdown - The White House (.gov)",
+      "description": "MEMORANDUM FOR THE SECRETARY OF HOMELAND SECURITY THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET SUBJECT:       Liberating the Department of Homeland",
+      "url": "http://www.whitehouse.gov/presidential-actions/2026/04/liberating-the-department-of-homeland-security-from-the-democrat-caused-shutdown/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+      "source": "Whitehouse.gov",
+      "publishedAt": "2026-04-03T21:40:45Z"
+    },
+    {
+      "title": "Blake Lively Gets Agents' Support After Justin Baldoni Suit Pared Down - Deadline",
+      "description": "With six weeks to go before a trial starts in NYC, WME has come out swinging for 'Another Simple Favor' star Blake Lively.",
+      "url": "http://deadline.com/2026/04/blake-lively-justin-baldoni-case-agents-1236773190/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/Blake-Lively.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-04-03T21:27:00Z"
+    },
+    {
+      "title": "Your Easter candy is still expensive — even with cheaper cocoa - Axios",
+      "description": "Cocoa prices are down — but Easter chocolate still costs more. Here's why shoppers aren't seeing relief yet.",
+      "url": "https://www.axios.com/2026/04/03/easter-candy-2026-price-cocoa",
+      "urlToImage": "https://images.axios.com/VgawWjVknoo6Liex_mImscxXQ6Y=/0x38:5000x2850/1366x768/2026/04/03/1775225755125.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-04-03T20:36:25Z"
+    },
+    {
+      "title": "US Airlines Are Hiking Bag Fees Amid Iran War Oil Crisis - Gizmodo",
+      "description": "United Airlines and JetBlue announced this week that they are raising baggage fees.",
+      "url": "https://gizmodo.com/us-airlines-are-hiking-bag-fees-amid-iran-war-oil-crisis-2000742260",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/United-Airlines-Boeing-737-Max-8-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-04-03T20:10:03Z"
+    },
+    {
+      "title": "NATO’s Rutte to meet with Trump at White House amid attacks on alliance - Politico",
+      "description": "The president has grown increasingly furious with the decades-old alliance amid the war in Iran.",
+      "url": "https://www.politico.com/news/2026/04/03/nato-mark-rutte-donald-trump-meeting-00858701",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8b%2F24%2Ffa7169fe4fddbfa829f5651b4b2d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2267879385",
+      "source": "Politico",
+      "publishedAt": "2026-04-03T19:47:09Z"
+    },
+    {
+      "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera",
+      "description": "Judge Boasberg says Trump administration’s arguments ‘do not come close to convincing Court’ of subpoenas’ legitimacy.",
+      "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69d00dab-1775242667.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-03T19:35:28Z"
     }
   ]
 }
