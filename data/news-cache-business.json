@@ -1,127 +1,143 @@
 {
-  "updatedAt": "2026-04-05T07:20:36.094Z",
+  "updatedAt": "2026-04-06T07:58:41.223Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "3.1 million bottles of eye drops sold at Walgreens, CVS and more are recalled. Here's what to know. - CBS News",
-      "description": "The eye drops — sold under multiple brands — have been recalled over concerns about sterility, according to the FDA.",
-      "url": "https://www.cbsnews.com/news/eye-drops-recall-3-1-million-fda-walgreens-cvs-brand-list/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/03/4ee5ce2a-6adb-4106-b713-809eb109c6c1/thumbnail/1200x630/40990a692909fb0919b9346ddf63bd78/gettyimages-2104225702.jpg",
+      "title": "Oracle layoffs: Reason the 6AM email from “Oracle leadership” told thousands of laid-off employees; 'Afte - The Times of India",
+      "description": "Tech News News: Oracle's largest-ever round of layoffs didn't come with a phone call, a meeting, or a conversation with a manager. It came as an email. Sent from \\\"Ora.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-reason-the-6am-email-from-oracle-leadership-told-thousands-of-laid-off-employees-after-careful-consideration-of/articleshow/129998843.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129998843,width-1280,height-720,imgsize-96036,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-05T05:50:00Z"
+    },
+    {
+      "title": "How the White House's $100,000 H-1B visa fee is impacting America's ability to attract global talent - CBS News",
+      "description": "According to numbers from U.S. Citizenship and Immigration Services, more than 70% of H-1B visa holders in 2024 were Indian.",
+      "url": "https://www.cbsnews.com/news/trump-administration-100000-dollar-h-1b-visa-fee-impacting-u-s-ability-to-attract-global-talent/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/04/04a37545-b3d2-44b2-95df-4f6928ec64e6/thumbnail/1200x630/fd80d9326075730472a05b1759c73979/1775346679443.png",
       "source": "CBS News",
-      "publishedAt": "2026-04-04T03:57:13Z"
+      "publishedAt": "2026-04-04T23:53:37Z"
     },
     {
-      "title": "Anthropic Cuts Off OpenClaw Support for Claude Subscriptions - Business Insider",
-      "description": "Anthropic said third-party tools like OpenClaw put an \"outsized strain on our systems.\" OpenClaw's founder said cutting support would be \"a loss.\"",
-      "url": "https://www.businessinsider.com/anthropic-cuts-off-openclaw-support-claude-subscriptions-2026-4",
-      "urlToImage": "https://i.insider.com/69d070e2c02a678bd7e47fbb?width=1024&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-04-04T02:25:00Z"
-    },
-    {
-      "title": "SAD! Trump’s AI data center push is failing. Blame his own tariffs. - Ars Technica",
-      "description": "Nearly 50% of data center projects delayed as China holds key to power infrastructure.",
-      "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2232214770-1024x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-04-03T20:43:14Z"
-    },
-    {
-      "title": "Your Easter candy is still expensive — even with cheaper cocoa - Axios",
-      "description": "Cocoa prices are down — but Easter chocolate still costs more. Here's why shoppers aren't seeing relief yet.",
-      "url": "https://www.axios.com/2026/04/03/easter-candy-2026-price-cocoa",
-      "urlToImage": "https://images.axios.com/VgawWjVknoo6Liex_mImscxXQ6Y=/0x38:5000x2850/1366x768/2026/04/03/1775225755125.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-04-03T20:36:25Z"
-    },
-    {
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’ - TechCrunch",
-      "description": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-03T20:35:34Z"
-    },
-    {
-      "title": "US Airlines Are Hiking Bag Fees Amid Iran War Oil Crisis - Gizmodo",
-      "description": "United Airlines and JetBlue announced this week that they are raising baggage fees.",
-      "url": "https://gizmodo.com/us-airlines-are-hiking-bag-fees-amid-iran-war-oil-crisis-2000742260",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/United-Airlines-Boeing-737-Max-8-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-04-03T20:10:03Z"
-    },
-    {
-      "title": "'Chinese Cars Are Ready For Prime Time In America': Geely SUV Crushes Every U.S. Competitor In New Test - InsideEVs",
-      "description": "The Geely Galaxy M9 PHEV impressed Edmunds, covering 101 miles on electric power alone and accelerating to 60 mph in 4.2 seconds.",
-      "url": "https://insideevs.com/news/792060/geely-galaxy-m9-test-edmunds/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/qkBjWG/s1/geely-and-zeekr-at-ces-2026.jpg",
-      "source": "InsideEVs ",
-      "publishedAt": "2026-04-03T17:49:00Z"
-    },
-    {
-      "title": "Balcony Solar Is Here, And It’s Not Just For Balconies - CleanTechnica",
-      "description": "Balcony solar kits can be placed anywhere sun is available, feeding clean electricity directly into household wiring.",
-      "url": "https://cleantechnica.com/2026/04/03/balcony-solar-is-here-and-its-not-just-for-balconies/",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2026/04/balcony-solar-ecoflow.png",
-      "source": "CleanTechnica",
-      "publishedAt": "2026-04-03T17:39:23Z"
-    },
-    {
-      "title": "Once-booming cookie chain closes all stores after Chapter 11 filing - Yahoo News Malaysia",
-      "description": "Building a business around a single indulgent product has always been a challenge, but it has gotten harder since the introduction of GLP-1 drugs. \"More than...",
-      "url": "https://www.thestreet.com/restaurants/once-booming-cookie-chain-closes-all-stores-after-chapter-11-filing",
-      "urlToImage": "https://s.yimg.com/os/en/thestreet_881/9adb5491951a9575d494d902eb661c45",
+      "title": "50-year-old pizza chain closes all restaurants, files Chapter 7 - thestreet.com",
+      "description": "The closure adds to a wave of pizza chain struggles, with even major brands like Pizza Hut and Papa John's shuttering locations.",
+      "url": "https://www.thestreet.com/restaurants/50-year-old-pizza-chain-gina-marias-closes-all-restaurants-files-chapter-7",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyODc0ODk0/pepperoni-pizza-lead-ko-020426.jpg?io=1&profile=share16-9",
       "source": "TheStreet",
-      "publishedAt": "2026-04-03T17:04:00Z"
+      "publishedAt": "2026-04-04T21:20:12Z"
     },
     {
-      "title": "US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com",
-      "description": "Bond traders ended the week betting that the Federal Reserve will keep interest rates steady this year, on signs of a stabilizing US labor market and uncertainty about the economic impact of war in the Middle East.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-03/treasuries-fall-as-strong-jobs-data-undermines-fed-cut-outlook",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBa8NoUdxlUo/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-03T16:55:44Z"
+      "title": "Outraged airline passengers left stranded on freezing island for 2 days without luggage - New York Post",
+      "description": "Jon Shipman was outraged when he and his family took off from London on British Airways and were stranded for two days in subzero temps in Newfoundland being ignored by BA, who offered them a $660 …",
+      "url": "https://nypost.com/2026/04/04/world-news/outraged-airline-passengers-left-stranded-on-freezing-island-for-2-days-without-luggage/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125008878.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-04-04T20:52:00Z"
     },
     {
-      "title": "NeeDoh squishies have gone viral. 'It wasn't intentional,' the CEO tells me. - Business Insider",
-      "description": "NeeDoh squishies, by Massachusetts toy maker Schylling, have gone viral, causing high demand and reselling issues. Production is ramping up.",
-      "url": "https://www.businessinsider.com/needoh-squishies-viral-toy-schylling-2026-4",
-      "urlToImage": "https://i.insider.com/69cfcd63e762ed6cfe44a055?width=1200&format=jpeg",
+      "title": "Easter 2026: Which Houston stores will be open and which will be closed? - KHOU",
+      "description": "If you forget something for your feast on Thanksging Day, not to worry -- some grocery stores will be open, but with reduced hours.  Check the list.",
+      "url": "https://www.khou.com/article/news/local/grocery-stores-restaurants-open-easter-2026-houston/285-7777d2a6-3df8-4ceb-bbed-e48f0a86f08b",
+      "urlToImage": "https://media.khou.com/assets/KHOU/images/ca2d1cfb-781d-431a-86ba-4fa3294dc86e/20251119T124857/ca2d1cfb-781d-431a-86ba-4fa3294dc86e_1140x641.jpg",
+      "source": "KHOU.com",
+      "publishedAt": "2026-04-04T20:41:00Z"
+    },
+    {
+      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account - BleepingComputer",
+      "description": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors.",
+      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-04-04T20:30:42Z"
+    },
+    {
+      "title": "Data center boom poses early challenge for New Jersey’s affordability agenda - Politico",
+      "description": "Gov. Mikie Sherrill’s pledge to lower costs runs into the reality of AI.",
+      "url": "https://www.politico.com/news/2026/04/04/data-center-boom-poses-early-challenge-for-new-jerseys-affordability-agenda-00858524",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F82%2F1f%2F94895a9a4b26b35d4f6599d8b5d3%2Fdata-centers-41740.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-04-04T20:00:00Z"
+    },
+    {
+      "title": "POTS explained: The disorder that led OpenAI exec Fidji Simo to take medical leave - Business Insider",
+      "description": "POTS is a disorder that can cause heart palpitations, lightheadedness, and fainting. It is more common in women than in men.",
+      "url": "https://www.businessinsider.com/what-is-pots-fidji-simo-openai-symptons-treatment-diagnosis",
+      "urlToImage": "https://i.insider.com/69d132a9c02a678bd7e480af?width=1200&format=jpeg",
       "source": "Business Insider",
-      "publishedAt": "2026-04-03T16:55:00Z"
+      "publishedAt": "2026-04-04T19:05:00Z"
     },
     {
-      "title": "Tech Media Propaganda Operation Makes It Official, Goes In-House At OpenAI - Defector",
-      "description": "On Thursday, OpenAI announced that it had acquired the Technology Business Programming Network (TBPN) show. The Financial Times reports that the recently de-Sorafied AI giant paid somewhere in the “low hundreds of millions of dollars” for the purchase. The de…",
-      "url": "https://defector.com/tech-media-propaganda-operation-makes-it-official-goes-in-house-at-openai",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/04/tbpn.jpg",
-      "source": "Defector.com",
-      "publishedAt": "2026-04-03T16:54:00Z"
+      "title": "Baby Born As Flight Lands At JFK — Air Traffic Control Says ‘Name The Baby Kennedy’ - View from the Wing",
+      "description": "A passenger gave birth as a Caribbean Airlines flight was landing at New York JFK, with air traffic control expediting the arrival, arranging medical help at the gate, and then delivering the perfect line once the baby was out: “Name the baby Kennedy.”",
+      "url": "https://viewfromthewing.com/baby-born-as-flight-lands-at-jfk-air-traffic-control-says-name-the-baby-kennedy/",
+      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2026/04/caribbean-airlines.jpeg",
+      "source": "Viewfromthewing.com",
+      "publishedAt": "2026-04-04T19:03:29Z"
     },
     {
-      "title": "The oil crisis is making drivers realize they can’t afford not to drive electric - Electrek",
-      "description": "With gas at $4.09/gal and oil crises recurring every few years, the math is clear: driving electric saves $100-200/month. Here's the breakdown.",
-      "url": "http://electrek.co/2026/04/03/oil-crisis-ev-savings-cant-afford-not-to-drive-electric/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-04-03T15:47:00Z"
+      "title": "Gen Z are already more bullish than millennials about early retirement—and many think they can quit work for good with just $500,000 - Fortune",
+      "description": "A chunk of Gen Zers anticipate working for just two decades before kicking up their feet and living off just $500,000 for the following 60 years.",
+      "url": "https://fortune.com/article/gen-z-are-more-bullish-on-early-retirement-than-millennials/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2196159239-1-e1775327645490.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-04-04T18:35:00Z"
     },
     {
-      "title": "CFTC sues three states over efforts to regulate prediction markets - NBC Sports",
-      "description": "The modern sports betting industry emerged after the states won a legal battle with the federal government.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cftc-sues-three-states-over-efforts-to-regulate-prediction-markets",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a6aadd9/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2F32%2Fc0a799514e4dbe49147baf936594%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2266901963",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-04-03T14:11:03Z"
+      "title": "He couldn’t think, eat or recover — and no one knew why - The Washington Post",
+      "description": "Doctors were stumped by an Oregon man’s deterioration. Then an infectious disease specialist had an aha moment.",
+      "url": "https://www.washingtonpost.com/health/2026/04/04/medical-mystery-fevers-mental-fog/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VMIM3IQ2OVB4NILFTOOMXZO3YA_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-04-04T16:32:20Z"
     },
     {
-      "title": "Anthropic Suddenly Cares Intensely About Intellectual Property After Realizing With Horror That It Accidentally Leaked Claude's Source Code - Futurism",
-      "description": "Copyright is suddenly very important to Anthropic now that its AI source code leaked. Just don't ask how it trained its AI in the first place.",
-      "url": "http://futurism.com/artificial-intelligence/anthropic-suddenly-cares-about-intellectual-property-claude-leak",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/04/anthropic-suddenly-cares-about-copyright-claude-leak.jpg?w=1200",
-      "source": "Futurism",
-      "publishedAt": "2026-04-03T12:39:46Z"
+      "title": "Veteran analyst sends message to Tesla investors after Q1 miss - thestreet.com",
+      "description": "A key voice on Wall Street is urging investors to look beyond the obvious",
+      "url": "https://www.thestreet.com/investing/stocks/veteran-analyst-sends-message-to-tesla-investors-after-q1-miss",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTMyNDMx/tesla_mf_apr04_2026.jpg?io=1&profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-04-04T15:03:00Z"
+    },
+    {
+      "title": "Nike’s latest quarter shows customers have changed - thestreet.com",
+      "description": "Nike is still trying to reset the business but its latest quarter suggests customers are shopping differently than they used to.",
+      "url": "https://www.thestreet.com/investing/stocks/nikes-latest-quarter-shows-customers-have-changed",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTA5NDAx/nike-shop.jpg?io=1&profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-04-04T13:47:00Z"
+    },
+    {
+      "title": "High Gas Prices Could Kill The SUV Craze, What Should Come Next? - Jalopnik",
+      "description": "We, the people, must demand wagons!",
+      "url": "https://www.jalopnik.com/2139215/whats-next-after-suvs-reader-question/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/high-gas-prices-could-kill-the-suv-craze-what-should-come-next/l-intro-1775229150.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-04-04T13:25:00Z"
+    },
+    {
+      "title": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course - CNBC",
+      "description": "A Senate committee will consider Kevin Warsh's nomination even as one of its members still plans to block it.",
+      "url": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169517-1752067675343-gettyimages-2211325596-IMF_WORLD_BANK.jpeg?v=1765577298&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-04-04T13:04:04Z"
+    },
+    {
+      "title": "Mapped: Where Young Adults Live With Their Parents Most - Visual Capitalist",
+      "description": "A third of American young adults still live at home with their parents. That figure is up over 10% from 1960.",
+      "url": "https://www.visualcapitalist.com/mapped-where-young-adults-live-most-with-their-parents/",
+      "urlToImage": "https://www.visualcapitalist.com/wp-content/uploads/2026/04/Young-Adults-Living-With-Parents_03-share.webp",
+      "source": "Visual Capitalist",
+      "publishedAt": "2026-04-04T12:03:34Z"
+    },
+    {
+      "title": "The FCC’s Router Ban Is About to Become a 'Mess.' Here's What It Means for Your Home Network - CNET",
+      "description": "The crackdown on foreign-made routers labeled a \"national security risk\" affects most major router brands. If you plan on buying a router soon, read this first.",
+      "url": "https://www.cnet.com/home/internet/the-fccs-router-ban-is-about-to-become-a-mess-heres-what-it-means-for-your-network/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/dc981abff2e875b8246427d9ba9fa2552cfdfb1a/hub/2026/03/31/2077f0b9-8445-419c-91e2-236df42c8465/banned-routers-with-affected-brands.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2026-04-04T12:00:00Z"
     }
   ]
 }
