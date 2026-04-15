@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2026-04-14T08:00:42.674Z",
+  "updatedAt": "2026-04-15T08:01:38.584Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "How Merck turned its wonder drug into a blockbuster — and priced out cancer patients worldwide - International Consortium of Investigative Journalists - ICIJ",
-      "description": "The pharmaceutical giant has built a fortress of patents, traded in secrecy and relentlessly lobbied to guard its revenue kingpin Keytruda.",
-      "url": "https://www.icij.org/investigations/cancer-calculus/merck-keytruda-cancer-drug-price/",
-      "urlToImage": "https://media.icij.org/uploads/2026/04/Cancer-Calculus-overview-Chelsea-Conrad.jpg",
-      "source": "Icij.org",
-      "publishedAt": "2026-04-13T04:02:55Z"
+      "title": "Oil prices ease on hopes of new US-Iran peace talks - BBC",
+      "description": "Crude prices jumped above $100 on Monday after talks failed between the two sides at the weekend.",
+      "url": "https://www.bbc.com/news/articles/cjr9qrnp821o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2d84/live/8bf48930-37a0-11f1-bdff-893e177acf0e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-04-14T03:46:04Z"
     },
     {
-      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff - Financial Times",
-      "description": "Chief executive is training and testing his own character as part of wider push to develop ‘personal superintelligence’",
-      "url": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0f77e712-4234-4e9f-a5c0-2e944184f6d1.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-13T04:00:04Z"
+      "title": "United Airlines CEO pitched American Airlines tie-up in meeting with Trump, sources say - Yahoo Finance",
+      "description": "By David Shepardson and Rajesh Kumar Singh WASHINGTON/CHICAGO, April 13 (Reuters) - United Airlines CEO Scott Kirby pitched the potential for merging with...",
+      "url": "https://finance.yahoo.com/news/united-airlines-ceo-pitched-possible-230437608.html",
+      "urlToImage": "https://s.yimg.com/os/en/reuters.com/a83caf56ff0f586077bfd41b38379b7d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-14T03:17:00Z"
     },
     {
-      "title": "Exclusive | McDonald’s to Add Energy Drinks, Crafted Sodas to Menus - WSJ",
-      "description": "Mango Pineapple Refresher and Red Bull Dragonberry Energizer joining fast-food giant’s new beverage lineup in U.S. restaurants",
-      "url": "https://www.wsj.com/business/hospitality/mcdonalds-to-add-energy-drinks-crafted-sodas-to-menus-6ea7c304",
-      "urlToImage": "https://images.wsj.net/im-38528788/social",
+      "title": "The Nissan Rogue E-Power Is The Hybrid SUV We've Been Waiting For - Motor1.com",
+      "description": "The new Nissan Rogue E-Power Hybrid debuts with third-generation technology under the hood. It should make its way to the US in 2027.",
+      "url": "https://www.motor1.com/news/792860/nissan-rogue-e-power-hybrid-first-look-debut/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/wl88p4/s1/2027-nissan-rogue-x-trail-e-power-hybrid.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2026-04-14T01:20:00Z"
+    },
+    {
+      "title": "Inside Nissan's Comeback Plan: AI, Hybrids, And The Return Of The Xterra - Motor1.com",
+      "description": "Nissan is hoping to turn things around with its bold 'Nissan Vision' strategy, which includes AI, electrification, and more.",
+      "url": "https://www.motor1.com/news/792793/nissan-future-ai-hybrids-xterra-suv/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/qkYYMq/s1/nissan-comeback-plan.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2026-04-14T01:15:00Z"
+    },
+    {
+      "title": "Trump officials consider physician, a Fox News regular, for top vaccine post - The Washington Post",
+      "description": "Houman Hemmati is under consideration to lead the FDA’s Center for Biologics Evaluation and Research. A final decision has not been made.",
+      "url": "https://www.washingtonpost.com/health/2026/04/13/houman-hemmati-fda-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUEFYWN2SFHTDQLLCJA6QYMIVA_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-04-14T00:28:43Z"
+    },
+    {
+      "title": "Supply shock coming as last oil tankers leaving Hormuz before Iran war to unload in next few days - Seeking Alpha",
+      "description": "The final oil tankers to traverse the Strait of Hormuz before the outbreak of war are set to reach refineries by April 20, which could begin physical shortages in Europe and the US.",
+      "url": "https://seekingalpha.com/news/4574583-supply-shock-coming-as-last-oil-tankers-leaving-hormuz-before-iran-war-to-unload-in-next-few-days",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-04-13T23:55:42Z"
+    },
+    {
+      "title": "S&P 500 futures are little changed after index erases Iran war losses: Live updates - CNBC",
+      "description": "Wall Street once again proved resilient in the face of increased geopolitical uncertainty.",
+      "url": "https://www.cnbc.com/2026/04/13/stock-markets-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108288920-1775679881284-gettyimages-2269830686-AFP_A77J38N.jpeg?v=1776108427&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-04-13T23:22:00Z"
+    },
+    {
+      "title": "New Lauren Sánchez Bezos’ Profile Prompts Katie Couric To Ask The Question We’re All Thinking - HuffPost",
+      "description": "The New York Times published an article over the weekend titled, “Someone Has to Be Happy. Why Not Lauren Sánchez Bezos?”",
+      "url": "https://www.huffpost.com/entry/katie-couric-lauren-sanchez-bezos-nyt-profile_n_69dd0ff0e4b048dba44e5a5d",
+      "urlToImage": "https://img.huffingtonpost.com/asset/69dd41eb140000157686e14c.jpeg?cache=uDdWNI5qTo&ops=500_281%2Cscalefit_1200_630",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-13T21:37:02Z"
+    },
+    {
+      "title": "Goldman Sachs Reports Record Quarter in Banking and Trading - WSJ",
+      "description": "Shares in the bank fell, with fears about the Iran war’s impact on Wall Street overshadowing results in the first quarter",
+      "url": "https://www.wsj.com/finance/goldman-sachs-gs-q1-bank-earnings-report-stock-2026-c66478dc",
+      "urlToImage": "https://images.wsj.net/im-96047027/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-04-13T02:16:00Z"
+      "publishedAt": "2026-04-13T21:16:00Z"
     },
     {
-      "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran - Al Jazeera",
-      "description": "Asian stocks fall as naval blockade threat injects new turmoil into financial markets.",
-      "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26102802553726-1776039582_3691f9-1776042765.jpg?resize=1200%2C630&quality=80",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-13T01:37:26Z"
-    },
-    {
-      "title": "LNG Shock Hits Supply Chains as War Disrupts Global Flows - Crude Oil Prices Today | OilPrice.com",
-      "description": "Damage to Qatar's LNG infrastructure and export disruptions have shaken confidence in supply reliability and could take years to fully recover.",
-      "url": "https://oilprice.com/Energy/Natural-Gas/LNG-Shock-Hits-Supply-Chains-as-War-Disrupts-Global-Flows.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-12_2yrnzhpo3x.jpg",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-04-13T00:19:31Z"
-    },
-    {
-      "title": "Oil Surges, US Futures Drop on Hormuz Blockade: Markets Wrap - Bloomberg.com",
-      "description": "Oil surged while stocks and bonds fell as a brief bout of market optimism unraveled after President Donald Trump ordered a blockade of the Strait of Hormuz, escalating tensions with Iran after weekend peace talks collapsed.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-12/oil-surges-us-futures-drop-on-hormuz-blockade-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_prY7aZHRHE/v0/1200x675.png",
+      "title": "Dell, HP Inc. Shares Jump on Acquisition Speculation Report - Bloomberg.com",
+      "description": "Nvidia Corp. denied a report from website SemiAccurate that it was seeking an acquisition of a large company that would “reshape the PC landscape.”",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/dell-hp-inc-shares-jump-on-acquisition-speculation-report",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icdZVs0ua5fM/v1/1200x799.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-04-12T23:29:22Z"
+      "publishedAt": "2026-04-13T20:19:05Z"
     },
     {
-      "title": "Trump endorsed Palantir stock, and the market reacted - thestreet.com",
-      "description": "The market got an unusual signal and did not know what to do with it.",
-      "url": "https://www.thestreet.com/investing/stocks/trump-endorsed-palantir-stock-and-the-market-reacted",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTM5NTQ2/gettyimages-2270782754-1.jpg?io=1&profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-04-12T23:03:00Z"
+      "title": "Top Biotech Catapults On 'Unprecedented' Results In Cancer - Investor's Business Daily",
+      "description": "The company is working in pancreatic cancer, a disease that's typically aggressive and difficult to treat.",
+      "url": "https://www.investors.com/news/technology/revolution-medicines-stock-pancreatic-cancer-treatment/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2023/10/Stock-revolutionmedicines-01-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-04-13T20:16:00Z"
     },
     {
-      "title": "Hawaiian fast food chain closes Kansas City area locations - FOX4KC.com",
-      "description": "A popular, Utah-based Hawaiian fast food chain has closed all their locations in the Kansas City metro.",
-      "url": "https://fox4kc.com/business/hawaiian-fast-food-chain-closes-kansas-city-area-locations/",
-      "urlToImage": "https://fox4kc.com/wp-content/uploads/sites/16/2026/04/Mo-Bettahs-Great-Day-KC.jpg?w=1280",
-      "source": "WDAF FOX4 Kansas City",
-      "publishedAt": "2026-04-12T22:26:31Z"
+      "title": "OpenAI rips Anthropic, distances itself from Microsoft - Axios",
+      "description": "OpenAI is tightening its ties with Amazon, saying its early investor and partner Microsoft was holding it back.",
+      "url": "https://www.axios.com/2026/04/13/openai-microsoft-anthropic-amazon",
+      "urlToImage": "https://images.axios.com/XbFFWxfU7ph4JTKbjgFADIKWbjE=/0x532:6000x3907/1366x768/2026/04/13/1776112991416.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-04-13T19:37:33Z"
     },
     {
-      "title": "Fidelity, AARP warn Americans on 401(k)s - thestreet.com",
-      "description": "The advocacy organization for Americans over 50 and the financial services company raise a red flag about retirement savings accounts.",
-      "url": "https://www.thestreet.com/retirement/fidelity-aarp-warn-americans-on-401ks",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTM5NTc4/20260412-jq-401k.jpg?io=1&profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-04-12T22:19:21Z"
+      "title": "Texas Probes Lululemon Over ‘Forever Chemicals.’ The Company Says It Stopped Using Them. - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/retail/texas-probes-lululemon-over-forever-chemicals-the-company-says-it-stopped-using-them-a8130c2c",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-04-13T19:19:00Z"
     },
     {
-      "title": "Sam Altman’s home targeted in second attack - The San Francisco Standard",
-      "description": "Early Sunday morning, a car stopped and appears to have fired a gun at the Russian Hill home of OpenAI’s CEO, according to police.",
-      "url": "https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/",
-      "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_p0d3ia6va54sl6814v8lshso4g/-C100.00%25x74.91%25%2C0.00%25%2C0.00%25-S1200x630-FPNG",
-      "source": "Sfstandard.com",
-      "publishedAt": "2026-04-12T22:01:24Z"
+      "title": "FDA urges clinical trial sponsors to report the results of their studies - Fierce Biotech",
+      "description": "An FDA review of records in the U.S. clinical trials database shows that results have not been reported for 30% of clinical studies, the agency said on Monday. To remedy this shortfall, the U.S. | An FDA review of records found that results have not been repo…",
+      "url": "https://www.fiercebiotech.com/biotech/fda-urges-clinical-trial-sponsors-report-results-their-studies",
+      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/FDAsite.jpg?VersionId=4gmObZTsuTbkx.ZsjdomA9n8QacnxYNN",
+      "source": "FierceBiotech",
+      "publishedAt": "2026-04-13T19:03:00Z"
     },
     {
-      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model - TechCrunch",
-      "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "title": "LinkedIn is quietly testing a new AI job marketplace where workers can earn up to $150 an hour - Business Insider",
+      "description": "LinkedIn is launching an AI labor marketplace, offering up to $150 an hour for AI training, challenging startups like Mercor and Surge AI.",
+      "url": "https://www.businessinsider.com/linkedin-enters-ai-training-market-challenges-startups-2026-4",
+      "urlToImage": "https://i.insider.com/69dd2e0cdfb2c132adcfcf7a?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-13T19:01:00Z"
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else - TechCrunch",
+      "description": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2026-04-12T21:14:38Z"
-    },
-    {
-      "title": "Wary Investors Eye Another Escalation in Iran War - Bloomberg",
-      "description": "The prospect that the Iran war will reintensify after the failure of peace talks threatens to spark fresh volatility across global markets, after a week that saw a fragile ceasefire drive stocks up and oil down by the most this year.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-12/wary-investors-eye-another-escalation-in-iran-war-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS9f1.N86wCY/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-12T21:11:11Z"
-    },
-    {
-      "title": "Southwest Is About to Limit Power Banks on Flights - Gizmodo",
-      "description": "External chargers can spontaneously combust, creating flames that are tough to put out.",
-      "url": "https://gizmodo.com/southwest-is-about-to-limit-power-banks-on-flights-2000745471",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/04/portable-battery-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-04-12T20:59:21Z"
-    },
-    {
-      "title": "Having Failed to Win a \"Marathon\" [sic] without Training, Trump Announces Blockade of Iran's Blockade - emptywheel",
-      "description": "Trump's brilliant plan to blockade Iran's blockade seems to forget that Iran has a backdoor via which Trump's best buddy Vladimir Putin has been supplying Iran.",
-      "url": "https://emptywheel.net/2026/04/12/having-failed-to-win-a-marathon-sic-without-training-trump-announces-blockade-of-irans-blockade/",
-      "urlToImage": "https://emptywheel.net/wp-content/uploads/2026/04/Screenshot-2026-04-12-at-2.23.50-PM.png",
-      "source": "Emptywheel.net",
-      "publishedAt": "2026-04-12T20:29:23Z"
-    },
-    {
-      "title": "Lauren Sánchez Bezos Says She ‘Would Have a Baby Tomorrow’ with Husband Jeff Bezos - Yahoo",
-      "description": "The former news anchor and the Amazon founder already share a blended family of seven kids from previous relationships",
-      "url": "https://people.com/lauren-sanchez-bezos-says-she-would-have-a-baby-tomorrow-with-husband-jeff-bezos-11948263",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k_zD8qyhynGmyJrGtxt7SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/a8f680a85e803de0ecfb63deb6826382",
-      "source": "PEOPLE",
-      "publishedAt": "2026-04-12T20:25:10Z"
-    },
-    {
-      "title": "Lauren Sánchez Bezos Reveals Her Cringe Morning Routine with Jeff Bezos - The Daily Beast",
-      "description": "The 56-year-old says she’s happier than most people.",
-      "url": "https://www.thedailybeast.com/lauren-sanchez-bezos-reveals-her-cringe-morning-routine-with-jeff-bezos/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/AUQNMIQYVVBLJHFAL6UMG2TNJQ.jpg?smart=true&auth=3c8bfb15dc15189d5dd8be11d3e46d595ac3a2ceb69978d1b343a620ac9c27a5&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2026-04-12T20:08:00Z"
-    },
-    {
-      "title": "Quantum computers are coming to break our codes faster than anyone expected - The Conversation",
-      "description": "Quantum hardware and software are advancing rapidly – and our online encryption systems need to change to stay ahead.",
-      "url": "https://theconversation.com/quantum-computers-are-coming-to-break-our-codes-faster-than-anyone-expected-280303",
-      "urlToImage": "https://images.theconversation.com/files/729141/original/file-20260410-57-7z78ug.jpg?ixlib=rb-4.1.0&rect=0%2C571%2C2284%2C1142&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-12T19:14:36Z"
-    },
-    {
-      "title": "Bond Traders Snap Back to Inflation as Higher-for-Longer Sets In - Bloomberg.com",
-      "description": "An increasingly fragile ceasefire between the US and Iran is returning the bond market’s focus to inflation and reinforcing expectations that interest rates will stay higher for longer.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-12/bond-traders-snap-back-to-inflation-as-higher-for-longer-sets-in",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifsUvROjRbUI/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-12T19:00:00Z"
+      "publishedAt": "2026-04-13T18:55:37Z"
     }
   ]
 }
