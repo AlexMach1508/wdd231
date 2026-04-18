@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-04-17T08:02:00.538Z",
+  "updatedAt": "2026-04-18T07:22:37.706Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "'Highlander' First Look: Henry Cavill Stars in Movie Reboot - The Hollywood Reporter",
-      "description": "Chad Stahelski directs the fantasy feature that Amazon MGM Studios teased at CinemaCon.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/highlander-first-look-henry-cavill-reboot-chad-stahelski-1236565574/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2219680383-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-04-16T05:19:26Z"
+      "title": "NHL Stanley Cup Playoffs Bracket 2026 Dates, Matchups, Game Times and TV Schedule Info - Bleacher Report",
+      "description": "All 16 Stanley Cup playoff teams were confirmed entering the NHL regular season's final day, but there was still the matter of figuring out the Pacific Division's second and third seeds as well as the Western Conference's second wild card.",
+      "url": "https://bleacherreport.com/articles/25418908-nhl-stanley-cup-playoffs-bracket-2026-dates-matchups-game-times-and-tv-schedule-info",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-04/24ee7faa-7f58-41e4-88bc-77bf35395851.jpg?w=3800&h=2000",
+      "source": "Bleacher Report",
+      "publishedAt": "2026-04-17T06:33:45Z"
     },
     {
-      "title": "China’s Economy Revs Up Despite War as Growth Tops Forecasts - Bloomberg.com",
-      "description": "China’s economic growth rebounded more than expected in the first quarter, suggesting limited spillovers so far from the war in Iran but revealing few signs of turnaround in weak consumer spending.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-16/china-s-growth-rebound-tops-forecasts-with-iran-war-impact-muted",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipDVKJ.Z5TRI/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-16T04:47:00Z"
-    },
-    {
-      "title": "Asian stocks mostly higher after Wall Street hits record and oil steadies - AP News",
-      "description": "Asian stocks are mostly higher and oil prices have steadied as investors watch closely prospects of a ceasefire extension in the Iran war and more talks between the U.S. and Iran. Tokyo's Nikkei 225 closed at an all-time high and recovered from its losses sin…",
-      "url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-210b81a3613f43d024eb80a7928514c7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5431238/2147483647/strip/true/crop/5122x3413+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2Fdd%2F029b98d8d40a9ceda55924ddbef5%2Fb2b98e342de94042ad4c194efa36bd4e",
-      "source": "Associated Press",
-      "publishedAt": "2026-04-16T04:40:00Z"
-    },
-    {
-      "title": "Consecutive Israeli strikes kill 4 Lebanese medics as Israel-Hezbollah war grinds on - AP News",
-      "description": "Paramedic groups say the Israeli military has killed four Lebanese rescue workers and wounded six others in three consecutive, targeted strikes. The back-to-back Israeli attacks on the southern village of Mayfadoun came on Wednesday as Israel pressed on with …",
-      "url": "https://apnews.com/article/war-israel-lebanon-hezbollah-c9312d8f4fac08c5129e0a674d49ea4e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3c7a15e/2147483647/strip/true/crop/3492x2327+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2Fce%2Fd3721a231fd20205dc5af3a05ed0%2F479d7c55f2844a5c859fa1092a58de44",
-      "source": "Associated Press",
-      "publishedAt": "2026-04-16T04:19:00Z"
-    },
-    {
-      "title": "Live Blog: SoFi Play-In Tournament | Magic-76ers opens night two - NBA",
-      "description": "Enjoy the best highlights, observations, notes and photos from night two of the SoFi Play-In Tournament with the NBA.com live blog.",
-      "url": "https://www.nba.com/news/live-updates-sofi-play-in-tournament-magic-76ers-opens-night-two",
-      "urlToImage": "https://cdn.nba.com/manage/2026/04/GettyImages-2270998016-Cropped-scaled.jpg",
-      "source": "Heat.com",
-      "publishedAt": "2026-04-16T04:15:24Z"
-    },
-    {
-      "title": "Trump would \"welcome\" Israel-Lebanon ceasefire: U.S. official - Axios",
-      "description": "Trump would \"welcome and be happy with an end of hostilities.\"",
-      "url": "https://www.axios.com/2026/04/15/lebanon-ceasefire-israel-trump",
-      "urlToImage": "https://images.axios.com/c3-TCqsugY0YfE7vre0nHKEtrro=/0x140:6000x3515/1366x768/2026/04/15/1776281896549.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-04-16T04:08:50Z"
-    },
-    {
-      "title": "California attorney who tried to help overturn 2020 election loses law license - AP News",
-      "description": "A California attorney who aided President Donald Trump’s efforts to stay in power following his 2020 election loss is no longer licensed to practice in California. The California Supreme Court ordered John Eastman be disbarred on Wednesday. That follows a yea…",
-      "url": "https://apnews.com/article/john-eastman-trump-2020-election-loss-disbarred-abf3b3ab8f83a692992615c59db73c92",
-      "urlToImage": "https://dims.apnews.com/dims4/default/02017bb/2147483647/strip/true/crop/5621x3745+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F36%2F14d7ea8df7674183591873a78850%2Ff0790ac19703457398c986b8f8ab8c7a",
-      "source": "Associated Press",
-      "publishedAt": "2026-04-16T01:45:00Z"
-    },
-    {
-      "title": "Silva: 2026 NFL Mock Draft 1.0 - Establish The Run",
-      "description": null,
-      "url": "https://establishtherun.com/silva-nfl-mock-draft-1-0-2/",
-      "urlToImage": null,
-      "source": "Establishtherun.com",
-      "publishedAt": "2026-04-16T01:11:04Z"
-    },
-    {
-      "title": "Ronda Rousey immediately backtracks after accidentally insulting Paddy Pimblett: ‘Call me’ - Bloody Elbow",
-      "description": "Paddy Pimblett took a stray during Ronda Rousey's rant about Kayla Harrison.",
-      "url": "https://bloodyelbow.com/2026/04/15/ronda-rousey-immediately-backtracks-after-accidentally-insulting-paddy-pimblett-call-me/",
-      "urlToImage": "https://bloodyelbow.com/wp-content/uploads/1/2026/01/GettyImages-2258045890-1-scaled.jpg",
-      "source": "Bloody Elbow",
-      "publishedAt": "2026-04-16T01:00:00Z"
-    },
-    {
-      "title": "YouTube Premium is now 50% off for certain Google One subscribers - Android Police",
-      "description": "We'll take what we can get",
-      "url": "https://www.androidpolice.com/google-one-50-off-youtube-premium/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/reasons-youtube-premium-is-worth-subscribing-to.jpg?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2026-04-16T00:58:00Z"
-    },
-    {
-      "title": "Live Nation and Ticketmaster lose antitrust case - Axios",
-      "description": "A New York jury on Wednesday found that event promoter Live Nation and its Ticketmaster subsidiary violated U.S. and state antitrust laws.",
-      "url": "https://www.axios.com/2026/04/15/live-nation-ticketmaster-lose-antitrust-case",
-      "urlToImage": "https://images.axios.com/jK_g6Av3OEv3v0fRNG2xUt33ywY=/0x676:5000x3489/1366x768/2026/04/15/1776282406676.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-04-16T00:14:53Z"
-    },
-    {
-      "title": "Scoop: Trump discussed \"Jesus\" meme with Bill Pulte before posting it, sources say - Axios",
-      "description": "The mystery of who may have helped introduce the meme to Trump wasn't clear, until now.",
-      "url": "https://www.axios.com/2026/04/15/trump-christian-meme-bill-pulte",
-      "urlToImage": "https://images.axios.com/O4IzKjs4pvXIdgRTkfzFdy0DEz8=/0x0:1920x1080/1366x768/2026/04/15/1776297263226.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-04-16T00:00:01Z"
-    },
-    {
-      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia - Nature",
-      "description": "Analysis of 15,836 ancient West Eurasian genomes reveals hundreds of instances of directional selection, showing that sustained&nbsp;changes&nbsp;in allele frequency were widespread, rather than being rare over this period as previously assumed.",
-      "url": "https://www.nature.com/articles/s41586-026-10358-1",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10358-1/MediaObjects/41586_2026_10358_Fig1_HTML.png",
-      "source": "Nature.com",
-      "publishedAt": "2026-04-15T23:58:24Z"
-    },
-    {
-      "title": "‘The Odyssey’ Stuns CinemaCon With Intense Trojan Horse Attack Footage; Christopher Nolan Says Movie Was an ‘Absolute Nightmare to Film — in All the Right Ways’ - Variety",
-      "description": "Christopher Nolan brought an exclusive look at \"The Odyssey\" to CinemaCon.",
-      "url": "https://variety.com/2026/film/news/the-odyssey-trojan-horse-footage-cinemacon-christopher-nolan-1236710794/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/odyssey.png?crop=0px%2C21px%2C2132px%2C1199px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2026-04-15T23:52:00Z"
-    },
-    {
-      "title": "Australian authorities launch investigation after Ruby Rose accuses Katy Perry of sexual assault - Yahoo",
-      "description": "Actress Ruby Rose accused singer Katy Perry of sexually assaulting her in 2010. Now, Australian police tell CNN that an investigation underway.",
-      "url": "https://www.cnn.com/2026/04/15/entertainment/katy-perry-ruby-rose-allegations",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260415-rose-perry.jpg?c=16x9&q=w_800,c_fill",
+      "title": "How the first American pope is reclaiming Christian values from the Trump administration - CNN",
+      "description": "Flying to Algeria at the start of his landmark Africa tour on Monday, Pope Leo had a choice. He could ignore Donald Trump’s extraordinary overnight social media tirade against him, or he could tackle it head-on. He chose the second option.",
+      "url": "https://www.cnn.com/2026/04/17/americas/trump-pope-us-vatican-iran-war-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2271327943-20260416165833617.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2026-04-15T23:43:39Z"
+      "publishedAt": "2026-04-17T04:01:55Z"
     },
     {
-      "title": "Gravity follows Newton and Einstein's rules, even at cosmic scales - Phys.org",
+      "title": "ICE acting director Todd Lyons will resign at end of May, DHS says - AP News",
+      "description": "U.S. Immigration and Customs Enforcement acting director Todd Lyons, a key executor of President Donald Trump’s mass deportations agenda, will resign at the end of May, federal officials announced Thursday. Homeland Security Secretary Markwayne Mullin describ…",
+      "url": "https://apnews.com/article/immigration-customs-enforcement-ice-todd-lyons-da46097e88f93a7d6e15570222a34f06",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1ffdd9b/2147483647/strip/true/crop/3744x2495+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F38%2F67%2F09c11cbacb1933b46ccf92ecdb3a%2Fb160c5a172ac4b738fe4a648295546f8",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-17T03:25:00Z"
+    },
+    {
+      "title": "House plans overnight FISA vote - Politico",
       "description": null,
-      "url": "https://phys.org/news/2026-04-gravity-newton-einstein-cosmic-scales.html",
-      "urlToImage": null,
-      "source": "Phys.Org",
-      "publishedAt": "2026-04-15T23:40:04Z"
+      "url": "https://www.politico.com/live-updates/2026/04/16/congress/house-plans-overnight-fisa-vote-00878305",
+      "urlToImage": "https://www.politico.com/dims4/default/a4fb9e4/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F27%2F5c%2Fc9ed3d2943a1b8b51d634c8ddc95%2Fu-s-congress-17644.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-04-17T03:21:07Z"
     },
     {
-      "title": "Source: LIV Golf operations \"continue as scheduled,\" CEO reaffirms commitment to tour - Yahoo Sports",
-      "description": "As rumors swirl about the future of LIV Golf, the tour's CEO is attempting to reassure players and staff.",
-      "url": "https://sports.yahoo.com/golf/article/source-liv-golf-operations-continue-as-scheduled-ceo-reaffirms-commitment-to-tour-232803525.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gktqnQg6w90WXW4kFUhyXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-04/945739b4-27bf-41e6-8aba-b5a5e711f987",
+      "title": "Live Updates: Israel's ceasefire in Lebanon begins as Iran keeps Strait of Hormuz gridlocked - CBS News",
+      "description": "The leaders of Lebanon and Israel agreed to start a 10-day ceasefire at 5 p.m. Eastern Time.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-diplomacy-ceasefire/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/17/cdd30ec6-7b5f-40e3-93a0-a45e5f5c6ef3/thumbnail/1200x630/fb532d36b8ffcc0f3defa3ebc9f3ea23/ap26107210776852.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-04-17T03:16:00Z"
+    },
+    {
+      "title": "Asia stocks dip but head for sharp weekly gains on Iran peace hopes, tech boost - Investing.com",
+      "description": "Asia stocks dip but head for sharp weekly gains on Iran peace hopes, tech boost",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-but-head-for-sharp-weekly-gains-on-iran-peace-hopes-tech-boost-4619691",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0B0BR_L.jpg",
+      "source": "Investing.com",
+      "publishedAt": "2026-04-17T02:50:34Z"
+    },
+    {
+      "title": "Court documents reveal mounting tension in Fairfax marriage before murder-suicide - The Washington Post",
+      "description": "Justin Fairfax, a former Virginia lieutenant governor, saw his political career fade after sexual assault allegations. He and his wife, Cerina, were divorcing.",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/04/16/justin-fairfax-wife-murder-suicide/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RE2LKDM6J3EHBA3DUD4DOHLYEQ.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-04-17T02:49:35Z"
+    },
+    {
+      "title": "‘The Pitt’ Boss Says Noah Wyle’s Season 2 Storyline “Shows What Can Happen If You Don’t Take the Time to Resolve Mental Health Issues” - The Hollywood Reporter",
+      "description": "Patrick Ball and Sepideh Moafi talk about what the future holds for their characters as they deal with their respective conditions as Shawn Hatosy reveals how Dr. Abbot feels about Supriya Ganesh's Dr. Mohan leaving, and showrunner Scott Gemmill shares why th…",
+      "url": "http://www.hollywoodreporter.com/tv/tv-features/the-pitt-season-2-finale-explained-season-3-what-to-expect-1236567229/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/shawn-hatosy-noah-wyle.jpg?crop=0px%2C9px%2C1920px%2C1075px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-04-17T02:42:46Z"
+    },
+    {
+      "title": "ICE agent charged with assault for allegedly pointing gun during Minneapolis incident - The Washington Post",
+      "description": "The occupants of the other vehicle assumed the agent was just a “crazy person driving down the road aiming guns at people,” they told investigators.",
+      "url": "https://www.washingtonpost.com/nation/2026/04/16/ice-agent-charged-minneapolis-highway/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BMTXPNIJYJRQDYR6SMWREC6Y74.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-04-17T02:28:17Z"
+    },
+    {
+      "title": "Netflix shares dive as co-founder Reed Hastings steps away - Yahoo Finance",
+      "description": "Netflix shares plummeted more than nine percent Thursday as the TV streaming titan's quarterly earnings failed to impress investors and co-founder Reed...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-shares-dive-revenue-barely-225215127.html",
+      "urlToImage": "https://s.yimg.com/os/en/afp.com/35f0aeea630d566806a2ae519d1fc18c",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-15T23:37:48Z"
+      "publishedAt": "2026-04-17T02:06:00Z"
     },
     {
-      "title": "U.S. and Iran inch toward framework deal to end war, U.S. officials say - Axios",
-      "description": "If a framework is reached, the ceasefire would need to be extended to negotiate the details of a comprehensive deal.",
-      "url": "https://www.axios.com/2026/04/15/iran-war-negotiations-deal-pakistan",
-      "urlToImage": "https://images.axios.com/NnwOl258WYffOmBHfUb25DyvNok=/0x0:6000x3375/1366x768/2026/04/15/1776262286220.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-04-15T22:42:02Z"
+      "title": "‘Proof’ Review: ‘The Bear’ Star Ayo Edebiri Serves Up Transfixing Broadway Debut In Mathematical Mystery Play - Deadline",
+      "description": "Deadline's Broadway review of 'Proof' starring Ayo Edebiri, Don Cheadle, Kara Young and Jin Ha.",
+      "url": "http://deadline.com/2026/04/proof-broadway-review-ayo-edebiri-don-cheadle-kara-young-1236861306/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/PROOF_BROADWAY_0805_PJZEDIT_v001.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-04-17T02:00:00Z"
+    },
+    {
+      "title": "Pete Hegseth Roasted By Gavin Newsom & Others Over ‘Pulp Fiction’ Prayer Debacle - Deadline",
+      "description": "In an administration full of SNL cold opens waiting to happen, Pete Hegseth really out did himself this week - and Colin Jost wasn't even in the room",
+      "url": "http://deadline.com/2026/04/pete-hegseth-pulp-fiction-prayer-gavin-newsom-mocks-1236863911/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/Pete-Hegseth-Samuel-L-Jackson-in-Pulp-Fiction-Gavin-Newsom.jpg?w=1000",
+      "source": "Deadline",
+      "publishedAt": "2026-04-17T01:13:00Z"
+    },
+    {
+      "title": "Singer D4vd arrested in connection to death of runaway teen - BBC",
+      "description": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
+      "url": "https://www.bbc.com/news/articles/c20d22ev21wo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8e63/live/d3d01c60-39f8-11f1-99fe-5fdcad0f703b.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-04-17T01:01:08Z"
+    },
+    {
+      "title": "Refusing to acknowledge Azzi Fudd, Paige Bueckers relationship feeds an ugly narrative - Dallas News",
+      "description": "The former UConn teammates deserved better than what the Wings provided during Fudd’s introductory news conference.",
+      "url": "https://www.dallasnews.com/sports/wings/article/paige-bueckers-azzi-fudd-relationship-dallas-wings-22207574.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/66/00/02/30933137/3/rawImage.jpg",
+      "source": "The Dallas Morning News",
+      "publishedAt": "2026-04-17T00:23:04Z"
+    },
+    {
+      "title": "‘Avengers: Doomsday’ Trailer: Thor Battles Doctor Doom, Chris Evans Picks Up the Hammer, X-Men Back in Action in Thrilling CinemaCon Footage - Variety",
+      "description": "The 'Avengers: Doomsday' trailer revealed Robert Downey Jr.'s Doctor Doom battling Thor, Chris Evans back as Captain America and much more.",
+      "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-robert-downey-jr-doctor-doom-1236719804/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/04/avengers.png?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-04-16T23:44:00Z"
+    },
+    {
+      "title": "Artemis II astronauts detail 'intense' reentry in interview with ABC News' David Muir - abcnews.com",
+      "description": null,
+      "url": "https://abcnews.com/US/artemis-ii-astronauts-detail-intense-reentry-interview-abc/story?id\\\\u003d132112982",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-16T23:29:59Z"
+    },
+    {
+      "title": "Maricopa County confirms sixth measles case, possible Mesa and Queen Creek exposure sites - AZ Family",
+      "description": "Maricopa County health officials confirmed a sixth measles case this year with possible exposure sites in the East Valley.",
+      "url": "https://www.azfamily.com/2026/04/16/maricopa-county-confirms-sixth-measles-case-possible-mesa-queen-creek-exposure-sites/",
+      "urlToImage": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/KCRMP36L3FCNXON72K7GADMGUM.jpg?auth=0e7f190c9f46143dd731327bd41a611d7c967544c261eda02a41a31a42cd85ab&width=1200&height=600&smart=true",
+      "source": "AZFamily",
+      "publishedAt": "2026-04-16T23:01:00Z"
     }
   ]
 }
