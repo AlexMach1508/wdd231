@@ -1,167 +1,135 @@
 {
-  "updatedAt": "2026-04-22T08:02:54.502Z",
+  "updatedAt": "2026-04-23T08:07:58.239Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Dyson’s back with a travel-size Supersonic hairdryer - The Verge",
-      "description": "Ten years after the original Supersonic hairdryer, Dyson is back with a $299.99 travel-size version that also supports universal voltage.",
-      "url": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dysonsupersonictravel-2.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T04:00:00Z"
+      "title": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover - Nintendo Everything",
+      "description": "A leaker with a reliable track record has allegedly leaked DLC characters for Street Fighter 6 Year 4, which includes a big crossover.",
+      "url": "https://nintendoeverything.com/rumor-street-fighter-6-year-4-dlc-characters-leak-includes-big-crossover/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Street-Fighter-6-Switch-2-sale.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-04-22T00:38:45Z"
     },
     {
-      "title": "THQ Nordic Website Lists Multiple Unannounced Projects For Switch 2 - Nintendo Life",
-      "description": "Following a handful of announcements last month",
-      "url": "https://www.nintendolife.com/news/2026/04/thq-nordic-website-lists-multiple-unannounced-projects-for-switch-2",
-      "urlToImage": "https://images.nintendolife.com/b447c0c1534f4/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-04-21T03:55:00Z"
+      "title": "Mozilla: Anthropic’s Mythos found 271 zero-day vulnerabilities in Firefox 150 - Ars Technica",
+      "description": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-04-21T21:40:41Z"
     },
     {
-      "title": "30 More Jaw-Droppingly Dumb Pictures Taken At JUST The Right Moment That Get Funnier And Funnier No Matter How Many Times I’ve Seen Them - BuzzFeed",
-      "description": "They're dumb, but they're so good.",
-      "url": "https://www.buzzfeed.com/daves4/funniest-weirdest-screenshots-april-20-2026",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-04/20/21/thumb/wwUDNg8We.jpg?crop=2490:1660;5,0&resize=1250:830",
-      "source": "Buzzfeed",
-      "publishedAt": "2026-04-21T02:13:12Z"
+      "title": "Here's What's New in iOS 26.5 So Far - MacRumors",
+      "description": "iOS 26.5 has been in beta since late March, with a third beta released this week. The update is relatively minor so far, which is not too surprising...",
+      "url": "https://www.macrumors.com/2026/04/21/ios-26-5-new-iphone-features/",
+      "urlToImage": "https://images.macrumors.com/t/Ke-vEFDAn5LSUL0-XhRvZXyMFCs=/2500x/article-new/2026/03/iOS-26.5-Glass-Feature-Green.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-04-21T20:30:00Z"
     },
     {
-      "title": "Apple to Focus Hardware Team on Five Areas Under Johny Srouji - Bloomberg",
-      "description": "Apple Inc.’s newly combined hardware engineering and hardware technologies division will be organized across five key areas, its new leader told staffers on Monday.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/apple-to-focus-hardware-team-on-five-areas-under-johny-srouji",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idhEyF2tAp6E/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-21T00:19:00Z"
-    },
-    {
-      "title": "The drama between a software engineering veteran and Google is heating up — and playing out in public - Business Insider",
-      "description": "Computer programmer and ex-Googler Steve Yegge said he had heard AI use within the the company varies widely, sparking a firestorm of public pushback.",
-      "url": "https://www.businessinsider.com/steve-yegge-google-ai-adoption-curve-demis-hassabis-2026-4",
-      "urlToImage": "https://i.insider.com/69e6889e367066d7c296ec1a?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-04-20T23:57:29Z"
-    },
-    {
-      "title": "People Are Ditching KitchenAid Stand Mixers For A Brand 'Everyone's Recommending' - Tasting Table",
-      "description": "KitchenAid stand mixers might be iconic, but that doesn't mean they're still the best when innovations and modern technologies are being added to appliances.",
-      "url": "https://www.tastingtable.com/2150173/kitchenaid-mixer-bad-reviews-brand-everyone-recommends-kenwood/",
-      "urlToImage": "https://www.tastingtable.com/img/gallery/people-are-ditching-kitchenaid-stand-mixers-for-a-brand-everyones-recommending/l-intro-1776368391.jpg",
-      "source": "Tastingtable.com",
-      "publishedAt": "2026-04-20T23:30:00Z"
-    },
-    {
-      "title": "‘WhatsApp Plus’ subscription launching soon with new features - 9to5Mac",
-      "description": "WhatsApp is planning a new ‘WhatsApp Plus’ paid subscription, and it just went live in the app’s Android beta ahead of an iOS launch.",
-      "url": "https://9to5mac.com/2026/04/20/whatsapp-plus-subscription-launching-soon-with-new-features/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-04-20T22:00:00Z"
-    },
-    {
-      "title": "Gemini in Chrome rolling out to Asia Pacific - 9to5Google",
-      "description": "Gemini in Chrome is now coming to seven more countries in Asia Pacific to bring the total number of markets to 11.",
-      "url": "http://9to5google.com/2026/04/20/gemini-chrome-more-countries/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Gemini-Chrome-Asia-Pacific.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-04-20T22:00:00Z"
-    },
-    {
-      "title": "Cyberpunk 2077 Prequel Night City 2045 Officially Revealed, Coming June 2026 - Comic Book Resources",
-      "description": "This June, Night City 2045 will reveal the official hidden history of Cyberpunk 2077.",
-      "url": "https://www.cbr.com/cyberpunk-2077-official-new-release-june-2026/",
-      "urlToImage": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/keanu-reeves-in-cyberpunk-2077.jpg?w=1600&h=900&fit=crop",
-      "source": "CBR - Comic Book Resources",
-      "publishedAt": "2026-04-20T21:42:59Z"
-    },
-    {
-      "title": "Sony Has Global Plans For PlayStation Age Verification - Report - GameSpot",
-      "description": "It's not clear when exactly the feature will roll out, but Sony's aiming to implement it \"later this year.\"",
-      "url": "https://www.gamespot.com/articles/sony-has-global-plans-for-playstation-age-verification-report/1100-6539507/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1752/17528202/4684947-psn.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2026-04-20T21:42:17Z"
-    },
-    {
-      "title": "Silicon Valley has forgotten what normal people want - The Verge",
-      "description": "NFTs, the metaverse and AI are the most recent Silicon Valley enthusiasms. Does anyone remember how to build a consumer product?",
-      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-20T20:30:00Z"
-    },
-    {
-      "title": "Consumer Reports' 2026 Sports Car List Reawakens An Old Argument - Jalopnik",
-      "description": "The original definition of a sports car was a two-seat convertible you could drive in a race. CR's list raises the question: Does this need updating?",
-      "url": "https://www.jalopnik.com/2149054/consumer-reports-definition-of-sports-cars/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/consumer-reports-2026-sports-car-list-reawakens-an-old-argument/l-intro-1776269834.jpg",
+      "title": "Keanu Reeves Raced This Supercharged Scion tC, And Now You Can, Too - Jalopnik",
+      "description": "If you've already jacked into the Matrix and downloaded the good driver file, maybe you'll want to pick up this wild factory-built racer for a song.",
+      "url": "https://www.jalopnik.com/2153993/keanu-reeves-raced-supercharged-scion-tc-auction/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/keanu-reeves-raced-this-supercharged-scion-tc-and-now-you-can-too/l-intro-1776803031.jpg",
       "source": "Jalopnik",
-      "publishedAt": "2026-04-20T20:05:00Z"
+      "publishedAt": "2026-04-21T20:25:09Z"
     },
     {
-      "title": "SRAM Eagle S-Series Combines 9 Groups into 3, Adds New UDH Half Mount - Bikerumor",
-      "description": "SRAM just got rid of 9 different Eagle groups, replacing them with just three new S-Series Eagle families for easy replacement.",
-      "url": "https://bikerumor.com/sram-eagle-s-series-combines-9-groups-into-3-adds-new-udh-half-mount/",
-      "urlToImage": "https://bikerumor.com/wp-content/uploads/2026/04/SRAM-S-Series-eagle-drivetrain-half-mount6.jpg",
-      "source": "Bikerumor.com",
-      "publishedAt": "2026-04-20T19:48:24Z"
+      "title": "This Watch Brand Is Fast on Its Way to Winning 2026 - Gear Patrol",
+      "description": "IWC \"won\" Watches and Wonders this year, with a broad range of outstanding new models and innovations across a range of categories.",
+      "url": "https://www.gearpatrol.com/watches/iwc-watches-and-wonders-2026/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/04/iwc-watches-and-wonders-2026-lead.webp",
+      "source": "Gear Patrol",
+      "publishedAt": "2026-04-21T20:01:01Z"
     },
     {
-      "title": "'Shimmering-Free 4K at a Silky-Smooth 60fps': Anime Open World NTE Will Push PS5 Pro - Push Square",
-      "description": "Leveraging PSSR2 and more",
-      "url": "https://www.pushsquare.com/news/2026/04/shimmering-free-4k-at-a-silky-smooth-60fps-anime-open-world-nte-will-push-ps5-pro",
-      "urlToImage": "https://images.pushsquare.com/d386e168080f2/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-04-20T19:00:00Z"
+      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store - TechCrunch",
+      "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations.",
+      "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/imgi_6_hero-image.webp?w=1000",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-21T19:09:12Z"
     },
     {
-      "title": "New Microsoft Pro and Surface Laptop release delay rumoured - Notebookcheck",
-      "description": "A reliable source has elaborated on Microsoft's launch plans for its Surface Laptop 8 and Surface Pro 12 releases. Unfortunately, neither are now expected to arrive as soon as previously suggested. New Surface Laptop and Surface Pro models are still tipped to…",
-      "url": "https://www.notebookcheck.net/New-Microsoft-Pro-and-Surface-Laptop-release-delay-rumoured.1278936.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/surface-pro-release-delay-rumoured-kv.jpg",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-04-20T18:51:00Z"
+      "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
+      "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve family dinner conversations.",
+      "url": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/04/prego-pivots-pasta-sauce-microphone.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "publishedAt": "2026-04-21T19:01:00Z"
     },
     {
-      "title": "If Apple built a $299 \"Neo\" desktop PC, Windows would have a real problem - TechSpot",
-      "description": "The MacBook Neo has done something Apple almost never does: it surprised the industry. When Asus co-CEO described Apple's $599 laptop as a genuine shock to the...",
-      "url": "https://www.techspot.com/news/112127-if-apple-built-299-neo-desktop-pc-windows.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/04/2026-04-20-image-13.jpg",
-      "source": "TechSpot",
-      "publishedAt": "2026-04-20T18:34:00Z"
-    },
-    {
-      "title": "Kotaku hires Rebekah Valentine as Senior Reporter as site expands under new ownership - GamesIndustry.biz",
-      "description": "Owner Keleops says that traffic has doubled in under a year; further hires planned to drive further growth",
-      "url": "https://www.gamesindustry.biz/kotaku-hires-rebekah-valentine-as-senior-reporter-as-site-expands-under-new-ownership",
-      "urlToImage": "https://assetsio.gnwcdn.com/kotaku_vluNoBi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2026-04-20T18:22:03Z"
-    },
-    {
-      "title": "Deezer says AI song uploads have nearly overtaken human music - The Verge",
-      "description": "Deezer says it receives almost 75,000 AI-generated song submissions to its music streaming platform each day, which accounts for about 44 percent of all daily uploads.",
-      "url": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC - The Verge",
+      "description": "Framework is officially revealing its external OCuLink solutions for power users to connect its Laptop 16 to external GPUs and other PCIe add-in cards.",
+      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eGPU_Install_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-04-20T17:56:26Z"
+      "publishedAt": "2026-04-21T18:07:24Z"
     },
     {
-      "title": "Confirmed: The Ford Mustang Dark Horse SC Has 795 Horsepower - Motor1.com",
-      "description": "With 795 horsepower and 660 pound-feet of torque, the Mustang Dark Horse SC is incredibly powerful.",
-      "url": "https://www.motor1.com/news/793484/mustang-dark-horse-sc-horsepower/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/Qeb9NY/s1/2026-ford-mustang-dark-horse-sc-front-3-4.jpg",
-      "source": "Motor1 ",
-      "publishedAt": "2026-04-20T17:48:00Z"
+      "title": "How Vampire Crawlers Keeps the Soul of Vampire Survivors Alive in a Whole New Genre - Xbox Wire",
+      "description": "Vampire Crawlers, a spinoff from Vampire Survivors, reimagines the bullet heaven hit as a first-person, turn-based dungeon crawling roguelite deckbuilder. Launching on Xbox Series X|S, PC, and Game Pass, it brings fresh strategy and mechanical depth while ret…",
+      "url": "https://news.xbox.com/en-us/2026/04/21/vampire-crawlers-genre/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/vampire-crawlers-f4e1dcdef43b89d77462.jpg",
+      "source": "Xbox.com",
+      "publishedAt": "2026-04-21T16:33:12Z"
     },
     {
-      "title": "Former PlayStation Exec Shuhei Yoshida Says He Was Fired After Top Boss Asked Him To Do \"Ridiculous Things\" - GameSpot",
-      "description": "\"He asked to do some ridiculous things, and I said, 'No.'\"",
-      "url": "https://www.gamespot.com/articles/former-playstation-exec-shuhei-yoshida-says-he-was-fired-after-top-boss-asked-him-to-do-ridiculous-things/1100-6539492/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4684875-sony.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2026-04-20T17:33:32Z"
+      "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
+      "description": "Lord of Hatred is an exceptional cherry on top of Diablo IV, further cementing the entire package as among the best action RPGs of the generation.",
+      "url": "https://gameinformer.com/review/diablo-iv-lord-of-hatred/embrace-the-hate",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/04/21/c846719a/dialbo4loh_mephisto.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-04-21T16:02:43Z"
+    },
+    {
+      "title": "Stop Paying for a VPN: Firefox Just Built One Right Into Your Browser - CNET",
+      "description": "Mozilla's built-in VPN offers an extra layer of privacy for your browser traffic without requiring a separate subscription.",
+      "url": "https://www.cnet.com/tech/services-and-software/stop-paying-for-a-vpn-firefox-just-built-one-right-into-your-browser/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/54634549615eccfe93d75868b49c0905837f7854/hub/2026/03/19/21acb708-f680-42d5-91ae-3be73d1746de/distilled-featurelaunch-vpn-02-1024x576.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2026-04-21T16:01:00Z"
+    },
+    {
+      "title": "The next evolution of The Verge’s homepage is here - The Verge",
+      "description": "We’re continuously improving how The Verge works for you.",
+      "url": "https://www.theverge.com/bulletin/914842/the-next-evolution-of-the-verges-homepage-is-here",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Verge-Homepage-Announcement-Post.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-04-21T15:48:04Z"
+    },
+    {
+      "title": "Apple to drop Intel Mac support with macOS 27, Tahoe 26 becomes final release - VideoCardz.com",
+      "description": "macOS 27 will end support for Intel-based Macs Apple is preparing to end major macOS support for Intel-based Macs with macOS 27. The change is being",
+      "url": "https://videocardz.com/newz/apple-to-drop-intel-mac-support-with-macos-27-tahoe-26-becomes-final-release",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/04/INTEL-MAC-HERO.jpg",
+      "source": "Videocardz.com",
+      "publishedAt": "2026-04-21T15:41:00Z"
+    },
+    {
+      "title": "A Realm Reborn in Magic: The Gathering®—FINAL FANTASY™ - Magic: The Gathering",
+      "description": "Cameron Williams discusses how Magic: The Gathering—FINAL FANTASY's designers brought the critically acclaimed MMORPG to Magic.",
+      "url": "https://magic.wizards.com/en/news/feature/a-realm-reborn-in-final-fantasy",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/7p600CIu7ylgHzsbuETgEJ/d9975a287ba8bc29d991c440e7bfe900/FIN_Emet_Selch_960x540.jpg",
+      "source": "Wizards.com",
+      "publishedAt": "2026-04-21T15:16:01Z"
+    },
+    {
+      "title": "Da Speedwaaagh! begins with two new Ork Detachments - Warhammer Community",
+      "description": "Join Wazdakka’s lads for a high-speed krumpin’ with new Warhammer 40,000 rules.",
+      "url": "https://www.warhammer-community.com/articles/zd2usx9o/da-speedwaaagh-begins-with-two-new-ork-detachments",
+      "urlToImage": "https://assets.warhammer-community.com/40k_orkdetachments-apr21-1-feature-jok3ciamcd.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-04-21T14:57:10Z"
+    },
+    {
+      "title": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame - Panasonic North America",
+      "description": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame",
+      "url": "https://na.panasonic.com/news/panasonic-introduces-new-compact-standard-prime-lens-to-its-full-frame",
+      "urlToImage": null,
+      "source": "Panasonic.com",
+      "publishedAt": "2026-04-21T14:03:50Z"
     }
   ]
 }
