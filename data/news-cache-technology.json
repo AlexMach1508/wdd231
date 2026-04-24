@@ -1,135 +1,167 @@
 {
-  "updatedAt": "2026-04-23T08:07:58.239Z",
+  "updatedAt": "2026-04-24T08:19:25.566Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover - Nintendo Everything",
-      "description": "A leaker with a reliable track record has allegedly leaked DLC characters for Street Fighter 6 Year 4, which includes a big crossover.",
-      "url": "https://nintendoeverything.com/rumor-street-fighter-6-year-4-dlc-characters-leak-includes-big-crossover/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Street-Fighter-6-Switch-2-sale.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-04-22T00:38:45Z"
-    },
-    {
-      "title": "Mozilla: Anthropic’s Mythos found 271 zero-day vulnerabilities in Firefox 150 - Ars Technica",
-      "description": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-04-21T21:40:41Z"
-    },
-    {
-      "title": "Here's What's New in iOS 26.5 So Far - MacRumors",
-      "description": "iOS 26.5 has been in beta since late March, with a third beta released this week. The update is relatively minor so far, which is not too surprising...",
-      "url": "https://www.macrumors.com/2026/04/21/ios-26-5-new-iphone-features/",
-      "urlToImage": "https://images.macrumors.com/t/Ke-vEFDAn5LSUL0-XhRvZXyMFCs=/2500x/article-new/2026/03/iOS-26.5-Glass-Feature-Green.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-04-21T20:30:00Z"
-    },
-    {
-      "title": "Keanu Reeves Raced This Supercharged Scion tC, And Now You Can, Too - Jalopnik",
-      "description": "If you've already jacked into the Matrix and downloaded the good driver file, maybe you'll want to pick up this wild factory-built racer for a song.",
-      "url": "https://www.jalopnik.com/2153993/keanu-reeves-raced-supercharged-scion-tc-auction/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/keanu-reeves-raced-this-supercharged-scion-tc-and-now-you-can-too/l-intro-1776803031.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-04-21T20:25:09Z"
-    },
-    {
-      "title": "This Watch Brand Is Fast on Its Way to Winning 2026 - Gear Patrol",
-      "description": "IWC \"won\" Watches and Wonders this year, with a broad range of outstanding new models and innovations across a range of categories.",
-      "url": "https://www.gearpatrol.com/watches/iwc-watches-and-wonders-2026/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/04/iwc-watches-and-wonders-2026-lead.webp",
-      "source": "Gear Patrol",
-      "publishedAt": "2026-04-21T20:01:01Z"
-    },
-    {
-      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store - TechCrunch",
-      "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations.",
-      "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/imgi_6_hero-image.webp?w=1000",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T19:09:12Z"
-    },
-    {
-      "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
-      "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve family dinner conversations.",
-      "url": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/04/prego-pivots-pasta-sauce-microphone.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "publishedAt": "2026-04-21T19:01:00Z"
-    },
-    {
-      "title": "Framework’s first eGPUs turn its laptop into a desktop PC - The Verge",
-      "description": "Framework is officially revealing its external OCuLink solutions for power users to connect its Laptop 16 to external GPUs and other PCIe add-in cards.",
-      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eGPU_Install_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T18:07:24Z"
-    },
-    {
-      "title": "How Vampire Crawlers Keeps the Soul of Vampire Survivors Alive in a Whole New Genre - Xbox Wire",
-      "description": "Vampire Crawlers, a spinoff from Vampire Survivors, reimagines the bullet heaven hit as a first-person, turn-based dungeon crawling roguelite deckbuilder. Launching on Xbox Series X|S, PC, and Game Pass, it brings fresh strategy and mechanical depth while ret…",
-      "url": "https://news.xbox.com/en-us/2026/04/21/vampire-crawlers-genre/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/vampire-crawlers-f4e1dcdef43b89d77462.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-04-21T16:33:12Z"
-    },
-    {
-      "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
-      "description": "Lord of Hatred is an exceptional cherry on top of Diablo IV, further cementing the entire package as among the best action RPGs of the generation.",
-      "url": "https://gameinformer.com/review/diablo-iv-lord-of-hatred/embrace-the-hate",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/04/21/c846719a/dialbo4loh_mephisto.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-04-21T16:02:43Z"
-    },
-    {
-      "title": "Stop Paying for a VPN: Firefox Just Built One Right Into Your Browser - CNET",
-      "description": "Mozilla's built-in VPN offers an extra layer of privacy for your browser traffic without requiring a separate subscription.",
-      "url": "https://www.cnet.com/tech/services-and-software/stop-paying-for-a-vpn-firefox-just-built-one-right-into-your-browser/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/54634549615eccfe93d75868b49c0905837f7854/hub/2026/03/19/21acb708-f680-42d5-91ae-3be73d1746de/distilled-featurelaunch-vpn-02-1024x576.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-04-21T16:01:00Z"
-    },
-    {
-      "title": "The next evolution of The Verge’s homepage is here - The Verge",
-      "description": "We’re continuously improving how The Verge works for you.",
-      "url": "https://www.theverge.com/bulletin/914842/the-next-evolution-of-the-verges-homepage-is-here",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Verge-Homepage-Announcement-Post.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T15:48:04Z"
-    },
-    {
-      "title": "Apple to drop Intel Mac support with macOS 27, Tahoe 26 becomes final release - VideoCardz.com",
-      "description": "macOS 27 will end support for Intel-based Macs Apple is preparing to end major macOS support for Intel-based Macs with macOS 27. The change is being",
-      "url": "https://videocardz.com/newz/apple-to-drop-intel-mac-support-with-macos-27-tahoe-26-becomes-final-release",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/04/INTEL-MAC-HERO.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-04-21T15:41:00Z"
-    },
-    {
-      "title": "A Realm Reborn in Magic: The Gathering®—FINAL FANTASY™ - Magic: The Gathering",
-      "description": "Cameron Williams discusses how Magic: The Gathering—FINAL FANTASY's designers brought the critically acclaimed MMORPG to Magic.",
-      "url": "https://magic.wizards.com/en/news/feature/a-realm-reborn-in-final-fantasy",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/7p600CIu7ylgHzsbuETgEJ/d9975a287ba8bc29d991c440e7bfe900/FIN_Emet_Selch_960x540.jpg",
-      "source": "Wizards.com",
-      "publishedAt": "2026-04-21T15:16:01Z"
-    },
-    {
-      "title": "Da Speedwaaagh! begins with two new Ork Detachments - Warhammer Community",
-      "description": "Join Wazdakka’s lads for a high-speed krumpin’ with new Warhammer 40,000 rules.",
-      "url": "https://www.warhammer-community.com/articles/zd2usx9o/da-speedwaaagh-begins-with-two-new-ork-detachments",
-      "urlToImage": "https://assets.warhammer-community.com/40k_orkdetachments-apr21-1-feature-jok3ciamcd.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-04-21T14:57:10Z"
-    },
-    {
-      "title": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame - Panasonic North America",
-      "description": "Panasonic Introduces New Compact Standard Prime Lens to its Full Frame",
-      "url": "https://na.panasonic.com/news/panasonic-introduces-new-compact-standard-prime-lens-to-its-full-frame",
+      "title": "Tomodachi Life: Living The Dream Has Received Its First Update On Switch - Nintendo Life",
+      "description": null,
+      "url": "https://www.nintendolife.com/news/2026/04/tomodachi-life-living-the-dream-has-received-its-first-update-on-switch",
       "urlToImage": null,
-      "source": "Panasonic.com",
-      "publishedAt": "2026-04-21T14:03:50Z"
+      "source": "Nintendo Life",
+      "publishedAt": "2026-04-23T02:55:00Z"
+    },
+    {
+      "title": "Here’s What’s In Crimson Desert’s Biggest Patch Since Launch - Forbes",
+      "description": "Crimson Desert just unleashed a new patch that is so sprawling it's hard to get through all the notes. So I'm here to pull out the best ones.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/04/22/heres-whats-in-crimson-deserts-biggest-patch-since-launch/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69e98777c8ecbcdcabd37867/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-04-23T02:46:06Z"
+    },
+    {
+      "title": "Round Up: This PS5 Game Changes Based on Other Players, and Reviewers Are Liking It - Push Square",
+      "description": "Tides of Tomorrow attracting plenty of praise",
+      "url": "https://www.pushsquare.com/features/round-up-this-ps5-game-changes-based-on-other-players-and-reviewers-are-liking-it",
+      "urlToImage": "https://images.pushsquare.com/8dce7c44d4bc2/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-04-23T00:00:00Z"
+    },
+    {
+      "title": "Switchable 2D–3D display through a metasurface lenticular lens - Nature",
+      "description": "A full-colour 2D–3D switchable light-field display powered by a metasurface lenticular lens is proposed that is a promising solution for next-generation display technologies in both consumer electronics and commercial applications.",
+      "url": "https://www.nature.com/articles/s41586-026-10318-9",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10318-9/MediaObjects/41586_2026_10318_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2026-04-22T23:25:52Z"
+    },
+    {
+      "title": "Ingrid's movelist and mechanics details revealed for Street Fighter 6 with her unique Sun Crest abilities and tons of attacks - EventHubs",
+      "description": "After waiting 10 months since her initial reveal, Ingrid just received her gameplay trailer for Street Fighter 6, but that's not all we got to dig into.Capcom also just released a bunch of additional details on Ingrid's ...",
+      "url": "https://www.eventhubs.com/news/2026/apr/22/ingrid-movelist-details-sf6/",
+      "urlToImage": "https://media.eventhubs.com/images/2026/04/22-ingrid-movelist-details-sf6t.webp",
+      "source": "EventHubs",
+      "publishedAt": "2026-04-22T22:46:15Z"
+    },
+    {
+      "title": "Google updates Workspace to make AI your new office intern - TechCrunch",
+      "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T22:44:26Z"
+    },
+    {
+      "title": "Base Mac Mini Sold Out From Apple Online Store - MacRumors",
+      "description": "Apple appears to be sold out of the base Mac mini, and the machine is listed as “Currently Unavailable” from the Apple Online Store.    The base Mac...",
+      "url": "https://www.macrumors.com/2026/04/22/base-mac-mini-sold-out-from-apple-online-store/",
+      "urlToImage": "https://images.macrumors.com/t/UEhdoexSwDSCtiSEKM4Zdc70qJQ=/2500x/article-new/2025/11/mac-mini-cyber.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-04-22T21:59:44Z"
+    },
+    {
+      "title": "Tim Cook Regrets Maps Flub, Sees Apple Watch as His Proudest Work - Bloomberg.com",
+      "description": "Apple Inc. Chief Executive Officer Tim Cook, who plans to step down in a few months, cited the launch of Apple Maps on the iPhone in 2012 as his “first really big mistake” as the company’s boss.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/tim-cook-regrets-maps-flub-sees-apple-watch-as-his-proudest-work",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJfsMZsVw06I/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-04-22T21:21:26Z"
+    },
+    {
+      "title": "Google releases Android 17 QPR1 Beta 1 for Pixel - 9to5Google",
+      "description": "With the final scheduled release for the Android 17 Beta coming last week, Google today is already moving on to Android 17 QPR1 Beta 1.",
+      "url": "http://9to5google.com/2026/04/22/android-17-qpr1-beta-1-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/android-17-easter-egg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-04-22T21:16:00Z"
+    },
+    {
+      "title": "How To Run Pragmata At 1440p on PlayStation 5 - But Should You? - Digital Foundry",
+      "description": "A big improvement over stock 1080p - but frame-rates are impacted.",
+      "url": "https://www.digitalfoundry.net/features/how-to-run-pragmata-at-1440p-on-playstation-5-but-should-you",
+      "urlToImage": "https://images.digitalfoundry.net/d18668fedc3c4/large.jpg",
+      "source": "Digitalfoundry.net",
+      "publishedAt": "2026-04-22T20:20:00Z"
+    },
+    {
+      "title": "Fallout: New Vegas dev claims Bethesda made a PowerPoint of everything Obsidian did 'wrong' - Polygon.com",
+      "description": "Former Obsidian Entertainment developer Chris Avellone alleges that Bethesda was not a big fan of Fallout: New Vegas or its DLC, Dead Money.",
+      "url": "https://www.polygon.com/fallout-new-vegas-chris-avellone-powerpoint-bethesda-wrong-with-rpg/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22372015/apps.6263.66091604408099736.4cc75ea1_c6a0_40ec_b7f9_7fdb8da581b2__1_.jpeg?w=1600&h=900&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2026-04-22T19:57:14Z"
+    },
+    {
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones - TechCrunch",
+      "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-pop-up-notifications.jpg?resize=1200,900",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T19:13:02Z"
+    },
+    {
+      "title": "Preorders Are Live for the Switch 2-Exclusive Splatoon Raiders and Its Three Accompanying Amiibo Figures - IGN",
+      "description": "Everything you need to know to preorder Splatoon Raiders for Nintendo Switch 2, including pricing, release date, and where to find the accompanying amiibo figures.",
+      "url": "https://www.ign.com/articles/splatoon-raiders-switch-2-and-amiibo-where-to-buy",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/04/22/untitled-design-6-1776867966443.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-04-22T18:31:35Z"
+    },
+    {
+      "title": "Google turns Chrome into an AI co-worker for the workplace - TechCrunch",
+      "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T17:30:00Z"
+    },
+    {
+      "title": "Gamers unlock access to thousands of free GameCube and Wii titles for Nintendo Switch - Creative Bloq",
+      "description": "Advanced emulation is still risky (though a lot less complicated) to navigate.",
+      "url": "https://www.creativebloq.com/entertainment/gaming/gamers-unlock-access-to-thousands-of-free-gamecube-and-wii-titles-for-nintendo-switch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kB3VzDhbxkkyPLCyyREieR-1200-80.jpg",
+      "source": "Creative Bloq",
+      "publishedAt": "2026-04-22T17:07:53Z"
+    },
+    {
+      "title": "Claude Mythos AI Model Uncovers 271 Zero-Day Vulnerabilities in Firefox - CyberSecurityNews",
+      "description": "Anthropic's latest frontier AI model, Claude Mythos Preview, has identified a staggering 271 zero-day vulnerabilities in Mozilla Firefox marking a seismic shift in AI-powered cybersecurity defense. The findings, addressed in Firefox 150, represent the most si…",
+      "url": "https://cybersecuritynews.com/claude-mythos-271-zero-days/",
+      "urlToImage": "http://cybersecuritynews.com/wp-content/uploads/2026/04/Claude-Mythos-271-Zero-Days.webp",
+      "source": "Cybersecuritynews.com",
+      "publishedAt": "2026-04-22T17:01:10Z"
+    },
+    {
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+      "url": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html",
+      "urlToImage": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "source": "Marvelrivals.com",
+      "publishedAt": "2026-04-22T16:56:22Z"
+    },
+    {
+      "title": "This hidden Android Auto setting finally fixed my connection lag - Android Police",
+      "description": "Android Auto is great, but not when it's not working properly. Thankfully, it's easy to fix",
+      "url": "https://www.androidpolice.com/hidden-android-auto-setting-stopped-connection-lag/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/android-auto-interface-showing-navigation-and-music-with-multiple-red-warning-exclamation-icons.png?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-04-22T16:15:11Z"
+    },
+    {
+      "title": "Sayonara Wild Hearts, Lorelei and the Laser Eyes Nintendo Switch 2 Editions have just released - Nintendo Everything",
+      "description": "Two more Nintendo Switch 2 Editions have just dropped with Annapurna releasing new versions of Sayonara Wild Hearts and Lorelei and the Laser Eyes. Right now we’re only seeing it in Japan, but it should be rolling out in other regions over the next day. Sayon…",
+      "url": "https://nintendoeverything.com/sayonara-wild-hearts-lorelei-and-the-laser-eyes-nintendo-switch-2-editions-have-just-released/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Sayonara-Wild-Hearts-Switch-2.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-04-22T15:18:25Z"
+    },
+    {
+      "title": "AMD Stock Jumps on the Launch of the Ryzen 9 9950X3D2 Dual Edition - TipRanks",
+      "description": "AMD stock rallied on Wednesday alongside the launch of the Ryzen 9 9950X3D2 Dual Edition.",
+      "url": "https://www.tipranks.com/news/amd-stock-jumps-on-the-launch-of-the-ryzen-9-9950x3d2-dual-edition",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/04/amdstock-10-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2026-04-22T15:14:50Z"
     }
   ]
 }
