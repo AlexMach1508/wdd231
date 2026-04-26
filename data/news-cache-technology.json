@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-04-25T07:42:53.062Z",
+  "updatedAt": "2026-04-26T07:51:29.036Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Review: Saros on PS5/Pro: Beautiful Visuals, Polished And Approachable - Digital Foundry",
-      "description": "An Unreal Engine 5 game that looks nothing like it.",
-      "url": "https://www.digitalfoundry.net/reviews/saros-on-ps5pro-beautiful-visuals-polished-and-approachable",
-      "urlToImage": "https://images.digitalfoundry.net/671f5fc827b1e/large.jpg",
-      "source": "Digitalfoundry.net",
-      "publishedAt": "2026-04-24T07:26:48Z"
-    },
-    {
-      "title": "Leak reveals new Xbox Game Pass “Starter Edition” that’s part of Discord Nitro - The Verge",
-      "description": "Microsoft is getting ready to bundle Xbox Game Pass with Discord Nitro. A more limited “Starter Edition” is on the way.",
-      "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass_bacddd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time - The Verge",
+      "description": "Microsoft is rolling out changes to Windows Update that will let users pause updates for 35 days at a time and repeat the pause as many times as they want.",
+      "url": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-04-23T22:36:39Z"
+      "publishedAt": "2026-04-24T20:45:58Z"
     },
     {
-      "title": "iOS 26.4.2: Apple Fixes iPhone Flaw Used By FBI To Read Deleted Messages - Forbes",
-      "description": "Apple has released a new iPhone update — that has taken many by surprise — to address a vulnerability that was recently exploited by the FBI.",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/04/23/ios-2642-apple-issues-unexpected-iphone-update-to-block-fbi-data-extraction-method/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a89dd24b8a0538e24e9c45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-04-23T20:28:00Z"
+      "title": "Astrobotic’s Detonation Engine Fires 4,000 Pounds of Thrust in Wild Test - Gizmodo",
+      "description": "The cutting-edge propulsion system could be used to power rockets to the Moon and beyond.",
+      "url": "https://gizmodo.com/astrobotics-detonation-engine-fires-4000-pounds-of-thrust-in-wild-new-demonstration-2000750533",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/04/RDRE-Hot-Fire-Image-scaled-1-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-04-24T20:25:56Z"
     },
     {
-      "title": "Overwatch Is Making Good On A Decade-Old Promise - Kotaku",
-      "description": "The hero shooter’s reboot is getting one thing right",
-      "url": "https://kotaku.com/overwatch-season-2-sierra-cassidy-ashe-audio-comic-2000690198",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/04/Crossroads-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-04-23T19:50:47Z"
+      "title": "Final Fantasy 14 coming to Nintendo Switch 2 - Nintendo Everything",
+      "description": "Square Enix is bringing Final Fantasy 14 to Nintendo Switch 2, Square Enix just announced. The game will be available this August. A short early access period of about a month is planned. The cost during this time will be entirely free. The Switch 2 version w…",
+      "url": "https://nintendoeverything.com/final-fantasy-14-coming-to-nintendo-switch-2/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-14-Switch-2.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-04-24T19:29:59Z"
     },
     {
-      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you - TechCrunch",
-      "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/doomscrolling-GettyImages-2195349954.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T19:38:25Z"
+      "title": "SQUARE ENIX ANNOUNCES EVERCOLD— LATEST FINAL FANTASY XIV EXPANSION SET FOR JANUARY 2027 - Square Enix press site",
+      "description": "EVANGELION Crossover Alliance Raid and Nintendo Switch 2 Version Revealed;\r\nShadowbringers Expansion Added to Free Trial and More",
+      "url": "https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EVERCOLD-LATEST-FINAL-FANTASY-XIV-EXPANSION-SET-",
+      "urlToImage": "https://imguscdn.gamespress.com/cdn/files/Square-Enix/2026/04/241834-7f0d8848/FFXIV_FANFESTIVAL_2026_in_ANAHEIM_00_EN.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=26f7296a8e6d8ce2d37da8c4acece46bf3f224b2ea04af07cd074419e622201b",
+      "source": "Square-enix.com",
+      "publishedAt": "2026-04-24T19:28:33Z"
     },
     {
-      "title": "YouTube TV starts rolling out Multiview upgrade that supports any channel - 9to5Google",
-      "description": "Multiview is one of the best features to launch on YouTube TV for some time, but it’s always been restricted...",
-      "url": "http://9to5google.com/2026/04/23/youtube-tv-starts-rolling-out-multiview-upgrade-that-supports-any-channel/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/YouTube-TV-custom-Multiview.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-04-23T19:30:00Z"
-    },
-    {
-      "title": "Here's What's Coming in the 2026 Apple TV - MacRumors",
-      "description": "There are a lot of folks waiting for a new version of the Apple TV because the set-top box hasn't been updated since 2022. There is an update...",
-      "url": "https://www.macrumors.com/2026/04/23/apple-tv-4k-2026-rumors/",
-      "urlToImage": "https://images.macrumors.com/t/hgnpo7o_zsAkiVpas0wZgw2DTfY=/2500x/article-new/2025/12/Apple-TV-Thumb-3.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-04-23T19:08:00Z"
-    },
-    {
-      "title": "Prepare for the Reckoning: Lord of Hatred Draws Near — Diablo IV - Blizzard News",
-      "description": "Prepare for the ultimate reckoning against Mephisto. Lord of Hatred burns into Sanctuary next week.",
-      "url": "https://news.blizzard.com/en-gb/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/dv/DVMWH9Y2QNBO1776729963204.png",
-      "source": "Blizzard.com",
-      "publishedAt": "2026-04-23T19:03:43Z"
-    },
-    {
-      "title": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games - The Verge",
-      "description": "Asha Sharma has a new strategy for her return of Xbox.",
-      "url": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T18:51:14Z"
-    },
-    {
-      "title": "Yoshi And The Mysterious Book Lets You Rename Classic Mario Critters, But Nintendo Is Adamant It’s Not Canon - Kotaku",
-      "description": "Hank you very much",
-      "url": "https://kotaku.com/yoshi-and-the-mysterious-book-previews-unhurried-immortal-yoshi-shy-guys-hank-2000690139",
-      "urlToImage": "https://kotaku.com/app/uploads/2022/07/db453413185fd81eb1353f9bce3a94b5-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-04-23T18:20:34Z"
-    },
-    {
-      "title": "ID@Xbox Spring Showcase – Check Out All of the Amazing Games Announced and Revealed - Xbox Wire",
-      "description": null,
-      "url": "https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/ID-IGN-61b15219c956b2a188e6.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-04-23T18:04:15Z"
-    },
-    {
-      "title": "Ikea’s new inflatable chair doesn’t look like an inflatable chair - The Verge",
-      "description": "Ikea shared a sneak peek at its new experimental collection that includes an inflatable chair that doesn’t look like one.",
-      "url": "https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ikea_ps1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T17:52:58Z"
-    },
-    {
-      "title": "Solo Leveling: ARISE OVERDRIVE for PS5, Xbox Series launches in Q3 2026 - Gematsu",
-      "description": "The PlayStation 5 and Xbox Series versions of action RPG Solo Leveling: ARISE OVERDRIVE will launch in Q3 2026, publisher Netmarble and developer Netmarble Neo announced.",
-      "url": "https://www.gematsu.com/2026/04/solo-leveling-arise-overdrive-for-ps5-xbox-series-launches-in-q3-2026",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/04/Solo-Leveling-OVERDRIVE-Consoles_04-23-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-04-23T17:28:45Z"
-    },
-    {
-      "title": "Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy - Ars Technica",
-      "description": "Pending refresh? RAM shortage? AI agents? There are many possible explanations.",
-      "url": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_2341-1152x648.jpeg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-04-23T17:06:08Z"
-    },
-    {
-      "title": "Welcome Back, Captain – Here’s What’s New in Assassins Creed Black Flag Resynced - Xbox Wire",
-      "description": "Assassin’s Creed Black Flag Resynced revitalizes a fan-favorite adventure with state-of-the-art visuals, gameplay upgrades, and new content. Set sail July 9.",
-      "url": "https://news.xbox.com/en-us/2026/04/23/whats-new-in-assassins-creed-black-flag-resynced/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/Black-Flag-Resynced-Hero-6fd8ed91a0424a5f2b42.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-04-23T17:04:15Z"
-    },
-    {
-      "title": "Halo’s scrapped battle royale turned into an extraction shooter: report - Dexerto",
-      "description": "After being cancelled back in 2022, a new report claims that Halo’s long-rumored battle royale mode was reworked into an extraction shooter.",
-      "url": "https://www.dexerto.com/halo/halos-scrapped-battle-royale-turned-into-an-extraction-shooter-report-3355580/",
-      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/23/Halo-extraction-shooter.jpg",
-      "source": "Dexerto",
-      "publishedAt": "2026-04-23T16:33:08Z"
-    },
-    {
-      "title": "Something Feels Off For 3 Zodiac Signs Right Now, But An Astrologer Says Everything Gets Better Soon - YourTango",
-      "description": "Something feels off for three zodiac signs right now, but according to astrologer Carol Starr, everything is about to make sense. They are: Libra, Gemini, and Cancer.",
-      "url": "https://www.yourtango.com/zodiac/something-feels-off-zodiac-signs-everything-better-soon",
-      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-04/something-feels-off-zodiac-signs-everything-better-soon.png",
-      "source": "YourTango",
-      "publishedAt": "2026-04-23T16:06:03Z"
-    },
-    {
-      "title": "Inside Microsoft’s wave of executive departures - The Verge",
-      "description": "Microsoft has lost a lot of executives this year already. The company is reshuffling many of its businesses to meet AI demand.",
-      "url": "https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T16:00:00Z"
-    },
-    {
-      "title": "Apple has ‘six major new product categories’ coming, says Mark Gurman - 9to5Mac",
-      "description": "Here’s the full list of six “major new product categories” that Mark Gurman just told TBPN are in development at Apple.",
-      "url": "https://9to5mac.com/2026/04/23/apple-has-six-major-new-product-categories-coming-says-mark-gurman/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-logo-glow.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Apple Wallet’s new Digital ID feature just added more ways to use it - 9to5Mac",
+      "description": "Apple launched a new Digital ID feature in the Wallet app last fall, and now it can officially be used for age verification purposes.",
+      "url": "https://9to5mac.com/2026/04/24/apple-wallets-new-digital-id-feature-just-added-more-ways-to-use-it/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-app-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-04-23T15:53:00Z"
+      "publishedAt": "2026-04-24T18:58:00Z"
+    },
+    {
+      "title": "AMD’s Flagship Ryzen 9 9950X3D2 Outsells Every Intel CPU On Amazon As X3D Chips Dominate Top 10 - Wccftech",
+      "description": "AMD Ryzen 9 9950X3D2 is a top 10 selling CPU on Amazon at $899, outpacing Intel's offerings, but lacks significant performance improvements.",
+      "url": "https://wccftech.com/amd-ryzen-9-9950xd2-rises-to-top-10-best-selling-cpus-on-amazon-us/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/03/AMD-Ryzen-9-9950X3D2-Dual-Edition-CPU-1920x1062.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-24T18:36:00Z"
+    },
+    {
+      "title": "Alice: Madness Returns Dev Put Dildos On A Snail To Shut EA Up - Kotaku",
+      "description": "Also Resident Evil Requiem is still killing it",
+      "url": "https://kotaku.com/alice-madness-returns-sexy-american-mcgee-ea-snail-2000690452",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/04/image-66.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-04-24T18:00:38Z"
+    },
+    {
+      "title": "Foldable 'iPhone Ultra' Could Be Missing These 5 Key Features Despite $2,000 Price Tag - MacRumors",
+      "description": "Apple's first foldable iPhone, dubbed the \"iPhone Ultra,\" could be missing at least five key features present on the iPhone 18 Pro models...",
+      "url": "https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/",
+      "urlToImage": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-04-24T17:41:52Z"
+    },
+    {
+      "title": "Apple to Launch 'MacBook Ultra' With These Six New Features - MacRumors",
+      "description": "While the 14-inch and 16-inch MacBook Pro were just updated with M5 Pro and M5 Max chips last month, bigger changes are reportedly around the corner....",
+      "url": "https://www.macrumors.com/2026/04/24/macbook-ultra-up-to-six-new-features/",
+      "urlToImage": "https://images.macrumors.com/t/r3tq7h9_jvAV0oDVs65IK2RpVo4=/2500x/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-04-24T17:32:18Z"
+    },
+    {
+      "title": "The Apple juggernaut and the AI roadblock - Financial Times",
+      "description": "John Ternus will face innovation challenges that Tim Cook never had to",
+      "url": "https://www.ft.com/content/2d1805b1-8750-4120-ad50-3fdbe8791836?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F51abcee3-8be4-429d-993b-80740b297a72.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-24T17:00:03Z"
+    },
+    {
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI - TechCrunch",
+      "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-24T16:42:19Z"
+    },
+    {
+      "title": "Resident Evil Requiem Keeps On Selling And No One Can Stop It - Nintendo Life",
+      "description": "7 million strong",
+      "url": "https://www.nintendolife.com/news/2026/04/resident-evil-requiem-keeps-on-selling-and-no-one-can-stop-it",
+      "urlToImage": "https://images.nintendolife.com/66ff0d367d14c/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-04-24T16:30:00Z"
+    },
+    {
+      "title": "iOS 26.5 will add new features to three popular iPhone apps - 9to5Mac",
+      "description": "iOS 26.5 is coming soon with brand new features for users. Here are the new iOS 26.5 features coming to three popular iPhone apps.",
+      "url": "https://9to5mac.com/2026/04/24/ios-26-5-will-add-new-features-to-three-popular-iphone-apps/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-app-icons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-04-24T16:16:00Z"
+    },
+    {
+      "title": "This new notification in Windows 11 tells you whether everything is secure - PCWorld",
+      "description": "Windows 11's April update made it easy to check your Secure Boot certificate status ahead of the June 2026 expiration deadline.",
+      "url": "https://www.pcworld.com/article/3123918/windows-11-now-shows-if-your-secure-boot-certificates-are-ready-for-june.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/04/Windows11Laptop-2.jpg?quality=50&strip=all&w=1024",
+      "source": "PCWorld",
+      "publishedAt": "2026-04-24T15:25:00Z"
+    },
+    {
+      "title": "Expanse Beta Review: A Good Attempt At A New Mass Effect - Kotaku",
+      "description": "The Expanse: Osiris Reborn could be the game that fills that Mass Effect-shaped hole in my heart when it arrives in 2027",
+      "url": "https://kotaku.com/the-expanses-1-hour-demo-has-me-hopeful-this-upcoming-rpg-could-be-the-mass-effect-successor-ive-wanted-for-years-2000690444",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/04/expanse-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-04-24T15:24:44Z"
+    },
+    {
+      "title": "iPhone 18 rumored to get at least one new Pro-tier upgrade - 9to5Mac",
+      "description": "Apple’s base model iPhone 18 will reportedly come with at least one new Pro-tier upgrade when it launches: 12GB of RAM.",
+      "url": "https://9to5mac.com/2026/04/24/iphone-18-rumored-to-get-at-least-one-new-pro-tier-upgrade/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-17-pro-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-04-24T15:22:00Z"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 celebrates its one-year anniversary with... new haircuts? - Eurogamer.net",
+      "description": "As Clair Obscur: Expedition 33 celebrates its first anniversary and 8m sales, Sandfall Interactive has released a brand-new update for the acclaimed RPG.",
+      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-one-year-anniversary-update",
+      "urlToImage": "https://assetsio.gnwcdn.com/clair-obscur-haircuts-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-04-24T14:30:25Z"
+    },
+    {
+      "title": "Community painters enter the City of Ash - Warhammer Community",
+      "description": "The Warhammer hobby community has painted the new Skaven and Cities of Sigmar miniatures.",
+      "url": "https://www.warhammer-community.com/articles/duqtqeo3/community-painters-enter-the-city-of-ash",
+      "urlToImage": "https://assets.warhammer-community.com/aos_coainfluencers-apr24-1-feature-0bluvj6xpz.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-04-24T14:15:06Z"
+    },
+    {
+      "title": "Google Health Looking Like Fitbit’s Replacement - Droid Life",
+      "description": "When Google launches the new Fitbit Air in the near future, there's a good chance that they launch a new Google Health brand with it. Earlier reports have suggested a re-brand of Fitbit Premium to Google Health Premium as the subscription for more health metr…",
+      "url": "https://www.droid-life.com/2026/04/24/google-health-looking-like-fitbits-replacement/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2022/10/Fitbit-Pixel-Watch-2-2-1200x628.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-04-24T14:03:48Z"
+    },
+    {
+      "title": "'It Truly Excels': Saros Is Another 'Exceptional' PS5 Pro Game, Say Tech Experts - Push Square",
+      "description": "Particle accelerator",
+      "url": "https://www.pushsquare.com/news/2026/04/it-truly-excels-saros-is-another-exceptional-ps5-pro-game-say-tech-experts",
+      "urlToImage": "https://images.pushsquare.com/f0f5a377c06b7/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-04-24T14:00:00Z"
     }
   ]
 }
