@@ -1,135 +1,151 @@
 {
-  "updatedAt": "2026-04-28T08:38:07.384Z",
+  "updatedAt": "2026-04-29T08:30:43.103Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock futures little changed as Iran peace talks stall, oil rises: Live updates - CNBC",
-      "description": "Heightened geopolitical tensions are front and center heading into a pivotal week for stocks.",
-      "url": "https://www.cnbc.com/2026/04/26/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297154-1777062115103-gettyimages-2272297273-AFP_A8WW982.jpeg?v=1777062217&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-27T06:32:00Z"
+      "title": "Supreme Court considers blocking lawsuits alleging weed killer causes cancer - The Washington Post",
+      "description": "Thousands of cancer victims allege Roundup was responsible for their illness, in one of the largest waves of product liability litigation in U.S. history.",
+      "url": "https://www.washingtonpost.com/politics/2026/04/27/roundup-cancer-warning-label-supreme-court-lawsuit/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2VMLDJVWJII6VGQ52PNRZPQHZY.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-04-28T03:53:09Z"
     },
     {
-      "title": "US Budget Airlines Demand $2.5 Billion In Government Assistance To Stay Afloat - One Mile at a Time",
-      "description": "Budget airlines in the United States are requesting $2.5 billion in government aid in order to stay in business. This is rough all-around.",
-      "url": "https://onemileatatime.com/news/budget-airlines-demand-government-assistance-stay-afloat/",
-      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2022/08/Frontier-Airlines-A320neo-14.jpeg",
-      "source": "One Mile at a Time",
-      "publishedAt": "2026-04-27T03:54:53Z"
+      "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI - The Verge",
+      "description": "Elon Musk’s lawsuit against Sam Altman and OpenAI is going to trial, and we’ll have all the latest updates about the maker of ChatGPT.",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T03:39:00Z"
     },
     {
-      "title": "Asia stocks: Nikkei, KOSPI hit record highs tracking Wall St; Iran tensions remain - Investing.com",
-      "description": "Asia stocks: Nikkei, KOSPI hit record highs tracking Wall St; Iran tensions remain",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-hit-record-highs-tracking-wall-st-iran-tensions-remain-4637582",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2026-04-27T03:38:38Z"
+      "title": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban - WSJ",
+      "description": "The ban sends a message that China is intent on keeping its AI knowledge within the country",
+      "url": "https://www.wsj.com/tech/ai/meta-is-preparing-to-have-to-undo-its-manus-acquisition-after-china-ban-a4ffbefb",
+      "urlToImage": "https://images.wsj.net/im-23416712/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-04-28T02:49:00Z"
     },
     {
-      "title": "U.S. stock futures mixed, oil rises ahead of a busy week for Wall Street - MarketWatch",
-      "description": "",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958",
-      "urlToImage": "https://images.mktw.net/im-59469210/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-04-27T03:05:00Z"
+      "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ",
+      "description": "The company’s CFO and board have questioned the wisdom of massive data-center spending in the face of slowing growth",
+      "url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
+      "urlToImage": "https://images.wsj.net/im-57056001/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-04-28T01:00:00Z"
     },
     {
-      "title": "India's largest drugmaker Sun Pharma to buy U.S. firm Organon in $11.75 billion deal - CNBC",
-      "description": "To fuel its global ambitions, Sun Pharmaceutical Industries will acquire New Jersey-based Organon & Co in an all-cash deal that values the U.S. company at $11.75 billion.",
-      "url": "https://www.cnbc.com/2026/04/27/indian-drugmaker-sun-pharma-to-buy-us-firm-organon-in-11point75-billion-deal.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297381-1777254027701-gettyimages-2183054876-vcg111528638910.jpeg?v=1777254039&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-27T02:13:00Z"
-    },
-    {
-      "title": "Oil prices rise amid stalled US-Iran peace talks - Al Jazeera",
-      "description": "Brent crude rises more than 2 percent after Washington and Tehran fail to hold second round of talks in Pakistan.",
-      "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26102802553726-5-1777255270.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-27T02:11:08Z"
-    },
-    {
-      "title": "China’s Industrial Profits Surge as Reflation Offsets Cost Shock - Bloomberg.com",
-      "description": "China’s industrial firms ended the first quarter with faster growth in earnings, an acceleration that hid a widening split between companies under pressure from higher costs and others benefiting from rising oil prices and the global artificial intelligence b…",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/china-s-industrial-profits-surge-as-reflation-offsets-cost-shock",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJeH9IOQkm7M/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-27T01:43:00Z"
-    },
-    {
-      "title": "Goldman Hikes Oil Price Forecasts on ‘Extreme’ Inventory Draws - Bloomberg.com",
-      "description": "Goldman Sachs Group Inc. lifted its oil-price forecasts as the prolonged closure of the Strait of Hormuz spurs “extreme” inventory draws.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/goldman-hikes-oil-price-forecasts-on-extreme-inventory-draws",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE44YXBIIjn4/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-27T01:04:00Z"
-    },
-    {
-      "title": "Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals - Financial Times",
-      "description": "Veteran executive Jay Chen, who helped build Japanese group’s China business, left after links to start-ups surfaced",
-      "url": "https://www.ft.com/content/dcc1b342-0d2a-4c1d-8e69-8d201dd2dec6?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc4c9e127-1008-43c0-8b45-7c35af4113fd.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-04-27T00:15:27Z"
-    },
-    {
-      "title": "HSBC Reviews $38,000-Per-Kid School Fee Perk for Hong Kong Bankers - Bloomberg.com",
-      "description": "HSBC Holdings Plc is reviewing a long-standing perk that covers school fees for a swath of bankers in Hong Kong as part of a broader push to standardize benefits globally and reduce costs, according to people familiar with the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/hsbc-reviews-38-000-per-kid-school-fee-perk-for-hk-bankers",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3Iv5A7Dr_58/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-27T00:10:00Z"
-    },
-    {
-      "title": "The Iran war has the world buying more clean energy. China stands to benefit the most - CNN",
-      "description": "The war in Iran has sent oil-starved countries scrambling for fuel. Many are opting for energy alternatives — and turning to the renewables king of the planet: China.",
-      "url": "https://www.cnn.com/2026/04/26/energy/china-clean-energy-exports-intl-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/9629490.jpg?c=16x9&q=w_800,c_fill",
+      "title": "Baby on board: Paramedics help passenger give birth just before Delta flight lands - CNN",
+      "description": "A passenger on a Delta Air Lines flight from Atlanta gave birth to a healthy 5 1/2 pound girl just before the plane landed at Portland International Airport.",
+      "url": "https://www.cnn.com/2026/04/27/us/baby-born-on-delta-flight",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260427-baby-on-board.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2026-04-27T00:00:00Z"
+      "publishedAt": "2026-04-27T23:49:19Z"
     },
     {
-      "title": "Our Principles - OpenAI",
-      "description": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-      "url": "https://openai.com/index/our-principles/",
-      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/sOXwMmuOREhljTDZ4gVid/e277a6d0e6364e53591ac8b9c42de068/our-principles-16_9-text.png?w=1600&h=900&fit=fill",
-      "source": "Openai.com",
-      "publishedAt": "2026-04-26T23:03:39Z"
+      "title": "Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners - Investor's Business Daily",
+      "description": "Dow Jones Futures: The Nasdaq and S&P 500 set more record highs Monday. Micron, Sandisk, Nvidia and Alphabet were big winners.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-news-nvidia-alphabet/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-04-27T23:45:00Z"
     },
     {
-      "title": "‘More Upside Ahead’: Intel Stock (INTC) Wins a New Street-High Price Target - TipRanks",
-      "description": "Intel (NASDAQ:INTC) heads into Monday with momentum on its side, after stronger-than-expected Q1 results and an upbeat Q2 outlook sent the stock to new all-time highs. Specifically, revenue in the",
-      "url": "https://www.tipranks.com/news/more-upside-ahead-intel-stock-intc-wins-a-new-street-high-price-target",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/04/INTC-0408-1-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-04-26T22:48:59Z"
+      "title": "Asia-Pacific markets trade mixed as investors assess latest U.S.-Iran signals - CNBC",
+      "description": "Asia-Pacific markets traded mixed Tuesday as investors weighed the latest updates over U.S.-Iran negotiations.",
+      "url": "https://www.cnbc.com/2026/04/28/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287390-1775490641703-gettyimages-2267504825-AFP_A4C33KF.jpeg?v=1775490654&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-04-27T23:42:03Z"
     },
     {
-      "title": "Enterprise Charges Couple Almost $10,000 For Putting Diesel In Rental Car, And The Story Gets Worse From There - Jalopnik",
-      "description": "When people started asking questions (i.e. lawyers), as well as Go Public, the rental car giant suddenly decided they were no longer pursuing the claim.",
-      "url": "https://www.jalopnik.com/2156294/enterprise-charges-couple-9500-dollars/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/enterprise-charges-couple-almost-10000-for-putting-diesel-in-rental-car-and-the-story-gets-worse-from-there/l-intro-1777043158.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-04-26T22:25:00Z"
+      "title": "Erasca touts strong, though preliminary, results in trial of pancreatic and lung cancer therapy - statnews.com",
+      "description": "The drugmaker Erasca said results on its experimental pill in a trial of pancreatic cancer and non-small cell lung cancer exceeded its expectations.",
+      "url": "https://www.statnews.com/2026/04/27/erasca-pancreatic-cancer-study-results/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/08/26645704270_e23f5b8db8_o-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2026-04-27T23:23:01Z"
     },
     {
-      "title": "The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder - TechCrunch",
-      "description": "Can a book like this actually change anything? Or does the spotlight, as it always seems to, send more students racing to the place?",
-      "url": "https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-11-at-4.37.19-PM.png?w=1094",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-26T22:00:46Z"
+      "title": "Google workers petition CEO to refuse classified AI work with Pentagon - The Washington Post",
+      "description": "Hundreads of Google employees wrote in a letter to CEO Sundar Pichai that they did not want to see its AI technology used in “inhumane or extremely harmful ways.”",
+      "url": "https://www.washingtonpost.com/technology/2026/04/27/google-employees-letter-ai-pentagon/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJW2WZDMQLAS2BYI22P2YPXQRM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-04-27T23:22:26Z"
     },
     {
-      "title": "Warren Buffett has stark message for investors on stock market - thestreet.com",
-      "description": "The Oracle of Omaha is sending a signal that most investors are not picking up on.",
-      "url": "https://www.thestreet.com/investing/stocks/warren-buffett-has-stark-message-for-investors-on-stock-market",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTU0MjUx/forbes-media-centennial-celebration.jpg?io=1&profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-04-26T21:03:00Z"
+      "title": "Saba Capital finds little appetite for tender offer of shares in Blue Owl, Starwood private credit funds - CNBC",
+      "description": "Investors' disinterest in getting liquidity at a steep discount comes amid a quarter that saw elevated redemptions across most private-credit, non-traded BDCs.",
+      "url": "https://www.cnbc.com/2026/04/27/private-credit-funds-saba-capital-tender-offers-for-shares-are-below-initial-expectations.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108277577-1773352085772-gettyimages-2265625611-BLUE_OWL.jpeg?v=1773352123&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-04-27T23:02:22Z"
+    },
+    {
+      "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud - VentureBeat",
+      "description": "Microsoft and OpenAI have dismantled their exclusive partnership, ending revenue sharing and freeing OpenAI to sell its AI models on AWS and Google Cloud in a sweeping deal that reshapes the entire artificial intelligence industry.",
+      "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
+      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/jWKnXQb73xGvnR0cJtCMe/ca8184c4104cbce09237472623645351/nuneybits_Vector_art_of_burning_contract_85754b2d-d02d-451f-9cd4-db57975ec2dc.webp?w=800&q=75",
+      "source": "VentureBeat",
+      "publishedAt": "2026-04-27T22:27:00Z"
+    },
+    {
+      "title": "‘Rogaine’ in a Pill? Oral Minoxidil Aces Major Hair Loss Trial - Gizmodo",
+      "description": "Veradermics' VDPHL01, an oral version of the existing drug minoxidil, showed strong results in a late stage clinical trial.",
+      "url": "https://gizmodo.com/rogaine-in-a-pill-oral-minoxidil-aces-major-hair-loss-trial-2000751209",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/malehairloss-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-04-27T21:40:21Z"
+    },
+    {
+      "title": "Live Updates: Oil prices rise as U.S. and Iran appear locked in a costly stalemate - CBS News",
+      "description": "Energy prices keep rising with no sign of progress toward a deal to end the U.S.-Iran standoff and Hezbollah rejecting the Lebanon ceasefire.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-price-strait-hormuz-stalemate-lebanon-hezbollah/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/27/353bea39-2b34-464f-ba37-533013fa81a4/thumbnail/1200x630/82b61837d672b95f54b5c6177e0453bd/lebanon-israel-war-2272847399.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-04-27T21:23:00Z"
+    },
+    {
+      "title": "Paramount-Warner Bros. Discovery Will Be 38.5% Owned by Middle Eastern Funds Following Close: Filing - Variety",
+      "description": "Paramount Skydance said the merged Paramount-Warner Bros. Discovery will be 49.5% owned by foreign investors, with about 38.5% of the entire company held by a trio of Middle Eastern funds.",
+      "url": "https://variety.com/2026/film/news/paramount-warner-bros-foreign-ownership-middle-eastern-funds-1236731732/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/02/Paramount-Warner-Bros-Water-Towers.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2026-04-27T21:19:00Z"
+    },
+    {
+      "title": "Letter to Shareholders from Marcus Lemonis, Executive Chairman and CEO: Q1 2026 Shareholder Letter - Beyond - Investor Relations",
+      "description": "Bed Bath  Beyond, Inc. (NYSE: BBBY) (“Bed Bath  Beyond” or “BBBY”) has issued the following letter from Marcus Lemonis, Executive Chairman and Chief Executive Officer of Bed Bath  Beyond: Dear Shareholders, Over the last 2 years, we have fundamentally rebuilt…",
+      "url": "https://investors.beyond.com/news-events/press-releases/news-details/2026/Letter-to-Shareholders-from-Marcus-Lemonis-Executive-Chairman-and-CEO-Q1-2026-Shareholder-Letter/default.aspx",
+      "urlToImage": null,
+      "source": "Beyond.com",
+      "publishedAt": "2026-04-27T20:04:07Z"
+    },
+    {
+      "title": "EU tells Google to open up AI on Android; Google says that’s “unwarranted intervention” - Ars Technica",
+      "description": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
+      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-04-27T20:03:49Z"
+    },
+    {
+      "title": "From bowling repairs to zoology, Trump admin consolidates job titles affecting 5,000 feds - Government Executive",
+      "description": "The impacted employees will not lose their jobs and OPM says it will help them be more agile.",
+      "url": "https://www.govexec.com/workforce/2026/04/bowling-zoology-trump-admin-job-titles-5000-feds/413131/",
+      "urlToImage": "https://cdn.govexec.com/media/img/cd/2026/04/27/04272026bowling/open-graph.jpg",
+      "source": "GovExec.com",
+      "publishedAt": "2026-04-27T18:55:28Z"
+    },
+    {
+      "title": "Chip Stocks Wipe Out as Iran War Fears and Big Tech Earnings Loom - Yahoo Finance",
+      "description": "Arm and Marvell Tumble While Nvidia Bucks the Rout",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/chip-stocks-wipe-iran-war-185447579.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-27T18:54:47Z"
     }
   ]
 }
