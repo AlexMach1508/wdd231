@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-04-29T08:30:43.043Z",
+  "updatedAt": "2026-04-30T08:34:13.049Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Axios Finish Line: Prompt like a pro - Axios",
-      "description": "Anyone can prompt AI with greater sophistication and confidence and get greater results.",
-      "url": "https://www.axios.com/2026/04/28/improve-your-ai-prompt",
-      "urlToImage": "https://images.axios.com/BS4O-oaDroJSnCcvdHoJkVvVbAU=/0x0:1280x720/1366x768/2026/04/27/1777325571755.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-04-28T01:57:07Z"
-    },
-    {
-      "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027 - Ars Technica",
-      "description": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
-      "url": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2023e076235-1-1152x648-1777333909.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-04-28T00:14:09Z"
-    },
-    {
-      "title": "Google is testing AI chatbot search for YouTube - The Verge",
-      "description": "Google is trying out an AI Mode-like search called “Ask YouTube” that builds a result page with videos, Shorts, and text.",
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&strip=all&crop=0%2C8.9356249312774%2C100%2C82.128750137445&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T00:01:00Z"
-    },
-    {
-      "title": "Take a First Look at Hearthstone’s New Class Sets - Blizzard Entertainment",
-      "description": "Check out the new Class Sets coming to Hearthstone.",
-      "url": "https://playhearthstone.com/en-gb/blog/24267730/",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/f9/F97867680KWF1776809743691.jpg",
-      "source": "Playhearthstone.com",
-      "publishedAt": "2026-04-27T23:26:15Z"
-    },
-    {
-      "title": "The Xperia 1 VIII has potential, but Sony needs to fix a couple of things - PhoneArena",
-      "description": null,
-      "url": "https://www.phonearena.com/news/xperia-1-viii-has-potential-but-sony-needs-to-fix-a-couple-of-things_id179960",
-      "urlToImage": null,
-      "source": "PhoneArena",
-      "publishedAt": "2026-04-27T23:25:01Z"
-    },
-    {
-      "title": "Qualcomm stock draws attention after major OpenAI news - thestreet.com",
-      "description": "QCOM shares reacted to a major development with the AI giant ahead of earnings this week.",
-      "url": "https://www.thestreet.com/investing/stocks/qualcomm-stock-draws-attention-after-major-openai-news",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTU1MTk5/qcom-cover_tr_042726.png?io=1&profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-04-27T23:17:00Z"
-    },
-    {
-      "title": "PlayStation Users Report New Online License Checks For Digital Games - GameSpot",
-      "description": "The problem appears to be affecting both PS4 and PS5 games purchased after March 2026.",
-      "url": "https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15971423/4688677-7554113179-39955.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2026-04-27T23:05:22Z"
-    },
-    {
-      "title": "Nintendo’s original Star Fox puppets confirmed to have been destroyed - Nintendo Everything",
-      "description": "The fate of Nintendo's Star Fox puppets for the series' original game has now been revealed.",
-      "url": "https://nintendoeverything.com/star-fox-puppets-destroyed/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Star-Fox-puppets.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-04-27T22:42:56Z"
-    },
-    {
-      "title": "Amazon Gaming Week deals are back, and better than ever - Polygon.com",
-      "description": "Amazon Gaming Week 2026 deals include discounts on some of the best keyboards and gaming mice, along with essential PS5 games",
-      "url": "https://www.polygon.com/amazon-gaming-week-2026-best-deals/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/amazon-gaming-week-2026-best-deals.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-04-27T21:12:00Z"
-    },
-    {
-      "title": "The 1st 'Alien: Isolation 2' teaser is here, and the setting looks eerily familiar - Space",
-      "description": "We finally get our first look at the follow-up to 2014's Alien: Isolation, with a trailer teasing a shift planetside for the sci-fi horror sequel.",
-      "url": "https://www.space.com/entertainment/space-games/the-1st-alien-isolation-2-teaser-is-here-and-the-setting-looks-eerily-familiar",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gFvj4DxtqZZvHC4JQSmQfn-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2026-04-27T20:00:00Z"
-    },
-    {
-      "title": "Apple Introduces App Store Monthly Subscriptions With 12-Month Commitment - MacRumors",
-      "description": "Apple today announced the launch of a new subscription option for App Store developers: monthly subscriptions with a 12-month commitment. The new...",
-      "url": "https://www.macrumors.com/2026/04/27/app-store-monthly-subscriptions-12-month-commitment/",
-      "urlToImage": "https://images.macrumors.com/t/qqFIX2BdTUJ65H1j8LK4R6320RY=/1600x/article-new/2026/04/app-store-monthly-sub-commitment.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-04-27T19:52:36Z"
-    },
-    {
-      "title": "Xbox boss warns \"memory costs will impact pricing, will impact availability\" when it comes to Project Helix - GamesIndustry.biz",
-      "description": "Xbox boss Asha Sharma has admitted that the ongoing memory shortage crisis will likely impact the price point of its ne…",
-      "url": "https://www.gamesindustry.biz/xbox-boss-warns-memory-costs-will-impact-pricing-will-impact-availability-when-it-comes-to-project-helix",
-      "urlToImage": "https://assetsio.gnwcdn.com/Helix_header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2026-04-27T19:46:07Z"
-    },
-    {
-      "title": "Valve Remains “Hard at Work” on Steam Deck 2 Four Years After Gabe Newell First Teased the Handheld Successor - Wccftech",
-      "description": "Valve remains hard at work on Steam Deck 2 four years after it was initially confirmed to be part of the company's plans.",
-      "url": "https://wccftech.com/valve-hard-at-work-on-steam-deck-2-four-years-after-initial-tease-gabe-newell/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Steam-Deck.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-04-27T18:48:00Z"
-    },
-    {
-      "title": "Gemini app preps ‘Proactive Assistance’ and new Gemini voices - 9to5Google",
-      "description": "Google’s goal with Gemini is to build a personal, proactive, and powerful assistant. The Gemini app is now readying “Proactive Assistance.”",
-      "url": "http://9to5google.com/2026/04/27/gemini-proactive-assistance/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Gemini-I_O-2025-proactive-ex.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Tensor G6 reportedly bringing latest ARM CPU cores but outdated GPU to Pixel 11 - 9to5Google",
+      "description": "An early, limited leak around Google’s upcoming Pixel 11 series offers some limited details around the Tensor G6 chipset inside,...",
+      "url": "http://9to5google.com/2026/04/28/google-pixel-11-tensor-g6-cpu-gpu-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-04-27T18:42:00Z"
+      "publishedAt": "2026-04-29T01:25:00Z"
     },
     {
-      "title": "These tiny 8K, 50MP cameras haven’t launched yet, but they’ve already award winners - Digital Camera World",
-      "description": "The GoPro Mission 1 series took home three awards from the NAB Show, hinting at the series' early hype",
-      "url": "https://www.digitalcameraworld.com/cameras/these-tiny-8k-50mp-cameras-havent-launched-yet-but-theyre-already-winners-as-new-camera-series-takes-home-three-nab-show-awards",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/B6LP8F7FE3gyrQPuLj7Nhj-2048-80.jpg",
-      "source": "Digital Camera World",
-      "publishedAt": "2026-04-27T18:05:00Z"
+      "title": "Save Up To 50% On Nintendo Switch Digital Games At Amazon - GameSpot",
+      "description": "More than a dozen digital Switch games are on sale at Amazon, including Metroid Dread and Bayonetta 3.",
+      "url": "https://www.gamespot.com/articles/switch-digital-games-sale/1100-6539663/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4689271-mixcollage-28-apr-2026-08-50-am-7086.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-04-29T00:05:56Z"
     },
     {
-      "title": "Jaw-Dropping Custom Road and Gravel Bikes at The Bespoked Show, London - Outside Magazine",
-      "description": "An alt tech gallery of fine handmade drop-bar bikes.",
-      "url": "https://velo.outsideonline.com/gravel/gravel-gear/gallery-custom-road-gravel-bikes-bespoked-show-london/#article",
-      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/04/DSC04879.jpg",
-      "source": "Outside",
-      "publishedAt": "2026-04-27T17:50:45Z"
+      "title": "Hatsune Miku gets glowing fishing rod and reel in wild new collab - Dexerto",
+      "description": "Hatsune Miku is officially getting her own fishing gear, because apparently even the virtual pop star needs her own tackle box.",
+      "url": "https://www.dexerto.com/entertainment/hatsune-miku-gets-glowing-fishing-rod-and-reel-in-wild-new-collab-3357801/",
+      "urlToImage": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/28/hatsune-miku-fishing-rod-collab.jpg",
+      "source": "Dexerto",
+      "publishedAt": "2026-04-28T22:17:34Z"
     },
     {
-      "title": "Final Fantasy XIV Director Naoki Yoshida Discusses the Next Decade - Anime News Network",
-      "description": "What's next for FFXIV? Director Naoki Yoshida explains where things are headed and what he plans to avoid.",
-      "url": "https://www.animenewsnetwork.com/convention/2026/final-fantasy-xiv-director-naoki-yoshida-discusses-the-next-decade/.236834",
-      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGM/cms/convention/236834/ffxiv-fanfestival-2026-in-anaheim-35.png.jpg",
-      "source": "Anime News Network",
-      "publishedAt": "2026-04-27T16:58:21Z"
+      "title": "Rupaul's Drag Race Subreddit Has Banned Tomodachi Life Posts - Kotaku",
+      "description": "Don't ban mii",
+      "url": "https://kotaku.com/rupauls-drag-race-subreddit-banned-tomodachi-life-2000691381",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/04/tomodachilifereasonable.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-04-28T22:05:23Z"
     },
     {
-      "title": "Clicks Communicator Phone Gets Big Update on When It Launches - Droid Life",
-      "description": "Back in January at CES, we got a first look at the Clicks Communicator, a phone from some of the biggest fans of Blackberry devices who wanted to bring back the idea of a device with a physical keyboard. At the time, they only had dummy units to show off, but…",
-      "url": "https://www.droid-life.com/2026/04/27/clicks-communicator-phone-gets-big-update-on-when-it-launches/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/01/Clicks-Communicator-1-1200x628.jpg",
-      "source": "Droid Life",
-      "publishedAt": "2026-04-27T16:57:00Z"
+      "title": "Want to Max Out The Blood of Dawnwalker at 4K on PC? It'll Cost You at Least $3,000 - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-specs-rtx-5090-4k-max-setting",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/04/28/dawnwalkerthumb-1777393909756.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-04-28T21:00:38Z"
+    },
+    {
+      "title": "Square Enix explains why Final Fantasy 7 Rebirth is coming to Nintendo Switch 2 so soon after Remake - Nintendo Everything",
+      "description": "Square Enix has spoken about the quick turnaround between the launches of Final Fantasy 7 Remake and Rebirth on Nintendo Switch 2. It’s only been a few months since we saw Final Fantasy 7 Remake Intergrade on Nintendo’s console. However, Final Fantasy 7 Rebir…",
+      "url": "https://nintendoeverything.com/square-enix-explains-why-final-fantasy-7-rebirth-is-coming-to-nintendo-switch-2-so-soon-after-remake/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-7-Remake-Rebirth-Switch-2-launch-timing.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-04-28T20:27:13Z"
+    },
+    {
+      "title": "An L.A. Noire Return? Take-Two CEO Strauss Zelnick Hints At Something New - Insider Gaming",
+      "description": "Could L.A. Noire make a comeback? Take-Two CEO Strauss Zelnick seemed to suggest as much during a recent interview.",
+      "url": "https://insider-gaming.com/an-l-a-noire-return-take-two-ceo-strauss-zelnick-hints-at-something-new/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/04/LANoire.jpg",
+      "source": "Insider-gaming.com",
+      "publishedAt": "2026-04-28T20:20:38Z"
+    },
+    {
+      "title": "iOS 26.4 gave CarPlay two new features, with another big one coming - 9to5Mac",
+      "description": "iOS 26.4 recently gave CarPlay two new features while also laying the groundwork for another big upgrade soon.",
+      "url": "https://9to5mac.com/2026/04/28/ios-26-4-gave-carplay-two-new-features-with-another-big-one-coming/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/carplay-ios-26-dev-video-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-04-28T20:11:00Z"
+    },
+    {
+      "title": "Denuvo Responds to Day-Zero DRM Hypervisor Crack: \"We're Already Working on Updated Security Versions\" - TechPowerUp",
+      "description": "A Hypervisor bypass recently appeared giving game crackers an alternative way to circumvent protections like Denuvo DRM. The bypass is so effective that popular game repacker, FitGirl, has declared that \"all single-player/non-VR Denuvo games are now cracked/b…",
+      "url": "https://www.techpowerup.com/348609/denuvo-responds-to-day-zero-drm-hypervisor-crack-were-already-working-on-updated-security-versions",
+      "urlToImage": "https://www.techpowerup.com/img/4EgbOhRzi44BRnJc.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-04-28T20:08:59Z"
+    },
+    {
+      "title": "35.2.2 Patch Notes - Blizzard Entertainment",
+      "description": "Check out the balance updates coming for Hearthstone and Battlegrounds.",
+      "url": "https://playhearthstone.com/en-gb/blog/24252014/",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/x6/X60U80SHCCVH1776992853202.jpg",
+      "source": "Playhearthstone.com",
+      "publishedAt": "2026-04-28T19:30:00Z"
+    },
+    {
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push - The Hacker News",
+      "description": "CVE-2026-3854 (CVSS 8.7) enabled GitHub RCE via git push, risking cross-tenant access to millions of repositories.",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-04-28T18:19:00Z"
+    },
+    {
+      "title": "Teamfight Tactics patch 17.2 - Teamfight Tactics",
+      "description": "Opening Encounters & new God Blessings make 17.2 a celestial encounter you won’t want to miss.",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-2/",
+      "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/9fc10cca651b4dd183627af8c0c5b6a072d1a110-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "source": "Leagueoflegends.com",
+      "publishedAt": "2026-04-28T18:00:00Z"
+    },
+    {
+      "title": "YouTube TV Launches Customized Multiview Across the Full Channel Lineup - Variety",
+      "description": "After years in development, YouTube TV is finally rolling out its customizable multiview feature for all subscribers.",
+      "url": "https://variety.com/2026/tv/news/youtube-tv-customized-multiview-full-channel-lineup-1236732397/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/04/YouTube-Multiview.png?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-04-28T17:50:00Z"
+    },
+    {
+      "title": "Nvidia Is Finally Doing Something About the RAM Apocalypse - Gizmodo",
+      "description": "Hopefully, it’s the start of better, more affordable GPU options.",
+      "url": "https://gizmodo.com/nvidia-is-finally-doing-something-about-the-ram-apocalypse-2000751748",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Razor-Blade-14-3-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-04-28T17:35:12Z"
+    },
+    {
+      "title": "The Sims 4 Update: Hotfix Release Notes (April 28th, 2026) - Sims Community",
+      "description": "As announced in yesterday's message from The Sims Direct, there's a new The Sims 4 Update now released for Desktop and Console platforms. This patch promises",
+      "url": "https://simscommunity.info/2026/04/28/sims-4-update-hotfix-release-notes-april-28/",
+      "urlToImage": "https://simscommunity.info/wp-content/uploads/2025/01/ts4newupdateFE2025-1.jpg",
+      "source": "Simscommunity.info",
+      "publishedAt": "2026-04-28T16:59:21Z"
+    },
+    {
+      "title": "'We've been a little bit too romantic:' Ustwo CEO says lowering development costs is now paramount - Game Developer",
+      "description": "How the Monument Valley studio will be charting a path forward on PC and consoles.",
+      "url": "https://www.gamedeveloper.com/business/-we-ve-been-a-little-bit-too-romantic-ustwo-ceo-says-lowering-development-costs-is-now-paramount",
+      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8b4b9e18fba68117/69f0c9fb81ac099cd3fa4a3b/Ustwo_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+      "source": "Gamedeveloper.com",
+      "publishedAt": "2026-04-28T16:50:17Z"
+    },
+    {
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton - The Verge",
+      "description": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Claude-creative-connectors-Blender-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T16:49:08Z"
+    },
+    {
+      "title": "Saros Guide: 12 Tips To Know Before Playing - Kotaku",
+      "description": "Housemarque’s roguelike shooter can be a test of resilience or a pretty breezy third-person shooter",
+      "url": "https://kotaku.com/saros-tips-easy-mode-difficulty-eclipse-ps5-housemarque-2000691291",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/04/image-36-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-04-28T16:26:22Z"
+    },
+    {
+      "title": "Specialized claims new Epic 9 is the lightest full-suspension XC bike you can buy - BikeRadar",
+      "description": "Refined suspension, reduced friction and a claimed class-leading frame weight headline the latest evolution of Specialized’s XC race bike",
+      "url": "https://www.bikeradar.com/news/2026-specialized-epic-9",
+      "urlToImage": "https://c02.purpledshub.com/uploads/sites/39/2026/04/90327-01_EPIC-9-SW-REDTNT-REDPRL-METWHTSIL_PROFILE_10102_f-1-1.png?w=1200",
+      "source": "BikeRadar.com",
+      "publishedAt": "2026-04-28T16:00:00Z"
     }
   ]
 }
