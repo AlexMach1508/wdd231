@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-04-30T08:34:13.157Z",
+  "updatedAt": "2026-05-01T08:23:20.929Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "UBS profits rocket 80% to $3 billion for first quarter beat - CNBC",
-      "description": "UBS reported its first quarter earnings on Wednesday, with net profits beating analyst estimates.",
-      "url": "https://www.cnbc.com/2026/04/29/ubs-swiss-bank-first-quarter-earnings-profit-switzerland-trading.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107211554-1679323065352-gettyimages-1248858788-AFP_33BP6XQ.jpeg?v=1745837813&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-29T05:08:31Z"
-    },
-    {
-      "title": "Australia reports lower-than-expected first-quarter inflation — but price rise highest in 2 years - CNBC",
-      "description": "The first-quarter inflation figure was lower than the 4.2% expected by economists polled by Reuters.",
-      "url": "https://www.cnbc.com/2026/04/29/australia-inflation-q1-rba-rate-hike-outlook.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108298831-1777426667087-gettyimages-2188478767-hpet2759_ynizj3e0.jpeg?v=1777426678&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-29T01:54:00Z"
-    },
-    {
-      "title": "Meta is paying top executives to hit a $9.5 trillion valuation—and no one’s ever done it before - Fortune",
-      "description": "The deepest tranche of options won’t fully pay off unless Meta becomes nearly twice the size of Nvidia.",
-      "url": "https://fortune.com/2026/04/28/meta-q1-executive-stock-options-zuckerberg-9-trillion-valuation-moonshot/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2267997264_a36c60-e1777417380329.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-04-29T01:38:00Z"
-    },
-    {
-      "title": "S&P 500 futures are flat as Wall Street looks ahead to ‘Mag 7’ earnings and Fed decision: Live updates - CNBC",
-      "description": "On Tuesday, the S&P 500 and Nasdaq Composite slipped from the the records they notched a day earlier.",
-      "url": "https://www.cnbc.com/2026/04/28/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297662-1777301356481-Traders-Photo-20260427-KK-PRESS-020.jpg?v=1777301438&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-29T01:38:00Z"
-    },
-    {
-      "title": "Elon gets his day in trial against OpenAI - Axios",
-      "description": "Musk took the stand as the first witness in his billion dollar lawsuit against OpenAI on Tuesday.",
-      "url": "https://www.axios.com/2026/04/28/elon-openai-altman-trial",
-      "urlToImage": "https://images.axios.com/tnZFIqC66G6HTjihl_aY2NaQKDc=/1366x768/smart/2025/01/29/214751-1738187271876.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-04-29T01:19:21Z"
-    },
-    {
-      "title": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue - CoinDesk",
-      "description": "While the trading platform’s crypto revenue tanked 47% to $134 million, a record-breaking surge in prediction market bets helped push overall revenue up 15% to $1.07 billion.",
-      "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/444f7a787b146a0e468e858e32f1f9d80f6c9c32-3600x2400.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-28T23:41:03Z"
-    },
-    {
-      "title": "Nvidia Stock Drops. Why Chip Stocks Keep Getting Hit. - Barron's",
-      "description": "Nvidia stock, Advanced Micro Devices and Broadcom were all dropping amid worries about the sustainability of OpenAI's spending.",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-chip-selloff-openai-60e71726",
-      "urlToImage": "https://images.barrons.com/im-22122010/social",
-      "source": "Barron's",
-      "publishedAt": "2026-04-28T21:12:00Z"
-    },
-    {
-      "title": "White House huddles with tech firms as Mythos raises cyber stakes - Politico",
-      "description": "National Cyber Director Sean Cairncross is expected to chair the discussion, which will also focus broadly on cybersecurity and AI-related topics.",
-      "url": "https://www.politico.com/news/2026/04/28/white-house-huddle-cyber-mythos-00896589",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4b%2F6a%2F3efb515f4f42858a76f2653012e0%2Ftrump-88-7.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-04-28T20:59:08Z"
-    },
-    {
-      "title": "Disney has decided to keep ESPN - Business Insider",
-      "description": "Disney had previously considered spinning out the sports network. New CEO Josh D'Amaro has decided not to, people familiar with the matter said.",
-      "url": "https://www.businessinsider.com/espn-disney-spin-sell-decision-josh-damaro-2026-4",
-      "urlToImage": "https://i.insider.com/69f116b49244129ecb2f9079?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-04-28T20:51:00Z"
-    },
-    {
-      "title": "Brown-Forman and Pernod Ricard Terminate Discussions Regarding Potential Combination (April 28, 2026) - Brown-Forman",
+      "title": "Kevin Warsh wanted a family fight at the Fed. It has already started. - Reuters",
       "description": null,
-      "url": "https://www.brown-forman.com/article/brown-forman-and-pernod-ricard-terminate-discussions-regarding-potential-combination-april",
-      "urlToImage": "https://www.brown-forman.com/share_image.jpg",
-      "source": "Brown-forman.com",
-      "publishedAt": "2026-04-28T20:46:38Z"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDlONTJGY1FwM0p1UUFwZWRsU3k3djF0NXpsWnpiQ0dJMm1VSW4ydUFPWjczeGR4Si1LdjVMU0lySzVOR0ZicEdadm5FSG9ydjJIS0M4WGFSZVBGS0VwX3Q3V2otdFd0ajlERGMxNnVDcTJTY2puOXNKV3JidzliT3V6TkppR3hHY0NYdlEtQUQ4YkhtM1RDRmdSQzlPMGhvRnc?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-30T04:05:00Z"
     },
     {
-      "title": "Kone Is Said to Near €29 Billion Deal for Rival TK Elevator - Bloomberg.com",
-      "description": "Kone Oyj is nearing a cash-and-stock deal to acquire TK Elevator, people familiar with the matter said, in what will be one of the biggest-ever private equity exits in Europe.",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/kone-is-said-to-near-29-billion-deal-for-rival-tk-elevator",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it22XqFwucQ0/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-04-28T20:25:34Z"
+      "title": "Oil Prices Soar as Iran Standoff Shows No End in Sight - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SjhHZ3VuQVBtWEwwVDRlVzNHZ29ZN3hjMW5RZDVJQzVxc3hQWXU5eVZfdVZLWVB5RnRSS1ZMTk93alhRR3FlYTl3cjJyZlZDRWRWaTJ1Vlg1UFBaM2dRalZvcU1ZWVhERkdZZGtnUWs2bVNKZUE?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-30T04:03:58Z"
     },
     {
-      "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday - CNBC",
-      "description": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach.",
-      "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279817-1773859029723-gettyimages-2266696304-AFP_A3TR4DP.jpeg?v=1773859046&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-28T20:15:32Z"
+      "title": "Tech Futures Rise On Titans' Results And CapEx Plans - Investor's Business Daily",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTEJ0bGw0b3FLNWJoMUFCaUhTYWdCd19FQjdGS1JTVTh0Zy15YlRPdlBaRnFCRzB3cTFHX2R6bGF6OVhzeU9JcEhpZ2h6ZmpRa1A3ZVhtcXFYWlVOaHdwcTBWYm9LdTVSYWFGU0M4Zk9NdjNMUXltU2tEWVQ4NHVxbmdneGFZanBMSXR2STNFQTVtaEthTm5XbTJIeEt0RTlCWXF1RE9VMEJLZGNpU3VLOVR6NFNTQ2dVcHBYcjZfMlFINTRza0VrRGEwWmMzWXFPQXc?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-30T03:08:00Z"
     },
     {
-      "title": "Amazon is already offering new OpenAI products on AWS - TechCrunch",
-      "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/Data-center-ChatGPT.png?resize=1200,600",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-28T19:48:02Z"
+      "title": "United flight from SFO reports possible drone strike at 3,000 feet - San Francisco Chronicle",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY1NYWkpuR1hJaTQyMWw5VnpkRUdwQkROWkotWHlGOEpiQzlwSms4Y3V0SU13cUpiU05iOXpGWDZjSUdTeFYxaDF5VWI2ZUpERUdUbm1WeDBkaXlYalVDVExPTmVHWDQ0QlpzTUwwZTNHdjE5N2NNeEdpVk9sUkdNSEI4SF9mUQ?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-30T03:07:56Z"
     },
     {
-      "title": "‘Horsesh*t’: Hill Republicans align against Spirit’s bid for a Trump bailout - Semafor",
-      "description": "As the president considers a government lifeline for the struggling airline, a wide swath of his party wants no part of it.",
-      "url": "https://www.semafor.com/article/04/28/2026/horsesht-hill-republicans-align-against-spirits-bid-for-a-trump-bailout",
-      "urlToImage": "https://img.semafor.com/cdf77c114104e6e1b126b203c3e0050c05845cfe-4000x2667.jpg?rect=0,284,4000,2100&w=1200&h=630&q=75&auto=format",
-      "source": "Semafor.com",
-      "publishedAt": "2026-04-28T19:37:00Z"
+      "title": "Powell to remain as Fed governor, denying Trump a key vacancy - Axios",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aTVR5bmgyanFFNFZxR2lVRl9aQTZKRVRxbllaTld2U1VyVGRWU0NPd2lVaXVDLTc4RjhXakdKZDIyS3BFd2pFQnotSmZ3UnNrYUJsYks0UWZpSi1jdnUyNzBzbmxvUQ?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-30T03:05:19Z"
     },
     {
-      "title": "Starbucks raises full-year outlook as turnaround takes hold — despite higher gas prices - CNBC",
-      "description": "Starbucks' global same-store sales, which only includes cafes open at least a year, increased 6.2%, fueled by more visits to its locations.",
-      "url": "https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108296584-1776982515044-gettyimages-2270919552-20260408_starbucks_people_001.jpeg?v=1776982636&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-04-28T19:30:01Z"
+      "title": "Google outpaces rivals as Big Tech’s AI spending plans rise to $725bn - Financial Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnhWSUpLTVhvdjBEREwyZHZFaGphTlBhc3R6aXFCSVJqcWVIUkpCUkZSU1A2M3ROUk9neFZSdWFuTlFYRi1sbjQ1WHB3WGdmMS00VFZ3cS1zbjRqR0ZxcjVFSC1iX1oycmM4WkpLTXl1YzhjNHFKRGJrT2Yzc1ludFdraGs?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-30T02:22:06Z"
     },
     {
-      "title": "JP Morgan's Jamie Dimon warns of looming bond market crisis (JPM:NYSE) - Seeking Alpha",
-      "description": "JP Morgan CEO Jamie Dimon warns a bond market crisis may be looming, citing deficits, geopolitics and oil risks. Read more here.",
-      "url": "https://seekingalpha.com/news/4580981-jp-morgans-jamie-dimon-warns-of-looming-bond-market-crisis",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1367511149/image_1367511149.jpg?io=getty-c-w630",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-04-28T19:19:56Z"
+      "title": "Google Cloud revenue is now 18% of Alphabet's business. Is this the beginning of the end of Google's search identity? - Fortune",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LWXNoRkE1WTR4eDYzcnRFaEZ4SHZwVEZJWFN3dk9wbTliRTBnb0pRVTV0bHI1TGhjWlJ5cTdVVmg0c1J0aGxPLWFHbmQxU0tTLURqT0ZiRW1yVUFIcm1aUjctTHBEcFE?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-30T01:47:00Z"
     },
     {
-      "title": "American Airlines CEO Rejects United Merger, Hints At Alaska Deal - Live and Let's Fly",
-      "description": "American Airlines CEO Robert Isom says a merger with United is a nonstarter, but hints that closer ties with Alaska Airlines could continue.",
-      "url": "https://liveandletsfly.com/american-airlines-rejects-united-merger-alaska-deal/",
-      "urlToImage": "https://liveandletsfly.com/wp-content/uploads/2026/04/Alaska-American-Tails.jpeg",
-      "source": "Liveandletsfly.com",
-      "publishedAt": "2026-04-28T17:43:25Z"
+      "title": "On the stand, Elon Musk can’t escape his own tweets - TechCrunch",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeU1SbzFHRXFXMEFfOV8yZ05rVHYzeUFFeW96OWtkX205eWZqd3BnWmtKamVMZFBidk5DdUI1aGVNM3RsTWlTMGJ6U1BLdUJ4am1nczNobXExWVpJOGh6cTdNUzlhbDFiMDVHY2pmZFpSWGU1alJRVjZZYWlXTDVMYlExUmRrM2ZWbmp4bA?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T23:58:36Z"
     },
     {
-      "title": "Big Tech Earnings Preview: Are AI Investments Paying Off for Microsoft, Alphabet, Meta, and Amazon? - TipRanks",
-      "description": "Wall Street is bracing for one of the biggest earnings clusters of the year as Microsoft ($MSFT), Alphabet ($GOOGL), Meta ($META), and Amazon ($AMZN), a group that is collectively expected",
-      "url": "https://www.tipranks.com/news/big-tech-earnings-on-deck-are-microsoft-alphabet-meta-and-amazons-ai-investments-paying-off",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/04/shutterstock_2757662227-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-04-28T17:32:49Z"
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal - TechCrunch",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN29oRXRtQUd4ckU2LXByV1A5eVczUG0wWXN0OXV6MFV1OS1ZQVJXN0VOVldjUFFRUWc2TmpZVjVRV3g5LVU4Yk4wY3RTdFMtSmstQ1BtTnFrRnEwOWJVYUkteFgyNUFXVExfQ24tWUdDYWVNZlJFVDJhUWpaWHU0ajU1bm1qVHJFNWZFdl9VVnhpN2NBX2RQNkJ3?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T23:55:23Z"
+    },
+    {
+      "title": "Amazon chips no longer just a side dish, they're a $20B biz - theregister.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42amFqT3lUWWpvSUVHS1dzbndmZENrMUplRFoxQjVvc1ZaRDl0UUthU3pOUXM5X3NER3BFT0IwQ2otQ3NsYkk1eTNBdXU3OFhyNEtZNnN1ZlJwaVAyMHZGbzYzM1QyQk81T1B5cVVYMHMtZU0?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T23:47:00Z"
+    },
+    {
+      "title": "Chipotle reports surprise quarterly sales rise as menu refresh lifts demand - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2NGN0xiRFlfRnNEY2VSdEVZODFLTTE2dEdBOUJ5U0dOcWtaekVIU3ZNcWVuaHJjV3VrdnJyTGN6SVZnQ3I3eDFtY0M4eTJUU2dGQjJMWmFWaHhta2JMVmJOSmd4Z3RCby1iTXpkSTFiNHd0RTBoeERDM05TUktQWk52ajByQWJ6MFRYTXhuWnAwY21qRnJDQzUwNmRvX0Y4TnJ3Tk43NDA2dmc?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T22:40:38Z"
+    },
+    {
+      "title": "Microsoft Stock Trying to Bounce Back on Strong Azure Growth Outlook - Barron's",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmaUZwRHVGcjBkYW9KSktkTFYxMlY3OVFRZ3EwcDhZcjJMYW9pNUJOUFlRR1NaVHhKbGtWSlV5Um9vNWh1T19Bek1HMXktUFVjR1BZbGlwcDlZN19Denh1cHdwUG80TzJnWUZmYlctYVJ2MzRhTmZQVzhHRjc?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T22:27:00Z"
+    },
+    {
+      "title": "Texas court weighs whether smokable hemp can stay on shelves after Friday - KUT",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY1p6SGJUTDMtSjZxZjZTVHJEM19iT1hIWTdta2FXSy0yamRoYTl3VmZJNTU2d2dTaWJGcURiRURrTUFYcDl1R0FzRDNjRTRKVmdUNmJkY1BZT0w3clB4MmFXQmdpQ1FKNWZVVmZGc1ZJWDh0Z3paY1lrSnFrbzlHeWdFUWNYUUF5bXZBNFo5RQ?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T22:11:00Z"
+    },
+    {
+      "title": "Amazon Offers Q1 Shoutout To ‘Project Hail Mary’, Tops Wall Street Forecasts Amid AI Arms Race - Deadline",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3BBWDB5YWE0UXkxckt3dGhpTWZzbWF4MUZiWjZGdXBTNUUweFBOV3JDVlBBT2pLZDVNc3FubVVaa3FzRW1BRWJMMkpxa0RENnhLZUQ2ZjMxTjBPTEtFNDB0N0twbWtIZ0o4dGFLWWZRY1JBY1B5U1B4WVBEdkVFYWR1bjJvNEpvOXpQODJrbURxZ0NCaEJYSDJDX1Q?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T21:28:00Z"
+    },
+    {
+      "title": "Talks to bail out Spirit Airlines stall as company teeters toward collapse - CBS News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeE04UEY5cTI0bUlmUy1WMXR6cVZhLXAwTDRiWFNPbGd1WGc5cTk1NkxWNy1HY09MOHhHcHhvVEFRSi1zcFhvM2Z5VUVnak5RZUx4V193TllWMFJRNjlhWGh0aS1kcTVwSldtMGtuMFBWMVotWldwTFVNQXVKLVJKYy1IcnlKUW12YUtDQmZGOGZVRW93Qk9mZnlIMGRUc2VPckU0UDVPY9IBrAFBVV95cUxOTnhnY0lUM1I1ekw3ajYtUTZIaEI1TFBNaG4yaHJ5X014OGFnS3V1Nk5BbjVKZl9VR0V2OWNmZlJBMGxGVHpja05uVlM1WFhlbXNJbXJabXNJZklOaUItUWk2SFJlWllVOW9BeEduRlpaNFp4S25UX2R3SW5SLW5VcjBGQjhWQTN0emF0VzRmMnc0Y3I3V1JBaVdkT2pzQjlCdWlmaXVqRWowQ1Bj?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T20:56:00Z"
+    },
+    {
+      "title": "MTA braces for LIRR strike, threatens fare hike and service cuts if workers get demands - Gothamist",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRCRnRlekpiZk5LYUNXcWtZSWs3Unh1NGJaR2t0UDFyVjFZMW1kWWJVOG1EMWlfeGVzU3E5aUN6S1BmLUJjdDdTVmlydDRfQzVjdkFwYkhyZHl0NEJOSWYxY3lRdTJRRTJ5OXJTU3hfOTd6bWhWYXp4Mmw0bHUtd01xb0tKSk5fYUpIWWtLOW5yOXczeWNzYTJiTVhTbmJwZlF0eGljVFdmS1lUTUhaa0VYNA?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T20:47:00Z"
+    },
+    {
+      "title": "The shocking moment Birmingham restaurant workers saw an empire collapse: ‘A real blow to the spirit’ - AL.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXEwX3Y3am5fbFIwOXJyMHVnNERwSDkzaFc4d3B3WW0zZW8wZHlDVFlaMTh0MlZkQmUzYVVxWW1iOWEzUlEwNlA1ajZDMHBmeXd4ZjhKWmdwODlUY1pDbjdCMHJONXJWRWRSUF85TzN3SGVGRm9WT3RGa0prQmduNl9UeWY4TjlDUFprcU9wWFVCU09KYTQ1T1dFVmVwNFVPaFJkT1F1dTFNNUNTd3pVRWliUktEYThaTWREdklEakdyQnVQVWZTX2NyTW04U2hw0gHkAUFVX3lxTE9Cam1IY1kzdEw5QklfNFh4djVmNlJuNDJnX1hHUTlWanV5bHFFc3pKZVl6Qy1Nb2JkU3UyNUxEOVlVZFRsZldDYkxGS0FmanZQSXZlQV9IeFQ0c0JibTBaazBNTUk4VWhHMW9SR0ticU0tcXJpZ0hvbG5sdlM5bDJQcC1GZDM2WWZSRmNLVDlHUFFUY3dsQnA3c2hFZk1aQW9zejExSjRBTGNfMllYMWNQU1hqdXl6Qmx6Sk9XQUE4cUxoZ2JVSEVFMmprLTF4NnE2WFd3YXQtR1RwRUFYLVRmZHRrZg?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T20:39:00Z"
+    },
+    {
+      "title": "Costco quietly changes its $1.50 hot dog deal - thestreet.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjFSQlY2RE5rbDR6VGdjOXF0bzB0Qm9sSmpyVjB6aVlRNnFpbnVyRmpVaENUSWdVY2hqQW5pQWlINEI5YzJfcGkxLUlsamZnazFyVi15cmo1MW01bnY0Z3c4bnUtTFRhb2FYODNBRFZNanppZldqR2thbVpnRDlTZkRJUQ?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T20:30:53Z"
+    },
+    {
+      "title": "Press Release: PayPal Announces Strategic Reorganization to Accelerate Growth - Apr 29, 2026 - PayPal Newsroom",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkhDOWdub0VScHdsTmE5MUVKQU5JcFZrd280SVRET3NOZW9FMTZJcDJOVE04RGJPaVdzMlFHZ0hmNHhHMVhvZGpwcklwbUFVSHRwaG9uMkNIbV9oSW11ek5qWkFvaVZ6VGxrakk5MVpBVWlSZGkxSHB6bmZpTERyZ2FhOHN1Y1dnMHNsLUpXT1FCcl9kTUtJWXhZdFMwSGdiX1pabm1NUzE1Zw?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T20:05:55Z"
+    },
+    {
+      "title": "Meta shares fall on concerns over AI spending, legal scrutiny - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MEN6ZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-04-29T20:05:00Z"
     }
   ]
 }
