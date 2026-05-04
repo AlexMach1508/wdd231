@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-05-03T08:11:45.074Z",
+  "updatedAt": "2026-05-04T08:40:47.892Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Spirit Airlines ceases operations after escalating financial struggles - NPR",
-      "description": "The low-cost carrier, which had been struggling for years, announced it will cease operations. Spirit had been seeking a $500 million lifeline from the White House, but talks failed to yield a deal.",
-      "url": "https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3510x1974+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F41%2F850e63e44442a36ff2d6dba050db%2Fgettyimages-1495221469.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-05-02T06:42:14Z"
+      "title": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/openai-sam-altman-ipo-sarah-friar-392c582b",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-03T07:31:03Z"
     },
     {
-      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield - CoinDesk",
-      "description": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
-      "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2f93526f6b1d3f1b790b8c45bd17a412b28f6121-7455x4972.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-02T01:04:52Z"
-    },
-    {
-      "title": "S.F. supervisors, state senator arrested as May Day protest closes SFO roadway - San Francisco Chronicle",
-      "description": "San Francisco officials were arrested after protesters blocked the roadway at SFO’s international terminal during a May Day labor demonstration.",
-      "url": "https://www.sfchronicle.com/bayarea/article/may-day-protest-sfo-22236936.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/66/11/46/30972309/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2026-05-01T22:25:50Z"
-    },
-    {
-      "title": "Ford CEO Jim Farley says company is focusing on making its vehicles more affordable - CBS News",
-      "description": "Ford CEO Jim Farley tells CBS News, \"Most of our new models are going to be more affordable versions.\"",
-      "url": "https://www.cbsnews.com/news/ford-ceo-jim-farley-auto-industry-vehicles-more-affordable/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/01/0c73c9e6-0291-4160-9d61-bfa2d460fd25/thumbnail/1200x630/d99115c8d449efcedb4e31656880bd2c/screenshot-2026-05-01-at-5-56-19-pm.png",
-      "source": "CBS News",
-      "publishedAt": "2026-05-01T22:01:00Z"
-    },
-    {
-      "title": "Why is gas so high in Illinois? Gas prices today increased amid Iran war, after BP Whiting, Indiana refinery power loss - ABC7 Chicago",
-      "description": "The price of oil is impacting more than just gas, experts say.",
-      "url": "https://abc7chicago.com/post/is-gas-high-illinois-prices-today-increased-amid-iran-war-bp-whiting-indiana-refinery-power-loss/19015149/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19015178_050126-wls-evelyn-gas-prices-11a-vid.jpg?w=1600",
-      "source": "WLS-TV",
-      "publishedAt": "2026-05-01T21:49:12Z"
-    },
-    {
-      "title": "GameStop is preparing offer for eBay, WSJ reports - Yahoo Finance",
-      "description": "GameStop is preparing an offer for eBay as CEO Ryan Cohen pursues plans to boost the struggling videogame retailer's market value more than tenfold, the ‌Wall...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-preparing-offer-ebay-wsj-212703455.html",
-      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/d612596510cfbf790c3e36e63e81032a",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-01T21:27:03Z"
-    },
-    {
-      "title": "Jeff Bezos at the Met Gala: Extreme wealth’s big night out - CNN",
-      "description": "The annual affair is always a lightning rod for controversy, but this year’s, sponsored by Jeff Bezos and Lauren Sánchez Bezos, is proving especially contentious.",
-      "url": "https://www.cnn.com/2026/05/01/style/the-met-gala-bezos-controversy",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2151790995-20260501144029670.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-05-01T21:16:03Z"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, S&P Make History; Buffett's Berkshire Reports Earnings Saturday (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index reversed lower Friday even as Apple popped on earnings. Lumentum does this ahead of earnings.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-earnings-roblox-sandisk-westen-digital/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/04/stock-Nasdaq3-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-05-01T20:27:00Z"
-    },
-    {
-      "title": "Everything You Missed From Elon Musk’s Testimony in the OpenAI Trial - Gizmodo",
-      "description": "He had a lot to say. He'd probably like to take some of it back.",
-      "url": "https://gizmodo.com/everything-you-missed-from-elon-musks-testimony-in-the-openai-trial-2000753364",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2272895456-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-05-01T19:55:06Z"
-    },
-    {
-      "title": "Big Oil CEOs Warn Energy Market Is Moving Closer to Cliff’s Edge - Bloomberg.com",
-      "description": "America’s biggest oil companies are warning that global crude markets may be nearing an inflection point of higher prices the longer the Strait of Hormuz stays closed.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/big-oil-ceos-warn-energy-market-is-moving-closer-to-cliff-s-edge",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixv6C64ZYVWg/v1/1200x799.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-01T19:33:50Z"
-    },
-    {
-      "title": "Charlotte-based Atrium Health targets WakeMed in proposed combination - North Carolina Health News",
-      "description": "Atrium's proposed deal with WakeMed would extend the reach of the state's largest hospital system and raise new competition concerns.",
-      "url": "http://www.northcarolinahealthnews.org/2026/05/01/charlotte-based-atrium-health-targets-wakemed-in-proposed-combination/",
-      "urlToImage": "https://www.northcarolinahealthnews.org/wp-content/uploads/2026/05/atrium-health-file-photo.webp",
-      "source": "Northcarolinahealthnews.org",
-      "publishedAt": "2026-05-01T19:26:37Z"
-    },
-    {
-      "title": "‘Wow!’: CNBC host stunned as ‘truly incredible’ US jobs number plunges to 189,000 — the lowest level since 1960s - Yahoo Finance",
-      "description": "Is the labor market stuck in ‘low hire, low fire’ mode?",
-      "url": "https://finance.yahoo.com/economy/articles/wow-cnbc-host-stunned-truly-182000483.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qoDUX2yBhTKors8fWrdHuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/549443440a268bf51eccde790a0e645a",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-01T18:20:00Z"
-    },
-    {
-      "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say - CNBC",
-      "description": "The April 7 high of $113 in Western Texas Intermediate crude futures will likely be broken, traders on the prediction markets platform think.",
-      "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300126-1777567683477-gettyimages-2269596929-_75a7752_nnpwepfv.jpeg?v=1777567706&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-05-01T18:12:52Z"
-    },
-    {
-      "title": "Top AI companies agree to work with Pentagon on secret data - The Washington Post",
-      "description": "The Pentagon has signed agreements with leading AI firms, including Microsoft, Amazon and Google, advancing military capabilities amid a dispute over safeguards.",
-      "url": "https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGWSISSXJIF34RNUEASI272N54_size-normalized.jpg&w=1440",
+      "title": "Spirit Airlines, low-cost innovator, shuts down after Trump bailout plan fails - The Washington Post",
+      "description": "The airline said early Saturday it had “no choice” but to wind down operations immediately, dashing hopes of a last-minute financial lifeline.",
+      "url": "https://www.washingtonpost.com/politics/2026/05/02/spirit-airlines-flights-shutdown/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OYIWES2DPLXEDRUTYMJDSYEOCM.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-05-01T17:46:01Z"
+      "publishedAt": "2026-05-03T00:39:43Z"
     },
     {
-      "title": "A Chick-fil-A worker got fired and returned to allegedly refund himself over $80,000 in mac n cheese - Fortune",
-      "description": "The cheesy scheme allegedly netted a former employee over $80,000 in fraudulent refunds.",
-      "url": "https://fortune.com/2026/05/01/fired-chick-fil-mac-and-cheese-80000-refund/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-1251392719.jpg?resize=1200,600",
+      "title": "McDonald’s rival closes 729 more restaurants - thestreet.com",
+      "description": "The 60-year-old chain has been shrinking for nearly a decade as it struggles with falling store counts.",
+      "url": "https://www.thestreet.com/restaurants/mcdonalds-rival-subway-closes-729-more-restaurants",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyNzU1MzYw/store-closure-closed-sign-closing-lead.jpg?io=1&profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-05-02T22:01:46Z"
+    },
+    {
+      "title": "Elizabeth Warren hailed blocking the $3.8B Spirit-JetBlue merger as a 'Biden win for flyers.' Now Spirit is gone - Yahoo Finance",
+      "description": "With Spirit Airlines shuttered after more than three decades in operation, was the decision to block the JetBlue-Spirit merger in 2024 really the right one?",
+      "url": "https://finance.yahoo.com/economy/policy/articles/elizabeth-warren-hailed-blocking-3-214500430.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FJ6JqZAcGPes7xsU7Ua2wA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/ff4c9d62cfe128b9d0fb1f68e2d7a2fe",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-02T21:45:00Z"
+    },
+    {
+      "title": "Warren Buffett says 'we've never had people in a more gambling mood than now' - Fortune",
+      "description": "\"But that doesn't mean that investing is terrible. It does mean that prices for an awful lot of things will look very silly.\"",
+      "url": "https://fortune.com/2026/05/02/warren-buffett-investing-gambling-mood-one-day-options-prediction-markets-betting-berkshire-hathaway/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-77914966-e1777753708226.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2026-05-01T17:42:00Z"
+      "publishedAt": "2026-05-02T21:30:00Z"
     },
     {
-      "title": "New Pittsburgh Post-Gazette owners making deep cuts to newsroom staff - 90.5 WESA",
-      "description": "The Pittsburgh Post-Gazette will shrink to just under half its current size under its new owners, Post-Gazette employees told 90.5 WESA on Friday. And while the downsizing was no surprise, staffers expressed dismay at its magnitude — and some raised questions…",
-      "url": "https://www.wesa.fm/politics-government/2026-05-01/post-gazette-new-owners-cuts-staff",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/1b29d68/2147483647/strip/true/crop/1954x1026+0+183/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F4c%2F7ce7694f4f94b8974f3174df1a2f%2Fpittsburgh-post-gazette-newspaper-writer-reporter-editor-national-labor-union-block-family-strike-2.jpeg",
-      "source": "90.5 WESA",
-      "publishedAt": "2026-05-01T17:27:00Z"
+      "title": "Interest on US debt is a top driver of future deficits, as past borrowing overwhelms fiscal outlook - Fortune",
+      "description": "\"In a 'Fiscal Dominance' regime, the Fed's ability to aggressively hike rates to curb inflation is constrained, as doing so risks a fiscal or financial crisis.\"",
+      "url": "https://fortune.com/2026/05/02/interest-payments-us-debt-future-deficits-oustanding-borrowing-fiscal-outlook/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2239419836-e1777742712421.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-05-02T19:27:00Z"
     },
     {
-      "title": "Jackpot! 20 million-dollar plus Powerball tickets sold in Indiana - WANE 15",
-      "description": "The date of June 29, 2026 will hold special significance for 20 people who bought Powerball tickets for that day's drawing.",
-      "url": "https://www.wane.com/top-stories/jackpot-20-million-dollar-plus-powerball-tickets-sold-in-indiana/",
-      "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2024/01/Hoosier-Lottery.jpg?w=1280",
-      "source": "WANE",
-      "publishedAt": "2026-05-01T17:20:54Z"
+      "title": "Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient - Financial Times",
+      "description": "New CEO ‘not anxious to deploy capital into subpar opportunities’ as he picks up baton from legendary predecessor",
+      "url": "https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa9ce3433-2d40-4452-b503-a24ce2c85b96.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-02T18:49:24Z"
     },
     {
-      "title": "Elon Musk Made $158 Billion in 2025, But Received None of It. Tesla Stock (NASDAQ:TSLA) Surges - TipRanks",
-      "description": "Recently, news emerged about electric vehicle giant Tesla ($TSLA), and the pay structure for CEO Elon Musk. In what sounded like a scene from South Park involving viral video personalities",
-      "url": "https://www.tipranks.com/news/elon-musk-made-158-billion-in-2025-but-received-none-of-it-tesla-stock-nasdaqtsla-surges",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/tesla-shutterstock_2772640689-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-05-01T17:11:25Z"
+      "title": "Meta’s historic loss in court could cost a lot more than $375 million - The Verge",
+      "description": "New Mexico kicks off its public nuisance trial against Meta on Monday, arguing for changes to its business to better protect kids in the state.",
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-02T18:25:26Z"
+    },
+    {
+      "title": "AI threatens Big Law's talent pipeline - Axios",
+      "description": "Who trains lawyers in the AI era?",
+      "url": "https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence",
+      "urlToImage": "https://images.axios.com/mujXZ9r5DCytnGjRpbEguMlULAw=/0x0:1920x1080/1366x768/2026/04/09/1775710259100.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-05-02T17:07:21Z"
+    },
+    {
+      "title": "Could pied-à-terre tax find its way upstate? At least one New York legislator hopes so. - Gothamist",
+      "description": "State Sen. Pat Fahy wants to allow other local governments to opt into the pied-à-terre tax.",
+      "url": "https://gothamist.com/news/could-pied-%C3%A0-terre-tax-find-its-way-upstate-at-least-one-new-york-legislator-hopes-so",
+      "urlToImage": "https://api-prod.gothamist.com/images/356795/fill-1200x650|format-webp|webpquality-85/",
+      "source": "Gothamist",
+      "publishedAt": "2026-05-02T16:29:00Z"
+    },
+    {
+      "title": "Gas prices are up across the country. Here's where you'll find the most expensive -- and cheapest -- gas - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/GMA/News/gas-prices-country-find-expensive-cheapest-gas/story?id\\\\u003d132569874",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-02T16:12:07Z"
+    },
+    {
+      "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup - CoinDesk",
+      "description": "The agreement necessitates firms restructure reward programs from a \"buy and hold\" to a \"buy and use\" model; however, CCI raised concerns over its broad prohibition.",
+      "url": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/fa4ef4f69f2473827719dbfa0c0d77d68f12da8c-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-02T16:03:19Z"
+    },
+    {
+      "title": "Elon Musk went to court. The judge wasn’t amused. - The Washington Post",
+      "description": "Elon Musk’s outsize reputation, provocative remarks and his friction with a federal judge have dominated the trial in his case against ChatGPT-maker OpenAI.",
+      "url": "https://www.washingtonpost.com/technology/2026/05/02/musk-altman-openai-trial/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6BIXXJVYJCVQ3M4T2IHDQ3ARIY.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-05-02T16:00:00Z"
+    },
+    {
+      "title": "Kevin Warsh Says Good Riddance. After Powell Goes, He Wants a Transformed Fed — the Market May Not Like It - Yahoo Finance",
+      "description": "For the better part of two decades, Wall Street operated under a simple assumption: when markets wobble, the Federal Reserve eventually steps in. That...",
+      "url": "https://247wallst.com/investing/2026/05/02/kevin-warsh-says-good-riddance-after-powell-goes-he-wants-a-transformed-fed-the-market-may-not-like-it/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gmk_Ae0MszciMuUZvlerCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/a667bc27e8167f0bb753f1974cdf2d2f",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-05-02T15:52:24Z"
+    },
+    {
+      "title": "California to begin ticketing driverless cars that violate traffic laws - BBC",
+      "description": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4bd8/live/9ece7410-4634-11f1-b14f-8905f097c360.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-05-02T15:31:40Z"
+    },
+    {
+      "title": "Berkshire Hathaway’s Cash Surges in Abel’s First Quarter as CEO - Bloomberg.com",
+      "description": "Berkshire Hathaway Inc.’s cash pile soared to its highest level ever and operating earnings jumped in Greg Abel’s first quarter as chief executive officer.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-02/berkshire-hathaway-s-cash-pile-surges-to-record-397-billion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iChRSwJWO_zo/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-02T14:30:38Z"
+    },
+    {
+      "title": "Google is now a glorified venture-capital fund thanks to its SpaceX and Anthropic stakes - MarketWatch",
+      "description": "Google’s early investments in SpaceX and Anthropic look like some of the ‘most successful venture bets any public company has ever made,’ one expert says",
+      "url": "https://www.marketwatch.com/story/google-is-now-a-glorified-venture-capital-fund-thanks-to-its-spacex-and-anthropic-stakes-b13f3d56",
+      "urlToImage": "https://images.mktw.net/im-20273702/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-05-02T13:31:00Z"
+    },
+    {
+      "title": "Mortgage rates erased 9 months of gains, but buyers haven’t blinked - thestreet.com",
+      "description": "Rates climbed back from a three-year low. Contracts are rising. Something shifted in the American homebuyer's head.",
+      "url": "https://www.thestreet.com/real-estate/mortgage-rates-erased-9-months-of-gains-but-buyers-havent-blinked",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTcxNzEw/concepts-about-financial-interest-rates-and-home-loans-bank-interest-rate-concept-for-home-loans-interest-rate-concept-stockpack-gettyimages.jpg?io=1&profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-05-02T13:03:00Z"
+    },
+    {
+      "title": "Anthropic's most powerful AI model just exposed a crisis in corporate governance. Here's the framework every CEO needs. - Fortune",
+      "description": "Yale's Jeffrey Sonnenfeld and colleagues argue that Claude Mythos will break enterprise deployment in ways that cannot be undone—without key fixes.",
+      "url": "https://fortune.com/2026/05/02/agentic-ai-governance-framework-banking-healthcare-retail-supply-chain-yale-celi-sonnenfeld/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2256654494-e1777656958357.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-05-02T12:00:00Z"
+    },
+    {
+      "title": "'The final frontier': China just showed off its world-beating EV battery tech — as CATL, BYD and Sunwoda battle to take charging times down to only five minutes to remove the last barrier to electric adoption - TechRadar",
+      "description": "The race is on to cut EV charging times to under 10 minutes, as Beijing Auto Show reveals China’s need for speed",
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/light-years-ahead-of-the-rest-of-the-world-china-shows-off-the-future-of-ev-batteries-at-the-beijing-auto-show-as-catl-and-byd-race-to-cut-charging-times-down-to-just-five-minutes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QmHmHXT4ZiBYF7t6vRiJvd-1920-80.jpg",
+      "source": "TechRadar",
+      "publishedAt": "2026-05-02T11:00:00Z"
     }
   ]
 }
