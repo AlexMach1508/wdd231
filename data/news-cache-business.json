@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2026-05-04T08:40:47.892Z",
+  "updatedAt": "2026-05-05T08:23:52.110Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
+      "title": "Samsung family pays off record $8bn inheritance tax bill - BBC",
+      "description": "The bill is tied to the estate left by the firm's late chairman Lee Kun-hee, who died in  October 2020.",
+      "url": "https://www.bbc.com/news/articles/cn0px8g13xgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a92/live/644676f0-4763-11f1-a897-39829ff0bf25.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-05-04T04:24:22Z"
+    },
+    {
+      "title": "Meme Stock GameStop Pitches $56 Billion Takeover of eBay - Bloomberg.com",
+      "description": "GameStop Corp. is proposing to buy eBay Inc. for about $56 billion in cash and stock, a bold attempt by Ryan Cohen to take over a storied e-commerce name several times larger.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/gamestop-making-56-billion-offer-to-acquire-ebay-wsj-says",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isy2q00hVAm0/v0/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-04T02:33:00Z"
+    },
+    {
+      "title": "Anthropic Nears $1.5 Billion Joint Venture With Wall Street Firms - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/openai-sam-altman-ipo-sarah-friar-392c582b",
+      "url": "https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-05-03T07:31:03Z"
+      "publishedAt": "2026-05-04T02:12:00Z"
     },
     {
-      "title": "Spirit Airlines, low-cost innovator, shuts down after Trump bailout plan fails - The Washington Post",
-      "description": "The airline said early Saturday it had “no choice” but to wind down operations immediately, dashing hopes of a last-minute financial lifeline.",
-      "url": "https://www.washingtonpost.com/politics/2026/05/02/spirit-airlines-flights-shutdown/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OYIWES2DPLXEDRUTYMJDSYEOCM.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-05-03T00:39:43Z"
+      "title": "We'll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse - TechCrunch",
+      "description": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+      "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273585200.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-04T02:02:25Z"
     },
     {
-      "title": "McDonald’s rival closes 729 more restaurants - thestreet.com",
-      "description": "The 60-year-old chain has been shrinking for nearly a decade as it struggles with falling store counts.",
-      "url": "https://www.thestreet.com/restaurants/mcdonalds-rival-subway-closes-729-more-restaurants",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyNzU1MzYw/store-closure-closed-sign-closing-lead.jpg?io=1&profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-05-02T22:01:46Z"
+      "title": "Stock futures are mostly higher as investors monitor latest in U.S.-Iran developments: Live updates - CNBC",
+      "description": "The S&P 500 and Nasdaq Composite are coming off of a solid week, having notched fresh records on Friday.",
+      "url": "https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300017-1777561845507-gettyimages-2273242956-AFP_A9GJ6MT.jpeg?v=1777561948&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-05-04T00:53:48Z"
     },
     {
-      "title": "Elizabeth Warren hailed blocking the $3.8B Spirit-JetBlue merger as a 'Biden win for flyers.' Now Spirit is gone - Yahoo Finance",
-      "description": "With Spirit Airlines shuttered after more than three decades in operation, was the decision to block the JetBlue-Spirit merger in 2024 really the right one?",
-      "url": "https://finance.yahoo.com/economy/policy/articles/elizabeth-warren-hailed-blocking-3-214500430.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FJ6JqZAcGPes7xsU7Ua2wA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/ff4c9d62cfe128b9d0fb1f68e2d7a2fe",
+      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go? - NPR",
+      "description": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F17%2F892bb8c34549af3b9e60819ec2d8%2Fap26120215752606.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-05-03T22:24:37Z"
+    },
+    {
+      "title": "The SpaceX IPO Will Create a $75 Billion Spending Spree -- These 2 AI Stocks Will Win - The Motley Fool",
+      "description": "SpaceX's upcoming IPO will arm it with huge amounts of cash.",
+      "url": "https://www.fool.com/investing/2026/05/03/the-spacex-ipo-will-create-a-75-billion-spending-s/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F867625%2Fgettyimages-1182694703-1200x847-d544b0f.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-05-03T22:05:00Z"
+    },
+    {
+      "title": "Delta Cancels Hundreds Of Flights — Executives Say The Problem Could Last All Summer - View from the Wing",
+      "description": "Delta has canceled hundreds of flights while rivals kept running normally, and the airline’s own executives have already warned that the underlying reliability problem will take time to fix. Delta is blaming weather, but the deeper issue appears to be crew re…",
+      "url": "https://viewfromthewing.com/delta-cancels-hundreds-of-flights-executives-say-the-problem-could-last-all-summer/",
+      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2016/10/IMG_1424.jpg",
+      "source": "Viewfromthewing.com",
+      "publishedAt": "2026-05-03T21:10:15Z"
+    },
+    {
+      "title": "Fed’s Kashkari warns Iran war raises inflation risks, rate cuts uncertain - Yahoo Finance",
+      "description": "Investing.com -- Federal Reserve Bank of Minneapolis President Neel Kashkari said Sunday that the prolonged Iran conflict increases risks of elevated...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-kashkari-warns-iran-war-194307063.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-02T21:45:00Z"
+      "publishedAt": "2026-05-03T19:43:07Z"
     },
     {
-      "title": "Warren Buffett says 'we've never had people in a more gambling mood than now' - Fortune",
-      "description": "\"But that doesn't mean that investing is terrible. It does mean that prices for an awful lot of things will look very silly.\"",
-      "url": "https://fortune.com/2026/05/02/warren-buffett-investing-gambling-mood-one-day-options-prediction-markets-betting-berkshire-hathaway/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-77914966-e1777753708226.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-05-02T21:30:00Z"
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors - TechCrunch",
+      "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-104509077.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-03T18:00:09Z"
     },
     {
-      "title": "Interest on US debt is a top driver of future deficits, as past borrowing overwhelms fiscal outlook - Fortune",
-      "description": "\"In a 'Fiscal Dominance' regime, the Fed's ability to aggressively hike rates to curb inflation is constrained, as doing so risks a fiscal or financial crisis.\"",
-      "url": "https://fortune.com/2026/05/02/interest-payments-us-debt-future-deficits-oustanding-borrowing-fiscal-outlook/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2239419836-e1777742712421.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-05-02T19:27:00Z"
+      "title": "United Airlines passenger allegedly assaulted flight attendant, tried to get into cockpit - NBC News",
+      "description": "A United Airlines passenger allegedly attacked a crew member and attempted to access the cockpit before being removed by police at Newark Liberty International Airport on Saturday evening",
+      "url": "https://www.nbcnews.com/news/us-news/united-airlines-passenger-assaults-flight-attendant-rcna343332",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241031-united-airlines-al-0935-e9bc6d.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-05-03T17:39:19Z"
     },
     {
-      "title": "Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient - Financial Times",
-      "description": "New CEO ‘not anxious to deploy capital into subpar opportunities’ as he picks up baton from legendary predecessor",
-      "url": "https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa9ce3433-2d40-4452-b503-a24ce2c85b96.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-02T18:49:24Z"
+      "title": "Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting - CNBC",
+      "description": "The reviews from longtime shareholders and professional investors were broadly positive, even as many acknowledged the notable absence of Warren Buffett,",
+      "url": "https://www.cnbc.com/2026/05/03/berkshire-ceo-greg-abel-earns-solid-first-scorecard-after-first-annual-meeting.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108301060-1777730461213-Abel3.jpg?v=1777730550&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-05-03T17:30:02Z"
     },
     {
-      "title": "Meta’s historic loss in court could cost a lot more than $375 million - The Verge",
-      "description": "New Mexico kicks off its public nuisance trial against Meta on Monday, arguing for changes to its business to better protect kids in the state.",
-      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-05-02T18:25:26Z"
+      "title": "Austrian police detain suspect in case of rat poison found in baby food jars on supermarket shelves - AP News",
+      "description": "Police in eastern Austria say a 39-year-old suspect has been arrested after rat poison turned up in some HiPP baby food jars on supermarket shelves in central Europe. The company recalled some of its baby food in Austria, the Czech Republic and Slovakia after…",
+      "url": "https://apnews.com/article/rat-poison-baby-food-hipp-austria-czech-slovakia-b31f3603140a2d7b888e1801c6bcec64",
+      "urlToImage": "https://dims.apnews.com/dims4/default/35b39a1/2147483647/strip/true/crop/1700x1133+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2Fbb%2F8f208a7c8c8ebcd16fb52437698e%2F7ae09d53778047b49f8c277df006d228",
+      "source": "Associated Press",
+      "publishedAt": "2026-05-03T16:45:00Z"
     },
     {
-      "title": "AI threatens Big Law's talent pipeline - Axios",
-      "description": "Who trains lawyers in the AI era?",
-      "url": "https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence",
-      "urlToImage": "https://images.axios.com/mujXZ9r5DCytnGjRpbEguMlULAw=/0x0:1920x1080/1366x768/2026/04/09/1775710259100.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-05-02T17:07:21Z"
+      "title": "OPEC+ countries agree modest rise in production as Iran retains chokehold on key Strait of Hormuz - AP News",
+      "description": "Seven countries in the OPEC+ grouping of oil-producing countries — including Saudi Arabia and Russia — say they’ve decided to a modest increase in production starting in June as part of a commitment to “market stability.” The commitment to raise production by…",
+      "url": "https://apnews.com/article/opec-oil-russia-uae-hormuz-iran-54fc7aa399fca1fd45e9db2a75da17d1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bfe1589/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2Fc3%2F6f7b643105d29fc0db98acbee998%2F537b7590a4814f479dc6d204d258e1dc",
+      "source": "Associated Press",
+      "publishedAt": "2026-05-03T16:14:00Z"
     },
     {
-      "title": "Could pied-à-terre tax find its way upstate? At least one New York legislator hopes so. - Gothamist",
-      "description": "State Sen. Pat Fahy wants to allow other local governments to opt into the pied-à-terre tax.",
-      "url": "https://gothamist.com/news/could-pied-%C3%A0-terre-tax-find-its-way-upstate-at-least-one-new-york-legislator-hopes-so",
-      "urlToImage": "https://api-prod.gothamist.com/images/356795/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-05-02T16:29:00Z"
+      "title": "Costco Brought Back a Beloved Ready-To-Eat Meal Kit—and It's So Much Cheaper Than Takeout - Allrecipes",
+      "description": "Costco brought back its ready-to-eat Gyro Kit that features seven classic gyro components: pita, shaved lamb, diced red onion, tomato and cucumber salad, romaine, feta, and tzatziki sauce. Meant to serve up to six, this build-it-yourself kit is great for smal…",
+      "url": "https://www.allrecipes.com/costco-gyro-kit-returns-11961801",
+      "urlToImage": "https://www.allrecipes.com/thmb/LrA3Nc-CoxCHkTpgmHodh8D63jI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-costco-batch-02-2026-3-ar-costco-adobe-2x1-9da71e9c9b704240bdc6e1a60d89bf81.jpg",
+      "source": "Allrecipes.com",
+      "publishedAt": "2026-05-03T15:00:00Z"
     },
     {
-      "title": "Gas prices are up across the country. Here's where you'll find the most expensive -- and cheapest -- gas - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/GMA/News/gas-prices-country-find-expensive-cheapest-gas/story?id\\\\u003d132569874",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-02T16:12:07Z"
-    },
-    {
-      "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup - CoinDesk",
-      "description": "The agreement necessitates firms restructure reward programs from a \"buy and hold\" to a \"buy and use\" model; however, CCI raised concerns over its broad prohibition.",
-      "url": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/fa4ef4f69f2473827719dbfa0c0d77d68f12da8c-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-02T16:03:19Z"
-    },
-    {
-      "title": "Elon Musk went to court. The judge wasn’t amused. - The Washington Post",
-      "description": "Elon Musk’s outsize reputation, provocative remarks and his friction with a federal judge have dominated the trial in his case against ChatGPT-maker OpenAI.",
-      "url": "https://www.washingtonpost.com/technology/2026/05/02/musk-altman-openai-trial/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6BIXXJVYJCVQ3M4T2IHDQ3ARIY.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-05-02T16:00:00Z"
-    },
-    {
-      "title": "Kevin Warsh Says Good Riddance. After Powell Goes, He Wants a Transformed Fed — the Market May Not Like It - Yahoo Finance",
-      "description": "For the better part of two decades, Wall Street operated under a simple assumption: when markets wobble, the Federal Reserve eventually steps in. That...",
-      "url": "https://247wallst.com/investing/2026/05/02/kevin-warsh-says-good-riddance-after-powell-goes-he-wants-a-transformed-fed-the-market-may-not-like-it/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gmk_Ae0MszciMuUZvlerCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/a667bc27e8167f0bb753f1974cdf2d2f",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-05-02T15:52:24Z"
-    },
-    {
-      "title": "California to begin ticketing driverless cars that violate traffic laws - BBC",
-      "description": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
-      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4bd8/live/9ece7410-4634-11f1-b14f-8905f097c360.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-05-02T15:31:40Z"
-    },
-    {
-      "title": "Berkshire Hathaway’s Cash Surges in Abel’s First Quarter as CEO - Bloomberg.com",
-      "description": "Berkshire Hathaway Inc.’s cash pile soared to its highest level ever and operating earnings jumped in Greg Abel’s first quarter as chief executive officer.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/berkshire-hathaway-s-cash-pile-surges-to-record-397-billion",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iChRSwJWO_zo/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-02T14:30:38Z"
-    },
-    {
-      "title": "Google is now a glorified venture-capital fund thanks to its SpaceX and Anthropic stakes - MarketWatch",
-      "description": "Google’s early investments in SpaceX and Anthropic look like some of the ‘most successful venture bets any public company has ever made,’ one expert says",
-      "url": "https://www.marketwatch.com/story/google-is-now-a-glorified-venture-capital-fund-thanks-to-its-spacex-and-anthropic-stakes-b13f3d56",
-      "urlToImage": "https://images.mktw.net/im-20273702/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-05-02T13:31:00Z"
-    },
-    {
-      "title": "Mortgage rates erased 9 months of gains, but buyers haven’t blinked - thestreet.com",
-      "description": "Rates climbed back from a three-year low. Contracts are rising. Something shifted in the American homebuyer's head.",
-      "url": "https://www.thestreet.com/real-estate/mortgage-rates-erased-9-months-of-gains-but-buyers-havent-blinked",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTcxNzEw/concepts-about-financial-interest-rates-and-home-loans-bank-interest-rate-concept-for-home-loans-interest-rate-concept-stockpack-gettyimages.jpg?io=1&profile=share16-9",
+      "title": "McDonald’s is eliminating a popular customer perk nationwide - thestreet.com",
+      "description": "The move is part of a larger strategy that could reshape the in-store experience for millions of customers.",
+      "url": "https://www.thestreet.com/restaurants/mcdonalds-is-eliminating-a-popular-customer-perk-nationwide-self-serving-soda",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTc1ODEw/mcdonalds-soda_ft_05012026.jpg?io=1&profile=share16-9",
       "source": "TheStreet",
-      "publishedAt": "2026-05-02T13:03:00Z"
+      "publishedAt": "2026-05-03T14:07:00Z"
     },
     {
-      "title": "Anthropic's most powerful AI model just exposed a crisis in corporate governance. Here's the framework every CEO needs. - Fortune",
-      "description": "Yale's Jeffrey Sonnenfeld and colleagues argue that Claude Mythos will break enterprise deployment in ways that cannot be undone—without key fixes.",
-      "url": "https://fortune.com/2026/05/02/agentic-ai-governance-framework-banking-healthcare-retail-supply-chain-yale-celi-sonnenfeld/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2256654494-e1777656958357.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-05-02T12:00:00Z"
-    },
-    {
-      "title": "'The final frontier': China just showed off its world-beating EV battery tech — as CATL, BYD and Sunwoda battle to take charging times down to only five minutes to remove the last barrier to electric adoption - TechRadar",
-      "description": "The race is on to cut EV charging times to under 10 minutes, as Beijing Auto Show reveals China’s need for speed",
-      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/light-years-ahead-of-the-rest-of-the-world-china-shows-off-the-future-of-ev-batteries-at-the-beijing-auto-show-as-catl-and-byd-race-to-cut-charging-times-down-to-just-five-minutes",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QmHmHXT4ZiBYF7t6vRiJvd-1920-80.jpg",
-      "source": "TechRadar",
-      "publishedAt": "2026-05-02T11:00:00Z"
+      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - The Motley Fool",
+      "description": "An impending shift at America's foremost financial institution spells trouble for Wall Street.",
+      "url": "https://www.fool.com/investing/2026/05/03/stock-market-face-fed-reserve-double-whammy-may-15/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F867809%2Ffed-chair-jerome-powell-economic-club-washington-speech.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-05-03T14:06:00Z"
     }
   ]
 }
