@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-05-06T08:39:06.359Z",
+  "updatedAt": "2026-05-07T08:46:09.317Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App - Yahoo Finance",
-      "description": "(Bloomberg) -- Apple Inc. is preparing a new “Create a Pass” feature for its next major iPhone software update, allowing users to build and customize their...",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-let-users-build-173410420.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/86xva0G8ealgfzRMHn_OPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/18a31b8df395e820373d9d041667c9cd",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-05T02:45:00Z"
+      "title": "Pixel 10’s May 2026 update prevents you from installing older Android versions - 9to5Google",
+      "description": "With the May 2026 update, rolling out now, Google is implementing an anti-rollback measure on Pixel 10 series devices that...",
+      "url": "http://9to5google.com/2026/05/05/google-pixel-10-update-anti-rollback-may-2026/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-05-05T21:55:00Z"
     },
     {
-      "title": "Nintendo Announces Switch 2 Pokémon Pokopia Bundle - Nintendo Life",
-      "description": "Launching this June down under",
-      "url": "https://www.nintendolife.com/news/2026/05/nintendo-announces-switch-2-pokemon-pokopia-bundle",
-      "urlToImage": "https://images.nintendolife.com/d8ef662d5208c/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-05-05T02:30:00Z"
-    },
-    {
-      "title": "35.4 Patch Notes - Blizzard Entertainment",
-      "description": "This patch features the debut of Class Sets, the return of Dual Class Arena, new event rewards, and more!",
-      "url": "https://playhearthstone.com/en-us/blog/24266874/",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/n1/N130B64H34UI1777312890948.jpg",
-      "source": "Playhearthstone.com",
-      "publishedAt": "2026-05-05T02:03:45Z"
-    },
-    {
-      "title": "007 First Light's Campaign Length Reportedly Revealed - Nintendo Life",
-      "description": "And there'll be plenty of replay value",
-      "url": "https://www.nintendolife.com/news/2026/05/007-first-lights-campaign-length-reportedly-revealed",
-      "urlToImage": "https://images.nintendolife.com/18d93b561af79/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-05-05T00:55:00Z"
-    },
-    {
-      "title": "Valve just imported 50 tons of game consoles in two days - The Verge",
-      "description": "Valve imported roughly 50 tons of “Game Consoles” into the United States in the two-day period between May 1st and April 30th, according to import records.",
-      "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+      "title": "Google Home’s Gemini AI can handle more complicated requests - The Verge",
+      "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant more complex, multi-step requests.",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-05-04T23:58:44Z"
+      "publishedAt": "2026-05-05T21:46:04Z"
     },
     {
-      "title": "Video offers clearest look yet at foldable iPhone Ultra dummy unit - 9to5Mac",
-      "description": "Unbox Therapy has published a 10-minute close-up look at a dummy unit that aligns with what the iPhone Ultra is increasingly expected to look like.",
-      "url": "https://9to5mac.com/2026/05/04/video-offers-clearest-look-yet-at-foldable-iphone-ultra-dummy-unit/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-05-04T23:15:00Z"
-    },
-    {
-      "title": "US government warns of severe CopyFail bug affecting major versions of Linux - TechCrunch",
-      "description": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
-      "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/lukas-NLSXFjl_nhc-unsplash.jpg?resize=1200,975",
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models - TechCrunch",
+      "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2026-05-04T22:21:32Z"
+      "publishedAt": "2026-05-05T20:56:41Z"
     },
     {
-      "title": "Bad news for OpenClaw stans: Apple’s Mac Mini now starts at $799 - theregister.com",
-      "description": ": The tiny desktop is no longer Apple's most affordable computer",
-      "url": "https://www.theregister.com/2026/05/04/mac_mini_ai_memory/",
-      "urlToImage": "https://regmedia.co.uk/2024/11/13/2024_mac_mini.jpg",
-      "source": "Theregister.com",
-      "publishedAt": "2026-05-04T21:46:00Z"
+      "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
+      "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon TCG vending machines across 28 states. That's a 27%",
+      "url": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone",
+      "urlToImage": "https://www.pokebeach.com/news/2026/05/Pokemon-TCG-Vending-Machine-Off.jpg",
+      "source": "Pokebeach.com",
+      "publishedAt": "2026-05-05T20:53:54Z"
     },
     {
-      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original - Ars Technica",
-      "description": "To be clear: Notepad++ has never released a macOS version.\"",
-      "url": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM-1152x648-1777928517.png",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-04T21:38:37Z"
+      "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens - MacRumors",
+      "description": "Apple has removed more desktop Macs from its online store as the global memory shortage continues. Mac mini models with 32GB and 64GB of RAM are no...",
+      "url": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/",
+      "urlToImage": "https://images.macrumors.com/t/tJKeDjZoS1Sv0B5V4ZVpGCeprP0=/2500x/article-new/2025/11/mac-mini-green-2.jpeg",
+      "source": "MacRumors",
+      "publishedAt": "2026-05-05T19:34:48Z"
     },
     {
-      "title": "What to Know About Sony’s $7.85 Million PlayStation Settlement - WIRED",
-      "description": "Are you eligible for a payout? Probably, but it might take a while and will likely be pretty small.",
-      "url": "https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/",
-      "urlToImage": "https://media.wired.com/photos/69f8eb00e8aff66a9d072879/191:100/w_1280,c_limit/What-PSN-Lawsuit-Means-for-You-Gear-1252378726.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-05-04T21:22:00Z"
+      "title": "The Star Wars: Fate of the Old Republic team has several KotOR and Mass Effect devs from BioWare's golden years - Windows Central",
+      "description": "Star Wars: Fate of the Old Republic director Casey Hudson announced the game's lead dev team on Star Wars Day, and it's full of KotOR and Mass Effect talent.",
+      "url": "https://www.windowscentral.com/gaming/star-wars-fate-of-the-old-republic-announced-its-dev-team-and-its-full-of-mass-effect-and-kotor-bioware-talent",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/L2YeSh7zFbQFuyoNjmfAV6-2560-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2026-05-05T18:56:58Z"
     },
     {
-      "title": "Call Of Duty Is Finally Ditching PS4 And Xbox One Just As New Consoles Are Pricier Than Ever - Kotaku",
-      "description": "Activision confirmed the shift after 12 years of supporting last-gen platforms",
-      "url": "https://kotaku.com/call-of-duty-is-finally-ditching-ps4-and-xbox-one-just-as-new-consoles-are-pricier-than-ever-2000693036",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/05/ps4-xbox-one.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-05-04T21:15:59Z"
+      "title": "IGN Entertainment releases internal data as public report, developed by Kantar and UC Berkeley - GamesIndustry.biz",
+      "description": "Generations in Play report highlights differences in game consumption habits, with Gen X as completionist Google users and Gen Z committed to social media",
+      "url": "https://www.gamesindustry.biz/ign-entertainment-releases-internal-data-as-public-report-developed-by-kantar-and-uc-berkeley",
+      "urlToImage": "https://assetsio.gnwcdn.com/gip-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-05-05T18:53:26Z"
     },
     {
-      "title": "Fallout Co-Creator Says Some Players Watch Influencers So They Can Be Told What to Think About Games - IGN",
-      "description": "Fallout co-creator Tim Cain has shared his fear that some gamers are watching influencers just so they can be \"handed an opinion from the online channel they're watching.\"",
-      "url": "https://www.ign.com/articles/fallout-co-creator-says-some-players-watch-influencers-so-they-can-be-told-what-to-think-about-games",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/04/08/vault-boy-1444741684893-1712594384409.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN",
+      "description": "The hype for GTA 6 has led fans down some excessively deep rabbit holes in an effort to predict the game's marketing cycle, most recently when Trailer 3 will be released. This latest fan theory, though, comes direct from the stars.",
+      "url": "https://www.ign.com/articles/gta-6-fan-spends-3-months-charting-the-planetary-positions-for-every-rockstar-trailer-drop-since-2007-to-predict-trailer-3-release-date",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/05/vice-city-1778003331599.JPG?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-05-04T21:00:09Z"
+      "publishedAt": "2026-05-05T18:02:06Z"
     },
     {
-      "title": "Lunar Resource-Seeking Technologies - NASA (.gov)",
-      "description": "To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3",
-      "url": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/",
-      "urlToImage": "https://images-assets.nasa.gov/image/art002e009287/art002e009287~large.jpg",
-      "source": "NASA",
-      "publishedAt": "2026-05-04T20:32:47Z"
+      "title": "LG’s Third-Gen Tandem OLED Slashes Power Draw By 18% While Doubling Durability, Hitting 1200 Nits And 15,000-Hour Lifespan - Wccftech",
+      "description": "LG Display unveils 3rd-gen Tandem OLED technology, cutting power consumption by 18% and enhancing durability, plus a 5K OLED panel with 221 PPI.",
+      "url": "https://wccftech.com/lg-introduces-third-gen-tandem-oled-panel-and-5k-oled-panel/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/05/LG-3rd-gen-Tandem-OLED.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2026-05-05T17:57:00Z"
     },
     {
-      "title": "Uproar Over Grace's DLSS 5 Makeover Proves Original Design Was Right, Says Resident Evil Requiem Producer - GameSpot",
-      "description": "Capcom originally praised DLSS 5 and is still aiming to support it with future titles.",
-      "url": "https://www.gamespot.com/articles/uproar-over-graces-dlss-5-makeover-proves-original-design-was-right-says-resident-evil-requiem-producer/1100-6539772/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15853545/4691741-7267212579-Image.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2026-05-04T20:29:21Z"
-    },
-    {
-      "title": "Pokémon Scalpers Selling Limited-Edition Pop-Tarts For Ridiculous Prices - Nintendo Life",
-      "description": "Pop tart-lio",
-      "url": "https://www.nintendolife.com/news/2026/05/pokemon-scalpers-selling-limited-edition-pop-tarts-for-ridiculous-prices",
-      "urlToImage": "https://images.nintendolife.com/e938ffafde74e/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-05-04T20:00:00Z"
-    },
-    {
-      "title": "iPhone 18 Pro: Six new features are coming later this year - 9to5Mac",
-      "description": "Here are six new features rumored for the iPhone 18 Pro and Pro Max, which are expected to launch this fall.",
-      "url": "https://9to5mac.com/2026/05/04/iphone-18-pro-six-new-features-are-coming-later-this-year/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-05-04T19:52:00Z"
-    },
-    {
-      "title": "Reggie Fils-Aimé Tells Devs To Be Wary Of Companies With Recent Mass Layoffs - Kotaku",
-      "description": "'What it says is, they're probably willing to do it again.'",
-      "url": "https://kotaku.com/nintendo-of-america-former-president-companies-mass-layoffs-red-flag-2000693008",
-      "urlToImage": "https://kotaku.com/app/uploads/2022/05/073777ffd5e40d1db6f9a73767a3ffd6-1200x675.jpg",
+      "title": "Lego Batman's Developers Are Trying To Do It All - Kotaku",
+      "description": "Lego Batman has to distill decades of comic book iconography into a rewarding but breezy adventure",
+      "url": "https://kotaku.com/how-the-developers-behind-lego-batman-legacy-of-the-dark-knight-are-building-off-of-batman-arkham-to-make-the-most-ambitious-lego-game-yet-2000693271",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/05/batman-lego--1200x675.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-05-04T19:34:28Z"
+      "publishedAt": "2026-05-05T17:34:09Z"
     },
     {
-      "title": "Sold Out? Gamers Struggle to Buy New Steam Controller, Urge Valve to Fix Its Site - PCMag",
-      "description": "Thirty minutes after orders went live, would-be buyers faced 'sold out' alerts on Valve's website as scalpers quickly listed the $99 device for up to $700 on eBay.",
-      "url": "https://www.pcmag.com/news/sold-out-gamers-struggle-to-buy-new-steam-controller-urge-valve-to-fix",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/00x44tvBoXdDQo08H2NDEb3-1.fit_lim.size_1200x630.v1777919170.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2026-05-04T19:32:04Z"
+      "title": "Maxis Reassures Players About The Sims 4 Roadmap In The Months Ahead - Sims Community",
+      "description": null,
+      "url": "https://simscommunity.info/2026/05/05/sims-4-roadmap-maxis-confirms-2026/",
+      "urlToImage": null,
+      "source": "Simscommunity.info",
+      "publishedAt": "2026-05-05T17:02:05Z"
     },
     {
-      "title": "Borderlands Studio Head Responds After Fans Rip Him For \"AI Slop\" Selfie - GameSpot",
-      "description": "\"The idea of an AI even having an identity is nonsense.\"",
-      "url": "https://www.gamespot.com/articles/borderlands-studio-head-responds-after-fans-rip-him-for-ai-slop-selfie/1100-6539764/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4691735-screenshot2026-05-04at11.49.08%E2%80%AFam.png",
-      "source": "GameSpot",
-      "publishedAt": "2026-05-04T19:25:48Z"
+      "title": "CI Games focuses on more risqué female characters in Lords of the Fallen 2 - Gamereactor UK",
+      "description": "The Polish studio (in)famously stated last year that they are ending &quot;political correctness and filtering&quot;, and here is the result.",
+      "url": "https://www.gamereactor.eu/ci-games-focuses-on-more-risque-female-characters-in-lords-of-the-fallen-2-1714603/",
+      "urlToImage": "https://www.gamereactor.eu/media/59/lordsfallen2_4885933b.jpg",
+      "source": "Gamereactor UK",
+      "publishedAt": "2026-05-05T16:59:52Z"
     },
     {
-      "title": "Take-Two CEO Says ‘Grand Theft Auto VI’ Expectations Are ‘Terrifying’ - Bloomberg.com",
-      "description": "The upcoming video game is expected to be one of the biggest entertainment releases of all time",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-04/take-two-ceo-says-grand-theft-auto-vi-expectations-are-terrifying",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRI2pJ8DdRNg/v3/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-04T19:16:17Z"
+      "title": "Valve Says Steam Controller Sold Out 'Faster Than We Anticipated' as Scalpers Cash In - IGN",
+      "description": "Valve Issues Steam Controller Stock Update",
+      "url": "https://www.ign.com/articles/valve-says-steam-controller-sold-out-faster-than-we-anticipated-as-scalpers-cash-in",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/04/24/steamcontroller-review-blogroll-1777071545201.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-05-05T16:49:24Z"
+    },
+    {
+      "title": "iPhone 18 Pro Rumored to Keep Aluminum Finish Amid Durability Complaints - MacRumors",
+      "description": "The iPhone 18 Pro will reportedly carry over the same anodized aluminum finish introduced with the iPhone 17 Pro, despite concerns from some users...",
+      "url": "https://www.macrumors.com/2026/05/05/iphone-18-pro-to-keep-finish-amid-complaints/",
+      "urlToImage": "https://images.macrumors.com/t/DaKqFvrp9SeA-PSVk2VPrQ7QXog=/2500x/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-05-05T16:41:27Z"
+    },
+    {
+      "title": "Multiplayer kaiju action game BeastLink announced for PS5, Xbox Series, and PC - Gematsu",
+      "description": "Grove Street Games has announced BeastLink, a multiplayer kaiju action game for PlayStation 5, Xbox Series, and PC (Steam). It will launch in Early Access this summer. A PC closed beta test will be…",
+      "url": "https://www.gematsu.com/2026/05/multiplayer-kaiju-action-game-beastlink-announced-for-ps5-xbox-series-and-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/05/BeastLink-Ann_05-05-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-05-05T16:24:40Z"
+    },
+    {
+      "title": "RCS Encryption Ready to Rollout Between iPhones and Android - Droid Life",
+      "description": "Back in February, Google and Apple confirmed that they had begun testing end-to-end encryption (E2EE) through RCS when messages were sent between an iPhone and an Android device. That was all happening as a part of iOS 26.4 beta builds, but it now appears tha…",
+      "url": "https://www.droid-life.com/2026/05/05/rcs-encryption-ready-to-rollout-between-iphones-and-android/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2025/10/Pixel-10-Pro-iPhone-17-Pro-5-1200x628.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-05-05T15:42:10Z"
+    },
+    {
+      "title": "Video: Nintendo Showcases Its Biggest Switch 2 Games In New Ad - Nintendo Life",
+      "description": "Power up your play",
+      "url": "https://www.nintendolife.com/news/2026/05/video-nintendo-showcases-its-biggest-switch-2-games-in-new-ad",
+      "urlToImage": "https://images.nintendolife.com/3c050359fb512/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-05-05T15:30:00Z"
+    },
+    {
+      "title": "OpenAI is reportedly launching a phone for ChatGPT - The Verge",
+      "description": "OpenAI is reportedly planning to launch a phone powered by a custom MediaTek Dimensity 9600, with a potential launch sometime next year.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T14:54:00Z"
     }
   ]
 }
