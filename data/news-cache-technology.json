@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-05-12T08:51:07.361Z",
+  "updatedAt": "2026-05-13T09:16:51.089Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware - BleepingComputer",
-      "description": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions t…",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-05-11T06:19:24Z"
-    },
-    {
-      "title": "Meet Lamborghini's Most Powerful Convertible Ever: Fenomeno Roadster - Motor1.com",
-      "description": "Lamborghini has deleted the Fenomeno's roof for a Roadster version, of which only 15 cars will be built. The open-top supercar is nearly as fast as the coupe",
-      "url": "https://www.motor1.com/news/795292/lamborghini-fenomeno-roadster/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/Oo986Y/s1/lamborghini-fenomeno-roadster.jpg",
-      "source": "Motor1 ",
-      "publishedAt": "2026-05-11T04:25:43Z"
-    },
-    {
-      "title": "Survey Sunday: How much home battery backup do YOU need? - Electrek",
-      "description": "We asked you, our brilliant Electrek readers, what you were looking for in your home battery system. Here's what you said.",
-      "url": "http://electrek.co/2026/05/10/survey-sunday-how-much-home-battery-backup-do-you-need/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/04/BLUETTI-FridgePower-Home-Battery-Backup-4-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-05-11T01:55:00Z"
-    },
-    {
-      "title": "Nintendo Shares Tumble After Lackluster Switch 2 Games Outlook - Bloomberg.com",
-      "description": "Nintendo Co.’s shares plunged the most in three months after the company forecast hardware and software sales declines and warned that the soaring cost of memory chips was hitting margins.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/nintendo-shares-tumble-after-lackluster-switch-2-games-outlook",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieRaLK2SeZ8s/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-11T01:51:00Z"
-    },
-    {
-      "title": "Does iPhone need its own MacBook Neo moment? - 9to5Mac",
-      "description": "Apple debuted iPhone 16e last year at its $599 price point – and it’s been an okay phone since. It...",
-      "url": "https://9to5mac.com/2026/05/10/should-apple-make-an-even-cheaper-iphone-neo-to-compete/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iPhone-17e-11-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-05-11T01:39:00Z"
-    },
-    {
-      "title": "Porsche knocks off world’s fastest car at the Nürburgring - Torque cafe",
-      "description": "The Nürburgring may be heaven for the likes of the Porsche 911 GT3 and GT3 RS, but the Taycan electric",
-      "url": "https://torquecafe.com/porsche-news-taycan-nurburgring-ev-record/",
-      "urlToImage": "https://torquecafe.com/wp-content/uploads/2026/05/porsche-taycan-turbo-gt-manthey-kit-2.jpg",
-      "source": "Torquecafe.com",
-      "publishedAt": "2026-05-11T00:13:09Z"
-    },
-    {
-      "title": "Leaked video shows Galaxy Z Fold 8 and Fold 8 Wide compromises - PhoneArena",
-      "description": null,
-      "url": "https://www.phonearena.com/news/galaxy-z-fold-8-fold-8-wide_id180254",
-      "urlToImage": null,
-      "source": "PhoneArena",
-      "publishedAt": "2026-05-10T22:36:12Z"
-    },
-    {
-      "title": "Rumour: Capcom insider spills the beans - My Nintendo News",
-      "description": "A Capcom insider who appears to be trusted by Resident Evil-insider Dusk Golem has spilled the beans on what’s been happening at the Japanese developer. The biggest news is that a remake of the…",
-      "url": "https://mynintendonews.com/2026/05/10/rumour-capcom-insider-spills-the-beans/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/05/devil_may_cry.jpg?fit=1273%2C659&ssl=1",
-      "source": "My Nintendo News",
-      "publishedAt": "2026-05-10T21:30:23Z"
-    },
-    {
-      "title": "Get ready for the whisper-filled office of the future - TechCrunch",
-      "description": "How will work setups change if we spend more and more time talking to our computers?",
-      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks - TechCrunch",
+      "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like…",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879",
       "source": "TechCrunch",
-      "publishedAt": "2026-05-10T21:15:30Z"
+      "publishedAt": "2026-05-12T04:52:35Z"
     },
     {
-      "title": "Forza Horizon 6 Leak Reportedly Drops 155 GB of Content Online - Insider Gaming",
-      "description": "In what looks like an accidental unencrypted upload, Playground Games has inadvertently leaked the entire Forza Horizon 6 build on Steam.",
-      "url": "https://insider-gaming.com/forza-horizon-6-leak-drops-155-gb-content/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/05/forza-horizon-6-1.jpg",
-      "source": "Insider-gaming.com",
-      "publishedAt": "2026-05-10T20:23:13Z"
+      "title": "The Legend Of Zelda: Tears Of The Kingdom 'Mineru's Construct' amiibo Is Finally Getting Released - Nintendo Life",
+      "description": "Pre-orders for this amiibo with \"articulated arms\" are live",
+      "url": "https://www.nintendolife.com/news/2026/05/the-legend-of-zelda-tears-of-the-kingdom-minerus-construct-amiibo-is-finally-getting-released",
+      "urlToImage": "https://images.nintendolife.com/f851b08766014/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-05-12T02:03:21Z"
     },
     {
-      "title": "‘May 11 Rollout’—Samsung Confirms Free Android Upgrade - Forbes",
-      "description": "One UI 8.5 is almost here — Samsung owners finally get Galaxy S26 security updates.",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/05/10/may-11-rollout-samsung-confirms-free-android-upgrade/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a00e3bb21e239ba72c863f3/0x0.jpg?format=jpg&crop=1875,1251,x105,y1021,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-05-10T20:03:39Z"
-    },
-    {
-      "title": "Fitbit Air has status light & double-tap gesture, gets Whoop size comparison - 9to5Google",
-      "description": "The hardware design of the Fitbit Air is quite straightforward, but there are two features that aren’t particularly obvious...",
-      "url": "http://9to5google.com/2026/05/10/fitbit-air-whoop-size/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Fitbit-Air-Lavender-Performance-Loop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-05-10T19:46:00Z"
-    },
-    {
-      "title": "Here’s how Apple could make its Hide My Email feature even better for iCloud+ users - 9to5Mac",
-      "description": "Introduced in iOS 15, Hide My Email is an iCloud+ feature that does exactly what it says on the tin...",
-      "url": "https://9to5mac.com/2026/05/10/apple-hide-my-email-icloud-feature-requests-improvements/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "WhatsApp beta previews Liquid Glass changes for message reactions, more - 9to5Mac",
+      "description": "WhatsApp is continuing its Liquid Glass redesign on iOS, with the latest TestFlight build revealing work on updated message reactions and context menus.",
+      "url": "https://9to5mac.com/2026/05/11/whatsapp-beta-previews-liquid-glass-changes-for-message-reactions-more/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-05-10T19:16:00Z"
+      "publishedAt": "2026-05-12T00:22:00Z"
     },
     {
-      "title": "I built a working Android app with no coding experience using Google's free tools - MakeUseOf",
-      "description": "The free version of Google's Antigravity IDE is all you need to start making your own Android apps — here's how.",
-      "url": "https://www.makeuseof.com/i-built-working-android-app-no-coding-experience-free-tools/",
-      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/claude-and-antigravity-next-to-each-other.jpg?w=1600&h=900&fit=crop",
-      "source": "MakeUseOf",
-      "publishedAt": "2026-05-10T19:00:18Z"
-    },
-    {
-      "title": "PlayStation Emulator Devs Beg People To Stop Spamming AI Code - Kotaku",
-      "description": "The team behind RPCS3 suggests that vibe-coders \"learn how to debug and code\" instead of \"generating slop that you don't understand\"",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-05-10T18:04:26Z"
-    },
-    {
-      "title": "Guerrilla Games co-founder developing European game engine to rival Unreal and Unity - Eurogamer",
-      "description": "Guerrilla Games co-founder and former Epic tech director Arjan Brussee is working to build a new game engine as an \"Eur…",
-      "url": "https://www.eurogamer.net/guerrilla-games-co-founder-developing-european-game-engine-to-rival-unreal-and-unity",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-05-10-at-18.49.55.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-05-10T17:53:34Z"
-    },
-    {
-      "title": "The Five Best Pinball Machines For Beginners - Kotaku",
-      "description": "Easy on you and your pocket change, here are some accessible machines for those who aspire to become a pinball wizard.",
-      "url": "https://kotaku.com/the-five-best-pinball-machines-for-beginners-medieval-madness-arcade-2000694658",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/05/jackbot.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-05-10T17:00:36Z"
-    },
-    {
-      "title": "Multimaterial SLA Printer Will Make Your Head Spin - Hackaday",
-      "description": "For the last few years, the must-have feature that companies are competing to show off on their filament deposition 3D printers is multi-material printing. Be it tool swapping or a material-changin…",
-      "url": "https://hackaday.com/2026/05/10/multimaterial-sla-printer-will-make-your-head-spin/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/05/resin-mmu-feat-e1778260524559.jpg",
-      "source": "Hackaday",
-      "publishedAt": "2026-05-10T17:00:00Z"
-    },
-    {
-      "title": "Sunday Preview – March out with the Cities of Sigmar - Warhammer Community",
-      "description": "Massive Warhammer Age of Sigmar pre-orders incoming, alongside Made to Order classics.",
-      "url": "https://www.warhammer-community.com/articles/9idi5uub/sunday-preview-march-out-with-the-cities-of-sigmar",
-      "urlToImage": "https://assets.warhammer-community.com/sundaypreview-may10-1-feature-azq89fzpp2.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-05-10T16:58:31Z"
-    },
-    {
-      "title": "macOS 27: Two More Changes Leaked Ahead of WWDC Next Month - MacRumors",
-      "description": "macOS 27 will have a \"slight redesign\" compared to macOS Tahoe, along with an option to automatically group tabs in Safari, according to...",
-      "url": "https://www.macrumors.com/2026/05/10/two-macos-27-changes-rumored/",
-      "urlToImage": "https://images.macrumors.com/t/r3tq7h9_jvAV0oDVs65IK2RpVo4=/2500x/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
+      "title": "iOS 26.5 Features: Everything New in iOS 26.5 - MacRumors",
+      "description": "Apple released iOS 26.5 after a few months of beta testing, and while it doesn't have the Siri features we were hoping for since those are being...",
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-features/",
+      "urlToImage": "https://images.macrumors.com/t/nGk7H3zYbX0TnHuaiBpWfc6f4c8=/2500x/article-new/2026/03/iOS-26.5-Glass-Feature-Purple.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-05-10T16:45:48Z"
+      "publishedAt": "2026-05-12T00:09:01Z"
+    },
+    {
+      "title": "Linux bitten by second severe vulnerability in as many weeks - Ars Technica",
+      "description": "Production-version patches are coming online and should be installed pronto.",
+      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-05-11T22:28:19Z"
+    },
+    {
+      "title": "Forza Horizon 6 is being played early, though would-be pirates are getting their accounts slammed with bans - Eurogamer",
+      "description": "Forza Horizon 6 files were accidentally uploaded to Steam, leading to the game getting cracked. Early players are getting accounts banned.",
+      "url": "https://www.eurogamer.net/forza-horizon-6-leak-account-banned",
+      "urlToImage": "https://assetsio.gnwcdn.com/forza-horizon-6-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-05-11T21:36:27Z"
+    },
+    {
+      "title": "Everett-based Funko is hit with a new lawsuit - The Seattle Times",
+      "description": "A new lawsuit claims Everett-based Funko, known for its Pop! vinyl figures, misleads users about how their data will be used.",
+      "url": "https://www.seattletimes.com/business/funko-accused-of-collecting-user-data-without-permission/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/05/05112026_Funko_tzr_111222.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2026-05-11T21:20:28Z"
+    },
+    {
+      "title": "Valve Has a Plan to Stop Scalpers From Botting the Steam Machine - Gizmodo",
+      "description": "It's what Valve should have done with the Steam Controller from the start.",
+      "url": "https://gizmodo.com/valve-has-a-plan-to-stop-scalpers-from-botting-the-steam-machine-2000757147",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-05-11T19:30:53Z"
+    },
+    {
+      "title": "You Need a PS5 Pro to Play 007 First Light at Its Best on Console - Push Square",
+      "description": "First clip of PS5 Pro gameplay revealed",
+      "url": "https://www.pushsquare.com/news/2026/05/you-need-a-ps5-pro-to-play-007-first-light-at-its-best-on-console",
+      "urlToImage": "https://images.pushsquare.com/e858f93601daf/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-05-11T18:25:22Z"
+    },
+    {
+      "title": "Free Uncharted 4 Theme and Avatars Adventure to PS5, But You'll Need These Codes - Push Square",
+      "description": "Treasured memories",
+      "url": "https://www.pushsquare.com/news/2026/05/free-uncharted-4-theme-and-avatars-adventure-to-ps5-but-youll-need-these-codes",
+      "urlToImage": "https://images.pushsquare.com/663ec0621b1c1/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-05-11T17:30:00Z"
+    },
+    {
+      "title": "MTG Arena Announcements – May 11, 2026 - Magic: The Gathering",
+      "description": "Catch up with the latest info and events on MTG Arena.",
+      "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-may-11-2026",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/1qqHUJ9cKYenQosEqhXIPD/968f0dfadd6c9b3841beb7a93058e210/en_articles_archive_magic-digital_mtg-arena-announcements-september-14-2022-meta-image.jpeg",
+      "source": "Wizards.com",
+      "publishedAt": "2026-05-11T17:16:50Z"
+    },
+    {
+      "title": "Heroes of the Storm Balance Patch Notes - May 11, 2026 - Blizzard News",
+      "description": "We’ve just released a patch to the live servers in order to apply some balance and bug fixes.",
+      "url": "https://news.blizzard.com/en-us/article/24276959/heroes-of-the-storm-balance-patch-notes-may-11-2026",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/xt/XTH0MPVCASSE1623289345963.jpg",
+      "source": "Blizzard.com",
+      "publishedAt": "2026-05-11T17:00:00Z"
+    },
+    {
+      "title": "‘Directive 8020’ Review – Supermassive’s Derivative But Effective Sci-Fi Horror Evolution - Bloody Disgusting",
+      "description": "Since 2015’s Until Dawn, Supermassive has made a name for themselves by transforming the B-movie thrills into choice-based gameplay. Their games were never the deepest experiences narratively or mechanically, but there’s a distinct charm to them, capturing th…",
+      "url": "https://bloody-disgusting.com/video-games/3950725/directive-8020-review-provides-plenty-of-sci-fi-horror-scares/",
+      "urlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2026/05/directive8020.jpg?resize=900%2C580&ssl=1",
+      "source": "Bloody Disgusting",
+      "publishedAt": "2026-05-11T16:53:11Z"
+    },
+    {
+      "title": "Battlestar Galactica: Scattered Hopes review - an iffy take on the sci-fi series that had me contending with Cylons, sabotage, and STDs - Rock Paper Shotgun",
+      "description": "Battlestar Galactica: Scattered Hopes is an engaging roguelike that quickly shows itself to be a bit robotic",
+      "url": "https://www.rockpapershotgun.com/battlestar-galactica-scattered-hopes-review-an-iffy-take-on-the-sci-fi-series-that-had-me-contending-with-cylons-sabotage-and-stds",
+      "urlToImage": "https://assetsio.gnwcdn.com/battlestar-galactica-scattered-baststars.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Rock Paper Shotgun",
+      "publishedAt": "2026-05-11T16:49:33Z"
+    },
+    {
+      "title": "Canon Offers Another Cryptic Look at a Mysterious New Camera - PetaPixel",
+      "description": "Canon offers another cryptic teaser.",
+      "url": "https://petapixel.com/2026/05/11/canon-offers-another-cryptic-look-at-a-mysterious-new-camera/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/05/Canon-Teaser-May-2026-PetaPixel-Cover.jpg",
+      "source": "PetaPixel",
+      "publishedAt": "2026-05-11T16:26:59Z"
+    },
+    {
+      "title": "Google stopped a zero-day hack that it says was developed with AI - The Verge",
+      "description": "Google’s Threat Intelligence Group has identified the first evidence of a zero-day exploit found and developed using AI.",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-11T16:09:42Z"
+    },
+    {
+      "title": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams - Rocket League ®",
+      "description": "Net sales from the Paris Major Bundle will go directly to competing players and the teams that got them there.",
+      "url": "https://www.rocketleague.com/news/new-rocket-league-paris-major-bundle-all-net-sales-going-to-competing-players-and-teams",
+      "urlToImage": "https://cms-assets.unrealengine.com/cmkr1i7c9047e07n0es5291ez/cmow0vjxp1i4v07ohky8im3rc",
+      "source": "Rocketleague.com",
+      "publishedAt": "2026-05-11T16:08:22Z"
+    },
+    {
+      "title": "11 Reasons to Wait for the iPhone 18 Pro - MacRumors",
+      "description": "We're only four months out from the launch of Apple's premium next-generation smartphone lineup, and while we're not expecting a sea...",
+      "url": "https://www.macrumors.com/2026/05/11/reasons-to-wait-for-the-iphone-18-pro-max/",
+      "urlToImage": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-05-11T16:01:36Z"
+    },
+    {
+      "title": "May Merch Store Updates - Riftbound",
+      "description": "The second Unleashed Riot Merch store drawing is next week and we’re here with updates on it.",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/may-merch-store-updates/",
+      "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/7b88586086b8a6e7f5216b9f19c99e176aa7e87c-1630x917.jpg?accountingTag=RB?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "source": "Leagueoflegends.com",
+      "publishedAt": "2026-05-11T16:00:00Z"
     }
   ]
 }
