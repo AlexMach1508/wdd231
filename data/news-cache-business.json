@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2026-05-19T10:02:27.121Z",
+  "updatedAt": "2026-05-20T09:51:35.760Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "China’s Economy Slows Sharply as Investment Resumes Declines - Bloomberg.com",
-      "description": "China’s growth slowed across the board in April with investment resuming declines, calling into question the government’s reluctance to add stimulus to the economy as a global energy crisis hits factories and consumers across the world.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/china-economy-slows-sharply-as-investment-returns-to-contraction",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i81iH2ykura8/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-18T09:36:47Z"
+      "title": "Stock futures fall, putting the S&P 500 and Nasdaq on pace for third losing day in a row: Live updates - CNBC",
+      "description": "Both the S&P 500 and Nasdaq Composite closed lower for their second sessions in a row on Monday.",
+      "url": "https://www.cnbc.com/2026/05/18/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302315-17779943522026-05-05t151734z_1572810646_rc213lab5noq_rtrmadp_0_usa-stocks.jpeg?v=1777994486&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-05-19T10:44:00Z"
     },
     {
-      "title": "Global stocks retreat and bonds wilt as oil climbs - Yahoo Finance",
-      "description": "By Wayne Cole and Samuel Indyk LONDON, May 18 (Reuters) - Global share markets slipped on Monday as fresh drone attacks in the Gulf shoved oil prices and...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/asia-shares-slip-oil-prices-002634344.html",
-      "urlToImage": "https://s.yimg.com/os/en/reuters.com/e607e2b0a07328e1bce79f670b7b6fb1",
+      "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5% - CNBC",
+      "description": "Home Depot beat Wall Street's expectations on the top and bottom lines, even as some shoppers pulled back on larger projects.",
+      "url": "https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108305557-1778590911098-gettyimages-2267652248-260318_hd_signs_147.jpeg?v=1779125458&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-05-19T10:00:59Z"
+    },
+    {
+      "title": "SpaceX IPO Adds Second Musk Stock. It’s a Problem for Tesla - Yahoo Finance",
+      "description": "(Bloomberg) -- For years, there was only one way for mom-and-pop investors to buy into Elon Musk’s vision: shares of Tesla Inc. That’s about to change — and ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-add-another-musk-173745847.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n24mf2nTv3JGa5pskAsTtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODM-/https://media.zenfs.com/en/bloomberg_holding_pen_162/dfbacb77074d258d7da14855395724d6",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-18T09:00:37Z"
+      "publishedAt": "2026-05-19T07:24:10Z"
     },
     {
-      "title": "Buckling global bonds in focus; Samsung shares jump - what’s moving markets - Investing.com",
-      "description": "Buckling global bonds in focus; Samsung shares jump - what’s moving markets",
-      "url": "https://www.investing.com/news/economy-news/buckling-global-bonds-in-focus-samsung-shares-jump--whats-moving-markets-4694782",
-      "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL5A120_L.jpg",
+      "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns - CNBC",
+      "description": "Standard Chartered will trim corporate functions roles and target a more than 20% increase in income per employee by 2028 as it seeks stronger returns.",
+      "url": "https://www.cnbc.com/2026/05/19/standard-chartered-job-cuts-corporate-roles-profit-targets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107325114-1698625752227-gettyimages-1615018934-HK_STANDARD_CHARTERED.jpeg?v=1779165139&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-05-19T04:27:02Z"
+    },
+    {
+      "title": "US Yields Flirting With 2007 Highs Entice and Divide Investors - Bloomberg.com",
+      "description": "A surge in longer-maturity US Treasury yields is testing the resolve of global bond investors torn between the possibility of locking in the rates near to the highest levels in decades and the risk of an even greater selloff.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-19/us-yields-flirting-with-2007-highs-entice-and-divide-investors",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i79ajz_NG_qY/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-19T03:49:00Z"
+    },
+    {
+      "title": "Asia stocks mixed as tech losses, Iran fears weigh; Japan Q1 GDP beats forecasts - Investing.com",
+      "description": "Asia stocks mixed as tech losses, Iran fears weigh; Japan Q1 GDP beats forecasts",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-tech-losses-iran-fears-weigh-japan-q1-gdp-beats-forecasts-4697427",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB0I03C_L.jpg",
       "source": "Investing.com",
-      "publishedAt": "2026-05-18T08:22:36Z"
+      "publishedAt": "2026-05-19T03:46:23Z"
     },
     {
-      "title": "Kioxia Shares Hit New High After AI Fuels Huge Profit Increase - Yahoo Finance",
-      "description": "(Bloomberg) -- Kioxia Holdings Corp.’s shares rose 16% to a new high on Monday, as buy orders flooded in after the memory supplier reported soaring profit...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kioxia-shares-awash-buy-orders-003815592.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2bDg6YmMXlBaqkvxI1BORA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjM-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7edeb5ad8c32f5248d6704c465760432",
+      "title": "Musk loses blockbuster OpenAI suit as jury says too late - Yahoo Finance",
+      "description": "A federal jury ruled Monday that billionaire Elon Musk waited too long to sue OpenAI and its co-founders, delivering a decisive victory to the ChatGPT...",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/musk-loses-blockbuster-openai-suit-180225629.html",
+      "urlToImage": "https://s.yimg.com/os/en/afp.com/b8bda85052a5be1c3aed5f4d4ec66467",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-18T07:01:20Z"
+      "publishedAt": "2026-05-19T02:25:00Z"
     },
     {
-      "title": "President Trump on being America's CEO-in-chief, making 'deals that no normal person would make' - Fortune",
-      "description": null,
-      "url": "https://fortune.com/2026/05/18/trump-interview-economic-strategy-tariffs-ai-dealmaking-china-summit/",
-      "urlToImage": null,
-      "source": "Fortune",
-      "publishedAt": "2026-05-18T07:00:00Z"
+      "title": "Trump’s Fed pick to be sworn in at the White House, not the usual venue - The Washington Post",
+      "description": "Trump will attend Kevin Warsh's swearing-in at the White House, the first such ceremony there since Reagan hosted Alan Greenspan in 1987.",
+      "url": "https://www.washingtonpost.com/business/2026/05/18/trump-host-swearing-in-new-fed-chief-break-recent-tradition/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/565ZBRPSFPETGX3OUTIMMZNPYQ.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-05-19T02:15:06Z"
     },
     {
-      "title": "Billionaire Gina Rinehart Bets $100 Million on US Defense Stocks - Bloomberg",
-      "description": "Gina Rinehart, Australia’s richest person, invested almost $100 million in US weapons-makers and also backed two mining companies during the first quarter of this year.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/billionaire-gina-rinehart-bets-100-million-on-us-defense-stocks",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqlQhGzRSUJo/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-18T06:12:00Z"
+      "title": "Mayor Mamdani Meets With JPMorgan’s Dimon - WSJ",
+      "description": "The New York City mayor also met with Goldman Sachs’s David Solomon on Monday",
+      "url": "https://www.wsj.com/finance/mayor-mamdani-meets-with-jpmorgans-dimon-d957b59a",
+      "urlToImage": "https://images.wsj.net/im-60082502/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-19T02:11:00Z"
     },
     {
-      "title": "China is not Japan - Financial Times",
-      "description": "But its real estate market has been doing a darn good impression",
-      "url": "https://www.ft.com/content/381fa2a2-cb54-4d2d-bcf0-c05dd493264d",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31e5dc96-29c8-4782-9b74-478f2a6343a8.jpg?source=next-barrier-page",
+      "title": "Blackstone Announces Joint Venture with Google to Create New TPU Cloud - Blackstone",
+      "description": "Press releases, portfolio company news, and timely updates on our business.",
+      "url": "https://www.blackstone.com/news/press/blackstone-announces-joint-venture-with-google-to-create-new-tpu-cloud/",
+      "urlToImage": "https://www.blackstone.com/wp-content/uploads/sites/2/2022/04/Blackstone-Logo-Tile-e1681304816586.png",
+      "source": "Blackstone.com",
+      "publishedAt": "2026-05-19T01:07:53Z"
+    },
+    {
+      "title": "LIRR strike ends as MTA reaches deal with unions after chaotic commute - Gothamist",
+      "description": "Even with a tentative deal, the LIRR says trains will not run on Tuesday morning.",
+      "url": "https://gothamist.com/news/lirr-service-to-remain-suspended-tuesday-morning-as-strike-drags-on",
+      "urlToImage": "https://api-prod.gothamist.com/images/357106/fill-1200x650|format-webp|webpquality-85/",
+      "source": "Gothamist",
+      "publishedAt": "2026-05-18T22:58:00Z"
+    },
+    {
+      "title": "Project Astra: the $420bn merger powering the US AI revolution - Financial Times",
+      "description": "Proposed deal between NextEra and Dominion would cement control of US ‘data centre alley’",
+      "url": "https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13241e6a-3ca1-4bfd-ac77-172741f93847.jpg?source=next-barrier-page",
       "source": "Financial Times",
-      "publishedAt": "2026-05-18T05:00:03Z"
+      "publishedAt": "2026-05-18T22:33:34Z"
     },
     {
-      "title": "Why a small UK lender has major U.S. credit firms on edge - CNBC",
-      "description": "The continuing fallout from MFS' collapse has heightened fears that problems in complex credit markets pose a broader systemic risk.",
-      "url": "https://www.cnbc.com/2026/05/18/mfs-private-credit-insolvency-banks-failure-collapse-barclays-mortgage.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284140-1774624102416-gettyimages-2219944504-lightstreakconcepts013.jpeg?v=1774624171&w=1920&h=1080",
+      "title": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date - Space",
+      "description": "SpaceX is targeting a Wednesday, May 20, launch for its newest Starship design, the Starship V3 megarocket. See our latest updates here.",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-18-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ho2v8oSxixqxARQebsz7HP-1920-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-05-18T21:30:35Z"
+    },
+    {
+      "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
+      "description": "Nvidia and Walmart earnings loom. NextEra will buy Dominion Energy for $67 billion.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/Stock-BearBull-flaming-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-05-18T20:52:00Z"
+    },
+    {
+      "title": "Nvidia Investors Hold Their Breath Ahead Of Q1 Report. Here's What To Expect. - Investor's Business Daily",
+      "description": "Nvidia stock is in record-high territory ahead of what's expected to be a monster earnings report, due out late Wednesday.",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-investors-hold-their-breath-q1-report/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-Nvidia-GTC-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-05-18T20:17:00Z"
+    },
+    {
+      "title": "“Should Have Asked for More”: Trump Regrets Intel Deal, Intel Stock (NASDAQ:INTC) Slides - TipRanks",
+      "description": "Chip stock Intel ($INTC) pulled off something of a coup when the United States government bought in on Intel’s stock. The move gave Intel a sorely needed boost in its",
+      "url": "https://www.tipranks.com/news/should-have-asked-for-more-trump-regrets-intel-deal-intel-stock-nasdaqintc-slides",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/intel-shutterstock_2780928965-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2026-05-18T18:56:16Z"
+    },
+    {
+      "title": "Dell Stock Slides despite Adding 1,000 New Enterprise AI Customers - TipRanks",
+      "description": "Shares of Dell ($DELL) fell today despite the tech firm announcing that it added 1,000 new customers for its AI Factory product line last quarter. This brings the total to",
+      "url": "https://www.tipranks.com/news/dell-stock-slides-despite-adding-1000-new-enterprise-ai-customers",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/shutterstock_1823977961-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2026-05-18T18:22:11Z"
+    },
+    {
+      "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit? - CNBC",
+      "description": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
+      "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108305564-1778591195464-gettyimages-2273088843-NVIDIA_Nemotron_3_Nano_Omni.jpeg?v=1778591217&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-05-18T05:00:01Z"
+      "publishedAt": "2026-05-18T17:18:54Z"
     },
     {
-      "title": "US Long Bond Yield Hits Highest Since 2023 on Inflation Concern - Bloomberg.com",
-      "description": "Treasuries sold off on Monday, pushing the yield on 30-year notes to the highest in almost three years as investor concern over accelerating inflation fueled a selloff in global debt.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-long-bond-yield-hits-highest-since-2023-on-inflation-concern",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itXMeAQXPlBA/v0/1200x799.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-18T04:54:00Z"
-    },
-    {
-      "title": "Donald Trump’s Iran war hits Americans with $40bn fuel bill - Financial Times",
-      "description": "Extra spending on petrol and diesel exceeds cost of repairing country’s bridges or rebooting air traffic control",
-      "url": "https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01ef656f-be69-456d-826a-47983a1a20ae.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-18T04:02:10Z"
-    },
-    {
-      "title": "Stock futures fall after record-setting week for Wall Street; traders await Nvidia and retail earnings: Live updates - CNBC",
-      "description": "Nvidia is set to report earnings Wednesday along with Target, while Walmart is due to post results Thursday.",
-      "url": "https://www.cnbc.com/2026/05/17/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108303740-1778166941333-Traders-Photo-20260507-KK-028.jpg?v=1778167217&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-05-18T03:34:00Z"
-    },
-    {
-      "title": "Delta flight bound for Shanghai forced to divert to Seattle due to disruptive passenger - KOMO",
-      "description": "A Delta Air Lines flight from Los Angeles to Shanghai was forced to divert to Seattle after a passenger became disruptive.",
-      "url": "https://komonews.com/news/local/delta-flight-bound-for-shanghai-forced-to-divert-to-seattle-due-to-disruptive-passenger-plane-seattle-tacoma-international-airpot-travel-passenger-delay-booking-ticket-canceled-plane-airplane-investigation-police-arrest",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/3600/1320/0x188/90/73e8f0cd-7309-4cff-aa6d-9d476666249b-a350_6.jpg",
-      "source": "KOMO News",
-      "publishedAt": "2026-05-18T02:31:29Z"
-    },
-    {
-      "title": "Korean Stocks Extend Slump as Higher Yields Threaten AI Rally - Bloomberg.com",
-      "description": "South Korean stocks erased much of their morning losses, as optimism over progress in Samsung Electronics Co.’s labor talks helped offset pressure from rising bond yields.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/korean-stocks-extend-slump-as-higher-yields-threaten-ai-rally",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZN2kD1iId2o/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-18T01:10:00Z"
-    },
-    {
-      "title": "Australia Orders Chinese Investors to Sell Rare Earth Stakes - Bloomberg.com",
-      "description": "Australia’s government has ordered the biggest shareholders in rare earths firm Northern Minerals Ltd. to sell their stakes, in its latest attempt to force some Chinese investors to divest on national security grounds.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/australia-orders-chinese-investors-to-sell-stakes-in-mining-firm",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikDvj4o0EssM/v0/1200x799.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-17T23:24:37Z"
-    },
-    {
-      "title": "Robotaxis are on the road to London. Cabbies, who pass a grueling test, aren't about to hand over their keys. - CBS News",
-      "description": "London black cab drivers, who are required to memorize thousands of streets to get their license, are being tested in a new way. Several companies are trying to bring robotaxis to the city's streets.",
-      "url": "https://www.cbsnews.com/news/london-cabbies-memorize-25000-streets-will-robotaxis-overtake-them-60-minutes-transcript/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/17/cf36b0b3-6b7e-492d-afd5-33554009a8c1/thumbnail/1200x630/2ff8c517e230ee45bdeed77b8a50612d/robotaxi-video-cooper.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-05-17T23:17:51Z"
-    },
-    {
-      "title": "Suspected insider accounts net $2.4 million on Polymarket Iran war bets with 98% win rate, firm finds - CBS News",
-      "description": "More than $1 billion has been bet online on military decisions and outcomes this year on Polymarket. Some wagers have been suspiciously timed, with information seemingly coming from insiders.",
-      "url": "https://www.cbsnews.com/news/betting-on-iran-war-insider-trading-concerns-prediction-markets-60-minutes/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/17/05451b09-01f8-4435-a65a-3f30f9cb4f91/thumbnail/1200x630/4620eb193363138281baad76da6206ca/betting-on-war-article.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-05-17T23:17:49Z"
-    },
-    {
-      "title": "Oil Shortage Scenario Looms Large - Crude Oil Prices Today | OilPrice.com",
-      "description": "Analysts and industry leaders warn that strategic reserves are being depleted faster than expected, meaning the crisis could evolve from a crude shortage into a full-blown global fuel and refining crisis if Hormuz does not reopen soon.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Shortage-Scenario-Looms-Large.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-17_rawvoc2pel.jpg",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-05-17T23:00:00Z"
+      "title": "Micron Stock Drops as Samsung Strike Spikes Fears Over Memory-Chip Shortage - Barron's",
+      "description": "Micron stock was falling despite the prospect of disruption at rival Samsung Electronics.",
+      "url": "https://www.barrons.com/articles/micron-stock-price-samsung-strike-chips-6b4b1ff6",
+      "urlToImage": "https://images.barrons.com/im-390291/social",
+      "source": "Barron's",
+      "publishedAt": "2026-05-18T16:29:00Z"
     }
   ]
 }
