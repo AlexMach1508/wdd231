@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2026-05-20T09:51:35.760Z",
+  "updatedAt": "2026-05-21T09:59:28.050Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock futures fall, putting the S&P 500 and Nasdaq on pace for third losing day in a row: Live updates - CNBC",
-      "description": "Both the S&P 500 and Nasdaq Composite closed lower for their second sessions in a row on Monday.",
-      "url": "https://www.cnbc.com/2026/05/18/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108302315-17779943522026-05-05t151734z_1572810646_rc213lab5noq_rtrmadp_0_usa-stocks.jpeg?v=1777994486&w=1920&h=1080",
+      "title": "Nvidia's Earnings Are Hours Away. Here Are 3 Things to Watch. - Yahoo Finance",
+      "description": "The AI chipmaker's outlook for the quarter ahead, its Vera Rubin transition, and any fresh China commentary could matter more than the headline numbers.",
+      "url": "https://www.fool.com/investing/2026/05/20/nvidias-earnings-are-hours-away-here-are-3-things/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F870978%2Fnvidia-stock-final-earnings-preview.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-05-20T05:46:00Z"
+    },
+    {
+      "title": "S&P 500 futures fall as traders await Nvidia’s earnings: Live updates - CNBC",
+      "description": "Chipmaker and AI darling Nvidia will report first-quarter earnings after Wednesday's closing bell.",
+      "url": "https://www.cnbc.com/2026/05/19/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108309066-1779200323096-gettyimages-2276547271-AFP_B3CB6AQ.jpeg?v=1779200354&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-05-19T10:44:00Z"
+      "publishedAt": "2026-05-20T05:34:00Z"
     },
     {
-      "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5% - CNBC",
-      "description": "Home Depot beat Wall Street's expectations on the top and bottom lines, even as some shoppers pulled back on larger projects.",
-      "url": "https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108305557-1778590911098-gettyimages-2267652248-260318_hd_signs_147.jpeg?v=1779125458&w=1920&h=1080",
+      "title": "Target is set to report first-quarter earnings, offer read on consumer - CNBC",
+      "description": "Target has been struggling with a sales slump and decreased customer traffic, though CEO Michael Fiddelke has said the retailer is poised for a turnaround.",
+      "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108305559-1778591014633-gettyimages-2273620077-307308final.jpeg?v=1778591055&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-05-19T10:00:59Z"
+      "publishedAt": "2026-05-20T04:01:01Z"
     },
     {
-      "title": "SpaceX IPO Adds Second Musk Stock. It’s a Problem for Tesla - Yahoo Finance",
-      "description": "(Bloomberg) -- For years, there was only one way for mom-and-pop investors to buy into Elon Musk’s vision: shares of Tesla Inc. That’s about to change — and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-add-another-musk-173745847.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n24mf2nTv3JGa5pskAsTtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODM-/https://media.zenfs.com/en/bloomberg_holding_pen_162/dfbacb77074d258d7da14855395724d6",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-19T07:24:10Z"
+      "title": "Cybertruck pulled from Grapevine Lake after driver tests vehicle's Wade Mode - Dallas News",
+      "description": "Police said a driver intentionally drove a Tesla Cybertruck into Grapevine Lake to test its “Wade Mode” feature before the vehicle became disabled and took on w",
+      "url": "https://www.dallasnews.com/news/crime/article/tesla-cybertruck-pulled-grapevine-lake-driver-22266929.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/66/24/41/31017055/9/rawImage.jpg",
+      "source": "The Dallas Morning News",
+      "publishedAt": "2026-05-20T03:59:25Z"
     },
     {
-      "title": "Standard Chartered to cut over 15% of corporate functions roles as it targets higher returns - CNBC",
-      "description": "Standard Chartered will trim corporate functions roles and target a more than 20% increase in income per employee by 2028 as it seeks stronger returns.",
-      "url": "https://www.cnbc.com/2026/05/19/standard-chartered-job-cuts-corporate-roles-profit-targets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107325114-1698625752227-gettyimages-1615018934-HK_STANDARD_CHARTERED.jpeg?v=1779165139&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-05-19T04:27:02Z"
+      "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds - The Verge",
+      "description": "Mercedes announced the new AMG GT 4-door coupe with a 0-60 acceleration time of 2 seconds.",
+      "url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/pre-media_26c0129_001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T03:30:00Z"
     },
     {
-      "title": "US Yields Flirting With 2007 Highs Entice and Divide Investors - Bloomberg.com",
-      "description": "A surge in longer-maturity US Treasury yields is testing the resolve of global bond investors torn between the possibility of locking in the rates near to the highest levels in decades and the risk of an even greater selloff.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-19/us-yields-flirting-with-2007-highs-entice-and-divide-investors",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i79ajz_NG_qY/v0/1200x800.jpg",
+      "title": "Meta begins cutting thousands of jobs in sweeping layoffs. Here's how much it's paying in severance. - Business Insider",
+      "description": "Meta has begun sending layoff emails to roughly 10% of its workforce. The cuts are expected to eliminate around 8,000 roles.",
+      "url": "https://www.businessinsider.com/layoff-meta-severance-details-cobra-jobs-2026-5",
+      "urlToImage": "https://i.insider.com/6a0c9a1fbe2e5e1daf89096f?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-20T03:19:52Z"
+    },
+    {
+      "title": "ImmunityBio Announces FDA Acceptance of Supplemental BLA for ANKTIVA® Plus BCG in BCG-Unresponsive Non-Muscle Invasive Bladder Cancer with Papillary Disease; PDUFA Date Set for January 6, 2027 - ImmunityBio",
+      "description": "Supplemental BLA seeks to expand the ANKTIVA label to include patients with BCG-unresponsive NMIBC with papillary disease FDA noted in its filing communication that the supplemental BLA accepted for review was based on the additional scientific data ImmunityB…",
+      "url": "https://ir.immunitybio.com/news-releases/news-release-details/immunitybio-announces-fda-acceptance-supplemental-bla-anktivar",
+      "urlToImage": "https://immunitybio.gcs-web.com/static-files/5295752f-e3a1-4ad9-9623-6b74627193d5",
+      "source": "Immunitybio.com",
+      "publishedAt": "2026-05-20T00:32:37Z"
+    },
+    {
+      "title": "A Legendary Midwest Beer Is Being Discontinued After 177 Years - Tasting Table",
+      "description": "It was recently announced that production of the famed legacy beer known as Schlitz will come to an end just days from now.",
+      "url": "https://www.tastingtable.com/2177282/legendary-midwest-beer-schlitz-discontinued/",
+      "urlToImage": "https://www.tastingtable.com/img/gallery/a-legendary-midwest-beer-is-being-discontinued-after-177-years/l-intro-1779230354.jpg",
+      "source": "Tastingtable.com",
+      "publishedAt": "2026-05-19T22:41:50Z"
+    },
+    {
+      "title": "Goldman Sachs to Lead SpaceX’s Mega-IPO Bank Lineup - Bloomberg.com",
+      "description": "Goldman Sachs Group Inc. has the leading role on the cover of SpaceX’s initial public offering, according to people familiar with the matter, giving the firm a prominent position in potentially the biggest listing of all time.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-19/goldman-sachs-is-said-to-lead-spacex-s-mega-ipo-bank-lineup",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im2i4pWn5ZSI/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-05-19T03:49:00Z"
+      "publishedAt": "2026-05-19T22:41:42Z"
     },
     {
-      "title": "Asia stocks mixed as tech losses, Iran fears weigh; Japan Q1 GDP beats forecasts - Investing.com",
-      "description": "Asia stocks mixed as tech losses, Iran fears weigh; Japan Q1 GDP beats forecasts",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-tech-losses-iran-fears-weigh-japan-q1-gdp-beats-forecasts-4697427",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB0I03C_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2026-05-19T03:46:23Z"
-    },
-    {
-      "title": "Musk loses blockbuster OpenAI suit as jury says too late - Yahoo Finance",
-      "description": "A federal jury ruled Monday that billionaire Elon Musk waited too long to sue OpenAI and its co-founders, delivering a decisive victory to the ChatGPT...",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/musk-loses-blockbuster-openai-suit-180225629.html",
-      "urlToImage": "https://s.yimg.com/os/en/afp.com/b8bda85052a5be1c3aed5f4d4ec66467",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-19T02:25:00Z"
-    },
-    {
-      "title": "Trump’s Fed pick to be sworn in at the White House, not the usual venue - The Washington Post",
-      "description": "Trump will attend Kevin Warsh's swearing-in at the White House, the first such ceremony there since Reagan hosted Alan Greenspan in 1987.",
-      "url": "https://www.washingtonpost.com/business/2026/05/18/trump-host-swearing-in-new-fed-chief-break-recent-tradition/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/565ZBRPSFPETGX3OUTIMMZNPYQ.JPG&w=1440",
+      "title": "With this airport’s new remote TSA checkpoint, you can go straight to your gate - The Washington Post",
+      "description": "tarting June 1, the Boston area pilot program lets passengers bypass the busy departures terminal and security lanes.",
+      "url": "https://www.washingtonpost.com/travel/2026/05/19/with-this-airports-new-remote-tsa-checkpoint-you-can-go-straight-your-gate/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AQSSIX6ELPHLJHU26EJNWSZUQ_size-normalized.jpeg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-05-19T02:15:06Z"
+      "publishedAt": "2026-05-19T21:57:37Z"
     },
     {
-      "title": "Mayor Mamdani Meets With JPMorgan’s Dimon - WSJ",
-      "description": "The New York City mayor also met with Goldman Sachs’s David Solomon on Monday",
-      "url": "https://www.wsj.com/finance/mayor-mamdani-meets-with-jpmorgans-dimon-d957b59a",
-      "urlToImage": "https://images.wsj.net/im-60082502/social",
+      "title": "The American Rebellion Against AI Is Gaining Steam - WSJ",
+      "description": "Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis",
+      "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+      "urlToImage": "https://images.wsj.net/im-59607602/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-05-19T02:11:00Z"
+      "publishedAt": "2026-05-19T21:35:00Z"
     },
     {
-      "title": "Blackstone Announces Joint Venture with Google to Create New TPU Cloud - Blackstone",
-      "description": "Press releases, portfolio company news, and timely updates on our business.",
-      "url": "https://www.blackstone.com/news/press/blackstone-announces-joint-venture-with-google-to-create-new-tpu-cloud/",
-      "urlToImage": "https://www.blackstone.com/wp-content/uploads/sites/2/2022/04/Blackstone-Logo-Tile-e1681304816586.png",
-      "source": "Blackstone.com",
-      "publishedAt": "2026-05-19T01:07:53Z"
+      "title": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies - AP News",
+      "description": "Recent presidents have stayed away from trading stocks in companies whose fortunes they could lift or scuttle with the stroke of a pen. But Donald Trump smashed that precedent in the first quarter of this year with more than 3,500 buy and sell orders, many of…",
+      "url": "https://apnews.com/article/stock-trading-trump-nvidia-apple-defense-1bd6e661929430892ae8f1eced3e0df8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0001d1e/2147483647/strip/true/crop/3138x2091+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fd6%2Fcc1f980e40ed287a49781c4c85d9%2F60f3c0caebc748998c76b83d9b088258",
+      "source": "Associated Press",
+      "publishedAt": "2026-05-19T21:32:00Z"
     },
     {
-      "title": "LIRR strike ends as MTA reaches deal with unions after chaotic commute - Gothamist",
-      "description": "Even with a tentative deal, the LIRR says trains will not run on Tuesday morning.",
-      "url": "https://gothamist.com/news/lirr-service-to-remain-suspended-tuesday-morning-as-strike-drags-on",
-      "urlToImage": "https://api-prod.gothamist.com/images/357106/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-05-18T22:58:00Z"
+      "title": "Andrej Karpathy, Tesla Alum and OpenAI Co-Founder, Joins Anthropic - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/andrej-karpathy-tesla-alum-and-openai-co-founder-joins-anthropic-c665f51f",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-19T21:30:00Z"
     },
     {
-      "title": "Project Astra: the $420bn merger powering the US AI revolution - Financial Times",
-      "description": "Proposed deal between NextEra and Dominion would cement control of US ‘data centre alley’",
-      "url": "https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13241e6a-3ca1-4bfd-ac77-172741f93847.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-18T22:33:34Z"
+      "title": "Volvo’s new EV costs the same to lease as a Tesla Model Y Premium, but here’s the catch - Electrek",
+      "description": "Volvo’s new “game-changing” midsize electric SUV, the 2027 EX60, is now on sale, but is it worth it to lease?...",
+      "url": "http://electrek.co/2026/05/19/volvos-new-ev-costs-same-to-lease-as-tesla-model-y-premium/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/Volvo-EX60-lease-offers.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2026-05-19T21:26:00Z"
     },
     {
-      "title": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date - Space",
-      "description": "SpaceX is targeting a Wednesday, May 20, launch for its newest Starship design, the Starship V3 megarocket. See our latest updates here.",
-      "url": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-18-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ho2v8oSxixqxARQebsz7HP-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2026-05-18T21:30:35Z"
-    },
-    {
-      "title": "Stocks Waver As Oil Falls On Iran News - Investor's Business Daily",
-      "description": "Nvidia and Walmart earnings loom. NextEra will buy Dominion Energy for $67 billion.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/Stock-BearBull-flaming-adobe.jpg",
+      "title": "Cerebras Stock Rises On Possible Inclusion In S&P Indexes - Investor's Business Daily",
+      "description": "Cerebras stock rose on a report that the newly public AI chip developer will receive fast-track inclusion on the S&P Dow Jones Indices.",
+      "url": "https://www.investors.com/news/technology/cerebras-stock-possible-index-inclusion/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-Cerebras-Wafer-Scale-company-1.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2026-05-18T20:52:00Z"
+      "publishedAt": "2026-05-19T20:36:00Z"
     },
     {
-      "title": "Nvidia Investors Hold Their Breath Ahead Of Q1 Report. Here's What To Expect. - Investor's Business Daily",
-      "description": "Nvidia stock is in record-high territory ahead of what's expected to be a monster earnings report, due out late Wednesday.",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-investors-hold-their-breath-q1-report/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-Nvidia-GTC-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-05-18T20:17:00Z"
+      "title": "SEC announces new rules to \"make IPOs great again\" - Axios",
+      "description": "The agency says the largest overhaul of the IPO rules in 20 years will make it easier for companies to go public.",
+      "url": "https://www.axios.com/2026/05/19/ipo-sec-spacex",
+      "urlToImage": "https://images.axios.com/b7fEnAl2SqqPgE-nVPorFyLmgXE=/0x0:5569x3133/1366x768/2026/05/19/1779215377232.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-05-19T20:32:49Z"
     },
     {
-      "title": "“Should Have Asked for More”: Trump Regrets Intel Deal, Intel Stock (NASDAQ:INTC) Slides - TipRanks",
-      "description": "Chip stock Intel ($INTC) pulled off something of a coup when the United States government bought in on Intel’s stock. The move gave Intel a sorely needed boost in its",
-      "url": "https://www.tipranks.com/news/should-have-asked-for-more-trump-regrets-intel-deal-intel-stock-nasdaqintc-slides",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/intel-shutterstock_2780928965-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-05-18T18:56:16Z"
+      "title": "Wall St ends lower as inflation worries push up yields - Yahoo Finance",
+      "description": "By Sinéad Carew and Ragini Mathur May 19 (Reuters) - Wall Street's main indexes closed lower on Tuesday with the Nasdaq leading declines, after the benchmark...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-eyes-lower-open-130156440.html",
+      "urlToImage": "https://s.yimg.com/os/en/reuters.com/2751e78e6c518cc7c551c0554aabc86e",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-19T20:31:48Z"
     },
     {
-      "title": "Dell Stock Slides despite Adding 1,000 New Enterprise AI Customers - TipRanks",
-      "description": "Shares of Dell ($DELL) fell today despite the tech firm announcing that it added 1,000 new customers for its AI Factory product line last quarter. This brings the total to",
-      "url": "https://www.tipranks.com/news/dell-stock-slides-despite-adding-1000-new-enterprise-ai-customers",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2026/05/shutterstock_1823977961-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2026-05-18T18:22:11Z"
-    },
-    {
-      "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit? - CNBC",
-      "description": "Both Nvidia's earnings and its commentary on its financial report are expected to be big tests for U.S. equities.",
-      "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108305564-1778591195464-gettyimages-2273088843-NVIDIA_Nemotron_3_Nano_Omni.jpeg?v=1778591217&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-05-18T17:18:54Z"
-    },
-    {
-      "title": "Micron Stock Drops as Samsung Strike Spikes Fears Over Memory-Chip Shortage - Barron's",
-      "description": "Micron stock was falling despite the prospect of disruption at rival Samsung Electronics.",
-      "url": "https://www.barrons.com/articles/micron-stock-price-samsung-strike-chips-6b4b1ff6",
-      "urlToImage": "https://images.barrons.com/im-390291/social",
-      "source": "Barron's",
-      "publishedAt": "2026-05-18T16:29:00Z"
+      "title": "Elon Musk said Sam Altman \"stole\" a non-profit — but the trial showed he had similar aims - TechCrunch",
+      "description": "“By the end of this week, you and Sam will be the most hated men in America.”",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T20:11:00Z"
     }
   ]
 }
