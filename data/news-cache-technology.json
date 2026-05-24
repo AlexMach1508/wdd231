@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-05-23T08:29:24.052Z",
+  "updatedAt": "2026-05-24T08:42:57.172Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Google has tripled Gemini usage limits for Antigravity, twice - 9to5Google",
-      "description": "New usage limits have hit Google’s Gemini AI models and, following user concerns, Google has raised those limits specifically for...",
-      "url": "http://9to5google.com/2026/05/21/google-has-tripled-gemini-usage-limits-for-antigravity-twice/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
+      "description": "You’ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking potential. The team behind it has now turned their efforts towards developing the Flipper …",
+      "url": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/05/What-is-Flipper-One-new-e1779420323518.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2026-05-23T05:00:00Z"
+    },
+    {
+      "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
+      "description": "One of Google’s first true hit pieces of hardware, 2013’s Chromecast, is starting to stop working for some users are...",
+      "url": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/08/chromecast-2013-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-05-22T03:40:00Z"
+      "publishedAt": "2026-05-23T02:49:00Z"
     },
     {
-      "title": "Azure Striker Gunvolt Trilogy Enhanced - Nintendo Switch 2 Edition announced, includes new story mode - Nintendo Everything",
-      "description": "Azure Striker Gunvolt Trilogy Enhanced – Nintendo Switch 2 Edition is on the way, Inti Creates has announced. The package will be out later in 2026. Azure Striker Gunvolt Trilogy Enhanced previously came to Nintendo Switch. For this version, however, there’ll…",
-      "url": "https://nintendoeverything.com/azure-striker-gunvolt-trilogy-enhanced-nintendo-switch-2-edition-announced-includes-new-story-mode/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Azure-Striker-Gunvolt-Trilogy-Enhanced-Nintendo-Switch-2-Edition.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-05-22T02:07:06Z"
+      "title": "Unannounced Apple headphones revealed in FCC documents - 9to5Mac",
+      "description": "A new filing in the FCC database has revealed an unannounced Apple-made Bluetooth headphone. Here are the details.",
+      "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-05-23T01:43:00Z"
     },
     {
-      "title": "'Warhammer 40k: Chaos Gate - Deathwatch' Announced, Featuring Elite Xeno-Hunting Specialists - Inven Global",
-      "description": "On the 22nd, during the 'Warhammer Skulls 2026' showcase, Games Workshop unveiled 'Warhammer 40k: Chaos Gate - Deathwatch,' a new title developed by Complex Games and to be published by Frontier Developments.",
-      "url": "https://www.invenglobal.com/articles/warhammer-40k-chaos-gate-deathwatch-announced-featuring-elite-xeno-hunting-specialists",
-      "urlToImage": "https://static.invenglobal.com/upload/image/2026/05/21/r1779406703851759.jpeg",
-      "source": "InvenGlobal",
-      "publishedAt": "2026-05-21T23:35:48Z"
+      "title": "'It's Nuts': Major PS5 Security Vulnerability Exposed, And We're All At Risk - Push Square",
+      "description": "Social engineering scam uncovered",
+      "url": "https://www.pushsquare.com/news/2026/05/its-nuts-major-ps5-security-vulnerability-exposed-and-were-all-at-risk",
+      "urlToImage": "https://images.pushsquare.com/02c666ee9db27/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-05-23T00:30:00Z"
     },
     {
-      "title": "Bungie Plans Layoffs After Ending ‘Destiny 2’ Development - Bloomberg",
-      "description": "The Sony subsidiary will focus on ‘Marathon’ rather than jumping directly to ‘Destiny 3’",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-21/bungie-plans-layoffs-after-ending-destiny-2-development",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu5IR94I0_6M/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-21T23:13:50Z"
+      "title": "Google Just Triggered a $1 Billion AI Price War: Does It Make Alphabet Stock a Buy Right Now? - The Motley Fool",
+      "description": "Google slashed the price of its Gemini enterprise offering by 20% to undercut OpenAI and Anthropic.",
+      "url": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871212%2Fgettyimages-1830082607-1200x600-7cb9712.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-05-22T23:45:00Z"
     },
     {
-      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction - theverge.com",
-      "description": "The Liberty 5 Pro and Liberty 5 Pro Max are Anker’s first earbuds to feature its dedicated AI chip for reducing noise and improving voice clarity during calls.",
-      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ankerliberty2.jpg?quality=90&strip=all&crop=0%2C10.745251402131%2C100%2C78.509497195739&w=1200",
+      "title": "Gemini app for Mac adding ‘Spark’ agent and voice control this summer - 9to5Google",
+      "description": "At I/O 2026, Google previewed two major features for the Gemini app on macOS that are coming this summer...",
+      "url": "http://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Mac-app-summer-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-05-22T22:26:00Z"
+    },
+    {
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’ - TechCrunch",
+      "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-2.46.43-PM.jpg?resize=1200,965",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-22T21:02:36Z"
+    },
+    {
+      "title": "CNN Tested 15 Travel Cameras — And This Fujifilm Model Won the Battle - Fuji Rumors",
+      "description": "Summer is just around the corner, and for many of us this means high peak travel season. So the inevitable question is: which is the best camera companion for our holidays? Well, CNN tried to answer this question by testing 15 cameras, and among the others: N…",
+      "url": "https://www.fujirumors.com/cnn-tested-15-travel-cameras-and-this-fujifilm-model-won-the-battle/",
+      "urlToImage": "https://www.fujirumors.com/wp-content/uploads/2026/05/Best-Travel-Camera.jpg",
+      "source": "Fujirumors.com",
+      "publishedAt": "2026-05-22T20:59:59Z"
+    },
+    {
+      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for - The Verge",
+      "description": "Google’s AI Overviews are responding like traditional AI chatbots if you search for terms like “disregard” or “skip.”",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&strip=all&crop=0%2C13.100144814526%2C100%2C73.799710370948&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-05-21T23:00:00Z"
+      "publishedAt": "2026-05-22T20:39:54Z"
     },
     {
-      "title": "Forza Horizon 6 Is A Difficult Game To Be Around - Aftermath",
-      "description": "'There is one hell of a driving game here to enjoy, so long as you're left in peace to enjoy it'",
-      "url": "https://aftermath.site/forza-horizon-6-story-characters-dialogue/",
-      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/Screenshot-2026-05-20-172230.png",
-      "source": "Aftermath.site",
-      "publishedAt": "2026-05-21T22:32:12Z"
-    },
-    {
-      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app - Ars Technica",
-      "description": "The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
-      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AcuRite-1152x648-1779398451.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-21T22:26:34Z"
-    },
-    {
-      "title": "XBOX Celebrates Global Accessibility Awareness Day with Improved Adaptive Thumbstick Toppers and More - XBOX Wire",
-      "description": "Today, in recognition of Global Accessibility Awareness Day, we're sharing an update to the Adaptive Thumbstick Toppers available today through XBOX Design Lab.",
-      "url": "https://news.xbox.com/en-us/2026/05/21/xbox-global-accessibility-awareness-day-2026/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/XBOX-Adaptive-Thumbstick-Topper-Goal-Post-shape-with-XBOX-Adaptive-Joystick-4db212a5fe3a89d88740.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-05-21T20:30:49Z"
-    },
-    {
-      "title": "‘GTA 6’ Price Still Not Revealed, but Take-Two Chief Says Rockstar on Track to Begin Marketing This Summer - Variety",
-      "description": "\"Grand Theft Auto 6\" does not yet have an announced price, and Take-Two Interactive CEO Strauss Zelnick has revealed why.",
-      "url": "https://variety.com/2026/gaming/news/gta-5-no-delay-price-marketing-summer-1236755303/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/08/Grand-Theft-Auto-6-GTA.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-05-21T20:15:00Z"
-    },
-    {
-      "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI - theverge.com",
-      "description": "Mozilla’s Project Nova redesign for Firefox will give the browser a rounded UI and make it easier to find privacy settings, including Firefox’s AI Controls.",
-      "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/firefox-project-nova-hero.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T20:05:09Z"
-    },
-    {
-      "title": "Wizards Of The Coast Begs Staff To Think Twice Before Voting To Unionize - Kotaku",
-      "description": "\"It is about...the kind of relationship you want to have with the rest of the Wizards organization moving forward\"",
-      "url": "https://kotaku.com/wizards-of-the-coast-begs-staff-think-twice-unionize-2000698346",
-      "urlToImage": "https://kotaku.com/app/uploads/2023/04/b0ede167d7e6e5c2079423772e2e71d3-1200x675.jpg",
+      "title": "Riot Claims Valorant Anti-Cheat Software Isn't Bricking PCs - Kotaku",
+      "description": "'They can absolutely get f*cked. I'll be joining whatever class action comes from this,' one player wrote",
+      "url": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675",
+      "urlToImage": "https://kotaku.com/app/uploads/2024/06/da77fa3aa2122feda604db15eb412ec7.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-05-21T19:56:01Z"
+      "publishedAt": "2026-05-22T20:16:26Z"
     },
     {
-      "title": "Introducing the XBOX Game Studios Shop - XBOX Wire",
-      "description": "Today, we’re launching the XBOX Game Studios Shop, your new destination for official merchandise from your favorite XBOX Game Studios titles.",
-      "url": "https://news.xbox.com/en-us/2026/05/21/introducing-the-xbox-game-studios-shop/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/XBOX-Gear-Shop-hero-3e1226862ca7ac526e6b.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-05-21T19:00:49Z"
+      "title": "Physical Copies Of A Remake Of A 25-Year-Old RPG Are Unplayable Without A Day-One Update - Kotaku",
+      "description": "The Gothic remake won't require a permanent internet connection, but....",
+      "url": "https://kotaku.com/gothic-remake-rpg-day-one-physical-internet-connection-update-required-thq-2000698754",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/05/fdsa.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-05-22T19:31:51Z"
     },
     {
-      "title": "Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI — actual intelligence' - Business Insider",
-      "description": "Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "urlToImage": "https://i.insider.com/6a0f3ebbb1025a62a5c85a87?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-05-21T18:39:00Z"
+      "title": "LEGO Batman Comparison Shows Difference Between Xbox Series X And Series S - Pure Xbox",
+      "description": "How the Xbox versions stack up",
+      "url": "https://www.purexbox.com/news/2026/05/lego-batman-comparison-shows-difference-between-xbox-series-x-and-series-s",
+      "urlToImage": "https://images.purexbox.com/2a45e828ca967/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-05-22T17:00:00Z"
     },
     {
-      "title": "Amazon CEO Andy Jassy on Prime Video: ‘That business is growing, it’s profitable, and it’s still early’ - About Amazon",
-      "description": "Jassy discussed Prime Video's momentum during a recent Q&A with shareholders, pointing to original films, live sports, and streaming partnerships.",
-      "url": "https://www.aboutamazon.com/news/entertainment/amazon-ceo-andy-jassy-on-prime-video-growth",
-      "urlToImage": "https://assets.aboutamazon.com/dims4/default/bae1ade/2147483647/strip/true/crop/4500x2250+0+141/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F1e%2Fe1%2F706dfe0c4fa4afa57be24d0504c7%2Fproject-hail-mary-phm-amazon-news-cdlt-prime-video-05-20-2026.jpg",
-      "source": "Aboutamazon.com",
-      "publishedAt": "2026-05-21T18:18:15Z"
+      "title": "iPhone 18 Pro leak reveals brand new colors that could be coming - 9to5Mac",
+      "description": "A new leak might provide our first glimpse at the new iPhone 18 Pro color lineup via alleged camera components.",
+      "url": "https://9to5mac.com/2026/05/22/iphone-18-pro-leak-reveals-brand-new-colors-that-could-be-coming/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-05-22T16:43:00Z"
     },
     {
-      "title": "Google accidentally exposed details of unfixed Chromium flaw - BleepingComputer",
-      "description": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device.",
-      "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-05-21T18:13:00Z"
+      "title": "iOS 26.5.1 Update for iPhones is Coming Soon - MacRumors",
+      "description": "Apple's software engineers are testing iOS 26.5.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS...",
+      "url": "https://www.macrumors.com/2026/05/22/ios-26-5-1-coming-soon/",
+      "urlToImage": "https://images.macrumors.com/t/x5OKeizcRejo6CTsrqL2FNQ1Q2k=/2500x/article-new/2026/05/iOS-26.5.1-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-05-22T16:23:08Z"
     },
     {
-      "title": "Warhammer 40K: Dawn of War 4 gets a release date, as devs suggest we could get even more factions after launch - Eurogamer",
-      "description": "The highly-anticipated RTS sequel is set to launch September this year, while lead developers Elliott Verbiest and Jan Theysen have teased a little more too.",
-      "url": "https://www.eurogamer.net/warhammer-40k-dawn-of-war-4-release-date-devs-tease-more-factions",
-      "urlToImage": "https://assetsio.gnwcdn.com/dawn-of-war-4-chaos.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-05-21T17:45:49Z"
+      "title": "Valve Remains Silent As Racist Plantation Sim Game Trolls Everyone - Kotaku",
+      "description": "Steam guidelines claim to ban 'content that is patently offensive or intended to shock or disgust viewers'",
+      "url": "https://kotaku.com/racist-plantation-game-trolls-valve-watches-2000698673",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/Steam-Library-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-05-22T16:00:16Z"
     },
     {
-      "title": "FuRyu announces survival third-person shooter ANOMALITH for PS5, Switch 2, and PC - Gematsu",
-      "description": "Publisher FuRyu and developer Winning Entertainment Group (formerly Natsume Atari) have announced survival third-person shooter ANOMALITH for PlayStation 5, Switch 2, and PC (Steam). It will launch…",
-      "url": "https://www.gematsu.com/2026/05/furyu-announces-survival-third-person-shooter-anomalith-for-ps5-switch-2-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/05/ANOMALITH-Ann_05-21-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-05-21T17:24:24Z"
+      "title": "Random: Nintendo's New Yoshi Game Contains A Galactic Easter Egg - Nintendo Life",
+      "description": "Warning: Spoilers lie within",
+      "url": "https://www.nintendolife.com/news/2026/05/random-nintendos-new-yoshi-game-contains-a-galactic-easter-egg",
+      "urlToImage": "https://images.nintendolife.com/b6ad626c6f1e9/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-05-22T16:00:00Z"
     },
     {
-      "title": "Warhammer 40,000: Space Marine 2 Shadowdrops Purgation Update, Patch 13 Adds New PvE Mission and a Lot More - IGN",
-      "description": "Warhammer 40,000: Space Marine 2 Purgation Update out now, check out the patch notes.",
-      "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2-shadowdrops-purgation-update-patch-13-adds-new-pve-mission-and-a-lot-more",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/21/sm2-tech-champ-ironhands-keyart-1779376774526.png?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "We tried Google’s AI glasses and they’re almost there - TechCrunch",
+      "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/1_IO_Glasses_Product_GentleMonst.width-1000.format-webp_NnExl2N.webp?w=1000",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-22T15:37:15Z"
+    },
+    {
+      "title": "Warhammer 40,000 Fans Will Play Both Dawn of War IV and Total War: Warhammer 40,000, King Art Believes - IGN",
+      "description": "Warhammer 40,000 fans will play Dawn of War IV and Total War: Warhammer 40,000, King Art tells IGN in a new interview.",
+      "url": "https://www.ign.com/articles/dawn-of-war-iv-dev-doesnt-see-total-war-warhammer-40000-as-direct-competition-reckons-fans-will-play-both-games",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/22/dow4-1779483837409.png?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-05-21T16:56:01Z"
+      "publishedAt": "2026-05-22T14:50:28Z"
     },
     {
-      "title": "Warhammer Skulls 2026: All the New Game Announcements, Updates, and Trailers - IGN",
-      "description": "Check out all the game announcements, updates, trailers, and reveals from Warhammer Skulls 2026.",
-      "url": "https://www.ign.com/articles/everything-announced-at-warhammer-skulls-2026",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/20/dow-iv-keyart-250701-16x9-ub-1779312781483.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-05-21T16:53:25Z"
-    },
-    {
-      "title": "The Sims 4 Update: New Hotfix Release (May 21st, 2026 Notes) - Sims Community",
-      "description": "The Sims Team announced late last week that they'll be releasing a new Sims 4 Update to fix some priority issues and bugs, including CAS, eye dropper tool and",
-      "url": "https://simscommunity.info/2026/05/21/the-sims-4-update-new-hotfix-release-may-21-2026-notes/",
-      "urlToImage": "https://simscommunity.info/wp-content/uploads/2025/01/ts4newupdateFE2025-1.jpg",
-      "source": "Simscommunity.info",
-      "publishedAt": "2026-05-21T16:52:25Z"
+      "title": "Apple Memorial Day sales bring major discounts on MacBooks, AirPods, iPads and more - Yahoo Tech",
+      "description": "We're digging up the best deals on Apple devices we can find from this year's crop of Memorial Day sales.",
+      "url": "https://tech.yahoo.com/deals/breaking-news/article/apple-memorial-day-sales-bring-major-discounts-on-macbooks-airpods-ipads-and-more-134656293.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/726864c024ee8cf7821f5b2477f6904669ddf69232129921f4f5e0484c66ccf0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fapple-memorial-day-sales_3295.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-22T14:45:10Z"
     }
   ]
 }
