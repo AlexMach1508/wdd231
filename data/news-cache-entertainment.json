@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-05-24T08:42:57.459Z",
+  "updatedAt": "2026-05-25T10:43:22.448Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Horoscope for Saturday, May 23, 2026 - Chicago Sun-Times",
+      "title": "Video: Ray J knocked out by Supah Hot Fire at Brand Risk 14 - MMA Fighting",
+      "description": "Ray J gets caught by Supah Hot Fire in second round",
+      "url": "https://www.mmafighting.com/latest-news/490446/video-ray-j-gets-knocked-out-by-supah-hot-fire-at-brand-risk-14",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/05/Screenshot-2026-05-24-at-3.02.57AM.png?quality=90&strip=all&crop=0,3.8233377525111,100,92.353324494978",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-05-24T07:05:24Z"
+    },
+    {
+      "title": "Horoscope for Sunday, May 24, 2026 - Chicago Sun-Times",
       "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/05/23/horoscopes-today-saturday-may-23-2026",
+      "url": "https://chicago.suntimes.com/horoscopes/2026/05/24/horoscopes-today-sunday-may-24-2026",
       "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
       "source": "Suntimes.com",
-      "publishedAt": "2026-05-23T05:01:00Z"
+      "publishedAt": "2026-05-24T05:01:00Z"
     },
     {
-      "title": "'It Takes Two' rapper Rob Base, who helped bring hip-hop mainstream, dies at 59 - NPR",
-      "description": "Rapper Rob Base has died after a battle with cancer. He was 59. His team shared the news of his death on his Instagram page. Base was one half of the Harlem hip-hop duo Rob Base & DJ E-Z Rock.",
-      "url": "https://www.npr.org/2026/05/23/nx-s1-5832030/it-takes-two-rapper-rob-base-who-helped-bring-hip-hop-mainstream-dies-at-59",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5272x2966+0+228/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F45%2Ffd7d182949c4a1597e08b22bc151%2Fap26142839921634.jpg",
+      "title": "“I Read It All In 2 Days”: Avid Readers Are Sharing The Best Books To Read On Vacation Or Over A Long Weekend - BuzzFeed",
+      "description": "\"It was the definition of a page-turner. I finished it in two sittings and couldn't stop thinking about it the rest of my trip.\"",
+      "url": "https://www.buzzfeed.com/meganeliscomb/best-summer-vacation-books-2026",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-05/21/21/thumb/4j6YdIcL5.jpg?crop=1249:654;0,21%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-05-24T03:16:02Z"
+    },
+    {
+      "title": "Becky Lynch goes off about the terrible finish to her match at Saturday Night’s Main Event - Cageside Seats",
+      "description": "Becky Lynch is irate after a very bad finish ruined her dud match against Sol Ruca.",
+      "url": "https://www.cagesideseats.com/wwe/444793/becky-lynch-reacts-bad-finish-snme-vs-sol-ruca-wwe-clash-in-italy-match-card-updated",
+      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/05/beckylynch4.jpg?quality=90&strip=all&crop=0,1.2831887261881,100,86.233446258084",
+      "source": "Cageside Seats",
+      "publishedAt": "2026-05-24T02:49:00Z"
+    },
+    {
+      "title": "Rey Mysterio is the new GM for AAA - Cageside Seats",
+      "description": "Rey returns as GM to take AAA to greater heights under WWE management, but not everyone is happy about the news.",
+      "url": "https://www.cagesideseats.com/lucha-libre-aaa-cmll/444828/rey-mysterio-named-new-aaa-general-manager-gm-reveal-announcement-dorian-roldan-dominik-savio",
+      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/05/Rey-Mysterio-introduced-as-new-GM-of-AAA.jpg?quality=90&strip=all&crop=0,3.522070181674,100,92.955859636652",
+      "source": "Cageside Seats",
+      "publishedAt": "2026-05-24T02:38:00Z"
+    },
+    {
+      "title": "Ethan Page impresses but Penta retains Intercontinental title at SNME - Cageside Seats",
+      "description": "These two tore the house down and showed why everyone at WWE is so high on Page.",
+      "url": "https://www.cagesideseats.com/wwe/444795/ethan-page-impresses-penta-retains-intercontinental-title-saturday-nights-main-event",
+      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/05/Penta.png?quality=90&strip=all&crop=0%2C2.0285798213329%2C100%2C95.942840357334&w=1200",
+      "source": "Cageside Seats",
+      "publishedAt": "2026-05-24T01:18:00Z"
+    },
+    {
+      "title": "Romanian director Cristian Mungiu's 'Fjord' wins top prize at Cannes - NPR",
+      "description": "Mungiu took home the prestigious Palme D'Or for his film Fjord, a culture-war drama set in Norway.",
+      "url": "https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5559x3127+0+83/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F93%2F026824da4eb38e3eb04b1bea87cc%2Fap26143715299476.jpg",
       "source": "NPR",
-      "publishedAt": "2026-05-23T04:09:33Z"
+      "publishedAt": "2026-05-24T00:13:33Z"
     },
     {
-      "title": "Grizz Chapman Dies: ’30 Rock’ Actor Was 52 - Deadline",
-      "description": "Grizzwald 'Grizz' Chapman, the fan-favorite '30 Rock' star who played Grizz on the NBC sitcom for its seven-season run, has died. He was 52.",
-      "url": "http://deadline.com/2026/05/grizz-chapman-dies-52-1236919643/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-453189866.jpg?w=1024",
+      "title": "The Jury Has Spoken, American Films Shut Out, But What Does It All Mean For Oscars? – Cannes Film Festival - Deadline",
+      "description": "The Cannes film Festival named Fjord winner of the Palme d'Or but what does this all mean for Oscars? Will Cannes have the impact of the last few years?",
+      "url": "http://deadline.com/2026/05/cannes-film-festival-palme-dor-fjord-oscars-1236919999/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2277874762.jpg?w=1024",
       "source": "Deadline",
-      "publishedAt": "2026-05-23T02:52:00Z"
+      "publishedAt": "2026-05-23T21:44:00Z"
     },
     {
-      "title": "WWE SmackDown Results, Winners, Live Grades, Reaction, Highlights Before SNME 43 - Bleacher Report",
-      "description": "Welcome to Bleacher Report's live coverage of WWE SmackDown on May 22.",
-      "url": "https://bleacherreport.com/articles/25430242-wwe-smackdown-results-winners-live-grades-reaction-highlights-snme-43",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-05/br_app_livegrades_wwe-smackdown_16x9-2-(1).jpg?w=3800&h=2000",
-      "source": "Bleacher Report",
-      "publishedAt": "2026-05-23T02:43:17Z"
-    },
-    {
-      "title": "Paul McCartney helps Stephen Colbert say goodbye to 'The Late Show' in ambitious final show - KSL.com",
-      "description": "Stephen Colbert chatted with Paul McCartney and joined him on stage for a performance of \"Hello, Goodbye\" on the final broadcast of \"The Late Show\" on Thursday.",
-      "url": "https://www.ksl.com/article/51501245/paul-mccartney-helps-stephen-colbert-say-goodbye-to-the-late-show-in-ambitious-final-show",
-      "urlToImage": "https://img.ksl.com/slc/3157/315782/31578221.jpg?filter=kslv2/responsive_story_lg",
-      "source": "KSL.com",
-      "publishedAt": "2026-05-23T01:29:43Z"
-    },
-    {
-      "title": "Britney Spears was 'confrontational' and 'flamboyant' but tested low for alcohol during DUI stop - AP News",
-      "description": "Britney Spears refused to exit her BMW for about 10 minutes during a DUI arrest in March. When she did, she smelled of alcohol and appeared drunk. However breath tests showed she a lower blood alcohol content than the level where a person is presumed drunk. T…",
-      "url": "https://apnews.com/article/britney-spears-dui-video-92d6e2d46ea1e16d125ca1256a115e37",
-      "urlToImage": "https://dims.apnews.com/dims4/default/aa4b1aa/2147483647/strip/true/crop/3000x1999+0+62/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2F11%2F917779125cc888d13fb0e856f0ec%2Fe2982cd8b413418eb885e9f0200df24d",
-      "source": "Associated Press",
-      "publishedAt": "2026-05-23T00:26:00Z"
-    },
-    {
-      "title": "Paul McCartney Explores His Ever-Present Past in ‘The Boys of Dungeon Lane,’ a Delightful Return to Wings-Era Form: Album Review - Variety",
-      "description": "Paul McCartney's 'The Boys of Dungeon Lane' might be his best 21st century album, with plenty of Wings and Beatle-esque callbacks, says our review.",
-      "url": "https://variety.com/2026/music/album-reviews/paul-mccartney-boys-of-dungeon-lane-album-review-1236757156/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/Album-Cover-Treatment-5.jpg?w=1000&h=562&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-05-23T00:25:00Z"
-    },
-    {
-      "title": "Phil Collins gives rare update on his health struggles, reveals if he'll ever tour or release new music again - Entertainment Weekly",
-      "description": "Phil Collins has given a rare update on his debilitating health struggles, revealing if he plans to release new music or ever tour again.",
-      "url": "https://ew.com/phil-collins-health-update-tour-new-music-plans-rock-hall-performance-11982535",
-      "urlToImage": "https://ew.com/thmb/jSZWKFQntcFQFb9BO7EHgM-qfHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/phil-collins-01-052226-ed17dafe55fa4bd2b5bb2ef096dd7924.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2026-05-22T22:45:47Z"
-    },
-    {
-      "title": "‘The Mandalorian & Grogu’ Won’t Lose Money. It May Not Rescue ‘Star Wars’ Either - The Hollywood Reporter",
-      "description": "Disney insiders break down how the feature will end up in the black. But if it can't also broaden out the audience, do the optics further hurt a franchise whose core fandom has become increasingly discontent?",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/the-mandalorian-grogu-star-wars-box-office-1236604300/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/THND-022186_R-H-2026.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-05-22T22:01:51Z"
-    },
-    {
-      "title": "Best of Cannes 2026: 20 Critics’ Picks From This Year’s Festival - Variety",
-      "description": "Our critics pick the standout films of this year's Cannes, such as 'Fatherland,' 'Paper Tiger,' 'Club Kid' and 'Teenage Sex and Death at Camp Miasma.'",
-      "url": "https://variety.com/2026/film/festivals/best-of-cannes-2026-20-critics-picks-from-the-cannes-film-festival-1236757147/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/Cannes-Fatherland-Paper-Tiger-Teenage-Sex-and-Death.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-05-22T18:15:00Z"
-    },
-    {
-      "title": "'La Bola Negra' Sparks Multi-Studio Bidding War After Cannes Debut - Variety",
-      "description": "After landing a 16-minute ovation in Cannes, Javier Ambrossi and Javier Calvo’s \"La Bola Negra\" (“The Black Ball”) sparked a multi-studio bidding war.",
-      "url": "https://variety.com/2026/film/news/la-bola-negra-bidding-war-cannes-sales-1236757239/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/2277534992.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-05-22T18:02:00Z"
-    },
-    {
-      "title": "Tom Hardy's MobLand co-star Helen Mirren spoke out after reports of on-set feud - LADbible",
-      "description": "A report from earlier today revealed Tom Hardy was fired from MobLand ahead of the third season",
-      "url": "https://www.ladbible.com/entertainment/tv/tom-hardy-mobland-helen-mirren-feud-update-152002-20260522",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt0bcce31b95efc2c7/6a106e499f16e22a212a65b6/tom_hardy_helen_mirren.png",
-      "source": "LADbible",
-      "publishedAt": "2026-05-22T17:29:50Z"
-    },
-    {
-      "title": "Search For Canadian TV Actor Stewart McLean Now Homicide Investigation - Deadline",
-      "description": "Canadian TV actor Stewart McLean went missing a week ago and now investigators say the search has turned into a homicide investigation.",
-      "url": "http://deadline.com/2026/05/stewart-mclean-missing-homicide-1236919114/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/mclean-e1779468784418.jpg?w=478",
-      "source": "Deadline",
-      "publishedAt": "2026-05-22T17:29:00Z"
-    },
-    {
-      "title": "‘Fake And Gay’: Why Elon Musk Is So Mad About ‘The Boys’ Finale - Forbes",
-      "description": "Series creator Eric Kripke, who has acknowledged his show is a right-wing critique, said he would “never get a better review ever.\"",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/05/22/elon-musk-calls-the-boys-series-finale-fake-and-gay/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a1090b7bde9619e1f0cb1e2/0x0.jpg?format=jpg&crop=3511,1976,x0,y232,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-05-22T17:23:08Z"
-    },
-    {
-      "title": "Ms. Rachel Sends Love to Danny Go After His 14-Year-Old Son Dies of Cancer: We ‘Are Thinking About Their Son’s Amazing Joy and Their Immense Pride’ - Variety",
-      "description": "Children's entertainer Danny Go's teen son has died after a cancer diagnosis. Ms. Rachel payed tribute to the family after his passing.",
-      "url": "https://variety.com/2026/tv/news/danny-go-son-dies-cancer-ms-rachel-1236757056/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/MixCollage-22-May-2026-10-38-AM-9636.jpg?crop=0px%2C5px%2C1000px%2C562px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2026-05-22T14:43:00Z"
-    },
-    {
-      "title": "‘Vought Rising’ Trailer Gives a First Look at ‘The Boys’ Spin-Off - The Hollywood Reporter",
-      "description": "A teaser trailer has been released for the Prime Video series starring Aya Cash and Jensen",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/vought-rising-trailer-the-boys-spin-off-1236604196/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-9.44.00 AM-2.png?crop=32px%2C0px%2C2874px%2C1610px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-05-22T14:01:32Z"
-    },
-    {
-      "title": "Boots Riley wants you to wake up and smell the class struggle - The Verge",
-      "description": "I Love Boosters writer / director Boots Riley opens up to The Verge about the anti-capitalist ideas baked into his new film.",
-      "url": "https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2276181257.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-05-22T14:00:00Z"
-    },
-    {
-      "title": "‘Spider-Noir’ Review: Nicolas Cage Slings Peak Strangeness in Amazon’s Slick Spider-Man Spinoff - IndieWire",
-      "description": "In 'Spider Noir,' Nicolas Cage, who loves Superman so much he named his son Kal-El, finds an even better superhero to embody his bewitching weirdness.",
-      "url": "https://www.indiewire.com/criticism/shows/spider-noir-review-nicolas-cage-spiderman-series-freaky-1235195126/",
-      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/03/Spider-Noir-release-date-Amazon-Prime-Video-series-e1779378522180.jpg?w=650",
+      "title": "The Cannes Awards Reveal Likely 2027 Oscar Contenders - IndieWire",
+      "description": "Neon won its seventh Palme d'Or with \"Fjord,\" which will automatically vie for Best International Feature.",
+      "url": "https://www.indiewire.com/awards/industry/cannes-award-winners-reveal-2027-oscar-contenders-1235196043/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/05/GettyImages-2277872993.jpg?w=650",
       "source": "IndieWire",
-      "publishedAt": "2026-05-22T14:00:00Z"
+      "publishedAt": "2026-05-23T21:31:07Z"
+    },
+    {
+      "title": "Shakira’s World Cup anthem gets star-studded video treatment - NBC News",
+      "description": "Pop star Shakira on Saturday posted the official music video for “Dai Dai,” the 2026 World Cup anthem featuring Burna Boy, weeks before the FIFA tournament kicks off in North America",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/shakira-official-video-fifa-world-cup-2026-rcna346651",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260523-shakira-world-cup-ww-1047-e929d6.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-05-23T20:43:05Z"
+    },
+    {
+      "title": "The Boys Season 5 Rotten Tomatoes Officially Breaks All-Time Audience Score Record After Series Finale - ScreenRant",
+      "description": "After the series finale dropped on Prime Video, The Boys season 5 has officially set a Rotten Tomatoes record with its audience score.",
+      "url": "https://screenrant.com/the-boys-season-5-rotten-tomatoes-audience-score-record-update/",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/antony-starr-as-homelander-unimpressed-in-the-boys-season-5-1.jpg?w=1600&h=900&fit=crop",
+      "source": "Screen Rant",
+      "publishedAt": "2026-05-23T20:32:58Z"
+    },
+    {
+      "title": "Stewart McLean's friend 'knew there was big trouble' several days before Virgin River star was found dead at 45 - Entertainment Weekly",
+      "description": "Stewart McLean's friend says he 'knew there was big trouble' several days before the 'Virgin River' actor was found dead at 45: 'I would love to see justice served.'",
+      "url": "https://ew.com/stewart-mclean-friend-suspected-trouble-before-virgin-river-actor-found-dead-11982971",
+      "urlToImage": "https://ew.com/thmb/SBRBX7ehEMm0-0qycuqc4U_66sM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Stewart-McLean-Virgin-River-2-052226-96da999503c046da8c408db8050f9b3c.jpg",
+      "source": "Entertainment Weekly",
+      "publishedAt": "2026-05-23T20:15:16Z"
+    },
+    {
+      "title": "Alfred Molina on ‘The Boroughs’ Spoilers, Working With the Duffer Brothers and Doc Ock’s Legacy: ‘I Would Do It Again, No Doubt’ - Variety",
+      "description": "Alfred Molina breaks downn ‘The Boroughs,’ working with the Duffer Brothers and Doc Ock’s legacy ahead of ‘Spider-Man: Brand New Day.'",
+      "url": "https://variety.com/2026/tv/news/alfred-molina-the-boroughs-spoilers-spider-man-brand-new-day-1236756241/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/TheBoroughs-AlfredMolina-MAIN.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-05-23T19:30:00Z"
+    },
+    {
+      "title": "2026’s Crunchyroll Anime Awards Are All Over the Place - Gizmodo",
+      "description": "For its 10th anniversary, the Crunchyroll Anime Awards gave out wins to 'My Hero Academia,' 'Demon Slayer,' and...'Lazarus'?",
+      "url": "https://gizmodo.com/2026s-crunchyroll-anime-awards-are-all-over-the-place-2000762915",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/05/lazarus-crunchyrollawards-hed-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-05-23T18:50:48Z"
+    },
+    {
+      "title": "Trump trashes Colbert’s high-rated finale as “no ratings” - Salon.com",
+      "description": "Late Show finale surged in viewership, Trump attacks with AI clip showing him throwing Colbert into dumpster",
+      "url": "https://www.salon.com/2026/05/23/trump-trashes-colberts-high-rated-finale-as-no-ratings/",
+      "urlToImage": "https://www.salon.com/app/uploads/2026/05/3217085_2265-scaled.jpg",
+      "source": "Salon",
+      "publishedAt": "2026-05-23T17:00:57Z"
+    },
+    {
+      "title": "Box Office: ‘The Mandalorian and Grogu’ Tops Friday With Star Wars Franchise-Low $33M But Scores Series-High Audience Score - The Hollywood Reporter",
+      "description": "",
+      "url": "",
+      "urlToImage": null,
+      "source": "",
+      "publishedAt": "2026-05-23T16:53:57Z"
+    },
+    {
+      "title": "Cannes 2026 fashion: Monica Bellucci, Aishwarya Rai Bachchan and Bella Hadid bring the heat to the closing weekend - Yahoo",
+      "description": "The Cannes Film Festival has always been about more than movies — and these stars prove it.",
+      "url": "https://www.yahoo.com/entertainment/celebrity/article/cannes-2026-fashion-monica-bellucci-aishwarya-rai-bachchan-and-bella-hadid-bring-the-heat-to-the-closing-weekend-150128457.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gIbzn9GyXe8MAJ94NwYxQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-cannes521b_3135.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-23T16:32:19Z"
+    },
+    {
+      "title": "Charli XCX Drops Cheeky ‘Playboy Bunny’ B-Side to ‘SS26’ - Rolling Stone",
+      "description": "Charli XCX has shared the new song \"Playboy Bunny,\" the B-side to her latest single \"SS26.\"",
+      "url": "http://www.rollingstone.com/music/music-news/charli-xcx-shares-playboy-bunny-1235567645/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/05/charli-xcx-b-side.jpg?crop=84px%2C141px%2C1716px%2C965px&resize=1600%2C900",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-05-23T16:04:06Z"
+    },
+    {
+      "title": "Netflix Closes on U.S. Deal for Cannes Competition Film ‘The Black Ball,’ With Penélope Cruz and Glenn Close - The Hollywood Reporter",
+      "description": "The Spanish-language movie, directed by Javier Ambrossi and Javier Calvo, tells the story of three men in three different periods connected by the last works of the Spanish poet Federico García Lorca.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/netflix-cannes-film-deal-the-black-ball-penelope-cruz-1236604924/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/The-Black-Ball-200723-H-2026.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-05-23T14:38:35Z"
     }
   ]
 }
