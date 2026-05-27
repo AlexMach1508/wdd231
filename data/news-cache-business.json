@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-05-26T10:15:15.030Z",
+  "updatedAt": "2026-05-27T10:15:51.130Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Ericsson to relocate Stockholm operations to Hagastaden - Ericsson",
-      "description": "Additional leases for properties in the area have been signed in addition to the one previously communicated Process of moving Stockholm operations estimated to start 2028 and last several years",
-      "url": "https://www.ericsson.com/en/press-releases/2026/5/ericsson-to-relocate-stockholm-operations-to-hagastaden",
-      "urlToImage": "https://www.ericsson.com/49ba90/assets/global/qbank/2026/05/25/hagastaden-aerial-impression---courtesy-of-city-of-stockholm-6340x4193-1931785c58e9e1a341c9a0b4038530af89b1ea.jpg",
-      "source": "Ericsson",
-      "publishedAt": "2026-05-25T07:00:00Z"
+      "title": "Stock Market Today: Oil Prices Strengthen After Fresh Attacks on Iran — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-26-2026",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-26T10:26:00Z"
+    },
+    {
+      "title": "China Expands Travel Curbs to Top AI Talent at Private Firms - Bloomberg.com",
+      "description": "China is restricting overseas travel for top AI professionals in private firms such as Alibaba Group Holding Ltd. and DeepSeek, suggesting an escalation in measures intended to safeguard its technology and catch up to the US in a pivotal sphere.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iftlLTx_VMPU/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-26T08:12:22Z"
+    },
+    {
+      "title": "Ferrari Launches $640,000, Jony Ive-Designed, Glass-Clad Electric Speedster - WSJ",
+      "description": "Named after the Italian word for light, the Luce will test the appetite of the superrich as EVs have fallen out of favor in the U.S.",
+      "url": "https://www.wsj.com/business/autos/ferrari-launches-640-000-jony-ive-designed-glass-clad-electric-speedster-9deb248e",
+      "urlToImage": "https://images.wsj.net/im-99231727/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-26T08:11:00Z"
+    },
+    {
+      "title": "Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign - Al Jazeera",
+      "description": "Coffee chain has seen ‘very significant’ drop in sales after campaign that evoked crackdown, local operator says.",
+      "url": "https://www.aljazeera.com/economy/2026/5/26/starbucks-korean-sales-fall-after-backlash-to-tank-day-ad-campaign",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26146044994761-1779767745.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-26T04:43:59Z"
+    },
+    {
+      "title": "More Iran war? There goes the neighborhood, and global economy. - Responsible Statecraft",
+      "description": "US energy exporters might benefit from higher global oil prices, but American consumers do not and they, along the rest of the world, are paying.",
+      "url": "https://responsiblestatecraft.org/economy-iran-war/",
+      "urlToImage": "https://responsiblestatecraft.org/media-library/india-fuel-shortage.jpg?id=66805289&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
+      "source": "Responsiblestatecraft.org",
+      "publishedAt": "2026-05-26T04:08:23Z"
+    },
+    {
+      "title": "Dow futures jump over 300 points as U.S. oil tumbles on hope Iran deal is close: Live updates - CNBC",
+      "description": "The S&P 500 climbed 0.9% last week to notch its longest weekly winning streak since late 2023.",
+      "url": "https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108293238-1776440611255-gettyimages-2271796533-mms10036_pazd6kas.jpeg?v=1776802385&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-05-26T04:01:00Z"
     },
     {
       "title": "China Traders Rush for Exit After Cross-Border Flow Crackdown - Bloomberg.com",
-      "description": "Chinese investors are rushing to find alternative ways to buy and sell overseas equities after Beijing launched its most forceful crackdown on illicit cross-border stock trading to stem capital outflows.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-25/china-traders-rush-for-exit-after-cross-border-flow-crackdown",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLClZ8zRmpeA/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-25T06:48:00Z"
-    },
-    {
-      "title": "Huawei Touts Chipmaking Breakthrough to Shorten Gap with TSMC - Bloomberg.com",
-      "description": "Huawei Technologies Co. said it has come up with a new pathway to shorten its gap with industry leader Taiwan Semiconductor Manufacturing Co., potentially achieving a breakthrough in making advanced semiconductors without cutting-edge equipment.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isw93s8nEwhg/v0/1200x798.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-25T06:01:00Z"
-    },
-    {
-      "title": "Singapore tells banks to speed up account openings for wealthy clients - Financial Times",
       "description": null,
-      "url": "https://www.ft.com/content/07be8870-e7f8-4101-9f0a-56049e5ae16f?syn-25a6b1a6\\\\u003d1",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/china-traders-rush-for-exit-after-cross-border-flow-crackdown",
       "urlToImage": null,
-      "source": "Financial Times",
-      "publishedAt": "2026-05-25T05:56:04Z"
-    },
-    {
-      "title": "Jardines signals pivot with $2.4bn Australian radiology deal - Financial Times",
-      "description": "Acquisition of I-MED is Hong Kong-based conglomerate’s first since strategic overhaul",
-      "url": "https://www.ft.com/content/05f0337a-6f2d-401f-ba25-a31ac3dd0660?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82cf1b11-1836-47c2-a9d5-c16e0dcb0267.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-25T05:24:35Z"
-    },
-    {
-      "title": "Toshifumi Suzuki, the Japanese behind the ‘conbini’ empire, has died. He was 93. - AP News",
-      "description": "Toshifumi Suzuki, the Japanese businessman credited with creating the 7-Eleven convenience-chain global retail empire, has died. He was 93. The company said Monday that Suzuki, an honorary adviser at Seven & i Holdings, died May 18 of heart failure at his Tok…",
-      "url": "https://apnews.com/article/convenience-7eleven-retail-japan-stores-shopping-82f19832401a8f37247d557066d45cdd",
-      "urlToImage": "https://dims.apnews.com/dims4/default/61f7a19/2147483647/strip/true/crop/3759x2505+0+151/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fa7%2F056096e462585a055f9542df442c%2F8c89904511cb40909eaddbeb6d5e0228",
-      "source": "Associated Press",
-      "publishedAt": "2026-05-25T05:09:00Z"
-    },
-    {
-      "title": "Meta CEO Mark Zuckerberg's goodbye message to 8,000 fired employees also has two promises for the 70,000 - The Times of India",
-      "description": "Tech News News: Mark Zuckerberg's email landed in 78,000 inboxes on Wednesday morning, just as the first wave of layoff notices began going out in Singapore at 4 a.m..",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerbergs-goodbye-message-to-8000-fired-employees-also-has-two-promises-for-the-70000-who-survived-layoffs/articleshow/131281945.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131282034,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-25T04:29:00Z"
-    },
-    {
-      "title": "Japan’s Nikkei 225 tops 65,000 for first time as oil falls on Hormuz reopening hopes - CNBC",
-      "description": "Japan’s Nikkei 225 breached 65,000 for the first time Monday as a sharp decline in oil prices lifted risk sentiment in holiday-thinned trading.",
-      "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102374303-1779669624837-GettyImages-465836965.jpg?v=1779669640&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-05-24T23:49:55Z"
-    },
-    {
-      "title": "Google has seriously leaned into AI enshittification lately - The Register",
-      "description": "Could the Chocolate Factory's mission to reshape the web backfire?",
-      "url": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
-      "urlToImage": "https://image.theregister.com/5243010.jpg?imageId=5243010&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "source": "Theregister.com",
-      "publishedAt": "2026-05-24T23:00:00Z"
-    },
-    {
-      "title": "We found the best deals at the Amazon Memorial Day sale — Apple, Ninja, Adidas and more are up to 70% off - Yahoo",
-      "description": "We've spotted some standout price drops on spring style, self-care essentials, summer stock-ups and more.",
-      "url": "https://shopping.yahoo.com/deals/breaking-news/article/we-found-the-best-deals-at-the-amazon-memorial-day-sale--apple-ninja-adidas-and-more-are-up-to-70-off-163827177.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cd75c05929c5b2878aeb37e12f2769e6fa9aac40767212c6f28cc42e9b7f11a6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-3_0853.png",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-24T22:54:51Z"
-    },
-    {
-      "title": "Gold Gains as Prospects of Iran Deal Temper Inflation Concerns - Bloomberg.com",
-      "description": "Gold advanced as signs the US and Iran are closing in on a deal that would reopen the Strait of Hormuz tempered inflation concerns.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNPn5EIfgKjE/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-05-24T22:53:34Z"
+      "publishedAt": "2026-05-26T02:22:00Z"
     },
     {
-      "title": "Bond Strategists Warn Yields to Stay High Even If Iran War Ends - Bloomberg.com",
-      "description": "For all the hand-wringing over war-related inflation fears, there are signs that other drivers are having as much a bearing on longer-term borrowing costs.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-24/bond-strategists-warn-yields-to-stay-high-even-if-iran-war-ends",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i92xLEG0ADw8/v1/1200x800.jpg",
+      "title": "Taiwan Overtakes India as World's Fifth-Largest Stock Market - Bloomberg.com",
+      "description": "Taiwan overtook India in stock market value, powered mainly by a breakneck rally in the world’s largest chipmaker Taiwan Semiconductor Manufacturing Co.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/tsmc-s-relentless-rise-powers-taiwan-s-market-value-above-india",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCTBPs4Kr_Q4/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-05-24T22:30:08Z"
+      "publishedAt": "2026-05-26T01:21:00Z"
     },
     {
-      "title": "Oil, Dollar Slide on Optimism Over US-Iran Deal: Markets Wrap - Bloomberg.com",
-      "description": "Global stocks rose to record highs as crude oil fell after officials signaled the US was nearing a deal with Iran to reopen the Strait of Hormuz and restore oil flows. The dollar weakened.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-24/oil-dollar-slide-on-optimism-over-us-iran-deal-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGL1_0cjzQx8/v0/1200x800.jpg",
+      "title": "Oil Could Stay Above $100 for Years, Analysts Warn - Crude Oil Prices Today | OilPrice.com",
+      "description": "Energy experts say years of weak investment in new oil supply, combined with the prolonged Hormuz disruption, could push Brent crude into a prolonged $120$150 per barrel range",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Could-Stay-Above-100-for-Years-Analysts-Warn.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-25_uaz0okbaox.jpg",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-05-26T00:00:00Z"
+    },
+    {
+      "title": "Japan Slips to World’s No. 3 Creditor Behind Germany and China - Bloomberg.com",
+      "description": "Japan was overtaken by China as the world’s second largest creditor nation in 2025, despite setting a fresh record for its tally of overseas assets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/japan-slips-to-world-s-no-3-creditor-behind-germany-and-china",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izqgZqdv_8EU/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-05-24T22:07:57Z"
+      "publishedAt": "2026-05-25T23:33:07Z"
     },
     {
-      "title": "Google Just Shared Bad News for Nvidia, and Even Worse News For CoreWeave and Nebius - The Motley Fool",
-      "description": "Alphabet's latest side project could be a huge boost to this rapidly growing business.",
-      "url": "https://www.fool.com/investing/2026/05/24/google-just-shared-bad-news-for-nvidia-and-even-wo/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F870897%2Fgoogle-alphabet-getty-images.jpeg&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-05-24T22:00:00Z"
+      "title": "Custard apples: The crop that thrives in the toughest conditions - BBC",
+      "description": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
+      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3190/live/90f2c990-4ac1-11f1-b55d-0f258dce1735.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-05-25T23:27:04Z"
     },
     {
-      "title": "Everyone is navigating AI security in real time — even Google - TechCrunch",
-      "description": "We're in the transition period -- all of us.",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-24T21:39:21Z"
+      "title": "These AI Gurus Are Charging Wall Street Banks $25,000 a Day - Bloomberg.com",
+      "description": "Global banks are pouring billions into artificial intelligence yet struggling to automate workflows. Two ex-bankers say they are being hired to ignite the shift.",
+      "url": "https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwb_AquE1AfY/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-25T23:00:03Z"
     },
     {
-      "title": "Trump Family Faces Damning New Grift Revelations - Yahoo News UK",
-      "description": "A key government agency is dismantling efforts to regulate online betting markets and crypto as President Donald Trump and his family deepen their ties to...",
-      "url": "https://www.thedailybeast.com/trump-family-faces-damning-new-grift-revelations/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mMMocqcjaMOIsfAaw5ztCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/e219ae377914672840ae6cb8f33b4c99",
-      "source": "Daily Beast",
-      "publishedAt": "2026-05-24T21:09:22Z"
+      "title": "Treasury Curve Flashes Higher-for-Longer Warning Under Warsh - Bloomberg.com",
+      "description": "A key Treasury yield gap has shrunk to its tightest level in a year as traders ramp up bets the Federal Reserve may keep interest rates higher for longer under new chairman Kevin Warsh.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/treasury-curve-flashes-higher-for-longer-warning-under-warsh",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihRbhI5koO8c/v1/1200x778.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-25T22:40:01Z"
     },
     {
-      "title": "'He Knows the Flaws Because He Knows the Man': Why Elon Musk's OpenAI Attack Is Really About xAI - 24/7 Wall St.",
-      "description": "Rashaad Bilal of Earn Your Leisure distilled the Musk-versus-Altman saga down to one sharp line: “He knows the flaws because he knows the man.” That framing reorients how investors should read every legal filing, every X post, and every interview Elon Musk ai…",
-      "url": "https://247wallst.com/investing/2026/05/24/he-knows-the-flaws-because-he-knows-the-man-why-elon-musks-openai-attack-is-really-about-xai/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2025/01/GettyImages-2185632401.jpg",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-05-24T20:47:22Z"
+      "title": "Dan Strauss Restarts Downtown Tunnel Debate on Eve of ST3 Plan Update - The Urbanist",
+      "description": "An amendment from boardmember Dan Strauss would direct Sound Transit to prioritize a \"starter line\" between Westlake and Ballard ahead of a new tunnel in Downtown Seattle, flipping the script on Ballard Link. With a vote on Thursday, the timeline to consider …",
+      "url": "https://www.theurbanist.org/dan-strauss-restarts-downtown-tunnel-debate-on-eve-of-st3-plan-update/",
+      "urlToImage": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/05/20260307_113702-EDIT.jpg",
+      "source": "Theurbanist.org",
+      "publishedAt": "2026-05-25T21:38:59Z"
     },
     {
-      "title": "Half Of American Teens Want A Sedan, Not An SUV, And Automakers Are Listening - Carscoops",
-      "description": "Younger buyers, lower prices, and changing tastes may help sedans stage an unexpected return",
-      "url": "https://www.carscoops.com/2026/05/sedan-comeback-suv-fatigue/",
-      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2026/05/Buick-Electra-L_Concept-scaled.jpg",
-      "source": "CarScoops",
-      "publishedAt": "2026-05-24T19:34:48Z"
+      "title": "Uber’s $11.6 Billion Takeover Approach Lifts Delivery Hero Shares - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/hospitality/ubers-11-6-billion-takeover-approach-lifts-delivery-hero-shares-ca3f8d01",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-25T21:13:00Z"
     },
     {
-      "title": "Uber weighs higher bid for Delivery Hero after €11.5bn offer rebuffed - Financial Times",
-      "description": "San Francisco-based group approached major shareholder in German food group",
-      "url": "https://www.ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff2b6e667-12f4-4ae7-a1ae-72ba388f37cb.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-05-24T19:29:04Z"
+      "title": "7 On Your Side compares grocery prices. Do costs greatly differ between stores? - ABC7 Los Angeles",
+      "description": "From potatoes to poultry, Americans are watching the price of groceries as they try to make ends meet. 7 On Your Side compared prices of five common household staples.",
+      "url": "https://abc7.com/post/7-side-compares-grocery-prices-do-costs-greatly-differ-between-stores/19169311/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19143874_052126-kabc-6am-7oys-grocery-store-comparison-vid.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2026-05-25T19:51:46Z"
     }
   ]
 }

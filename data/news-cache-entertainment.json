@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-05-26T10:15:15.273Z",
+  "updatedAt": "2026-05-27T10:15:51.243Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Bam Margera Not Going To 'Jackass: Best and Last' Premiere Despite Invite - TMZ",
-      "description": null,
-      "url": "https://www.tmz.com/2026/05/25/bam-margera-not-going-to-jackass-movie-premiere/",
-      "urlToImage": null,
-      "source": "TMZ",
-      "publishedAt": "2026-05-25T08:00:10Z"
-    },
-    {
-      "title": "Horoscope for Monday, May 25, 2026 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/05/25/horoscopes-today-monday-may-25-2026",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2026-05-25T05:01:00Z"
-    },
-    {
-      "title": "Colbert’s Next Act?: Ex-‘Late Show’ Host’s New YouTube Channel Way More Interesting Than BS That CBS Tried To Quash His Public Access Special - Deadline",
-      "description": "Stephen Colbert may have revealed what his next move is now the Late Show is over on CBS, & CBS looks to still working with their ex-late night main man",
-      "url": "http://deadline.com/2026/05/colbert-youtube-cbs-takedown-1236920297/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/the-late-show-stephen-colbert-cbs.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-05-25T04:27:00Z"
-    },
-    {
-      "title": "Did Tracker Just Hit Reset Ahead Of Season 4? Russell Skips Town With A Secret About Colter - TVLine",
-      "description": "The Tracker Season 3 finale wrapped one mystery, but Russell’s exit leaves Colter in the dark about a potentially troubling secret involving their late father.",
-      "url": "https://www.tvline.com/2179794/tracker-season-3-episode-22-finale-explained-russell-exit-colter-dad-new-mystery/",
-      "urlToImage": "https://www.tvline.com/img/gallery/did-tracker-just-hit-reset-ahead-of-california-set-season-4-russell-skips-town-and-takes-the-truth-about-what-their-dad-did-to-colter-with-him/l-intro-1779481825.jpg",
-      "source": "TVLine",
-      "publishedAt": "2026-05-25T03:00:00Z"
-    },
-    {
-      "title": "Rick and Morty's Season 9 Premiere Is a Lot of Fun, But There's One Major Hitch - IGN",
-      "description": "Rick and Morty Season 9 kicks off with a fun, bombastic, and action-heavy first episode, but one character feels badly mishandled here. Read our full review.",
-      "url": "https://www.ign.com/articles/rick-and-morty-season-9-premiere-review-recap",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/24/ram-902-1-1779592931759.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-05-25T03:00:00Z"
-    },
-    {
-      "title": "‘Euphoria’ Season 3 Kills A Character & Gives Another A Deeper Backstory In Penultimate Episode - Deadline",
-      "description": "Sam Levinson has upped the ante with the penultimate episode of Euphoria Season 3.",
-      "url": "http://deadline.com/2026/05/euphoria-season-3-death-episode-7-recap-1236920287/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/colman-domingo_1.jpg?w=1000",
-      "source": "Deadline",
-      "publishedAt": "2026-05-25T02:53:00Z"
-    },
-    {
-      "title": "Why Is Kate Mansi Leaving 'General Hospital'? She Explains and Shares Photo From Final Day as Kristina (Exclusive) - TV Insider",
-      "description": "Plus, find out why she's leaving now.",
-      "url": "https://www.tvinsider.com/1265966/why-kate-mansi-leaving-general-hospital/",
-      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/05/general-hospital-kate-mansi-1420x798.jpg",
-      "source": "TVInsider",
-      "publishedAt": "2026-05-25T00:55:26Z"
-    },
-    {
-      "title": "MJF welcomes Mick Foley to AEW by kicking him in the junk - Cageside Seats",
-      "description": "With his contract signed, Foley quickly got involved in Double or Nothing’s main event story.",
-      "url": "https://www.cagesideseats.com/aew/445062/mjf-welcomes-mick-foley-aew-low-blow-double-or-nothing-darby-allin",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/05/MaxMJFlow.jpeg?quality=90&strip=all&crop=0,3.522070181674,100,92.955859636652",
-      "source": "Cageside Seats",
-      "publishedAt": "2026-05-25T00:08:00Z"
-    },
-    {
-      "title": "Stephen Colbert's 'Late Show' time slot replacement is 'not trying to replace' him: 'Not everybody's gonna love me' - Entertainment Weekly",
-      "description": "'Comics Unleashed' creator Byron Allen says he is not trying to 'replace' Stephen Colbert or his 'Late Show,' after taking over the late night series' time slot on CBS.",
-      "url": "https://ew.com/stephen-colbert-timeslot-replacement-says-he-is-not-trying-to-replace-him-11983093",
-      "urlToImage": "https://ew.com/thmb/ocT8flz4w7oDRdqmXXCQ2yxNlT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/stephen-colbert-byron-allen-040726-84e3681f1e4d44098744cffa480dfb98.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2026-05-24T23:33:23Z"
-    },
-    {
-      "title": "\"Payam Method\" hits the right note with piano students, making music education fun and accessible for kids - CBS News",
-      "description": "A piano teacher has won over an Oscar-winning composer with his new method for teaching students to play, and to compose their own music. The \"Payam Method\" has students sweeping national competitions.",
-      "url": "https://www.cbsnews.com/news/payam-method-piano-lessons-60-minutes/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/16/29f36eb1-9a7d-4b58-8086-7b6c501e733d/thumbnail/1200x630/24397aa259d0c0ea4d27c4ac19e324a8/payam-article.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-05-24T23:00:00Z"
-    },
-    {
-      "title": "NFL Fans Encouraged To 'Boycott' CBS During 2026 Season - Yahoo Sports",
-      "description": "There's a growing push to \"boycott\" CBS. Celebrities and TV viewers are encouraging all Americans to \"boycott\" the popular network in the wake of the...",
-      "url": "https://thespun.com/sports-media/nfl-fans-encouraged-to-boycott-cbs-during-2026-season",
-      "urlToImage": "https://s.yimg.com/os/en/the_spun_articles_751/f90ef184ea75e5a7ffab6b4c0b9189f2",
-      "source": "The Spun",
-      "publishedAt": "2026-05-24T22:57:33Z"
-    },
-    {
-      "title": "‘Mandalorian and Grogu’ tops box office charts as ‘Obsession’ grows in second weekend - NBC News",
-      "description": "After nearly seven years away from the big screen, a new “Star Wars” movie drew healthy but not record-breaking crowds to global theaters this weekend.",
-      "url": "https://www.nbcnews.com/pop-culture/movies/mandalorian-grogu-tops-box-office-obsession-grows-second-weekend-rcna346756",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260524-star-wars-mandalorian-ww-1540-678407.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-05-24T22:43:53Z"
-    },
-    {
-      "title": "Daily Update: AEW Double or Nothing preview, more on Oleksandr Usyk boxing match - F4W/WON",
-      "description": "A rundown of tonight’s Double or Nothing card, more thoughts on the Oleksandr Usyk boxing match, and more.",
-      "url": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-double-or-nothing-preview-more-on-oleksandr-usyk-boxing-match/",
-      "urlToImage": "https://www.f4wonline.com/wp-content/uploads/2026/05/AEW-Double-or-Nothing-Match-Card-Poster.jpg",
-      "source": "Figure Four Online",
-      "publishedAt": "2026-05-24T22:38:59Z"
-    },
-    {
-      "title": "'Marshals' Release Schedule: When the Finale Hits Paramount Plus - CNET",
-      "description": "Luke Grimes leads the Yellowstone sequel.",
-      "url": "https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-the-finale-hits-paramount-plus/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/342e7d0e158a156c753f62a8192bc035231d9e4a/hub/2026/02/27/7b6d3c65-72c3-47a0-a43d-89d57153faab/3098759-06778b2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-05-24T21:00:00Z"
-    },
-    {
-      "title": "Drake Makes History at Nos. 1, 2 & 3 on Billboard 200 With ‘ICEMAN,’ ‘HABIBTI’ & ‘MAID OF HONOUR’ - Billboard",
-      "description": "Drake makes history atop the Billboard 200 chart with \"ICEMAN,\" \"HABIBTI\" and \"MAID OF HONOUR\" debuting at Nos. 1, 2 and 3.",
-      "url": "http://www.billboard.com/lists/drake-iceman-habibti-maid-of-honour-top-billboard-200-chart/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/drake-wireless-festival-england-sj-2025-billboard-1800.jpg?w=1024",
+      "title": "BTS Wins Artist of the Year at 2026 American Music Awards; Taylor Swift Goes 0-8 - Billboard",
+      "description": "BTS won artist of the year for the second time at the 2026 American Music Awards, which were presented on Monday (May 25). Taylor Swift went 0-8.",
+      "url": "http://www.billboard.com/music/awards/bts-makes-amas-history-with-record-breaking-win-1236256463/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/05/P106J7IB-e1779765435713.jpg?w=1024",
       "source": "Billboard",
-      "publishedAt": "2026-05-24T19:25:50Z"
+      "publishedAt": "2026-05-26T08:34:14Z"
     },
     {
-      "title": "Stephen Amell Shares First ‘Baywatch’ Reboot Promo: “I Dream in Slow Motion” - The Hollywood Reporter",
-      "description": "The actor, who plays Captain Hobie Buchannon, son of David Hasselhoff's Mitch Buchannon, debuted the teaser for the Fox series, set to premiere in January.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/watch-first-baywatch-reboot-promo-livvy-dunne-brooks-nader-1236605332/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2266619609-H-2026.jpg?w=1296&h=730&crop=1",
+      "title": "WWE announces two Clash in Italy matches for ESPN - F4W/WON",
+      "description": "Last week, WWE announced that the first hour of Clash in Italy would be airing on ESPN. Tonight they announced which matches will occupy that timeslot. During tonight’s episode of Monday Night Raw…",
+      "url": "https://www.f4wonline.com/news/wwe/wwe-announces-two-clash-in-italy-matches-for-espn/",
+      "urlToImage": "https://www.f4wonline.com/wp-content/uploads/2026/05/WWE-Clash-in-Italy-2026-Cody-Rhodes-vs-Gunther.jpg",
+      "source": "Figure Four Online",
+      "publishedAt": "2026-05-26T03:42:03Z"
+    },
+    {
+      "title": "Actress Rachel Ward, 68, Responds to Accusations That She ‘Aged Really Bad’ - The Daily Beast",
+      "description": "The former model received negative comments after posting a makeup-free video.",
+      "url": "https://thelooker.thedailybeast.com/actress-rachel-ward-68-responds-to-accusations-that-she-aged-really-bad/",
+      "urlToImage": "https://media.thedailybeast.com/resizer/v2/P65LO4KAPJDXVD7Z6HC3IMETAM.jpg?auth=b7fa13a0a071abafa153c060a846d2d0ebf587816d993c1cc7298b1c600d0240&width=1200&height=630&smart=true",
+      "source": "Daily Beast",
+      "publishedAt": "2026-05-25T23:53:30Z"
+    },
+    {
+      "title": "American Music Awards: The Complete Winners List - Rolling Stone",
+      "description": "The full list of winners for the 2025 American Music Awards ceremony.",
+      "url": "http://www.rollingstone.com/music/music-news/amas-2026-complete-winners-list-1235568180/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/05/bts-win.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-05-25T23:39:11Z"
+    },
+    {
+      "title": "AMAs 2026 Red Carpet Photos: Hannah Berner, Karol G, Ejae, GloRilla, Maluma, Hilary Duff & More - Deadline",
+      "description": "Las Vegas is the host city of the 2026 American Music Awards and welcomed an all-star lineup to celebrate the best in music.",
+      "url": "https://deadline.com/gallery/american-music-awards-2026-red-carpet-photos/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/2026-american-music-awards-red-carpet-photos.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-05-25T23:10:00Z"
+    },
+    {
+      "title": "The 18 Best Movies We Saw at the 2026 Cannes Film Festival - IndieWire",
+      "description": "From 'Fjord' to 'Paper Tiger,' the best movies we saw at the 2026 Cannes Film Festival.",
+      "url": "https://www.indiewire.com/features/best-of/cannes-film-festival-2026-best-movies-1235196248/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/05/P106EXYA.jpg?w=650",
+      "source": "IndieWire",
+      "publishedAt": "2026-05-25T23:06:18Z"
+    },
+    {
+      "title": "How an indie horror film became a box-office ‘Obsession’ - NBC News",
+      "description": "Curry Barker, a 26-year-old YouTuber-turned-filmmaker, made his horror film “Obsession” in just 20 days on a mere $750,000 budget",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/obsession-curry-barker-box-office-hit-focus-features-rcna346824",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260525-obsession-ch-1532-ae123d.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-05-25T22:51:22Z"
+    },
+    {
+      "title": "The Tarot Horoscope For Tuesday, May 26 Is Here With A Reading For Your Zodiac Sign - YourTango",
+      "description": "Your zodiac sign's daily tarot horoscope for Tuesday, May 26, 2026, during the Sun in Gemini and the Moon in Libra.",
+      "url": "https://www.yourtango.com/2026397744/daily-tarot-horoscope-may-26-2026",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-05/daily-tarot-horoscope-may-26-2026.png",
+      "source": "YourTango",
+      "publishedAt": "2026-05-25T21:03:46Z"
+    },
+    {
+      "title": "Drew Carey Slams Spencer Pratt: ‘F**k This Guy’ - HuffPost",
+      "description": "The comedian did not hold back in voicing his concerns about the former reality TV star running for Los Angeles mayor.",
+      "url": "https://www.huffpost.com/entry/drew-carey-slams-spencer-pratt-f-k-this-guy_n_6a149294e4b062ca52d4981d",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6a149c121600005910c199c1.jpeg?cache=fLPgaoWiAw&ops=1200_630",
+      "source": "HuffPost",
+      "publishedAt": "2026-05-25T20:41:38Z"
+    },
+    {
+      "title": "After Stephen Colbert's viral talk show parody, CBS backs down from copyright action - NPR",
+      "description": "CBS and Paramount backed away from copyright challenges to limit distribution of Stephen Colbert's appearance on a Michigan cable access show. He ended his run as host of \"The Late Show\" on Friday.",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+269/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F62%2F3c61b7c3496aaf9397daccaa878c%2Fap26128137151458.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-05-25T19:58:37Z"
+    },
+    {
+      "title": "Tom Hanks Reveals Why He Keeps Taking on WWII Projects 25 Years After “Band of Brothers”: 'I've Been Wrestling with This' - Yahoo News UK",
+      "description": "“Every time I read a book, I come up with something else I want to option,” the Oscar-winning actor and producer says",
+      "url": "https://people.com/why-tom-hanks-keeps-taking-on-wwii-projects-25-years-after-band-of-brothers-11983285",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/idUqHuMwP2sTkS3BlJf1Rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/ffdf9ca58234235809f0e003feca1553",
+      "source": "PEOPLE",
+      "publishedAt": "2026-05-25T18:32:00Z"
+    },
+    {
+      "title": "‘Euphoria’ Creator Explains Season 3’s “Horrific” Death Scene in Penultimate Episode, Star Calls It “a Cool Way to Go” - The Hollywood Reporter",
+      "description": "Sam Levinson unpacked his decision to kill off one of the show's main characters and explained that he had always known it was their fate in an interview with Esquire.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/euphoria-creator-explains-season-3-death-scene-star-reacts-1236605459/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/Euphoria-cassie-.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2026-05-24T19:17:29Z"
+      "publishedAt": "2026-05-25T17:37:51Z"
     },
     {
-      "title": "Preview: Clash In Italy is must-see for fans, must-win for these stars - Cageside Seats",
-      "description": "WWE’s first-ever PLE in Italy features a big-time lineup with major implications.",
-      "url": "https://www.cagesideseats.com/wwe/444991/clash-in-italy-preview-must-win-matches-fatu-ruca",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/05/Screenshot-2026-05-24-09.32.58.png?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
-      "source": "Cageside Seats",
-      "publishedAt": "2026-05-24T19:00:00Z"
+      "title": "“Wuthering Heights ”Director Says She Regrets Cutting Margot Robbie's 'Extremely Hairy Armpits' from the Film - Yahoo News UK",
+      "description": "Emerald Fennell said she was often bothered by how \"hairless\" women were in period dramas, set in a time where razors weren't available",
+      "url": "https://people.com/wuthering-heights-director-regrets-cutting-margot-robbies-extremely-hairy-armpits-11983254",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qahsuvMlgZEDvoVY3bbwhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/1f5aa93bb4544f92878f185ce6006954",
+      "source": "PEOPLE",
+      "publishedAt": "2026-05-25T16:55:47Z"
     },
     {
-      "title": "It was hard to love the Foo Fighters during their headlining BottleRock set - SFGATE",
-      "description": "Foo Fighters headlined BottleRock for the third time, but Dave Grohl's baggage took center stage for SFGATE travel editor Silas Valentino.",
-      "url": "https://www.sfgate.com/sf-culture/article/foo-fighters-bottlerock-22268679.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/66/27/51/31029869/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-05-24T18:56:55Z"
+      "title": "Prince Harry Reportedly Shaken by Friendship Breakdown With Oscar-Winner - Yahoo",
+      "description": "Prince Harry is reportedly feeling the sting of another fading friendship. This time, insiders claim the Duke of Sussex is struggling to understand what...",
+      "url": "https://www.realitytea.com/2026/05/25/prince-harry-reportedly-shaken-after-george-clooney-friendship-collapse/",
+      "urlToImage": "https://s.yimg.com/os/en/reality_tea_694/f2d72da830397d819735dcf3cccb6946",
+      "source": "Reality Tea",
+      "publishedAt": "2026-05-25T16:38:54Z"
+    },
+    {
+      "title": "Memorial Day Weekend Box Office: ‘Mandalorian and Grogu’ Opens to $100 Million Domestically, $163 Million Globally - Variety",
+      "description": "\"The Mandalorian and Grogu\" topped the box office in its Memorial Day weekend debut.",
+      "url": "https://variety.com/2026/film/box-office/memorial-day-weekend-box-office-mandalorian-grogu-debut-1236758284/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD092.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-05-25T15:24:00Z"
+    },
+    {
+      "title": "MJF back where he belongs to cap sensational Double or Nothing as AEW keeps humming - New York Post",
+      "description": "Double or Nothing is becoming AEW’s can’t-miss show.",
+      "url": "https://nypost.com/2026/05/25/sports/aew-double-or-nothing-review-grade-mjf-defeats-darby-allin/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/05/newspress-collage-aynobja3a-1779694440753.jpg?quality=75&strip=all&1779680100&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-05-25T14:28:00Z"
+    },
+    {
+      "title": "AI takes over Cannes as agents privately seek big money deals with tech giants despite actors’ criticism - Page Six",
+      "description": "This was the year AI companies took over the Cannes Film Festival while the studios stayed home. And we hear that Hollywood agents were even eagerly aiming to strike deals with the AI outfits, neve…",
+      "url": "https://pagesix.com/2026/05/25/hollywood/ai-takes-over-cannes-as-agents-privately-seek-big-money-deals-with-tech-giants-despite-actors-criticism/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/05/newspress-collage-6iexxht89-1779681774582.jpg?quality=75&strip=all&1779667465&w=1200",
+      "source": "Page Six",
+      "publishedAt": "2026-05-25T13:45:00Z"
+    },
+    {
+      "title": "‘Summer House’ Reunion: All the Questions We Need Answered - Vulture",
+      "description": "From the moment Amanda and West dropped a statement about their ‘connection,’ Bravo fans have had one big question—what’s going to happen at the reunion?—made up of dozens of smaller ones. Here’s everything Andy needs to ask the ‘Summer House’ cast.",
+      "url": "http://www.vulture.com/article/summer-house-reunion-amanda-west-ciara-questions.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/152/ffa/06f355c37a50f96dee637de40c2875553e-summerhouse-reunion.1x.rsocial.w1200.jpg",
+      "source": "Vulture",
+      "publishedAt": "2026-05-25T13:00:35Z"
+    },
+    {
+      "title": "Stephen Colbert’s Replacement Byron Allen Sets Record Straight After ‘Late Show’ Ends - TV Insider",
+      "description": "The 'Comics Unleashed' host set the record straight about taking over Colbert's time slot on CBS.",
+      "url": "https://www.tvinsider.com/1265982/stephen-colbert-replacement-byron-allen-speaks-out-after-late-show-ends-comics-unleashed/",
+      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/05/byron-allen-stephen-colbert-1420x798.jpg",
+      "source": "TVInsider",
+      "publishedAt": "2026-05-25T12:36:06Z"
     }
   ]
 }
