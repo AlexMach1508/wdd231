@@ -1,135 +1,151 @@
 {
-  "updatedAt": "2026-05-27T10:15:51.130Z",
+  "updatedAt": "2026-05-28T10:21:18.721Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock Market Today: Oil Prices Strengthen After Fresh Attacks on Iran — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-26-2026",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-05-26T10:26:00Z"
-    },
-    {
-      "title": "China Expands Travel Curbs to Top AI Talent at Private Firms - Bloomberg.com",
-      "description": "China is restricting overseas travel for top AI professionals in private firms such as Alibaba Group Holding Ltd. and DeepSeek, suggesting an escalation in measures intended to safeguard its technology and catch up to the US in a pivotal sphere.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iftlLTx_VMPU/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-26T08:12:22Z"
-    },
-    {
-      "title": "Ferrari Launches $640,000, Jony Ive-Designed, Glass-Clad Electric Speedster - WSJ",
-      "description": "Named after the Italian word for light, the Luce will test the appetite of the superrich as EVs have fallen out of favor in the U.S.",
-      "url": "https://www.wsj.com/business/autos/ferrari-launches-640-000-jony-ive-designed-glass-clad-electric-speedster-9deb248e",
-      "urlToImage": "https://images.wsj.net/im-99231727/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-05-26T08:11:00Z"
-    },
-    {
-      "title": "Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign - Al Jazeera",
-      "description": "Coffee chain has seen ‘very significant’ drop in sales after campaign that evoked crackdown, local operator says.",
-      "url": "https://www.aljazeera.com/economy/2026/5/26/starbucks-korean-sales-fall-after-backlash-to-tank-day-ad-campaign",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26146044994761-1779767745.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-26T04:43:59Z"
-    },
-    {
-      "title": "More Iran war? There goes the neighborhood, and global economy. - Responsible Statecraft",
-      "description": "US energy exporters might benefit from higher global oil prices, but American consumers do not and they, along the rest of the world, are paying.",
-      "url": "https://responsiblestatecraft.org/economy-iran-war/",
-      "urlToImage": "https://responsiblestatecraft.org/media-library/india-fuel-shortage.jpg?id=66805289&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
-      "source": "Responsiblestatecraft.org",
-      "publishedAt": "2026-05-26T04:08:23Z"
-    },
-    {
-      "title": "Dow futures jump over 300 points as U.S. oil tumbles on hope Iran deal is close: Live updates - CNBC",
-      "description": "The S&P 500 climbed 0.9% last week to notch its longest weekly winning streak since late 2023.",
-      "url": "https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108293238-1776440611255-gettyimages-2271796533-mms10036_pazd6kas.jpeg?v=1776802385&w=1920&h=1080",
+      "title": "Stock futures are little changed after the S&P 500 closes at another record: Live updates - CNBC",
+      "description": "The S&P 500 and Nasdaq Composite rose to fresh intraday and closing records on Tuesday.",
+      "url": "https://www.cnbc.com/2026/05/26/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108311963-1779807870980-Traders-Photo-20260526-KK-PRESS-011.jpg?v=1779808014&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-05-26T04:01:00Z"
+      "publishedAt": "2026-05-27T08:23:00Z"
     },
     {
-      "title": "China Traders Rush for Exit After Cross-Border Flow Crackdown - Bloomberg.com",
-      "description": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-05-25/china-traders-rush-for-exit-after-cross-border-flow-crackdown",
+      "title": "Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist - Investing.com",
+      "description": "Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-japan-skorea-hit-records-on-wall-st-tech-rally-iran-fears-persist-4711171",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_L.jpg",
+      "source": "Investing.com",
+      "publishedAt": "2026-05-27T04:10:24Z"
+    },
+    {
+      "title": "Hong Kong overtakes Switzerland as hub for global offshore wealth - Financial Times",
+      "description": "Chinese territory enjoys surge of investment from mainland as wealthy spread assets across different jurisdictions",
+      "url": "https://www.ft.com/content/c030138f-275e-4950-be5e-62abe240057c?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89b44189-3738-48b5-8126-197badfc2fe4.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-27T04:01:35Z"
+    },
+    {
+      "title": "Samsung workers set for $400,000 bonus after deal to share AI profits - Financial Times",
+      "description": "Agreement with union ends wrangling over how to share spoils of boom at memory-chip maker",
+      "url": "https://www.ft.com/content/1b7625e7-e9ab-4660-aff5-c1e333c31a5c",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb97f0ab-f71a-4529-9162-1ddd6fe9d166.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-27T02:09:35Z"
+    },
+    {
+      "title": "Canada and Germany make liquefied natural gas deal as Carney looks to diversify from US - AP News",
+      "description": "A person familiar with the matter says Canada has reached a deal to export liquefied natural gas to Germany from a planned Pacific Coast terminal. The official confirmed Canada will sign the agreement with Germany’s SEFE, which stands for Securing Energy for …",
+      "url": "https://apnews.com/article/canada-germany-gas-export-agreement-63d6c6bed53c80046e6f90c26a0f9158",
+      "urlToImage": "https://dims.apnews.com/dims4/default/ce102f9/2147483647/strip/true/crop/3217x2144+0+27/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2Fcd%2F188a73ceba0a3486da52227d5c6e%2F151fb51299c24c9e9108fed040583810",
+      "source": "Associated Press",
+      "publishedAt": "2026-05-27T00:38:00Z"
+    },
+    {
+      "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club - Bloomberg.com",
+      "description": "The breakneck surge in memory-chip stocks is intensifying, sending the market capitalizations of SK Hynix Inc. and Micron Technology Inc. above $1 trillion for the first time, as investors bet the AI boom will lead to a sustained revaluation of the industry.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9MANZt3M344/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-27T00:07:00Z"
+    },
+    {
+      "title": "Trump pledges to protect the crypto industry and ensure prediction markets ‘thrive’ - NBC News",
+      "description": "President Donald Trump stressed the importance of establishing the CFTC’s authority over prediction markets and vowed to protect the cryptocurrency industry.",
+      "url": "https://www.nbcnews.com/business/markets/trump-crypto-prediction-markets-thrive-rcna347014",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260526-president-trump-vsb-1747-4c5695.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-05-26T23:59:10Z"
+    },
+    {
+      "title": "BP removes chair Albert Manifold after claims of bullying - Financial Times",
+      "description": "Hands-on approach was viewed as aggressive by several colleagues at UK oil major",
+      "url": "https://www.ft.com/content/d293ff5e-462f-43d1-a2e0-b144caa52203?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe29e07d6-7a8c-467a-ba31-be82808bc009.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-26T22:49:42Z"
+    },
+    {
+      "title": "SpaceX IPO Gets Another Greenlight Toward Faster Index Inclusion - Bloomberg.com",
+      "description": "FTSE Russell adopted a rule change that will speed the addition of newly listed large-cap companies to its main indexes, weeks ahead of SpaceX’s expected record-breaking initial public offering.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/spacex-ipo-gets-another-greenlight-toward-faster-index-inclusion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igNENvQ4jHSw/v0/1200x743.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-26T22:45:47Z"
+    },
+    {
+      "title": "SpaceX wins $2.29 billion Space Force contract for military data network - SpaceNews",
+      "description": "SpaceX wins $2.29 billion Space Force contract for military data network SpaceX wins $2.29 billion Space Force contract for military data network",
+      "url": "http://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/05/9004037.jpg",
+      "source": "SpaceNews",
+      "publishedAt": "2026-05-26T22:40:27Z"
+    },
+    {
+      "title": "Meta lays off nearly 700 Bay Area workers, and twice as many in Seattle area - San Francisco Chronicle",
+      "description": "Meta lays off nearly 700 Bay Area workers as the tech giant cuts nearly 8,000 employees",
+      "url": "https://www.sfchronicle.com/tech/article/meta-layoffs-bay-area-22277491.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/63/10/06/30179757/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2026-05-26T21:56:13Z"
+    },
+    {
+      "title": "The Trump administration is working on a deal to give weapons-grade plutonium to energy companies - CNN",
+      "description": "For years, the federal government has been working on turning old, unexploded warheads left over from the Cold War into a fuel for next-generation nuclear power.",
+      "url": "https://www.cnn.com/2026/05/26/climate/trump-administration-plutonium-deal-energy-companies",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199664610.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-05-26T21:44:09Z"
+    },
+    {
+      "title": "Court halts work on Minnesota data center - Star Tribune",
+      "description": "A Goodhue County judge has issued a restraining order on construction of a data center outside Pine Island, near Rochester.",
+      "url": "https://www.startribune.com/minnesota-data-center-pine-island-restraining-order/601849201",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/TQFK3DZQEZGJ5GQKWQNXGBIYRE.jpg?&w=1200&ar=1.91:1&fit=crop",
+      "source": "Minneapolis Star Tribune",
+      "publishedAt": "2026-05-26T21:28:27Z"
+    },
+    {
+      "title": "Rocket Lab, AST, Other Space Stocks Take Off After SpaceX’s Starship Blows Up - Barron's",
+      "description": "Shares of Rocket Lab, AST SpaceMobile, and others are soaring again on Tuesday.",
+      "url": "https://www.barrons.com/articles/rocket-lab-stock-ast-spacemobile-spacex-starship-2b6848e6",
+      "urlToImage": "https://images.barrons.com/im-72233373/social",
+      "source": "Barron's",
+      "publishedAt": "2026-05-26T20:55:00Z"
+    },
+    {
+      "title": "Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs - Fortune",
+      "description": "Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have been saying all along that there won’t be a white-collar wipeout.",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220-e1779827097282.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-05-26T20:34:00Z"
+    },
+    {
+      "title": "Consumer Alert: Residents Urged to Take Precautions After Invasive Glassy-Winged Sharpshooter Detected - YubaNet",
+      "description": "Marysville, Yuba County – Local agricultural oﬃcials are urging residents to take immediate precautions after the invasive glassy-winged sharpshooter was detected on grape plants sold at Costco stores. This leafhopper spreads Pierce’s disease, a bacterial inf…",
+      "url": "http://yubanet.com/regional/consumer-alert-residents-urged-to-take-precautions-after-invasive-glassy-winged-sharpshooter-detected/",
       "urlToImage": null,
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-26T02:22:00Z"
+      "source": "YubaNet",
+      "publishedAt": "2026-05-26T20:06:30Z"
     },
     {
-      "title": "Taiwan Overtakes India as World's Fifth-Largest Stock Market - Bloomberg.com",
-      "description": "Taiwan overtook India in stock market value, powered mainly by a breakneck rally in the world’s largest chipmaker Taiwan Semiconductor Manufacturing Co.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/tsmc-s-relentless-rise-powers-taiwan-s-market-value-above-india",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCTBPs4Kr_Q4/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-26T01:21:00Z"
+      "title": "Everlane Founder Michael Preysman Weighs in on the Shein Sale—and Reveals His New Project - Vogue",
+      "description": "Michael Preysman addresses what happened at Everlane, and reveals what he plans to do about it. Hint: he’s still radical.",
+      "url": "https://www.vogue.com/article/everlane-founder-michael-preysman-shein-sale-new-project",
+      "urlToImage": "https://assets.vogue.com/photos/6a15fa7bd2e1e1c35cc752db/16:9/w_1280,c_limit/GettyImages-978161310.jpg",
+      "source": "Vogue",
+      "publishedAt": "2026-05-26T20:01:29Z"
     },
     {
-      "title": "Oil Could Stay Above $100 for Years, Analysts Warn - Crude Oil Prices Today | OilPrice.com",
-      "description": "Energy experts say years of weak investment in new oil supply, combined with the prolonged Hormuz disruption, could push Brent crude into a prolonged $120$150 per barrel range",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Could-Stay-Above-100-for-Years-Analysts-Warn.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-25_uaz0okbaox.jpg",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-05-26T00:00:00Z"
-    },
-    {
-      "title": "Japan Slips to World’s No. 3 Creditor Behind Germany and China - Bloomberg.com",
-      "description": "Japan was overtaken by China as the world’s second largest creditor nation in 2025, despite setting a fresh record for its tally of overseas assets.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-25/japan-slips-to-world-s-no-3-creditor-behind-germany-and-china",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izqgZqdv_8EU/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-25T23:33:07Z"
-    },
-    {
-      "title": "Custard apples: The crop that thrives in the toughest conditions - BBC",
-      "description": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3190/live/90f2c990-4ac1-11f1-b55d-0f258dce1735.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-05-25T23:27:04Z"
-    },
-    {
-      "title": "These AI Gurus Are Charging Wall Street Banks $25,000 a Day - Bloomberg.com",
-      "description": "Global banks are pouring billions into artificial intelligence yet struggling to automate workflows. Two ex-bankers say they are being hired to ignite the shift.",
-      "url": "https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwb_AquE1AfY/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-25T23:00:03Z"
-    },
-    {
-      "title": "Treasury Curve Flashes Higher-for-Longer Warning Under Warsh - Bloomberg.com",
-      "description": "A key Treasury yield gap has shrunk to its tightest level in a year as traders ramp up bets the Federal Reserve may keep interest rates higher for longer under new chairman Kevin Warsh.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-25/treasury-curve-flashes-higher-for-longer-warning-under-warsh",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihRbhI5koO8c/v1/1200x778.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-25T22:40:01Z"
-    },
-    {
-      "title": "Dan Strauss Restarts Downtown Tunnel Debate on Eve of ST3 Plan Update - The Urbanist",
-      "description": "An amendment from boardmember Dan Strauss would direct Sound Transit to prioritize a \"starter line\" between Westlake and Ballard ahead of a new tunnel in Downtown Seattle, flipping the script on Ballard Link. With a vote on Thursday, the timeline to consider …",
-      "url": "https://www.theurbanist.org/dan-strauss-restarts-downtown-tunnel-debate-on-eve-of-st3-plan-update/",
-      "urlToImage": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/05/20260307_113702-EDIT.jpg",
-      "source": "Theurbanist.org",
-      "publishedAt": "2026-05-25T21:38:59Z"
-    },
-    {
-      "title": "Uber’s $11.6 Billion Takeover Approach Lifts Delivery Hero Shares - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/hospitality/ubers-11-6-billion-takeover-approach-lifts-delivery-hero-shares-ca3f8d01",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-05-25T21:13:00Z"
-    },
-    {
-      "title": "7 On Your Side compares grocery prices. Do costs greatly differ between stores? - ABC7 Los Angeles",
-      "description": "From potatoes to poultry, Americans are watching the price of groceries as they try to make ends meet. 7 On Your Side compared prices of five common household staples.",
-      "url": "https://abc7.com/post/7-side-compares-grocery-prices-do-costs-greatly-differ-between-stores/19169311/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19143874_052126-kabc-6am-7oys-grocery-store-comparison-vid.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-05-25T19:51:46Z"
+      "title": "Micron Stock Hits $1 Trillion. Trump and Wall Street Unite Behind the Chip Titan. - Barron's",
+      "description": "Micron stock rallies after President Donald Trump praised the memory-chip company’s investment plan, and the company is set to have a $1 trillion market value.",
+      "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-trump-5c6f7870",
+      "urlToImage": "https://images.barrons.com/im-63738/social",
+      "source": "Barron's",
+      "publishedAt": "2026-05-26T19:02:00Z"
     }
   ]
 }
