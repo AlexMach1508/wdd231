@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-05-30T08:38:35.542Z",
+  "updatedAt": "2026-05-31T09:19:24.724Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post",
-      "description": "Negotiators have reached an agreement to end the conflict, but it requires approval from President Donald Trump and Iranian leadership.",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/28/us-iran-trade-strikes-trump-cites-no-pressure-peace-deal/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U4LFCMYB4VLAAVODCYY7WPQ5NE_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-05-29T04:14:21Z"
+      "title": "Pete Hegseth lauds better US ties with China - Financial Times",
+      "description": "Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing",
+      "url": "https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb23b076a-58ae-4cb9-b781-9dab1c2b66b8.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-05-30T07:30:00Z"
     },
     {
-      "title": "Anthropic soars to $965bn valuation, leapfrogging OpenAI - Al Jazeera",
-      "description": "Claude maker raises $65bn from investors ahead of expected initial public offering.",
-      "url": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26127571392608-1-1780015397_13c669-1780016460.jpg?resize=1200%2C630&quality=80",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-29T03:21:10Z"
-    },
-    {
-      "title": "Russian drone hits apartment block in Romania, defense ministry says - politico.eu",
-      "description": "The drone ‌crossed the border from Ukraine and crashed into a residential building in Galați, causing a fire and minor injuries to two people.",
-      "url": "https://www.politico.eu/article/russian-drone-hits-romania-apartment-block-defense-ministry/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/29/GettyImages-2175834739-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-05-29T03:21:00Z"
-    },
-    {
-      "title": "Michigan Gov. Whitmer says she won't run for president in 2028. Then backtracks hours later - AP News",
-      "description": "Democrat Gretchen Whitmer has backtracked on an earlier comment about running for president in 2028, saying she has “nothing to announce.” The Michigan governor is term-limited and will be leaving office at the end of this year. For months, she has offered on…",
-      "url": "https://apnews.com/article/whitmer-president-michigan-governor-democrats-2028-4721c9afcf8e899e29e69ceca47d6b3d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/15494bd/2147483647/strip/true/crop/7706x5135+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F10%2F76%2F2e6587272b991a83bbb58de5d801%2Fdbd7c17b5f9840fa95bf0a09bef4d894",
-      "source": "Associated Press",
-      "publishedAt": "2026-05-29T03:03:00Z"
-    },
-    {
-      "title": "Live updates: Shrey Parikh wins Scripps National Spelling Bee after a spell-off - The Washington Post",
-      "description": "Live updates from the 2026 Scripps National Spelling Bee finals including words, definitions and analysis.",
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/05/28/scripps-national-spelling-bee-2026-live-updates-words-definitions-finals/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BJBD3FEB2KUG3LEJR5BACNHBDA_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-05-29T02:34:02Z"
-    },
-    {
-      "title": "How ‘Hacks’ Wrapped Up Deborah & Ava’s Story In Emotional Paris-Set Series Finale - Deadline",
-      "description": "After five seasons, 'Hacks' gave fans an emotional farewell on Thursday with the series finale of the HBO Max comedy drama.",
-      "url": "http://deadline.com/2026/05/how-hacks-wrapped-up-deborah-ava-story-series-finale-1236929722/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/Hacks_510_Jean-Smart_Hannah-Einbinder_pc-Kenny-Laubbacher.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-05-29T01:45:00Z"
-    },
-    {
-      "title": "SpaceX Lowers IPO Valuation Target to at Least $1.8 Trillion - Bloomberg.com",
-      "description": "SpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk’s rocket and artificial intelligence company nears its debut.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-lowers-ipo-valuation-target-to-at-least-1-8-trillion",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iREwW7uQAfCA/v1/1200x799.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-29T01:22:00Z"
-    },
-    {
-      "title": "NBA playoffs 2026: Live updates from Thunder-Spurs Game 6 - ESPN",
-      "description": "Follow along for all the top moments and highlights from Game 6 between the Oklahoma City Thunder and San Antonio Spurs.",
-      "url": "https://www.espn.com/nba/story/_/id/48895122/oklahoma-city-thunder-san-antonio-spurs-game-6-nba-playoffs-2026-live-updates",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0529%2Fr1665121_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-05-29T01:20:00Z"
-    },
-    {
-      "title": "Angelina Jolie & Brad Pitt's Son Maddox Dropping 'Pitt' From Last Name - TMZ",
-      "description": "Brad Pitt and Angelina Jolie's son Maddox Jolie-Pitt really looks like he wants nothing to do with his famous pops ... because he's legally dropping his surname.",
-      "url": "https://www.tmz.com/2026/05/28/maddox-jolie-changing-name/",
-      "urlToImage": "https://imagez.tmz.com/image/38/16by9/2026/05/29/384671929350454aabf7832a985846fd_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2026-05-29T00:42:15Z"
-    },
-    {
-      "title": "Confirmed death toll climbs to 8 in Longview paper mill disaster - Oregon Public Broadcasting - OPB",
-      "description": "Recovery efforts are continuing at the Nippon Dynawave Packaging Co., where a tank holding hundreds of thousands of gallons of a caustic chemical ruptured.",
-      "url": "https://www.opb.org/article/2026/05/28/longview-paper-mill-disaster-5-things-to-know/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/JK46YFHNIRCJRAHVO4N7KNVC34.JPG?auth=9bf781b5a58e26f1ea32b772c4f7a1b1876cabd6d1048522d9b9929000c021d2&width=1200&height=675&smart=true",
-      "source": "OPB News",
-      "publishedAt": "2026-05-28T23:38:51Z"
-    },
-    {
-      "title": "Vance says U.S. and Iran are \"very close\" to a deal - Axios",
-      "description": "Trump and his advisers thought they were close to a deal several times at earlier stages in the war, but talks repeatedly stalled.",
-      "url": "https://www.axios.com/2026/05/28/iran-war-us-peace-deal-close-vance",
-      "urlToImage": "https://images.axios.com/7MLaVxfOk1fwHqHSa7eozbYJmEA=/0x117:7161x4145/1366x768/2026/05/28/1780008033018.jpeg",
+      "title": "Trump's name must be removed from Kennedy Center, judge orders - Axios",
+      "description": "\"Congress gave the Kennedy Center its name, and only Congress can change it,\" the judge wrote in his ruling.",
+      "url": "https://www.axios.com/2026/05/29/trump-kennedy-center-name-removed-closure",
+      "urlToImage": "https://images.axios.com/J99fhRUWGW99GaPIxZDmuwisDgk=/0x592:5683x3789/1366x768/2026/05/29/1780081546297.jpg",
       "source": "Axios",
-      "publishedAt": "2026-05-28T23:16:48Z"
+      "publishedAt": "2026-05-30T05:33:46Z"
     },
     {
-      "title": "Heron-like, fish-eating dinosaur from 70 million years ago discovered in Argentina - Phys.org",
-      "description": "A new raptor-like dinosaur from some 70 million years ago that ate fish and behaved like modern herons has been unearthed from southern Patagonia. The new species, which has been named Kank australis, was identified based on the discovery of fossil remains in…",
-      "url": "https://phys.org/news/2026-05-heron-fish-dinosaur-million-years.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/heron-like-fish-eating.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2026-05-28T23:10:06Z"
-    },
-    {
-      "title": "Calling for 'new approach,' CBS News leader Bari Weiss replaces executive producer at '60 Minutes' - AP News",
-      "description": "Saying it was time for a new approach and a new chapter, CBS News editor-in-chief Bari Weiss has replaced the executive producer of “60 Minutes.\" Nick Bilton, a documentarian, tech journalist and former New York Times columnist with no traditional broadcast T…",
-      "url": "https://apnews.com/article/cbs-60-minutes-bari-weiss-bilton-0afb86888cccd9e47a3e103a88984bba",
-      "urlToImage": "https://dims.apnews.com/dims4/default/194d852/2147483647/strip/true/crop/1947x1297+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2Feb%2F1d73340fec7641b320b48d2cdda5%2F3fbece357d8e4f4a999217af17a2f50a",
+      "title": "Trump’s physician says the president is in ‘excellent health’ and is ‘fully fit’ to serve - AP News",
+      "description": "Donald Trump’s physician says the president is in “excellent health” and is “fully fit” to serve as commander in chief after a medical exam Tuesday at Walter Reed National Military Medical Center. A report from Dr. Sean Barbabella, released late Friday, says …",
+      "url": "https://apnews.com/article/trump-health-checkup-fitness-doctors-a883ebfd180c5bc232587f44449f782a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3fb6b1b/2147483647/strip/true/crop/1788x1191+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F6c%2F6d6e73e9b6eda9935163cca29418%2F4ad51a01ecd14c83b139bf55bf926078",
       "source": "Associated Press",
-      "publishedAt": "2026-05-28T23:07:00Z"
+      "publishedAt": "2026-05-30T03:52:00Z"
     },
     {
-      "title": "AI facial recognition to check age of asylum seekers from next year - BBC",
-      "description": "The Home Office says the tool will make it easier to identify adult migrants \"attempting to game the system\".",
-      "url": "https://www.bbc.com/news/articles/ce3pe36qe7ro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0cdf/live/b79886d0-5aab-11f1-b277-cd187c78657d.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-05-28T23:05:09Z"
+      "title": "Bill Maher Blasts Trump’s Freedom 250 Concert Series Lineup: “It Shows He’s Concerned for the Unemployed” - The Hollywood Reporter",
+      "description": "Bret Michaels, The Commodores, Young MC, Morris Day and Martina McBride are among the artists who have dropped out of the event's lineup.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/bill-maher-trump-freedom-250-concert-lineup-concerned-unemployed-1236609316/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/04/Bill-Maher-Donald-Trump-getty-H-2025.png?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-05-30T03:24:44Z"
     },
     {
-      "title": "Ozempic may be reshaping the brain, scientists say - Ground News",
-      "description": "Scientists are exploring how GLP-1 drugs like Ozempic may not only be a metabolism breakthrough, but could also reshape some patients’ brains. GLP-1s were originally developed to treat diabetes and obesity, but researchers at the University of Colorado Anschu…",
-      "url": "https://ground.news/article/scientists-identify-hidden-brain-pathway-behind-glp-1-weight-loss-effects_837b42",
-      "urlToImage": null,
-      "source": "Ground.news",
-      "publishedAt": "2026-05-28T22:29:00Z"
-    },
-    {
-      "title": "Helen Mirren breaks silence amid Tom Hardy MobLand controversy - Entertainment Weekly",
-      "description": "Helen Mirren has spoken out amid multiple reports of Tom Hardy's behavior causing tension on the set of Paramount+ series 'MobLand.'",
-      "url": "https://ew.com/helen-mirren-tom-hardy-mobland-controversy-11986048",
-      "urlToImage": "https://ew.com/thmb/3p8QoZJL6BgZ2oqhR78I5QdUhso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Helen-Mirren-37th-Annual-American-Cinematheque-Awards-2024-Tom-Hardy-Mobland-premiere-2025-052826-b348fa3fae34419e863fb8f090818650.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2026-05-28T22:08:24Z"
-    },
-    {
-      "title": "Justice Dept. investigating outside funding E. Jean Carroll received for civil lawsuits against Trump, sources say - CBS News",
-      "description": "DOJ is probing a nonprofit run by billionaire Reid Hoffman that funded a portion of E. Jean Carroll's civil litigation against President Trump, several sources said.",
-      "url": "https://www.cbsnews.com/news/justice-dept-reid-hoffman-e-jean-carroll-trump-lawsuits/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/28/46934961-a019-463f-97bf-c2c0ae2d7555/thumbnail/1200x630g6/0e7eb6664986939cd66fc53e6701b830/gettyimages-2177511833.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-05-28T21:34:00Z"
-    },
-    {
-      "title": "In California's packed race to replace Newsom, Democrats are shrugging at their choices - PBS",
-      "description": "Though voting began in early May ahead of the June 2 primary, Democrats have been returning their ballots at a slower pace than normal after a chaotic campaign full of surprises. Unlike recent races for governor, there's been no clear front-runner or politica…",
-      "url": "https://www.pbs.org/newshour/politics/in-californias-packed-race-to-replace-newsom-democrats-are-shrugging-at-their-choices",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-06T020319Z_410584920_RC2E3LAZ88KJ_RTRMADP_3_USA-ELECTION-CALIFORNIA-GOVERNOR-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-05-28T21:29:30Z"
-    },
-    {
-      "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
+      "title": "Ships Are Sailing ‘Dark’ to Sneak Out of Strait of Hormuz - WSJ",
       "description": null,
-      "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
+      "url": "https://www.wsj.com/world/middle-east/ships-are-sailing-dark-to-sneak-out-of-strait-of-hormuz-0db91dcf",
       "urlToImage": null,
-      "source": "Inc.",
-      "publishedAt": "2026-05-28T20:34:33Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-30T03:00:00Z"
+    },
+    {
+      "title": "Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post",
+      "description": "The destruction of Jeff Bezos's New Glenn rocket clouds NASA’s lunar timeline and deepens reliance on SpaceX, as the U.S. races China to the moon.",
+      "url": "https://www.washingtonpost.com/technology/2026/05/29/blue-origin-rocket-explosion-sets-stage-elon-musks-dominance-space/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DAVA2ZRU4Y6UXCMYTX6WCIK7EI.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-05-30T02:42:41Z"
+    },
+    {
+      "title": "Music Mogul Clive Davis Hospitalized in New York - TMZ",
+      "description": "Clive Davis -- the music mogul who molded the careers of Whitney Houston, Aretha Franklin, Kelly Clarkson -- is hospitalized ... TMZ has learned.",
+      "url": "https://www.tmz.com/2026/05/29/clive-davis-hospitalized/",
+      "urlToImage": "https://imagez.tmz.com/image/ee/16by9/2026/05/30/ee26cf5391074cd5ae952f23fe299833_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2026-05-30T02:11:27Z"
+    },
+    {
+      "title": "Why Dell Stock Skyrocketed to a New All-Time High Today - Yahoo Finance",
+      "description": "AI server sales are booming.",
+      "url": "https://www.fool.com/investing/2026/05/29/why-dell-stock-skyrocketed-new-all-time-high-today/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872466%2Fcloud-computing-gettyimages-1336250828.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-05-30T02:02:00Z"
+    },
+    {
+      "title": "Exclusive | How Replimune’s Drug Got Third Chance After White House Intervention - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/pharma/how-replimunes-drug-got-third-chance-after-white-house-intervention-89453a87",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-05-30T01:53:00Z"
+    },
+    {
+      "title": "13-year-old, 7-year-old among 5 killed in massive crash on I-95 in Virginia: Police - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/5-killed-34-hurt-massive-crash-bus-6/story?id\\\\u003d133415960",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-30T01:41:15Z"
+    },
+    {
+      "title": "New poll in California governor's race shows a top three - but only two candidates will move on - ABC7 Los Angeles",
+      "description": "Two polls released this week in the California governor's race show the same candidate in first place: Xavier Becerra.",
+      "url": "https://abc7.com/post/new-poll-california-governors-race-shows-top-candidates-will-move/19195041/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19196253_052926-kabc-5pm-gov-race-poll-vid.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2026-05-30T01:01:08Z"
+    },
+    {
+      "title": "Trump’s ‘anti-weaponization fund’ is stalled, and some allies are urging him to scrap it entirely - CNN",
+      "description": "President Donald Trump’s proposed $1.8 billion “anti-weaponization fund” is currently stalled, with some allies urging the White House to scrap it altogether amid an unusually intense backlash from multiple Senate Republicans, sources familiar with the matter…",
+      "url": "https://www.cnn.com/2026/05/29/politics/trump-weaponization-fund-pushback",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-27t160933z-2124575809-rc2shlaiswal-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-05-30T00:45:00Z"
+    },
+    {
+      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors - The Verge",
+      "description": "All eyes area now on Nvidia’s keynote at Computex on Sunday night.",
+      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T23:03:29Z"
+    },
+    {
+      "title": "Thunder’s Jalen Williams officially ruled out for Game 7 of Western Conference Finals - NBC Sports",
+      "description": "Jalen Williams tried in Game 6. It was clear his hamstring wasn't ready to play a game.",
+      "url": "https://www.nbcsports.com/nba/news/thunders-jalen-williams-officially-ruled-out-for-game-7-of-western-conference-finals",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/10d9287/2147483647/strip/true/crop/4664x2624+0+1071/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fa5%2F185ce94045edac8e3da0f030d3a5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2277997808",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-05-29T23:00:09Z"
+    },
+    {
+      "title": "Backs against the wall for Auburn baseball following regional loss to Milwaukee - 247Sports",
+      "description": "Auburn baseball now has to win four games in three days to advance to the Super Regional round",
+      "url": "https://247sports.com/college/auburn/article/auburn-baseball-now-has-to-win-four-games-in-three-days-to-advance-to-the-super-regional-round-286881747/",
+      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/362/934/13934362.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+      "source": "247Sports",
+      "publishedAt": "2026-05-29T22:05:33Z"
+    },
+    {
+      "title": "Tracking the 2026 Ebola outbreak in maps and figures: Locations, severity, how contagious it is and more - NBC News",
+      "description": "Learn more about the deadly 2026 Ebola outbreak, including how many cases there are so far, which countries are most affected, how this outbreak compares with others in severity and more.",
+      "url": "https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/20260529-ebola-outbreak-jz-2X1-fdf84a.png",
+      "source": "NBC News",
+      "publishedAt": "2026-05-29T22:03:03Z"
     }
   ]
 }

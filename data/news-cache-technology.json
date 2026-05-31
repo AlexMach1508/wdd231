@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-05-30T08:38:35.659Z",
+  "updatedAt": "2026-05-31T09:19:24.791Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Xbox fans brace for tough decisions as CEO Asha Sharma outlines challenges ahead - Windows Central",
-      "description": "Xbox's new CEO revealed that Xbox is in a tough spot in a new memo shared by The Verge. What could the \"tough decisions\" be on the horizon for Asha Sharma?",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-tough-decisions-ahead-what-could-this-mean-for-xbox-helix-xbox-games-studios-or-xbox-exclusives",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KkY4E2tTAD3dkkEaooH6r5-2560-80.jpg",
+      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors - The Verge",
+      "description": "All eyes area now on Nvidia’s keynote at Computex on Sunday night.",
+      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T23:03:29Z"
+    },
+    {
+      "title": "Kuo: Apple’s iPhone camera roadmap includes a costly upgrade - 9to5Mac",
+      "description": "Analyst Ming-Chi Kuo is out with a new look at Apple’s upcoming iPhone camera plans, including an under-the-hood ultra-wide module change and a surprisingly steep cost increase.",
+      "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-05-29T21:05:00Z"
+    },
+    {
+      "title": "Rayman Origins: Enhanced Edition leaked, first details and screenshots - Nintendo Everything",
+      "description": "Rayman leaks are springing up all over, and now one has happened for the unannounced Rayman Origins: Enhanced Edition. The title has surfaced over on the Xbox store. Ubisoft calls it the “definitive experience” with “4K resolution, 60 FPS, and modern enhancem…",
+      "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-leak.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-05-29T20:58:44Z"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 will be the first to ship day-and-date on Switch 2 - alongside PS5, Xbox Series X/S and PC - Digital Foundry",
+      "description": "And the campaign is single-player only, thank God.",
+      "url": "https://www.digitalfoundry.net/previews/call-of-duty-modern-warfare-4-will-be-the-first-to-ship-day-and-date-on-switch-2-alongside-ps5-xbox-series-xs-and-pc",
+      "urlToImage": "https://images.digitalfoundry.net/c99c84c8f3d48/large.jpg",
+      "source": "Digitalfoundry.net",
+      "publishedAt": "2026-05-29T20:34:36Z"
+    },
+    {
+      "title": "TP-Link Says Screw It, We’re Doing Wi-Fi 8 Now - Gizmodo",
+      "description": "The company plans to launch its first router with the new standard in October.",
+      "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-05-29T20:25:49Z"
+    },
+    {
+      "title": "Xbox CCO Matt Booty confirms it will show off PS5 availability for games at the Xbox Games Showcase - Windows Central",
+      "description": "Microsoft's Xbox CCO Matt Booty has confirmed it will broadcast multiplatform availability of titles shown at the Xbox Games Showcase next week.",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-games-chief-confirms-microsoft-will-show-when-its-titles-are-coming-to-ps5-and-other-platforms-at-the-xbox-games-showcase",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5SynmdFSYnmmRfUGkSQLsA-1920-80.jpg",
       "source": "Windows Central",
-      "publishedAt": "2026-05-28T21:09:11Z"
+      "publishedAt": "2026-05-29T20:13:35Z"
     },
     {
-      "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
-      "description": null,
-      "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
-      "urlToImage": null,
-      "source": "Inc.",
-      "publishedAt": "2026-05-28T20:34:33Z"
+      "title": "This Revolutionary Energy Gel Will Transform the Tour de France. It Contains the Last Thing You’d Expect. - Outside Magazine",
+      "description": "A project led by former Ineos scientist achieved what Pogačar and UAE Emirates couldn't and solved one of the oldest puzzles of sports nutrition.",
+      "url": "https://velo.outsideonline.com/road/road-training/lactate-energy-gel-tour-de-france/#article",
+      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/Z8C_5588.jpg",
+      "source": "Outside",
+      "publishedAt": "2026-05-29T20:07:11Z"
     },
     {
-      "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct - Eurogamer",
-      "description": "CD Projekt Red reveals new info about The Witcher 3 expansion Songs of the Past, including its original intention to release it in 2026.",
-      "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details",
-      "urlToImage": "https://assetsio.gnwcdn.com/the-witcher-3-10-years-piece.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-05-28T18:17:02Z"
-    },
-    {
-      "title": "Apple releases first iOS 26.6 public beta, here’s what to expect - 9to5Mac",
-      "description": "Apple has released the first iOS 26.6 public beta. The update follows the first developer beta release on Tuesday.  iOS...",
-      "url": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Apple Music outage confirmed in multiple countries - 9to5Mac",
+      "description": "Apple’s System Status pages in several countries are showing an ongoing Apple Music disruption. Here are the details.",
+      "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-05-28T17:38:00Z"
+      "publishedAt": "2026-05-29T19:16:00Z"
     },
     {
-      "title": "Help, An Immortal Snail Is Chasing My Mouse Cursor While I Work - Kotaku",
-      "description": "I will not let it catch me—oh god wait no there it is",
-      "url": "https://kotaku.com/help-an-immortal-snail-is-chasing-my-mouse-cursor-2000690963",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/05/donttouchsnail.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-05-28T17:00:43Z"
+      "title": "Acer’s launching a Linux handheld for streaming your PC games - The Verge",
+      "description": "The new Acer Nitro Blaze Link handheld is designed for streaming games from your PC like a PlayStation Portal, running on Linux and just 1GB of RAM.",
+      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acer-nitro-blaze-link-announcement-cropped.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T19:01:48Z"
     },
     {
-      "title": "The 3.1 PTR: What You Need to Know — Diablo IV - Blizzard News",
-      "description": "Preview the return of Realmwalkers, reworked Mythic Uniques system, and more in the upcoming 3.1. PTR.",
-      "url": "https://news.blizzard.com/en-gb/article/24259077/the-3-1-ptr-what-you-need-to-know",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/vk/VKO0FT9QY1YS1754699164594.png",
-      "source": "Blizzard.com",
-      "publishedAt": "2026-05-28T17:00:00Z"
+      "title": "Diablo 4 Is Getting A Long-Awaited Solo Mode Next Season - GameSpot",
+      "description": "Diablo 4 players looking for even more of a challenge will be able to create Solo-Self-Found characters starting in Season 14. Developer Blizzard revealed Diablo 4’s Solo-Self-Found (or SSF) mode as part of its Season 14 public test realm patch notes, offerin…",
+      "url": "https://www.gamespot.com/articles/diablo-4-is-getting-a-long-awaited-solo-mode-next-season/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/05/Diablo-4-Adding-SSF-S14.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-05-29T18:40:11Z"
     },
     {
-      "title": "Oura Ring 5 Unveiled With Smaller Design and Blood Pressure Tracking - MacRumors",
-      "description": "Oura today unveiled the Oura Ring 5, a significantly smaller smart ring with new health-monitoring capabilities including blood pressure trend...",
-      "url": "https://www.macrumors.com/2026/05/28/oura-ring-5-unveiled-with-smaller-design/",
-      "urlToImage": "https://images.macrumors.com/t/2T4H_h3Dwbwfb2PyrirRZP_DVT8=/3240x/article-new/2026/05/oura-ring-5.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-05-28T16:22:04Z"
-    },
-    {
-      "title": "Intel Arc G3 CPU Family Officially Released for Handheld Gaming PCs - TechPowerUp",
-      "description": "Following a series of leaks about an upcoming Intel Panther Lake CPU for gaming handhelds, the hardware giant has officially announced the Intel Arc G3 CPU series, which features the powerful Arc B390 iGPU and optimizations for the Windows Xbox mode that star…",
-      "url": "https://www.techpowerup.com/349450/intel-arc-g3-cpu-family-officially-released-for-handheld-gaming-pcs",
-      "urlToImage": "https://www.techpowerup.com/img/EXkLNvywlnLdqqMN.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-05-28T16:06:42Z"
-    },
-    {
-      "title": "New Specialized Crux goes all in on aero gravel, with a 15-watt improvement, new geometry, and lighter builds - Cyclingnews",
-      "description": "Does this mean 'cross is dead?",
-      "url": "https://www.cyclingnews.com/bikes/gravel/new-specialized-crux-goes-all-in-on-aero-gravel-with-a-15-watt-improvement-new-geometry-and-lighter-builds/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Hz3k3WCbHscfQWQSYFnqk-2560-80.jpg",
-      "source": "Cyclingnews.com",
-      "publishedAt": "2026-05-28T16:00:00Z"
-    },
-    {
-      "title": "Steam Deck sells out in North America within 24 hours of price hike - Ars Technica",
-      "description": "Europe, Australia, and Asia can still get it while the getting's good.",
-      "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-05-28T15:43:41Z"
-    },
-    {
-      "title": "Call of Duty series comes to Nintendo Switch 2 - News - Nintendo",
-      "description": "The Call of Duty series returns to the Nintendo platform with Modern Warfare 4, launching on Oct. 23, 2026, on Nintendo Switch 2.",
-      "url": "https://www.nintendo.com/us/whatsnew/call-of-duty-modern-warfare-4-coming-to-nintendo-switch-2-this-october/",
-      "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "source": "Nintendo.com",
-      "publishedAt": "2026-05-28T15:35:28Z"
-    },
-    {
-      "title": "Rivian says AI makes debate over CarPlay ‘completely obsolete’ - 9to5Mac",
-      "description": "Rivian’s software chief sat for a new interview after launching the company’s AI assistant, and said AI makes the CarPlay debate “obsolete.”",
-      "url": "https://9to5mac.com/2026/05/28/rivian-says-ai-makes-debate-over-carplay-completely-obsolete/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/carplay-ai-ios181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-05-28T15:02:00Z"
-    },
-    {
-      "title": "Review: Fitbit Air is a near-perfect fitness tracker with an imperfect AI Health Coach - 9to5Google",
-      "description": "Google's latest wearable is a great tracker for an excellent price, but the Fitbit Air's AI-powered Health Coach has plenty of room to grow.",
-      "url": "http://9to5google.com/2026/05/28/fitbit-air-review/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-review-6-copy-fix.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Gemini Spark rolls out to Google AI Ultra in the US: How it works - 9to5Google",
+      "description": "As previewed last week, Gemini Spark is now available in the US for Google AI Ultra subscribers. Spark is Google’s 24/7 personal agent...",
+      "url": "http://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark-Availabillity.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-05-28T15:00:00Z"
+      "publishedAt": "2026-05-29T17:35:00Z"
     },
     {
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more - TechCrunch",
-      "description": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/1476x1375.webp?resize=1200,1118",
+      "title": "There's A New AC Cobra Coupe, And It's A $537,000 Lump Of Carbon Fiber With Tires As Thin As Rubber Bands - The Autopian",
+      "description": "There's a new supercar on the road, and it's a new face on an old idea. This is the new AC Cobra coupe, and it costs $537,000 and has 799 HP.",
+      "url": "https://www.theautopian.com/theres-a-new-ac-cobra-coupe-and-its-a-537000-lump-of-carbon-fiber-with-tires-as-thin-as-rubber-bands/",
+      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/AC-Cobra-GT-TS.png",
+      "source": "Theautopian.com",
+      "publishedAt": "2026-05-29T17:25:58Z"
+    },
+    {
+      "title": "DuckDuckGo Installs Spike as Google Moves to Replace Search With AI - Futurism",
+      "description": "Many netizens are looking for an alternative to Google's recently announced AI Search redesign, with installs of DuckDuckGo soaring.",
+      "url": "https://futurism.com/artificial-intelligence/duckduckgo-installs-spike-google-search-ai",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/05/duckduckgo-installs-spike-google-search-ai.jpg?w=1200",
+      "source": "Futurism",
+      "publishedAt": "2026-05-29T17:08:17Z"
+    },
+    {
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch",
+      "description": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
+      "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2026-05-28T14:45:13Z"
+      "publishedAt": "2026-05-29T17:03:39Z"
     },
     {
-      "title": "Overwatch Finally Gave Fans Something They’ve Been Asking For Since 2016 - Kotaku",
-      "description": "Blizzard’s new commitment to story is serving up a meal of overdue relationship building",
-      "url": "https://kotaku.com/overwatch-reinhardt-ana-relationship-romance-lore-comic-2000700188",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/05/IMG_3551-1-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-05-28T14:32:43Z"
+      "title": "Why One of This Year’s Best Games, ‘Mina the Hollower,’ Is Only $20 - Bloomberg.com",
+      "description": "The developers at Yacht Club say that charging $20 for their slick new platformer was a no-brainer",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/why-mina-the-hollower-is-only-20",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiV645zXdT2s/v0/1200x675.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-29T17:00:01Z"
     },
     {
-      "title": "A Deeper Look Inside Planet Zoo 2’s Announce Trailer - XBOX Wire",
-      "description": "Planet Zoo 2's Game Director breaks down its announcement trailer to give us a taste of what to expect in this upcoming sequel.",
-      "url": "https://news.xbox.com/en-us/2026/05/28/planet-zoo-2-trailer-breakdown/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/PZ2_Base_KA_1920x1080-87561cf6d9e366b55e23-1024x576.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-05-28T14:20:12Z"
+      "title": "Microsoft delays Fable (again) to avoid GTA VI - The Verge",
+      "description": "Microsoft has delayed its upcoming Fable reboot once again. Now, it’s set to launch in February 2027. Microsoft will show a “new look” at the game at its Xbox Games Showcase.",
+      "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_8d483674199a602caa1a71e15ebcbc24ce45e11b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T16:51:08Z"
     },
     {
-      "title": "Samsung’s wider Galaxy Z Fold 8 hardware leaks in hands-on [Gallery] - 9to5Google",
-      "description": "The leaks continue, as Samsung’s new and wider Galaxy Z Fold 8 has just surfaced in a hardware hands-on with...",
-      "url": "http://9to5google.com/2026/05/28/samsung-galaxy-z-fold-8-hardware-hands-on-leak/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-wide-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Galaxy Z Fold 8 series may ‘significantly’ improve the display crease - 9to5Google",
+      "description": "A new report claims that the Galaxy Z Fold 8 delivers a “significant” improvement to the display crease, on par...",
+      "url": "http://9to5google.com/2026/05/29/galaxy-z-fold-8-series-may-significantly-improve-the-display-crease/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-53.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-05-28T14:20:00Z"
+      "publishedAt": "2026-05-29T16:45:00Z"
     },
     {
-      "title": "IOI is 'keeping the British end up' in 007 First Light by switching out Americanisms to \"reinforce the immersion\" - Eurogamer",
-      "description": "Following earlier gameplay teaser trailers, developer IO Interactive has made some changes to the dialogue in 007 First Light.",
-      "url": "https://www.eurogamer.net/007-first-light-americanism-parking-lot",
-      "urlToImage": "https://assetsio.gnwcdn.com/James-Bond-dressed-as-a-chauffer-in-007-First-Light.-He-is-resting-on-the-bonnet-of-a-green-car_rnLqNqo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-05-28T14:17:42Z"
+      "title": "Stray Nintendo Switch 2 launch trailer - adventure game appears with upgraded with visuals, frame rate, 4K, and mouse controls - Nintendo Everything",
+      "description": "Stray has now made its way to Nintendo Switch 2, and along with that, we have a new launch trailer. This edition includes upgraded visuals, 4K, and improved frame rate, alongside mouse control. More information about the title itself can be found in the follo…",
+      "url": "https://nintendoeverything.com/stray-nintendo-switch-2-launch-trailer-adventure-game-appears-with-upgraded-with-visuals-frame-rate-4k-and-mouse-controls/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Stray-Sw-2-trailer.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-05-29T16:33:44Z"
     },
     {
-      "title": "New details on Apple-Google AI deal revealed, including Nvidia chips: report - 9to5Mac",
-      "description": "Apple’s big unveiling of iOS 27, the new Siri, and other WWDC reveals are little more than one week away....",
-      "url": "https://9to5mac.com/2026/05/28/new-details-on-apple-google-ai-deal-revealed-including-nvidia-chips-report/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-intelligence-gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-05-28T13:44:00Z"
+      "title": "Nintendo Download: 28th May (North America) - Nintendo Life",
+      "description": "Bluey! Final Fantasy! Football!",
+      "url": "https://www.nintendolife.com/news/2026/05/nintendo-download-28th-may-north-america",
+      "urlToImage": "https://images.nintendolife.com/b7c146866cafb/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-05-29T16:00:00Z"
+    },
+    {
+      "title": "‘007 First Light’ Is The Uncontroversial Hit Of 2026 With Huge 24 Hour Sales - Forbes",
+      "description": "Sales data is in for 007 First Light, and it's done enormous numbers in 24 hours, including being a game that everyone seems to love.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/29/007-first-light-is-the-uncontroversial-hit-of-2026-with-huge-24-hour-sales/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a19a5e3248466635668d44a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-05-29T14:44:15Z"
     }
   ]
 }
