@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-06-02T10:52:26.110Z",
+  "updatedAt": "2026-06-03T11:20:47.225Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally - CNBC",
-      "description": "Shares in software compares surged ahead of Monday's opening bell.",
-      "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771953167&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-06-01T09:58:23Z"
+      "title": "Studio Founded By Forza Horizon 5 Director Announces Open-World Action-Driving Game Clutch - Game Informer",
+      "description": "The game is set to launch on PS5, Xbox Series X/S, and PC in spring 2027.",
+      "url": "https://gameinformer.com/2026/06/02/studio-founded-by-forza-horizon-5-director-announces-open-world-action-driving-game",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/01/9d16af5f/clutch_screenshot_2.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-06-02T10:51:28Z"
     },
     {
-      "title": "NVIDIA DLSS 4.5 Ray Reconstruction coming in August for RTX 20, 30, 40 and 50 series - VideoCardz.com",
-      "description": "NVIDIA confirms DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs NVIDIA has announced DLSS 4.5 Ray Reconstruction, a new version of its AI-based",
-      "url": "https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/06/DLSS-4.5-Ray-Reconstruction.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-06-01T05:06:09Z"
+      "title": "Crimson Desert Dev Outlines Major Updates Planned for This Summer - IGN",
+      "description": "Crimson Desert developer Pearl Abyss has revealed significant changes it plans to make to the game this summer, while also teasing upcoming DLC.",
+      "url": "https://www.ign.com/articles/crimson-desert-dev-says-its-going-to-improve-the-games-story-to-make-it-more-engaging-as-part-of-significant-changes-coming-soon",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/02/ss-669119c3747653f41a46c59f213168448d094e04-1920x1080-1780393360334.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-06-02T09:47:11Z"
     },
     {
-      "title": "Ragnarok Console Project announced for PS5, Xbox Series, Switch 2, and PC - Gematsu",
-      "description": "Publishers Gravity and Daweon Game Media Lab, and developer Waycoder have announced Ragnarok Console Project for PlayStation 5, Xbox Series, Switch 2, and PC (Steam). It will launch in the first ha…",
-      "url": "https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/05/Ragnarok-Console-Project-Ann_05-31-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-06-01T03:25:04Z"
-    },
-    {
-      "title": "Foldable iPhone Ultra design model leaks in hands-on video from Chinese factory - Notebookcheck",
-      "description": "Here is an early look at the design of the upcoming foldable iPhone Ultra through a newly leaked video of a dummy model. The video shows a thin dummy unit, which aligns with rumors of a 4.5mm iPhone Ultra.",
-      "url": "https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iphone-ultra-fold-weibo-Xiaohui-Talks-Tech.jpg",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-06-01T01:14:00Z"
-    },
-    {
-      "title": "AMD’s Plan to Fix RAM Costs: Bring Back Bygone CPUs - Gizmodo",
-      "description": "Decade-old AM4 motherboards now seem even more appealing if you can’t afford to upgrade.",
-      "url": "https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/05/AMD-Gaming-PCs-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-06-01T00:00:58Z"
-    },
-    {
-      "title": "AMD Announces Radeon RX 9070 GRE, Ryzen AI Max PRO 400 Series - Phoronix",
-      "description": "AMD is kicking off the busy Computex 2026 week with some new product announcements.",
-      "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
-      "urlToImage": "https://www.phoronix.net/image.php?id=amd-rx-9070-gre-ryzen-ai-max-400&image=amd_computex_9",
-      "source": "Phoronix",
-      "publishedAt": "2026-06-01T00:00:00Z"
-    },
-    {
-      "title": "Dell Rivals Apple’s MacBook Neo With $699 Touch-Screen XPS 13 Laptop - Bloomberg.com",
-      "description": "Dell Technologies Inc. introduced a redesigned XPS 13 laptop, positioning the device as a direct answer to Apple Inc.’s popular MacBook Neo, which stunned the budget PC market upon its debut in March with its features and price.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-31/dell-challenges-apple-s-macbook-neo-with-699-touch-screen-xps-13-laptop",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOUlgCk_A0Y4/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-31T23:00:04Z"
-    },
-    {
-      "title": "Everyone Has Their Targets Set on the MacBook Neo - WIRED",
-      "description": "Dell, Microsoft, and others are unveiling new laptops to compete directly with the Neo, but not all are learning the right lessons from Apple.",
-      "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
-      "urlToImage": "https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/191:100/w_1280,c_limit/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-05-31T23:00:00Z"
-    },
-    {
-      "title": "State of Play's Special Alamo Drafthouse Menu Has Leaked, And Here's What Sony's Cooking - Push Square",
-      "description": "Hope you're hungry, bub",
-      "url": "https://www.pushsquare.com/news/2026/06/state-of-plays-special-alamo-drafthouse-menu-has-leaked-and-heres-what-sonys-cooking",
-      "urlToImage": "https://images.pushsquare.com/63f1dca2e066f/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-05-31T23:00:00Z"
-    },
-    {
-      "title": "Apple's Smart Glasses Reportedly Delayed Until Late 2027 - CNET",
-      "description": "Still, the glasses are regarded by company leadership as a top priority, Bloomberg's Mark Gurman writes.",
-      "url": "https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/0924ae8ab6ce5fa40686ed53772987afb785b9bd/hub/2026/05/22/a27ae493-ca85-4286-a79e-867fe1f8483c/ray-ban-meta-cnet-memorial-day-bg-09.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-05-31T21:45:00Z"
-    },
-    {
-      "title": "iOS 28 Will Reportedly Be 'Far More Significant' Than iOS 27 - MacRumors",
-      "description": "While we are still a week away from Apple unveiling iOS 27, Bloomberg's Mark Gurman has just shared the first rumor regarding iOS 28.   In his...",
-      "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
-      "urlToImage": "https://images.macrumors.com/t/YCZjPv2v9UGoJROkYTCOYxi8XFc=/2500x/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
+      "title": "iPhone 18 Pro Battery Capacities Allegedly Leaked - MacRumors",
+      "description": "Battery capacities for Apple's upcoming iPhone 18 Pro have allegedly surfaced, and the numbers suggest only a modest increase over the iPhone 17...",
+      "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+      "urlToImage": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-05-31T21:44:33Z"
+      "publishedAt": "2026-06-02T08:54:46Z"
     },
     {
-      "title": "So Street Fighter 6's Season 4 update wasn't included with Ingrid, and Capcom is being coy about when the patch is coming - EventHubs",
-      "description": "For the past three years, Capcom has been fairly consistent with their scheduling for Street Fighter 6 with major updates, but that's changing now.From the release of Ingrid's big patch this week, there's a big question ...",
-      "url": "https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/",
-      "urlToImage": "https://media.eventhubs.com/images/2026/05/29-street-fighter-seasont.webp",
-      "source": "EventHubs",
-      "publishedAt": "2026-05-31T20:39:20Z"
+      "title": "Nintendo Music 1.6.0 update out now, patch notes – plus browser version live - Nintendo Everything",
+      "description": "Nintendo Music just came out with a new version 1.6.0 update with some new functionality, and here are the patch notes.",
+      "url": "https://nintendoeverything.com/nintendo-music-1-6-0-update-out-now-patch-notes/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Music-1.6.0-update.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-06-02T03:36:16Z"
     },
     {
-      "title": "Intel claims Arc G3 Extreme delivers Ryzen Z2 Extreme-like performance at half the power with 2x upscaling - VideoCardz.com",
-      "description": "Intel compares MSI Claw 8 EX AI+ against ASUS ROG Xbox Ally X Intel has disclosed new gaming performance figures for its Arc G3 Extreme handheld platform.",
-      "url": "https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/05/INTEL-ARC-G3-VS-RYZEN-Z2-HERO.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-05-31T17:31:09Z"
+      "title": "#WWDC26 hashmoji now live on X ahead of next week’s keynote - 9to5Mac",
+      "description": "As it has done over the past several years, Apple has kicked off its hashmoji campaign on X for posts containing the #WWDC26 hashtag.",
+      "url": "https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/hashmoji-wwdc26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-06-01T22:54:00Z"
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 invites you to \"keep the receipts\" as it fights to be a more \"authentic\", \"grounded, and transparent\" shooter experience - Eurogamer",
-      "description": "Call of Duty: Modern Warfare 4's community team insists players can \"keep the receipts\" as it fights to remain \"authentic to what Modern Warfare is\".",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-keep-the-receipts",
-      "urlToImage": "https://assetsio.gnwcdn.com/MW4_MP_003_BRANDED.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-05-31T17:20:10Z"
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP - TechCrunch",
+      "description": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T21:35:00Z"
     },
     {
-      "title": "Leak Tips Potential New ASUS ROG Xbox Ally Gaming Handheld - TechPowerUp",
-      "description": "It was previously revealed that ASUS may be launching an update to the ASUS ROG Ally gaming handheld at Computex 2026, but not much was known about the new handheld at the time. Now, thanks to licensing documentation from the Korean National Radio Research Ag…",
-      "url": "https://www.techpowerup.com/349548/leak-tips-potential-new-asus-rog-xbox-ally-gaming-handheld",
-      "urlToImage": "https://www.techpowerup.com/img/pV8fKQJVlLDeVSID.jpg",
+      "title": "Asus Reveals ROG Xbox Ally X20 With OLED Screen, Upgraded Joysticks, And Transparent Shell - Game Informer",
+      "description": "It will be available as a bundle with the ROG XREAL R1 Edition 20 Gaming AR glasses, meaning this X20 is likely to cost a lot.",
+      "url": "https://gameinformer.com/2026/06/01/asus-reveals-rog-xbox-ally-x20-with-oled-screen-upgraded-joysticks-and-transparent-shell",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/01/b989cd08/asus_xbox_ally_x20.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-06-01T21:30:59Z"
+    },
+    {
+      "title": "Google Photos now lets you schedule exports of new photos and videos - 9to5Google",
+      "description": "Google Photos now lets you schedule exports that, after the first one, will only export newly added content in your library.",
+      "url": "http://9to5google.com/2026/06/01/google-photos-schedule-export/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-06-01T21:05:00Z"
+    },
+    {
+      "title": "Gemini’s new AI agent is about as good as Google’s demo - The Verge",
+      "description": "Gemini Spark is Google’s new AI agent announced at I/O 2026, and it can be shockingly good at doing things on your behalf.",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T20:00:00Z"
+    },
+    {
+      "title": "Gigabyte Introduces the AORUS ELITE Series Gaming Monitors with OLED or Mini LED Panels - TechPowerUp",
+      "description": "Gigabyte, the world's leading computer brand, announced its AORUS ELITE Series monitor lineup, bringing together next-generation Tandem OLED technology and the world's first 5K Multi Mode Mini LED glossy gaming monitor across 27 to 32-inch models. The new ser…",
+      "url": "https://www.techpowerup.com/349596/gigabyte-introduces-the-aorus-elite-series-gaming-monitors-with-oled-or-mini-led-panels",
+      "urlToImage": "https://www.techpowerup.com/img/Y8kNOBFcqzeinFm5.jpg",
       "source": "Techpowerup.com",
-      "publishedAt": "2026-05-31T17:10:19Z"
+      "publishedAt": "2026-06-01T19:31:46Z"
     },
     {
-      "title": "Phanteks’ new EX cases let users put ugly graphics cards in their own \"shame box\" - VideoCardz.com",
-      "description": "Phanteks has a new case series for users who want to build a clean PC (with GPU hidden) We have first footage from Computex thanks to Hardware Canucks who",
-      "url": "https://videocardz.com/newz/phanteks-new-ex-cases-let-users-put-ugly-graphics-cards-in-their-own-shame-box",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/05/PHANTEKS-SHAME-BOX.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-05-31T16:01:07Z"
+      "title": "Baby Steps Dev Says Mario Sunshine Hate Has 'Confined' Nintendo Devs - kotaku.com",
+      "description": "How the summery heat of Isle Delfino inspired the grueling hike of Baby Steps",
+      "url": "https://kotaku.com/getting-over-it-baby-steps-qwop-super-mario-sunshine-2000701168",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/06/mariobabysteps2-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-06-01T19:11:39Z"
     },
     {
-      "title": "Xbox will \"adjust\" its promotional materials after fans slam decision to use rival logos in its showcases - Eurogamer",
-      "description": "Xbox boss Asha Sharma has admitted that including competitor logos in Xbox teasers and showcase presentations is \"a miss\", confirming this will be \"adjusted\".",
-      "url": "https://www.eurogamer.net/xbox-ceo-calls-rival-logos-marketing-a-miss",
-      "urlToImage": "https://assetsio.gnwcdn.com/asha-sharma-and-matt-booty-this-is-an-xbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-05-31T15:53:05Z"
+      "title": "Toyota Turns Up the Thrill for 2027 with New Updates to GR86 - Toyota USA Newsroom",
+      "description": "PLEASANTON, Calif. (June 1, 2026) – Making its debut at FuelFest in the Bay Area, where car culture, performance, passion and the enthusiast community come together, the 2027 Toyota GR86 returns with a series of focused enhancements designed to deepen the con…",
+      "url": "https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/",
+      "urlToImage": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2026/06/2027_Toyota_GR86_Fuel-Fest_HERO-1000x600.jpg",
+      "source": "Toyota.com",
+      "publishedAt": "2026-06-01T18:46:25Z"
     },
     {
-      "title": "New Apple TV and HomePod Mini Are 'Nearly Ready' to Launch, New Siri Remote Also Rumored - MacRumors",
-      "description": "New models of the Apple TV 4K and HomePod mini are \"nearly ready to go,\" according to the latest word from Bloomberg's Mark Gurman.  ...",
-      "url": "https://www.macrumors.com/2026/05/31/new-apple-tv-and-homepod-mini-nearly-ready/",
-      "urlToImage": "https://images.macrumors.com/t/Zeedv2Uhp5RsSd48ugoPq_aNaTk=/2500x/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
+      "title": "Apple Releases iOS 26.5.1 to Fix Charging Issue on iPhone Air and iPhone 17 Models - MacRumors",
+      "description": "Apple today released iOS 26.5.1, a minor update to iOS 26. The software is available three weeks after iOS 26.5 came out, and appears to only be...",
+      "url": "https://www.macrumors.com/2026/06/01/apple-releases-ios-26-5-1/",
+      "urlToImage": "https://images.macrumors.com/t/x5OKeizcRejo6CTsrqL2FNQ1Q2k=/2500x/article-new/2026/05/iOS-26.5.1-Feature.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-05-31T15:47:50Z"
+      "publishedAt": "2026-06-01T17:23:23Z"
     },
     {
-      "title": "AC Cobra GT Coupe Puts a Fixed Roof on the Classic for the First Time - The Drive",
-      "description": "AC Cars has been around for 125 years, and it's been making Cobras for just over half that time. But it's never made one like this.",
-      "url": "https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time",
-      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/05/AC-Cobra-GT-Coupe-Autoclaves-2.jpeg?quality=85&w=1200",
-      "source": "The Drive",
-      "publishedAt": "2026-05-31T15:00:00Z"
+      "title": "Dell Unveils $699 Laptop With Features 'You Won't Find on a MacBook Neo' - MacRumors",
+      "description": "Dell this week introduced a new version of the XPS 13, a laptop that it said is \"contending with the MacBook Neo on price, and exceeding it on...",
+      "url": "https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/",
+      "urlToImage": "https://images.macrumors.com/t/LcSeorlResjzCFHWfIE_R4Q7XOk=/1914x/article-new/2026/06/Dell-Unveils-699-Laptop-With-Features-You-Wont-Find-on-a-MacBook-Neo-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-01T17:04:39Z"
+    },
+    {
+      "title": "Fortnite Fans Are at War Over a Controversial Streamer's Inclusion, and the Toxic Backlash It's Created - IGN",
+      "description": "Fortnite players are warring over a collaboration with a controversial streamer in the battle royale game's next season.",
+      "url": "https://www.ign.com/articles/fortnite-fans-are-at-war-over-a-controversial-streamers-inclusion-and-the-toxic-backlash-its-created",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/01/hq720-1-1780332917645.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-06-01T17:00:26Z"
+    },
+    {
+      "title": "Bungie Destiny 2 dev calls on players to log in for its final content update as a Destiny 3 petition surges - Windows Central",
+      "description": "Ahead of Destiny 2's final content update Monument of Triumph, one dev is rallying players to log in for it as a Destiny 3 petition surges.",
+      "url": "https://www.windowscentral.com/gaming/as-a-destiny-3-petition-surges-destiny-2-dev-calls-on-players-to-log-in-for-its-final-content-update-on-june-9",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Gcx6h9TD2Bh8ooZmwfwgXn-1920-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2026-06-01T16:57:33Z"
+    },
+    {
+      "title": "Sony’s new fight stick and gaming monitor launch in August - The Verge",
+      "description": "Sony says that its FlexStrike fight stick and 27-inch gaming monitor will launch in August. Launch details for its Pulse Elevate wireless speakers will come later this year.",
+      "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/e83ee8bdc472aaa069d6fb0cd1c51a1151b2ed3e.jpg.webp?quality=90&strip=all&crop=0%2C3.2448557165469%2C100%2C93.510288566906&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T16:36:18Z"
+    },
+    {
+      "title": "Borderlands Boss Shares Photos Of Unreleased Pixel Watch 5 - kotaku.com",
+      "description": "Randy Pitchford shared photos of an unannounced Google Pixel device that was found by a friend of his while scuba diving",
+      "url": "https://kotaku.com/randy-pitchford-borderlands-weirdest-tech-leak-of-2026-pixel-watch-5-google-2000701121",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/06/randywatch-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-06-01T15:16:03Z"
+    },
+    {
+      "title": "Foldable 'iPhone Ultra' Rumored to Feature Vapor Chamber Cooling Despite Thin Design - MacRumors",
+      "description": "Apple's first foldable iPhone, known as the \"iPhone Ultra,\" will feature impressive vapor chamber cooling and launch in September despite...",
+      "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
+      "urlToImage": "https://images.macrumors.com/t/aGmA7QKQaUG-zsM5JjNeGN-uwzs=/1600x/article-new/2026/06/Vapor-Chamber-Plate.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-01T15:13:12Z"
+    },
+    {
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms - TechCrunch",
+      "description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T14:49:10Z"
     }
   ]
 }
