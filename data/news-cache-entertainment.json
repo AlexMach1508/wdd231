@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-06-03T11:20:47.382Z",
+  "updatedAt": "2026-06-04T10:09:58.366Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
+      "title": "Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News",
+      "description": "CBS News has fired longtime “60 Minutes” correspondent Scott Pelley. It came a day after he reportedly said Editor-in-Chief Bari Weiss was “murdering the show” and accused its new producer of having “slender qualifications” for the job. The move deepened the …",
+      "url": "https://apnews.com/article/cbs-news-60-minutes-pelley-fired-db75daea29a1996f9db5e7951e6f5064",
+      "urlToImage": "https://dims.apnews.com/dims4/default/acf9933/2147483647/strip/true/crop/3600x2399+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fe7%2Fb553edb5b6448206b538498b3370%2F8c9c8f390853414fbe6839e426ea0b66",
+      "source": "Associated Press",
+      "publishedAt": "2026-06-03T05:55:00Z"
+    },
+    {
+      "title": "‘Summer House’ Reunion Part 2 Bombshell: West’s Secret Girlfriend Tells All - Variety",
+      "description": "Part 2 of the three-part “Summer House” Season 10 reunion gave us plenty of fireworks, from secret girlfriends to cheating caught on tape.",
+      "url": "https://variety.com/2026/tv/news/summer-house-s10-reunion-part-2-west-wilson-meija-moreno-amanda-batula-1236765346/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/06/NUP_210398_00313.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-06-03T01:00:00Z"
+    },
+    {
+      "title": "‘The Hunting Party’ Canceled After Two Seasons at NBC - Variety",
+      "description": "NBC canceled 'The Hunting Party' after two seasons.",
+      "url": "https://variety.com/2026/tv/news/the-hunting-party-canceled-nbc-1236736781/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/NUP_209922_00759.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-06-02T23:30:00Z"
+    },
+    {
+      "title": "4 Zodiac Signs Attract Major Abundance & Luck On June 3, 2026 - YourTango",
+      "description": "On June 3, 2026, four zodiac signs are attracting major abundance and luck. They are: Gemini, Virgo, Capricorn, and Cancer.",
+      "url": "https://www.yourtango.com/2026397978/zodiac-signs-abundance-luck-june-3-2026",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-06/zodiac-signs-abundance-luck-june-3-2026_0.png",
+      "source": "YourTango",
+      "publishedAt": "2026-06-02T23:06:05Z"
+    },
+    {
+      "title": "PlayStation State of Play June 2026: All the news and trailers - The Verge",
+      "description": "Sony’s next State of Play showcase airs on June 2nd and will feature major PS5 reveals, including the new Wolverine game.",
+      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986615/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T22:16:08Z"
+    },
+    {
+      "title": "Not Suitable For Work Premiere: Mindy Kaling's Latest Gang Of Twenty-Somethings Aims To Go Pro... Even If It Kills Them (Grade It!) - TVLine",
+      "description": "Ella Hunt and Jack Martin star in Not Suitable for Work, but did Mindy Kaling's latest pop? Read our recap and grade the premiere!",
+      "url": "https://www.tvline.com/2186172/not-suitable-for-work-recap-series-premiere-mindy-kaling-hulu/",
+      "urlToImage": "https://www.tvline.com/img/gallery/not-suitable-for-work-premiere-pollcap/l-intro-1780428469.jpg",
+      "source": "TVLine",
+      "publishedAt": "2026-06-02T21:03:52Z"
+    },
+    {
+      "title": "‘Euphoria’ Didn’t Deliver the Finale Fans Wanted. But It Was the Finale the Show Deserved - Rolling Stone",
+      "description": "The controversial 'Euphoria' series finale failed its characters but fit the show creator Sam Levinson took through three messy seasons.",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-features/euphoria-series-finale-1235571383/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/euphoria-finale-take-rue-LEAD.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-06-02T20:10:57Z"
+    },
+    {
+      "title": "Magic: The Gathering® | Marvel Super Heroes Mastery Details - Magic: The Gathering",
+      "description": "The Magic: The Gathering | Marvel Super Heroes Set Mastery and Mastery Pass offer more rewards for playing. Earn packs, sleeves, card styles, and more for your collection!",
+      "url": "https://magic.wizards.com/en/news/mtg-arena/marvel-super-heroes-mastery-details",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/4V6qUwjYakf2Ye0YeVCOne/8c9240f2cdda2fa286cf85a6dd67097a/SeFJZAE4Xj.webp",
+      "source": "Wizards.com",
+      "publishedAt": "2026-06-02T18:35:07Z"
+    },
+    {
+      "title": "‘Masters of the Universe’: What Critics Are Saying About the He-Man Movie Starring Nicholas Galitzine and Jared Leto - The Hollywood Reporter",
+      "description": "The film, a live-action adaptation of the Mattel franchise from director Travis Knight, lands in theaters Friday.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/masters-of-the-universe-review-roundup-critics-1236611636/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/Nicholas-Galitzine-and-Jared-Leto-Masters-of-the-Universe-Split-Publicity-H-2026.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-06-02T18:29:49Z"
+    },
+    {
+      "title": "‘Noche de los Grandes’ & El Grande Americano Mask vs. Mask Match Draws Over 2 Million Viewers - Variety",
+      "description": "The match between the two El Grande Americanos has pulled in impressive viewership across official YouTube channels",
+      "url": "https://variety.com/2026/tv/news/noche-de-los-grandes-el-grande-americano-mask-vs-mask-match-1236765080/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/06/NocheDeLosGrandes_05302026MP_2562.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-06-02T18:18:00Z"
+    },
+    {
+      "title": "Sabrina Carpenter granted restraining order against “disturbing” male fan - Far Out Magazine",
+      "description": "Sabrina Carpenter has been granted a restraining order against a 31-year-old male who attempted to gain access to her California home.",
+      "url": "https://faroutmagazine.co.uk/sabrina-carpenter-granted-restraining-order-against-disturbing-male-fan/",
+      "urlToImage": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/06/Sabrina-Carpenter-Mans-Best-Friend-2025-God-Approved-Cover-Far-Out-Magazine.jpg",
+      "source": "Far Out Magazine",
+      "publishedAt": "2026-06-02T17:01:16Z"
+    },
+    {
+      "title": "‘Backrooms’ Charts Best Monday Ever For R-Rated Horror Pic In June With $7.6M+ – Box Office - Deadline",
+      "description": "'Backrooms' made $7.6M on Monday nearly toppling 'World War Z' to become the best Monday ever in June for a horror movie, however, it was a record for an R-rated horror movie in June.",
+      "url": "http://deadline.com/2026/06/box-office-backrooms-record-monday-1236938795/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/MCDBACK_EC085.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-06-02T16:42:00Z"
+    },
+    {
+      "title": "What are Freedom 250 and America250? Concert confusion highlights dual groups planning celebrations - CBS News",
+      "description": "A musical concert series has become a point of political contention, with performers dropping out of the series.",
+      "url": "https://www.cbsnews.com/news/freedom-250-america250-anniversary-celebrations/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/02/da39f5ad-bfa4-40cb-b347-a7ab537fefa8/thumbnail/1200x630/21aea3ba4efaf84b7447260a7fc04bdf/gettyimages-2277609462.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-06-02T16:14:42Z"
+    },
+    {
+      "title": "From 'Backrooms' to 'Obsession': Why YouTubers Are Turning Hollywood Upside Down - Variety",
+      "description": "Variety spoke with Hollywood producers, filmmakers, distributors and YouTube execs about the horror films shaking up the industry.",
+      "url": "https://variety.com/2026/film/features/backrooms-obsession-youtubers-hollywood-kane-parsons-curry-barker-1236764464/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/06/Youtube-Directors-Upsidedown.jpg?crop=0px%2C56px%2C1920px%2C1080px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2026-06-02T14:00:00Z"
+    },
+    {
+      "title": "'Off Campus’ Star Mika Abdalla and Fiancé Jake Short End Engagement - TMZ",
+      "description": "'Off Campus’ Star Mika Abdalla and her fiance Jake Short have ended their engagement.",
+      "url": "https://www.tmz.com/2026/06/02/mika-abdalla-jake-short-break-up/",
+      "urlToImage": "https://imagez.tmz.com/image/83/16by9/2026/06/02/83c22f92b610463d9b5f2a4029313e9b_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2026-06-02T12:57:47Z"
+    },
+    {
       "title": "'Love Island USA' Season 8 cast: Meet the Islanders entering the villa tonight - Yahoo",
       "description": "A Paralympic medalist, a police officer and the brother of a former contestant are among this season's Islanders.",
       "url": "https://www.yahoo.com/entertainment/tv/article/the-love-island-usa-lineup-is-here-meet-the-season-8-cast-members-entering-the-villa-145216797.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZerE9__IzrvFr3Bhhrteng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-love-island-new-season_2367.jpg",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5c6ecd93bd8aa7903a1a118f47f80cbf450029cd544991fbe9e3a7cb4ed40981/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-love-island-new-season_2367.jpg",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-06-02T10:43:23Z"
     },
     {
-      "title": "Horoscope for Tuesday, June 02, 2026 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/06/02/horoscopes-today-tuesday-june-02-2026",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2026-06-02T05:01:00Z"
+      "title": "Five stars (other than Morgan Wallen) who behaved badly at Colorado concerts - Westword",
+      "description": "People seem to lose their shit here. We're keeping track.",
+      "url": "http://www.westword.com/music/stars-who-lost-their-cool-during-colorado-concerts-40893682/",
+      "urlToImage": "https://www.westword.com/wp-content/uploads/sites/2/2026/06/t.pain_.red_.rocks_.large_.jpg",
+      "source": "Westword",
+      "publishedAt": "2026-06-01T20:00:36Z"
     },
     {
-      "title": "Bill Owens, Ex-’60 Minutes’ Boss, Scorns CBS News Overhaul of Show - Variety",
-      "description": "Bill Owens. former '60 Minutes' chief, alleged Monday evening that 'partisans and ideologues' work at CBS News and were undermining the newsmagazine",
-      "url": "https://variety.com/2026/tv/news/bill-owens-60-minutes-boss-scorns-cbs-news-1236764634/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2019/02/bill-owens-new-e1549494123758.jpg?crop=0px%2C398px%2C3967px%2C2235px&resize=1000%2C563",
+      "title": "'Euphoria' Finale: Bishop's Betrayal Explained by Darrell Britt-Gibson - Variety",
+      "description": "Darrell Britt-Gibson explains Bishop's betrayal of Alamo in the 'Euphoria' series finale and talks about whether Bishop is on the autism spectrum.",
+      "url": "https://variety.com/2026/tv/news/euphoria-finale-bishop-betrayal-explained-1236764159/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/Euphoria-finale-darrell-britt-gibson_0.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
-      "publishedAt": "2026-06-02T02:50:00Z"
-    },
-    {
-      "title": "‘Backrooms 2’: Here’s What’s Up At This Minute With A Kane Parsons Sequel – The Dish - Deadline",
-      "description": "When it comes to 'Backrooms 2', Kane Parsons is looking for a new screenwriting collaborator to team with.",
-      "url": "http://deadline.com/2026/06/backrooms-sequel-kane-parsons-1236938378/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/TB_12186_R2.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-06-02T01:45:00Z"
-    },
-    {
-      "title": "After several artists drop out of Freedom 250 concerts, Vanilla Ice says he'd \"play for anybody\" including Putin and Iran - CBS News",
-      "description": "\"It's not anything to do with politics. I don't know why they're turning it into politics,\" Vanilla Ice said of the Freedom 250 concerts planned in Washington, D.C.",
-      "url": "https://www.cbsnews.com/news/vanilla-ice-freedom-250-dc-concert-series-putin-iran/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/02/c5142e6f-20a8-4d9c-94b3-b9c016f7b255/thumbnail/1200x630/7cd6dbe6a54783aed0a8e5e1a2fe9f91/vanilla-ice.png",
-      "source": "CBS News",
-      "publishedAt": "2026-06-02T00:42:55Z"
-    },
-    {
-      "title": "WWE Raw recap & reactions: Acknowledge The Bloodline - Cageside Seats",
-      "description": "WWE hits it out of the park in the first show following Clash in Italy. The Bloodline is well and truly back.",
-      "url": "https://www.cagesideseats.com/wwe/447745/wwe-raw-recap-reactions-june-1-2026-acknowledge-the-bloodline-roman-reigns-jacob-fatu-the-usos",
-      "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/06/gettyimages-2279278871.jpg?quality=90&strip=all&crop=0%2C1.7360242994746%2C100%2C78.540468101705&w=1200",
-      "source": "Cageside Seats",
-      "publishedAt": "2026-06-02T00:30:00Z"
-    },
-    {
-      "title": "Cassie Slams Man Claiming She Drugged Him With Diddy, Shows His Supportive Text - TMZ",
-      "description": "Cassie is slamming the former male model who claims she and Diddy drugged him during freakoffs ... she says the man initially supported her after she spoke out against the disgraced mogul and changed his tune when Diddy cut her a fat check.",
-      "url": "https://www.tmz.com/2026/06/01/cassie-slams-man-claiming-she-drugged-him-with-diddy-shows-text-in-court-docs/",
-      "urlToImage": "https://imagez.tmz.com/image/e7/16by9/2026/06/01/e7a524656ada477bbd5b5f44618bdab7_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2026-06-01T23:45:49Z"
-    },
-    {
-      "title": "Sabrina Carpenter Gets Restraining Order After 'Deeply Alarming' Incident With Alleged Stalker - Rolling Stone",
-      "description": "Sabrina Carpenter won a restraining order against an alleged stalker, saying he tried to break into her house and returned twice more after an arrest.",
-      "url": "http://www.rollingstone.com/music/music-news/sabrina-carpenter-alleged-stalker-restraining-order-1235570948/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/sabrina-carpenter-stalker-restraining-order.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-06-01T23:44:57Z"
-    },
-    {
-      "title": "Sydney Sweeney fires back at 'Euphoria' critics with provocative behind-the-scenes photos - Fox News",
-      "description": "Sydney Sweeney claps back at Euphoria critics with behind-the-scenes photos, writing \"it's called... acting\" in defense of her Cassie Howard role.",
-      "url": "https://www.foxnews.com/entertainment/sydney-sweeney-fires-back-euphoria-critics-provocative-behind-the-scenes-photos",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/sydney-sweeney-euphoria-premiere-hollywood-fox-news-001.jpeg",
-      "source": "Fox News",
-      "publishedAt": "2026-06-01T23:17:32Z"
-    },
-    {
-      "title": "‘Euphoria’ Creator Sam Levinson Unpacks That Unavoidable Finale and Ending His Hit HBO Series - The Hollywood Reporter",
-      "description": "\"In terms of the story that we set out to tell, which is a story about addiction and its consequences, this feels like the end to me,\" Levinson told New York Times' Popcast after Sunday's season three finale.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-features/euphoria-finale-rue-death-end-of-show-sam-levinson-1236610362/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/zendaya_0-e1780323198254.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-06-01T21:21:16Z"
-    },
-    {
-      "title": "Val Kilmer's Conspiracy director calls actor the 'worst human being I've ever known' - Entertainment Weekly",
-      "description": "'Conspiracy' director Adam Marcus slammed Val Kilmer, who died in 2025, as the 'worst human being I've ever known' in a social media post.",
-      "url": "https://ew.com/val-kilmer-conspiracy-director-says-actor-was-the-worst-human-being-ive-ever-known-11988231",
-      "urlToImage": "https://ew.com/thmb/G7Bgs7aslKAdZdIcrggCIQH0hf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Val-Kilmer-Conspiracy-060126-2399c97c7ba24f2b9983a7255f311c6a.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2026-06-01T19:34:58Z"
-    },
-    {
-      "title": "Zack Snyder To Direct Reimagining Of John Carpenter’s ‘Escape From New York’ - Deadline",
-      "description": "Zack Snyder is set to direct a reimagining of John Carpenter's cult classic 'Escape from New York,' Deadline can confirm.",
-      "url": "http://deadline.com/2026/06/zack-snyder-to-direct-escape-from-new-york-reimagining-1236936858/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/Zack-Snyder-Escape-from-New-York.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-06-01T19:12:00Z"
-    },
-    {
-      "title": "Taylor Swift Announces New Song ‘I Knew It, I Knew You’ for Disney and Pixar’s ‘Toy Story 5’ - The Walt Disney Company",
-      "description": "Written and produced by Taylor Swift and Jack Antonoff, 'I Knew It, I Knew You' will be featured on the 'Toy Story 5' soundtrack, out June 19.",
-      "url": "https://thewaltdisneycompany.com/news/taylor-swift-toy-story-5/",
-      "urlToImage": "https://thewaltdisneycompany.com/app/uploads/2026/06/TOYSTORY5-ONLINE-USE_t580-scaled.jpg",
-      "source": "Thewaltdisneycompany.com",
-      "publishedAt": "2026-06-01T18:16:06Z"
-    },
-    {
-      "title": "Phoebe Bridgers Announces Surprise Show at Madison Square Garden - The Hollywood Reporter",
-      "description": "The concert follows a slate of intimate shows she's played over the past month, with tickets going for $1 each.",
-      "url": "http://www.hollywoodreporter.com/music/music-news/phoebe-bridgers-madison-square-garden-concert-1236610498/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-1252513768-H-2026.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-06-01T17:22:18Z"
-    },
-    {
-      "title": "Michael Fassbender's New Sci-Fi Action Epic Officially Sets Release Date - MovieWeb",
-      "description": "The action-packed alien invasion thriler starring Michael Fassbender officially has a release date.",
-      "url": "https://movieweb.com/michael-fassbender-hope-release-date/",
-      "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/06/michael-fassbender-in-alien-covenant.jpg?w=1600&h=900&fit=crop",
-      "source": "MovieWeb",
-      "publishedAt": "2026-06-01T16:54:57Z"
-    },
-    {
-      "title": "Marilyn Monroe at 100: Reckoning With Her Legend and Legacy - Variety",
-      "description": "Everyone from Lindsay Lohan to Ana de Armas has been inspired by Marilyn Monroe — here's why we still care so deeply.",
-      "url": "https://variety.com/2026/film/features/marilyn-monroe-100-birthday-what-she-means-today-1236760798/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/Marilyn-Monroe-Red-Portrait.jpg?crop=0px%2C41px%2C1199px%2C674px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2026-06-01T16:00:00Z"
-    },
-    {
-      "title": "‘Bring Me the Beauties’: Inside the Doomsday Alien Sex Cult That Ensnared the First Male Supermodel - Variety",
-      "description": "Chris Smith’s three-part HBO docuseries “Bring Me the Beauties,” premiering June 1, tells the chilling true story of the Eternal Values doomsday cult.",
-      "url": "https://variety.com/2026/tv/news/bring-me-the-beauties-hbo-eternal-values-cult-sex-aliens-1236763286/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/05/frederich-von-mierers.jpeg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-06-01T15:00:00Z"
-    },
-    {
-      "title": "Reality TV star dead at 43 after body recovered from Washington river - MyNorthwest.com",
-      "description": "Matt Brown, a part of the Brown family featured in Discovery Channel's reality-documentary series \"Alaskan Bush People,\" is confirmed dead after his body was recovered from a Washington river.",
-      "url": "https://mynorthwest.com/local/reality-tv-alaskan-bush-people/4243699",
-      "urlToImage": "https://mynorthwest.com/wp-content/uploads/2026/06/A-new-2026-06-01T070247.549.jpg",
-      "source": "MyNorthwest.com",
-      "publishedAt": "2026-06-01T14:09:01Z"
-    },
-    {
-      "title": "Ann Patchett opened a bookstore everyone said would fail. Now it’s a blueprint - Fortune",
-      "description": "When Nashville lost its last indie bookstores in 2010, Patchett ignored the skeptics — and helped spark a movement that's more than doubled ABA membership.",
-      "url": "https://fortune.com/2026/06/01/ann-patchett-parnassus-books-indie-bookstore-growth/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26113560746814-e1780321048617.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-06-01T13:37:00Z"
-    },
-    {
-      "title": "The Commodores co-founder, Alabama native dead at 75: ‘I am devastated’ - AL.com",
-      "description": null,
-      "url": "https://www.al.com/life/2026/06/the-commodores-co-founder-alabama-native-dead-at-75-i-am-devastated.html",
-      "urlToImage": null,
-      "source": "AL.com",
-      "publishedAt": "2026-06-01T11:48:00Z"
+      "publishedAt": "2026-06-01T17:18:00Z"
     }
   ]
 }
