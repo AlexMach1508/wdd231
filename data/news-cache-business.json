@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2026-06-04T10:09:58.270Z",
+  "updatedAt": "2026-06-05T10:09:59.452Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Why Ferrari Is Making a Car No One Wants - The Free Press",
-      "description": "The $640,000 electric vehicle is a case study in why we can’t have nice things.",
-      "url": "https://www.thefp.com/p/new-ferrari-electric-car",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!knGq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9a397e9-c3b6-4e9f-b8f7-de75bbc1665d_2000x1125.jpeg",
-      "source": "Thefp.com",
-      "publishedAt": "2026-06-03T07:30:28Z"
-    },
-    {
-      "title": "Alaska Airlines debuts new 14,000-square-foot lounge at Portland International Airport - KATU",
-      "description": "Alaska Airlines unveiled its new lounge today during a press event at Portland International Airport.",
-      "url": "https://katu.com/news/local/alaska-airlines-debuts-new-14000-square-foot-lounge-at-portland-international-airport-pdx-mount-hood-mezzanine",
-      "urlToImage": "https://katu.com/resources/media2/16x9/1280/1320/center/90/239673d9-a6da-49ed-a0a4-c3dcc8e0bc2e-Sequence_alaskaloungepdxopening060226aba_0001_frame_11063.jpeg",
-      "source": "KATU",
-      "publishedAt": "2026-06-03T06:15:27Z"
-    },
-    {
-      "title": "Stock futures are little changed after S&P 500 closes at another record: Live updates - CNBC",
-      "description": "The three major indexes rose to fresh record highs on Tuesday.",
-      "url": "https://www.cnbc.com/2026/06/02/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108313259-1779982389071-Traders-Photo-20260528-KK-PRESS-022.jpg?v=1779982579&w=1920&h=1080",
+      "title": "S&P 500 futures fall after index snaps 9-day win streak amid rising Middle East tensions: Live updates - CNBC",
+      "description": "Rising oil prices and Treasury yields weighed all three major indexes lower on Wednesday.",
+      "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108316097-1780501614146-Traders-Photo-20260603-KK-PRESS-021.jpg?v=1780501871&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-06-03T04:03:00Z"
+      "publishedAt": "2026-06-04T08:00:00Z"
     },
     {
-      "title": "SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says - Yahoo Finance",
-      "description": "(Bloomberg) -- SpaceX aims to sell 555.6 million shares ​at $135 apiece for its record-breaking $75 ​billion ⁠initial public ​offering, Reuters reported...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seeks-135-share-75-015553054.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Azrws1ixmr_71IqIS5UBRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a1fb700d6ece428cc106d0d39d4e4ef0",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-03T01:55:00Z"
+      "title": "Ford's Fancy New Bronco Is Here To Battle The Land Rover Defender - CarBuzz",
+      "description": "It's fashionable, functional, and probably even fast.",
+      "url": "https://carbuzz.com/2027-ford-bronco-filson-reveal-battle-land-rover-defender/",
+      "urlToImage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/new-2027-bronco-filson-first-edition_27.jpg?w=1600&h=900&fit=crop",
+      "source": "CarBuzz",
+      "publishedAt": "2026-06-04T01:00:00Z"
     },
     {
-      "title": "Fed Chair Warsh makes first hires at central bank, including ‘Project 2025’ author - CNBC",
-      "description": "The new Fed chair has made his first hires. One wrote the Fed chapter in conservative policy blueprint \"Project 2025.\"",
-      "url": "https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108311318-1779469218255-gettyimages-2277130076-AFP_B3RG6G9.jpeg?v=1780453667&w=1920&h=1080",
+      "title": "Quantinuum Prices IPO at $60 a Share. It’s Slated to Go Public Thursday. - Barron's",
+      "description": "Bullish investors see Quantinuum as the next superpower in quantum computing. Here’s why.",
+      "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d",
+      "urlToImage": "https://images.barrons.com/im-63424767/social",
+      "source": "Barron's",
+      "publishedAt": "2026-06-04T00:46:00Z"
+    },
+    {
+      "title": "Colorado governor sets personal veto record in rejecting bills limiting credit card swipe fees, helping firefighters who get cancer - The Colorado Sun",
+      "description": "With three vetoes Wednesday, Jared Polis has now rejected 12 bills passed by the legislature this year — eclipsing the personal record the term-limited governor set in 2025",
+      "url": "http://coloradosun.com/2026/06/03/jared-polis-vetoes-swipe-fees-firefighter-bills/",
+      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/03/housing_bill_signings_jp-5-scaled.jpg",
+      "source": "The Colorado Sun",
+      "publishedAt": "2026-06-03T23:50:12Z"
+    },
+    {
+      "title": "Asia-Pacific markets open lower on renewed Middle East tensions - CNBC",
+      "description": "Asia-Pacific markets open lower amid renewed tensions between Iran and the U.S. and worries that the conflict may keep inflation elevated.",
+      "url": "https://www.cnbc.com/2026/06/04/asia-markets-today-asx-nikkei-kospi-hang-seng-csi-300-sensex-oil.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108316445-1780531868664-gettyimages-2267522618-Stock_Market.jpeg?v=1780531885&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-06-03T00:14:00Z"
+      "publishedAt": "2026-06-03T23:46:42Z"
     },
     {
-      "title": "IBM CEO sends strong message on quantum computing - thestreet.com",
-      "description": "IBM CEO Arvind Krishna just made a bold quantum computing pledge that could reshape U.S. tech dominance.",
-      "url": "https://www.thestreet.com/investing/stocks/ibm-ceo-commits-to-quantum-computing-milestone",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDYyMzk0/ibm-ceo-is-bullish-on-quantum-computing.jpg?profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-06-02T23:47:00Z"
-    },
-    {
-      "title": "7 states sue Trump administration over nearly $1 billion deal to halt offshore wind farm - ABC News - Breaking News, Latest News and Videos",
+      "title": "Broadcom Shares Slide Despite Jump in Revenue on AI Chip Demand - WSJ",
       "description": null,
-      "url": "https://abcnews.com/US/7-states-sue-trump-administration-1-billion-deal/story?id\\\\u003d133525483",
+      "url": "https://www.wsj.com/business/earnings/broadcom-revenue-climbs-on-ai-chip-demand-7accd3b2",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-06-03T23:38:00Z"
+    },
+    {
+      "title": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade - CoinDesk",
+      "description": "Bitcoin's recent weakness reflects a broader rotation into AI, IPOs and other momentum trades rather than concerns about Michael Saylor's bitcoin sales, according to Charles Schwab's Jim Ferraioli.",
+      "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d468267c02f5b0c6b3a4b0ddb5f76fbd539bb6e3-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-03T23:34:19Z"
+    },
+    {
+      "title": "SpaceX says its worth $1.75tn as it nears stock market debut - BBC",
+      "description": "Elon Musk’s space exploration company set a target price for buyers earlier than expected.",
+      "url": "https://www.bbc.com/news/articles/cvgz237n40jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d260/live/b4a84e40-5f99-11f1-994c-dd7b6299b2d3.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-06-03T22:41:52Z"
+    },
+    {
+      "title": "Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent - The Information",
+      "description": "Meta Platformsis considering charging up to $200 a month for its planned consumer version of the OpenClaw AI agent tool, according to internal documents, an ambitious target that would rival top tier offerings from established AI giants. The product, currentl…",
+      "url": "https://www.theinformation.com/articles/meta-looks-charge-200-month-planned-hatch-ai-agent",
+      "urlToImage": "https://tii.imgix.net/production/articles/17227/eb46bde2-595e-4e31-9d99-43cf3ced7179.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+      "source": "The Information",
+      "publishedAt": "2026-06-03T22:01:00Z"
+    },
+    {
+      "title": "SpaceX wins tax exemption for $55bn AI chip plant despite local backlash - Financial Times",
+      "description": "Elon Musk’s Terafab plant sparks fierce opposition and threat of legal action from residents of Texas county",
+      "url": "https://www.ft.com/content/86b2440a-60ce-4a5b-94ba-a6a4456ae574?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa9158b92-9224-49a4-98e7-e6cec1048828.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-03T21:14:02Z"
+    },
+    {
+      "title": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027 - SpaceNews",
+      "description": "AST SpaceMobile expects Blue Origin’s recent launchpad explosion will delay its direct-to-smartphone constellation by three to six months, investment bank William Blair said in an equity research note, pushing initial commercial services into the first half o…",
+      "url": "http://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2022/03/BlueBird-scaled.jpg",
+      "source": "SpaceNews",
+      "publishedAt": "2026-06-03T21:12:58Z"
+    },
+    {
+      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out - Ars Technica",
+      "description": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-03T20:26:51Z"
+    },
+    {
+      "title": "There Is a New Aerospace Stock. The IPO for the SpaceX Supplier Fizzled. - Barron's",
+      "description": "Applied Aerospace & Defense stock started trading Wednesday after pricing its IPO. It shares closed down 5%,",
+      "url": "https://www.barrons.com/articles/applied-aerospace-defense-stock-space-ipo-b0e0eba0",
+      "urlToImage": "https://images.barrons.com/im-21363551/social",
+      "source": "Barron's",
+      "publishedAt": "2026-06-03T20:23:00Z"
+    },
+    {
+      "title": "Energy, water use and pollution of AI and data centers rival most countries - AP News",
+      "description": "According to a United Nations University report, the environmental footprint of data centers already rivals some of the world’s largest countries. The report also predicts that their water and energy use and pollution will double in just four years as use of …",
+      "url": "https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95",
+      "urlToImage": "https://dims.apnews.com/dims4/default/503ce68/2147483647/strip/true/crop/4441x2959+409+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F41%2F6aa751acffae87c45f1802b306e3%2F05d74a60cd6744fd99927b3ae2cce689",
+      "source": "Associated Press",
+      "publishedAt": "2026-06-03T20:05:00Z"
+    },
+    {
+      "title": "Treasuries Eye Biggest Drop In Two Weeks on Fed Rate-Hike Bets - Bloomberg.com",
+      "description": "Treasuries fell Wednesday after a gauge of private-sector employment growth left intact expectations that the Federal Reserve will raise interest rates this year.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/treasuries-set-for-biggest-drop-in-two-weeks-on-fed-rate-hike-bets",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwwiTg5bEyU8/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-06-03T19:59:57Z"
+    },
+    {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal - TechCrunch",
+      "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T19:38:32Z"
+    },
+    {
+      "title": "Man allegedly had explosive device in his carry-on bag at California airport: TSA - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/man-allegedly-explosive-device-carry-bag-california-airport/story?id\\\\u003d133558196",
       "urlToImage": null,
       "source": "Abcnews.com",
-      "publishedAt": "2026-06-02T22:42:02Z"
+      "publishedAt": "2026-06-03T18:29:19Z"
     },
     {
-      "title": "GameStop Posts Higher Profit, Launches $2 Billion Buyback Program - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/earnings/gamestop-reports-higher-profit-launches-2-billion-buyback-program-a8ebdb52",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-02T22:35:00Z"
-    },
-    {
-      "title": "Blue Origin Issues Official Statement on New Glenn Explosion - Universe Today",
-      "description": "Jeff Bezos' Blue Origin is assessing damage to its launch pad after a rocket exploded during a test firing, creating a giant orange fireball seen and felt for miles around.",
-      "url": "https://www.universetoday.com/articles/blue-origin-issues-official-statement-on-new-glenn-explosion",
-      "urlToImage": "https://www.universetoday.com/article_images/Screenshot_2026-06-02_at_14-24-49_Blue_Origin_New_Glenn_rocket_explodes_during_launch_pad_test_at_Cape_Canaveral_-_YouTube_20260602_212601.png",
-      "source": "Universe Today",
-      "publishedAt": "2026-06-02T21:37:00Z"
-    },
-    {
-      "title": "HPE Is Having a Dell-Like Move. But It’s Not Dell. - Barron's",
-      "description": "Hewlett Packard Enterprise reported better-than-expected financial results and raised its fiscal year outlook as artificial intelligence demand continues to benefit the company’s growth.",
-      "url": "https://www.barrons.com/articles/hpe-earnings-stock-price-96f2a062",
-      "urlToImage": "https://images.barrons.com/im-42206584/social",
+      "title": "KKR, Blue Owl, and Blackstone Tumble. Why Private-Market Jitters Are Back and Hitting the Stocks. - Barron's",
+      "description": "Swiss asset manager Partners Group caps withdrawals from one of its private-equity funds at 5% of the fund’s value.",
+      "url": "https://www.barrons.com/articles/blackstone-kkr-blue-owl-private-equity-redemptions-bd7e3f82",
+      "urlToImage": "https://images.barrons.com/im-79079874/social",
       "source": "Barron's",
-      "publishedAt": "2026-06-02T21:23:00Z"
-    },
-    {
-      "title": "Democrats Sanders And Warren Push Labor Department To Abandon Bitcoin 401(k) Rule - Bitcoin Magazine",
-      "description": "Bernie Sanders and Elizabeth Warren are urging the U.S. Department of Labor under Donald Trump to withdraw a proposed rule allowing Bitcoin and other cryptocurrencies in retirement accounts.",
-      "url": "https://bitcoinmagazine.com/news/sanders-and-warren-push-bitcoin-401k-rule",
-      "urlToImage": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Pics-48.jpg",
-      "source": "Bitcoin Magazine",
-      "publishedAt": "2026-06-02T21:12:32Z"
-    },
-    {
-      "title": "Broadcom Stock Closes at a Record. It’s Getting a Double Boost From Google and Marvell. - Barron's",
-      "description": "Broadcom stock rises. Why Google’s plan to raise $80 billion bodes well for the AI chip maker. Nvidia and Marvell are also helping.",
-      "url": "https://www.barrons.com/articles/avgo-stock-broadcom-google-marvell-cdb34f38",
-      "urlToImage": "https://images.barrons.com/im-94285859/social",
-      "source": "Barron's",
-      "publishedAt": "2026-06-02T20:59:00Z"
-    },
-    {
-      "title": "Trump wants to make a complicated process for millions of student-loan borrowers easier - Business Insider",
-      "description": "The Education Department is planning to streamline the process for defaulted student-loan borrowers to get help with repayment.",
-      "url": "https://www.businessinsider.com/trump-moving-student-loan-debt-default-resolution-fsa-borrowers-repayment-2026-6",
-      "urlToImage": "https://i.insider.com/6a1f1602b4fb977f3598360b?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-02T20:49:00Z"
-    },
-    {
-      "title": "Palo Alto Fiscal Q3 Earnings, Revenue, Key Metrics Top Wall Street Targets - Investor's Business Daily",
-      "description": "Palo Alto stock popped amid fiscal Q3 earnings and revenue that beat Wall Street targets as key financial metrics also topped expectations.",
-      "url": "https://www.investors.com/news/technology/palo-alto-stock-panw-palo-alto-earnings-news-q12026/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/09/stock-PaloAltoNetworks-06-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-06-02T20:48:00Z"
-    },
-    {
-      "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash. - Barron's",
-      "description": "Virgin Galactic stock fell after the space tourism company said it plans to pay back millions in debt by issuing stock. The shine from Space X and other space stocks faded quickly.",
-      "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16",
-      "urlToImage": "https://images.barrons.com/im-44713002/social",
-      "source": "Barron's",
-      "publishedAt": "2026-06-02T20:44:00Z"
-    },
-    {
-      "title": "Ellison Passes Larry Page—Second Richest Behind Elon Musk - Forbes",
-      "description": "The Oracle cofounder was in sixth place less than a month ago.",
-      "url": "https://www.forbes.com/sites/aliciapark/2026/06/02/larry-ellison-becomes-second-richest-in-the-world-surpasses-bezos-brin-and-page-in-2-days/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a1f4064e152465e6e627188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-06-02T20:43:37Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Edges Up as AI Fervor Powers Tech Stocks — Live Updates - WSJ",
-      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026",
-      "urlToImage": "https://images.wsj.net/im-925351/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-02T20:39:00Z"
+      "publishedAt": "2026-06-03T18:10:00Z"
     }
   ]
 }
