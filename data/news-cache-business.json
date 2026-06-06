@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-06-05T10:09:59.452Z",
+  "updatedAt": "2026-06-06T08:44:38.231Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "S&P 500 futures fall after index snaps 9-day win streak amid rising Middle East tensions: Live updates - CNBC",
-      "description": "Rising oil prices and Treasury yields weighed all three major indexes lower on Wednesday.",
-      "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108316097-1780501614146-Traders-Photo-20260603-KK-PRESS-021.jpg?v=1780501871&w=1920&h=1080",
+      "title": "Elon Musk’s SpaceX lines up retail investors for record IPO allocation - Financial Times",
+      "description": "Up to a quarter of the rocket builder’s $75bn float will be set aside for individual investors",
+      "url": "https://www.ft.com/content/3cf5aed7-1a57-44ad-b9bc-11c779a5d2de?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc1240998-56cf-4872-9c8c-978ae16c9703.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-05T04:02:03Z"
+    },
+    {
+      "title": "2nd Buc-ee's location coming to Ohio - abc6onyourside.com",
+      "description": "The popular Texas-based chain debuted in Ohio in April in Huber Heights.",
+      "url": "https://abc6onyourside.com/news/local/2nd-buc-ees-location-coming-to-ohio-huber-heights-travel-center-mansfield-state-route-open",
+      "urlToImage": "https://abc6onyourside.com/resources/media2/16x9/8667/1320/0x447/90/31025bde-0efe-448d-b174-3e3e024927af-GettyImages2157318789.jpg",
+      "source": "ABC6OnYourSide.com",
+      "publishedAt": "2026-06-05T03:11:12Z"
+    },
+    {
+      "title": "Copilot of United jet that struck a light pole realized flight was low, but not in time: report - AP News",
+      "description": "Federal investigators have released their initial report on a jet that struck a truck on a highway while landing at a New Jersey airport. The National Transportation Safety Board on Thursday said the copilot had recognized the plane were coming in low, but di…",
+      "url": "https://apnews.com/article/united-newark-plane-light-pole-truck-ntsb-07d23cf8be6a5fae397e9b81e658ac14",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2ff5ea6/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2Fcd%2Fe9512458ecb2db1367eda28b7256%2F5842d7d044214af8857fa5c4b76ba35d",
+      "source": "Associated Press",
+      "publishedAt": "2026-06-05T01:19:00Z"
+    },
+    {
+      "title": "South Korea stocks fall 5% as tech heavyweights follow plunge in Wall Street's AI-linked names - CNBC",
+      "description": "Asia-Pacific markets fell on Friday as investors assessed a rotation out of chip stocks on Wall Street that lifted the Dow Jones Industrial Average to a record close.",
+      "url": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287390-1775490641703-gettyimages-2267504825-AFP_A4C33KF.jpeg?v=1775490654&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-06-04T08:00:00Z"
+      "publishedAt": "2026-06-04T23:48:20Z"
     },
     {
-      "title": "Ford's Fancy New Bronco Is Here To Battle The Land Rover Defender - CarBuzz",
-      "description": "It's fashionable, functional, and probably even fast.",
-      "url": "https://carbuzz.com/2027-ford-bronco-filson-reveal-battle-land-rover-defender/",
-      "urlToImage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/06/new-2027-bronco-filson-first-edition_27.jpg?w=1600&h=900&fit=crop",
-      "source": "CarBuzz",
-      "publishedAt": "2026-06-04T01:00:00Z"
+      "title": "S&P will not change the rules to allow SpaceX into its benchmark index early - Axios",
+      "description": "The mega-cap IPOs will have to wait.",
+      "url": "https://www.axios.com/2026/06/04/musk-spacex-ipo-sp-investors",
+      "urlToImage": "https://images.axios.com/JK9zOprV1281ulvqC2KOEMjs7yY=/0x0:1920x1080/1366x768/2026/06/04/1780613732318.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-06-04T23:30:55Z"
     },
     {
-      "title": "Quantinuum Prices IPO at $60 a Share. It’s Slated to Go Public Thursday. - Barron's",
-      "description": "Bullish investors see Quantinuum as the next superpower in quantum computing. Here’s why.",
+      "title": "Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-06-04T22:51:00Z"
+    },
+    {
+      "title": "Senior U.S. Officials Eye Government Shares in AI Giants - News of the United States - NOTUS",
+      "description": "An agreement to give the U.S. government equity stakes in AI companies could have seismic consequences.",
+      "url": "https://www.notus.org/technology/trump-ai-stake-openai",
+      "urlToImage": "https://static.notus.org/dims4/default/2c57a9a/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcc%2Fc0%2Fa47d76d744b6beb3074e491462e9%2Fap26154753451949.jpg",
+      "source": "Notus.org",
+      "publishedAt": "2026-06-04T22:44:16Z"
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns - TechCrunch",
+      "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-04T22:43:26Z"
+    },
+    {
+      "title": "Google is quietly laying off staff in its cloud division - Business Insider",
+      "description": "Google has laid off employees across parts of its Cloud business, including at an elite cybersecurity intelligence unit.",
+      "url": "https://www.businessinsider.com/google-clouds-quiet-layoffs-hit-cybersecurity-teams-2026-6",
+      "urlToImage": "https://i.insider.com/6a21f6312e5a80cfe0503a67?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-04T22:38:13Z"
+    },
+    {
+      "title": "Lululemon Cuts Outlook as Headwinds Mount - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/earnings/lululemon-cuts-outlook-as-headwinds-mount-66af8d02",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-06-04T21:56:00Z"
+    },
+    {
+      "title": "Oil drops, stocks mostly higher despite AI concerns - Yahoo Finance",
+      "description": "Oil prices and the dollar retreated Thursday as traders tracked conflicting developments in the Middle East war, while equity markets mostly rose despite a...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
+      "urlToImage": "https://s.yimg.com/os/en/afp.com/1e27ae9cdf38718511ffe55e95aa2ab5",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-04T21:36:56Z"
+    },
+    {
+      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data - Ars Technica",
+      "description": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/supreme-court-1152x648-1780605704.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-06-04T21:25:19Z"
+    },
+    {
+      "title": "Berkshire Hathaway CEO Greg Abel Is Doubling Down on His Biggest Investment So Far With Another $10 Billion Buy - The Motley Fool",
+      "description": "Abel is making a mark on the company's portfolio and a dent in its cash pile.",
+      "url": "https://www.fool.com/investing/2026/06/04/berkshire-hathaway-ceo-greg-abel-is-doubling-down/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872850%2Fgetty-images-brk-berkshire-hathaway-phone-app-stock.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-06-04T21:00:00Z"
+    },
+    {
+      "title": "Quantinuum Stock Fizzles in Highly Anticipated Quantum IPO Debut. What Went Wrong? - Barron's",
+      "description": "Quantinuum stock popped in its trading debut, opening 13% above its initial public offering price in what seemed to be a major win for the quantum computing industry. That momentum quickly faded.",
       "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d",
       "urlToImage": "https://images.barrons.com/im-63424767/social",
       "source": "Barron's",
-      "publishedAt": "2026-06-04T00:46:00Z"
+      "publishedAt": "2026-06-04T20:43:00Z"
     },
     {
-      "title": "Colorado governor sets personal veto record in rejecting bills limiting credit card swipe fees, helping firefighters who get cancer - The Colorado Sun",
-      "description": "With three vetoes Wednesday, Jared Polis has now rejected 12 bills passed by the legislature this year — eclipsing the personal record the term-limited governor set in 2025",
-      "url": "http://coloradosun.com/2026/06/03/jared-polis-vetoes-swipe-fees-firefighter-bills/",
-      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/03/housing_bill_signings_jp-5-scaled.jpg",
-      "source": "The Colorado Sun",
-      "publishedAt": "2026-06-03T23:50:12Z"
+      "title": "Where to Get Free Doughnuts on June 5, National Doughnut Day - foodnetwork.com",
+      "description": "Grab a free doughnut from these chains on June 5.",
+      "url": "https://www.foodnetwork.com/fn-dish/news/national-doughnut-day-deals-2026",
+      "urlToImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2026/06/04/FN_Krispy-Kreme_Doughnut-Day-Hero_s4x3.jpg.rend.hgtvcom.616.462.85.suffix/1780604595633.webp",
+      "source": "foodnetwork.com",
+      "publishedAt": "2026-06-04T20:31:42Z"
     },
     {
-      "title": "Asia-Pacific markets open lower on renewed Middle East tensions - CNBC",
-      "description": "Asia-Pacific markets open lower amid renewed tensions between Iran and the U.S. and worries that the conflict may keep inflation elevated.",
-      "url": "https://www.cnbc.com/2026/06/04/asia-markets-today-asx-nikkei-kospi-hang-seng-csi-300-sensex-oil.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108316445-1780531868664-gettyimages-2267522618-Stock_Market.jpeg?v=1780531885&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-06-03T23:46:42Z"
+      "title": "AI backlash has come for Elon Musk's massive Terafab chip factory in Texas - Business Insider",
+      "description": "SpaceX has submitted proposals to build the first phase of its chipmaking moonshot, which will cost at least $55 billion, in Grimes County, Texas.",
+      "url": "https://www.businessinsider.com/elon-musk-spacex-terafab-chip-factory-texas-opposition-ai-backlash-2026-6",
+      "urlToImage": "https://i.insider.com/6a21ddf92ab5f9757add9495?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-04T20:31:00Z"
     },
     {
-      "title": "Broadcom Shares Slide Despite Jump in Revenue on AI Chip Demand - WSJ",
+      "title": "Broadcom Stock Dives As AI Chip Sales Outlook Disappoints - Investor's Business Daily",
+      "description": "Broadcom stock fell Thursday after the tech giant missed Wall Street's lofty estimates with its AI chip sales targets.",
+      "url": "https://www.investors.com/news/technology/broadcom-stock-dives-ai-chip-sales-outlook-disappoints/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/06/Stock-Broadcom-HockTanVMware-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-06-04T20:30:00Z"
+    },
+    {
+      "title": "PGE proposes whopping 29% rate hike for Oregon data centers; everyone else gets (slightly) lower rates - OregonLive.com",
       "description": null,
-      "url": "https://www.wsj.com/business/earnings/broadcom-revenue-climbs-on-ai-chip-demand-7accd3b2",
+      "url": "https://www.oregonlive.com/environment/2026/06/pge-proposes-whopping-29-rate-hike-for-oregon-data-centers-everyone-else-gets-slightly-lower-rates.html",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-03T23:38:00Z"
+      "source": "OregonLive",
+      "publishedAt": "2026-06-04T19:42:00Z"
     },
     {
-      "title": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade - CoinDesk",
-      "description": "Bitcoin's recent weakness reflects a broader rotation into AI, IPOs and other momentum trades rather than concerns about Michael Saylor's bitcoin sales, according to Charles Schwab's Jim Ferraioli.",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d468267c02f5b0c6b3a4b0ddb5f76fbd539bb6e3-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-03T23:34:19Z"
-    },
-    {
-      "title": "SpaceX says its worth $1.75tn as it nears stock market debut - BBC",
-      "description": "Elon Musk’s space exploration company set a target price for buyers earlier than expected.",
-      "url": "https://www.bbc.com/news/articles/cvgz237n40jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d260/live/b4a84e40-5f99-11f1-994c-dd7b6299b2d3.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-06-03T22:41:52Z"
-    },
-    {
-      "title": "Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent - The Information",
-      "description": "Meta Platformsis considering charging up to $200 a month for its planned consumer version of the OpenClaw AI agent tool, according to internal documents, an ambitious target that would rival top tier offerings from established AI giants. The product, currentl…",
-      "url": "https://www.theinformation.com/articles/meta-looks-charge-200-month-planned-hatch-ai-agent",
-      "urlToImage": "https://tii.imgix.net/production/articles/17227/eb46bde2-595e-4e31-9d99-43cf3ced7179.jpg?fm=jpg&auto=compress&w=1200&frame=0",
-      "source": "The Information",
-      "publishedAt": "2026-06-03T22:01:00Z"
-    },
-    {
-      "title": "SpaceX wins tax exemption for $55bn AI chip plant despite local backlash - Financial Times",
-      "description": "Elon Musk’s Terafab plant sparks fierce opposition and threat of legal action from residents of Texas county",
-      "url": "https://www.ft.com/content/86b2440a-60ce-4a5b-94ba-a6a4456ae574?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa9158b92-9224-49a4-98e7-e6cec1048828.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-03T21:14:02Z"
-    },
-    {
-      "title": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027 - SpaceNews",
-      "description": "AST SpaceMobile expects Blue Origin’s recent launchpad explosion will delay its direct-to-smartphone constellation by three to six months, investment bank William Blair said in an equity research note, pushing initial commercial services into the first half o…",
-      "url": "http://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2022/03/BlueBird-scaled.jpg",
-      "source": "SpaceNews",
-      "publishedAt": "2026-06-03T21:12:58Z"
-    },
-    {
-      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out - Ars Technica",
-      "description": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-03T20:26:51Z"
-    },
-    {
-      "title": "There Is a New Aerospace Stock. The IPO for the SpaceX Supplier Fizzled. - Barron's",
-      "description": "Applied Aerospace & Defense stock started trading Wednesday after pricing its IPO. It shares closed down 5%,",
-      "url": "https://www.barrons.com/articles/applied-aerospace-defense-stock-space-ipo-b0e0eba0",
-      "urlToImage": "https://images.barrons.com/im-21363551/social",
-      "source": "Barron's",
-      "publishedAt": "2026-06-03T20:23:00Z"
-    },
-    {
-      "title": "Energy, water use and pollution of AI and data centers rival most countries - AP News",
-      "description": "According to a United Nations University report, the environmental footprint of data centers already rivals some of the world’s largest countries. The report also predicts that their water and energy use and pollution will double in just four years as use of …",
-      "url": "https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95",
-      "urlToImage": "https://dims.apnews.com/dims4/default/503ce68/2147483647/strip/true/crop/4441x2959+409+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F41%2F6aa751acffae87c45f1802b306e3%2F05d74a60cd6744fd99927b3ae2cce689",
-      "source": "Associated Press",
-      "publishedAt": "2026-06-03T20:05:00Z"
-    },
-    {
-      "title": "Treasuries Eye Biggest Drop In Two Weeks on Fed Rate-Hike Bets - Bloomberg.com",
-      "description": "Treasuries fell Wednesday after a gauge of private-sector employment growth left intact expectations that the Federal Reserve will raise interest rates this year.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-03/treasuries-set-for-biggest-drop-in-two-weeks-on-fed-rate-hike-bets",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwwiTg5bEyU8/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-03T19:59:57Z"
-    },
-    {
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal - TechCrunch",
-      "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T19:38:32Z"
-    },
-    {
-      "title": "Man allegedly had explosive device in his carry-on bag at California airport: TSA - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/man-allegedly-explosive-device-carry-bag-california-airport/story?id\\\\u003d133558196",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-03T18:29:19Z"
-    },
-    {
-      "title": "KKR, Blue Owl, and Blackstone Tumble. Why Private-Market Jitters Are Back and Hitting the Stocks. - Barron's",
-      "description": "Swiss asset manager Partners Group caps withdrawals from one of its private-equity funds at 5% of the fund’s value.",
-      "url": "https://www.barrons.com/articles/blackstone-kkr-blue-owl-private-equity-redemptions-bd7e3f82",
-      "urlToImage": "https://images.barrons.com/im-79079874/social",
-      "source": "Barron's",
-      "publishedAt": "2026-06-03T18:10:00Z"
+      "title": "The 5 Best Home And Garden Deals From Amazon's 2026 Prime Day Sale - House Digest",
+      "description": "The best 2026 deals from Amazon Prime Day Sale include a eufy robot vacuum and mop, washable area rug, solar-powered lights, a greenhouse, and a workbench.",
+      "url": "https://www.housedigest.com/2187675/5-best-home-garden-deals-amazon-prime-day-2026/",
+      "urlToImage": "https://www.housedigest.com/img/gallery/the-5-best-home-and-garden-deals-from-amazons-2026-prime-day-sale/l-intro-1780592259.jpg",
+      "source": "Housedigest.com",
+      "publishedAt": "2026-06-04T19:30:00Z"
     }
   ]
 }
