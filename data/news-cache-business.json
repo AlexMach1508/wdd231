@@ -1,159 +1,127 @@
 {
-  "updatedAt": "2026-06-06T08:44:38.231Z",
+  "updatedAt": "2026-06-07T09:30:58.337Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Elon Musk’s SpaceX lines up retail investors for record IPO allocation - Financial Times",
-      "description": "Up to a quarter of the rocket builder’s $75bn float will be set aside for individual investors",
-      "url": "https://www.ft.com/content/3cf5aed7-1a57-44ad-b9bc-11c779a5d2de?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc1240998-56cf-4872-9c8c-978ae16c9703.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-05T04:02:03Z"
+      "title": "Trump says he’s considering government stake in top AI companies - The Washington Post",
+      "description": "Industry leaders will soon gather at the White House to discuss the idea, the president said. The comments come as SpaceX, Anthropic and OpenAI prepare to go public.",
+      "url": "https://www.washingtonpost.com/politics/2026/06/05/tech-leaders-will-discuss-government-stakes-top-ai-firms-trump-says/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LFQ5W4VI42X26LSRHS4NFU5XKA.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-06-06T04:23:24Z"
     },
     {
-      "title": "2nd Buc-ee's location coming to Ohio - abc6onyourside.com",
-      "description": "The popular Texas-based chain debuted in Ohio in April in Huber Heights.",
-      "url": "https://abc6onyourside.com/news/local/2nd-buc-ees-location-coming-to-ohio-huber-heights-travel-center-mansfield-state-route-open",
-      "urlToImage": "https://abc6onyourside.com/resources/media2/16x9/8667/1320/0x447/90/31025bde-0efe-448d-b174-3e3e024927af-GettyImages2157318789.jpg",
-      "source": "ABC6OnYourSide.com",
-      "publishedAt": "2026-06-05T03:11:12Z"
-    },
-    {
-      "title": "Copilot of United jet that struck a light pole realized flight was low, but not in time: report - AP News",
-      "description": "Federal investigators have released their initial report on a jet that struck a truck on a highway while landing at a New Jersey airport. The National Transportation Safety Board on Thursday said the copilot had recognized the plane were coming in low, but di…",
-      "url": "https://apnews.com/article/united-newark-plane-light-pole-truck-ntsb-07d23cf8be6a5fae397e9b81e658ac14",
-      "urlToImage": "https://dims.apnews.com/dims4/default/2ff5ea6/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2Fcd%2Fe9512458ecb2db1367eda28b7256%2F5842d7d044214af8857fa5c4b76ba35d",
-      "source": "Associated Press",
-      "publishedAt": "2026-06-05T01:19:00Z"
-    },
-    {
-      "title": "South Korea stocks fall 5% as tech heavyweights follow plunge in Wall Street's AI-linked names - CNBC",
-      "description": "Asia-Pacific markets fell on Friday as investors assessed a rotation out of chip stocks on Wall Street that lifted the Dow Jones Industrial Average to a record close.",
-      "url": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287390-1775490641703-gettyimages-2267504825-AFP_A4C33KF.jpeg?v=1775490654&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-06-04T23:48:20Z"
-    },
-    {
-      "title": "S&P will not change the rules to allow SpaceX into its benchmark index early - Axios",
-      "description": "The mega-cap IPOs will have to wait.",
-      "url": "https://www.axios.com/2026/06/04/musk-spacex-ipo-sp-investors",
-      "urlToImage": "https://images.axios.com/JK9zOprV1281ulvqC2KOEMjs7yY=/0x0:1920x1080/1366x768/2026/06/04/1780613732318.jpg",
+      "title": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
+      "description": "Tech stocks plunged Friday amid rising bond yields, dragging down the Nasdaq in its worst session in 14 months.",
+      "url": "https://www.axios.com/2026/06/05/stocks-nasdaq-tech-stocks",
+      "urlToImage": "https://images.axios.com/gTfBefU1zn4YXQfeSFhREsnxwoA=/1366x768/smart/2025/05/27/205302-1748379182577.jpg",
       "source": "Axios",
-      "publishedAt": "2026-06-04T23:30:55Z"
+      "publishedAt": "2026-06-06T02:11:46Z"
     },
     {
-      "title": "Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-04T22:51:00Z"
+      "title": "China can build humanoids at scale. The hard part is finding enough buyers - AP News",
+      "description": "Chinese humanoid robots are making waves with their ability to do backflips, direct traffic and even make coffee. As such robots become more advanced, Chinese companies are looking for ways to profit from them. The government helped support their development,…",
+      "url": "https://apnews.com/article/china-humanoid-robots-ai-demand-7d542b5ee92caa9d79efa28de89afbbe",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e3f6d3d/2147483647/strip/true/crop/8337x5555+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F41%2Facc1b1434858ca9df18a6d224f6e%2F9743aaaaea5445ceac055078bfc298a6",
+      "source": "Associated Press",
+      "publishedAt": "2026-06-06T02:07:00Z"
     },
     {
-      "title": "Senior U.S. Officials Eye Government Shares in AI Giants - News of the United States - NOTUS",
-      "description": "An agreement to give the U.S. government equity stakes in AI companies could have seismic consequences.",
-      "url": "https://www.notus.org/technology/trump-ai-stake-openai",
-      "urlToImage": "https://static.notus.org/dims4/default/2c57a9a/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcc%2Fc0%2Fa47d76d744b6beb3074e491462e9%2Fap26154753451949.jpg",
-      "source": "Notus.org",
-      "publishedAt": "2026-06-04T22:44:16Z"
+      "title": "Daily Update: WWE shareholder lawsuit trial removed from schedule, must-see match from Mexico - F4W/WON",
+      "description": "Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH — Garrett…",
+      "url": "https://www.f4wonline.com/news/daily-updates/daily-update-wwe-shareholder-lawsuit-trial-removed-from-schedule-must-see-match-from-mexico/",
+      "urlToImage": "https://www.f4wonline.com/wp-content/uploads/2024/02/wwelogojpg.jpg",
+      "source": "Figure Four Online",
+      "publishedAt": "2026-06-05T23:44:22Z"
     },
     {
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns - TechCrunch",
-      "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-04T22:43:26Z"
-    },
-    {
-      "title": "Google is quietly laying off staff in its cloud division - Business Insider",
-      "description": "Google has laid off employees across parts of its Cloud business, including at an elite cybersecurity intelligence unit.",
-      "url": "https://www.businessinsider.com/google-clouds-quiet-layoffs-hit-cybersecurity-teams-2026-6",
-      "urlToImage": "https://i.insider.com/6a21f6312e5a80cfe0503a67?width=1200&format=jpeg",
+      "title": "What smart people are saying about Anthropic suggesting a global AI pause - Business Insider",
+      "description": "\"We believe it would be good for the world to have the option to slow or temporarily pause,\" two leading Anthropic officials wrote.",
+      "url": "https://www.businessinsider.com/anthropic-ai-pause-reactions-response-2026-6",
+      "urlToImage": "https://i.insider.com/6a233df52e5a80cfe0504189?width=1200&format=jpeg",
       "source": "Business Insider",
-      "publishedAt": "2026-06-04T22:38:13Z"
+      "publishedAt": "2026-06-05T21:54:00Z"
     },
     {
-      "title": "Lululemon Cuts Outlook as Headwinds Mount - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/earnings/lululemon-cuts-outlook-as-headwinds-mount-66af8d02",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-04T21:56:00Z"
+      "title": "Energy Department says advanced nuclear reactor first to reach critical milestone - PBS",
+      "description": "The milestone occurs when a nuclear reactor achieves a self-sustaining chain reaction capable of producing a steady release of energy.",
+      "url": "https://www.pbs.org/newshour/nation/energy-department-says-advanced-nuclear-reactor-first-to-reach-critical-milestone",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-05-19T174607Z_784424926_RC2FCLAMXZY2_RTRMADP_3_IRAN-CRISIS-USA-FERTILIZER-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-06-05T21:48:27Z"
     },
     {
-      "title": "Oil drops, stocks mostly higher despite AI concerns - Yahoo Finance",
-      "description": "Oil prices and the dollar retreated Thursday as traders tracked conflicting developments in the Middle East war, while equity markets mostly rose despite a...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
-      "urlToImage": "https://s.yimg.com/os/en/afp.com/1e27ae9cdf38718511ffe55e95aa2ab5",
+      "title": "50-year-old theme park to close forever after summer season - thestreet.com",
+      "description": "Financial problems have led to the choice to close down after one final season.",
+      "url": "https://www.thestreet.com/travel/50-year-old-theme-park-to-close-forever-after-summer-season",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDY2ODI1/wild-waves-theme-and-water-park.jpg?profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-06-05T20:50:14Z"
+    },
+    {
+      "title": "SpaceX and Other Mega IPOs May Wait Years to Join the S&P 500 - Yahoo Finance",
+      "description": "(Bloomberg) -- Mega-IPO candidates including SpaceX are expected to face a long road to entry to the S&P 500 Index, after the company that makes the rules...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-other-mega-ipos-may-203911463.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-04T21:36:56Z"
+      "publishedAt": "2026-06-05T20:39:11Z"
     },
     {
-      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data - Ars Technica",
-      "description": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/supreme-court-1152x648-1780605704.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-04T21:25:19Z"
-    },
-    {
-      "title": "Berkshire Hathaway CEO Greg Abel Is Doubling Down on His Biggest Investment So Far With Another $10 Billion Buy - The Motley Fool",
-      "description": "Abel is making a mark on the company's portfolio and a dent in its cash pile.",
-      "url": "https://www.fool.com/investing/2026/06/04/berkshire-hathaway-ceo-greg-abel-is-doubling-down/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872850%2Fgetty-images-brk-berkshire-hathaway-phone-app-stock.jpg&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-06-04T21:00:00Z"
-    },
-    {
-      "title": "Quantinuum Stock Fizzles in Highly Anticipated Quantum IPO Debut. What Went Wrong? - Barron's",
-      "description": "Quantinuum stock popped in its trading debut, opening 13% above its initial public offering price in what seemed to be a major win for the quantum computing industry. That momentum quickly faded.",
-      "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d",
-      "urlToImage": "https://images.barrons.com/im-63424767/social",
+      "title": "Broadcom, Quantinuum, Strategy, FedEx Freight, and More Stocks That Explain Today’s Market - Barron's",
+      "description": "Broadcom, Micron, and Nvidia stocks fall as investors slam the brakes on the AI rally.",
+      "url": "https://www.barrons.com/articles/stock-movers-a58d829c",
+      "urlToImage": "https://images.barrons.com/im-06448825/social",
       "source": "Barron's",
-      "publishedAt": "2026-06-04T20:43:00Z"
+      "publishedAt": "2026-06-05T20:35:00Z"
     },
     {
-      "title": "Where to Get Free Doughnuts on June 5, National Doughnut Day - foodnetwork.com",
-      "description": "Grab a free doughnut from these chains on June 5.",
-      "url": "https://www.foodnetwork.com/fn-dish/news/national-doughnut-day-deals-2026",
-      "urlToImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2026/06/04/FN_Krispy-Kreme_Doughnut-Day-Hero_s4x3.jpg.rend.hgtvcom.616.462.85.suffix/1780604595633.webp",
-      "source": "foodnetwork.com",
-      "publishedAt": "2026-06-04T20:31:42Z"
+      "title": "It Sure Seems Like Pete Hegseth Is Losing His War Against Anthropic - Gizmodo",
+      "description": "Does the U.S. government need Anthropic more than it's willing to admit?",
+      "url": "https://gizmodo.com/it-sure-seems-like-pete-hegseth-is-losing-his-war-against-anthropic-2000768116",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/pete-hegseth-2026-flash-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-06-05T20:20:37Z"
     },
     {
-      "title": "AI backlash has come for Elon Musk's massive Terafab chip factory in Texas - Business Insider",
-      "description": "SpaceX has submitted proposals to build the first phase of its chipmaking moonshot, which will cost at least $55 billion, in Grimes County, Texas.",
-      "url": "https://www.businessinsider.com/elon-musk-spacex-terafab-chip-factory-texas-opposition-ai-backlash-2026-6",
-      "urlToImage": "https://i.insider.com/6a21ddf92ab5f9757add9495?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-04T20:31:00Z"
+      "title": "Chip selloff erases over $1 trillion in stock market value - Yahoo Finance",
+      "description": "U.S.-traded chipmakers plunged on Friday, losing over $1 trillion in market value, with deep losses in ‌AI heavy hitters including Nvidia, Micron Technology...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-selloff-erases-over-1-195406803.html",
+      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/9747c4385ddaafcdab4da68af923026f",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-05T19:54:06Z"
     },
     {
-      "title": "Broadcom Stock Dives As AI Chip Sales Outlook Disappoints - Investor's Business Daily",
-      "description": "Broadcom stock fell Thursday after the tech giant missed Wall Street's lofty estimates with its AI chip sales targets.",
-      "url": "https://www.investors.com/news/technology/broadcom-stock-dives-ai-chip-sales-outlook-disappoints/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/06/Stock-Broadcom-HockTanVMware-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-06-04T20:30:00Z"
-    },
-    {
-      "title": "PGE proposes whopping 29% rate hike for Oregon data centers; everyone else gets (slightly) lower rates - OregonLive.com",
+      "title": "Miami-Dade Mayor to Use Eminent Domain to Seize Fisher Island Property - WSJ",
       "description": null,
-      "url": "https://www.oregonlive.com/environment/2026/06/pge-proposes-whopping-29-rate-hike-for-oregon-data-centers-everyone-else-gets-slightly-lower-rates.html",
+      "url": "https://www.wsj.com/real-estate/miami-dade-mayor-to-use-eminent-domain-to-seize-fisher-island-property-44223c8c",
       "urlToImage": null,
-      "source": "OregonLive",
-      "publishedAt": "2026-06-04T19:42:00Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-06-05T19:29:00Z"
     },
     {
-      "title": "The 5 Best Home And Garden Deals From Amazon's 2026 Prime Day Sale - House Digest",
-      "description": "The best 2026 deals from Amazon Prime Day Sale include a eufy robot vacuum and mop, washable area rug, solar-powered lights, a greenhouse, and a workbench.",
-      "url": "https://www.housedigest.com/2187675/5-best-home-garden-deals-amazon-prime-day-2026/",
-      "urlToImage": "https://www.housedigest.com/img/gallery/the-5-best-home-and-garden-deals-from-amazons-2026-prime-day-sale/l-intro-1780592259.jpg",
-      "source": "Housedigest.com",
-      "publishedAt": "2026-06-04T19:30:00Z"
+      "title": "Gold Erases This Year’s Gains as Jobs Data Fuel Fed-Hike Bets - Bloomberg.com",
+      "description": "Gold erased its gains this year as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates this year, a headwind for the precious metal.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/gold-erases-this-year-s-gains-as-jobs-data-fuel-fed-hike-bets",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5eACahvLG1o/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-06-05T18:40:18Z"
+    },
+    {
+      "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests - CNBC",
+      "description": "Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.",
+      "url": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108311269-1779465281254-gettyimages-2277124121-AFP_B3R778G.jpeg?v=1779465304&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-06-05T17:44:14Z"
+    },
+    {
+      "title": "The deficit climbing by $3.4 trillion is keeping your mortgage rate at 6.48% — not the Fed - Fortune",
+      "description": "Trump's tax-and-immigration megabill is forcing Treasury to flood bond markets with new debt, pushing 10-year yields higher. Not good for your mortgage.",
+      "url": "https://fortune.com/2026/06/05/why-are-mortgage-rates-high-trump-bill-immigration-treasury-fed/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2277128581-e1780677395572.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-06-05T16:37:00Z"
     }
   ]
 }
