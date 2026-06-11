@@ -1,103 +1,167 @@
 {
-  "updatedAt": "2026-06-10T10:19:02.693Z",
+  "updatedAt": "2026-06-11T10:55:39.347Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant - Apple",
-      "description": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/tile/Apple-Siri-AI-hero-260608-lp.jpg.og.jpg?202606090054",
-      "source": "Apple Newsroom",
-      "publishedAt": "2026-06-09T03:49:47Z"
-    },
-    {
-      "title": "Apple’s iOS 27 Is Filled With Hints About Its Upcoming Foldable iPhone - Bloomberg.com",
-      "description": "Apple Inc.’s iOS 27 and related software updates offer the clearest public signs yet of the company’s upcoming foldable iPhone, revealing references to folding hardware and new features designed for larger, more flexible displays.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPsZiJEXOpI8/v0/1200x800.jpg",
+      "title": "Nintendo Shares Slide After 2026 Game Showcase Disappoints - Bloomberg.com",
+      "description": "Nintendo Co.’s shares fell by the most in a month after the game maker’s presentation of upcoming games came up short on brand-new titles from heavyweight franchises such as Mario.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDPtxeHvtgQc/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-06-09T02:20:00Z"
+      "publishedAt": "2026-06-10T00:29:00Z"
     },
     {
-      "title": "5 things I already love from the iOS 27 beta - The Verge",
-      "description": "I’ve already been testing the first iOS 27 developer beta, and there are some features that I’m a big fan of, like Liquid Glass improvements and a new extra large option for widgets.",
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_560765.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "Toby Fox Shares New Development Update On Deltarune Chapter 6 - Nintendo Life",
+      "description": "Work on Chapter 7 may also start this year",
+      "url": "https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6",
+      "urlToImage": "https://images.nintendolife.com/90a8e8ca82632/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-06-09T23:30:00Z"
+    },
+    {
+      "title": "The 25 Most Exciting Games Of Summer Game Fest 2026 - Game Informer",
+      "description": "There were hundreds of game trailers shown at tons of events over the last week, but these were our favorites.",
+      "url": "https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/3809ad38/Best%20of%20SGF%20Header.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-06-09T22:21:53Z"
+    },
+    {
+      "title": "The App Store is going to add subscription bundles soon - The Verge",
+      "description": "The App Store will soon include subscription bundles for iPhone apps from different companies, along with “suites” of subscriptions.",
+      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-06-08T23:30:00Z"
+      "publishedAt": "2026-06-09T21:30:48Z"
     },
     {
-      "title": "Xbox Employee Responds To New Trailer Showing PS5 Logo For Gears Of War E-Day - Pure Xbox",
-      "description": "\"I can confirm this is not true\"",
-      "url": "https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day",
-      "urlToImage": "https://images.purexbox.com/516e488b6a0ac/large.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2026-06-08T23:00:00Z"
-    },
-    {
-      "title": "iOS 27 revamps AirPods settings in a big way, here’s the new design - 9to5Mac",
-      "description": "iOS 27 was introduced today at WWDC, and the first developer beta reveals an overhaul to AirPods settings inside the Settings app.",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-06-08T21:38:00Z"
-    },
-    {
-      "title": "tvOS 27 Drops Support for Two Apple TV Models - MacRumors",
-      "description": "The upcoming tvOS 27 update that was previewed today drops support for two Apple TV models.   The two Apple TV models that are compatible with tvOS...",
-      "url": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/",
-      "urlToImage": "https://images.macrumors.com/t/VsFKl4UWO8oZVdkJHHPVQWReYCo=/2500x/article-new/2026/04/Where-is-the-New-Apple-TV-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-06-08T21:17:47Z"
-    },
-    {
-      "title": "Apple announces watchOS 27, now with Siri AI - The Verge",
-      "description": "watchOS 27 introduces support for Siri AI, a redesigned “dynamic” app grid, and improvements to health and fitness tracking.",
-      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-Watch-watchOS-27-Siri-AI.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
-      "source": "The Verge",
-      "publishedAt": "2026-06-08T19:34:10Z"
-    },
-    {
-      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM - Ars Technica",
-      "description": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-notebooklm-1152x630.jpg",
+      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases - Ars Technica",
+      "description": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
       "source": "Ars Technica",
-      "publishedAt": "2026-06-08T19:00:30Z"
+      "publishedAt": "2026-06-09T21:05:39Z"
     },
     {
-      "title": "macOS 27 'Golden Gate' delivers more Liquid Glass and updated Siri - AppleInsider",
-      "description": null,
-      "url": "https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri",
-      "urlToImage": null,
-      "source": "AppleInsider",
-      "publishedAt": "2026-06-08T18:08:23Z"
+      "title": "Destiny 2 Hits Highest Player Count in Two Years Following Final Update's Release, Shatters Marathon's All-Time Peak - IGN",
+      "description": "Destiny 2 is seeing a massive resurgence with the release of its final update.",
+      "url": "https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/13/destiynthumb-1763051460453.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-06-09T20:41:13Z"
     },
     {
-      "title": "Apple puts parents back in control of kids’ iPhone use - TechCrunch",
-      "description": "Apple is putting control back into the hands of parents with more granular screen time features.",
-      "url": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/screentime-devices.jpeg?resize=1200,653",
+      "title": "NBA The Run Review - IGN",
+      "description": "A quick-match basketball game that plays more like a distant descendant of NBA Street than a true successor.",
+      "url": "https://www.ign.com/articles/nba-the-run-review",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/09/nba-the-run-blogroll-1781027696109.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-06-09T18:11:18Z"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more - TechCrunch",
+      "description": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
       "source": "TechCrunch",
-      "publishedAt": "2026-06-08T18:07:32Z"
+      "publishedAt": "2026-06-09T18:04:24Z"
     },
     {
-      "title": "Apple is tweaking its controversial Liquid Glass design - TechCrunch",
-      "description": "While some users liked the sleek, transparent designs that look \"glassy,\" others found Apple's design overhaul from last year to be hard to read.",
-      "url": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/apple-wwdc-liquid-glass.png?resize=1200,656",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T17:24:33Z"
+      "title": "God of War Laufey Director Pushes Back on Cosmic Cube Criticism: Phranque Was Always In and Enables “Super Cool” Mechanics - Wccftech",
+      "description": "God of War Laufey director defends Phranque’s inclusion. The cosmic cube was always part of the plan and unlocks some “super cool” mechanics.",
+      "url": "https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/06/God-of-War-Laufey-Cube-HD-1920x1080.jpeg",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-09T18:00:00Z"
     },
     {
-      "title": "Google AI Plus gets price drop to $4.99 and storage bump - 9to5Google",
-      "description": "Google announced today that its AI Plus subscription is getting a price drop to $4.99 per month and now includes 400 GB of storage.",
-      "url": "http://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-AI-Plus-cover-us.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-06-08T17:21:00Z"
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws - BleepingComputer",
+      "description": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-06-09T17:57:59Z"
+    },
+    {
+      "title": "Xenoblade Genesis reveals director, composers, character designers - Nintendo Everything",
+      "description": "Nintendo didn’t have a whole lot to say about Xenoblade Genesis following the Direct reveal, but we now have information about its director, composers, and character designers. First up, Tetsuya Takashi is acting as general director. That shouldn’t come as a …",
+      "url": "https://nintendoeverything.com/xenoblade-genesis-reveals-director-composers-character-designers/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Xenoblade-Genesis-director-composers-character-designers.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-06-09T17:49:57Z"
+    },
+    {
+      "title": "Pokemon Pokopia Getting Free Underwater Expansion And Paid DLC, And It's All A Little Confusing - GameSpot",
+      "description": "Okay, so here's an explanation of how the Pokopia DLC works. *deep breath*",
+      "url": "https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
+      "source": "GameSpot",
+      "publishedAt": "2026-06-09T17:14:45Z"
+    },
+    {
+      "title": "Apple wants Europe to blink - The Verge",
+      "description": "Apple blames DMA for delaying Siri AI in Europe. The EU says nothing is stopping Apple from launching it.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK450_EU_G.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-09T17:13:14Z"
+    },
+    {
+      "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27 - WIRED",
+      "description": "Apple took the wraps off iOS 27 at its WWDC event, and the iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.",
+      "url": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+      "urlToImage": "https://media.wired.com/photos/6a28233604cb8e65f7b969d3/191:100/w_1280,c_limit/Siri%20AI%20Site%20Image%20SOURCE%20Apple.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-06-09T17:03:00Z"
+    },
+    {
+      "title": "'DK Challenge' Will Put Your NSO & Bananza Skills To The Test For A Limited Time - Nintendo Life",
+      "description": "With a Mario-themed Bananza event in tow",
+      "url": "https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time",
+      "urlToImage": "https://images.nintendolife.com/5c776e2999bf4/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-06-09T16:20:00Z"
+    },
+    {
+      "title": "macOS 27 Finally Brings Direct Touch Control to Sidecar - MacRumors",
+      "description": "Apple has added direct touch input to Sidecar with macOS 27 Golden Gate and iPadOS 27, allowing users to tap and interact with macOS interface...",
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/",
+      "urlToImage": "https://images.macrumors.com/t/cQXpBanzMoUQ8VdGvSBPHNEPQCw=/1600x/article-new/2026/06/macos-sidecar.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-09T16:17:00Z"
+    },
+    {
+      "title": "Star Fox Developer Revealed, As Free Demo Barrel Rolls Onto Switch 2 - Nintendo Life",
+      "description": "Home (Circuit) Coming",
+      "url": "https://www.nintendolife.com/news/2026/06/star-fox-developer-revealed-as-free-demo-barrel-rolls-onto-switch-2",
+      "urlToImage": "https://images.nintendolife.com/ae4f83b479aa8/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-06-09T16:05:00Z"
+    },
+    {
+      "title": "Final Fantasy gets its first HD-2D game, and it was worth the wait - Polygon.com",
+      "description": "Final Fantasy Resonance goes full Octopath Traveler in a new Switch game that's based on the shuttered mobile game Final Fantasy Brave Exvius",
+      "url": "https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/2d.JPG?w=1600&h=900&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2026-06-09T15:34:50Z"
+    },
+    {
+      "title": "Nintendo’s ‘The Legend Of Zelda: Ocarina Of Time’ Remake Is Out This Year - Forbes",
+      "description": "Nintendo has just revealed that The Legend of Zelda: Ocarina of Time is getting a remake, and it's releasing sooner than you think.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a283057a1ae8880301f685c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-06-09T15:27:37Z"
+    },
+    {
+      "title": "New Joy-Con Colours And A Stand-Alone Direct Are Inbound For Splatoon Raiders - Nintendo Life",
+      "description": "Shiver down your spine",
+      "url": "https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders",
+      "urlToImage": "https://images.nintendolife.com/c26af73bcd346/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-06-09T15:25:00Z"
     }
   ]
 }
