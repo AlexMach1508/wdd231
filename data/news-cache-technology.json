@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-06-13T09:30:51.551Z",
+  "updatedAt": "2026-06-14T09:53:15.460Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Stranger Than Heaven Devs Say Adding Tupac To The Game Was A ‘Good Idea’ - Kotaku",
-      "description": "'This was something we thought would add value to our game,' said Masayoshi Yokoyama",
-      "url": "https://kotaku.com/stranger-than-heaven-devs-say-adding-tupac-to-the-game-was-a-good-idea-2000705565",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/06/image-3-1-1200x675.jpg",
+      "title": "'The Only Way to Keep Bungie Alive Is to Support Marathon,' Ex-Destiny Community Manager Says - IGN",
+      "description": "As Destiny 2 fans mourn the game's final update, Bungie's former community manager has said its player count shouldn't be compared with that of fledgling extraction shooter Marathon — insisting the company's current issues began long before its arrival, as we…",
+      "url": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/12/destiny-2-so-far-together-00-05-03-1781279525139.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-06-12T21:59:38Z"
+    },
+    {
+      "title": "Poll: How do you feel about Street Fighter 6 Season 4's bold direction, and are you interested in Tifa and the newcomers? - EventHubs",
+      "description": "After months of supposed leaks and speculation, Street Fighter 6's Season 4 plans were officially revealed last week, and it wasn't quite what anyone was expecting.Now that the dust is starting to settle, we're very curious ...",
+      "url": "https://www.eventhubs.com/news/2026/jun/12/street-fighter-season-4-poll/",
+      "urlToImage": "https://media.eventhubs.com/images/2026/06/10-season-pollt.webp",
+      "source": "EventHubs",
+      "publishedAt": "2026-06-12T21:44:50Z"
+    },
+    {
+      "title": "DJI sues Insta360 for how similar the Luna Ultra is to the Osmo Pocket 4P - GSMArena.com news - GSMArena.com",
+      "description": "Perhaps surprisingly, the lawsuits are being filed in the US. A couple of days ago, Insta360 made its DJI Osmo Pocket 4P competitor official in the Luna...",
+      "url": "https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/06/dji-sues-insta360/-952x498w6/gsmarena_000.jpg",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-06-12T21:17:02Z"
+    },
+    {
+      "title": "iOS 27 brings new keyboards and typing improvements across multiple languages - 9to5Mac",
+      "description": "Among the many tidbits coming to iOS 27 is support for a new set of keyboards, including Afrikaans, Galician, and Indigenous languages.",
+      "url": "https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios27-keyboard.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-06-12T21:16:00Z"
+    },
+    {
+      "title": "Zelda: Ocarina of Time Nintendo Switch 2 remake was one of the most popular titles of Summer Game Fest 2026, according to data - Nintendo Everything",
+      "description": "Top 10 most popular games of Summer Games Fest revealed, with Zelda: Ocarina of Time remake placing high.",
+      "url": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-remake-was-one-of-the-most-popular-titles-of-summer-game-fest-2026-according-to-data/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-remake-popularity-scaled.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-06-12T21:12:02Z"
+    },
+    {
+      "title": "How to See Which Mac Apps Will Stop Working After macOS Golden Gate - MacRumors",
+      "description": "Apple is phasing out support for Rosetta 2, which is a feature that allows Intel-based apps to run on Apple silicon Macs. Rosetta is going to stop...",
+      "url": "https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/",
+      "urlToImage": "https://images.macrumors.com/t/b14DGwY8ms5kvXfNjTjnfx1srWw=/1600x/article-new/2020/07/rosetta-2.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-12T21:05:57Z"
+    },
+    {
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit - The Hacker News",
+      "description": "Attackers hijacked 400+ Arch Linux AUR packages to run a Rust credential stealer, with optional eBPF rootkit support on root systems.",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-06-12T19:35:58Z"
+    },
+    {
+      "title": "Scarlett Johansson's Jurassic World Rebirth 2 Potential Gets New Update From Writer - ScreenRant",
+      "description": "EXCLUSIVE: A Jurassic World Rebirth sequel is in the works, and screenwriter David Koepp has revealed the current status of the upcoming film.",
+      "url": "https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/scarlett-johansson-shouts-down-from-the-side-of-a-rock-formation-in-jurassic-world-rebirth-1.jpg?w=1600&h=900&fit=crop",
+      "source": "Screen Rant",
+      "publishedAt": "2026-06-12T19:20:38Z"
+    },
+    {
+      "title": "GameStop Employees Panic As Pro Membership Gets Way Worse - Kotaku",
+      "description": "The Pro Membership is getting nerfed and staff are ready to revolt",
+      "url": "https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/06/gamestop-1200x675.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-06-11T15:35:14Z"
+      "publishedAt": "2026-06-12T19:15:56Z"
     },
     {
-      "title": "PS5's God of War Laufey Dominated Summer Game Fest - Push Square",
-      "description": "Topped engagement index by a mile",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
-      "urlToImage": "https://images.pushsquare.com/1435863d1a4de/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-06-11T14:45:00Z"
-    },
-    {
-      "title": "Spyro’s Big Comeback Wouldn’t Be Possible Without First Escaping The Call Of Duty Mines - Kotaku",
-      "description": "Toys for Bob studio head Paul Yan said they bought their independence from Microsoft to 'get back to the games we were known for'",
-      "url": "https://kotaku.com/spyros-big-comeback-wouldnt-be-possible-without-first-escaping-the-call-of-duty-mines-2000705537",
-      "urlToImage": "https://kotaku.com/app/uploads/2024/08/0e29178d8829a460762192712c056588-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-06-11T13:53:19Z"
-    },
-    {
-      "title": "Kingdom Hearts 4 PS5 Release Date Hopium Hits New High - Push Square",
-      "description": "Is it closer than we think?",
-      "url": "https://www.pushsquare.com/news/2026/06/kingdom-hearts-4-ps5-release-date-hopium-hits-new-high",
-      "urlToImage": "https://images.pushsquare.com/671bab0253cc4/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-06-11T13:45:00Z"
-    },
-    {
-      "title": "Preview: Tomb Raider: Legacy Of Atlantis Sees An \"Unfettered\" Lara Put The Survivor Era Behind Her - Nintendo Life",
-      "description": "\"It’s a blue sky horizon ahead of her\"",
-      "url": "https://www.nintendolife.com/previews/tomb-raider-legacy-of-atlantis-sees-an-unfettered-lara-put-the-survivor-era-behind-her",
-      "urlToImage": "https://images.nintendolife.com/5b6af798d6725/large.jpg",
+      "title": "32 Games You Should Check Out In Nintendo's Multiplayer eShop Sale (Europe) - Nintendo Life",
+      "description": "Every game we scored 9/10 or higher",
+      "url": "https://www.nintendolife.com/guides/32-games-you-should-check-out-in-nintendos-multiplayer-eshop-sale-europe",
+      "urlToImage": "https://images.nintendolife.com/6801085a9a922/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2026-06-11T13:30:00Z"
+      "publishedAt": "2026-06-12T18:03:25Z"
     },
     {
-      "title": "The Legend of Heroes: Trails from Zero - Gematsu",
-      "description": "The PlayStation 5 and Switch 2 versions of Falcom-developed story RPGs The Legend of Heroes: Trails from Zero and The Legend of Heroes: Trails to Azure will launch on September 10, publisher NIS Am…",
-      "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/06/Trails-Azure-Zero_06-11-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-06-11T13:18:38Z"
+      "title": "Resident Evil Veronica team is adjusting the original's story so its remake fits better into the series as a whole - Eurogamer",
+      "description": "Capcom is making changes to Code: Veronica's story, so the remake slots more cohesively into a series which has grown significantly over the last 26 years.",
+      "url": "https://www.eurogamer.net/resident-evil-veronica-story-changes",
+      "urlToImage": "https://assetsio.gnwcdn.com/code-veronica-header-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-06-12T18:00:08Z"
     },
     {
-      "title": "Apple Maps to Get These 10 New Features in iOS 27 - MacRumors",
-      "description": "Apple Maps is getting a range of new features in iOS 27, headlined by an upgraded Flyover experience that uses AI to improve the realism and detail...",
-      "url": "https://www.macrumors.com/2026/06/11/apple-maps-to-get-these-10-new-features-in-ios-27/",
-      "urlToImage": "https://images.macrumors.com/t/dWEIrdLAxdd5Tt6TUy4QjkEKWHg=/1600x/article-new/2026/06/liquid-glass-app-icon.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-06-11T12:45:07Z"
-    },
-    {
-      "title": "How To Unlock Destiny 2’s Two Secret, Final Endings - Forbes",
-      "description": "Destiny 2 may be ending abruptly, but Bungie has put in two secret endings that you'll have to work to see. And they are worth seeing.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/11/how-to-unlock-destiny-2s-two-secret-final-endings/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a2aac1213810580a8913bfb/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-06-11T12:42:40Z"
-    },
-    {
-      "title": "Minecraft 26.2 Release Candidate 1 - Minecraft",
-      "description": "Minecraft 26.2 Release Candidate 1",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1",
-      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-release-candidate-1/new-article-hero-image.jpg",
-      "source": "Minecraft.net",
-      "publishedAt": "2026-06-11T12:42:27Z"
-    },
-    {
-      "title": "iFixit Trump phone teardown confirms it’s an HTC dupe - The Verge",
-      "description": "The Trump Mobile T1 Phone’s internals are almost identical to the ‘made in China’ HTC U24 Pro’s, iFixit has confirmed.",
-      "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-06-11T10:40:21Z"
-    },
-    {
-      "title": "Bypass Siri AI Waitlist on macOS 27 Golden Gate Beta: Here's How - MacRumors",
-      "description": "If you installed the macOS 27 Golden Gate developer beta and have signed up to the Siri AI waitlist but are still waiting to be accepted, there's a Terminal command workaround that enables the new virtual assistant on your Mac immediately. If you're still rea…",
-      "url": "https://www.macrumors.com/how-to/bypass-siri-ai-waitlist-macos-27-beta/",
-      "urlToImage": "https://images.macrumors.com/t/D2t-vmVOeRO051Pfz8cW0TCKfE8=/1600x/article-new/2026/06/Siri-App.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-06-11T09:52:12Z"
-    },
-    {
-      "title": "Deezer launches an AI music detector for other streaming services - The Verge",
-      "description": "Since the competition won’t buy Deezer’s AI music detection tech, they’re bringing it directly to users.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
-      "source": "The Verge",
-      "publishedAt": "2026-06-11T08:00:00Z"
-    },
-    {
-      "title": "Hunter x Hunter: Nen x Impact DLC character Zeno launches June 18 - Gematsu",
-      "description": "Hunter x Hunter: Nen x Impact downloadable content character Zeno will launch on June 18, publisher Bushiroad Games and developer Eighting announced.",
-      "url": "https://www.gematsu.com/2026/06/hunter-x-hunter-nen-x-impact-dlc-character-zeno-launches-june-18",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/06/HxH-NxI-DLC_06-10-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-06-11T02:13:17Z"
-    },
-    {
-      "title": "Report: Ubisoft Announces More Studio Closures And Layoffs Amid New Organizational Restructuring - Game Informer",
-      "description": "Ubisoft's Winnipeg and Belgrade studios have reportedly closed their doors.",
-      "url": "https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2021/12/21/58cb5c42/ubisoft_black_logo.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-06-10T22:57:29Z"
-    },
-    {
-      "title": "Apple’s new Siri AI knows when to shut up - The Verge",
-      "description": "Apple’s new Siri AI is finally here, and so far, it seems like it works. My biggest impression so far is that Siri AI is quite curt — which I mean as a compliment.",
-      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-06-10T22:52:17Z"
-    },
-    {
-      "title": "Jon Prosser seeks another shot to respond to Apple’s Liquid Glass leak lawsuit - 9to5Mac",
-      "description": "Apple and Jon Prosser’s attorney have asked the court to set aside the default entered against him last October. Here are the details.",
-      "url": "https://9to5mac.com/2026/06/10/jon-prosser-seeks-another-shot-to-respond-to-apples-liquid-glass-leak-lawsuit/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Here’s everything new in iOS 27 and more, per Apple’s keynote list - 9to5Mac",
+      "description": "Here are all the iOS 27 features Apple listed on its big keynote slide. Even more changes are coming, but this is everything from that slide.",
+      "url": "https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-wwdc-slide-feature-list.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-06-10T21:55:00Z"
+      "publishedAt": "2026-06-12T17:57:00Z"
     },
     {
-      "title": "YouTube rolling out new in-app messaging with invite-only chats - 9to5Google",
-      "description": "After testing got underway last year, YouTube is now more widely rolling out a new in-app messaging system...",
-      "url": "http://9to5google.com/2026/06/10/youtube-new-messaging-chat/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-06-10T20:00:00Z"
+      "title": "AMD Stiffs Researcher $10,000 Bug Bounty After Critical Security Flaw, Takes 124 Days to Fix - Gadget Review",
+      "description": "AMD's auto-updater downloaded software over insecure HTTP, letting attackers inject malware during updates before a 124-day delayed fix.",
+      "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
+      "urlToImage": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_820200656_S.jpg",
+      "source": "Gadgetreview.com",
+      "publishedAt": "2026-06-12T17:17:12Z"
     },
     {
-      "title": "Stellar Blade: BLOOD RAIN dev explains why protagonist looks so young - Niche Gamer",
-      "description": "Instead of following Eve, Stellar Blade: BLOOD RAIN introduces players to Evie, a new protagonist tasked with hunting a dangerous terrorist organization.",
-      "url": "https://nichegamer.com/stellar-blade-blood-rain-why-protag-so-young/",
-      "urlToImage": "https://media.nichegamer.com/wp-content/uploads/2026/06/Stellar-Blade-Blood-Rain-06-10-26-1.jpg",
-      "source": "Niche Gamer",
-      "publishedAt": "2026-06-10T19:01:00Z"
+      "title": "Huawei’s HarmonyOS Can Be Further Optimized To Run On 64KB RAM While Running On A Single Dry Cell Battery For A Year, Says Executive Director - Wccftech",
+      "description": "At the Huawei Developer Conference 2026, an executive makes a bold claim stating that the HarmonyOS platform can be optimized to run on 64KB of RAM",
+      "url": "https://wccftech.com/huawei-executive-says-harmonyos-can-be-optimized-to-run-on-64kb-ram/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/06/HarmonyOS-2.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-12T16:07:00Z"
     },
     {
-      "title": "iPhone 18 Pro: Three new features might make you want to upgrade - 9to5Mac",
-      "description": "iPhone 18 Pro is coming this fall, and three new features could be among the top upgrade motivators for Apple’s latest flagship model.",
-      "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-06-10T18:51:00Z"
+      "title": "I held the Trump phone - The Verge",
+      "description": "After spending a few moments with the Trump phone and a real, solid gold iPhone, I can’t say there’s much in common between the two.",
+      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268588_I_held_trump_phone_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-12T16:05:00Z"
+    },
+    {
+      "title": "Edward and Caroline Share a Hot Chocolate in This Exclusive Assassin's Creed Black Flag Resynced Cutscene - IGN",
+      "description": "Enjoy this exclusive cutscene from Assassin's Creed Black Flag Resynced, the upcoming remake of the popular pirate-themed entry in the long-running Assassin's Creed series. Ideally with a mug of hot chocolate.",
+      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-exclusive-edward-and-caroline-cutscene-ign-first",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/11/ignfirst-acbfr-cutscene-blogroll-1781210219348.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-06-12T16:00:00Z"
+    },
+    {
+      "title": "How 30 Billion Pokémon Go Scans Became a Military AI Tool for Drone Warfare - UNITED24 Media",
+      "description": "30 billion images from Pokémon Go players have been used to train an AI model, now being adapted by Vantor for US military drone navigation.",
+      "url": "https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776",
+      "urlToImage": "https://storage.united24media.com/og/d/5c/cb2a6eb643351f8293cc2eda574ed5cd.jpg",
+      "source": "United24media.com",
+      "publishedAt": "2026-06-12T15:58:13Z"
+    },
+    {
+      "title": "Ubuntu 26.10 Reaffirms Plans For Switching To Dbus-Broker - Phoronix",
+      "description": "Among the many new features planned for Ubuntu 26.10 is switching the default D-Bus implementation over to using the high performance Dbus-Broker drop-in replacement.",
+      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker",
+      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=ubuntu_dbus",
+      "source": "Phoronix",
+      "publishedAt": "2026-06-12T15:26:00Z"
+    },
+    {
+      "title": "Nintendo Fans Lose It Over Switch Sports Resort's 'Colonization' - Kotaku",
+      "description": "'It's been ethnically cleansed and gentrified,' one fan wrote",
+      "url": "https://kotaku.com/fans-hate-on-switch-sports-resorts-new-sportsmates-for-colonizing-wuhu-islands-sacred-mii-territory-2000704934",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/06/resort-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-06-12T15:02:25Z"
+    },
+    {
+      "title": "We now know when Guild Wars 3 takes place, but even 20 years after the series began, it doesn't sound like we'll see an actual storied guild war - Eurogamer",
+      "description": "In a new story and setting video, ArenaNet has narrowed down the timeline for when the next game will take place.",
+      "url": "https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war",
+      "urlToImage": "https://assetsio.gnwcdn.com/guild-wars-3-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-06-12T15:02:23Z"
     }
   ]
 }
