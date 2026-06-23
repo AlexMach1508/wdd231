@@ -1,167 +1,135 @@
 {
-  "updatedAt": "2026-06-22T12:22:59.602Z",
+  "updatedAt": "2026-06-23T09:59:23.249Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed - CNBC",
-      "description": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
-      "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323471-1781723009958-gettyimages-2282086086-cs019125_9qwjh96p.jpeg?v=1781723030&w=1920&h=1080",
+      "title": "I Know Why the Tech Broligarchs Went Full MAGA - The Daily Beast",
+      "description": "“Zuckerberg in particular is a guy who lacks a real moral center of his own,” Jonathan Weber claims.",
+      "url": "https://www.thedailybeast.com/i-know-why-the-tech-broligarchs-went-full-maga/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/T3KN2KLGQRGWVNT5PFKYQY34OY.jpg?smart=true&auth=60cce9987aad49df359d05c38ea545f4d4f17a0cde7789407c75d25cf47f037c&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2026-06-22T07:53:00Z"
+    },
+    {
+      "title": "Dow futures drop as first day of US-Iran talks sees Trump threaten Tehran on Hormuz - Fortune",
+      "description": "He also said the U.S. may take over the strait, adding \"I'll blow the s--t out of them. If they don't make a deal, we'll collect tolls.\"",
+      "url": "https://fortune.com/2026/06/21/stock-market-today-dow-futures-oil-prices-us-iran-talks-trump-threat-hormuz/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2281815277-e1782083792674.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-06-22T03:29:00Z"
+    },
+    {
+      "title": "Stock futures fall as investors weigh Iran deal progress and await key reading on inflation: Live updates - CNBC",
+      "description": "U.S. equity futures were lower on Sunday as Wall Street awaited the release of inflation data that is closely watched by the Federal Reserve.",
+      "url": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108324283-17818184352026-06-18t212644z_311932191_rc2kwlaz3beo_rtrmadp_0_usa-stocks.jpeg?v=1781818551&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-06-21T11:14:02Z"
+      "publishedAt": "2026-06-22T02:48:00Z"
     },
     {
-      "title": "What the Iran war cost the Pentagon, the economy — and Trump - CNN",
-      "description": "With an agreement signed, the US war with Iran is at a halt, at least for now, and President Donald Trump is telling Americans they have won.",
-      "url": "https://www.cnn.com/2026/06/21/politics/us-iran-war-cost-trump-vis",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281465423.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-06-21T10:30:25Z"
-    },
-    {
-      "title": "'Running off the cliff': An explosion of household debt has put the US economy in a tough spot - Business Insider",
-      "description": "Americans are borrowing more and saving less. That's created a major vulnerability in the US economy, SocGen is warning.",
-      "url": "https://www.businessinsider.com/us-economy-warning-sign-household-debt-consumer-spending-savings-stocks-2026-6#article",
-      "urlToImage": "https://i.insider.com/6a3413110e60dfb3f373f0b8?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-21T09:45:15Z"
-    },
-    {
-      "title": "The 'magic number' for a comfortable retirement just got bigger - USA Today",
-      "description": "The \"magic number\" of savings to retire in comfort keeps rising. But how many Americans actually retire with a seven-figure sum?",
-      "url": "https://www.usatoday.com/story/money/personalfinance/2026/06/21/how-much-money-to-save-for-retirement/90610666007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/02/USAT/82780204007-b-9316481965-z-1-20150305193323-000-gdra-4-vc-8310.jpg?crop=1599,900,x0,y344&width=1599&height=900&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-06-21T09:04:00Z"
-    },
-    {
-      "title": "Yet Another Piece of AI-Pilled Speculative Fiction Has Gone Dangerously Viral - Gizmodo",
-      "description": "It's a trend that urgently needs to die.",
-      "url": "https://gizmodo.com/yet-another-piece-of-ai-pilled-speculative-fiction-has-gone-dangerously-viral-2000774895",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/05/typewriter-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-06-21T09:00:32Z"
-    },
-    {
-      "title": "Trump Should Shove His Hot Air Where the Sun Shines - Newsweek",
-      "description": "Perspective: The president spotted offshore wind’s weakness. A serious energy nationalist would have a sunnier answer than gas.",
-      "url": "https://www.newsweek.com/trump-wind-energy-solar-sun-oil-gas-china-12096208",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/06/06-19-26-TRump-Hot-Air.jpg?w=1200&crop=1",
-      "source": "Newsweek",
-      "publishedAt": "2026-06-21T09:00:00Z"
-    },
-    {
-      "title": "A Miami couple started renting out their car as a side gig. They turned it into a full-time, 6-figure family business. - Business Insider",
-      "description": "A couple's car rental business in Miami started as a side gig and grew to a fleet of over 60 cars that earned $500,000 last year.",
-      "url": "https://www.businessinsider.com/miami-couple-turo-side-hustle-into-six-figure-family-business-2026-6#article",
-      "urlToImage": "https://i.insider.com/6a343d58f4bed3c6152cbc42?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-21T08:41:10Z"
-    },
-    {
-      "title": "Airbus Wants Near-10,000 Mile Nonstop Flights, And This Is The Plane To Do It - Jalopnik",
-      "description": "Project Sunrise is almost here. Qantas plans to use the Airbus A350-1000ULR to launch 22-hour flights from Sydney to New York and London in 2027.",
-      "url": "https://www.jalopnik.com/2195067/airbus-a350-commercial-plane-testing-nearly-10000-miles-australia-to-new-york-and-london/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/airbus-wants-near-10000-mile-nonstop-flights-and-this-is-the-plane-to-do-it/l-intro-1781264237.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-06-21T03:25:00Z"
-    },
-    {
-      "title": "Democrats thought Fed Chair Kevin Warsh would be a Trump loyalist — his opening move proves he’s nothing of the sort - New York Post",
-      "description": "Nearly every Democrat in the Senate opposed Kevin Warsh’s nomination as Fed chair mainly because they said he would be a tool of the man who appointed him, President Trump.",
-      "url": "https://nypost.com/2026/06/20/business/fed-chair-kevin-warshs-sentiments-on-data-over-party-shows-he-is-no-trump-loyalist/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/u-s-federal-reserve-kevin-131584129-e1782002968265.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-06-21T02:17:00Z"
-    },
-    {
-      "title": "Tesla driver says it was on Autopilot before fatal Texas home crash - Electrek",
-      "description": "A driver told Harris County investigators that his Tesla was on Autopilot before it left a residential road in Katy,...",
-      "url": "http://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/06/Tesla-fatal-crash-autopilot-texas.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-06-21T01:47:00Z"
-    },
-    {
-      "title": "Before the Deal Closed, Rabbi Mangel Was Already In - Anash.org",
-      "description": "A passing glance at a “School Building For Sale” sign turned into the first donation for Oholei Torah's new Rabbinical Campus. Hear Rabbi Nissen Mangel share the story behind his commitment and the conversation he had with his grandson while driving by Bedfor…",
-      "url": "https://anash.org/before-the-deal-closed-rabbi-mangel-was-already-in/",
-      "urlToImage": "https://files.anash.org/uploads/2026/06/Main-Picture.jpg",
-      "source": "Anash.org - Good News",
-      "publishedAt": "2026-06-21T01:36:01Z"
-    },
-    {
-      "title": "Shop the Top 25+ Amazon Device Prime Day Deals Now With Savings on Ring, Kindle and More - CNET",
-      "description": "These early Prime Day deals slash up to 60% off Amazon's most popular devices, and they're live right now.",
-      "url": "https://www.cnet.com/deals/best-early-prime-day-amazon-device-deals-2026-06-20/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/6d6e0a37508d43490eeb901e8b34786a008ccbe8/hub/2026/06/16/f33be4b6-617e-4859-b25c-15f3b2914393/amazon-device-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-06-21T01:29:01Z"
-    },
-    {
-      "title": "They Looked Like They Were Getting Rich on Polymarket—but None of It Was Real - WSJ",
+      "title": "They Can’t Fly Spirit Anymore, So They’re Taking the Bus Instead - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5",
+      "url": "https://www.wsj.com/lifestyle/travel/they-cant-fly-spirit-anymore-so-theyre-taking-the-bus-instead-175054af",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-21T00:30:00Z"
+      "publishedAt": "2026-06-22T00:00:00Z"
     },
     {
-      "title": "A Stock Trader’s Guide to Navigating a Rare ‘Super El Niño’ - Bloomberg.com",
-      "description": "As concerns over the Iran war recede, stock investors are confronting another threat: climate risk, which is prompting a reassessment of bets across sectors from agriculture to insurance.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_vR1LEnDUO0/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-21T00:00:00Z"
-    },
-    {
-      "title": "Why an AI company cleaned my New York City apartment for free - BBC",
-      "description": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
-      "url": "https://www.bbc.com/news/articles/cpwerjy20kyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/570f/live/e297c6a0-6af7-11f1-8546-8f19e4fe30f4.jpg",
+      "title": "Fake romance to missed deliveries: How to protect yourself from three common scams - BBC",
+      "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
+      "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-06-20T23:18:55Z"
+      "publishedAt": "2026-06-21T23:10:16Z"
     },
     {
-      "title": "$47M Buc-ee’s nears opening in new Texas Hill Country spot as new sign appears - MySA",
-      "description": "The San Marcos Buc-ee's nears completion with the beaver logo installed and opening day set for August 12.",
-      "url": "https://www.mysanantonio.com/business/article/san-marcos-bucees-construction-update-beaver-sign-22309284.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/66/46/16/31089593/3/rawImage.jpg",
-      "source": "mySA",
-      "publishedAt": "2026-06-20T23:07:33Z"
+      "title": "Costco adds frozen Greek yogurt cups from brand customers call 'top tier' - Fox Business",
+      "description": "Yasso Frozen Greek Yogurt Cups arrive at Costco in a 12-pack with Vanilla Caramel and Fudge Chip flavors, each with under 100 calories per serving.",
+      "url": "https://www.foxbusiness.com/lifestyle/costco-adds-frozen-greek-yogurt-cups-brand-customers-call-top-tier",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/costco-fridge.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-06-21T22:38:00Z"
     },
     {
-      "title": "M&M’s to remove artificial dyes, eliminate two iconic colors - Yahoo",
-      "description": "The new product introduction comes at a price: M&M's is eliminating blue and brown from its lineup.",
-      "url": "https://www.newsnationnow.com/entertainment-news/food/mms-dye-free-candies-maha-movement/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/df8fa8231fe887883940f1162564cd40758806e3e1820569860d2b51485be65c/lightyear_networkapi/resizefill_w900_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F99bdfd389e5efe91189ba0c9c9e65d12",
-      "source": "Newsnationnow.com",
-      "publishedAt": "2026-06-20T22:48:23Z"
+      "title": "“It’s Really Disappointing”: 25 Things That Were Completely And Entirely Ruined By Popularity - BuzzFeed",
+      "description": "\"Road trips aren't worth it anymore. Gas prices, hotel rates (including deposits, parking fees, and resort fees), eating at restaurants or fast-food places, entertainment, etc. Just one person can spend $1,000 or more in one week.\"",
+      "url": "https://www.buzzfeed.com/lizmrichardson/good-things-ruined-by-people-june-2026",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/17/20/thumb/uZbUDZUjr.jpg?crop=2500:1309;0,71%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-06-21T22:31:02Z"
     },
     {
-      "title": "FAA investigating close call at Logan Airport between two flights - WCVB",
-      "description": "The FAA is reviewing a close call at Logan Airport on Saturday.",
-      "url": "https://www.wcvb.com/article/faa-logan-airport-close-call-delta-american/71648400",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/logan-airport-control-tower-1557964793.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "source": "WCVB Boston",
-      "publishedAt": "2026-06-20T22:06:00Z"
+      "title": "Stock Futures Are Falling, Oil Jumps After Iran Closed Strait of Hormuz - Barron's",
+      "description": "Even as they were meeting in Switzerland to hammer out a permanent peace deal, the U.S. and Iran had renewed tensions.",
+      "url": "https://www.barrons.com/articles/stock-futures-oil-trading-sunday-a0a615fa",
+      "urlToImage": "https://images.barrons.com/im-25327950/social",
+      "source": "Barron's",
+      "publishedAt": "2026-06-21T22:13:00Z"
     },
     {
-      "title": "Add these 5 staff-favorite recipes to your summer bucket list - The Washington Post",
-      "description": "The ice cream, panzanella and pasta our colleagues can’t wait to make all season long.",
-      "url": "https://www.washingtonpost.com/food/2026/06/20/5-staff-favorite-summer-recipes-ice-cream-panzanella-pasta/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SLPPZO6UPDALJ5GEAOPGP4JOVU.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-06-20T21:00:00Z"
+      "title": "Jets were 300 feet apart in Boston close call that forced Delta flight to abort landing, expert says - PBS",
+      "description": "The Federal Aviation Administration said it was investigating the incident between two commercial flights that happened Saturday at Boston Logan International Airport.",
+      "url": "https://www.pbs.org/newshour/nation/jets-were-300-feet-apart-in-boston-close-call-that-forced-delta-flight-to-abort-landing-expert-says",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2025-11-07T172231Z_1293118528_RC2SRHAQAPVW_RTRMADP_3_USA-SHUTDOWN-AIR-TRAVEL-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-06-21T21:57:37Z"
     },
     {
-      "title": "Rate cuts? Even the Fed's new chair admits companies are easily raising capital on financial markets - Fortune",
-      "description": "Corporate bond issuance in the year through May totaled $1.23 trillion, up 21% from a year ago.",
-      "url": "https://fortune.com/2026/06/20/fed-rate-cuts-kevin-warsh-ipo-stock-debt-binge-corporate-bonds/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2281471841-e1781976439209.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-06-20T19:16:00Z"
+      "title": "Gen X, Millennials Still Lean on Parents for Money - Newser",
+      "description": "High costs, delayed inheritances are keeping many middle-aged adults reliant on their parents",
+      "url": "https://www.newser.com/story/390985/gen-x-millennials-still-lean-on-parents-for-money.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1693098-12-20260621170702.jpeg",
+      "source": "Newser",
+      "publishedAt": "2026-06-21T21:37:00Z"
+    },
+    {
+      "title": "Are You ’Mass Affluent’ Not ‘Truly Rich’? Sorry, Your Wealth Manager Might Be AI Now - Gizmodo",
+      "description": "The world of finance is automating, but if you're rich enough, it's reportedly more human than ever.",
+      "url": "https://gizmodo.com/are-you-mass-affluent-not-truly-rich-sorry-your-wealth-manager-might-be-ai-now-2000775003",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/private-jet-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-06-21T21:03:16Z"
+    },
+    {
+      "title": "Ford City Mall closes by June 22 after city of Chicago files emergency motion over fire suppression system concerns, judge's order - ABC7 Chicago",
+      "description": "It's the end of an era at Ford City Mall. The indoor shopping center on Chicago's South Side was scheduled to close for good at noon Monday under a court order citing safety concerns, but visitors found the doors locked on Sunday.",
+      "url": "https://abc7chicago.com/post/ford-city-mall-closing-june-22-chicago-files-emergency-motion-fire-suppression-system-concerns-judges-order/19348445/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19350571_062126-wls-ford-city-mall-10p-vosot-vid.jpg?w=1600",
+      "source": "WLS-TV",
+      "publishedAt": "2026-06-21T21:00:20Z"
+    },
+    {
+      "title": "Hormuz Crisis Sparks a Middle East Pipeline Boom - Crude Oil Prices Today | OilPrice.com",
+      "description": "The Hormuz blockade exposed the vulnerability of Gulf energy exports, prompting major producers to accelerate pipeline projects that bypass the strait and reduce future disruption risks.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Crisis-Sparks-a-Middle-East-Pipeline-Boom.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-20_rkidlhtupw.jpg",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-06-21T21:00:00Z"
+    },
+    {
+      "title": "Most Married Parents Now Work Full Time - Newser",
+      "description": "Dual-income households surge as the traditional stay-at-home-mom model drops off",
+      "url": "https://www.newser.com/story/391210/most-married-parents-now-work-full-time.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1692643-12-20260621162802.jpeg",
+      "source": "Newser",
+      "publishedAt": "2026-06-21T20:58:00Z"
+    },
+    {
+      "title": "Chevrolet unveils ‘most powerful Silverado ever’ with new V8 engines, high-tech cabin - Fox Business",
+      "description": "Chevrolet on Tuesday unveiled the 2027 Silverado 1500 with new V8 engines, calling it the \"most powerful\" Silverado ever. The redesigned truck is expected to go on sale later this year.",
+      "url": "https://www.foxbusiness.com/retail/chevrolet-unveils-most-powerful-silverado-ever-new-v8-engines-high-tech-cabin",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/new-chevrolet-silverado-2027.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-06-21T20:11:35Z"
+    },
+    {
+      "title": "What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention. - Business Insider",
+      "description": "GLM-5.2, a new open-source Chinese AI model for long-form coding tasks, is turning heads among Silicon Valley's AI elite.",
+      "url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6#article",
+      "urlToImage": "https://i.insider.com/6a3840fbf4bed3c6152cc68c?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-21T19:52:51Z"
     }
   ]
 }
