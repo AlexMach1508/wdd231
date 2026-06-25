@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-06-24T09:48:10.280Z",
+  "updatedAt": "2026-06-25T09:38:51.063Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "I’ve built hundreds of Lego sets. These Prime Day deals are worth building yourself - CNN",
-      "description": "As an avid Lego builder, I found the best Amazon Prime Day deals on Lego Star Wars sets, brick-built plants and even F1 cars.",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-23",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/lego-prime-day-deals-2026.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-06-23T07:16:00Z"
-    },
-    {
-      "title": "Prime Day is almost here: We found 50+ deals to shop early - Mashable",
-      "description": "Amazon devices, Kindle bundles, headphones, and portable power stations are highlights.",
-      "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05762kyUFuzcUAp6v7JIcEC/hero-image.fill.size_1200x675.v1782198016.jpg",
+      "title": "35+ of the best Prime Day tech deals, according to a tech editor on a budget - Mashable",
+      "description": "As Mashable's tech editor, I can personally vouch for these deals.",
+      "url": "https://mashable.com/tech/best-amazon-prime-day-tech-deals-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06o8s63CExAnBL3PsMcd2PG/hero-image.fill.size_1200x675.v1782285645.jpg",
       "source": "Mashable",
-      "publishedAt": "2026-06-23T07:15:40Z"
+      "publishedAt": "2026-06-24T07:21:24Z"
     },
     {
-      "title": "Everything New in iOS 27 Beta 2 - MacRumors",
-      "description": "Apple released the second beta of iOS 27 today, and as is common with a second beta, there are multiple changes. There are new features and updates...",
-      "url": "https://www.macrumors.com/guide/ios-27-features/",
-      "urlToImage": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-06-22T23:02:49Z"
+      "title": "Google Home Speaker unboxed early, revealing an unfortunate hardware decision - Android Authority",
+      "description": "A user claims they bought the new Google Home Speaker from Walmart, confirming an unfortunate design decision.",
+      "url": "https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_jade.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-24T04:41:28Z"
     },
     {
-      "title": "Samsung Unveils Industry’s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications - Samsung",
-      "description": "Samsung Electronics, the world leader in advanced memory technology today announced that, for the first time in the industry, it has developed the industry's fastest Universal Flash Storage (UFS) 5.0 solution, which will help enable seamless and highly effici…",
-      "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/22173757/Samsung-Semiconductors-UFS-5.0-solution_Thumb932.jpg",
-      "source": "Samsung.com",
-      "publishedAt": "2026-06-22T23:00:00Z"
-    },
-    {
-      "title": "SEGA Shares Lifetime Sales Update for Persona, Metaphor, and Like a Dragon - Push Square",
-      "description": "For the role-players",
-      "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
-      "urlToImage": "https://images.pushsquare.com/1ce804d8e9e81/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-06-22T23:00:00Z"
-    },
-    {
-      "title": "The 4 PSI Rule For Tires: What Is It, And Is It Reliable? - Jalopnik",
-      "description": "The 4 PSI rule compares cold and hot tire pressures to estimate proper inflation, but its reliability depends on driving conditions and tire type.",
-      "url": "https://www.jalopnik.com/2199207/is-4-psi-tire-rule-reliable/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/the-4-psi-rule-for-tires-what-is-it-and-is-it-reliable/l-intro-1782152919.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-06-22T22:25:00Z"
-    },
-    {
-      "title": "Hideo Kojima Shares New Screenshot Of Upcoming Horror Game OD And…Hey, That Looks Like PT - Kotaku",
-      "description": "Playable Teaser? More like....uh...Passageway...Terrifying!",
-      "url": "https://kotaku.com/hideo-kojima-shares-new-screenshot-od-looks-like-pt-2000709099",
-      "urlToImage": "https://kotaku.com/app/uploads/2023/12/989758634cca554a29d0aeb9774a213b-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-06-22T21:44:02Z"
-    },
-    {
-      "title": "EA is reportedly laying off recruitment, customer support, safety, and IT staff - GamesIndustry.biz",
-      "description": "Electronic Arts (EA) is allegedly initiating another round of cuts, primarily impacting recruitment, customer support, …",
-      "url": "https://www.gamesindustry.biz/ea-is-reportedly-laying-off-recruitment-customer-support-safety-and-it-staff",
-      "urlToImage": "https://assetsio.gnwcdn.com/30931-ea-logo-wallpaper-442625200.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2026-06-22T21:29:34Z"
-    },
-    {
-      "title": "Final Fantasy VII Revelation Director Says Queer Romances Make The World Feel More Real - Kotaku",
-      "description": "Naoki Hamaguchi said that the presence of queer people and relationships in the remake trilogy 'enhances the world’s realism'",
-      "url": "https://kotaku.com/final-fantasy-7-ff7-remake-revelation-queer-gay-characters-director-hamaguchi-2000709062",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/06/Final-Fantasy-7-Revelation-Key-Art-Square-Enix-971x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-06-22T20:03:46Z"
-    },
-    {
-      "title": "StarCraft II 5.0.16 Patch Notes - Blizzard News",
-      "description": "Patch 5.0.16 has been released with map pool and economy updates, balance changes with expanding strategic variety across all three races, and overall quality of life improvements.",
-      "url": "https://news.blizzard.com/en-us/article/24259080/starcraft-ii-5-0-16-patch-notes",
-      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
-      "source": "Blizzard.com",
-      "publishedAt": "2026-06-22T18:55:00Z"
-    },
-    {
-      "title": "Man sells his couch on Facebook Marketplace. Then Zelle flags the payment for being too high. Then he learns he’s been bamboozled - Yahoo Tech",
-      "description": "“A little red flag is going off in my head.\"",
-      "url": "https://www.thebiglead.com/man-scammed-couch-facebook-zelle/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/790e5993c11773b783c26e000b52b4a46b46a4397bfda4763e6f5a355dee2bcb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F4be7aec8f366398d05d590881a2ee703",
-      "source": "The Big Lead",
-      "publishedAt": "2026-06-22T18:00:00Z"
-    },
-    {
-      "title": "It’s Finally Happened — You Can Play As Nicolas Cage in Call of Duty - IGN",
-      "description": "It’s finally happened — you can play as Nicolas Cage in Call of Duty.",
-      "url": "https://www.ign.com/articles/its-finally-happened-you-can-play-as-nicolas-cage-in-call-of-duty",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/22/codthumb-1782145493170.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-06-22T17:44:46Z"
-    },
-    {
-      "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance - SpaceNews",
-      "description": "Chinese spaceplane releases object into orbit, according to commercial space surveillance China’s secretive spaceplane has released an object into orbit during its ongoing fourth mission, according to space surveillance firm LeoLabs.",
-      "url": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2025/11/Shenzhou22-launch-CZ2F-JSLC-25nov2025-CASC.jpg",
-      "source": "SpaceNews",
-      "publishedAt": "2026-06-22T17:42:59Z"
-    },
-    {
-      "title": "Valve's Steam Machine Costs Between $1,049 And $1,428, The Option To Sign Up For Potential Reservations Opens Today - Game Informer",
-      "description": "After much speculation and fear of sticker shock, Valve has unveiled the models and prices of its Steam Machines and how reservations will work.",
-      "url": "https://gameinformer.com/2026/06/22/valves-steam-machine-costs-between-1049-and-1428-the-option-to-sign-up-for-potential",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/b50bbc16/steammachine.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-06-22T17:38:23Z"
-    },
-    {
-      "title": "Video: Devil May Cry 5 Nintendo Switch 2 vs. PS4 comparison, can hit 120 FPS on Nintendo's console - Nintendo Everything",
-      "description": "GVG has taken a closer look at the new Nintendo Switch 2 version of Devil May Cry 5, which includes a comparison with the PS4 version. As you’ll notice in the video, the two versions are very similar. One thing that’s a bit different is that the Nintendo Swit…",
-      "url": "https://nintendoeverything.com/video-devil-may-cry-5-nintendo-switch-2-vs-ps4-comparison-can-hit-120-fps-on-nintendos-console/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Devil-May-Cry-5-Switch-2-vs.-PS4-comparison.jpg",
+      "title": "Star Fox Nintendo Switch 2 reviews roundup - Nintendo Everything",
+      "description": null,
+      "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-reviews-roundup/",
+      "urlToImage": null,
       "source": "Nintendoeverything.com",
-      "publishedAt": "2026-06-22T17:25:23Z"
+      "publishedAt": "2026-06-24T03:55:57Z"
     },
     {
-      "title": "The Legend of Zelda: Tears of the Kingdom Hits All Time Low Price for Switch 2 - IGN",
-      "description": "A rare first-party Nintendo discount just went live: The Legend of Zelda: Tears of the Kingdom is heavily marked down for Amazon Prime Day for players on both the original Switch and the new Switch 2.",
-      "url": "https://www.ign.com/articles/zelda-tears-of-the-kingdom-amazon-prime-day-2026",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/15/tears-of-the-kingdom-prime-day-deal-ign-1781532152124.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-06-22T17:05:06Z"
+      "title": "Sega Announces Two Sonic Game Collections For Switch - Nintendo Life",
+      "description": "Including a \"Modern\" and \"Classic\" collection",
+      "url": "https://www.nintendolife.com/news/2026/06/sega-announces-two-sonic-game-collections-for-switch",
+      "urlToImage": "https://images.nintendolife.com/46cd6b21d14ea/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-06-23T23:30:00Z"
     },
     {
-      "title": "Ubisoft Co-Founder Claude Guillemot Died In A Plane Crash Saturday - Game Informer",
-      "description": "The accident took place last weekend on the west coast of France.",
-      "url": "https://gameinformer.com/2026/06/22/ubisoft-co-founder-claude-guillemot-died-in-a-plane-crash-saturday",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/688e9802/Ubisoft_4.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-06-22T16:53:20Z"
+      "title": "Gemini Intelligence makes brief Pixel 10 series appearance on Android 17 QPR1 Beta - 9to5Google",
+      "description": "Google today is rolling out Android 17 QPR1 Beta 5 and it’s mainly just a bug fixer except for the inclusion of the Gemini Intelligence logo.",
+      "url": "http://9to5google.com/2026/06/23/gemini-intelligence-android-17-qpr1-beta-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-intelligence-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-06-23T22:23:00Z"
     },
     {
-      "title": "Acer and ASUS resume PC shipments in Germany after Nokia HEVC patent dispute - VideoCardz.com",
-      "description": "Acer and ASUS are shipping affected notebooks and desktop PCs in Germany again, following months of restrictions linked to a Nokia video coding patent dispute.",
-      "url": "https://videocardz.com/newz/acer-and-asus-resume-pc-shipments-in-germany-after-nokia-hevc-patent-dispute",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/06/ACER-ASUS-HEVC-GERMANY-HERO.webp",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-06-22T16:43:15Z"
+      "title": "Best Buy Tech Fest: The Biggest Discounts on Headphones, Video Games, and More - PCMag",
+      "description": "There's more than one big sale going down today! Over at Best Buy, you can nab some fantastic deals during their Tech Fest event on all of the top electronics brands.",
+      "url": "https://www.pcmag.com/news/best-buy-tech-fest-2026-electronics-sales-discounts-june-23",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/02xwDJcJMxWLfQMFKhNBIVQ-8.fit_lim.size_1200x630.v1782248592.png",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-23T21:09:47Z"
     },
     {
-      "title": "These Are the 20 Best Early Prime Day Tablet Deals That Will Save You Hundreds Right Now - CNET",
-      "description": "This Amazon Prime Day, bring home a new tablet from Apple, Samsung, TCL and others with these solid deals.",
-      "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-22/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-06-22T16:41:33Z"
+      "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games - The Verge",
+      "description": "Consoles are expensive, but Prime Day is proof that good deals on games and accessories for the Nintendo Switch 2, PlayStation 5, and Xbox Series X still happen.",
+      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-23T20:00:00Z"
     },
     {
-      "title": "Best Buy launches massive anti-Prime Day sale — see 25+ Android deals that might make Amazon look bad - Android Central",
-      "description": "Best Buy is carving up to 50% off smartphones, laptops, and more.",
-      "url": "https://www.androidcentral.com/phones/best-buy-tech-fest-anti-prime-day-deals-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ofaEMEtqR9rufrNTUTTJoh-1152-80.jpg",
-      "source": "Android Central",
-      "publishedAt": "2026-06-22T16:40:56Z"
+      "title": "DeepMind Chief Demis Hassabis says Google’s still winning AI talent - Semafor",
+      "description": "Despite the departure of two top AI leaders that sent the company’s stock price down, Hassabis says Google is still on top.",
+      "url": "https://www.semafor.com/article/06/23/2026/deepmind-chief-demis-hassabis-says-googles-still-winning-ai-talent",
+      "urlToImage": "https://img.semafor.com/7ee33d8919a4fbe1d81844309b45865a396255e2-5900x3933.jpg?rect=0,418,5900,3098&w=1200&h=630&q=75&auto=format",
+      "source": "Semafor.com",
+      "publishedAt": "2026-06-23T19:56:00Z"
+    },
+    {
+      "title": "iOS 27 Wallet App Gets 7 New Features - MacRumors",
+      "description": "Apple is making more of an effort to turn the iPhone into a physical wallet replacement in iOS 27, and there are several upgrades to the Wallet app. ...",
+      "url": "https://www.macrumors.com/guide/ios-27-wallet/",
+      "urlToImage": "https://images.macrumors.com/t/yJreHCFsFXHIt3kpjRhnlNFZPhQ=/2500x/article-new/2026/06/iOS-27-Adds-These-New-Features-to-Your-iPhones-Wallet-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-23T19:32:14Z"
+    },
+    {
+      "title": "Prime Day has served up several great deals on 4K TVs - The Verge",
+      "description": "Prime Day has offered up some fantastic deals on 4K TVs at a range of size and price, from Sony, LG, Samsung, Hisense, and more.",
+      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sony-XR-A95L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-23T19:30:00Z"
+    },
+    {
+      "title": "Sonic Racing: CrossWorlds free character updates Classic Sonic, Axel, and Amigo announced - Gematsu",
+      "description": "SEGA has announced new playable characters coming to Sonic Racing: CrossWorlds from today until September, including Classic Sonic from Sonic the Hedgehog, Axel from the Crazy Taxi series, and Amig…",
+      "url": "https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/06/Sonic-Racing-CrossWorlds-Characters_06-23-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-06-23T18:32:37Z"
+    },
+    {
+      "title": "Pre-RAMpocalypse Steam Machine Pricing was ~30% Cheaper - TechPowerUp",
+      "description": "It's no secret that Valve's Steam Machine is launching at possibly the worst moment for both PC and console gaming hardware, given the ongoing DRAM crisis, but Valve engineer, Pierre-Loup Griffais, has recently shed light on the pre-RAM crisis pricing of the …",
+      "url": "https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper",
+      "urlToImage": "https://www.techpowerup.com/img/0uCj6WYG9S41FaEq.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-06-23T18:06:37Z"
+    },
+    {
+      "title": "MIO: Memories In Orbit Developer Douze Dixièmes Shutting Down - Insider Gaming",
+      "description": "It's been reported that MIO: Memories in Orbit developer Douze Dixièmes is shutting down after regaining its independence.",
+      "url": "https://insider-gaming.com/mio-memories-in-orbit-developer-douze-dixiemes-shutting-down/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/01/MIO_Screenshot1-1024x576.png",
+      "source": "Insider-gaming.com",
+      "publishedAt": "2026-06-23T17:45:26Z"
+    },
+    {
+      "title": "Would You Wear Kylie Jenner Meta Glasses? - The Cut",
+      "description": "Kylie Jenner released her own pair of Meta AI-powered smart sunglasses, which can take photos and sing you her infamous ‘Rise and shine’ song. At least they don’t have facial recognition?",
+      "url": "http://www.thecut.com/article/kylie-jenner-ai-meta-glasses.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/a9f/335/00790b9aeaf9358333489396b901d0d9ba-GettyImages-1969906488.1x.rsocial.w1200.jpg",
+      "source": "The Cut",
+      "publishedAt": "2026-06-23T17:44:30Z"
+    },
+    {
+      "title": "Chrome Autofill rolling out deeper Google Wallet integration - 9to5Google",
+      "description": "Google is introducing deeper integration between Google Wallet and Chrome Autofill to further streamline the experience of filling out...",
+      "url": "http://9to5google.com/2026/06/23/chrome-autofill-google-wallet-2/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/02/Chrome-for-Android-logo-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-06-23T17:00:00Z"
+    },
+    {
+      "title": "Hunt the Death Cult in Season of Death Awakening — Diablo IV - Blizzard News",
+      "description": "Seek out new threats from the Death Cults, dominate the Tower and Leaderboards, and enjoy a free Warlock Trial in Season of Death Awakening.",
+      "url": "https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/3h/3HCGUITVOMJP1781827191737.png",
+      "source": "Blizzard.com",
+      "publishedAt": "2026-06-23T17:00:00Z"
+    },
+    {
+      "title": "Act Fast: Get an Oura Ring for $44 With the Amex Platinum Card - Upgraded Points",
+      "description": "We haven't seen a deal this good for the Oura Ring since Black Friday. Act quickly to snag yours for just $44 with the Amex Platinum card.",
+      "url": "https://upgradedpoints.com/news/oura-ring-sale-amex-platinum-2026/",
+      "urlToImage": "https://upgradedpoints.com/wp-content/uploads/2026/01/Oura-Ring.jpg",
+      "source": "Upgradedpoints.com",
+      "publishedAt": "2026-06-23T16:43:14Z"
+    },
+    {
+      "title": "11 of the Best Discounts on Desktop PCs for Amazon Prime Day From Dell, HP, Lenovo, and More - PCMag",
+      "description": "Big sale, big computers. Grab a new desktop tower, all-in-one, gaming battlestation or compact PC at a deep discount during the four-day sale.",
+      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-desktop-pc-deals-2026",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/07cZqbWDZAnoZmzqy9EOj9s-1.fit_lim.size_1200x630.v1782164796.png",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-23T16:43:12Z"
+    },
+    {
+      "title": "Latest Galaxy Watch 9 leaks show updated design and new features [Gallery] - 9to5Google",
+      "description": "More leaks of Samsung’s Galaxy Watch 9 have landed, revealing new features for the upcoming smartwatch series, as well as...",
+      "url": "http://9to5google.com/2026/06/23/samsung-galaxy-watch-9-leaks-renders-software/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-watch-9-ah-onl-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-06-23T15:45:00Z"
     }
   ]
 }
