@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-06-25T09:38:51.154Z",
+  "updatedAt": "2026-06-26T09:48:12.902Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Think You Need Prime Day to Save? These 50+ Walmart Deals Say Otherwise - CNET",
-      "description": "No matter what's on your list, there's a deal worth grabbing.",
-      "url": "https://www.cnet.com/deals/walmart-anti-prime-day-deals-2026-06-24/",
+      "title": "We Sifted Through Thousands of Prime Day Deals, and These 281+ Are Actually Worth Buying - NBC News",
+      "description": "We’re tracking Amazon Prime Day deals live and updating this list with editor-vetted discounts. Shop tech, beauty, home, kitchen, Apple products and more.",
+      "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-rcna351521",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260617-prime-hero-oo-social-V5-87e965.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-06-25T08:30:21Z"
+    },
+    {
+      "title": "Skip the Prime Day Hype and Shop These 50+ Major Walmart Deals Instead - CNET",
+      "description": "Now is the perfect time to upgrade as Walmart has major discounts on Laptops, TVs and More",
+      "url": "https://www.cnet.com/deals/walmart-prime-day-alternatives-2026-06-25/",
       "urlToImage": "https://www.cnet.com/a/img/resize/fce41d5fa60c5864de8c67859cae35751c795f37/hub/2026/06/22/38a14f2b-88e2-4213-a94f-46bf97b2a38f/walmart-prime-day-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "CNET",
-      "publishedAt": "2026-06-24T10:42:56Z"
+      "publishedAt": "2026-06-25T07:27:51Z"
     },
     {
-      "title": "Cerebras Stock Tumbles After First Earnings Report Since IPO - Barron's",
-      "description": "The AI chip maker posted a smaller-than-expected loss of $3.5 million, versus a $44 million loss one year ago.",
-      "url": "https://www.barrons.com/articles/cerebras-earnings-stock-price-f7896418",
-      "urlToImage": "https://images.barrons.com/im-86922568/social",
-      "source": "Barron's",
-      "publishedAt": "2026-06-24T09:01:00Z"
-    },
-    {
-      "title": "Tech Stocks Set to Bounce After $1.3 Trillion Rout on AI Jitters - Bloomberg.com",
-      "description": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
-      "urlToImage": null,
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-24T08:56:06Z"
-    },
-    {
-      "title": "Stock market today: S&P 500, Nasdaq hit pause after tech rout with Micron in focus - Yahoo Finance",
-      "description": "Investors are braced for Micron earnings for clues to whether AI optimism has overrun.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-hit-pause-after-tech-rout-with-micron-in-focus-230105138.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6DF5C192660C4624B788C702AF870D973BF4C3BB777C0E253BD4859ADD0407EA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F58435a98-9818-4a18-ba22-42c1a47bd772",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-24T08:04:20Z"
-    },
-    {
-      "title": "Prime Day is here: We found 65+ deals to shop from Apple, Lego, Sony, and more - Mashable",
-      "description": "Amazon devices, Kindle bundles, headphones, and portable power stations are highlights.",
-      "url": "https://mashable.com/tech/best-amazon-prime-day-live-deals-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03VrNyLEvGnorSliXHaez14/hero-image.fill.size_1200x675.v1782285545.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-06-24T07:33:43Z"
-    },
-    {
-      "title": "China takes US crown for world’s fastest supercomputer - Al Jazeera",
-      "description": "China’s LineShine overtakes US-based El Capitan as most powerful supercomputer, according to the TOP500 list.",
-      "url": "https://www.aljazeera.com/economy/2026/6/24/china-takes-us-crown-for-worlds-fastest-supercomputer",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP23355580833813-1782264388.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-24T06:39:02Z"
-    },
-    {
-      "title": "Brent falls below $76, notching its lowest level since day before U.S.-Iran war - CNBC",
-      "description": "U.S. President Donald Trump intensified pressure on oil companies to lower gasoline prices following the recent decline in crude.",
-      "url": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108325936-1782289399007-gettyimages-2281783154-dji_20260615155808_0334_d_3mamzkfe.jpeg?v=1782289495&w=1920&h=1080",
+      "title": "S&P 500 futures rise as Micron surges after earnings; Wall Street awaits key inflation reading: Live updates - CNBC",
+      "description": "May's personal consumption expenditures price index reading, the Fed's preferred inflation gauge, comes out at 8:30 a.m. ET on Thursday.",
+      "url": "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326269-17823199802026-06-24t160040z_1471870955_rc2d0matl1m2_rtrmadp_0_usa-stocks.jpeg?v=1782320413&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-06-24T05:09:35Z"
+      "publishedAt": "2026-06-25T04:22:00Z"
     },
     {
-      "title": "Victim’s family in fatal Texas Tesla ‘automated driving assistance’ crash files lawsuit - NBC News",
-      "description": "Attorneys for Martha Avila’s family said the Tesla was in “Autopilot” mode when the speeding car crashed into the 76-year-old woman’s home, killing her.",
-      "url": "https://www.nbcnews.com/news/us-news/fatal-texas-tesla-automated-driving-assistance-crash-lawsuit-rcna351485",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260620-tesla-crash-ch-1350-34c524.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-06-24T04:07:00Z"
+      "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models - Bloomberg",
+      "description": "Anthropic PBC accused Chinese technology giant Alibaba Group Holding Ltd. of waging a large-scale effort to “illicitly” access its Claude artificial intelligence model using thousands of fraudulent accounts that undermine the US AI developer’s decision to kee…",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuA9I8ntkV40/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-06-25T02:26:00Z"
     },
     {
-      "title": "Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-24T03:59:00Z"
-    },
-    {
-      "title": "Google's YouTube reaches settlement in lawsuit alleging child social media addiction - Fox Business",
-      "description": "Google's YouTube settles a social media addiction lawsuit brought by a teenager in Florida who accused the platform of causing mental health harms.",
-      "url": "https://www.foxbusiness.com/technology/googles-youtube-reaches-settlement-lawsuit-alleging-child-social-media-addiction",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/teens-using-phones.jpg?ve=1&tl=1",
+      "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune - Fox Business",
+      "description": "Elon Musk's net worth has dropped below $1 trillion after SpaceX and Tesla shares fell during a broader tech sell-off, less than two weeks after the milestone.",
+      "url": "https://www.foxbusiness.com/markets/elon-musk-loses-trillionaire-status-after-tech-sell-off-erases-billions-from-fortune",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/elon-musk-event.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-06-24T01:40:00Z"
+      "publishedAt": "2026-06-25T01:16:00Z"
     },
     {
-      "title": "The Dow Jones Industrial Average Will Change Forever on June 29, With Verizon Getting the Boot and a Virtual Monopoly Joining the Index - The Motley Fool",
-      "description": "Verizon's 22-year run in the iconic Dow is ending, with a trillion-dollar company that's an artificial intelligence (AI) applications leader taking its place.",
-      "url": "https://www.fool.com/investing/2026/06/23/dow-change-forever-on-june-29-vz-boot-googl-join/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875951%2Fnyse-floor-trader-invest-buy-sell-options-stock-exchange-getty.png&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-06-24T00:59:00Z"
+      "title": "SK Hynix surges 11% after filing for blockbuster Nasdaq listing - CNBC",
+      "description": "Shares of South Korean chip giant SK Hynix surged 12% on Thursday after the company said it is seeking to raise as much as $29.4 billion.",
+      "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326518-1782348833270-GettyImages-1230847768.jpg?v=1782348905&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-06-25T00:34:00Z"
     },
     {
-      "title": "Elon Musk loses his trillionaire status as SpaceX stock comes back to Earth - Business Insider",
-      "description": "After SpaceX's IPO, Elon Musk's net worth reached new heights, but a tech stock sell-off has has pulled him back to billionaire status.",
-      "url": "https://www.businessinsider.com/elon-musk-net-worth-below-trillionaire-spacex-stock-slide-2026-6#article",
-      "urlToImage": "https://i.insider.com/6a3ac47a40d09c7636327e6a?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-23T23:39:00Z"
+      "title": "The Slate Truck Is More Expensive Than Expected - Motor1.com",
+      "description": "Slate has pricing for its electric Truck and SUV, with updated specs that include greater range, lower horsepower, and higher towing and payload capacities.",
+      "url": "https://www.motor1.com/news/799615/slate-truck-suv-price-range-specs/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/NGKxv2/s1/slate-truck-exterior-rear-carrying-plywood-sheets.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2026-06-25T00:00:23Z"
     },
     {
-      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist - BBC",
-      "description": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
-      "url": "https://www.bbc.com/news/articles/ckg0258vpvqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-06-23T23:25:07Z"
+      "title": "Air Canada flight with 61 passengers diverts to Boston after captain is removed from cockpit midair - Fox News",
+      "description": "An Air Canada flight diverted to Boston's Logan Airport after the captain suffered a midair medical emergency, according to airline officials.",
+      "url": "https://www.foxnews.com/us/air-canada-flight-61-passengers-diverts-boston-captain-removed-cockpit-midair",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/Air-Canada-Express-Jet.jpeg",
+      "source": "Fox News",
+      "publishedAt": "2026-06-24T23:26:30Z"
     },
     {
-      "title": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg.com",
-      "description": "An artificial intelligence startup that uses Anthropic PBC’s AI models sued the US over a government order that the maker of Claude and Mythos keep its most advanced technology out of the hands of foreign nationals.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-customer-sues-us-over-losing-access-to-fable-ai-model",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTviAGM0Fpbc/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-23T23:09:25Z"
-    },
-    {
-      "title": "California intends to sue Trump administration over deal to end offshore wind project - AP News",
-      "description": "California intends to sue the Trump administration over its deal to end an offshore wind project proposed off the state’s central coast. State officials said they are combating the administration’s attacks on their offshore wind industry by sending a notice o…",
-      "url": "https://apnews.com/article/california-trump-offshore-wind-project-lawsuit-billions-5bc963e77806cf760a377652eb793616",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7c2adac/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F02%2F8e39d15672787f09005c0de8eca9%2F7272ef16fae542ac8d0698d2a76f654c",
+      "title": "Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled - AP News",
+      "description": "Live Nation lawyers have revealed that President Donald Trump spoke personally with the chief executive of Live Nation in the weeks before the Justice Department abruptly settled its longstanding antitrust lawsuit against the entertainment giant and its Ticke…",
+      "url": "https://apnews.com/article/live-nation-ticketmaster-antitrust-trial-trump-4fccb96e1672fb5335ac1af58c4c51e8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4e05c84/2147483647/strip/true/crop/4319x2878+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2F88%2Fcb044c545e9cf7c8413c94f72287%2F9b3f76e6b9174080a5e50b6d33e5111b",
       "source": "Associated Press",
-      "publishedAt": "2026-06-23T22:49:00Z"
+      "publishedAt": "2026-06-24T23:11:50Z"
     },
     {
-      "title": "How the federal student loan changes could impact borrowers - PBS",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRm14dUZGLTc0THYzRVlLLW9rTF81X2Q1dThtU0RrN29nNkhYTWpsSWdXblh2SUptYlBqRWN4eE8tTHdGN1BKZDkzMjVvWm5EejFFcUlFV2FzV181Ykt3X1Nza3ZKYUxBTkZwNGFjUUd3ajdOdWZieWVlS1NIaW5HZGRRcy11Z0hWdG9qQUtSZFk1dDhNZHRqNQ?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2026-06-23T22:35:57Z"
+      "title": "Meta forced thousands of engineers into AI training work. Now it's giving some a way out. - Business Insider",
+      "description": "After reassigning 7,000 employees into AI initiatives, Meta is now offering some engineers a path to transfer elsewhere.",
+      "url": "https://www.businessinsider.com/meta-lets-engineers-leave-ai-training-unit-after-mass-reassignment-2026-6#article",
+      "urlToImage": "https://i.insider.com/6a3c5f15a25092c74cc9e917?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-24T22:53:00Z"
     },
     {
-      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto - Ars Technica",
-      "description": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
-      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-23T22:30:57Z"
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood - TechCrunch",
+      "description": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T22:41:41Z"
     },
     {
-      "title": "Stocks Waver as Traders Look Ahead to Micron: Markets Wrap - Bloomberg.com",
-      "description": "US stocks ticked higher to halt a brief selloff as investors looked ahead to Micron Technology Inc.’s results for the next read on whether artificial intelligence spending is living up to expectations.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/asian-stocks-set-to-extend-ai-chip-fueled-selloff-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inMEItw1y1DE/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-23T22:06:14Z"
+      "title": "Paramount-Warner Bros. Discovery Merger Inches Closer to a Done Deal - The Hollywood Reporter",
+      "description": "Regulators in over a dozen countries have signed off on the deal.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-discovery-merger-1236629853/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2272991569.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-06-24T20:44:11Z"
+    },
+    {
+      "title": "Why is Wendy’s a Meme Stock? The CFO Shakeup Explained - Barron's",
+      "description": "Wendy’s stock jumps after a slew of posts on WallStreetBets urge retail traders to buy the struggling fast-food chain.",
+      "url": "https://www.barrons.com/articles/wendys-stock-price-meme-short-eacd883c",
+      "urlToImage": "https://images.barrons.com/im-20041450/social",
+      "source": "Barron's",
+      "publishedAt": "2026-06-24T20:12:00Z"
+    },
+    {
+      "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses - Federal Reserve (.gov)",
+      "description": "The results of the Federal Reserve Board's annual bank stress test confirmed that large banks are well positioned to weather a severe recession and able to con",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+      "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "source": "Federalreserve.gov",
+      "publishedAt": "2026-06-24T20:04:28Z"
+    },
+    {
+      "title": "Qualcomm goes all-in on data center infrastructure; Microsoft, Meta revealed as early customers - Seeking Alpha",
+      "description": "Qualcomm unveils Dragonfly data center AI portfolio and HBC tech, naming Meta and Microsoft as early customers.",
+      "url": "https://seekingalpha.com/news/4606942-qualcomm-goes-all-in-on-data-center-infrastructure-microsoft-meta-revealed-as-early-customers",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279393456/image_2279393456.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-06-24T19:20:09Z"
+    },
+    {
+      "title": "Breeze Airways adds 5 new routes from Vero Beach with fares starting at $79 - WPTV",
+      "description": "Travelers who live on the Treasure Coast will soon have a few new routes to choose from when planning their next trip.",
+      "url": "https://www.wptv.com/lifestyle/travel/breeze-airways-adds-5-new-routes-from-vero-beach-with-fares-starting-at-79",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/64aeeca/2147483647/strip/true/crop/3200x1680+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8a%2F7b%2Ff34cd17949db9a84e9820002db4a%2Fbreeze-airways.jpeg",
+      "source": "WPTV.com",
+      "publishedAt": "2026-06-24T16:23:52Z"
+    },
+    {
+      "title": "The Price of Gold Sinks Under $4,000 for the First Time Since November - Investopedia",
+      "description": "The precious metal has hit a fresh low for 2026 amid concerns that the Federal Reserve could raise rates.",
+      "url": "https://www.investopedia.com/gold-sinks-under-usd4-000-for-the-first-time-in-months-12005599",
+      "urlToImage": "https://www.investopedia.com/thmb/4OXfS92WVzVIg-c9-aOSEKAWBJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2259321333-64af61de792d48e3a12b9b7b386fe92d.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2026-06-24T16:16:57Z"
     }
   ]
 }
