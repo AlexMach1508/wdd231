@@ -1,135 +1,167 @@
 {
-  "updatedAt": "2026-06-27T08:47:51.483Z",
+  "updatedAt": "2026-06-28T09:27:32.279Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
+      "title": "Best Prime Day laptop deals: Save up to $850 on MacBooks, gaming laptops - Mashable",
+      "description": "Laptops are very expensive these days. These discounts help.",
+      "url": "https://mashable.com/tech/best-prime-day-laptop-deals-last-chance-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06cVzDbLfeuU5gxRC0u8qQP/hero-image.fill.size_1200x675.v1782486491.png",
+      "source": "Mashable",
+      "publishedAt": "2026-06-27T05:54:54Z"
+    },
+    {
+      "title": "Steam Summer Sale Offers Discounts On More Than 800 VR Games - UploadVR",
+      "description": "Steam's Summer Sale is offering massive discounts on hundreds of VR titles right now.",
+      "url": "https://www.uploadvr.com/steam-summer-sale-offers-discounts-on-more-than-800-vr-games/",
+      "urlToImage": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/download.png",
+      "source": "UploadVR",
+      "publishedAt": "2026-06-27T02:39:16Z"
+    },
+    {
+      "title": "Why GTA 6 is launching without a disc - and what it says about gaming's future - BBC",
+      "description": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
+      "url": "https://www.bbc.com/news/articles/c6210nj8gpro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-06-26T23:03:04Z"
+    },
+    {
+      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought - The Verge",
+      "description": "My favorite Prime Day deal isthis pair of Vamplier stripped screw extraction pliers.",
+      "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/062626_Vampliers_VT001_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-26T22:09:46Z"
+    },
+    {
       "title": "Best 150 Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
-      "description": "Time is running out to grab these affordable Prime Day finds that punch well above their price.",
-      "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/",
+      "description": "It's the last day of the sale, which means there's not much time left to grab your last-minute affordable finds.",
+      "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-26/",
       "urlToImage": "https://www.cnet.com/a/img/resize/d1de0c607658b1debb453bb6c9b62fc05109a1e5/hub/2026/06/25/22e246b8-3da6-490c-b181-eb9e097b6ab5/under-50-usd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "CNET",
-      "publishedAt": "2026-06-26T00:42:44Z"
+      "publishedAt": "2026-06-26T21:54:07Z"
     },
     {
-      "title": "Brand New, Retail Boxed Nintendo Switch 2 Gaming Consoles Are Going for as Low as $399 for Amazon Prime Day - IGN",
-      "description": "Brand new.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/25/nintendoswitch2-1782421471696.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-06-26T00:34:00Z"
+      "title": "50 Incredible Charts That Repeatedly Made Me Go, \"Now That Is Fascinating!\" - BuzzFeed",
+      "description": "Reading this is like going to college in five minutes.",
+      "url": "https://www.buzzfeed.com/mikespohr/50-incredibly-cool-charts-fs",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-06/26/18/enhanced/fa006e60bd22/original-5430-1687805835-13.jpg?crop=1250:654;0,146%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-06-26T21:31:02Z"
     },
     {
-      "title": "It's Summer Sale Season, So I Tracked Down 25 Actually Good Gaming Deals Under $20 - IGN",
-      "description": "There's a million sales happening right now, so I sifted through them all to find 25 genuinely solid gaming deals that are each under $20.",
-      "url": "https://www.ign.com/articles/25-gaming-deals-under-20-switch-xbox-ps5-pc-prime-day-2026",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/25/video-games-under-20-1782430262135.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-06-26T00:30:00Z"
-    },
-    {
-      "title": "Valve Removes ‘4K Gaming At 60 FPS’ From Steam Machine Page After Early Review Backlash - Kotaku",
-      "description": "Some have struggled to hit consistently high framerates on the new hardware",
-      "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-06-25T23:00:42Z"
-    },
-    {
-      "title": "Sony files notice for layoffs at Bellevue-based video game company - KOMO",
-      "description": "Sony Interactive Entertainment is reducing the workforce at Bungie, with layoffs affecting a significant number of employees.",
-      "url": "https://komonews.com/news/local/a-bellevue-based-video-company-announces-layoffs-sony-interactive-entertainment-to-cut-bungie-workforce-playstation-destiny-video-game-company-engineer-tech-layoffs",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/4925/1320/0x257/90/b8ec9bc9-b36d-4ffc-bc52-f3ec999f2918-GettyImages2174642041.jpg",
-      "source": "KOMO News",
-      "publishedAt": "2026-06-25T22:45:56Z"
-    },
-    {
-      "title": "Android 17’s new foldable gaming mode could make flippy phones more fun - The Verge",
-      "description": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to make it easier to play games.",
-      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-06-25T22:33:54Z"
-    },
-    {
-      "title": "‘Grand Theft Auto VI’ Going Digital-Only Is a Car Crash for Physical Media - The Hollywood Reporter",
-      "description": "Not all progress is progress.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/grand-theft-auto-vi-digital-only-no-disc-rip-physical-media-1236629695/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01-H-2026.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-06-25T22:29:36Z"
-    },
-    {
-      "title": "Microsoft adds another year to Windows 10 extended update program - Ars Technica",
-      "description": "About a quarter of PCs are still running Microsoft's previous operating system.",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-06-25T20:24:09Z"
-    },
-    {
-      "title": "Dating Coach Urges All Men to Avoid 'Worst' Hobby for Single Guys - Yahoo",
-      "description": "A professional dating coach isn't holding back on the \"F\" tier hobby for single men in the United States. Blaine Anderson, a former travel industry worker wh...",
-      "url": "https://www.mensjournal.com/news/dating-coach-urges-all-men-to-avoid-worst-hobby-for-single-guys",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a1ebafc07e541b3ca8d45005ca71f35007b7053f6b9c098dd9623e068bf246fa/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F836d740fa7287adb491f2663a7874032",
-      "source": "Men's Journal",
-      "publishedAt": "2026-06-25T18:19:30Z"
-    },
-    {
-      "title": "Microsoft lifts price of Xbox consoles due to soaring component costs - CNBC",
-      "description": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for MacBooks and iPads.",
-      "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108275781-1773100803624-gettyimages-2230458864-tang-notitle250820_npmhW.jpeg?v=1773259314&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-06-25T17:34:13Z"
-    },
-    {
-      "title": "YouTube Shorts player adding Clear Screen mode & 2x playback, removes dislike - 9to5Google",
-      "description": "YouTube today announced a number of updates to the Shorts player meant to “create a more intuitive Shorts experience.”",
-      "url": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Hands-on: Google Home Speakers are the easiest option for your Google TV Streamer, hands down - 9to5Google",
+      "description": "If you own a Google TV Streamer or plan to get one, you have an exclusive audio option in the...",
+      "url": "http://9to5google.com/2026/06/26/hands-on-google-home-speaker-with-google-tv-streamer/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-TV-Speakers-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-06-25T17:25:00Z"
+      "publishedAt": "2026-06-26T21:15:00Z"
     },
     {
-      "title": "Over 100 fresh tech deals from Prime Day day 3 - The Verge",
-      "description": "It’s day three of Prime Day, and we’ve still got a huge roundup of the best deals on headphones, TVs, wearables, smart home tech, speakers, and much more.",
-      "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "That Guy Who Sliced His Ferrari Enzo In Half In A Malibu Crash Is Out Of Prison And Posting On Facebook About It - Jalopnik",
+      "description": "Whatever you make of it, this is certainly a strange situation, but it's nice to see an old friend of the blog turn up all these years later.",
+      "url": "https://www.jalopnik.com/2202963/stefan-eriksson-crashed-ferrari-enzo-facebook-posting/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/stefan-eriksson-crashed-ferrari-enzo-facebook-posting/l-intro-1782507296.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-06-26T20:49:45Z"
+    },
+    {
+      "title": "All Aboard for Anker’s Prime Day Deals on Headphones, Earbuds, Power Stations, and More - PCMag",
+      "description": "One of our favorite brands is seeing huge discounts during Amazon's annual summer mega-sale event. But hurry, as the savings end today!",
+      "url": "https://www.pcmag.com/news/best-anker-deals-amazon-prime-day-sale-headphones-chargers-2026-last-chance",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/05bza8JUGXCgBSFTm5MT4vq-1.fit_lim.size_1200x630.v1782492604.png",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-26T19:53:40Z"
+    },
+    {
+      "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in - The Verge",
+      "description": "Apple just announced steep price increases to all MacBooks, Mac desktops, and iPads due to memory shortages. Here are the Mac deals (including Prime Day deals) you can still get.",
+      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-06-25T16:56:07Z"
+      "publishedAt": "2026-06-26T19:42:52Z"
     },
     {
-      "title": "Star Fox Routes Walkthrough And Alternate Routes Map For Every Stage - Nintendo Life",
-      "description": "Plan-et your way ahead",
-      "url": "https://www.nintendolife.com/guides/star-fox-walkthrough-routes-map-alternate-paths-switch-2",
-      "urlToImage": "https://images.nintendolife.com/a2f4e747feecc/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-06-25T16:27:08Z"
+      "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase - MacRumors",
+      "description": "Apple's iPhone 18 Pro models could be up to $200 more expensive, according to a prediction from analytics firm IDC.   IDC expected Apple to...",
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
+      "urlToImage": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-26T19:17:59Z"
     },
     {
-      "title": "Google Finance gets a dedicated app for Android - TechCrunch",
-      "description": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved.",
-      "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Finance-blog-image.png?resize=1200,677",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T16:00:00Z"
+      "title": "The Big Summer Preview – A New Animation: The Butcher’s Nails - Warhammer Community",
+      "description": "Witness a World Eater in the grip of the Butcher’s Nails.",
+      "url": "https://www.warhammer-community.com/articles/ptsxrlfg/the-big-summer-preview-a-new-animation-the-butchers-nails",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_08_1-feature08-frjadfd3oo.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-06-26T19:01:49Z"
     },
     {
-      "title": "iPhone Ultra 2 already given go-ahead, iPhone Air 3 not, says leaker - 9to5Mac",
-      "description": "We may still be waiting for the launch of the iPhone Ultra, but a leaker with a decent track record...",
-      "url": "https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-fold-ultra-ios-27-leak.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-06-25T11:14:00Z"
+      "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
+      "description": "Updated Trukk, Mek and Warboss are on the horizon.",
+      "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_02_1-feature02-2nlq3zv783.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-06-26T18:26:39Z"
     },
     {
-      "title": "Porsche unveils the new 911 GT4 R for global customer motorsport - Porsche Newsroom",
-      "description": "",
-      "url": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html",
-      "urlToImage": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=335962&w=700&h=467&crop=0&public=1&cs=24de911c9f3d99f9",
-      "source": "Porsche.com",
-      "publishedAt": "2026-06-25T06:21:11Z"
+      "title": "The Big Summer Preview – New Starter Sets and ready painted terrain - Warhammer Community",
+      "description": "Dive into Warhammer 40,000, and fight on the battlefields of Armageddon with new terrain kits.",
+      "url": "https://www.warhammer-community.com/articles/1abmqefl/the-big-summer-preview-new-starter-sets-and-ready-painted-terrain",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_01_1-feature01-4k9fojekm7.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-06-26T18:21:39Z"
+    },
+    {
+      "title": "“The Cheaper the Better,” Says Valve About its Steam Machine Pricing, but Don’t Expect a Price Decrease “Any Time Soon” - Wccftech",
+      "description": "The cheaper the better is Valve's official line for how it would like to price the Steam Machine, but don't expect it to happen soon.",
+      "url": "https://wccftech.com/valve-says-cheaper-the-better-steam-machine-but-dont-expect-it-any-time-soon/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/06/steam_machine_prices-HD-scaled-1-1920x1080.jpeg",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-26T17:44:00Z"
+    },
+    {
+      "title": "PlayStation hardware sales fall to their lowest May total since 2000 | US Monthly Charts - GamesIndustry.biz",
+      "description": "Price rises hit Sony's console sales, but 007 First Light and Switch 2 help US game spending to grow 3%",
+      "url": "https://www.gamesindustry.biz/playstation-hardware-sales-fall-to-their-lowest-may-total-since-2000-us-monthly-charts",
+      "urlToImage": "https://assetsio.gnwcdn.com/charles-sims-ps5-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-06-26T17:37:13Z"
+    },
+    {
+      "title": "Windows 11 is getting redesigned taskbar settings in new build - Neowin",
+      "description": "Microsoft is giving Windows 11 redesigned taskbar settings, and the changes are already available for testing in the latest build.",
+      "url": "https://www.neowin.net/news/windows-11-is-getting-redesigned-taskbar-settings-in-new-build/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/07/1752235153_1_story.webp",
+      "source": "Neowin",
+      "publishedAt": "2026-06-26T17:36:00Z"
+    },
+    {
+      "title": "SEGA / Atlus hosting new Nintendo Switch 2 and Switch sale with Sonic Origins Plus, Unicorn Overlord, and more at new low prices - Nintendo Everything",
+      "description": "Fans of SEGA and Atlus can save big on Switch 2 and Switch games as part of new sale on the Nintendo eShop. Over thirty titles are included here with some familiar names in the lineup. We’ll mention that a number of games are at new low prices here such as th…",
+      "url": "https://nintendoeverything.com/sega-atlus-hosting-new-nintendo-switch-2-and-switch-sale-with-sonic-origins-plus-unicorn-overlord-and-more-at-new-low-prices/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/SEGA-Atlus-Nintendo-sale-Sonic-Origins-Plus-Unicorn-Overlord.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-06-26T17:06:33Z"
+    },
+    {
+      "title": "Epic’s Tim Sweeney Keeps Inventing Solutions To Problems That Are Already Solved - Kotaku",
+      "description": "Quick, someone tell him what Discord is",
+      "url": "https://kotaku.com/tim-sweeney-epic-games-store-gen-ai-nfts-discord-2000710961",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/03/tims.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-06-26T17:00:30Z"
+    },
+    {
+      "title": "The Best Prime Day Smartphone Deals From Samsung, Google, and Motorola Are Ending Soon - PCMag",
+      "description": "Need a new Pixel, Galaxy, or Razr? Hurry and grab your next flagship, foldable, or flip phone for a fraction of the price while these Prime Day smartphone deals last!",
+      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026-samsung-google-last-chance",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/00bs1Sic7hGxpCM1VyQDRBY-1.fit_lim.size_1200x630.v1782489831.png",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-26T16:18:59Z"
     }
   ]
 }
