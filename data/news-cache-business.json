@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-06-29T11:20:50.511Z",
+  "updatedAt": "2026-06-30T09:56:42.352Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "FAA investigating low-flying plane nearly hitting runway at private Texas airport - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/faa-investigating-low-flying-plane-hitting-runway-private/story?id\\\\u003d134254841",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-28T11:55:11Z"
+      "title": "Comcast Announces Plans to Separate Media and Technology Businesses into Two Leading Public Companies - Comcast Corporation",
+      "description": "Creation of Independent Comcast and NBCUniversal Positions Both Companies for Enhanced Strategic Focus, Agility and Value Creation",
+      "url": "https://corporate.comcast.com/press/releases/comcast-announces-plans-to-separate-media-and-technology-businesses-into-two-leading-public-companies",
+      "urlToImage": "https://corporate.comcast.com/media/img/1000w/2024/07/corporate_ComcastTexture-BlueOverlay-16x9-Thumbnail.jpg",
+      "source": "Comcast.com",
+      "publishedAt": "2026-06-29T10:08:21Z"
     },
     {
-      "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040 - CNBC",
-      "description": "The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.",
-      "url": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108290637-1776103852194-gettyimages-2210615439-20250412_carbrands_211.jpeg?v=1776103880&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-06-28T11:00:01Z"
-    },
-    {
-      "title": "Nearly 1 million bottles of heart and kidney medication recalled over foreign substance found on tablets - Fox Business",
-      "description": "Amgen recalled nearly one million bottles of Corlanor and Sensipar tablets after unexpected foreign matter was found on tablet surfaces during sampling.",
-      "url": "https://www.foxbusiness.com/lifestyle/nearly-1-million-bottles-heart-kidney-medication-recalled-over-foreign-substance-found-tablets",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/Credible-prescription-cost-iStock-1190193494.jpg?ve=1&tl=1",
+      "title": "Airbnb deploys anti-party technology ahead of July 4 weekend - Fox Business",
+      "description": "Airbnb deploys anti-party technology ahead of July 4 weekend, redirecting over 20,000 people from higher-risk entire home bookings last year.",
+      "url": "https://www.foxbusiness.com/lifestyle/airbnb-deploys-anti-party-technology-ahead-july-4-weekend",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/vacation-rental-house-01.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-06-28T10:00:00Z"
+      "publishedAt": "2026-06-29T10:00:00Z"
     },
     {
-      "title": "Airlines Are Installing New Luxury Seats, but No One Is Allowed to Sit in Them - WSJ",
+      "title": "Samsung and SK Hynix plan $600bn chipmaking expansion - Financial Times",
+      "description": "Companies to invest alongside South Korean government in factories to meet surging demand for memory chips",
+      "url": "https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb189d01b-110f-4f59-834f-2ddf3e634034.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-29T07:20:36Z"
+    },
+    {
+      "title": "Lenovo Warns High Memory Prices are Likely the 'New Normal' and Might 'Never' Return to Normal - News - VGChartz",
       "description": null,
-      "url": "https://www.wsj.com/business/airlines/airlines-are-installing-new-luxury-seats-but-no-one-is-allowed-to-sit-in-them-14e2878c",
+      "url": "https://www.vgchartz.com/article/468330/lenovo-warns-high-memory-prices-are-likely-the-new-normal-and-might-never-return-to-normal/",
+      "urlToImage": null,
+      "source": "Vgchartz.com",
+      "publishedAt": "2026-06-29T07:18:45Z"
+    },
+    {
+      "title": "Ford hired AI and sacked humans. It backfired badly - The Independent",
+      "description": "‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-humans-hiring-artificial-intelligence-b3004733.html",
+      "urlToImage": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/07/22/12/ford-uk-factory.jpg?width=1200&height=800&crop=1200:800",
+      "source": "The-independent.com",
+      "publishedAt": "2026-06-29T05:58:00Z"
+    },
+    {
+      "title": "Memory Trio Samsung, SK Hynix & Micron Face Class Action Lawsuit As Prices Reach Historical High Due To Shortages - Wccftech",
+      "description": "",
+      "url": "https://wccftech.com/memory-trio-samsung-sk-hynix-micron-face-class-action-lawsuit/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Samsung-SK-Hynix-Micron-Memory-Lawsuit.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-29T04:10:00Z"
+    },
+    {
+      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening - Al Jazeera",
+      "description": "Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.",
+      "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260627__B8J44ZQ__v1__MidRes__OmanIranUsIsraelWar-1782699418.jpg?resize=1200%2C630",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-29T04:02:41Z"
+    },
+    {
+      "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC",
+      "description": "Wall Street is coming off a mixed week, characterized by a rotation out of tech and into other parts of the stock market.",
+      "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108321941-1781533263741-gettyimages-2281708056-mms19712_uyeqywx4.jpeg?v=1781533286&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-06-29T03:14:00Z"
+    },
+    {
+      "title": "The Cutthroat Battle to Become America’s Rare-Earth Champion - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/the-cutthroat-battle-to-become-americas-rare-earth-champion-31a2916f",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-28T09:30:00Z"
+      "publishedAt": "2026-06-29T03:00:00Z"
     },
     {
-      "title": "AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns - Financial Times",
-      "description": "Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy",
-      "url": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F06d3c99e-bacd-43a0-869b-e5c5adf340a2.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-28T09:00:07Z"
-    },
-    {
-      "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss - CoinDesk",
-      "description": "The token is down nearly 7% on the week with the altcoins falling harder. Bitcoin and ether are both ending the second quarter in the red, a back-to-back losing first half that runs against the usual pattern.",
-      "url": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/753722e6ad03910083800382c8fa694ddaa8cf92-1500x922.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-28T07:11:56Z"
-    },
-    {
-      "title": "Aussie sounds alarm over scary trend with smart glasses: 'People have no idea' - Yahoo Lifestyle Australia",
-      "description": "It's being dubbed a 'substantial' privacy risk for those not in the know.",
-      "url": "https://au.lifestyle.yahoo.com/aussie-sounds-alarm-over-scary-trend-with-smart-glasses-people-have-no-idea-070000464.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Bl2__sULjNFilb.hFfvNKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/meta-glasses-inline_8379.png",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-28T07:00:00Z"
-    },
-    {
-      "title": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
-      "description": "Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity",
-      "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0de7519-78ef-45e1-9869-466f5745ae26.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-06-28T04:01:09Z"
-    },
-    {
-      "title": "Google just took crown Verizon held for 22 years - thestreet.com",
-      "description": "The change could drag the wireless carrier’s stock price down.",
-      "url": "https://www.thestreet.com/investing/stocks/sp-dow-jones-remove-verizon-replace-alphabet",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDk0NDQ3/markets-take-a-plunge-amid-new-inflation-numbers-and-continuing-iran-war.jpg?profile=share16-9",
+      "title": "Award-winning brewery closes with no notice - thestreet.com",
+      "description": "The workers were mid-brew when the equipment was shut off, and they were told to leave.",
+      "url": "https://www.thestreet.com/retail/award-winning-zipline-brewing-chain-closes-brewery-and-taproom",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyNzg2MTk2/untitled.jpg?profile=share16-9",
       "source": "TheStreet",
-      "publishedAt": "2026-06-28T01:32:00Z"
+      "publishedAt": "2026-06-29T00:48:00Z"
     },
     {
-      "title": "Michael Burry pulls back on massive Palantir short bet - thestreet.com",
-      "description": "Michael Burry cut his Palantir short position in half. But do the company's blowout Q1 earnings vindicate Karp's confidence all along?",
-      "url": "https://www.thestreet.com/investing/stocks/pltr-palantir-michael-burry-pulls-back-on-massive-palantir-short-bet",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDk0NDcz/michael-burry-books-profits-in-palantir-short-position.jpg?profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-06-27T23:03:00Z"
+      "title": "HP Inc. Launches Frontier Strategic Partnership with OpenAI to Fuel Customer-Facing Experiences and Transform Internal Operations - HP",
+      "description": "Today, HP Inc. (NYSE: HPQ) announced the launch of a strategic partnership with OpenAI, integrating its Frontier platform into HP’s global efforts to shape the Future of Work through enhanced customer-facing experiences and accelerated transformation across i…",
+      "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/open-ai-partnership.html",
+      "urlToImage": "https://www.hp.com/content/dam/sites/worldwide/dems/hp_og_image.jpg",
+      "source": "Hp.com",
+      "publishedAt": "2026-06-28T23:52:39Z"
     },
     {
-      "title": "Major airline announces daily flights from California to Japan amid surging demand - New York Post",
-      "description": "A massive surge in demand for flights from California to Japan has sparked a major airline to offer non-stop flights daily to the region starting this summer.",
-      "url": "https://nypost.com/2026/06/27/us-news/major-airline-announces-daily-flights-from-california-to-japan-amid-surging-demand/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-kcdt5iunp-1782597262314.jpg?quality=75&strip=all&1782582925&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-06-27T22:04:00Z"
+      "title": "BIS Sees Peril for Economy, Financial System in AI Investment Boom - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/economy/bis-sees-peril-for-economy-financial-system-in-ai-investment-boom-326960fb",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-06-28T23:46:00Z"
     },
     {
-      "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid - MarketWatch",
-      "description": "‘The only reason’ to use these accounts is ‘if you’re planning to do the Roth strategy,’ one financial planner says",
-      "url": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6",
-      "urlToImage": "https://images.mktw.net/im-07702147/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-06-27T19:25:00Z"
+      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it? - CNBC",
+      "description": "The hyperscalers are just beginning to figure out the consequences of the AI arms race, and now everyone seems to be against them.",
+      "url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108263450-1770660021829-gettyimages-2260237949-US_STOCKS.jpeg?v=1775463131&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-06-28T22:09:47Z"
     },
     {
-      "title": "Beloved Brookline restaurant closes after over 60 years in business - WCVB",
-      "description": "A well-known Brookline restaurant announced on Instagram that it officially closed for good after over 60 years in business.",
-      "url": "https://www.wcvb.com/article/golden-temple-closes-brookline/71756794",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/b7481abe-9dad-4f40-9836-b37261a4a97d.jpg?crop=1.00xw:0.564xh;0,0.198xh&resize=1200:*",
-      "source": "WCVB Boston",
-      "publishedAt": "2026-06-27T19:05:00Z"
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity - The Verge",
+      "description": "China’s Zhipu AI released GLM-5.2, which can apparently match Anthropic’s Mythos on cybersecurity and bug-finding.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-28T21:42:51Z"
     },
     {
-      "title": "Tech Equity Sales Renew AI Debt-Binge Worries - Bloomberg",
-      "description": "Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5r7l70x3Ltc/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-27T19:00:00Z"
+      "title": "SpaceX is already in your 401(k). Here's what's next - moneywise.com",
+      "description": "SpaceX landed in your index funds 5 trading days after its IPO. OpenAI and Anthropic — worth a combined $3.6 trillion alongside it — are built to follow the same path into the funds you already own.",
+      "url": "https://moneywise.com/news/top-stories/spacex-401k-anthropic-openai-ipo-index-fund-rules",
+      "urlToImage": "https://media1.moneywise.com/production/articles/199763/facebook-thumb_hero-multi-header-1782681720150_20260628_172305.jpg",
+      "source": "Moneywise.com",
+      "publishedAt": "2026-06-28T21:27:37Z"
     },
     {
-      "title": "Nobel economist warns AI doomsday job fears could become self-fulfilling prophecy - Fox Business",
-      "description": "Robert Shiller, a Nobel laureate in economics, says fears about AI severely impacting the job market are warranted but that they should be tempered.",
-      "url": "https://www.foxbusiness.com/technology/nobel-economist-warns-ai-doomsday-job-fears-could-become-self-fulfilling-prophecy",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/robert-shiller-nobel-prize.png?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-06-27T18:18:00Z"
-    },
-    {
-      "title": "Where Will Nvidia Stock Be in 2030? - The Motley Fool",
-      "description": "The AI build-out turned the chipmaker into a giant -- but how much longer can the spending last?",
-      "url": "https://www.fool.com/investing/2026/06/27/where-will-nvidia-stock-be-in-2030/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876667%2Fnvidia-nvda-stock.png&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-06-27T18:18:00Z"
-    },
-    {
-      "title": "It's Official: SpaceX To Join Nasdaq 100. Here's When It'll Join. - Investor's Business Daily",
-      "description": "Passive funds tracking the Nasdaq 100 will buy nearly $3 billion worth of SpaceX.",
-      "url": "https://www.investors.com/news/spacex-stock-will-join-nasdaq-100-index-july-7/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/stock-SpaceX-Moon2-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-06-27T18:05:00Z"
-    },
-    {
-      "title": "New hollow-core fiber test pushes internet speeds to 1.2Tb/s - Interesting Engineering",
-      "description": "Chinese researchers achieved a new milestone in fiber-optic technology, achieving ultra-fast data transmission over long distances without signal repeaters.",
-      "url": "https://interestingengineering.com/innovation/china-researchers-transmit-a-whooping-51-3tb-s-through-an-optical-fiber-channel",
-      "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/image-1920x1080-2026-06-27T104620.200.png",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-06-27T17:28:00Z"
-    },
-    {
-      "title": "Tesla Q2 delivery consensus confirms this long-standing theory - Teslarati",
-      "description": "Tesla released what analysts believe the company will report in terms of deliveries and energy deployments for Q2, but the figures seem to confirm a long-standing theory on the company’s vehicle division. For years, Tesla was just looked at as a car company. …",
-      "url": "https://www.teslarati.com/tesla-q2-delivery-consensus-confirms-this-long-standing-theory/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/09/giga-texas-production-1000x600.jpeg",
-      "source": "Teslarati",
-      "publishedAt": "2026-06-27T17:14:53Z"
+      "title": "MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate - The Hill",
+      "description": "Prominent activists with the “Make America Healthy Again” (MAHA) movement are raging and saying they feel betrayed after the Supreme Court sided with pesticide maker Monsanto on Thursday and said it did not need to put a warning label about a potential cancer…",
+      "url": "https://thehill.com/policy/healthcare/5943361-activists-maha-supreme-court-monsanto/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/06/MAHA_Weixel_Getty_TasosKatopodis.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2026-06-28T21:00:00Z"
     }
   ]
 }
