@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2026-06-30T09:56:42.233Z",
+  "updatedAt": "2026-07-01T10:08:13.402Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Xbox reportedly pausing new third-party Game Pass deals, developers say - Video Games Chronicle",
-      "description": "Developers in line for Game Pass deals 'got the rug pulled from under them' it's claimed",
-      "url": "https://www.videogameschronicle.com/news/xbox-reportedly-pausing-new-third-party-game-pass-deals-developers-say/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/02/xbox-game-pass.jpg",
-      "source": "Video Games Chronicle",
-      "publishedAt": "2026-06-29T09:21:55Z"
-    },
-    {
-      "title": "Grand Theft Auto VI Rumored to Offer 60 FPS Mode on PS5/Xbox Series X, But Maybe Not at Launch - Wccftech",
-      "description": "",
-      "url": "https://wccftech.com/grand-theft-auto-vi-60-fps-mode-ps5-xbox-series-x-rumor/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-06-29T07:35:00Z"
-    },
-    {
-      "title": "Amazon Forgot to Remove These 50+ Prime Day Headphone Deals, Get Yours Before They’re Gone - CNET",
-      "description": "Prime Day ended yesterday, but you can still save on audio gear from Apple, Bose, Sony and more.",
-      "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-27/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/d04649385f4abb3c7b0a71c46d3ed471a5a3f604/hub/2026/06/15/052a7632-506a-4416-8059-466ad7e61502/prime-day-headphone-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
+      "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holiday weekend.",
+      "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/dea3c7728dc926da2c683b2e5e3969463b96d428/hub/2026/06/25/5b9e26d5-38d8-400a-9cc8-b5244d0ee6f7/under-50-promo-june-pd.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "CNET",
-      "publishedAt": "2026-06-29T05:34:38Z"
+      "publishedAt": "2026-06-30T10:17:45Z"
     },
     {
-      "title": "PS6 Hardware Cost Estimated at $900+ - TechPowerUp",
-      "description": "The upcoming Sony PlayStation 6 is slated to launch sometime in 2028, and with recent reports claiming that the ongoing RAM crisis likely won't end or ease up much before then, concerns are mounting about the price of next-gen gaming consoles. Those concerns …",
-      "url": "https://www.techpowerup.com/350383/ps6-hardware-cost-estimated-at-usd-900",
-      "urlToImage": "https://www.techpowerup.com/img/itgBwNCl490MKE2S.jpg",
+      "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen - Eurogamer",
+      "description": null,
+      "url": "https://www.eurogamer.net/new-nintendo-switch-2-lcd-screen-rumours",
+      "urlToImage": null,
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-06-30T09:36:30Z"
+    },
+    {
+      "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs - Eurogamer.net",
+      "description": "Having a promising project like State of Decay 3 in development is seemingly not enough to save Undead Labs from being shuttered, according to new reports.",
+      "url": "https://www.eurogamer.net/undead-labs-xbox-potential-closure-state-of-decay-3",
+      "urlToImage": "https://assetsio.gnwcdn.com/state-of-decay-3-june-2026-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-06-30T09:04:09Z"
+    },
+    {
+      "title": "Apple's biggest leak in years shows the iPhone 18 Pro surviving a drop test - Android Authority",
+      "description": "A massive iPhone 18 Pro leak includes photos and videos of Apple's upcoming flagship undergoing internal durability testing.",
+      "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-18-Pro-Drop-Test-1.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-30T05:02:36Z"
+    },
+    {
+      "title": "Samsung’s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google",
+      "description": "While we’ve yet to get clean renders of the Galaxy Z Fold 8 series, a new leak shows off Samsung’s...",
+      "url": "http://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/fold-8-ultra-case-leak-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-06-30T00:35:00Z"
+    },
+    {
+      "title": "How the Slinky became a classic American toy - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/GMA/Culture/slinky-classic-american-toy/story?id\\\\u003d134258070",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-29T23:58:33Z"
+    },
+    {
+      "title": "Mammoth Structure Found in Deep Space Challenges Our Understanding of The Universe - ScienceAlert",
+      "description": "A massive structure detected in the distant Universe is defying our understanding of how the Universe evolved.",
+      "url": "https://www.sciencealert.com/impossible-structure-in-deep-space-challenges-our-understanding-of-the-universe",
+      "urlToImage": "https://www.sciencealert.com/images/2024/01/big-ring.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2026-06-29T22:25:02Z"
+    },
+    {
+      "title": "The CEO behind Grand Theft Auto VI doesn’t play video games, but analysts say he has put $1.5 billion behind the biggest game launch of the decade - Forex Factory",
+      "description": "After 15 years churning out hit titles like Grand Theft Auto, Red Dead Redemption, and NBA2k, this CEO knows what makes a hit—even if he doesn’t play video games himself. Strauss Zelnick, a Harvard Law School and Harvard Business School graduate, has been CEO…",
+      "url": "https://www.forexfactory.com/news/1406255-the-ceo-behind-grand-theft-auto-vi-doesnt",
+      "urlToImage": "https://www.forexfactory.com/news/1406255-the-ceo-behind-grand-theft-auto-vi-doesnt/image",
+      "source": "Forex Factory",
+      "publishedAt": "2026-06-29T20:34:49Z"
+    },
+    {
+      "title": "Dbrand Forced To Pull Steam Machine Companion Cube - TechPowerUp",
+      "description": "Mere after the reveal of the Valve Steam Machine, accessory maker Dbrand announced that it was releasing the \"Companion Cube,\" a Steam Machine accessory that was modelled after the Portal weighted companion cube storage box. Following massive interest in the …",
+      "url": "https://www.techpowerup.com/350392/dbrand-forced-to-pull-steam-machine-companion-cube",
+      "urlToImage": "https://www.techpowerup.com/img/tFNgsaQn5SnYYmVF.jpg",
       "source": "Techpowerup.com",
-      "publishedAt": "2026-06-29T05:08:02Z"
+      "publishedAt": "2026-06-29T20:34:38Z"
     },
     {
-      "title": "19 Screenshots Of Clueless Dads Who Made A Decision That Was, Well...Not The Best - buzzfeed.com",
-      "description": "I have questions...",
-      "url": "https://www.buzzfeed.com/lizmrichardson/clueless-dad-mistakes-screenshots",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/25/20/thumb/JMpph4gaC.jpg?crop=2500:1309;0,92%26downsize=1250:*",
-      "source": "Buzzfeed",
-      "publishedAt": "2026-06-29T02:31:03Z"
+      "title": "Report: Xbox Has No 'Blanket Plans' To End Funding For Third-Party Game Pass Titles - Pure Xbox",
+      "description": "But some deals may have been put on hold",
+      "url": "https://www.purexbox.com/news/2026/06/report-xbox-has-no-blanket-plans-to-end-funding-for-third-party-game-pass-titles",
+      "urlToImage": "https://images.purexbox.com/0c27604fa5fad/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-06-29T20:16:00Z"
     },
     {
-      "title": "5 iOS 27 Features That Aren't Available On Android (Yet) - bgr.com",
-      "description": "Apple just released the iOS 27 beta for iPhones. Take a look at the features that Android doesn't offer yet but should adopt for future updates.",
-      "url": "https://www.bgr.com/2201211/ios-27-features-that-arent-available-on-android-yet/",
-      "urlToImage": "https://www.bgr.com/img/gallery/5-ios-27-features-that-arent-available-on-android-yet/l-intro-1782346953.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-06-29T01:47:00Z"
-    },
-    {
-      "title": "Nintendo Switch eShop latest sales: lowest prices ever for TMNT: Shredder's Revenge, Tomb Raider 4-6, Witcher 3, more - Nintendo Everything",
-      "description": "A bunch of new sales are up and running on the North American Nintendo Switch eShop. These include the lowest prices ever for Teenage Mutant Ninja Turtles: Shredder’s Revenge, Tomb Raider 4-6 Remastered, The Witcher 3: Wild Hunt, and more. Here’s the full rou…",
-      "url": "https://nintendoeverything.com/nintendo-switch-eshop-latest-sales-lowest-prices-ever-for-tmnt-shredders-revenge-tomb-raider-4-6-witcher-3-more/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/witcher-3-1.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-06-29T00:31:35Z"
-    },
-    {
-      "title": "I grew up in China, but I'm raising my daughter in LA. A trip back to visit family made me rethink my parenting style. - Business Insider",
-      "description": "A visit home to China made Grace Cong Sui realize that the parenting habits she'd adopted in the US differed from those she grew up with.",
-      "url": "https://www.businessinsider.com/chinese-american-travel-to-china-spend-time-family-parenting-style-2026-6#article",
-      "urlToImage": "https://i.insider.com/6a3de1d6e218c3b62535d682?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-29T00:14:16Z"
-    },
-    {
-      "title": "Microsoft called Linux a cancer, now ships its own free distro that's nothing like Ubuntu or Fedora - Windows Latest",
-      "description": "Azure Linux 4.0 is Microsoft's own Fedora-derived Linux distro for Azure cloud workloads. Here is how it compares to Ubuntu, Fedora, and RHEL",
-      "url": "https://www.windowslatest.com/2026/06/29/microsoft-called-linux-a-cancer-now-ships-its-own-free-distro-thats-nothing-like-ubuntu-or-fedora/",
-      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/06/Azure-Linux-4.0-is-Microsofts-own-Linux-distribution-built-for-cloud-servers-and-containers-on-Azure.jpg",
-      "source": "WindowsLatest",
-      "publishedAt": "2026-06-28T22:01:42Z"
-    },
-    {
-      "title": "Suspicious Steam Machine clone from China costs just $688, has a Ryzen 5 5500 with an RX 6750 GRE GPU - TweakTown",
-      "description": "A Chinese listing shows a Steam Machine clone with an RX 6750 GRE for $688, but spec errors and pricing math make this listing look very suspicious.",
-      "url": "https://www.tweaktown.com/news/112387/suspicious-steam-machine-clone-from-china-costs-just-dollars688-has-a-ryzen-5-5500-with-an-rx-6750-gre-gpu/index.html",
-      "urlToImage": "https://static.tweaktown.com/news/1/1/112387_4_suspicious-steam-machine-clone-from-china-costs-just-688-has-ryzen-5-5500-with-an-rx-6750-gre-gpu_full.jpg",
-      "source": "TweakTown",
-      "publishedAt": "2026-06-28T21:45:05Z"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Gets Disappointing Display News Before Release - Forbes",
-      "description": "Samsung's Galaxy Z Fold 8 Ultra won't have a privacy screen despite it being a key Galaxy S26 Ultra feature. Here's what that means for the phone's price ahead of launch.",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/28/samsung-galaxy-z-fold-8-release-date-no-privacy-screen/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6978df294489dacebce28eab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-06-28T21:15:40Z"
-    },
-    {
-      "title": "Dead Or Alive 6 Last Round Fans Can't Believe Wild DLC Situation - Kotaku",
-      "description": "The freshly re-released version of Dead or Alive 6 features bugs that haven't been fixed since 2019, no rollback netcode, and forces players to repurchase some DLC they already own",
-      "url": "https://kotaku.com/dead-or-alive-6-last-round-releases-with-over-400-dlcs-and-forces-owners-to-repurchase-content-they-already-own-2000711242",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/06/Dead-or-Alive-6-Last-Round-official-promo-art-Koei-Tecmo.jpg",
+      "title": "Here's Some Wrestlers Hitting Some Other Wrestlers With A NES - Kotaku",
+      "description": "'What a nerd'",
+      "url": "https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/06/image-10.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-06-28T21:00:35Z"
+      "publishedAt": "2026-06-29T20:15:26Z"
     },
     {
-      "title": "Sony Interactive Entertainment president and CEO hasn't given up on live-service games just yet - Eurogamer",
-      "description": "Despite a raft of high-profile flops and cancellations, Sony Interactive Entertainment president Hideaki Nishino has reaffirmed the company's commitment to live",
-      "url": "https://www.eurogamer.net/sony-still-believes-in-live-service-games",
-      "urlToImage": "https://assetsio.gnwcdn.com/big-question-live-service.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-06-28T20:56:54Z"
+      "title": "Celebrate America's 250th and the World Cup 2026 With a New Hisense TV Under $1,000 Right Now at Best Buy - IGN",
+      "description": "Hisense is celebrating the 4th of July with some of its best TV deals of the year.",
+      "url": "https://www.ign.com/articles/save-big-on-hisense-tvs-just-in-time-for-americas-250th",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/29/copy-of-blogroll-hisense-ur8-1782754791421.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-06-29T20:02:51Z"
     },
     {
-      "title": "PS5 Dominates Xbox for Single Player Games, New Data Suggests - Push Square",
-      "description": "PlayStation gamers prefer playing with themselves",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-dominates-xbox-for-single-player-games-new-data-suggests",
-      "urlToImage": "https://images.pushsquare.com/09dfdfbc33da4/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-06-28T20:55:21Z"
+      "title": "Google VP explains why Googlebook is launching with premium hardware first - Chrome Unboxed",
+      "description": "For years, the narrative surrounding Google’s laptops has been firmly rooted in the budget-heavy language. When most people hear the word Chromebook, their minds immediately drift to affordable, rugged plastic devices built for school classrooms or lightweigh…",
+      "url": "https://chromeunboxed.com/google-vp-explains-why-googlebook-is-launching-with-premium-hardware-first/",
+      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/06/GooglebookLaunchHighEndHardware.webp",
+      "source": "Chrome Unboxed",
+      "publishedAt": "2026-06-29T19:54:01Z"
     },
     {
-      "title": "Grand Theft Auto VI fans rage over ‘greedy’ paywalls, $100 price tag for new game - New York Post",
-      "description": "That’s Grand Theft all right!",
-      "url": "https://nypost.com/2026/06/28/us-news/grand-theft-auto-vi-fans-rage-over-greedy-paywalls-100-price-tag-for-new-game/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/Comp-GTA-6.jpg?quality=75&strip=all&w=1200",
+      "title": "Celebrity esthetician loses her license after client says she was left ‘permanently scarred’ - New York Post",
+      "description": "In November, the California State Board of Barbering and Cosmetology filed its own accusation in administrative court which said Dakar was “engaged in unprofessional conduct,” Nelson sa…",
+      "url": "https://nypost.com/2026/06/29/health/celeb-esthetician-loses-license-after-client-says-she-was-left-permanently-scarred/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-ejjngj5xc-1782747610782.jpg?quality=75&strip=all&1782733224&w=1200",
       "source": "New York Post",
-      "publishedAt": "2026-06-28T20:39:00Z"
+      "publishedAt": "2026-06-29T19:19:00Z"
     },
     {
-      "title": "Angstrom Levy revealed as the third DLC character coming to Invincible Vs Season 1, playable demo at Evo France 2026 - EventHubs",
-      "description": "Universa and The Immortal are the first DLC fighters coming to Invincible Vs Season 1. Those two are both due to be released on June 30, 2026.The identity of the third character for Season 1 was revealed earlier today ...",
-      "url": "https://www.eventhubs.com/news/2026/jun/28/angstrom-levy-invincible-vs-third/",
-      "urlToImage": "https://media.eventhubs.com/images/2026/06/28_angstrom-bnrt.webp",
-      "source": "EventHubs",
-      "publishedAt": "2026-06-28T20:02:18Z"
+      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival - TechCrunch",
+      "description": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
+      "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/storygraph-book-on-insta.jpg?resize=1123,1200",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T19:06:21Z"
     },
     {
-      "title": "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red - Eurogamer",
-      "description": "CD Projekt has rebranded itself as CD Projekt Red – or CD Projekt Red Spółka Akcyjna, to be precise.",
-      "url": "https://www.eurogamer.net/cd-projekt-rebrands-as-cd-projekt-red",
-      "urlToImage": "https://assetsio.gnwcdn.com/cd-projekt-warns-employee-data-might-be-caught-up-in-leak-circulating-online-1623355834767.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-06-28T19:55:14Z"
+      "title": "The Folks Behind Beloved Hacker Tool Flipper Zero Have a New Device for Focus - Gizmodo",
+      "description": "More of a life hack this time.",
+      "url": "https://gizmodo.com/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus-2000778999",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/w-status-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-06-29T18:40:14Z"
     },
     {
-      "title": "I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik",
-      "description": "Despite its 300,000 miles we're not getting rid of the 4Runner anytime soon, so it was worth making a small investment to bring its infotainment into the 2020s.",
-      "url": "https://www.jalopnik.com/2203048/put-apple-carplay-in-2006-toyota-4runner/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/i-put-apple-carplay-in-my-wifes-2006-toyota-4runner-and-im-never-looking-back/l-intro-1782515991.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-06-28T19:25:00Z"
-    },
-    {
-      "title": "I spent weeks thinking my Pixel's camera lens was smeared before discovering the real culprit - Android Police",
-      "description": "I can finally take good pictures again!",
-      "url": "https://www.androidpolice.com/i-spent-weeks-thinking-my-pixels-camera-lens-was-smeared-before-discovering-the-real-culprit/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/pixel-10-pro-xl-camera.JPG?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2026-06-28T19:00:10Z"
-    },
-    {
-      "title": "Only one workout helped older adults lose fat without losing muscle - ScienceDaily",
-      "description": "A six-month study of more than 120 adults in their 70s found that high-intensity interval training (HIIT) may offer a key advantage over other forms of exercise: it helped reduce body fat while preserving valuable muscle mass. While moderate and low-intensity…",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622014305.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/happy-senior-woman-weight-loss-loose-jeans.webp",
-      "source": "Science Daily",
-      "publishedAt": "2026-06-28T18:35:45Z"
+      "title": "The CWA and 3,500+ Unionized Xbox Employees Are Ready to Fight Back Against Xbox’s Reported Imminent Mass Layoffs - Wccftech",
+      "description": "The CWA and over 3,500 unionized Xbox employees are ready to fight against the reported layoffs coming from Microsoft yet again.",
+      "url": "https://wccftech.com/cwa-xbox-unionized-employees-ready-to-fight-back-against-mass-layoffs/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/06/MixCollage-29-Jun-2026-02-08-PM-7310-1920x1080.jpg",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-29T18:10:00Z"
     }
   ]
 }
