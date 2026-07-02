@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2026-07-01T10:08:13.402Z",
+  "updatedAt": "2026-07-02T09:28:55.285Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
-      "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holiday weekend.",
-      "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/dea3c7728dc926da2c683b2e5e3969463b96d428/hub/2026/06/25/5b9e26d5-38d8-400a-9cc8-b5244d0ee6f7/under-50-promo-june-pd.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Microsoft's Xbox Pulls Out of Project Fantasy Video Game From IO Interactive - Bloomberg.com",
+      "description": "The ‘007: First Light’ makers had teamed up with Xbox for the new video game",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/microsoft-s-xbox-pulls-out-of-project-fantasy-video-game-from-io-interactive",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9QGDukna4hM/v1/1200x655.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-06-30T17:49:32Z"
+    },
+    {
+      "title": "StarCraft II 5.0.16 Hotfix Patch Notes - Blizzard News",
+      "description": "We have made some adjustment for Patch 5.0.16 based on feedback and player data.",
+      "url": "https://news.blizzard.com/en-us/article/24289266/starcraft-ii-5-0-16-hotfix-patch-notes",
+      "urlToImage": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
+      "source": "Blizzard.com",
+      "publishedAt": "2026-06-30T17:22:22Z"
+    },
+    {
+      "title": "Google’s killing off Tenor GIF searches in other apps - The Verge",
+      "description": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API.",
+      "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842651/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T17:00:05Z"
+    },
+    {
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane - The Verge",
+      "description": "Microsoft could shut at least five studios as part of big Xbox layoffs starting next week.",
+      "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/yXT9Lzrt7E8-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T17:00:00Z"
+    },
+    {
+      "title": "Sony’s Cooling Neck Device Is Coming to the US, and I Got a First Look - CNET",
+      "description": null,
+      "url": "https://www.cnet.com/health/personal-care/sony-cooling-neck-device-coming-us-first-look/",
+      "urlToImage": null,
       "source": "CNET",
-      "publishedAt": "2026-06-30T10:17:45Z"
+      "publishedAt": "2026-06-30T16:00:00Z"
     },
     {
-      "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen - Eurogamer",
-      "description": null,
-      "url": "https://www.eurogamer.net/new-nintendo-switch-2-lcd-screen-rumours",
-      "urlToImage": null,
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-06-30T09:36:30Z"
+      "title": "Gmail Live Just Arrived on Android and iOS - Droid Life",
+      "description": "Gmail Live is available on Android and iOS to users with Google AI Pro and AI Ultra subscriptions. This is the new way to search - here's how to access.",
+      "url": "https://www.droid-life.com/2026/06/30/gmail-live-android-ios-download/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/06/Gmail-Live-2-1200x628.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-06-30T15:53:33Z"
     },
     {
-      "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs - Eurogamer.net",
-      "description": "Having a promising project like State of Decay 3 in development is seemingly not enough to save Undead Labs from being shuttered, according to new reports.",
-      "url": "https://www.eurogamer.net/undead-labs-xbox-potential-closure-state-of-decay-3",
-      "urlToImage": "https://assetsio.gnwcdn.com/state-of-decay-3-june-2026-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-06-30T09:04:09Z"
+      "title": "Report: Apple Watch Redesign Coming Next Year With New Band System - MacRumors",
+      "description": "A \"major overhaul\" of the Apple Watch's design is due to arrive next year with a new system for connecting bands, according to a known...",
+      "url": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
+      "urlToImage": "https://images.macrumors.com/t/po0ZwGNs8BnlRUCTQZIflqA4FrM=/2000x/article-new/2023/08/series-10-apple-watch-titanium-digital-crown.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-30T15:45:44Z"
     },
     {
-      "title": "Apple's biggest leak in years shows the iPhone 18 Pro surviving a drop test - Android Authority",
-      "description": "A massive iPhone 18 Pro leak includes photos and videos of Apple's upcoming flagship undergoing internal durability testing.",
-      "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-18-Pro-Drop-Test-1.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2026-06-30T05:02:36Z"
+      "title": "'I Don't Know What They're Thinking': Ex-PlayStation Boss Weighs in on Sony's PC Port Backtracking - Push Square",
+      "description": "Porting is all about \"mindshare\"",
+      "url": "https://www.pushsquare.com/news/2026/06/i-dont-know-what-theyre-thinking-ex-playstation-boss-weighs-in-on-sonys-pc-port-backtracking",
+      "urlToImage": "https://images.pushsquare.com/682345c25b07f/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-06-30T15:30:00Z"
     },
     {
-      "title": "Samsung’s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google",
-      "description": "While we’ve yet to get clean renders of the Galaxy Z Fold 8 series, a new leak shows off Samsung’s...",
-      "url": "http://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/fold-8-ultra-case-leak-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Concern Mounts About Rumored ‘State Of Decay 3’ Cancellation At Xbox - Forbes",
+      "description": "Xbox fans are now worried about reports that State of Decay 3 may be cancelled, despite recent previews, ahead of big layoffs.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/30/concern-mounts-about-rumored-state-of-decay-3-cancellation-at-xbox/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a43d6b5a7696b48d42f8af7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-06-30T14:51:55Z"
+    },
+    {
+      "title": "Galaxy Z Fold 8 comparison shot shows massive height difference between phones - 9to5Google",
+      "description": "At this point, it’s clear that Samsung is planning to launch a Galaxy Z Fold 8 Ultra and Z Fold...",
+      "url": "http://9to5google.com/2026/06/30/galaxy-z-fold-8-compare-image-leaked/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-compare.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-06-30T00:35:00Z"
+      "publishedAt": "2026-06-30T14:48:00Z"
     },
     {
-      "title": "How the Slinky became a classic American toy - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/GMA/Culture/slinky-classic-american-toy/story?id\\\\u003d134258070",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-29T23:58:33Z"
-    },
-    {
-      "title": "Mammoth Structure Found in Deep Space Challenges Our Understanding of The Universe - ScienceAlert",
-      "description": "A massive structure detected in the distant Universe is defying our understanding of how the Universe evolved.",
-      "url": "https://www.sciencealert.com/impossible-structure-in-deep-space-challenges-our-understanding-of-the-universe",
-      "urlToImage": "https://www.sciencealert.com/images/2024/01/big-ring.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2026-06-29T22:25:02Z"
-    },
-    {
-      "title": "The CEO behind Grand Theft Auto VI doesn’t play video games, but analysts say he has put $1.5 billion behind the biggest game launch of the decade - Forex Factory",
-      "description": "After 15 years churning out hit titles like Grand Theft Auto, Red Dead Redemption, and NBA2k, this CEO knows what makes a hit—even if he doesn’t play video games himself. Strauss Zelnick, a Harvard Law School and Harvard Business School graduate, has been CEO…",
-      "url": "https://www.forexfactory.com/news/1406255-the-ceo-behind-grand-theft-auto-vi-doesnt",
-      "urlToImage": "https://www.forexfactory.com/news/1406255-the-ceo-behind-grand-theft-auto-vi-doesnt/image",
-      "source": "Forex Factory",
-      "publishedAt": "2026-06-29T20:34:49Z"
-    },
-    {
-      "title": "Dbrand Forced To Pull Steam Machine Companion Cube - TechPowerUp",
-      "description": "Mere after the reveal of the Valve Steam Machine, accessory maker Dbrand announced that it was releasing the \"Companion Cube,\" a Steam Machine accessory that was modelled after the Portal weighted companion cube storage box. Following massive interest in the …",
-      "url": "https://www.techpowerup.com/350392/dbrand-forced-to-pull-steam-machine-companion-cube",
-      "urlToImage": "https://www.techpowerup.com/img/tFNgsaQn5SnYYmVF.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-06-29T20:34:38Z"
-    },
-    {
-      "title": "Report: Xbox Has No 'Blanket Plans' To End Funding For Third-Party Game Pass Titles - Pure Xbox",
-      "description": "But some deals may have been put on hold",
-      "url": "https://www.purexbox.com/news/2026/06/report-xbox-has-no-blanket-plans-to-end-funding-for-third-party-game-pass-titles",
-      "urlToImage": "https://images.purexbox.com/0c27604fa5fad/large.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2026-06-29T20:16:00Z"
-    },
-    {
-      "title": "Here's Some Wrestlers Hitting Some Other Wrestlers With A NES - Kotaku",
-      "description": "'What a nerd'",
-      "url": "https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/06/image-10.jpg",
+      "title": "Viral Marathon Fan Hit Level 45 Without Ever Extracting Or Looting - Kotaku",
+      "description": "Some doubt the person is real, but in our gaming lives we've all known or been a Marathon Steve",
+      "url": "https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/04/marathon-5-1200x675.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-06-29T20:15:26Z"
+      "publishedAt": "2026-06-30T14:34:10Z"
     },
     {
-      "title": "Celebrate America's 250th and the World Cup 2026 With a New Hisense TV Under $1,000 Right Now at Best Buy - IGN",
-      "description": "Hisense is celebrating the 4th of July with some of its best TV deals of the year.",
-      "url": "https://www.ign.com/articles/save-big-on-hisense-tvs-just-in-time-for-americas-250th",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/29/copy-of-blogroll-hisense-ur8-1782754791421.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-06-29T20:02:51Z"
+      "title": "Splatoon Raiders Direct details enemies, weapons, tanks, customization, upgrades, and more - Gematsu",
+      "description": "Nintendo released new information, footage, and screenshots for single-player action shooter Splatoon Raiders during a dedicated Nintendo Direct broadcast today, revealing details on the game&#8217…",
+      "url": "https://www.gematsu.com/2026/06/splatoon-raiders-direct-details-enemies-weapons-tanks-customization-upgrades-and-more",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/06/Splatoon-Raiders_2026_06-30-26_008.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-06-30T14:30:47Z"
     },
     {
-      "title": "Google VP explains why Googlebook is launching with premium hardware first - Chrome Unboxed",
-      "description": "For years, the narrative surrounding Google’s laptops has been firmly rooted in the budget-heavy language. When most people hear the word Chromebook, their minds immediately drift to affordable, rugged plastic devices built for school classrooms or lightweigh…",
-      "url": "https://chromeunboxed.com/google-vp-explains-why-googlebook-is-launching-with-premium-hardware-first/",
-      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/06/GooglebookLaunchHighEndHardware.webp",
-      "source": "Chrome Unboxed",
-      "publishedAt": "2026-06-29T19:54:01Z"
+      "title": "Guns Of Eschaton Is A Western Soulslike FPS Envisioned By The Late Artist Of Half-Life 2 And Dishonored - Game Informer",
+      "description": "The late Victor Antonov envisioned this occult spin on 19th century America.",
+      "url": "https://gameinformer.com/2026/06/30/guns-of-eschaton-is-a-western-soulslike-fps-envisioned-by-the-late-artist-of-half-life-2",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/30/6e12a428/guns-of-eschaton-1.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-06-30T14:23:38Z"
     },
     {
-      "title": "Celebrity esthetician loses her license after client says she was left ‘permanently scarred’ - New York Post",
-      "description": "In November, the California State Board of Barbering and Cosmetology filed its own accusation in administrative court which said Dakar was “engaged in unprofessional conduct,” Nelson sa…",
-      "url": "https://nypost.com/2026/06/29/health/celeb-esthetician-loses-license-after-client-says-she-was-left-permanently-scarred/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-ejjngj5xc-1782747610782.jpg?quality=75&strip=all&1782733224&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-06-29T19:19:00Z"
+      "title": "The Elder Scrolls 4: Oblivion reveals Nintendo Switch 2 physical release with full game on cartridge - Nintendo Everything",
+      "description": "Original: There’s finally some news about the upcoming Nintendo Switch 2 version of The Elder Scrolls 4: Oblivion, as a physical release has now been revealed. To clarify, this is a true physical version with the game on the cartridge. It will not be a game-k…",
+      "url": "https://nintendoeverything.com/the-elder-scrolls-4-oblivion-reveals-nintendo-switch-2-physical-release-with-full-game-on-cartridge/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/The-Elder-Scrolls-4-Oblivion-Remastered-physical.webp",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-06-30T14:16:47Z"
     },
     {
-      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival - TechCrunch",
-      "description": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
-      "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/storygraph-book-on-insta.jpg?resize=1123,1200",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-29T19:06:21Z"
+      "title": "Band Together to Take Down Criminals and Earn Bounty Hunter Bonuses - Rockstar Games",
+      "description": "Bring dangerous criminals across the frontier to heel and earn 3X RDO$, XP, and Role XP dragging in Regular Bounties, and 3X RDO$, XP, and Gold hauling in Legendary and Infamous Bounties.",
+      "url": "https://www.rockstargames.com/newswire/article/k4a252972ok755/band-together-to-take-down-criminals-and-earn-bounty-hunter-bonuses",
+      "urlToImage": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/k4a252972ok755/cb85dc1c08adeda85471d1c762522f5ad9bccfde.jpg",
+      "source": "Rockstargames.com",
+      "publishedAt": "2026-06-30T14:05:19Z"
     },
     {
-      "title": "The Folks Behind Beloved Hacker Tool Flipper Zero Have a New Device for Focus - Gizmodo",
-      "description": "More of a life hack this time.",
-      "url": "https://gizmodo.com/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus-2000778999",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/w-status-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-06-29T18:40:14Z"
+      "title": "Win Fin, Flow Fork, Speed Sniffer: Specialized launches 'fastest road bike ever made' in the S-Works Tarmac SL9 - Cyclingnews",
+      "description": "American brand draws on Formula 1 lap times software to quantify performance beyond just aero and weight",
+      "url": "https://www.cyclingnews.com/bikes/win-fin-flow-fork-speed-sniffer-specialized-launches-fastest-road-bike-ever-made-in-the-s-works-tarmac-sl9/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YzVReE7BYHQc5qqJbJxp5Y-2560-80.png",
+      "source": "Cyclingnews.com",
+      "publishedAt": "2026-06-30T13:14:07Z"
     },
     {
-      "title": "The CWA and 3,500+ Unionized Xbox Employees Are Ready to Fight Back Against Xbox’s Reported Imminent Mass Layoffs - Wccftech",
-      "description": "The CWA and over 3,500 unionized Xbox employees are ready to fight against the reported layoffs coming from Microsoft yet again.",
-      "url": "https://wccftech.com/cwa-xbox-unionized-employees-ready-to-fight-back-against-mass-layoffs/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/06/MixCollage-29-Jun-2026-02-08-PM-7310-1920x1080.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-06-29T18:10:00Z"
+      "title": "Inside White Dwarf 526: A Dawn of War IV special - Warhammer Community",
+      "description": "Dawn of War, Genestealer Cults, and a Battle Report from the World of Legend.",
+      "url": "https://www.warhammer-community.com/articles/ddtxjn5x/inside-white-dwarf-526-a-dawn-of-war-iv-special",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/wd526-june30-1-feature-ogiwzwl7kh.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-06-30T12:57:48Z"
+    },
+    {
+      "title": "Turok: Origins Continues To Look Exceptional In New Gameplay Trailer - Nintendo Life",
+      "description": "Rawr-some",
+      "url": "https://www.nintendolife.com/news/2026/06/turok-origins-continues-to-look-exceptional-in-new-gameplay-trailer",
+      "urlToImage": "https://images.nintendolife.com/037ed884464ae/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-06-30T12:45:00Z"
+    },
+    {
+      "title": "Mary Lucchese Obituary (1929 - 2026) - Elkhart, IN - The Elkhart Truth - Legacy obituary",
+      "description": null,
+      "url": "https://www.legacy.com/us/obituaries/elkharttruth/name/mary-lucchese-obituary?id\\\\u003d61853529",
+      "urlToImage": null,
+      "source": "Legacy.com",
+      "publishedAt": "2026-06-30T12:26:30Z"
     }
   ]
 }

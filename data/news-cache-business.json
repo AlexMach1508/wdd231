@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-07-01T10:08:13.507Z",
+  "updatedAt": "2026-07-02T09:28:55.353Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Samsung, SK Hynix to Spend $520 Billion on Chip Plants in South Korea - WSJ",
+      "title": "American Airlines brings grab-and-go lounge to New York's JFK - CNBC",
       "description": null,
-      "url": "https://www.wsj.com/tech/samsung-sk-hynix-to-spend-520-billion-on-chip-plants-in-south-korea-7d50aab2",
+      "url": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-06-30T10:19:39Z"
-    },
-    {
-      "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know - CNBC",
-      "description": "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.",
-      "url": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139249-17461007952025-05-01t110135z_141929000_rc26x7av6mkm_rtrmadp_0_health-obesity-who.jpeg?v=1746100832&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-06-30T09:00:01Z"
+      "publishedAt": "2026-06-30T18:00:01Z"
     },
     {
-      "title": "What is quantum computing, and why does Trump care? - Mashable",
-      "description": "This technology may or may not be a big deal. Simultaneously.",
-      "url": "https://mashable.com/tech/quantum-computing-trump-eo-expainer",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04BhEntSk9IDtEpzL642xYi/hero-image.fill.size_1200x675.v1782754265.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-06-30T08:59:54Z"
+      "title": "Introducing Claude Sonnet 5 - Anthropic",
+      "description": null,
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "urlToImage": null,
+      "source": "Anthropic.com",
+      "publishedAt": "2026-06-30T17:58:16Z"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb after tech rebounds - Yahoo Finance",
-      "description": "Investors assessed concerns around a potential oil glut and the dollar’s growing strength.",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-after-record-setting-session-224823556.html",
+      "title": "Anthropic releases Claude Science, a product aimed at researchers, the pharma industry - statnews.com",
+      "description": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies.",
+      "url": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/ANT_BRIEFING_SF_JPEG_02-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2026-06-30T17:00:10Z"
+    },
+    {
+      "title": "Nike is set to report earnings after the bell. Here's what to expect - CNBC",
+      "description": "Nike is expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
+      "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297266-1777127244178-gettyimages-2272978539-anotherday208771149_942vh80l.jpeg?v=1777127293&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-06-30T16:00:01Z"
+    },
+    {
+      "title": "Bessent warns gas stations 'we're watching' as Trump demands immediate price cuts - Fox Business",
+      "description": "Scott Bessent warns gasoline retailers the Trump administration is watching pump prices and expects them to pass crude oil savings to consumers.",
+      "url": "https://www.foxbusiness.com/media/bessent-warns-gas-stations-were-watching-threat-trump-demands-immediate-price-cuts",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/scott-bessent-gas-prices-fox-news.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-06-30T15:41:00Z"
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic - TechCrunch",
+      "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/e76ca02d-634a-44c9-a514-ce1b84d4d1ba.jpeg?resize=800,1200",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T15:00:00Z"
+    },
+    {
+      "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue - The Block",
+      "description": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.",
+      "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue",
+      "urlToImage": "https://www.tbstat.com/wp/uploads/2021/07/20210712_Finance_Crypto_Move-1200x675.jpg",
+      "source": "Theblock.co",
+      "publishedAt": "2026-06-30T14:57:18Z"
+    },
+    {
+      "title": "Exclusive: FDA allows ZYN to sell pouches on health benefits - Axios",
+      "description": "The pouches can be marketed as less risky than cigarettes.",
+      "url": "https://www.axios.com/2026/06/30/fda-zyn-health-marketing",
+      "urlToImage": "https://images.axios.com/-L78Iak6cQBcP8RqzJDUPs3Nhpw=/1366x768/smart/2024/12/11/164023-1733935223053.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-06-30T14:56:58Z"
+    },
+    {
+      "title": "US job openings were much higher than expected in May, shrugging off uncertainty from Iran war - CNN",
+      "description": "Good news for job seekers: The number of available positions in the United States increased for the second month in a row.",
+      "url": "https://www.cnn.com/2026/06/30/economy/us-jolts-job-openings-layoffs-may",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280053681.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-06-30T14:18:02Z"
+    },
+    {
+      "title": "Ford recalling more than 741,00 vehicles because of park system issue - ABC News - Breaking News, Latest News and Videos",
+      "description": "Ford is recalling more than 741,000 vehicles in the U.S. because a transmission issue may damage the park system, which could increase the risk of a crash or injury",
+      "url": "https://abcnews.com/Business/wireStory/ford-recalling-74100-vehicles-park-system-issue-134337363",
+      "urlToImage": "https://i.abcnewsfe.com/a/2974e30d-4e48-4492-8f18-6f3d9d18e55f/wirestory_12757a92112e7cf242616f3b97590288_16x9.jpg?w=1600",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-30T14:16:45Z"
+    },
+    {
+      "title": "SMCI Stock: Dell Could Get a Boost From Latest Super Micro Raid - Barron's",
+      "description": "SMCI stock tumbled after Taiwanese investigators raided the company's offices. Dell stock climbed.",
+      "url": "https://www.barrons.com/articles/super-micro-smci-stock-raid-dell-c35f0183",
+      "urlToImage": "https://images.barrons.com/im-17696702/social",
+      "source": "Barron's",
+      "publishedAt": "2026-06-30T14:07:00Z"
+    },
+    {
+      "title": "BP deputy chief to leave company in latest upheaval at oil major - Financial Times",
+      "description": "Carol Howle, the trading chief appointed deputy CEO less than three months ago, is set to retire",
+      "url": "https://www.ft.com/content/17f90a69-7c33-4b6b-a92d-eb944a101251?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9cac305-3e45-4cda-ac7b-c1729639a386.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-06-30T14:00:07Z"
+    },
+    {
+      "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X - The Verge",
+      "description": "At least one X account that posted videos supposedly showing the iPhone 18 Pro undergoing a drop test has been suspended from the platform, after a data breach at an Apple supplier reportedly leaked info on the upcoming phone.",
+      "url": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T13:57:41Z"
+    },
+    {
+      "title": "Comcast Split Shows Bigger Is No Longer Seen As Better In The Media Business - Deadline",
+      "description": "Comcast's plan to split into two smaller companies may mark the unofficial end of \"all under one roof\" consolidation in media.",
+      "url": "http://deadline.com/2026/06/comcast-split-media-business-mergers-tech-rivals-1236970457/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/NBCUniversal-building.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-06-30T13:51:00Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq waver after record-setting session - Yahoo Finance",
+      "description": "Investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-dow-eyes-fresh-record-to-wrap-up-standout-quarter-224823556.html",
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/D660D0D144907F36E2DA9AC91401C523E3D8229EB858444F7CF23F72781B2124/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fec530b50-1eb3-11f0-9fb4-3931ade834e4",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-30T06:56:34Z"
+      "publishedAt": "2026-06-30T13:47:47Z"
     },
     {
-      "title": "Stock futures inch higher after the Dow posts new record close: Live updates - CNBC",
-      "description": "Gains in Alphabet and a pause in U.S.-Iran hostilities boosted the Dow Industrials to its first close above 52,000 on Monday.",
-      "url": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328137-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-5.jpg?v=1782745808&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-06-30T06:53:00Z"
-    },
-    {
-      "title": "Asia stocks rise on upbeat China PMI; tech spurs bumper quarter - Investing.com",
-      "description": "Asia stocks rise on upbeat China PMI; tech spurs bumper quarter",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-china-pmi-offsets-caution-ahead-of-us-jobs-data-4766836",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6R07D_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2026-06-30T04:35:04Z"
-    },
-    {
-      "title": "Trump tells US petrol retailers to reduce prices ‘immediately’ - Al Jazeera",
-      "description": "US president warns of ‘big problems’ if retailers do not cut prices at the pumps, condemns illegal gouging.",
-      "url": "https://www.aljazeera.com/economy/2026/6/30/trump-tells-us-petrol-retailers-to-reduce-prices-immediately",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-24T055128Z_798391932_RC2TBLASQJX2_RTRMADP_3_USA-TRUMP-GASOLINE-1782785675.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-30T04:13:37Z"
-    },
-    {
-      "title": "Tesla crashes into cafe in Simi Valley, killing 1 and injuring 5 - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/tesla-crashes-cafe-simi-valley-killing-1-injuring/story?id\\\\u003d134327301",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-30T03:10:17Z"
-    },
-    {
-      "title": "Helicopter pilot reports near second incident involving remote-controlled plane near JFK Airport - ABC7 New York",
-      "description": "A helicopter pilot says he was almost hit by a remote-controlled plane late this afternoon near John F. Kennedy Airport - the second close call reported on Monday.",
-      "url": "https://abc7ny.com/post/helicopter-pilot-reports-miss-remote-controlled-plane-jfk-airport/19416230/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19416211_062926-wabc-jfk-helicopter-img.jpg?w=1600",
-      "source": "WABC-TV",
-      "publishedAt": "2026-06-30T01:40:20Z"
-    },
-    {
-      "title": "JPY/USD Yen Hits Four-Decade Low in Historic Slide That’s Rattled Japan - Bloomberg.com",
-      "description": "The yen slid to its weakest level against the dollar since 1986, a milestone that will generate unease in Japan and put traders on high alert for authorities wading into the market.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icf7Nii_ZeeA/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-30T01:27:00Z"
-    },
-    {
-      "title": "NYC sending out first pied-à-terre tax notices to owners of luxury second homes - New York Post",
-      "description": "The Mamdani administration has published rules to impose the pied-a-terre tax on thousands of unoccupied second luxury homes in the Big Apple, with the first surcharge notices going out August 30.",
-      "url": "https://nypost.com/2026/06/29/us-news/pied-a-terre-tax-notices-go-out-aug-30-to-owners-of-luxury-second-homes/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/132743241.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-06-30T00:08:00Z"
-    },
-    {
-      "title": "China Loses Out on AI Boom as Stocks Trail by Most Since ‘01 - Bloomberg.com",
-      "description": "After a banner year for Chinese stocks on the back of AI advances, 2026 is not going well.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLFi9G0dM81w/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-06-30T00:05:00Z"
-    },
-    {
-      "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners - Investor's Business Daily",
-      "description": "Dow Jones Futures: The stock market rallied Monday on U.S.-Iran news. Alphabet, Rocket Lab, SpaceX stock and Tesla surged.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/07/Stock-wallstreet-multiflag-01-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-06-29T23:33:00Z"
-    },
-    {
-      "title": "FDA panel on peptides will include experts who promote the unproven chemicals favored by RFK Jr. - PBS",
-      "description": "The Food and Drug Administration is meeting next month to consider easing restrictions on several peptides, a group of unapproved drugs popular with followers of Robert F. Kennedy Jr.",
-      "url": "https://www.pbs.org/newshour/health/fda-panel-on-peptides-will-include-experts-who-promote-the-unproven-chemicals-favored-by-rfk-jr",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-22T184746Z_1899983012_RC2IUKA2N8HB_RTRMADP_3_USA-CONGRESS-HHS-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-06-29T23:31:47Z"
-    },
-    {
-      "title": "What Comcast-NBC Universal Split Faces In D.C.’s Trump-Influenced Regulatory Road - Deadline",
-      "description": "Analysts do not expect that the Comcast split revealed Monday  will require an FCC review, but no structure has been announced.",
-      "url": "http://deadline.com/2026/06/comcast-nbc-universal-split-trump-fcc-1236970465/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/Comcast-Donald-Trump.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-06-29T23:27:00Z"
-    },
-    {
-      "title": "BlackRock Flags Big AI Trade Beyond Nvidia, AMD, Micron - Benzinga",
-      "description": "The next leg of the AI economy may focus on energy security, favoring infrastructure and critical bottlenecks.",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60175793/blackrock-flags-big-ai-trade-beyond-nvidia-amd-micron",
-      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/29/Energy-Shutterstock.png",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-29T21:46:33Z"
-    },
-    {
-      "title": "Woman Gets New Fridge, Upset Driver Won't Wait For Old One - The Daily Dot",
-      "description": "A Georgia woman went viral after expecting a Home Depot delivery driver to wait while she emptied her old refrigerator for removal.",
-      "url": "https://dailydot.com/woman-gets-new-fridge-upset-driver-wont-wait-for-old-one",
-      "urlToImage": "https://lede-admin.dailydot.com/wp-content/uploads/sites/69/2026/06/woman-gets-new-fridge-upset-driver-wont-wait-for-old-one-1.jpg",
-      "source": "The Daily Dot",
-      "publishedAt": "2026-06-29T21:30:00Z"
-    },
-    {
-      "title": "Supermicro (SMCI) Faces Taiwan Raids In Nvidia Chip Smuggling Probe - Yahoo Finance",
-      "description": "Taiwanese authorities have raided Super Micro Computer (NasdaqGS:SMCI) offices and affiliated sites as part of an investigation into alleged smuggling of Nvi...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-smci-faces-taiwan-raids-210731719.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1ED70E29D30AF5D73DAA8E3C0EB4602557BDAF6E931BA938415D9DD89D377AED/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F88228fadcfcf61d75ba1baf2ef33a4f7",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-29T21:07:31Z"
-    },
-    {
-      "title": "Economist: 'Very Notable' A Lot Of Escalation Between U.S. & Iran Happens When Market Is Closed - Forbes",
-      "description": "Henrietta Treyz, co-founder and director of economic policy at Veda Partners, discussed on \"Forbes Newsroom\" the economic & market reactions to the U.S-Iran ceasefire.",
-      "url": "https://www.forbes.com/sites/forbestv/2026/06/29/economist-very-notable-a-lot-of-escalation-between-us--iran-happens-when-market-is-closed/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a42d58f7c8af35fefbf8d81/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-06-29T20:30:51Z"
+      "title": "Judge refuses to dismiss state AGs' Meta child addiction lawsuit - Yahoo",
+      "description": "A federal judge in Oakland let most claims stand, ruling Meta's platform design practices plausibly constitute unfair conduct under consumer protection law",
+      "url": "https://qz.com/meta-state-ags-lawsuit-child-addiction-dismissed-063026",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/32ee31b040d0132d38255d2d288b4f45b19d26713eceb6ec1b26c7700a722f2d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F7dead5f1a97d8ea306a35577f78ac1f9",
+      "source": "Quartz India",
+      "publishedAt": "2026-06-30T13:38:56Z"
     }
   ]
 }
