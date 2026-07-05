@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-07-04T08:48:29.479Z",
+  "updatedAt": "2026-07-05T09:19:20.765Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels - MacRumors",
-      "description": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by...",
-      "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
-      "urlToImage": "https://images.macrumors.com/t/uiwYjKQfINRDAMaflgPT3jZiK1o=/2500x/article-new/2024/12/General-YouTube-Feature-Redux.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-07-03T02:47:37Z"
+      "title": "Square Enix just kicked off its biggest Nintendo Switch 2 and Switch sale ever with massive discounts for Final Fantasy, Dragon Quest, more - Nintendo Everything",
+      "description": "Square Enix has a massive Nintendo Switch 2 and Switch sale running featuring Final Fantasy, Dragon Quest, and more - here's the full list.",
+      "url": "https://nintendoeverything.com/square-enix-just-kicked-off-its-biggest-nintendo-switch-2-and-switch-sale-ever-with-massive-discounts-for-final-fantasy-dragon-quest-more/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Square-Enix-Nintendo-Switch-2-Switch-sale-Final-Fantasy-Dragon-Quest.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-07-03T21:08:32Z"
     },
     {
-      "title": "Sony’s PlayStation disc factory is already being repurposed - The Verge",
-      "description": "After killing off PlayStation discs, Sony’s last disc plant in Thalgau, Austria will retrain all 300 employees to make microlenses instead.",
-      "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072872/110923_new_Playstation_5_Slim_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com",
+      "description": "The motherlode is here. Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8, Galaxy Watch9, and Galaxy Watch...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-prices/-952x498w6/gsmarena_000.jpg",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-07-03T19:41:02Z"
+    },
+    {
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - The Hacker News",
+      "description": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain root on Linux and Android. A patch is out; update",
+      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif",
+      "source": "Internet",
+      "publishedAt": "2026-07-03T19:40:00Z"
+    },
+    {
+      "title": "Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 - Anime News Network",
+      "description": "New alternate “Slayhem” scenario to be about 35 hours long",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/239263/img-6917.jpeg",
+      "source": "Anime News Network",
+      "publishedAt": "2026-07-03T18:44:41Z"
+    },
+    {
+      "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
+      "description": "The Oura Ring 5 In-Depth Review, covering accuracy, new features, size comparisons, and plenty more. I dive into whether or not it's worth it.",
+      "url": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html",
+      "urlToImage": "https://media.dcrainmaker.com/images/2026/07/FinalThumbnail1.jpg",
+      "source": "DC Rainmaker",
+      "publishedAt": "2026-07-03T18:42:41Z"
+    },
+    {
+      "title": "Ferrari Finally Brought Back The Manual—Sort Of - Motor1.com",
+      "description": "The new Ferrari 12Cilindri Manuale is a special trim with a gearbox that offers both manual and automatic driving modes.",
+      "url": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/jlW1Ql/s1/ferrari-12cilindri-manuale.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2026-07-03T18:01:01Z"
+    },
+    {
+      "title": "Amazon quietly updated 2023’s Fire HD 10 tablet with 4GB of RAM - The Verge",
+      "description": "The 32GB model is now available with a bump from 3GB to 4GB of RAM with a small price increase.",
+      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&strip=all&crop=0%2C10.704591657108%2C100%2C78.590816685784&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-07-03T01:05:00Z"
+      "publishedAt": "2026-07-03T17:33:55Z"
     },
     {
-      "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America) - Nintendo Life",
-      "description": "Splashing news",
-      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
-      "urlToImage": "https://images.nintendolife.com/82c178da87a40/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-07-02T23:45:00Z"
-    },
-    {
-      "title": "Sony Discusses Potential Future PlayStation Plus Price Hikes - Insider Gaming",
-      "description": "Sony says it continues to balance value and pricing for PlayStation Plus, addressing the possibility of future subscription increases.",
-      "url": "https://insider-gaming.com/sony-discusses-potential-future-playstation-plus-price-hikes/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2025/12/PlayStation-Plus-2025.jpg",
-      "source": "Insider-gaming.com",
-      "publishedAt": "2026-07-02T22:57:16Z"
-    },
-    {
-      "title": "Amazon Prime members can now play one of the best superhero games around - Polygon.com",
-      "description": "Amazon Prime subscribers get new games each month to stream and play, like DIspatch. Additionally, 12 games are free in JUly to claim.",
-      "url": "https://www.polygon.com/amazon-gaming-luna-july-2026-dispatch-12-free-games/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/dispatch-review-2.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-07-02T20:18:10Z"
-    },
-    {
-      "title": "'Grand Theft Auto 6' Video Game Sales Off To Strong Start - Investor's Business Daily",
-      "description": "Sales of video game \"Grand Theft Auto 6\" from Take-Two Interactive Software appear to be off to a strong start. TTWO stock rose Thursday.",
-      "url": "https://www.investors.com/news/technology/ttwo-stock-gta-6-sales-off-to-strong-start/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/stock-Take-Two-GTA-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-02T20:11:00Z"
-    },
-    {
-      "title": "New PamStealer macOS malware uses clever tradecraft to remain stealthy - Ars Technica",
-      "description": "The discovery underscores the increased effort being poured into Mac infostealers.",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-02T19:38:57Z"
-    },
-    {
-      "title": "Apple's Foldable iPhone Push Gets Bigger - Yahoo Finance",
-      "description": "Suppliers reportedly preparing higher production volume.",
-      "url": "https://finance.yahoo.com/technology/articles/apples-foldable-iphone-push-gets-191639066.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-02T19:16:39Z"
-    },
-    {
-      "title": "Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore - Bloomberg.com",
-      "description": "The director and top designer of Rocksteady’s failed game open up about their experiences",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-02/top-suicide-squad-developers-say-flop-made-them-not-want-to-make-games-anymore",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3DWb9qc8CYs/v0/1200x675.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-02T19:00:34Z"
-    },
-    {
-      "title": "Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera - Android Authority",
-      "description": "Samsung has kept the same front camera for the Galaxy S series since the S23. But a new leak suggests a change is coming.",
-      "url": "https://www.androidauthority.com/galaxy-s27-pro-ultra-front-camera-upgrade-3683931/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-display.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2026-07-02T18:39:20Z"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak - Kotaku",
-      "description": "A listing on the Epic Games Store database points to multiple DLCs",
-      "url": "https://kotaku.com/final-fantasy-7-revelation-might-be-getting-story-dlc-based-on-new-leak-2000712290",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/ff7-a-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-02T17:15:53Z"
-    },
-    {
-      "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere - MacRumors",
-      "description": "Stolen data from Apple manufacturing partner Tata Electronics appears to reveal that the iPhone 18 Pro will use different modem chips depending on...",
-      "url": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/",
-      "urlToImage": "https://images.macrumors.com/t/7FWh5ByskU5VH_lm9RuaVIWhCbs=/1810x/article-new/2021/05/Apple-5G-Modem-Feature-Triad.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-07-02T16:15:41Z"
-    },
-    {
-      "title": "No, Xbox isn't shutting down Obsidian despite fresh rumors - Windows Central",
-      "description": "Xbox's ongoing uncertainty has fueled fresh speculation, but reports suggest Obsidian remains safe despite the latest rumors.",
-      "url": "https://www.windowscentral.com/gaming/xbox/no-xboxs-obsidian-studio-isnt-shutting-down-new-comments-dispute-closure-claims",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NpEjcBmEy4PUPgLshebQXe-1280-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2026-07-02T15:46:37Z"
-    },
-    {
-      "title": "iPhone 18 Pro Max’s huge battery size reportedly leaked - 9to5Mac",
-      "description": "A new report from Macworld based on social media leaks claims to know iPhone 18 Pro Max’s exact battery capacity, and it seems impressive.",
-      "url": "https://9to5mac.com/2026/07/02/iphone-18-pro-maxs-huge-battery-size-reportedly-leaked/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-07-02T15:42:00Z"
-    },
-    {
-      "title": "ONTOS delayed to 2027 - Gematsu",
-      "description": "Publisher Kepler Interactive and developer Frictional Games have delayed science-fiction mystery thriller ONTOS from its previously planned 2026 release window to 2027. It will be available for Pla…",
-      "url": "https://www.gematsu.com/2026/07/ontos-delayed-to-2027",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/ONTOS-Delay_07-02-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-07-02T15:21:17Z"
-    },
-    {
-      "title": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed - Eurogamer.net",
-      "description": "Yoshida has a mixed opinion of Valve's new Steam Machine, which he has shared online.",
-      "url": "https://www.eurogamer.net/shuhei-yoshida-steam-machine",
-      "urlToImage": "https://assetsio.gnwcdn.com/Steam-Machine-Spec-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-07-02T15:09:01Z"
-    },
-    {
-      "title": "Elden Ring Tarnished Pack DLC will cost 4.99 Euros - RPG Site",
-      "description": "Bandai Namco details how to get new Elden Ring classes, weapons, and Torrent skin customizations on PS5, PC, and Xbox.",
-      "url": "https://www.rpgsite.net/news/20828-elden-ring-tarnished-pack-dlc-price-contents-release",
-      "urlToImage": "https://images.rpgsite.net/articles/thumbnail/da49c9a1/20828/original/elden-ring-tarnished-pack-dlc-price.png",
-      "source": "RPG Site",
-      "publishedAt": "2026-07-02T15:01:48Z"
-    },
-    {
-      "title": "Onimusha: Way Of The Sword Will Now Launch Three Weeks Earlier - Game Informer",
-      "description": "The game's release date has been moved forward to the beginning of September.",
-      "url": "https://gameinformer.com/2026/07/02/onimusha-way-of-the-sword-will-now-launch-three-weeks-earlier",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/07/02/c5e2981e/Onimusha_WotS_SS_-_Blade_lock.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-07-02T13:39:14Z"
-    },
-    {
-      "title": "Xbox divided over its future, and do people even buy physical PlayStation games? - The Game Business",
-      "description": "Plus, we’re joined by Midwest Games CEO Ben Kvalo to discuss a flexible future for game publishing",
-      "url": "https://www.thegamebusiness.com/p/xbox-divided-over-its-future-and",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Bzdg!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F204595126%2F6505c1d4-afa8-47c4-bdf5-fafa465e4da3%2Ftranscoded-1782994974.png",
-      "source": "Thegamebusiness.com",
-      "publishedAt": "2026-07-02T13:05:21Z"
-    },
-    {
-      "title": "‘Destiny 2’ Is Now Permanently Disabling Gear It Can’t Patch - Forbes",
-      "description": "Destiny 2 has limited options to fixing issues with the game with just one hotfix left. So it is starting to permanently disable things.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/02/destiny-2-is-now-permanently-disabling-gear-it-cant-patch/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a465f41f41a28087f7e994f/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
+      "title": "‘Destiny 2’ Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
+      "description": "Destiny 2 has a new, overpowered armor set it has just introduced, but it is too late for Bungie to patch it before Destiny stops getting updates.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a47ddb769ff49f48681a742/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
       "source": "Forbes",
-      "publishedAt": "2026-07-02T12:55:17Z"
+      "publishedAt": "2026-07-03T16:10:42Z"
+    },
+    {
+      "title": "This Backrooms Game Outsold Every PS5 Title on PS Store Last Month - Push Square",
+      "description": "You can thank the movie for that",
+      "url": "https://www.pushsquare.com/news/2026/07/this-backrooms-game-outsold-every-ps5-title-on-ps-store-last-month",
+      "urlToImage": "https://images.pushsquare.com/654359545db99/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-07-03T16:00:00Z"
+    },
+    {
+      "title": "Apple Already Testing iOS 27.4 - MacRumors",
+      "description": "Apple's software engineers recently began testing iOS 27.4, according to the MacRumors visitor logs.  Fun fact: Apple tests the \"fall\"...",
+      "url": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/",
+      "urlToImage": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-07-03T15:42:28Z"
+    },
+    {
+      "title": "Steam Machine's \"Red Line of Death\" is giving Xbox 360 fans flashbacks - Windows Central",
+      "description": "A single Steam Machine hardware failure has sparked concern among early adopters, though the issue appears isolated for now.",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/steam-machine-red-line-of-death",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/usmbgVKeJYhL4tgpFyRy4h-1920-80.png",
+      "source": "Windows Central",
+      "publishedAt": "2026-07-03T15:38:54Z"
+    },
+    {
+      "title": "10 More Amazing Indie Games To Wishlist This Indie-Penance Day - Kotaku",
+      "description": "An exquisite array of games of every type, packed with invention and originality",
+      "url": "https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-deckbuilder-4x-2000712495",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/indiepenance250-2-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-07-03T15:30:46Z"
+    },
+    {
+      "title": "Free Xbox game with easy achievements now available on Microsoft Store - TrueAchievements",
+      "description": "The Legend of Fireball is a new idle game that is now free on Xbox and has easy achievements that you can complete in around an hour.",
+      "url": "https://www.trueachievements.com/news/the-legend-of-fireball-free-xbox-game-easy-achievements",
+      "urlToImage": "https://www.trueachievements.com/imgs/176561/free-xbox-game-with-easy-achievements-now-available-from-microsoft-store.jpg",
+      "source": "TrueAchievements",
+      "publishedAt": "2026-07-03T15:17:32Z"
+    },
+    {
+      "title": "Xbox's cheapest Game Pass tier is starting to change things up in 2026 - TrueAchievements",
+      "description": "The cheapest Xbox Game Pass tier, Essential, has started seeing regular changes in 2026 after two years of gradual expansion since the launch of Core.",
+      "url": "https://www.trueachievements.com/news/xbox-game-pass-essential-2026",
+      "urlToImage": "https://www.trueachievements.com/imgs/176560/game-pass-essential-2026.jpg",
+      "source": "TrueAchievements",
+      "publishedAt": "2026-07-03T15:02:06Z"
+    },
+    {
+      "title": "Nintendo Speaking With The Pokémon Company Over Widespread Card Scalping 'Issue' - IGN",
+      "description": "Nintendo's president has been asked to address the current state of Pokémon card shortages and scalping, which many fans feel is worse than ever, despite 10 billion cards being printed last year.",
+      "url": "https://www.ign.com/articles/nintendo-president-says-the-pokemon-company-will-take-measures-to-respond-to-widespread-card-scalping-issues",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/03/gettyimages-2257874242-1783088289737.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-07-03T14:23:10Z"
+    },
+    {
+      "title": "Five dongle DACs for your consideration - Darko.Audio",
+      "description": null,
+      "url": "https://darko.audio/2026/07/five-dongle-dacs-for-your-consideration/",
+      "urlToImage": null,
+      "source": "Darko.Audio",
+      "publishedAt": "2026-07-03T13:35:51Z"
+    },
+    {
+      "title": "Cyberpunk 2077 Now an Indisputable Success at 40 Million Units Sold - Push Square",
+      "description": "Redemption story complete",
+      "url": "https://www.pushsquare.com/news/2026/07/cyberpunk-2077-now-an-indisputable-success-at-40-million-units-sold",
+      "urlToImage": "https://images.pushsquare.com/3c682939012a5/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-07-03T13:30:00Z"
+    },
+    {
+      "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - cnet.com",
+      "description": "We've rounded up almost 100 deals on tech, home essentials and more that won't break the bank.",
+      "url": "https://www.cnet.com/deals/july-4-deals-under-50-2026-07-03/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3c11840803ffab8a510d37d43dd82b187725ae89/hub/2026/07/01/777af715-7a92-4a53-bccc-90554a3fa358/july-4-under-50-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2026-07-03T12:45:45Z"
+    },
+    {
+      "title": "\"We are profoundly disappointed by Sony's decision\" – Game companies express dismay at the end of PlayStation disc production - GamesIndustry.biz",
+      "description": "Atari, Iam8bit, Lost in Cult, and Silver Linings Interactive are among the firms lamenting the loss of physical games",
+      "url": "https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production",
+      "urlToImage": "https://assetsio.gnwcdn.com/PS5-rafal-jedrzejek-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-07-03T12:22:42Z"
+    },
+    {
+      "title": "The best 4th of July sales on tech to shop this weekend: Deals from Apple, Bose, Nintendo and more. - Yahoo Tech",
+      "description": "Pick up smartwatches, headphones, TVs and more on sale this weekend.",
+      "url": "https://tech.yahoo.com/deals/breaking-news/article/the-best-4th-of-july-sales-on-tech-to-shop-this-weekend-deals-from-apple-bose-nintendo-and-more-203911804.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9988f64a0420b4f1e4b43dc53dd72ce73ddf16d1956bf25c969c7d3e0e1d3fe6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F4th-of-july-tech-deals_7631.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-03T12:17:00Z"
     }
   ]
 }
