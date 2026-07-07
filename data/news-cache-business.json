@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2026-07-06T10:57:10.660Z",
+  "updatedAt": "2026-07-07T09:57:32.206Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "The Quest to Make Humanoid Robots Safe Enough for Humans - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-05T09:31:46Z"
+      "title": "Rate hike readjustment and AI hardware momentum: What to watch this week - Yahoo Finance",
+      "description": "A quiet calendar ahead gives the market plenty of space to go off the beaten path this week as investors gear up for the beginning of earnings season.",
+      "url": "https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7D24EF017DAF2994E811705727C6EE99F1F6E79A295596E7337E329E78040225/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F24afcc10-c53d-4940-8925-13f1b497571d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-06T06:19:01Z"
     },
     {
-      "title": "How Bending Spoons built a $23bn tech empire from struggling brands - Financial Times",
-      "description": "Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company",
-      "url": "https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffc374e9e-0d2d-4759-816f-503b428f3bad.jpg?source=next-barrier-page",
+      "title": "Sky To Takeover ITV In $2.1B Deal That Reshapes British Television - Deadline",
+      "description": "Sky has finally sealed a deal to acquire ITV's television network operations, putting it in charge of hit series including 'Love Island.'",
+      "url": "http://deadline.com/2026/07/sky-acquires-itv-love-island-1236973761/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/transparent-Photoroom-1-copy.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-07-06T06:08:00Z"
+    },
+    {
+      "title": "This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon - TechCrunch",
+      "description": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+      "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Peggy-Johnson.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T06:05:29Z"
+    },
+    {
+      "title": "Meta’s woes deepen in India as child abuse ads on Instagram draw government ire - CNBC",
+      "description": "U.S. social media giant Meta is facing an onslaught of regulatory scrutiny in India, which has the largest user base for Facebook, Instagram and WhatsApp.",
+      "url": "https://www.cnbc.com/2026/07/06/meta-instagram-india-warning-whatsapp.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208118-1759756415275-gettyimages-2239127812-AA_06102025_2456576.jpeg?v=1759756434&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T04:58:09Z"
+    },
+    {
+      "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC",
+      "description": "The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.",
+      "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1783302852&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T03:21:00Z"
+    },
+    {
+      "title": "OPEC+ countries say they will expand monthly oil production - Al Jazeera",
+      "description": "Seven OPEC+ members, including Saudi Arabia and Russia, to increase output by 188,000 barrels per day.",
+      "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26186626299538-1783297872_7437b0-1783305174.jpg?resize=1200%2C630&quality=80",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-06T03:05:36Z"
+    },
+    {
+      "title": "Converting car plants to make military drones will fail, warns Japan defence titan - Financial Times",
+      "description": "Mitsubishi Heavy Industries chief says tactic risks being ‘enormous waste’ of taxpayers’ money",
+      "url": "https://www.ft.com/content/31de8d91-4dd4-4dc0-a802-80dabd6ef9a2?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F550a09c9-3284-4142-8f6b-ef366f31d6fc.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
       "source": "Financial Times",
-      "publishedAt": "2026-07-05T04:01:56Z"
+      "publishedAt": "2026-07-06T02:34:15Z"
     },
     {
-      "title": "Uber stalls European food delivery push as it pursues Delivery Hero takeover - Financial Times",
-      "description": "Ride-hailing company will no longer launch in five of its seven planned new markets this year",
-      "url": "https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ffd998c-61af-4514-af51-a80554a576ea.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-05T04:01:56Z"
-    },
-    {
-      "title": "EV Batteries Are Defying Expectations After Hundreds of Thousands of Miles - WSJ",
-      "description": "Industry experts think newfound knowledge of battery durability is a game-changer for consumer confidence in EVs",
-      "url": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
-      "urlToImage": "https://images.wsj.net/im-58558884/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-05T02:00:00Z"
-    },
-    {
-      "title": "Mancunian swagger: The city that became an influencer heaven - BBC",
-      "description": "Influencers are showing the world why they think Manchester is a great place it is to live.",
-      "url": "https://www.bbc.com/news/articles/cp8p8y937ydo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1f55/live/e4563460-60c3-11f1-ba0c-494087e54831.jpg",
+      "title": "Molly Tea: Backlash after firm ordered to pay Louis Vuitton $1.5m - BBC",
+      "description": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
+      "url": "https://www.bbc.com/news/articles/cwykk095yzzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/178e/live/55854630-78d9-11f1-973f-bf9fc4805cda.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-07-05T01:52:18Z"
+      "publishedAt": "2026-07-06T02:19:25Z"
     },
     {
-      "title": "Jim Cramer makes bold buy call on one booming energy stock - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/gev-ge-vernova-jim-cramer-mad-money-lightening-round-buy-signal",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-07-04T23:33:00Z"
+      "title": "EV batteries are lasting much longer than the industry expected - Digital Trends",
+      "description": "Real-world data shows modern EV batteries retain most of their range after hundreds of thousands of miles, easing one of the biggest concerns surrounding electric vehicle ownership.",
+      "url": "https://www.digitaltrends.com/cars/ev-batteries-are-lasting-much-longer-than-the-industry-expected/",
+      "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-06T072843.861.jpg?resize=1200%2C630",
+      "source": "Digital Trends",
+      "publishedAt": "2026-07-06T02:03:04Z"
     },
     {
-      "title": "Michael Burry doubles down on AI chip bubble with Micron short - thestreet.com",
-      "description": "Michael Burry shorted Micron stock. Here's what his numbers and Micron's own financials indicate.",
-      "url": "https://www.thestreet.com/investing/stocks/mu-michael-burry-doubles-down-on-ai-chip-bubble-with-micron-short",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTAyMzYy/michael-burry-turns-bearish-on-micron-stock.jpg?profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-07-04T23:03:00Z"
+      "title": "Fueling system problem forces ground stop at Logan Airport - WCVB",
+      "description": "Trouble with a fueling system forced delays and cancellations of some flights departing Boston Logan International Airport on Sunday night.",
+      "url": "https://www.wcvb.com/article/fueling-problem-boston-logan-july-5-2026/71827860",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/file-photo-boston-logan-airport-gettyimages-2210264291-690d0a2871eda.jpg?crop=1.00xw:0.846xh;0,0.0660xh&resize=1200:*",
+      "source": "WCVB Boston",
+      "publishedAt": "2026-07-06T01:37:00Z"
     },
     {
-      "title": "PECO workers strike starts amid Fourth of July heat wave - WHYY",
-      "description": "The strike centers mainly on wages and benefits. PECO says it has “comprehensive plans” to maintain service during the strike.",
-      "url": "http://whyy.org/articles/peco-workers-strike-july-fourth-philadelphia/",
-      "urlToImage": "https://whyy.org/wp-content/uploads/2026/07/07-04-2026-k-paynter-PECO-strike-6.jpg",
-      "source": "WHYY",
-      "publishedAt": "2026-07-04T22:19:50Z"
-    },
-    {
-      "title": "Exclusive | Passenger on virus-stricken California cruise ship reveals stunning details of chaotic high-seas journey - New York Post",
-      "description": "A serial cruiser excited to go on a 20-day Alaskan voyage was met with stomach-sick passengers, strict disease protocols, and fear on board just days into the trip.",
-      "url": "https://nypost.com/2026/07/04/us-news/passenger-on-virus-stricken-california-cruise-ship-reveals-stunning-details-of-chaotic-high-seas-journey/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-f5e3i9wvp-1783203300502.jpg?quality=75&strip=all&1783188955&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-07-04T22:16:00Z"
-    },
-    {
-      "title": "Trump Ramps Up War on Regulations With 702 Cuts in Pipeline - Bloomberg.com",
-      "description": "The Trump administration is stepping up its efforts to cut red tape across the federal government, releasing a regulatory plan that would eliminate 702 existing administrative rules.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/trump-ramps-up-war-on-regulations-with-702-cuts-in-pipeline",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0OG4yJ._XLI/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-04T21:43:17Z"
-    },
-    {
-      "title": "Michael Dell celebrates America’s 250th birthday with gift to seed the American Dream for millions of kids - Fox Business",
-      "description": "Michael Dell pledged $250 for the first 25 million qualifying children who sign up for Trump Accounts as the federal investment program officially launched on Independence Day.",
-      "url": "https://www.foxbusiness.com/economy/michael-dell-celebrates-americas-250th-birthday-gift-seed-american-dream-millions-kids",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/dell-family-trump-account.png?ve=1&tl=1",
+      "title": "A dad revealed how his family of 5 eats at Chick-fil-A for under $45 - Fox Business",
+      "description": "A father revealed a budgeting hack that shows how ordering 30 nuggets and buttered buns at Chick-fil-A can feed a family of five for under $45.",
+      "url": "https://www.foxbusiness.com/economy/dad-revealed-how-his-family-5-eats-chick-fil-a-under-45",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/09/0/0/chick-fil-a-sandwich.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-07-04T21:31:00Z"
+      "publishedAt": "2026-07-06T01:35:00Z"
     },
     {
-      "title": "California fruit farmer reveals results of his massive nectarine giveaway: 'Something none of us could have predicted' - New York Post",
-      "description": "A California farmer’s giveaway was sparked by a bitter legal battle with agriculture giant Giumarra.",
-      "url": "https://nypost.com/2026/07/04/us-news/california-fruit-farmer-reveals-results-of-his-massive-nectarine-giveaway-something-none-of-us-could-have-predicted/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133282292.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-07-04T20:50:00Z"
+      "title": "Dollar near two-week lows as rate-hike bets recede, embattled yen in focus - CNBC",
+      "description": "The U.S. dollar steadied near a 2-week low on Monday as investors scaled back bets on a Fed rate hike this year, while the yen remained near a 40-year low.",
+      "url": "https://www.cnbc.com/2026/07/06/dollar-near-2-week-low-as-rate-hike-bets-fall-embattled-yen-in-focus.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108105391-1740101853083-gettyimages-2187693077-AFP_36PG6WT.jpeg?v=1783301202&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T01:28:00Z"
     },
     {
-      "title": "Jim Cramer says it’s time to buy one surging space stock - thestreet.com",
-      "description": "Here's what could happen to ASTS shares next within two years",
-      "url": "https://www.thestreet.com/investing/stocks/asts-ast-spacemobile-stock-jim-cramer-buy-signal-not-spacex",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTAyMTI5/jim-cramer_me_030726.jpg?profile=share16-9",
+      "title": "S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC",
+      "description": "The Dow climbed nearly 2% last week, putting it within striking distance of 53,000, a level it has never reached.",
+      "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328139-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-7.jpg?v=1782745808&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T00:22:00Z"
+    },
+    {
+      "title": "Tesla’s blowout quarter comes with a warning sign - thestreet.com",
+      "description": "Tesla stock falls into a classic Wall Street trap",
+      "url": "https://www.thestreet.com/automotive/teslas-blowout-quarter-comes-with-a-warning-sign",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTAyOTY3/business-leaders-meet-chinas-premier.jpg?profile=share16-9",
       "source": "TheStreet",
-      "publishedAt": "2026-07-04T20:00:00Z"
+      "publishedAt": "2026-07-05T23:33:00Z"
     },
     {
-      "title": "We assume tech clusters form around talent, but the AI boom is increasingly chasing cheap power — how Northern Virginia, Iowa and Ireland became data-centre capitals - Silicon Canals",
-      "description": "Where the internet physically lives is being redrawn, and what's pulling it isn't engineers — it's electricity. Across the industry, the biggest new",
-      "url": "https://siliconcanals.com/m-we-assume-tech-clusters-form-around-talent-but-the-ai-boom-is-increasingly-chasing-cheap-power-how-northern-virginia-iowa-and-ireland-became-data-centre-capitals/",
-      "urlToImage": "https://siliconcanals.com/wp-content/uploads/2026/07/image-2026-07-04T221743.961.png",
-      "source": "Silicon Canals",
-      "publishedAt": "2026-07-04T19:16:47Z"
+      "title": "30 Photos Of Super Nostalgic Things That’ll Bring Back A Ton Of Memories To Any Boomer - BuzzFeed",
+      "description": "Back when every fancy party had an elaborate Jell-O dessert, and TV stations stopped broadcasting at midnight.",
+      "url": "https://www.buzzfeed.com/briangalindo/very-nostalgic-photos-for-boomers-fs2",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/26/22/thumb/bSGbIDPa2.jpg?crop=2999:1570;1,0%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-07-05T23:31:02Z"
     },
     {
-      "title": "U.S. debt is a looming crisis today but was once its own revolutionary masterstroke that helped launch a global financial superpower - Fortune - Fortune",
-      "description": "Hamilton recognized how debt can unlock resources that could transform the young republic. But first he had to untangle the mess created by the Revolutionary War.",
-      "url": "https://fortune.com/2026/07/04/us-debt-crisis-revolutionary-war-consolidation-alexander-hamilton-global-financial-superpower/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-82917554-e1783185546749.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-07-04T19:03:00Z"
+      "title": "Missing woman found dead at McDonald’s parking lot in Tampa - WFLA",
+      "description": "Deputies are investigating after a missing woman was found dead in a vehicle Sunday morning.",
+      "url": "https://www.wfla.com/news/hillsborough-county/missing-woman-found-dead-at-mcdonalds-parking-lot-in-hillsborough-county/",
+      "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2026/06/9vN-ty11wLhN.png?w=1280",
+      "source": "WFLA",
+      "publishedAt": "2026-07-05T22:48:11Z"
     },
     {
-      "title": "Remote Montana Town Battles a Luxury Developer Over Land, Water and Identity - WSJ",
-      "description": "While officials welcome projects they say boost the economy, some locals lament their hometown is becoming a ‘playground for the rich’",
-      "url": "https://www.wsj.com/us-news/montana-lakeside-battles-developer-c94714dc",
-      "urlToImage": "https://images.wsj.net/im-66516521/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-04T17:31:44Z"
-    },
-    {
-      "title": "55-year-old sandwich chain closes restaurants with no notice - thestreet.com",
-      "description": "Employees say pay stopped as the chain suddenly shut multiple restaurants.",
-      "url": "https://www.thestreet.com/restaurants/55-year-old-sandwich-chain-closes-restaurants-with-no-notice",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTM0NTY0/sandwiches-lead.jpg?profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-07-04T17:21:06Z"
-    },
-    {
-      "title": "The US now has three microreactors running – and data centers are watching closely - TechSpot",
-      "description": "Unity, a microreactor from Houston-based Deployable Energy, is the latest of the three to reach criticality as part of a Department of Energy effort to accelerate advanced...",
-      "url": "https://www.techspot.com/news/112994-us-now-has-three-microreactors-running-data-centers.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-03-image-17.jpg",
-      "source": "TechSpot",
-      "publishedAt": "2026-07-04T17:18:00Z"
-    },
-    {
-      "title": "What Happens When Medicare Premiums Are No Longer Your Problem? - 24/7 Wall St.",
-      "description": "Medicare is not free, and the bill arrives every month for the rest of your life. The standard Part B premium in 2026 is $202.90 per month, which works out to roughly $2,435 a year per enrollee. Add Part D, a Medigap policy, and the occasional out-of-pocket c…",
-      "url": "https://247wallst.com/personal-finance/2026/07/04/what-happens-when-medicare-premiums-are-no-longer-your-problem/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/06/shutterstock-2672261423-huge-licensed-scaled.jpg",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-07-04T15:50:41Z"
+      "title": "AUDIO: Delta Flight 'felt a big bang' after apparently being hit by firework while landing in Chicago - WPTZ",
+      "description": "Newly released audio reveals how pilots of a Delta Airlines flight reacted when a plane \"made contact with a firework\" while landing in Chicago.",
+      "url": "https://www.mynbc5.com/article/delta-flight-hit-by-firework-chicago-midway/71826191",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/2b438faf-f32f-4f5a-8743-c81d44aff202.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+      "source": "WPTZ",
+      "publishedAt": "2026-07-05T22:32:00Z"
     }
   ]
 }

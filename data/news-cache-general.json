@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2026-07-06T10:57:10.508Z",
+  "updatedAt": "2026-07-07T09:57:31.952Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Eight people shot in Coney Island, including four children, NYPD says - NBC News",
-      "description": "At least eight people, including four children, were shot late Saturday night in Brooklyn’s Coney Island, leaving one woman in critical condition.",
-      "url": "https://www.nbcnews.com/news/us-news/eight-people-shot-coney-island-four-children-nypd-rcna353013",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260705-coney-island-mb-1038-7d3de3.jpg",
+      "title": "Philippine Senate opens the politically volatile impeachment trial of Vice President Sara Duterte - AP News",
+      "description": "The Philippine Senate has started the impeachment trial of Vice President Sara Duterte in a politically volatile event that will unfold with the backdrop of her bitter feud with President Ferdinand Marcos Jr. Thousands of police officers were deployed to secu…",
+      "url": "https://apnews.com/article/philippine-vice-president-sara-duterte-impeachment-trial-6052d854b78881b742e48732b9305509",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3d06fdc/2147483647/strip/true/crop/6000x3998+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2Fdd%2F99ef7363c5f803edf9b4f6938942%2F56845ecca2b4474081caedadc21b39bf",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-06T06:50:00Z"
+    },
+    {
+      "title": "Iran begins a procession through Tehran for Supreme Leader Ayatollah Ali Khamenei's funeral - AP News",
+      "description": "Mourners dressed in black have flooded into Iran’s capital for a procession as part of the funeral of the late Supreme Leader Ayatollah Ali Khamenei. Helicopter images aired on Iranian state television showed a massive crowd stretching from Tehran’s Azadi, or…",
+      "url": "https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-6-2026-88b7f2e4902c18e2c1aa0eb91ad7bcfb",
+      "urlToImage": "https://dims.apnews.com/dims4/default/19cd2f3/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2Fe0%2Fe47febf26e1240fff5d73ed3d8c3%2F51d3338aaeef4079aa955561dab040a5",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-06T06:18:00Z"
+    },
+    {
+      "title": "Taylor Swift’s MSG Wedding: A $20Million Trojan Horse - Forbes",
+      "description": "Taylor Swift's MSG wedding signals a change in how money, independence, and shifting expectations are reshaping marriage for a generation of women.",
+      "url": "https://www.forbes.com/sites/gemmaallen/2026/07/06/taylor-swifts-msg-wedding--a-20million-trojan-horse/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a4af4ad86da393b69190f5b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-07-06T06:17:00Z"
+    },
+    {
+      "title": "Sky To Takeover ITV In $2.1B Deal That Reshapes British Television - Deadline",
+      "description": "Sky has finally sealed a deal to acquire ITV's television network operations, putting it in charge of hit series including 'Love Island.'",
+      "url": "http://deadline.com/2026/07/sky-acquires-itv-love-island-1236973761/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/transparent-Photoroom-1-copy.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-07-06T06:08:00Z"
+    },
+    {
+      "title": "'NATO 3.0': Defense spending pledges face the Trump test - CNBC",
+      "description": "Leaders are expected to focus on whether Europe can turn higher defense spending into military power as Washington pushes allies to shoulder more of the burden.",
+      "url": "https://www.cnbc.com/2026/07/06/nato-summit-turkey-us-trump-defense-spending.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106277886-15754640972732019-12-04t123341z_514449876_rc2cod9oa8x7_rtrmadp_3_nato-summit.jpg?v=1575464177&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T05:00:01Z"
+    },
+    {
+      "title": "Meta’s woes deepen in India as child abuse ads on Instagram draw government ire - CNBC",
+      "description": "U.S. social media giant Meta is facing an onslaught of regulatory scrutiny in India, which has the largest user base for Facebook, Instagram and WhatsApp.",
+      "url": "https://www.cnbc.com/2026/07/06/meta-instagram-india-warning-whatsapp.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208118-1759756415275-gettyimages-2239127812-AA_06102025_2456576.jpeg?v=1759756434&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T04:58:09Z"
+    },
+    {
+      "title": "FIFA lifts US star striker Balogun’s red card suspension at World Cup after Trump calls Infantino - AP News",
+      "description": "U.S. President Donald Trump intervened on behalf of American star forward Folarin Balogun, whose suspension was lifted in a decision that allows him to play in a World Cup match against Belgium on Monday. Balogun, the American leader with three goals, receive…",
+      "url": "https://apnews.com/article/falorin-balogun-suspension-world-cup-e5a5cab5731a916808601be93cb36832",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d2c4767/2147483647/strip/true/crop/4154x2768+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2F66%2F2175d3cca5ca2a1cba99e65e5f7c%2Fdcfaf787729844be879c1950036bfc5c",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-06T04:56:00Z"
+    },
+    {
+      "title": "Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post",
+      "description": "The chaotic scramble to seek shelter at the “Salute to America” event on July Fourth raised questions about whether officials had adequately prepared for severe heat and threatening storms.",
+      "url": "https://www.washingtonpost.com/nation/2026/07/05/trump-says-he-overruled-plan-cancel-america-250th-celebration-amid-evacuations/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CB25T7DYUEI7DMMU7BZN2TWFVI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-06T04:15:15Z"
+    },
+    {
+      "title": "Waymo cars stranded on San Francisco streets as Fourth of July gridlock drains batteries - NBC News",
+      "description": "“Major traffic disruptions, a high volume of travelers, and unplanned road closures contributed to unexpected congestion,” Waymo said.",
+      "url": "https://www.nbcnews.com/news/us-news/waymo-cars-stranded-san-francisco-streets-drain-batteries-rcna353089",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260705-san-francisco-waymo-stranded-rc-1142p-a8b951.jpg",
       "source": "NBC News",
-      "publishedAt": "2026-07-05T09:44:57Z"
+      "publishedAt": "2026-07-06T03:50:00Z"
     },
     {
-      "title": "Taylor Swift’s favorite teacher dies after cancer battle on same day as singer’s wedding to Travis Kelce - Page Six",
-      "description": "Before his death, Schwabe said he believed his former student had found the right partner in Kelce.",
-      "url": "https://pagesix.com/2026/07/05/entertainment/taylor-swifts-teacher-kirk-schwabe-dies-after-cancer-battle-on-same-day-as-singers-msg-wedding-to-travis-kelce/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/133342848.jpg?quality=75&strip=all&w=1200",
-      "source": "Page Six",
-      "publishedAt": "2026-07-05T07:18:00Z"
+      "title": "2026 World Cup: Short-handed England holds off Mexico at home behind 2-minute Jude Bellingham brace - Yahoo Sports",
+      "description": "A straight red card early in the second half brought England down to 10 players, but the Three Lions were still able to overpower El Tri in Mexico City to...",
+      "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-short-handed-england-holds-off-mexico-at-home-behind-2-minute-jude-bellingham-brace-030847028.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1WZTziZYbK68he5XdlVlVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/84352377-9e1e-4f57-b5d2-4f1d6c2f1272",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-06T03:19:00Z"
     },
     {
-      "title": "Severe weather disrupts US’s 250th celebrations - Al Jazeera",
-      "description": "President Trump describes milestone as ‘one of the most joyous and glorious’ in US’s history in campaign style speech.",
-      "url": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260705__2284699277__v1__HighRes__ATributeToAmericaOnTheNationalMallInDCCelebr-1-1783231045.jpg?resize=1200%2C630",
+      "title": "OPEC+ countries say they will expand monthly oil production - Al Jazeera",
+      "description": "Seven OPEC+ members, including Saudi Arabia and Russia, to increase output by 188,000 barrels per day.",
+      "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26186626299538-1783297872_7437b0-1783305174.jpg?resize=1200%2C630&quality=80",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-07-05T05:45:19Z"
+      "publishedAt": "2026-07-06T03:05:36Z"
     },
     {
-      "title": "Horoscope for Sunday, July 05, 2026 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/07/05/horoscopes-today-sunday-july-05-2026",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2026-07-05T05:01:00Z"
-    },
-    {
-      "title": "World Cup 2026: England head coach Thomas Tuchel on Mexico match - BBC",
-      "description": "Thomas Tuchel dismisses concerns over England's treatment in Mexico, saying it has been \"nicer than I expected\" and that home fans are \"friendly and respectful\".",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2827pyxlo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/53e9/live/dde8f140-7800-11f1-b528-69433fdf608f.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-05T02:15:19Z"
-    },
-    {
-      "title": "EV Batteries Are Defying Expectations After Hundreds of Thousands of Miles - WSJ",
-      "description": "Industry experts think newfound knowledge of battery durability is a game-changer for consumer confidence in EVs",
-      "url": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
-      "urlToImage": "https://images.wsj.net/im-58558884/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-05T02:00:00Z"
-    },
-    {
-      "title": "Kylian Mbappé of France scores 19th career World Cup goal, 1 behind Golden Boot rival Messi - AP News",
-      "description": "Kylian Mbappé of France has scored his 19th career World Cup goal. He found the net on a penalty kick in the Round of 16 against Paraguay on Saturday and moved within one of record holder Lionel Messi of Argentina. Mbappé stutter-stepped on his way to his 19t…",
-      "url": "https://apnews.com/article/kylian-mbappe-france-world-cup-goal-messi-de578e2297fec01dae610a31ad70dd94",
-      "urlToImage": "https://dims.apnews.com/dims4/default/91b67e7/2147483647/strip/true/crop/5327x3550+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2Ffe%2F5131a9ef03cfecf358a6247408c1%2F7bb67ed692e14614a83bda8dff677e9b",
+      "title": "Russian missile and drone attack on Ukraine’s capital kills at least 3 - AP News",
+      "description": "Russia has launched waves of missiles and drones targeting Ukraine's capital, killing at least seven people. The attack began overnight and was still underway Monday morning. It caused a residential building in Kyiv's Podilskyi district to partially collapse.…",
+      "url": "https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d8a889d/2147483647/strip/true/crop/5394x3594+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2F21%2F83d5cdb77de0f81202b686f111b4%2Fcb99f78703484f84a92d8a7405d376f0",
       "source": "Associated Press",
-      "publishedAt": "2026-07-05T01:04:00Z"
+      "publishedAt": "2026-07-06T02:07:48Z"
     },
     {
-      "title": "Taylor Swift Wedding Details: Adam Sandler, Blank Space Handkerchiefs - The Hollywood Reporter",
-      "description": "Jason Kelce's daughters reportedly served as flower girls, with Swift's aunt, Robin Gentry, sharing to the media as she left the event, \"They cried, and they laughed, and they danced, and they hugged, and they kissed.\"",
-      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-travis-kelce-wedding-blank-space-hankies-1236637926/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2004247307.jpg?crop=0px%2C214px%2C3534px%2C1977px&resize=1440%2C810",
+      "title": "Erling Haaland cements superstar status, scores twice in Norway’s 2-1 win over Brazil - NBC News",
+      "description": "Haaland delivered both goals as Norway defeated five-time champion Brazil and advanced to the World Cup quarterfinals for the first time in its history.",
+      "url": "https://www.nbcnews.com/sports/soccer/erling-haaland-norway-brazil-world-cup-soccer-rcna353080",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260705-haaland-norway-world-cup-ww-1524-b41355.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-07-06T01:25:00Z"
+    },
+    {
+      "title": "NYC health officials warn Central Park visitors after Legionnaires’ outbreak grows on Upper East Side - Fox News",
+      "description": "The outbreak is centered around several Upper East Side ZIP codes, with health officials warning residents and recent visitors to seek care quickly if they develop flu-like symptoms.",
+      "url": "https://www.foxnews.com/us/nyc-health-officials-warn-central-park-visitors-legionnaires-outbreak-grows-upper-east-side",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/new-yorks-upper-east-side.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-07-06T01:19:21Z"
+    },
+    {
+      "title": "Kansas City Chiefs Coach Andy Reid Shares Adam Sandler’s Advice to Taylor Swift and Travis Kelce - The Hollywood Reporter",
+      "description": "“In a simple, hysterical way, he was phenomenal,” Reid said of Sandler.",
+      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/kansas-city-chiefs-coach-andy-reid-says-adam-sandlers-advice-to-taylor-swift-and-travis-kelce-1236638453/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/TT-Adam-Getty-H-2026.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2026-07-05T00:49:36Z"
+      "publishedAt": "2026-07-06T01:09:09Z"
     },
     {
-      "title": "Ohtani, Freeman lead Dodgers' four starters in All-Star Game - ESPN",
-      "description": "Shohei Ohtani will be joined by three Los Angeles teammates in the NL's starting lineup, while the Dodgers, Braves and Phillies will each send five players to the July 14 All-Star Game.",
-      "url": "https://www.espn.com/mlb/story/_/id/49272621/ohtani-freeman-lead-dodgers-four-starters-all-star-game",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0702%2Fr1683416_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-07-05T00:45:00Z"
+      "title": "S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC",
+      "description": "The Dow climbed nearly 2% last week, putting it within striking distance of 53,000, a level it has never reached.",
+      "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328139-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-7.jpg?v=1782745808&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T00:22:00Z"
     },
     {
-      "title": "Ticket prices plunge for USA-Belgium World Cup last-16 match - Al Jazeera",
-      "description": "The price for the final 2026 World ⁠Cup match in Seattle hit nearly $4,000 but dipped as low as $1,549 ⁠on Tuesday.",
-      "url": "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T211139Z_1444087196_UP1EM711MVDGR_RTRMADP_3_SOCCER-WORLDCUP-BEL-SEN-1783207089.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-04T23:40:24Z"
+      "title": "'Minions & Monsters' knocks out 'Toy Story 5' out in animated brawl at Fourth of July box office - Entertainment Weekly",
+      "description": "It was an animated blood bath at the box office this weekend, and though 'Minions & Monsters' bested 'Toy Story 5,' its $36.4 million premiere marks a franchise low by a wide margin.",
+      "url": "https://ew.com/minions-and-monsters-beats-toy-story-5-in-animated-bout-at-july-4-box-office-12012191",
+      "urlToImage": "https://ew.com/thmb/rWOEwi3zz08IfQPGGZiGfDKdPCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/_Minions-and-Monsters-Toy-Story-5-070526-e0c7a09c34a643eab0b47bedd569eca1.jpg",
+      "source": "Entertainment Weekly",
+      "publishedAt": "2026-07-06T00:17:36Z"
     },
     {
-      "title": "PECO workers strike starts amid Fourth of July heat wave - WHYY",
-      "description": "The strike centers mainly on wages and benefits. PECO says it has “comprehensive plans” to maintain service during the strike.",
-      "url": "http://whyy.org/articles/peco-workers-strike-july-fourth-philadelphia/",
-      "urlToImage": "https://whyy.org/wp-content/uploads/2026/07/07-04-2026-k-paynter-PECO-strike-6.jpg",
-      "source": "WHYY",
-      "publishedAt": "2026-07-04T22:19:50Z"
+      "title": "After decades in Silicon Valley, a former Apple and Amazon engineer started an AI chip company in his mid-50s - Business Insider",
+      "description": "The AI boom has produced a new generation of founders racing to build companies around emergent technoloy.",
+      "url": "https://www.businessinsider.com/former-apple-amazon-engineer-starts-ai-chip-company-50s-transxform-2026-7#article",
+      "urlToImage": "https://i.insider.com/6a38f82bf4bed3c6152cc7a4?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-06T00:00:13Z"
     },
     {
-      "title": "Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch - Spaceflight Now",
-      "description": null,
-      "url": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/",
-      "urlToImage": null,
-      "source": "Spaceflight Now",
-      "publishedAt": "2026-07-04T21:57:45Z"
-    },
-    {
-      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia - DW.com",
-      "description": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
-      "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574",
-      "urlToImage": "https://static.dw.com/image/77830722_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-04T21:50:16Z"
-    },
-    {
-      "title": "Michael Dell celebrates America’s 250th birthday with gift to seed the American Dream for millions of kids - Fox Business",
-      "description": "Michael Dell pledged $250 for the first 25 million qualifying children who sign up for Trump Accounts as the federal investment program officially launched on Independence Day.",
-      "url": "https://www.foxbusiness.com/economy/michael-dell-celebrates-americas-250th-birthday-gift-seed-american-dream-millions-kids",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/dell-family-trump-account.png?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-04T21:31:00Z"
-    },
-    {
-      "title": "Pope visits US ambassador on July 4 after prayers at Lampedusa cemetery for migrant victims - AP News",
-      "description": "Pope Leo XIV is spending the Fourth of July in the epicenter of Europe’s migration debate. While the United States marks the 250th anniversary of the Declaration of Independence with rallies, parties and fireworks, history’s first U.S.-born pope traveled to t…",
-      "url": "https://apnews.com/article/pope-july-4-immigration-migrants-lampedusa-1dd8b2964586f719e99faf4aaeaaf205",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fa74654/2147483647/strip/true/crop/2299x1532+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F16%2Fbc684ee2745316767c7a68919d7a%2Fd2c875b5271c4344aac9af562d6cddbe",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-04T21:08:00Z"
-    },
-    {
-      "title": "Rep. Nancy Pelosi's husband, Paul, faces charge for Napa County hit-and-run - KCRA",
-      "description": "Paul Pelosi, the husband for former House Speaker Nancy Pelosi, is facing a hit-and-run charge, according to the Napa County Sheriff's Office.",
-      "url": "https://www.kcra.com/article/nancy-pelosi-husband-paul-charge-napa-county-hit-and-run/71823395",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/90750e29-7818-4544-be63-168d7a426ba6.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-      "source": "KCRA Sacramento",
-      "publishedAt": "2026-07-04T20:06:00Z"
-    },
-    {
-      "title": "Iran begins dayslong funeral for Supreme Leader Ayatollah Ali Khamenei, killed in war - AP News",
-      "description": "The funeral for Iran's Supreme Leader Ayatollah Ali Khamenei has started, months after his death in an airstrike on the first day of the war. The body of Khamenei, who was 86, is on display in Tehran, Iran’s capital, on Saturday at the start funeral commemora…",
-      "url": "https://apnews.com/article/khamenei-funeral-supreme-leader-iran-us-war-july-4-2026-f7168b934d457bdb8b8a2da855d1d03a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/496621f/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F55%2F4c5a137f3c50ae6dd14a6975dd8f%2Fc25acee5a4ca4f43a6b40287e4f2b14d",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-04T20:02:00Z"
+      "title": "Taylor Swift's Wedding Bouquet Caught By KC Chiefs Player's Sister - TMZ",
+      "description": "Taylor Swift's bouquet toss has a winner ... and it stayed in the Chiefs family.",
+      "url": "https://www.tmz.com/2026/07/05/chiefs-trey-smith-sister-catches-taylor-swift-bouquet/",
+      "urlToImage": "https://imagez.tmz.com/image/3b/16by9/2026/07/05/3ba2ebbde97a4b9c9be987562f7dce39_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2026-07-05T23:30:05Z"
     }
   ]
 }
