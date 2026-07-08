@@ -1,151 +1,87 @@
 {
-  "updatedAt": "2026-07-07T09:57:32.300Z",
+  "updatedAt": "2026-07-08T08:41:29.732Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Mexico’s World Cup run ends with loss to England at Estadio Azteca - NPR",
-      "description": "Playing at altitude with the passionate backing of 80,824 fans at Estadio Azteca, and with a man advantage for most of the second half, Mexico scored twice but could never equalize and lost 3-2.",
-      "url": "https://www.npr.org/2026/07/06/g-s1-132079/mexico-world-cup-ends-loss-england",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5775x3248+0+301/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fe4%2F37e1502d411b9463bf955d1147e7%2Fap26187129961199.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-07-06T05:32:57Z"
+      "title": "Belgium ends the USA’s World Cup dream with a dominant 4-1 win in the Round of 16 - CNN",
+      "description": "The summer of soccer love is over for the USA’s World Cup squad after losing 4-1 to Belgium.",
+      "url": "https://www.cnn.com/2026/07/06/sport/live-news/usa-belgium-world-cup-score",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284972601.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-07-07T03:48:00Z"
     },
     {
-      "title": "FIFA lifts US star striker Balogun’s red card suspension at World Cup after Trump calls Infantino - AP News",
-      "description": "U.S. President Donald Trump intervened on behalf of American star forward Folarin Balogun, whose suspension was lifted in a decision that allows him to play in a World Cup match against Belgium on Monday. Balogun, the American leader with three goals, receive…",
-      "url": "https://apnews.com/article/falorin-balogun-suspension-world-cup-e5a5cab5731a916808601be93cb36832",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d2c4767/2147483647/strip/true/crop/4154x2768+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2F66%2F2175d3cca5ca2a1cba99e65e5f7c%2Fdcfaf787729844be879c1950036bfc5c",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-06T04:56:00Z"
+      "title": "Carli Lloyd critical of USMNT, Christian Pulisic following World Cup exit - Awful Announcing",
+      "description": "Fox Sports analyst Carli Lloyd didn't pull any punches following the match, saying that it felt like the American side lost before it even began.",
+      "url": "https://awfulannouncing.com/soccer/carli-lloyd-usmnt-christian-pulisic-world-cup-loss-belgium.html",
+      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/07/2026-07-07T021323Z_83488932_UP1EM77066AAR_RTRMADP_3_SOCCER-WORLDCUP-USA-BEL-scaled-e1783394361852.jpg",
+      "source": "Awful Announcing",
+      "publishedAt": "2026-07-07T03:27:06Z"
     },
     {
-      "title": "Points and payouts: See what players took home from John Deere Classic - PGA Tour",
-      "description": "Chris Gotterup claims 500 FedExCup points, $1.58 million with win at TPC Deere Run",
-      "url": "https://www.pgatour.com/article/news/betting-dfs/2026/07/05/prize-money-purse-payouts-breakdown-fund-john-deere-classic-tpc-deere-run",
-      "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2026/07/05/Gotterup_PnP_topper.jpg",
-      "source": "pgatour.com",
-      "publishedAt": "2026-07-06T04:32:37Z"
-    },
-    {
-      "title": "NASCAR Cup Series Chicagoland race live updates, highlights, leaderboard - The Tennessean",
-      "description": "The NASCAR Cup Series season continues with the eero 400 at Chicagoland.",
-      "url": "https://www.tennessean.com/story/sports/nascar/2026/07/05/nascar-chicagoland-race-leaderboard-live-updates-highlights-cup-series-2026-race/90803151007/",
-      "urlToImage": "https://www.tennessean.com/gcdn/authoring/authoring-images/2026/07/06/PNAS/90816636007-usatsi-29336944.jpg?crop=3599,2025,x0,y187&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "Tennessean",
-      "publishedAt": "2026-07-06T03:25:00Z"
-    },
-    {
-      "title": "Erling Haaland cements superstar status, scores twice in Norway’s 2-1 win over Brazil - NBC News",
-      "description": "Haaland delivered both goals as Norway defeated five-time champion Brazil and advanced to the World Cup quarterfinals for the first time in its history.",
-      "url": "https://www.nbcnews.com/sports/soccer/erling-haaland-norway-brazil-world-cup-soccer-rcna353080",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260705-haaland-norway-world-cup-ww-1524-b41355.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-07-06T01:25:00Z"
-    },
-    {
-      "title": "Eury Pérez pulled after seven perfect innings - NBC Sports",
-      "description": "Eury Pérez threw seven perfect innings to pick up a win in a 9-8 victory for the Marlins over the Athletics on Sunday.",
-      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-05/eury-perez-pulled-after-seven-perfect-innings",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/398a627/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2F0f%2F29acc13045f7b7ebb5ef400358b5%2Fperez-eury.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-07-06T01:17:26Z"
-    },
-    {
-      "title": "Neymar quits international football after Brazil’s World Cup knockout loss - Al Jazeera",
-      "description": "The injury-plagued striker converted a penalty but failed to take his team into the last 16 of the FIFA World Cup.",
-      "url": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-05T221636Z_417786062_UP1EM751PVNUM_RTRMADP_3_SOCCER-WORLDCUP-BRA-NOR-1783299555.jpg?resize=1920%2C1440",
+      "title": "‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row - Al Jazeera",
+      "description": "Football experts, officials warn of ‘dangerous precedent’ set by FIFA after U-turn on red card for USA forward Balogun.",
+      "url": "https://www.aljazeera.com/sports/2026/7/7/maga-agenda-on-display-fifa-trump-slammed-amid-balogun-red-card-row",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4c0d2c-1783369004_50f053-1783371614.jpg?resize=1200%2C630&quality=80",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-07-06T01:07:30Z"
+      "publishedAt": "2026-07-07T01:48:51Z"
     },
     {
-      "title": "Brazil left to second-guess penalty kick choice after earliest World Cup exit since 1990 - AP News",
-      "description": "Vinícius Júnior had the ball at the penalty spot, a perfect chance to give Brazil the lead. And he handed it to Bruno Guimarães. And by the time Neymar took and made Brazil’s second penalty kick, it was too late for the five-time World Cup champions. Guimarãe…",
-      "url": "https://apnews.com/article/world-cup-brazil-loss-norway-a9f993fdb5b0a3ab4be9116fba642119",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5e57869/2147483647/strip/true/crop/5543x3693+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F9d%2F2ddacae06c5b5b172bb5aec2b009%2F2b481a784d5f4ac793bdcc9b98791f50",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-06T00:49:00Z"
-    },
-    {
-      "title": "White Sox 7, Guardians 6: Splitting the hard way - Sox Machine",
-      "description": "The White Sox had one job at Progressive Field this holiday weekend: Split the series and return from Cleveland with a one-game lead intact. And they did. Now, you might have qualms with how they did it, getting walked off in the first two games, then ending …",
-      "url": "https://soxmachine.com/2026/07/white-sox-7-guardians-6-splitting-the-hard-way",
-      "urlToImage": "https://lede-admin.soxmachine.com/wp-content/uploads/sites/62/2019/03/widget-soxwin.png",
-      "source": "Soxmachine.com",
-      "publishedAt": "2026-07-05T23:09:00Z"
-    },
-    {
-      "title": "The get-in price for US World Cup knockout match in Seattle - Seattle Sports",
-      "description": "Here's an updated look at the get-in price for Monday night's World Cup round-of-16 match between the United States and Belgium in Seattle.",
-      "url": "https://sports.mynorthwest.com/seattle-sports-pit/get-in-price-us-belgium-world-cup-knockout-match-seattle",
-      "urlToImage": "https://sports.mynorthwest.com/wp-content/uploads/2026/07/World-Cup-Seattle-general-view-United-States-Australia-2026-Getty-900.jpg",
-      "source": "MyNorthwest.com",
-      "publishedAt": "2026-07-05T22:22:09Z"
-    },
-    {
-      "title": "Chris Gotterup’s winning WITB: 2026 John Deere Classic - GolfWRX",
-      "description": "Drivers: Ping G440 LST (7.5 degrees) Shaft: Project X HZRDUS Smoke Grey 6.5 TX 70 Mini driver: TaylorMade BRNR (13.5 degrees) Shaft: Project X HZRDUS Black TX 80 7-wood: TaylorMade Qi4D (21 degrees) Shaft: Mitsubishi Diamana WB 83 TX Irons: Bridgestone Tour B…",
-      "url": "https://golfwrx.com/781248/chris-gotterups-winning-witb-2026-john-deere-classic/",
-      "urlToImage": "https://storage.googleapis.com/prod-golfwrx-backup/wp-content/uploads/2026/07/gotterup-putter-1000x600.jpeg",
-      "source": "Golfwrx.com",
-      "publishedAt": "2026-07-05T22:05:56Z"
-    },
-    {
-      "title": "Cape Verde's soccer team returns home to huge welcome. The basketball team also has World Cup hopes - AP News",
-      "description": "Cape Verde is celebrating a sports-filled weekend. The national soccer team returned home Sunday as heroes after reaching the World Cup round of 32 and taking Argentina into extra time. The men's basketball team also clinched a spot in the second round of Wor…",
-      "url": "https://apnews.com/article/cape-verde-world-cup-return-home-03122aef492218bb83af1dcb81df6fce",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5bd761b/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F43%2F0d%2F9b9548b8ef151164d448ce44790a%2Fc195659e1c254863b946973f56f81e7b",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-05T20:22:00Z"
-    },
-    {
-      "title": "VeeKay wows with Mid-Ohio form for JHR - RACER - Racing News",
-      "description": "That was Rinus VeeKay in the unheralded No. 76 Juncos Hollinger Racing Chevy fending off Alex Palou and chasing Kyle Kirkwood to the finish line at Mid-Ohio where the Dutchman earned the team’s best-ever result on a road course and matched his run to fourth i…",
-      "url": "https://racer.com/2026/07/05/veekay-wows-with-mid-ohio-form-for-jhr",
-      "urlToImage": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/bltf775dce769815da8/6a4ab8af952d858141876149/Rinus_VeeKay_-_Honda_Indy_200_at_Mid-Ohio_-_By_Matt_Fraver_Ref_Image_Without_Watermark_m159453.jpg?environment=live&width=1200&height=630&fit=crop",
-      "source": "RACER",
-      "publishedAt": "2026-07-05T19:56:00Z"
-    },
-    {
-      "title": "Naomi Osaka beats Aryna Sabalenka to reach Wimbledon quarters - ESPN",
-      "description": "In a matchup of two of the hardest hitters on tour, Naomi Osaka outslugged top-ranked Aryna Sabalenka 6-2, 7-6 (2) to reach the Wimbledon quarterfinals for the first time.",
-      "url": "https://www.espn.com/tennis/story/_/id/49278057/naomi-osaka-overpowers-aryna-sabalenka-reach-wimbledon-quarterfinals",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0705%2Fr1684871_1296x729_16%2D9.jpg",
+      "title": "Celtics' Stevens cites 'challenging' path to explain Brown trade - ESPN",
+      "description": "Brad Stevens said Monday that the Celtics traded Jaylen Brown to keep the team competitive and add more optionality with draft assets.",
+      "url": "https://www.espn.com/nba/story/_/id/49290824/celtics-stevens-cites-challenging-path-explain-brown-trade",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0706%2Fr1685600_1296x729_16%2D9.jpg",
       "source": "ESPN",
-      "publishedAt": "2026-07-05T18:15:00Z"
+      "publishedAt": "2026-07-06T23:33:00Z"
     },
     {
-      "title": "Djokovic Breaks Federer's Record in Win vs. Safiullin, Updated Wimbledon Tennis Bracket and Results - Bleacher Report",
-      "description": "Novak Djokovic is headed to his ninth straight Wimbledon quarterfinal after beating Roman Safiullin in four sets, 7-6(6), 6-3, 3-6, 6-3 on Sunday.",
-      "url": "https://bleacherreport.com/articles/25451320-djokovic-breaks-federers-record-win-vs-safiullin-updated-wimbledon-tennis-bracket-and-results",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-07/wimbledon_bracket_16x9.jpg?w=3800&h=2000",
-      "source": "Bleacher Report",
-      "publishedAt": "2026-07-05T16:29:21Z"
+      "title": "Terrion Arnold’s hearing regarding monitoring device was postponed until Friday - NBC Sports",
+      "description": "A hearing on whether free-agent cornerback Terrion Arnold will be required to wear an ankle monitor while on home confinement pending trial of eight felony charges had been scheduled for Monday.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnolds-hearing-regarding-monitoring-device-was-postponed-until-friday",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/3496c70/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2Ff8%2Fad4a5bd14a3a8ac5b514e33dbf27%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26846582",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-07-06T22:46:15Z"
     },
     {
-      "title": "MLB All-Star Game 2026 rosters: Biggest snubs, from Brice Turang to Sonny Gray - CBS Sports",
-      "description": "Injuries and other replacements will free up spots for some of these players, but they should have been on the list in the first place",
-      "url": "https://www.cbssports.com/mlb/news/mlb-all-star-game-2026-rosters-snubs-brice-turang-sonny-gray-willson-contreras-zack-wheeler/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/07/05/ea61cd60-1762-479c-82b6-ed5474b90f99/thumbnail/1200x675/117f647586c162d85c9b91d0b201b9a4/turang-getty.png",
-      "source": "CBS Sports",
-      "publishedAt": "2026-07-05T15:34:00Z"
+      "title": "Why Paramount is keeping Conor McGregor’s UFC return off CBS - Awful Announcing",
+      "description": "Conor McGregor returns to UFC in UFC 329, but the event will be totally exclusive to Paramount+. That might suggest a strategy change.",
+      "url": "https://awfulannouncing.com/ufc/paramount-conor-mcgregors-return-cbs.html",
+      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/11/UFCP.jpg",
+      "source": "Awful Announcing",
+      "publishedAt": "2026-07-06T20:36:53Z"
     },
     {
-      "title": "Did LeBron Fuel Cavs Rumors in Trending Photo with High School Teammates? NBA Fans Sound Off - Bleacher Report",
-      "description": "As the LeBron James speculation continues to make waves around the NBA, the King himself turned heads over the weekend with quite a photo.",
-      "url": "https://bleacherreport.com/articles/25451274-did-lebron-fuel-cavs-rumors-trending-photo-high-school-teammates-nba-fans-sound",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2276117311_0_large_cropped.jpg?w=3800&h=2000",
-      "source": "Bleacher Report",
-      "publishedAt": "2026-07-05T14:30:05Z"
+      "title": "Newly named Clemson president opts to stay at Michigan State - WSPA 7NEWS",
+      "description": "The man previously announced to be the new president of Clemson University has elected not to come to the university.",
+      "url": "https://www.wspa.com/news/newly-named-clemson-president-opts-to-stay-at-michigan-state/",
+      "urlToImage": "https://www.wspa.com/wp-content/uploads/sites/53/2026/05/Kevin-Guskiewicz-clemson-board-meeting-1.jpg?w=1280",
+      "source": "WSPA 7News",
+      "publishedAt": "2026-07-06T20:00:32Z"
     },
     {
-      "title": "Sixers film study: The aspects of Jaylen Brown's game worth being worried about - PhillyVoice",
-      "description": "Jaylen Brown's flaws are not simply products of mathematical calculations. The eye test also prompts some red flags in the game of the Sixers' newest star.",
-      "url": "https://www.phillyvoice.com/sixers-film-jaylen-brown-trade-news-analysis-interview-stream-twitch-stats-highlights-nba-rumors/",
-      "urlToImage": "https://media.phillyvoice.com/media/images/2026-04-02T024756Z_510958119_M.5384c897.fill-1200x630-c0.jpg",
-      "source": "PhillyVoice.com",
-      "publishedAt": "2026-07-05T09:01:00Z"
+      "title": "Socialist mayor Katie Wilson silent amid protests over ‘human dumping ground’ ahead of US World Cup match - Fox News",
+      "description": "CID businesses report a major decline in foot traffic during the FIFA World Cup as residents protest Mayor Katie Wilson over crime and drug dealing.",
+      "url": "https://www.foxnews.com/politics/socialist-mayor-katie-wilson-silent-protests-human-dumping-ground-us-world-cup-match",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/katie-wilson.png",
+      "source": "Fox News",
+      "publishedAt": "2026-07-06T18:54:10Z"
+    },
+    {
+      "title": "Keir Starmer helped stop earlier England vs. Mexico kickoff - Politico",
+      "description": "The outgoing prime minister gave English players a few extra hours to acclimatize to the Mexico City altitute.",
+      "url": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/breathing-room-for-england-00987645",
+      "urlToImage": "https://www.politico.com/dims4/default/a0ffe4d/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F13%2F2c%2F82a446f240f4b564e926766f96da%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2161404138",
+      "source": "Politico",
+      "publishedAt": "2026-07-06T15:38:58Z"
+    },
+    {
+      "title": "Spain vs. Portugal Prediction, Odds, Picks For World Cup Match - FOX Sports",
+      "description": "Check out the odds for the Spain vs. Portugal Round of 16 matchup at the 2026 FIFA World Cup.",
+      "url": "https://www.foxsports.com/stories/soccer/spain-vs-portugal-prediction-odds-picks-world-cup-match",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2219199357-scaled.jpg?ve=1&tl=1",
+      "source": "Fox Sports",
+      "publishedAt": "2026-07-06T09:00:03Z"
     }
   ]
 }
