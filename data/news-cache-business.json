@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-07-08T08:41:29.646Z",
+  "updatedAt": "2026-07-09T09:54:35.331Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Samsung Results Trigger Stock Rotation to Less Loved Sectors - Bloomberg.com",
-      "description": "Asian tech stocks slumped, as investors used Samsung Electronics Co.’s results to lock in profits on a stellar year-to-date chip rally, rotating into unloved sectors less prone to earnings shocks.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/samsung-results-trigger-stock-rotation-to-less-loved-sectors",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inKJKfAZYMM0/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-07T02:59:00Z"
-    },
-    {
-      "title": "In-N-Out unveils 6 new locations across 5 states. See where - USA Today",
-      "description": "The iconic company has grown beyond its California roots in recent years, opening locations in Colorado, Texas, Idaho, and as far east as Tennessee.",
-      "url": "https://www.usatoday.com/story/money/food/2026/07/06/in-n-out-burger-new-restaurants-opening-soon/90828569007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/07/USAT/90829678007-2226374657.jpg?crop=7397,4161,x0,y440&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-07-07T02:20:00Z"
-    },
-    {
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom - TechCrunch",
-      "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06T23:21:03Z"
-    },
-    {
-      "title": "Stock futures are little changed after Dow tops 53,000 for first time: Live updates - CNBC",
-      "description": "Monday night's action follows a winning session on Wall Street.",
-      "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330964-1783358129309-gettyimages-2284353432-TRUMP_ACCOUNTS.jpeg?v=1783358277&w=1920&h=1080",
+      "title": "Lawmakers probe growing use of Chinese AI models in U.S. companies - CNBC",
+      "description": "An ongoing House Committee investigation is probing the risks involved in the rise of AI built in China.",
+      "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108032405-1726051561764-gettyimages-1480914045-usa-view2.jpeg?v=1769063383&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-07-06T23:07:00Z"
+      "publishedAt": "2026-07-08T05:00:01Z"
     },
     {
-      "title": "Walmart, Sam's Club slash prices on thousands of products as Trump says move came at his request - Fox Business",
-      "description": "President Donald Trump claimed on Truth Social that Walmart summer price cuts were initiated at his administration's request to celebrate the country's 250th birthday.",
-      "url": "https://www.foxbusiness.com/retail/walmart-sams-club-slash-prices-thousands-products-trump-says-move-came-his-request",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/05/0/0/split-of-trump-and-walmart.jpg?ve=1&tl=1",
+      "title": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels - Al Jazeera",
+      "description": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26167495426080-1783483193.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-08T04:04:52Z"
+    },
+    {
+      "title": "Popular pet food recalled over possible sharp metal and plastic contamination - Fox Business",
+      "description": "Mars Petcare says two lots of Pedigree dog food were fraudulently diverted and sold after being sent for destruction over metal and plastic contamination.",
+      "url": "https://www.foxbusiness.com/economy/popular-pet-food-recalled-over-possible-sharp-metal-plastic-contamination",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/dog-eating-food.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-07-06T23:04:00Z"
+      "publishedAt": "2026-07-08T01:40:00Z"
     },
     {
-      "title": "‘Don’t Die’ Guy Bryan Johnson Says He Has Serious Autoimmune Disease - Gizmodo",
-      "description": "\"My stomach is eating itself,\" wrote Johnson.",
-      "url": "https://gizmodo.com/dont-die-guy-bryan-johnson-says-he-has-serious-autoimmune-disease-2000781915",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Bryan-Johnson-speaks-at-a-conference-in-Beverly-Hills-1200x675.jpg",
+      "title": "Japan’s borrowing costs soar to 30-year high on debt fears - Financial Times",
+      "description": "Worries over long-term spending plans help push bond yields to highest since 1996",
+      "url": "https://www.ft.com/content/851aa883-073f-4423-a43e-9b09fdbe7c86?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f9e9b3c-b4a8-4976-8827-8cc18d683c0c.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-08T01:07:02Z"
+    },
+    {
+      "title": "Rivian’s stock sale triggers worst rout for the shares in nearly two years - MarketWatch",
+      "description": "Rivian’s stock sinks 18% as Wall Street frets about the EV maker’s cash troubles",
+      "url": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e",
+      "urlToImage": "https://images.mktw.net/im-27296887/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-07-08T00:35:00Z"
+    },
+    {
+      "title": "11% of Americans Are Currently Taking a GLP-1 Weight Loss Drug Like Wegovy - Gizmodo",
+      "description": "15% of Americans have ever taken the drugs, up from 6% in 2024.",
+      "url": "https://gizmodo.com/11-of-americans-are-currently-taking-a-glp-1-weight-loss-drug-like-wegovy-2000782666",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/wegovy-1200x675.jpg",
       "source": "Gizmodo.com",
-      "publishedAt": "2026-07-06T22:23:55Z"
+      "publishedAt": "2026-07-08T00:30:01Z"
     },
     {
-      "title": "Asian Stocks Set to Gain After Tech-Powered Rally: Markets Wrap - Bloomberg.com",
-      "description": "Asian equities dropped as technology shares came under renewed selling pressure, with Samsung Electronics Co. falling after its earnings report.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEnpuh720.dQ/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-06T22:10:26Z"
-    },
-    {
-      "title": "Compulsion Games and Double Fine confirm \"Independence Day\" from Xbox - GamesIndustry.biz",
-      "description": "Compulsion Games and Double Fine – two formerly Xbox-owned developers now spun out from the Xbox family of studios as M…",
-      "url": "https://www.gamesindustry.biz/compulsion-games-and-double-fine-confirm-independence-day-from-xbox",
-      "urlToImage": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2026-07-06T21:42:55Z"
-    },
-    {
-      "title": "Like It Or Not, SpaceX Set To Land In Millions Of Investors' Portfolios - Investor's Business Daily",
-      "description": "SpaceX will be officially in the Nasdaq 100 index on Tuesday.",
-      "url": "https://www.investors.com/news/spacex-spcx-stock-nasdaq-100-qqq/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/stock-SpaceX-Moon2-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-06T21:07:00Z"
-    },
-    {
-      "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas - CNBC",
-      "description": "Toyota said it is investing $3.6 billion to move production of the Tacoma midsize pickup truck from Mexico to its San Antonio manufacturing campus in Texas.",
-      "url": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107379922-1709151612188-gettyimages-2046175955-js2_7170_nubp0iif.jpeg?v=1783367330&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-06T20:30:01Z"
-    },
-    {
-      "title": "Breaking: Vertex makes $10B deal for commercial endocrinology biotech Crinetics - Endpoints News",
-      "description": "Vertex Pharmaceuticals acquires Crinetics Pharmaceuticals for $10B ($85/share), gaining acromegaly drug Palsonify and endocrinology pipeline with ~$5B peak sales potential.",
-      "url": "https://endpoints.news/vertex-makes-10b-deal-for-commercial-endocrinology-biotech-crinetics/",
-      "urlToImage": "https://endpoints.news/wp-content/uploads/2024/11/Vertex-shutterstock-social11.jpg",
-      "source": "Endpoints.news",
-      "publishedAt": "2026-07-06T20:27:00Z"
-    },
-    {
-      "title": "Blockbuster AI Deal Shows Why Honeywell Had to Break Up - Barron's",
-      "description": "Solstice Advanced Materials is buying Element Solutions for $14.5 billion.",
-      "url": "https://www.barrons.com/articles/ai-deal-honeywell-solstice-advanced-materials-element-solutions-stock-d4c6336c",
-      "urlToImage": "https://images.barrons.com/im-81800106/social",
-      "source": "Barron's",
-      "publishedAt": "2026-07-06T20:24:00Z"
-    },
-    {
-      "title": "TeraWulf Soars On Signing $19 Billion AI Lease With Anthropic - Investor's Business Daily",
-      "description": "TeraWulf jumped more than 15% on the news. Fellow neocloud plays rallied.",
-      "url": "https://www.investors.com/news/anthropic-terawulf-ai-data-center-lease-neocloud-coreweave-iren/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/Stock-Anthropic-Ap4-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-06T20:03:00Z"
-    },
-    {
-      "title": "Primm resorts, travel stops saved from closure with new operator - KTLA",
-      "description": "Just two months after it appeared that a once-popular California-Nevada border hotel and gambling destination along the way to Las Vegas would become a ghost town, the Primm properties along the 15 Freeway are getting a second chance. The Primm family, which …",
-      "url": "https://ktla.com/news/california/primm-casinos-terribles-takeover/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/05/Primm-Nevada-filephoto.jpg?w=1280",
-      "source": "KTLA Los Angeles",
-      "publishedAt": "2026-07-06T19:14:57Z"
-    },
-    {
-      "title": "AMD Stock Rises as Goldman Sees Big Earnings Coming - Barron's",
-      "description": "AMD stock trades near the top of the S&P 500 as Goldman Sachs raises its price target on expectations of continued AI demand.",
-      "url": "https://www.barrons.com/articles/amd-stock-goldmans-sachs-price-target-8ae8b2f6",
-      "urlToImage": "https://images.barrons.com/im-32282748/social",
-      "source": "Barron's",
-      "publishedAt": "2026-07-06T19:01:00Z"
-    },
-    {
-      "title": "Publix recalls blueberries after multiple people reportedly became severely sick with E. coli. Here are the impacted states - WSFA",
-      "description": "Frozen blueberries sold at Publix were recalled after they were connected to multiple E. coli cases.",
-      "url": "https://www.wsfa.com/2026/07/06/publix-recalls-blueberries-after-multiple-people-became-severely-sick-with-e-coli-here-are-impacted-states/",
-      "urlToImage": "https://gray-wsfa-prod.gtv-cdn.com/resizer/v2/XKFOKH6GRZEQBMALWKE6CF6CAQ.jpg?auth=5fb4f4a5903445bfd53a0d6f6e69c232d47b82209f996c61cbaaa90335d4d14e&width=1200&height=600&smart=true",
-      "source": "WSFA",
-      "publishedAt": "2026-07-06T18:06:00Z"
-    },
-    {
-      "title": "Trump rings Wall Street’s opening bells as he ties his presidency to stock market gains - AP News",
-      "description": "President Donald Trump has rung the opening bells for the New York Stock Exchange and the Nasdaq from the Oval Office. It's a symbolic act that reflects how Trump has increasingly tied his presidency to the stock market. Trump said Monday after formally launc…",
-      "url": "https://apnews.com/article/trump-wall-street-opening-bells-stock-market-e55efa6c06e6eef8feb9049a7800c136",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a4a04f2/2147483647/strip/true/crop/4364x2908+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2Ffb%2F7a362558a7a8ba0632eaec154b7c%2F57e51e2f0140497c9174cda6720e1fb5",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-06T17:59:00Z"
-    },
-    {
-      "title": "Tesla Stock Climbs as Robotaxi Expansion Reaches Miami - Yahoo Finance",
-      "description": "Tesla Shares Rise as Robotaxi Service Expands Into Miami",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-climbs-robotaxi-expansion-174926590.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "title": "SpaceX stock now enters the post-honeymoon faith phase - Yahoo Finance",
+      "description": "A flood of analyst initiations on SpaceX hit the market Tuesday, 16 trading days after Elon Musk's rocket-telecom-AI-neocloud-social media company made its d...",
+      "url": "https://finance.yahoo.com/technology/article/spacex-stock-now-enters-the-post-honeymoon-faith-phase-002636880.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1CF935984424A9D2FCFD83C1330C7DB70E5798AF3CF1C493534E411B853D1E5B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F217ca0f8-4e1f-4646-8a1e-84f71c854160",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-06T17:49:26Z"
+      "publishedAt": "2026-07-08T00:26:00Z"
     },
     {
-      "title": "Strategy sheds $216 million in Bitcoin in crypto hoarder’s largest sale ever - Fortune",
-      "description": "The Bitcoin giant has reversed its crypto-hoarding strategy amid a broader market downturn.",
-      "url": "https://fortune.com/2026/07/06/michael-saylor-strategy-216-million-bitcoin-sale-largest-ever/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1239811095-e1783353788790.jpg?resize=1200,600",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos - TechCrunch",
+      "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-07T22:18:10Z"
+    },
+    {
+      "title": "Chip Sell-Off Hits Nasdaq As Stock Market Uptrend Wobbles; Sandisk, Intel Give Sell Signals - Investor's Business Daily",
+      "description": "The stock market endures another round of selling Tuesday as more leading growth stocks pierce their 50-day moving averages.",
+      "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-uptrend-chip-selloff-nasdaq-sandisk/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/06/stock-nasdaq-building-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-07-07T21:57:00Z"
+    },
+    {
+      "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion - Bloomberg.com",
+      "description": "When Amazon.com Inc. sold its biggest ever bond earlier this year, it was inundated with investor orders amid hype about the artificial intelligence boom. This time around there’s less fanfare.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIyuasiUk8BQ/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-07T21:09:56Z"
+    },
+    {
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan - Ars Technica",
+      "description": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Electric-Arc-Furnace-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-07T21:03:07Z"
+    },
+    {
+      "title": "Micron, Chip Stocks Fall Despite Samsung Profit Surge - Investor's Business Daily",
+      "description": "Chip stocks fell Tuesday despite a second-quarter earnings beat by semiconductor and consumer electronics manufacturer Samsung Electronics.",
+      "url": "https://www.investors.com/news/technology/chip-stocks-fall-despite-samsung-profit-surge/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/Stock-Samsung-signage-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-07-07T20:58:00Z"
+    },
+    {
+      "title": "Vertex Pharma Makes A $10 Billion Deal; Crinetics Stock Doubles - Investor's Business Daily",
+      "description": "Crinetics stock nearly doubled Tuesday after Vertex pledged $10 billion to buy the endocrinology-focused biotech.",
+      "url": "https://www.investors.com/news/technology/crinetics-stock-vertex-pharmaceuticals-takeover/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-Vertex-04-shutt.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-07-07T20:13:00Z"
+    },
+    {
+      "title": "Eli Lilly's Market Cap Balloons, Again, On This IPO's Setback - Investor's Business Daily",
+      "description": "Eli Lilly shares hit a new record high Tuesday after IPO stock Kailera posted lackluster test results for its obesity drug.",
+      "url": "https://www.investors.com/news/technology/eli-lilly-stock-market-cap-kailera-therapeutics-ipo-stock/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/03/Stock-Lilly-HQ9-shutt.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-07-07T20:09:00Z"
+    },
+    {
+      "title": "Oregon regulators approve 30% electricity rate hike for data centers near Portland - OregonLive.com",
+      "description": null,
+      "url": "https://www.oregonlive.com/business/2026/07/oregon-regulators-approve-30-electricity-rate-hike-for-some-data-centers.html",
+      "urlToImage": null,
+      "source": "OregonLive",
+      "publishedAt": "2026-07-07T19:43:00Z"
+    },
+    {
+      "title": "USPS to raise the price of a Forever stamp to 82 cents on Sunday. Here's what to know. - CBS News",
+      "description": "The cost of a first-class Forever stamp has climbed 41% since 2021, and postal officials have signaled they want prices to rise even more.",
+      "url": "https://www.cbsnews.com/news/usps-forever-stamp-price-increase-july-2026/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/07/a87bec19-84cf-43a4-abee-92ef1f07981a/thumbnail/1200x630/610f63c308bc956ebafc329b151fb29b/gettyimages-2161800160.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-07-07T19:39:00Z"
+    },
+    {
+      "title": "Nearly 1 million investors in Trump's memecoin lost a collective $3.8 billion as he cashed in - Fortune",
+      "description": "The president launched the $TRUMP coin just before his inauguration last January.",
+      "url": "https://fortune.com/2026/07/07/donald-trump-meme-coin-world-liberty-financial-finance-politics/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2272545590-e1783452588810.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2026-07-06T16:14:00Z"
+      "publishedAt": "2026-07-07T19:34:00Z"
     },
     {
-      "title": "Louis Vuitton logo dispute sparks cultural design debate - Creative Bloq",
-      "description": "LV might have won, but who created the design first?",
-      "url": "https://www.creativebloq.com/design/logos-icons/louis-vuitton-wins-logo-battle-despite-fiery-backlash",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PNE249jZi3rLqBuQMi7dCP-1920-80.jpg",
-      "source": "Creative Bloq",
-      "publishedAt": "2026-07-06T15:00:00Z"
+      "title": "The Adorable Fiat Topolino Has Landed in the United States at Less Than $15,000 - Road & Track",
+      "description": "It's not quite a car, more of a fancy golf cart, but the 14,985 Fiat Topolino sure is a bargain.",
+      "url": "https://www.roadandtrack.com/news/a71853149/fiat-topolino-united-states-at-starting-price-under-15000-dollars/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/c52a32fd-0a14-42b1-837c-2bc430703bf4.jpg?crop=1.00xw:0.670xh;0,0.139xh&resize=1200:*",
+      "source": "RoadandTrack.com",
+      "publishedAt": "2026-07-07T19:10:00Z"
     }
   ]
 }
