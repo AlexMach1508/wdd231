@@ -1,135 +1,159 @@
 {
-  "updatedAt": "2026-07-12T08:29:16.788Z",
+  "updatedAt": "2026-07-13T09:44:30.541Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Apple sues OpenAI for trade secret theft - Axios",
-      "description": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
-      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "urlToImage": "https://images.axios.com/CjZlbD1Jd_2r_2usaUtmXGYs_wk=/1366x768/smart/2024/03/28/004934-1711586974988.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-07-11T05:31:59Z"
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions - Al Jazeera",
+      "description": "After Sheikh Hamad’s death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/085-1783842177.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-12T09:54:51Z"
     },
     {
-      "title": "Horoscope for Saturday, July 11, 2026 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/07/11/horoscopes-today-saturday-july-11-2026",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2026-07-11T05:01:00Z"
-    },
-    {
-      "title": "Small plane crash in Bahamas kills 10 people - BBC",
-      "description": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
-      "url": "https://www.bbc.com/news/articles/ckg47lz10p7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77ca/live/66dbf810-7cdb-11f1-8c49-6f4d70563315.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-11T04:47:37Z"
-    },
-    {
-      "title": "Trump looked to bypass federal election agency, report says - DW.com",
-      "description": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Election Assistance Commission, a report has found.",
-      "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362",
-      "urlToImage": "https://static.dw.com/image/77881694_6.jpg",
+      "title": "Iran closes Strait of Hormuz, US launches fresh strikes - dw.com",
+      "description": "The Iranian navy has said it closed the Strait of Hormuz after firing on a vessel transiting an \"unapproved route.\" In response, the US launched a third set of strikes on Iran this week. Follow DW for more.",
+      "url": "https://www.dw.com/en/iran-announces-closure-of-strait-of-hormuz/live-77920097",
+      "urlToImage": "https://static.dw.com/image/77922743_6.jpg",
       "source": "DW (English)",
-      "publishedAt": "2026-07-11T04:03:21Z"
+      "publishedAt": "2026-07-12T07:10:03Z"
     },
     {
-      "title": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News",
-      "description": "The builder got up every morning long before dawn, left home to pick up his construction crew and then headed out to work on yet another house somewhere across the sprawl of Houston. Lorenzo Salgado Araujo had built hundreds of houses over 35 years, creating …",
-      "url": "https://apnews.com/article/houston-ice-killing-immigration-trump-1d8860a6fe93d7cef6d647898a77a434",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e6becd4/2147483647/strip/true/crop/3069x2045+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa7%2Fd7%2Fb3294a69325ec05a42f934d235a4%2Ffed1d0fde1e6432c80ec9fb49843943c",
+      "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
+      "description": "Lindsey Graham, R-S.C., who was elected to the Senate in 2003 and was a close political ally of President Donald Trump, has died, his office confirmed early Sunday. He was 71.",
+      "url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-lindsey-graham-cc-1138p-8ff010.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-07-12T06:22:00Z"
+    },
+    {
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+      "description": "The United States has attacked Iran over an Iranian strike on a vessel in the Strait of Hormuz. The strike early Sunday set a container ship ablaze and forced its crew to abandon it. Iran apparently responded with strikes targeting Bahrain, Kuwait, Qatar and …",
+      "url": "https://apnews.com/article/iran-usa-united-arab-emirates-attack-0764d17c09370a8c5cf1e8197a8878ab",
+      "urlToImage": "https://dims.apnews.com/dims4/default/535bc14/2147483647/strip/true/crop/6675x4448+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Fc8%2F16b664c1541f56c7cefdd8b3e483%2F556cfa4bce7243f09c682d8a90261322",
       "source": "Associated Press",
-      "publishedAt": "2026-07-11T04:00:00Z"
+      "publishedAt": "2026-07-12T05:41:00Z"
     },
     {
-      "title": "Legionnaires' outbreak hits New York as officials rush to test water towers - BBC",
-      "description": "To date, 46 people have been infected from breathing mist from bacteria-filled water coolers on the Upper East side.",
-      "url": "https://www.bbc.com/news/articles/c05y4gd2r0ro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6dcc/live/9de57ff0-7c74-11f1-917a-91e958a7e786.jpg",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter - BBC",
+      "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "url": "https://www.bbc.com/news/articles/cly0l5d5xn7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-07-11T01:37:02Z"
+      "publishedAt": "2026-07-12T05:00:15Z"
     },
     {
-      "title": "Newlyweds Taylor Swift and Travis Kelce Look Ultra-Glam at JuJu Smith-Schuster’s Wedding 1 Week After MSG Nuptials - Yahoo",
-      "description": "Taylor Swift and Travis Kelce are celebrating love at Kelce’s former teammate JuJu Smith-Schuster’s wedding just one week after their own nuptials.",
-      "url": "https://people.com/taylor-swift-and-travis-kelce-attend-juju-smith-schuster-wedding-1-week-after-msg-nuptials-12011541",
-      "urlToImage": "https://people.com/thmb/ofVo_cfim8jThA4we1RUoLaOC6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(751x205:753x207)/taylor-swift-travis-kelce-juju-wedding-071026-4-be9c00c8162c45eaa004c42871e8d193.jpg",
-      "source": "PEOPLE",
-      "publishedAt": "2026-07-11T01:00:00Z"
+      "title": "McGregor injures leg on opening kick vs. Holloway at UFC 329 - ESPN",
+      "description": "Conor McGregor's much-anticipated UFC return lasted just 69 seconds Saturday, as he injured his right leg during his fight with Max Holloway and was forced to retire.",
+      "url": "https://www.espn.com/mma/story/_/id/49340329/mcgregor-injures-leg-opening-kick-vs-holloway-ufc-329",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688129_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-07-12T04:11:00Z"
     },
     {
-      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma - AP News",
-      "description": "Martha Lillard, the last U.S. polio patient using an iron lung, has died at 78 in Oklahoma. Her sister, Cindy McVey, attributes her death to long-haul COVID-19. Diagnosed with polio at 5, Lillard lived a remarkable life despite her challenges. She attended sc…",
-      "url": "https://apnews.com/article/iron-lung-last-patient-died-polio-41e5b4da4f4e710344dd0872d7fcf987",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9b7118f/2147483647/strip/true/crop/5500x3665+0+933/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F58%2Fe635de176b40739fca964bd3ec9a%2Fdc8a95a2b84d449ea6bee11b771736bd",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-11T00:58:00Z"
-    },
-    {
-      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court - BBC",
-      "description": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
-      "url": "https://www.bbc.com/news/articles/c4gy12gqzpvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09c2/live/46d36bc0-7cbd-11f1-b976-0b9c15b0ccfc.jpg",
+      "title": "At least two killed in Toronto street festival shooting - BBC",
+      "description": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+      "url": "https://www.bbc.com/news/articles/ce3e66e1x3go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/94a2/live/bfc51ee0-7d92-11f1-b0c0-b9b367ec5905.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-07-11T00:17:15Z"
+      "publishedAt": "2026-07-12T03:56:02Z"
     },
     {
-      "title": "Charles hosted Prince Harry and family for first time in years as they try to repair a family rift - AP News",
-      "description": "King Charles III has hosted Prince Harry and met with his family for the first time in years. The two are trying to repair a rift that has persisted since Charles' youngest son and wife quit royal life and moved to America six years ago. Harry, Meghan and the…",
-      "url": "https://apnews.com/article/britain-royals-charles-harry-family-hosted-ff016f33b49527efbcf0242449c6daa3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f5f3afa/2147483647/strip/true/crop/4076x2716+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F41%2Fd044759e065d229fc18772e03386%2F4efbbaa7e66f48919e6dd1b8694a1140",
+      "title": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News",
+      "description": "Jude Bellingham scored in extra time to lift England past Norway 2-1 and into the World Cup semifinals for the first time since 2018. Bellingham’s shot in the 93rd was his second of the game. The Real Madrid star is now tied with England teammate Harry Kane w…",
+      "url": "https://apnews.com/article/world-cup-norway-england-score-f246f138c3a8563cb5a0e3f4037e930a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/16cd42d/2147483647/strip/true/crop/4269x2845+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2F87%2Fa1f0b50beabbd2096e5e98673ba7%2Fbef64d38958940dea0cc7d7188cc80f8",
       "source": "Associated Press",
-      "publishedAt": "2026-07-11T00:12:00Z"
+      "publishedAt": "2026-07-12T03:56:00Z"
     },
     {
-      "title": "USMNT’s Humiliating World Cup Exit Wasn’t Pochettino’s Fault—He Deserves to Stay - Sports Illustrated",
-      "description": "One can point many fingers, but none should be at U.S. men’s national team manager Mauricio Pochettino.",
-      "url": "https://www.si.com/soccer/usmnt-humiliating-world-cup-exit-wasnt-pochettino-fault-deserves-stay",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_90,w_720,h_405/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kwga2ce9js664ac13a.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-07-10T23:46:13Z"
+      "title": "Seahawks sold to current NFL owner for record price. Who is Vinod Kohsla? - USA Today",
+      "description": "The Seattle Seahawks will soon be owned by a venture capitalist who is currently a minority owner of the 49ers. The deal must be approved by NFL owners.",
+      "url": "https://www.usatoday.com/story/sports/nfl/seahawks/2026/07/11/seattle-seahawks-sold-new-owner-record-sale-price-vinod-kohsla/90889465007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/11/USAT/90889694007-usatsi-28347308.jpg?crop=4000,2250,x0,y347&width=3200&height=1800&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-12T03:52:00Z"
     },
     {
-      "title": "Mikel Merino stars again as Spain edges Belgium 2-1 in the World Cup quarterfinals - AP News",
-      "description": "Mikel Merino scored in the 88th minute off a rebound yielded by backup Belgium goalkeeper Senne Lammens, and Spain advanced to the World Cup semifinals with a 2-1 victory. Merino was the late hero for the second straight match for Spain, which advanced to fac…",
-      "url": "https://apnews.com/article/spain-belgium-score-world-cup-780243a17571b6b2b26074b66feec90a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f2ecd48/2147483647/strip/true/crop/4361x2906+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2F4d%2F9804aa5ed773dbb86a0c9033c2f3%2F5331a0925224414aa10dbccf035eb99b",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-10T23:24:00Z"
+      "title": "After leader’s funeral, an emboldened Iran tests Trump, risking renewed war - The Washington Post",
+      "description": "Iran’s Islamic Revolutionary Guard Corps said the Strait of Hormuz would be closed until further notice, accusing the United States of interfering in the waterway.",
+      "url": "https://www.washingtonpost.com/world/2026/07/11/after-leaders-funeral-an-emboldened-iran-tests-trump-risking-renewed-war/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/Z32MVNNO2MVYZAXEUPWTW3K65U.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-12T01:53:51Z"
     },
     {
-      "title": "‘Moana’ Sets Sail With $4.5M In Thursday Previews – Box Office - Deadline",
-      "description": "Disney's live-action Moana is heading toward choppy waters with a $40M-$45M U.S. opening off a $250M production cost.",
-      "url": "http://deadline.com/2026/07/box-office-moana-1236979144/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/Moana.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-07-10T23:03:00Z"
+      "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky - NPR",
+      "description": "A historic rainfall event has left communities across several Missouri counties underwater and prompted water rescues, including an evacuation of a summer camp.",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-07-12T01:38:29Z"
     },
     {
-      "title": "Michigan's cyclosporiasis outbreak is growing. Here's everything you need to know. - Detroit Free Press",
-      "description": "Doctors explain testing for the cyclospora parasite and detail how difficult it is to kill, what treats an infection and whether pets can get it.",
-      "url": "https://www.freep.com/story/news/health/2026/07/10/michigan-cyclosporiasis-outbreak-symptoms-cases/90863345007/",
-      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/07/02/PDTF/90780262007-cyclospora-cayetanensis.jpg?crop=1199,675,x0,y120&width=1199&height=675&format=pjpg&auto=webp",
-      "source": "Detroit Free Press",
-      "publishedAt": "2026-07-10T23:00:00Z"
+      "title": "'Tell us what's going on,' Kentucky governor urges McConnell on health - USA Today",
+      "description": "McConnell’s office says the senator remains hospitalized and improving as Kentucky Gov. Andy Beshear again calls for more details on his condition.",
+      "url": "https://www.usatoday.com/story/news/politics/2026/07/11/mcconnell-still-hospitalized-as-beshear-says-end-crazy-speculation-on-health/90889294007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/14/USAT/90549846007-20260606-t-055325-z-1978270895-rc-2-fcla-08-q-61-rtrmadp-3-usatrumpcongress.JPG?crop=3999,2251,x0,y207&width=3200&height=1802&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-11T23:59:00Z"
     },
     {
-      "title": "What we know about death of Nolan Wells, Black teen who went missing on Mississippi boat trip - PBS",
-      "description": "The family of Nolan Wells, a Black teenager who was found dead after going missing on an island in Mississippi, made an emotional plea Friday for an honest, thorough investigation in a case that has captured national attention over its unanswered questions. “…",
-      "url": "https://www.pbs.org/newshour/nation/what-we-know-about-death-of-nolan-wells-black-teen-who-went-missing-on-mississippi-boat-trip",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-10T190259Z_772476602_RC24BMACQ3GW_RTRMADP_3_MISSISSIPPI-DEATH-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-07-10T22:49:04Z"
+      "title": "T. rex fossil could become most expensive dinosaur ever sold - BBC",
+      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "url": "https://www.bbc.com/news/articles/c4gykgyn1r4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-07-11T23:58:40Z"
     },
     {
-      "title": "iOS 27: What's New With the Mail App - MacRumors",
-      "description": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features.   Search...",
-      "url": "https://www.macrumors.com/guide/ios-27-mail/",
-      "urlToImage": "https://images.macrumors.com/t/5q6IoBKdDsTMnq3YGqWY3n7UWwY=/2500x/article-new/2026/07/iOS-27-Mail-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-07-10T22:26:09Z"
+      "title": "Travis Kelce, Taylor Swift’s Recent Honeymoon Spot Revealed After First Post-Wedding Appearance - Yahoo",
+      "description": "Travis Kelce and Taylor Swift's recent secret honeymoon location was revealed as they made their first appearance since the wedding.",
+      "url": "https://heavy.com/sports/nfl/travis-kelce-taylor-swifts-honeymoon-spot/",
+      "urlToImage": "https://heavy.com/wp-content/uploads/2026/07/Travis-Kelce-and-Taylor-Swift-3.jpg?quality=65&strip=all",
+      "source": "Heavy.com",
+      "publishedAt": "2026-07-11T23:20:40Z"
+    },
+    {
+      "title": "Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak - Fox News",
+      "description": "A second U.S. citizen tested positive for Ebola while working for a humanitarian organization in the Democratic Republic of the Congo amid the outbreak.",
+      "url": "https://www.foxnews.com/us/another-us-citizen-tests-positive-ebola-virus-working-congo-amid-record-outbreak",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/ebola_worker.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-07-11T23:20:23Z"
+    },
+    {
+      "title": "Honeycutt, Riggs salvage their days at Lime Rock after final-stage crash - NASCAR.com",
+      "description": "Kaden Honeycutt and Layne Riggs both clinched Chase spots, but their Saturday went sideways in a late restart at Lime Rock Park.",
+      "url": "https://www.nascar.com/news-media/2026/07/11/craftsman-truck-series-2026-lime-rock-layne-riggs-kaden-honeycutt/",
+      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2026/07/11/2026-july11-riggs-honeycutt-lime-rock-1-main-image-672x372.jpg",
+      "source": "NASCAR",
+      "publishedAt": "2026-07-11T23:07:47Z"
+    },
+    {
+      "title": "5 Zodiac Signs Have Great Horoscopes On Sunday, July 12, 2026 - YourTango",
+      "description": "Five zodiac signs will have great horoscopes on Sunday, July 12, 2026. They are: Aries, Taurus, Gemini, Cancer, and Leo.",
+      "url": "https://www.yourtango.com/2026399105/zodiac-signs-great-horoscopes-july-12-2026",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-07/zodiac-signs-great-horoscopes-july-12-2026.png",
+      "source": "YourTango",
+      "publishedAt": "2026-07-11T23:07:22Z"
+    },
+    {
+      "title": "Outbreak of diarrhea caused by cyclosporiasis spreading in US with cases reported in CA, CDC says - ABC7 Los Angeles",
+      "description": "Michigan has the highest number of cases, followed by Ohio and New York.",
+      "url": "https://abc7.com/post/heres-where-cyclosporiasis-is-spreading-cases-are-confirmed-32-states-including-california-symptom-watery-diarrhea/19487136/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19487253_071126-kgo-ap-cdc-cyclosporiasis-img.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2026-07-11T22:57:26Z"
+    },
+    {
+      "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets - Business Insider",
+      "description": "Apple sued OpenAI on Friday, accusing the AI startup of orchestrating a campaign to steal trade secrets from iPhone maker.",
+      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7#article",
+      "urlToImage": "https://i.insider.com/6a52a04ddaf4d560957bfd06?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-11T20:23:00Z"
     }
   ]
 }

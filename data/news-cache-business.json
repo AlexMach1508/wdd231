@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-07-12T08:29:17.034Z",
+  "updatedAt": "2026-07-13T09:44:30.701Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Oregon AG Drops Demand For Records & Motion To Delay Paramount-Warner Bros. Discovery Merger, Company Says - Deadline",
-      "description": "The attorney general sought records related to federal lobbying activity.",
-      "url": "http://deadline.com/2026/07/paramount-warner-bros-oregon-attorney-general-motion-1236979773/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/paramount-warner-bros-hollywood.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-07-11T02:40:00Z"
-    },
-    {
-      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
-      "description": "The blockbuster allegations set up a major legal battle between two tech heavyweights.",
-      "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TSRM3JIXMACSXKWTPGPDGI5ER4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-07-11T01:50:13Z"
-    },
-    {
-      "title": "Trump celebrates $250B Micron investment, says America is 'GETTING SHOVELS IN THE GROUND' - Fox Business",
-      "description": "Micron Technology's $250 billion investment will create 100,000 American jobs across semiconductor facilities in New York, Idaho and Virginia.",
-      "url": "https://www.foxbusiness.com/politics/trump-celebrates-250b-micron-investment-america-getting-shovels-ground",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-micron-250-billion-investment.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-11T01:38:00Z"
-    },
-    {
-      "title": "Global oil demand is dropping, but US drivers keep buying more gas - AP News",
-      "description": "Global oil demand is set to decline this year for the first time since 2020. The International Energy Agency expects a drop of about 1 million barrels per day by 2026. This decline is due to higher oil prices and supply disruptions caused by the U.S.-Iran con…",
-      "url": "https://apnews.com/article/oil-gasoline-demand-iran-us-iea-report-de45ede94f992da07d35a8b737fdeacf",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c30332b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F7a%2Fd74147409a591dafc97b16061331%2Fa723d6cf44e94923a09cda25d90eedd5",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-11T00:14:00Z"
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash - TechCrunch",
-      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer av…",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10T23:55:07Z"
-    },
-    {
-      "title": "Mega Millions and Powerball pots roll on into the weekend, jackpot surpasses $1B - KOMO",
-      "description": "The jackpots for the Mega Millions and Powerball lottery games have climbed to a combined estimated $1.06 billion after neither game produced a jackpot winner i",
-      "url": "https://komonews.com/news/local/washington-state-lottery-mega-millions-powerball-combined-jackpot-surpasses-1-billion-dollars-winner-latest-drawing-quick-pick-how-to-get-a-lottery-ticket",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/1999/1320/0x49/90/d561dde6-04df-44bd-b724-b43fd01c7372-Powerball.jpg",
-      "source": "KOMO News",
-      "publishedAt": "2026-07-10T22:22:21Z"
-    },
-    {
-      "title": "Mayor Mamdani announces 'Click to Cancel' rule to rid NYC of subscription traps and junk fees - ABC7 New York",
-      "description": "The so-called \"Click to Cancel\" rule will require businesses to make it as easy for you to cancel your subscription as it was to sign up.",
-      "url": "https://abc7ny.com/post/mayor-mamdani-announces-click-cancel-rule-rid-nyc-subscription-traps-junk-fees/19481167/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19481168_071026-wabc-mamdani-click-to-cancel-img.jpg?w=1600",
-      "source": "WABC-TV",
-      "publishedAt": "2026-07-10T22:00:34Z"
-    },
-    {
-      "title": "The AI race is shifting from bigger models to cheaper, smarter systems - CNBC",
-      "description": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
-      "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108043118-1727991804628-AravindSrinivas-1.jpg?v=1727991916&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-10T21:22:25Z"
-    },
-    {
-      "title": "Meet ‘Freedom Fuel Network’ stations, a new chain with cheaper gas and mysterious origins - Fortune",
-      "description": "Freedom Fuel Network sells gasoline at prices well below the average, but the chain has revealed little about itself.",
-      "url": "https://fortune.com/2026/07/10/freedom-fuel-network-stations-cheap-gas-donald-trump-white-house-pennsylvania-new-jersey/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284668777-e1783717070290.jpg?resize=1200,600",
+      "title": "Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune",
+      "description": "Global oil flows remain stunted as stockpiles are depleted, and demand is set to rise again.",
+      "url": "https://fortune.com/2026/07/12/trumps-time-running-out-nightmare-hormuz-scenario/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282713593-e1783711150860.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2026-07-10T21:06:00Z"
+      "publishedAt": "2026-07-12T07:13:00Z"
     },
     {
-      "title": "US Stocks Post Second Week of Gains; SK Hynix Jumps on Debut - Bloomberg.com",
-      "description": "US equities posted gains for a second consecutive week, even as investors digested the record US listing of South Korea’s SK Hynix Inc. and renewed tensions in Iran ahead of second-quarter earnings.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/us-stock-futures-slip-after-tech-rally-sk-hynix-starts-trading",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSo69Kvx2ZNI/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-10T20:39:40Z"
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter - BBC",
+      "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "url": "https://www.bbc.com/news/articles/cly0l5d5xn7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-07-12T05:00:15Z"
     },
     {
-      "title": "National debt interest and entitlement spending push FY2026 federal budget deficit toward $2 trillion - Fox Business",
-      "description": "Federal spending on national debt interest, Social Security, Medicare and Medicaid drives the budget deficit $35 billion higher than last year.",
-      "url": "https://www.foxbusiness.com/politics/national-debt-interest-entitlement-spending-push-fy2026-federal-budget-deficit-toward-2-trillion",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/us-capitol-july-4-2026-america-250.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-10T20:37:00Z"
+      "title": "CBS’ Matt Gutman Said He Got “Completely Scammed” By Fake Bank Fraud Investigator: “Scary Experience” - Deadline",
+      "description": "CBS' Matt Gutman Said He Got \"Completely Scammed\" By Fake Bank Fraud Investigator: \"Scary Experience\"",
+      "url": "http://deadline.com/2026/07/cbs-matt-gutman-scammed-fake-bank-fraud-investigator-1236980003/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-2246112484.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-07-12T00:26:00Z"
     },
     {
-      "title": "Passenger partly sucked from Ryanair plane during flight - DW.com",
-      "description": "A man was nearly sucked out the cabin window on a Ryanair flight from Greece to Germany. An initial loud bang was followed by a desperate rescue effort to save the passenger.",
-      "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298",
-      "urlToImage": "https://static.dw.com/image/77908605_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-10T19:46:32Z"
+      "title": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ - San Francisco Chronicle",
+      "description": "About 200 protesters marched through San Francisco, urging OpenAI, Anthropic and Google DeepMind to pause new AI model training.",
+      "url": "https://www.sfchronicle.com/tech/article/san-francisco-ai-protest-22340835.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/66/64/02/31146165/5/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2026-07-11T23:31:07Z"
     },
     {
-      "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO - CNBC",
-      "description": "With Fidji Simo's official departure from OpenAI due to a chronic medical issue, Greg Brockman's role has become clearer.",
-      "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108303095-17780855902026-05-06t163753z_1896314310_rc2s3lasm42k_rtrmadp_0_musk-openai-court.jpeg?v=1783714584&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-10T19:12:46Z"
-    },
-    {
-      "title": "S&P 500 Likely to Report Earnings Growth Above 29% for Q2 - FactSet Insight",
-      "description": "Explore current S&P 500 earnings season trends in this FactSet report. Learn the Q2 and historical quarterly performance of actual earnings vs estimates.",
-      "url": "https://insight.factset.com/sp-500-likely-to-report-earnings-growth-above-29-for-q2",
-      "urlToImage": "https://insight.factset.com/hubfs/1)Insight/Low%20Res%20Insight%20Headers/artificial%20intelligence_at%20desk.png",
-      "source": "Factset.com",
-      "publishedAt": "2026-07-10T18:54:13Z"
-    },
-    {
-      "title": "White House fires back after Trump’s stunning Walmart claim nearly blows up - NJ.com",
+      "title": "He’s 17 Years Old and His Family’s Financial Adviser - WSJ",
       "description": null,
-      "url": "https://www.nj.com/politics/2026/07/white-house-fires-back-after-trumps-stunning-walmart-claim-nearly-blows-up.html",
+      "url": "https://www.wsj.com/personal-finance/hes-17-years-old-and-his-familys-financial-adviser-37732ed2",
       "urlToImage": null,
-      "source": "nj.com",
-      "publishedAt": "2026-07-10T18:30:00Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-07-11T23:00:00Z"
     },
     {
-      "title": "N.J. campaigns brace for voter data shutdown under new law - New Jersey Globe",
-      "description": "Political campaigns, candidates, party organizations, and advocacy groups could lose access to critical voter data as early as tonight after a sweeping",
-      "url": "https://newjerseyglobe.com/campaigns/n-j-campaigns-brace-for-voter-data-shutdown-under-new-law/",
-      "urlToImage": "https://media.newjerseyglobe.com/wp-content/uploads/2026/01/04130118/KBS_1588-scaled.jpg",
-      "source": "New Jersey Globe",
-      "publishedAt": "2026-07-10T17:39:30Z"
+      "title": "Major American city again takes top honors for worst possible travel reason - Fox News",
+      "description": "Experts warn summer travelers to inspect hotel mattresses and furniture as bedbug activity surges across top U.S. cities hosting major events.",
+      "url": "https://www.foxnews.com/health/major-american-city-again-takes-top-honors-worst-possible-travel-reason",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/4cce6bbc-woman_packing_suitcase.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-07-11T22:21:21Z"
     },
     {
-      "title": "Delta Gloats To Investors That Higher Fares Are Sustainable, Even As Oil Gets Cheaper - One Mile at a Time",
-      "description": "Delta CEO Ed Bastian has described higher jet fuel costs as a \"powerful catalyst for change\" in the airline industry, and thinks higher fares will stay.",
-      "url": "https://onemileatatime.com/news/delta-gloats-investors-high-fares-sustainable-oil-cheaper/",
-      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2022/09/Delta-Boeing-757-200.jpg",
-      "source": "One Mile at a Time",
-      "publishedAt": "2026-07-10T17:11:16Z"
+      "title": "44-year-old nostalgic mall retailer quietly closes 28 stores - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/retail/iconic-mall-staple-tillys-closes-stores",
+      "urlToImage": null,
+      "source": "TheStreet",
+      "publishedAt": "2026-07-11T20:36:21Z"
     },
     {
-      "title": "'We're paranoid.' As China biotech competition heats up, American drugmakers get more secretive - Endpoints News",
-      "description": "US biotechs turn tight-lipped on gene targets and pipelines as China's fast-follower threat intensifies, 20+ founders and investors tell Endpoints.",
-      "url": "https://endpoints.news/us-biotechs-turn-secretive-as-they-fear-competition-from-rising-chinese-industry/",
-      "urlToImage": "https://endpoints.news/wp-content/uploads/2026/07/china-secrecy-abstract_og-social@2x.jpg",
-      "source": "Endpoints.news",
-      "publishedAt": "2026-07-10T16:00:00Z"
+      "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets - Business Insider",
+      "description": "Apple sued OpenAI on Friday, accusing the AI startup of orchestrating a campaign to steal trade secrets from iPhone maker.",
+      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7#article",
+      "urlToImage": "https://i.insider.com/6a52a04ddaf4d560957bfd06?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-11T20:23:00Z"
     },
     {
-      "title": "Need Friday night plans? Catch tonight’s SpaceX launch from these SoCal spots - KTLA",
-      "description": "SpaceX is targeting Friday night to launch another batch of Starlink satellites into low-Earth orbit, continuing a string of near-weekly missions from California. However, despite their growing frequency, the wonder of a launch has not been lost on Southern C…",
-      "url": "https://ktla.com/news/california/need-friday-night-plans-catch-tonights-spacex-launch-from-these-socal-spots/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/04/69f23ade15caa5.94169123.jpeg?w=1280",
-      "source": "KTLA Los Angeles",
-      "publishedAt": "2026-07-10T15:39:40Z"
+      "title": "Elon Musk Says ‘Sadly, Yes’ Jeff Bezos’ Ex-Wife MacKenzie Scott Has Donated Over $26 Billion — And It’s Making the World Worse - Yahoo",
+      "description": "Good intentions don’t always earn universal applause. Sometimes they earn a two-word reply instead. Tesla and SpaceX CEO Elon Musk — and richest man in the w...",
+      "url": "https://www.yahoo.com/news/politics/articles/elon-musk-says-sadly-yes-200126096.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/89fc290db86eafa6ebe695c97e56dbd08ea32a7048dffcec477d5baabeb78def/lightyear_networkapi/resizefill_w1024_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F2a60946bcdebe20205671c7c37ed267c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-11T20:01:26Z"
+    },
+    {
+      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger - The Verge",
+      "description": "Oregon Attorney General Dan Rayfield says Paramount clearly thinks “they’re above the law” after being stonewalls in document request.",
+      "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-07-11T18:44:12Z"
+    },
+    {
+      "title": "The Public Got So Mad at Meta’s New AI Photo Tool That It’s Scrapped Already - Gizmodo",
+      "description": "\"We’ve heard the feedback that this feature missed the mark, so it’s no longer available,\" Meta says.",
+      "url": "https://gizmodo.com/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already-2000784400",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/zuckerberg_AI-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-07-11T18:11:08Z"
+    },
+    {
+      "title": "Wall Street analyst sets Micron stock price target - Finbold",
+      "description": "Micron Technology (NASDAQ: MU) has received another bullish endorsement from Wall Street, with TD Cowen reiterating its ‘Buy’ rating.",
+      "url": "https://finbold.com/wall-street-analyst-sets-micron-stock-price-target/",
+      "urlToImage": "https://assets.finbold.com/uploads/2026/07/wall-street-analyst-sets-micron-stock-price-target-042c03.jpg",
+      "source": "Finbold.com",
+      "publishedAt": "2026-07-11T17:13:59Z"
+    },
+    {
+      "title": "Texas pitmaster offers a radical solution to rising brisket prices - Chron",
+      "description": "A Texas pitmaster says one solution to our current beef price problem is going back to USDA Select. But experts say we're too far gone for that to be an option.",
+      "url": "https://www.chron.com/food/article/texas-barbecue-beef-brisket-prices-22337623.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/66/62/31/31139422/3/rawImage.jpg",
+      "source": "Chron.com",
+      "publishedAt": "2026-07-11T16:21:06Z"
+    },
+    {
+      "title": "Wall Street Is Bullish on SpaceX: Here Is What a $2,000 Investment Could Return - Yahoo Finance",
+      "description": "The gap between the bullish and bearish forecasts for this stock is unusually wide.",
+      "url": "https://www.fool.com/investing/2026/07/11/wall-street-is-bullish-on-spacex-here-is-what-a-2/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877820%2Fgettyimages-1182694703.jpg&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-07-11T15:52:00Z"
+    },
+    {
+      "title": "America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high - AP News",
+      "description": "The Federal Reserve’s rate-setting committee is split over whether inflation is likely to stay elevated or whether it will cool once the Iran war winds down, according to minutes released Wednesday. Meanwhile, sales of previously occupied U.S. homes slowed in…",
+      "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/108f880/2147483647/strip/true/crop/4880x3252+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F51%2F023f94aae780c6985faf50be92ac%2F400d6ed3f02b46388d9a02fb9ecd084d",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-11T15:32:00Z"
+    },
+    {
+      "title": "The UK has finally shown it’s serious about crypto - CoinDesk",
+      "description": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah.",
+      "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d77ca36caf0092a5926c5d03601dbfc0203999a6-5779x3853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-11T15:02:24Z"
+    },
+    {
+      "title": "Major German carmakers hit by steep China sales plunge as competition heats up - AP News",
+      "description": "Major German carmakers are experiencing sharp quarterly sales declines in China, the world's biggest auto market. Volkswagen, Mercedes-Benz, BMW, and Porsche saw China sales plummet between 30% and 41% in the April-June quarter compared with last year. For th…",
+      "url": "https://apnews.com/article/cars-china-economy-europe-sales-d156bfb9548c6d1c7e08ccb906963959",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fc12cba/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fed%2F488182c4d2251e677c45e9da0ec8%2Fa9fe6479e68044fcbe87a670e5fada7c",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-11T14:17:00Z"
+    },
+    {
+      "title": "NY AG says Cash App exposed vulnerable users to 'rampant fraud' - Gothamist",
+      "description": "Under a new settlement, Cash App's parent company will pay millions of dollars to NY, NJ and other states.",
+      "url": "https://gothamist.com/news/ny-ag-says-cash-app-exposed-vulnerable-users-to-rampant-fraud",
+      "urlToImage": "https://api-prod.gothamist.com/images/358090/fill-1200x650|format-webp|webpquality-85/",
+      "source": "Gothamist",
+      "publishedAt": "2026-07-11T14:15:00Z"
+    },
+    {
+      "title": "Dairy Queen issues a Blizzard warning for Alaska - New York Post",
+      "description": "America's love affair with the treat is on ice.",
+      "url": "https://nypost.com/2026/07/11/lifestyle/beloved-ice-cream-franchise-closing-46-locations-nationwide/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39956254.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-07-11T14:00:00Z"
+    },
+    {
+      "title": "Redfin reveals change in housing market, home sales - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/real-estate/redfin-housing-market-trends-is-it-good-time-to-buy-2026",
+      "urlToImage": null,
+      "source": "TheStreet",
+      "publishedAt": "2026-07-11T13:17:00Z"
     }
   ]
 }

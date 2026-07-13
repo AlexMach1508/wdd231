@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-07-12T08:29:16.920Z",
+  "updatedAt": "2026-07-13T09:44:30.623Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
-      "description": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
-      "url": "https://www.bbc.com/news/articles/cjrg9r80908o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-11T00:08:51Z"
-    },
-    {
-      "title": "iOS 27: What's New With the Mail App - MacRumors",
-      "description": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features.   Search...",
-      "url": "https://www.macrumors.com/guide/ios-27-mail/",
-      "urlToImage": "https://images.macrumors.com/t/5q6IoBKdDsTMnq3YGqWY3n7UWwY=/2500x/article-new/2026/07/iOS-27-Mail-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-07-10T22:26:09Z"
-    },
-    {
-      "title": "Santa Monica Studio Confirms Physical Disc Release for God of War Laufey, Suggesting 2027 Launch - IGN",
-      "description": "Santa Monica Studio has confirmed God of War Laufey will \"be available on disc,\" suggesting its launch will arrive in 2027.",
-      "url": "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/10/god-of-war-laufey-physical-disc-release-confirmed-2027-1783717114655.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-07-10T21:35:17Z"
-    },
-    {
-      "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
-      "description": "Stop fucking things up just to shove more ads and algorithm nonsense into my face",
-      "url": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/Roku-bad-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-10T20:48:34Z"
-    },
-    {
-      "title": "8 Incredible Speedruns You Have To Watch Right Now - Kotaku",
-      "description": "Summer Games Fest Done Quick is not over yet, but there are plenty of gems you can watch on VOD",
-      "url": "https://kotaku.com/best-summer-games-done-quick-2026-speedruns-to-watch-2000714726",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/20260707-BUR-04027-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-10T19:18:14Z"
-    },
-    {
-      "title": "Honda’s New Small, Affordable Retro Moto Is Super Rider-Friendly Too - Gear Patrol",
-      "description": "The brand revives a staple of its small-displacement portfolio, and it comes with the addition of approachable E-Clutch tech.",
-      "url": "https://www.gearpatrol.com/motorcycles/honda-cb400-super-four-e-clutch-announcement/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/Honda-CB400-Super-Four-E-Clutch-3.webp",
-      "source": "Gear Patrol",
-      "publishedAt": "2026-07-10T18:39:29Z"
-    },
-    {
-      "title": "Google Pixel 11 Pro Fold appears at the FCC ahead of August launch - Android Authority",
-      "description": "What's believed to be the Pixel 11 Pro Fold just made a stop at the FCC, revealing connectivity and hearing aid support.",
-      "url": "https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-11-pro-fold-onleaks-render-close-up-scaled.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2026-07-10T18:19:00Z"
-    },
-    {
-      "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
-      "description": "Ransomware EDR killers just leveled up: GodDamn ransomware used PoisonX — a kernel driver bearing a legitimate Microsoft Hardware Compatibility Publisher signature — to terminate security software on...",
-      "url": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm",
-      "urlToImage": "https://d.techtimes.com/en/full/468426/microsoft.png",
-      "source": "Tech Times",
-      "publishedAt": "2026-07-10T17:55:43Z"
-    },
-    {
-      "title": "OpenAI is shutting down its Atlas web browser - Mashable",
-      "description": "Hello, ChatGPT Work. Goodbye Atlas.",
-      "url": "https://mashable.com/tech/openai-shut-down-atlas-browser",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00GYGfk2FbQeVJJTwAskOJS/hero-image.fill.size_1200x675.v1783702217.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-07-10T17:41:20Z"
-    },
-    {
-      "title": "EU Can’t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner - Kotaku",
-      "description": "The European Union won't stop the all-digital future that video game fans are facing",
-      "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/ps5discs-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-10T17:31:28Z"
-    },
-    {
-      "title": "What Xbox's layoffs, massive reboot says about the gaming industry - KUOW",
-      "description": "Microsoft plans to reduce Xbox by 3,200 jobs over the next fiscal year, calling it “the most significant restructuring in Xbox history.” While the gaming industry has seen many boom and bust cycles, experts say this moment is different.",
-      "url": "https://www.kuow.org/stories/what-xbox-s-layoffs-massive-reboot-says-about-the-gaming-industry",
-      "urlToImage": "https://kuow-prod.imgix.net/store/d14f9409ea249313e2c27ff6cd0156b1.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
-      "source": "KUOW News and Information",
-      "publishedAt": "2026-07-10T17:29:12Z"
-    },
-    {
-      "title": "Leak reveals LEGO Donkey Kong Arcade Set - Nintendo Everything",
-      "description": "Get a first look at the LEGO Donkey Kong Arcade Set coming from Nintendo and LEGO as part of a new leak.",
-      "url": "https://nintendoeverything.com/leak-reveals-lego-donkey-kong-arcade-set/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/LEGO-Donkey-Kong-Arcade-Set.jpg",
+      "title": "Spyro: A Realm Beyond dev explains why it’s not Spyro 4 - Nintendo Everything",
+      "description": "Spyro is finally back with a brand new game with next year’s A Realm Beyond, but it technically isn’t Spyro 4 – at least in name. Toys for Bob recently commented on the naming decision. You may remember that when Crash Bandicoot was brought back with a brand …",
+      "url": "https://nintendoeverything.com/spyro-a-realm-beyond-dev-explains-why-its-not-spyro-4-plus-lots-of-new-details/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Why-Spyro-a-Realm-Beyond-isnt-Spyro-4.jpg",
       "source": "Nintendoeverything.com",
-      "publishedAt": "2026-07-10T17:08:44Z"
+      "publishedAt": "2026-07-12T04:04:40Z"
     },
     {
-      "title": "Spotify will let you fine-tune your weekly Release Radar playlist - The Verge",
-      "description": "Spotify’s new Release Radar controls let you focus on a specific genre, help you find new artists, and more.",
-      "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-07-10T17:02:13Z"
+      "title": "What Smart Glasses Can (and Can't) Do: I Wore the Top Models So You Don't Have To - PCMag",
+      "description": "From AI assistants and built-in cameras to AR displays and wearable private screens, smart glasses come in more flavors than you might think. After testing every major type, here's how they differ—and which features actually matter.",
+      "url": "https://www.pcmag.com/explainers/what-smart-glasses-can-and-cant-do-i-wore-top-models-so-you-dont-have-to",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/06bcTjEOqGYDozTJwG1ffmQ-1.fit_lim.size_1200x630.v1783779021.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2026-07-12T02:14:35Z"
     },
     {
-      "title": "These beers are not yet teenagers but hope to pass as grandpas - The Washington Post",
-      "description": "A fleet of retro-branded light lagers is coming to the beer aisle and tapping into shifting consumer tastes.",
-      "url": "https://www.washingtonpost.com/food/2026/07/10/why-new-craft-beers-are-doing-everything-they-can-look-old/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NAOIDMTXI6DV6AGEAMM7WGPLOA.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-07-10T17:00:01Z"
+      "title": "T. rex fossil could become most expensive dinosaur ever sold - BBC",
+      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "url": "https://www.bbc.com/news/articles/c4gykgyn1r4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-07-11T23:58:40Z"
     },
     {
-      "title": "\"Just too gay\" - designer Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free - Eurogamer.net",
-      "description": "Yang's \"ongoing re-remaster\" compilation Radiator Forever is launching with four games included, and more are on the way.",
-      "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
-      "urlToImage": "https://assetsio.gnwcdn.com/radiator_screenshot_header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-07-10T16:50:45Z"
+      "title": "Skip Pyrex: The Antique Dishware You Can Find At Thrift Stores That's A 'True Collector's Jewel' - House Digest",
+      "description": "The Le Creuset Dutch Oven Terrine is unique. Shaped like a duck and no longer in production, this piece is a rare and interesting twist on plain cookware.",
+      "url": "https://www.housedigest.com/2210412/skip-pyrex-antique-dishware-le-creuset-duck-terrine-thrift-stores/",
+      "urlToImage": "https://www.housedigest.com/img/gallery/skip-pyrex-the-antique-dishware-you-can-find-at-thrift-stores-thats-a-true-collectors-jewel/l-intro-1783514819.jpg",
+      "source": "Housedigest.com",
+      "publishedAt": "2026-07-11T23:40:00Z"
     },
     {
-      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies - GameSpot",
-      "description": "GTA 6 approaches.",
-      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/07/ULTIMATE_EDITION_SARAS_SALON_03.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2026-07-10T16:43:17Z"
+      "title": "Honeycutt, Riggs salvage their days at Lime Rock after final-stage crash - NASCAR.com",
+      "description": "Kaden Honeycutt and Layne Riggs both clinched Chase spots, but their Saturday went sideways in a late restart at Lime Rock Park.",
+      "url": "https://www.nascar.com/news-media/2026/07/11/craftsman-truck-series-2026-lime-rock-layne-riggs-kaden-honeycutt/",
+      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2026/07/11/2026-july11-riggs-honeycutt-lime-rock-1-main-image-672x372.jpg",
+      "source": "NASCAR",
+      "publishedAt": "2026-07-11T23:07:47Z"
     },
     {
-      "title": "‘Faces of Death’ Is Surprisingly Insightful—Not So Surprisingly, Also Gruesome as Hell - Gizmodo",
-      "description": "If you missed 'Faces of Death' in theaters, the reimagining of the infamous faux documentary is coming to Shudder this week.",
-      "url": "https://gizmodo.com/faces-of-death-is-surprisingly-insightful-not-so-surprisingly-also-gruesome-as-hell-2000779634",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/FACES-OF-DEATH-topart-2-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-07-10T16:00:58Z"
+      "title": "SEGA talks importance of Sonic, failing to reach its goal, wanted new game to sell more - Nintendo Everything",
+      "description": "As part of a wide-ranging Famitsu interview with SEGA, president Shuji Utsumi touched upon a number of different topics, including Sonic the Hedgehog. The Japanese magazine published a lengthy discussion with the executive in this week’s issue. During their t…",
+      "url": "https://nintendoeverything.com/sega-president-talks-sonic/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/SEGA-president-Sonic-the-Hedgehog-interview.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-07-11T22:03:51Z"
     },
     {
-      "title": "Why a 45-Second Sniper Mission Remains One of the Most Important Moments in Gaming History - IGN",
-      "description": "Bomb Da Base Act II is GTA 3's most infamous early choke point, but how did this 45-second shooting gallery become so memorable?",
-      "url": "https://www.ign.com/articles/the-gta-3-mission-that-reinvented-it-all",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/09/aotl-gta3-yta-1783615233906.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
+      "description": "Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe and Soulframe.",
+      "url": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/11/wf-taudemo-screenshot-vessel-3840x2160-1783788758094.png?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-07-10T15:30:00Z"
+      "publishedAt": "2026-07-11T22:00:57Z"
     },
     {
-      "title": "‘Palworld 1.0’ Is Putting Up Enormous Steam Player Numbers At Launch - Forbes",
-      "description": "Palworld, the former viral sensation, has just launched its 1.0 version, and it has shown it still has a huge audience eager to play.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/10/palworld-10-is-putting-up-enormous-steam-player-numbers-at-launch/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a510a979dd6872546f78a35/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title": "4 Car Brands Bringing Back The Inline-6 Engine - SlashGear",
+      "description": "Discover 4 car brands bringing back the inline-6 engine. We review how automakers like Mazda, Stellantis, Mercedes-Benz, and Land Rover use the tech.",
+      "url": "https://www.slashgear.com/2209382/car-brands-bringing-back-inline-6-engine/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/4-car-brands-bringing-back-the-inline-6-engine/l-intro-1783425220.jpg",
+      "source": "SlashGear",
+      "publishedAt": "2026-07-11T21:45:00Z"
+    },
+    {
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’ - The Verge",
+      "description": "Three years after becoming a viral sensation, the Nopia harmony machine synth will be out by the end of the year for ‘around £550.’",
+      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-07-11T20:57:42Z"
+    },
+    {
+      "title": "July 14 is Officially the End of an Era for GTA Online - GameRant",
+      "description": "The wildly popular multiplayer game Grand Theft Auto Online is inching ever closer to the end of an era.",
+      "url": "https://gamerant.com/gta-online-final-update-kortz-center-heist/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/gta-online-end-of-an-era.jpg?w=1600&h=900&fit=crop",
+      "source": "GameRant",
+      "publishedAt": "2026-07-11T20:30:15Z"
+    },
+    {
+      "title": "Koei Tecmo talks Pokemon Pokopia, wanted to make the best-selling Pokemon spin-off - Nintendo Everything",
+      "description": "Koei Tecmo has shared a few comments about Pokemon Pokopia’s massive success, including some lofty sales hopes the company had back when it was working on the project. Famitsu recently spoke with Koei Tecmo president and CEO Hisashi Koinuma in a wide-ranging …",
+      "url": "https://nintendoeverything.com/koei-tecmo-talks-pokemon-pokopia-wanted-to-make-the-best-selling-pokemon-spin-off/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Pokopia-Koei-Tecmo-sales-hopes.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-07-11T20:18:49Z"
+    },
+    {
+      "title": "AI is changing modern dating, but experts warn it's making people 'relationally stupid' - Fox News",
+      "description": "Relationship experts warn that using ChatGPT for dating profiles and texting is making people \"relationally stupid\" and unable to show up authentically.",
+      "url": "https://www.foxnews.com/media/ai-changing-modern-dating-experts-warn-making-people-relationally-stupid",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/WOMAN-PHONE-SMILING.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-07-11T19:00:08Z"
+    },
+    {
+      "title": "I'm saving hundreds on new phones while everyone else panics about the RAM crisis - Android Police",
+      "description": "I found the one trick that keeps me ahead",
+      "url": "https://www.androidpolice.com/im-saving-hundreds-on-new-phones-while-everyone-else-panics-about-the-ram-crisis/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-hand-holding-three-smartphones-with-a-ram-price-increase-symbol-and-discount-icons.png?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-07-11T17:30:11Z"
+    },
+    {
+      "title": "iPhone 18 Pro Release Date: Apple’s Strategic Choice Can Defeat Rivals - Forbes",
+      "description": "Apple’s September launch of the iPhone 18 Pro allows it to learn from its Android rivals. Samsung and Google will take the pain as Apple reaps the benefits.",
+      "url": "https://www.forbes.com/sites/ewanspence/2026/07/11/phone-18-pro-market-timing-strategy/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a527aaa815e7835cb11293b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "source": "Forbes",
-      "publishedAt": "2026-07-10T15:13:26Z"
+      "publishedAt": "2026-07-11T17:24:07Z"
+    },
+    {
+      "title": "Woman Says Boyfriend Accidentally Revealed Dating Apps While Screen Sharing: “Tell Me Why Hinge Was There” - Yahoo",
+      "description": "A Reddit user says she discovered dating apps on her boyfriend’s phone after he accidentally shared his screen during a FaceTime call. The woman shared on Re...",
+      "url": "https://dailydot.com/woman-says-boyfriend-accidentally-revealed-dating-apps-while-screen-sharing-tell-me-why-hinge-was-there/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9be5316f7c40c2d9d26fab422f75246500efb4d426ff9c356079f4bfeb405b73/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F523e7a2f042b2511787f9ee146fcb847",
+      "source": "The Daily Dot",
+      "publishedAt": "2026-07-11T17:00:36Z"
+    },
+    {
+      "title": "My phone doesn't go anywhere without this $10 accessory; it's better than a headphone jack - Android Police",
+      "description": "A simple splitter which opens a world of possibilities",
+      "url": "https://www.androidpolice.com/my-phone-doesnt-go-anywhere-without-this-10-accessory/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/android-phone-splitter-hero-1.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-07-11T17:00:11Z"
+    },
+    {
+      "title": "The upcoming Googlebook is a quiet confession that Chromebooks never truly worked - Android Police",
+      "description": "It's okay to admit it, Google",
+      "url": "https://www.androidpolice.com/chromebooks-never-truly-worked/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/googlebook-main-1.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-07-11T16:15:10Z"
+    },
+    {
+      "title": "8 Cool Consumer Reports Approved Gadgets Under $50 - bgr.com",
+      "description": "Score top-tier, Consumer Reports-endorsed tech like streaming sticks and headphones from Roku, Amazon, JBL, and more — all for under $50.",
+      "url": "https://www.bgr.com/2208156/cool-new-gadgets-consumer-reports-approved-under-50/",
+      "urlToImage": "https://www.bgr.com/img/gallery/8-cool-consumer-reports-approved-gadgets-under-50/l-intro-1783244858.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-07-11T16:02:00Z"
+    },
+    {
+      "title": "Your lost dog can now call home with the world's 1st satellite-connected dog collar - Space",
+      "description": "Unlike other GPS-enabled dog collars that require a cellar connection, Fi's new tracker can keep tabs on pets almost anywhere in the world.",
+      "url": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AVXKWiis9M2qjR5cvD5szK-2000-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-07-11T16:00:00Z"
+    },
+    {
+      "title": "SANDISK Phone Drive for iPhone is a great solution to low storage - 9to5Mac",
+      "description": "Each time we buy a phone, we have to decide which storage tier to go for, and that requires a...",
+      "url": "https://9to5mac.com/2026/07/11/sandisk-phone-drive-iphone-great-solution-to-low-storage/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/SANDISK-Phone-Drive-for-iPhone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-07-11T16:00:00Z"
     }
   ]
 }
