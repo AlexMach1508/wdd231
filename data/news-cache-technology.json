@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-07-16T08:28:42.187Z",
+  "updatedAt": "2026-07-17T08:24:04.757Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
-      "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last mon…",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "urlToImage": null,
-      "source": "Krebs on Security",
-      "publishedAt": "2026-07-15T08:03:45Z"
-    },
-    {
-      "title": "OpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion - Yahoo Finance",
-      "description": "(Bloomberg) -- OpenAI's much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type of...",
-      "url": "https://finance.yahoo.com/news/openais-first-device-will-be-movable-screenless-speaker-built-as-ai-companion-205215714.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7F85885F91C2A1DEFEADF53949011A7BA8552513B4F7EE28479FDD8F32C33885/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2Fcd1c1d23e85d499e0b9e3ddd8e80caaf",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-15T04:48:07Z"
-    },
-    {
-      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week - The Verge",
-      "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit changing how Android app stores work in the United States.",
-      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-07-15T04:06:23Z"
-    },
-    {
-      "title": "Castlevania: Belmont’s Curse for Switch launches October 15 - Gematsu",
-      "description": "The Switch version of Castlevania: Belmont’s Curse will launch day and date with the PlayStation 5, Xbox Series, and PC (Steam, Microsoft Store) versions on October 15, publisher Konami and d…",
-      "url": "https://www.gematsu.com/2026/07/castlevania-belmonts-curse-for-switch-launches-october-15",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/Castlevania-Belmonts-Curse-Switch_07-14-26.jpg",
+      "title": "Final Fantasy Resonance ‘Pixel’ trailer, latest details and screenshots - Gematsu",
+      "description": "Publisher and developer Square Enix, and developer Lancarse have released a new trailer for Final Fantasy Resonance, as well as the latest information and screenshots introducing the game world, ch…",
+      "url": "https://www.gematsu.com/2026/07/final-fantasy-resonance-pixel-trailer-latest-details-and-screenshots",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/Final-Fantasy-Resonance_2026_07-15-26_029.jpg",
       "source": "Gematsu",
-      "publishedAt": "2026-07-15T01:22:34Z"
+      "publishedAt": "2026-07-16T03:11:18Z"
     },
     {
-      "title": "LEGO Considering Bondi Blue iMac G3 Set - MacRumors",
-      "description": "LEGO today said the iMac G3 project submitted for consideration on its \"Ideas\" site has been moved to Parking Lot status, which means it...",
-      "url": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/",
-      "urlToImage": "https://images.macrumors.com/t/gpaN9COmOklFL1B8dX9h6VBrbSo=/1600x/article-new/2025/08/LEGO-imac-g31.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2026-07-15T00:12:17Z"
-    },
-    {
-      "title": "Switch 2 'Choose Your Game' Bundle Gets A Discount Ahead Of System Price Revision (US) - nintendolife.com",
-      "description": "A standalone system will cost $499.99 as of September",
-      "url": "https://www.nintendolife.com/news/2026/07/switch-2-choose-your-game-bundle-gets-a-discount-ahead-of-system-price-revision-us",
-      "urlToImage": "https://images.nintendolife.com/45bf721a25315/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-07-14T23:55:00Z"
-    },
-    {
-      "title": "Samsung says Galaxy Z Fold 8 crease is less visible thanks to ‘Flex Titanium’ display - 9to5Google",
-      "description": "The Galaxy Z Fold 8 series will get a new foldable display architecture, Samsung admits, which will improve the phone’s...",
-      "url": "http://9to5google.com/2026/07/14/samsung-galaxy-z-fold-8-flex-titanium-display/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-07-14T23:26:00Z"
-    },
-    {
-      "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10 - 9to5Google",
-      "description": "Google today announced a limited-time Pixel Care+ open enrollment period for existing Pixel 9 and 10 owners.",
-      "url": "http://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-close-up-G-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-07-14T22:40:00Z"
-    },
-    {
-      "title": "Dead Space Creator Glen Schofield Announces Retirement From \"Day to Day\" Work of the Gaming Industry - IGN",
-      "description": "Dead Space creator Glen Schofield has announced his retirement from the gaming industry.",
-      "url": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/14/glen-schofield-1784067827673.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/13/thumbnail-1783966106284.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-07-14T22:31:13Z"
+      "publishedAt": "2026-07-16T02:00:00Z"
     },
     {
-      "title": "Microsoft Secure Boot has been broken for most of its existence - Ars Technica",
-      "description": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-14T22:20:48Z"
+      "title": "Mario Tennis Fever major 1.1.0 update out now, patch notes - Galaxy Court, Black Hole Racket, balance adjustments, more - Nintendo Everything",
+      "description": "Mario Tennis Fever just got a massive update with version 1.1.0 including new content and more - check out the patch notes.",
+      "url": "https://nintendoeverything.com/mario-tennis-fever-major-1-1-0-update-out-now-patch-notes-galaxy-court-black-hole-racket-balance-adjustments-more/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Mario-Tennis-Fever-1.1.0-update.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-07-16T01:17:54Z"
     },
     {
-      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now - BleepingComputer",
-      "description": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates.",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/01/24/Sonicwall.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-07-14T21:23:24Z"
+      "title": "AirPods just got a long-requested feature in new public beta - 9to5Mac",
+      "description": "A new AirPods public beta just arrived with custom EQ, a long-requested feature. Here's how to install it and what else is new.",
+      "url": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/10-AirPods-EQ-iOS-27-Beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-07-16T00:19:00Z"
     },
     {
-      "title": "Amazon Has the Lowest Price on a GeForce RTX 5070 Graphics Card That I've Seen So Far This Year - IGN",
-      "description": "The ASUS Prime RTX 5070 GPU has 12GB of VRAM and a robust triple-fan cooling system.",
-      "url": "https://www.ign.com/articles/asus-prime-geforce-rtx-5070-graphics-card-deal",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/14/asusprimertx5070-1784062654742.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-07-14T21:03:38Z"
+      "title": "Skullcandy’s New Wireless Headphones Have So Much Bose in Them - Gizmodo",
+      "description": "There are three technologies in the Crusher 1080 ANC that have never been in a non-Bose pair of wireless headphones before.",
+      "url": "https://gizmodo.com/skullcandys-new-wireless-headphones-have-so-much-bose-in-them-2000785885",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/skullcandy-crusher-1080-ANC-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-07-16T00:00:35Z"
     },
     {
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch",
-      "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the softw…",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T19:42:27Z"
+      "title": "PlayStation’s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less - Kotaku",
+      "description": "A lot of Resident Evil, Mortal Kombat, and Star Wars games are on sale for less than $20",
+      "url": "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/dealspsns.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-07-16T00:00:19Z"
     },
     {
-      "title": "47 revelatory hours with Assassin’s Creed Black Flag Resynced - Game File | Stephen Totilo",
-      "description": "A review in the new Assassin’s Creed's fringes, where some truths about the game can be found.",
-      "url": "https://www.gamefile.news/p/assassins-creed-black-flag-resynced-review",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!75nv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea4f5d66-71d9-4d0e-bd00-29af9dfaec10_3840x2160.jpeg",
+      "title": "ZeniMax Online Studios leadership to exit as part of Xbox cuts - Game File | Stephen Totilo",
+      "description": "A rundown of 379 gaming roles eliminated in Maryland last week listed some surprisingly senior job titles",
+      "url": "https://www.gamefile.news/p/zenimax-online-studio-head-out",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!L7ci!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76f46694-782d-4de8-8530-0ce59bcd5199_1920x1080.jpeg",
       "source": "Gamefile.news",
-      "publishedAt": "2026-07-14T19:18:48Z"
+      "publishedAt": "2026-07-15T23:41:44Z"
     },
     {
-      "title": "OnePlus Is Reportedly Shutting Down In the US, Europe - Slashdot",
-      "description": "OnePlus will reportedly announce this week that it is shutting down its brand in the U.S. and Europe, following months of signs that parent company Oppo was winding down the brand's global presence. India and China are reportedly unaffected, but it's unclear …",
-      "url": "https://mobile.slashdot.org/story/26/07/14/1641233/oneplus-is-reportedly-shutting-down-in-the-us-europe",
-      "urlToImage": "https://a.fsdn.com/sd/topics/cellphones_64.png",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-14T18:57:28Z"
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing - MacRumors",
+      "description": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone...",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "urlToImage": "https://images.macrumors.com/t/UQnXDOtWSoHdVTi9ddAM0pGVW5E=/2500x/article-new/2025/11/iphone-17-cyber.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-07-15T22:20:29Z"
     },
     {
-      "title": "5 V6-Powered Cars Quicker Than Ford's New Mustang GT - SlashGear",
-      "description": "The new Ford Mustang GT offers impressive V8-powered performance, but these V6-powered vehicles offer comparable speed and acceleration.",
-      "url": "https://www.slashgear.com/2211990/v6-engine-cars-accelerate-faster-than-new-ford-mustang-gt/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-v6-powered-cars-quicker-than-fords-new-mustang-gt/l-intro-1783637948.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2026-07-14T18:45:00Z"
+      "title": "Valve says iFixit will keep selling Steam Deck batteries after all - The Verge",
+      "description": "Valve and iFixit tell The Verge that they’re getting new stock of the Steam Deck LCD’s replacement battery, despite earlier reports.",
+      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070039/DSCF9076.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-07-15T22:16:46Z"
     },
     {
-      "title": "Health Companion: Samsung teases Galaxy Watch 9's upgrades before Unpacked - Android Central",
-      "description": "Samsung drummed up Galaxy Watch 9 teasers, highlighting major upgrades to solve what the Watch 8 lacked.",
-      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-teases-new-fresh-for-the-galaxy-watch-9-before-unpacked",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vw2crvr9aJg8wa68c99GvN-2560-80.jpg",
-      "source": "Android Central",
-      "publishedAt": "2026-07-14T18:42:00Z"
+      "title": "Xbox Summer Sale 2026 Now Live, 2000+ Games Discounted - Pure Xbox",
+      "description": "The Ultimate Game Sale has arrived!",
+      "url": "https://www.purexbox.com/news/2026/07/xbox-summer-sale-2026-now-live-2000plus-games-discounted",
+      "urlToImage": "https://images.purexbox.com/f678df8cbe4fb/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-07-15T22:14:41Z"
     },
     {
-      "title": "T. rex fossil sells for a monster price tag at NYC auction - USA Today",
-      "description": "One of the most complete fossils of the dinosaur that has captured humanity's imagination sold for millions during Sotheby's Natural History auction.",
-      "url": "https://www.usatoday.com/story/news/nation/2026/07/14/t-rex-fossil-gus-sold-million-nyc-auction/90902966007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/14/USAT/90911950007-photo-credit-matthew-sherman-3.jpg?crop=6015,3385,x0,y563&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-07-14T17:38:00Z"
+      "title": "Android 17 QPR1 Beta 7 rolling out for Pixel - 9to5Google",
+      "description": "Following the last release two weeks ago, Android 17 QPR1 Beta 7 is rolling out today for Pixel devices. Android...",
+      "url": "http://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Android-17-logo-close-up.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-07-15T21:29:00Z"
     },
     {
-      "title": "Crunchyroll Store to Become Exclusive to Mega/Ultimate Fan Tiers in August - Anime News Network",
-      "description": "Open orders will continue to process, including those for items released after store transitions",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-14/crunchyroll-store-to-become-exclusive-to-mega-ultimate-fan-tiers-in-august/.239593",
-      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg",
-      "source": "Anime News Network",
-      "publishedAt": "2026-07-14T17:15:55Z"
+      "title": "OpenAI Just Launched Its First Hardware Product—and It’s a Tiny Keyboard for Bossing Around AI Agents - Gizmodo",
+      "description": "The AI company teamed up with Work Louder on a programmable keyboard designed specifically for Codex.",
+      "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-07-15T21:25:11Z"
+    },
+    {
+      "title": "Sony-Owned Crunchyroll Is Now Kneecapping Physical Anime Sales - GameSpot",
+      "description": "Big changes are coming to one of the longest-lived physical anime specialty stores.",
+      "url": "https://www.gamespot.com/articles/sony-owned-crunchyroll-is-now-kneecapping-physical-anime-sales/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/07/Clipboard_07-15-2026_01.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-07-15T21:19:38Z"
+    },
+    {
+      "title": "Backlash against Sony over PlayStation's all-digital future gets louder — here's how things could play out in court - Yahoo Tech",
+      "description": "By eliminating physical game discs in 2028, Sony may be setting itself up for antitrust battles reminiscent of Epic's monopoly claims against mobile app stor...",
+      "url": "https://tech.yahoo.com/gaming/article/backlash-against-sony-over-playstations-all-digital-future-gets-louder--heres-how-things-could-play-out-in-court-201844560.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5fa7eebfe488b93de85c7ce7c992aa6fa3c8cd707ca4d3b644cfb16798be2c9e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F9b7c82eb-64a1-456b-a613-62f9b94f919f_51b8738d2c6013a52c12bcb7d3984b6f23e49d48d7f73c324a8280d36c6b7025.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-15T20:18:44Z"
+    },
+    {
+      "title": "AC Black Flag Resynced Update 1.04 Live Tomorrow, Patch Notes Revealed - Push Square",
+      "description": "Available from 16th July",
+      "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-live-tomorrow-patch-notes-revealed",
+      "urlToImage": "https://images.pushsquare.com/69e56b9566d29/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-07-15T20:00:00Z"
+    },
+    {
+      "title": "Sex advice: I read my ex's texts with her new man. What I saw has ruined my confidence in bed. - Slate Magazine",
+      "description": "I can't quiet the voice in the back of my head.",
+      "url": "https://slate.com/advice/2026/07/sex-advice-ex-exploration-text-messages.html",
+      "urlToImage": "https://compote.slate.com/images/cbd2d5c3-e24a-4118-950a-f20dc0dec2aa.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-07-15T18:50:00Z"
+    },
+    {
+      "title": "Microsoft patches bug in video game Age of Empires II - TechCrunch",
+      "description": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/age-of-empires-ii-microsoft.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T18:47:01Z"
+    },
+    {
+      "title": "Rayman Origins: Enhanced Edition gets first trailer - Nintendo Everything",
+      "description": "Ubisoft just put out the first trailer for Rayman Origins: Enhanced Edition. You may recall that this one was announced alongside Rayman Legends Retold. Speaking of which, when picking up Retold, you’ll get Rayman Origins: Enhanced Edition at no extra cost. A…",
+      "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-gets-first-trailer/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-trailer.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-07-15T18:24:19Z"
+    },
+    {
+      "title": "World's Oldest Amber Comes From a World 150 Million Years Before Dinosaurs - ScienceAlert",
+      "description": "We tend to think of tree resin as an ancient, fragrant defense against munching insects – one that fends off pests and scabs over the wounds left by their voracious mandibles.",
+      "url": "https://www.sciencealert.com/worlds-oldest-amber-comes-from-a-world-150-million-years-before-dinosaurs",
+      "urlToImage": "https://www.sciencealert.com/images/2026/07/amber-1.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2026-07-15T18:01:55Z"
+    },
+    {
+      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations - TechCrunch",
+      "description": "OnePlus could also wind down its operations in India by 2027.",
+      "url": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg?w=960",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T17:53:32Z"
     }
   ]
 }
