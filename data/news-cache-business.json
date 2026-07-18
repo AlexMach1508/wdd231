@@ -1,143 +1,167 @@
 {
-  "updatedAt": "2026-07-17T08:24:04.840Z",
+  "updatedAt": "2026-07-18T08:05:01.176Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "South Korea stocks slump after first rate rise in 3 years - Financial Times",
-      "description": "Bank of Korea’s first move under Shin Hyun-song comes amid concern over persistent inflation and currency weakness",
-      "url": "https://www.ft.com/content/bb1a1582-c522-4c5d-a769-45ba9f5a3054?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b5a6019-3831-454b-a6d7-8b80d06403c5.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-16T04:41:15Z"
+      "title": "Parasitic Outbreak Linked to Taylor Farms Lettuce Supplied to Taco Bell - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/us-news/health-authorities-link-parasitic-outbreak-to-lettuce-from-taylor-farms-taco-bell-242689fc",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-07-17T03:49:00Z"
     },
     {
-      "title": "Ex-Fed advisor gets over three years in prison for lying about China ties - CNBC",
-      "description": "The case marks one of the most prominent U.S. prosecutions alleging Chinese intelligence targeting of U.S. institutions, as Trump intensifies its pursuit of foreign economic espionage.",
-      "url": "https://www.cnbc.com/2026/07/16/ex-fed-adviser-gets-jailtime-lying-about-china-ties-economic-espionage-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335701-1784161108187-gettyimages-2218092808-LUTNICK_CONGRESS.jpeg?v=1784161171&w=1920&h=1080",
+      "title": "FDA approves 1st-of-its-kind pill to reduce cholesterol - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/Health/fda-approves-1st-kind-pill-reduce-cholesterol/story?id\\\\u003d134830720",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-17T01:14:48Z"
+    },
+    {
+      "title": "China's open-weight Kimi model stuns AI world with frontier-level results - Axios",
+      "description": "Kimi K3's early performance is fueling alarm in Silicon Valley and Washington.",
+      "url": "https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic",
+      "urlToImage": "https://images.axios.com/e1zdGpU093Me_gZ2R0FRxyBXDeU=/1366x768/smart/2021/10/11/184405-1633977845020.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-07-17T01:04:19Z"
+    },
+    {
+      "title": "Seven & i shares jump 3% on report of stake talks with Polish convenience chain Zabka - CNBC",
+      "description": "Shares of Seven & i Holdings Co. jumped after a report said the company was looking to buy a stake in Poland's Zabka Group.",
+      "url": "https://www.cnbc.com/2026/07/17/seven-i-zabka-investment-poland.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108066274-1732197713414-gettyimages-2185168570-AFP_36MW6VH.jpeg?v=1732197786&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-07-16T01:47:00Z"
+      "publishedAt": "2026-07-17T00:31:00Z"
     },
     {
-      "title": "China grew at its slowest pace in more than 3 years last quarter - AP News",
-      "description": "China has reported its economy slowed in the last quarter, growing at a 4.3% annualized pace. It was the slowest growth since the last quarter of 2022 and far weaker than its strong 5% start for the January-March quarter. Lagging consumer spending and busines…",
-      "url": "https://apnews.com/article/china-economy-trade-exports-ai-95136222f87d5a1e62918f41efab00be",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7f4d454/2147483647/strip/true/crop/3135x2089+187+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F84%2F16edb0197dcdadbe1a87ba3a8af8%2F586edfa7a08f4713a7eb8d3d929eb2b0",
+      "title": "Why has SpaceX stock continued to fall? Experts explain - Yahoo Finance",
+      "description": "The stock stands 40% below a peak attained after its IPO last month.",
+      "url": "https://abcnews.com/Business/spacex-stock-continued-fall-experts-explain/story?id=134811953",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/F3D2562A6ABC30D4093B23895E030D37220A13911E14A4605B91E756240C8659/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F46359a7220ce4826ef3905864c626ea5",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-17T00:27:00Z"
+    },
+    {
+      "title": "SpaceX scrubs Starship launch after some of its engines didn’t start - Ars Technica",
+      "description": "Now offloading propellant. Next launch attempt hopefully in a few days.\"",
+      "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-17T00:02:54Z"
+    },
+    {
+      "title": "US investigators lead probe into Ryanair flight where man was partly sucked out of broken window - AP News",
+      "description": "U.S. aviation safety investigators have taken over the investigation into what caused a window to dislodge on a Ryanair flight from Greece to Germany on July 10. A man was partially sucked out of the plane before his wife and other passengers pulled him back …",
+      "url": "https://apnews.com/article/ryanair-flight-greece-man-sucked-out-ntsb-national-transportation-safety-board-investigation-96ed9ba265f9c93c2a3bca5dad0e2496",
+      "urlToImage": "https://dims.apnews.com/dims4/default/17c0f15/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2F8c%2F9ddf6174c2cc3f92bcb465bfcaa3%2F9293d5278c484e2abde019c2df1844a3",
       "source": "Associated Press",
-      "publishedAt": "2026-07-16T01:18:32Z"
+      "publishedAt": "2026-07-16T23:25:00Z"
     },
     {
-      "title": "United Airlines anticipates $6 billion in added fuel costs this year - CBS News",
-      "description": "U.S. airlines say higher jet fuel prices are costing them billions more than they anticipated at the beginning of the year.",
-      "url": "https://www.cbsnews.com/news/united-airlines-jet-fuel-spend-6-billion/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/15/cd1efe78-d0ac-4914-9842-84ba66b7e8e0/thumbnail/1200x630/c0f3fb47897f9b33a5f5df4c560a76f8/gettyimages-2280763480.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-07-16T00:08:00Z"
-    },
-    {
-      "title": "Anthropic in Talks to Add Billions to Bank Credit Line Ahead of IPO - The Information",
-      "description": "Anthropic is in talks with banks to arrange credit lines worth a few billions of dollars in a move that would increase its access to cash ahead of a planned initial public offering this year, according to people familiar with the matter. The new loans would b…",
-      "url": "https://www.theinformation.com/articles/anthropic-talks-add-billions-bank-credit-line-ahead-ipo",
-      "urlToImage": "https://tii.imgix.net/production/articles/17465/bb50717c-d8fc-4da9-a392-e543162cd6ba.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "source": "The Information",
-      "publishedAt": "2026-07-15T23:06:00Z"
-    },
-    {
-      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful' - BBC",
-      "description": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
-      "url": "https://www.bbc.com/news/articles/cz97wx2zj78o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40d0/live/4b8920c0-8090-11f1-bee8-53ce494e1abc.jpg",
+      "title": "Trump Media to sell fast feed of key posts to Wall Street - BBC",
+      "description": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "url": "https://www.bbc.com/news/articles/c79gw4lj89eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-07-15T22:25:35Z"
+      "publishedAt": "2026-07-16T22:42:37Z"
     },
     {
-      "title": "Why SK Hynix Stock Drops Today After a 27% Surge - Barron's",
-      "description": "SK Hynix stock is on course to give up some of its recent gains as investors lock in profit.",
-      "url": "https://www.barrons.com/articles/sk-hynix-stock-memory-chip-ccdedc2c",
-      "urlToImage": "https://images.barrons.com/im-99551370/social",
+      "title": "Asian Stocks Drop After Chip Selloff, Oil Gains: Markets Wrap - Bloomberg.com",
+      "description": "Asian stocks fell alongside US equity-index futures as a selloff in chipmakers deepened on mounting concern that massive artificial-intelligence investments may not justify lofty valuations. Oil climbed.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAHS318Hc0AM/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-16T22:05:23Z"
+    },
+    {
+      "title": "Texas beats California for massive $3.2B shipyard bringing 10,000 jobs - Chron",
+      "description": "Saronic selected Brownsville for its $3 billion Port Alpha shipyard, creating up to 10,000 jobs after passing on California.",
+      "url": "https://www.chron.com/news/article/saronic-shipyard-brownsville-port-alpha-california-22348501.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/66/66/64/31157524/3/rawImage.jpg",
+      "source": "Chron.com",
+      "publishedAt": "2026-07-16T21:57:37Z"
+    },
+    {
+      "title": "Netflix Stock Drops on Revenue Miss, Engagement Update - Barron's",
+      "description": "Revenue for the quarter of $12.56 billion was below the $12.58 billion analysts were expecting.",
+      "url": "https://www.barrons.com/articles/netflix-earnings-stock-price-4fb3e0df",
+      "urlToImage": "https://images.barrons.com/im-09630528/social",
       "source": "Barron's",
-      "publishedAt": "2026-07-15T22:09:00Z"
+      "publishedAt": "2026-07-16T21:46:00Z"
     },
     {
-      "title": "National Hot Dog Day is here. How you can score free hot dogs - USA Today",
-      "description": "The third Wednesday of every July is National Hot Dog Day. Here's where you can celebrate.",
-      "url": "https://www.usatoday.com/story/money/food/2026/07/15/naitonal-hot-dog-day-2026-deals-free-food/90901191007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90926760007-20260704-t-173334-z-1294544235-rc-257-maqomrj-rtrmadp-3-usajulyfourthnathans.JPG?crop=5499,3093,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack - TechCrunch",
+      "description": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/fairlife-2249286685.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T21:22:31Z"
+    },
+    {
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users. - Ars Technica",
+      "description": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-16T20:26:23Z"
+    },
+    {
+      "title": "IRS raises business mileage deduction rate amid fuel price surge - Fox Business",
+      "description": "The IRS raised its standard business mileage deduction to 76 cents per mile amid surging gas prices linked to the Iran war's disruption of oil flows.",
+      "url": "https://www.foxbusiness.com/economy/irs-raises-business-mileage-deduction-rate-amid-fuel-price-surge",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/gas-station-car-fuel-prices-01.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-07-16T20:22:00Z"
+    },
+    {
+      "title": "AST SpaceMobile Stock Fall Is About More Than SpaceX - Barron's",
+      "description": "AST SpaceMobile stock has fallen almost 30% in the past three months and its latest debt offering isn't helping. It is a rival to SpaceX's Starlink.",
+      "url": "https://www.barrons.com/articles/ast-spacemobile-stock-price-spacex-caa59bc3",
+      "urlToImage": "https://images.barrons.com/im-35213883/social",
+      "source": "Barron's",
+      "publishedAt": "2026-07-16T20:15:00Z"
+    },
+    {
+      "title": "Can the Fed lower inflation? 5 takeaways from Warsh on Capitol Hill. - USA Today",
+      "description": "Federal Reserve Chair Kevin Warsh may not like forward guidance, but he spent five hours answering lawmakers' questions this week. What they learned.",
+      "url": "https://www.usatoday.com/story/money/economy/2026/07/16/kevin-warsh-fed-chair-testimony-inflation-ai/90928270007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90929496007-2285594550-1.jpg?crop=4745,2669,x0,y247&width=3200&height=1800&format=pjpg&auto=webp",
       "source": "USA Today",
-      "publishedAt": "2026-07-15T21:48:00Z"
+      "publishedAt": "2026-07-16T19:50:00Z"
     },
     {
-      "title": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says - The Block",
-      "description": "\"Within the next few years the majority of money will live and move on blockchain in one form or another,\" according to Polygon Labs.",
-      "url": "https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain",
-      "urlToImage": "https://www.tbstat.com/wp/uploads/2022/11/20221104_PayPal-1200x675.jpg",
-      "source": "Theblock.co",
-      "publishedAt": "2026-07-15T21:41:07Z"
+      "title": "Tillis shouts at Vought, tired of picking up ‘DOGE s‑‑‑ because people did it wrong’ - The Hill",
+      "description": "GOP Sen. Thom Tillis (N.C.) on Thursday lambasted Office of Management and Budget (OMB) Director Russell Vought over, in his view, the shuttered Department of Government Efficiency’s (DOGE) lack of accomplishments.  During a Senate Banking, Housing and Urban …",
+      "url": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26196630269160-e1784139275321.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2026-07-16T19:15:00Z"
     },
     {
-      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’ - The Verge",
-      "description": "xAI is suing Terry Wayne Harwood for allegedly using the company’s Grok AI chatbot to generate CSAM, violating its policies.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-07-15T21:33:20Z"
+      "title": "As SK Hynix Stock Drops, Regulators Try to Impose Stability - Barron's",
+      "description": "SK Hynix stock has been volatile since its blockbuster ADR listing. South Korean regulators are stepping in.",
+      "url": "https://www.barrons.com/articles/sk-hynix-stock-price-volatility-c4785be7",
+      "urlToImage": "https://images.barrons.com/im-77384770/social",
+      "source": "Barron's",
+      "publishedAt": "2026-07-16T18:12:00Z"
     },
     {
-      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves - The Verge",
-      "description": "Federal Communications Commission Chair Brendan Carr set a vote to eliminate the 39 percent broadcast ownership cap, which critics say he lacks authority to do.",
-      "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/FCC-stock-01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-07-15T21:30:17Z"
+      "title": "Mortgage rates jump to highest level in almost a year - Fox Business",
+      "description": "The average rate on a 30-year fixed mortgage rose this week to 6.55%, according to the latest Freddie Mac data released Thursday. That is up from last week's reading of 6.49%.",
+      "url": "https://www.foxbusiness.com/economy/mortgage-rates-july-16-2026",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/home-for-sale-person-walking-getty.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-07-16T17:38:00Z"
     },
     {
-      "title": "California city makes final ruling on Amsterdam-style cannabis cafes - New York Post",
-      "description": "California pot smokers can now buy weed laced food, regular food, and enjoy live entertainment at their favorite approved cannabis lounges in San Francisco.",
-      "url": "https://nypost.com/2026/07/15/us-news/california-city-oks-law-allowing-amsterdam-style-cannabis-cafes/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-u4ldyst19-1784150302488.jpg?quality=75&strip=all&1784135962&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-07-15T21:19:00Z"
-    },
-    {
-      "title": "Kalshi traders see gas prices crossing $4 by end of July - CNBC",
-      "description": "Like last month's average, Kalshi traders see gas prices surpassing $4 by the end of July.",
-      "url": "https://www.cnbc.com/2026/07/15/kalshi-traders-see-gas-prices-crossing-4-by-end-of-july-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108332317-1783537477738-gettyimages-2268972383-pruebasgetty-3.jpeg?v=1783537529&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-15T21:11:03Z"
-    },
-    {
-      "title": "ASML Stock Rises On Second-Quarter Beat, Raised Forecast - Investor's Business Daily",
-      "description": "The semiconductor equipment giant raised its outlook for Q2 and the full year.",
-      "url": "https://www.investors.com/news/technology/asml-stock-q2-2026-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/stock-ASML-offices-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-15T20:33:00Z"
-    },
-    {
-      "title": "Why This Biotech Stock, With Its First FDA Approval, Just Crashed By Double Digits - Investor's Business Daily",
-      "description": "Celcuity just won FDA approval for its first drug, a treatment for metastatic breast cancer.",
-      "url": "https://www.investors.com/news/technology/celcuity-stock-fda-approval-breast-cancer-treatment/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/07/Stock-cancertreatment-01-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-15T20:16:00Z"
-    },
-    {
-      "title": "Oppenheimer Downgrades IBM Stock After Earnings Miss Triggers Massive Sell-Off - Yahoo Finance",
-      "description": "IBM's Earnings Fallout Continues as Oppenheimer Downgrades the Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-downgrades-ibm-stock-earnings-200732573.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-15T20:07:32Z"
-    },
-    {
-      "title": "China’s War on ‘Lying Flat’ Comes for Companion Chatbots - Gizmodo",
-      "description": "Authorities have seen what this behavior does to a person, and they don't like it.",
-      "url": "https://gizmodo.com/chinas-war-on-lying-flat-comes-for-companion-chatbots-2000785922",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/AI_chatbot_dating-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-07-15T19:10:04Z"
+      "title": "IBM’s worst day since 1968 handed Micron a gift - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/stocks/ibm-worst-drop-since-1968-micron-mu-memory-ai-trade",
+      "urlToImage": null,
+      "source": "TheStreet",
+      "publishedAt": "2026-07-16T17:33:59Z"
     }
   ]
 }
