@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-07-18T08:05:01.125Z",
+  "updatedAt": "2026-07-19T08:31:51.205Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen - 9to5Mac",
-      "description": "Apple released the iOS 27 public beta this week, with a ton of new Siri and Apple Intelligence features. One...",
-      "url": "https://9to5mac.com/2026/07/16/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Apple Increases Prices For Apple Music & Apple One Over \"Rising Licensing Costs\" - Deadline",
+      "description": "Apple is raising prices for its music streaming service, Apple Music, for subscribers in the U.S. and other countries.",
+      "url": "http://deadline.com/2026/07/apple-increases-prices-music-one-subscriptions-1236997295/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/apple-music.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-07-17T22:52:00Z"
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’ - TechCrunch",
+      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T21:20:47Z"
+    },
+    {
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code - The Hacker News",
+      "description": "WordPress 6.9.5 and 7.0.2 patch wp2shell, a pre-auth core RCE that lets anonymous attackers run code on default installs, even with no plugins.",
+      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-07-17T21:20:00Z"
+    },
+    {
+      "title": "Why I Don't Recommend the Steam Deck Anymore - IGN",
+      "description": "Ever since the Steam Deck debuted in 2022, it's been one of my favorite devices. It was relatively affordable for a handheld gaming PC, but still powerful enough to play pretty much anything I would realistically play on the go. And while I still love the thi…",
+      "url": "https://www.ign.com/articles/why-i-dont-recommend-the-steam-deck-anymore",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/11/08/vlcsnap-2023-11-08-15h20m42s026-1699485677675.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-07-17T21:19:29Z"
+    },
+    {
+      "title": "Obviously, Bethesda Is Remastering ‘Fallout: New Vegas’ and ‘Fallout 3’ - Gizmodo",
+      "description": "The remasters have been an extremely poorly kept secret for months, but now, they're official.",
+      "url": "https://gizmodo.com/obviously-bethesda-is-remastering-fallout-new-vegas-and-fallout-3-2000787259",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/FalloutS2NYimage14_30001-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-07-17T21:00:27Z"
+    },
+    {
+      "title": "Big Shake-Up on Sony's Struggling Live Service as Marathon's Game Director Departs - Push Square",
+      "description": "Bungie woes go on",
+      "url": "https://www.pushsquare.com/news/2026/07/big-shake-up-on-sonys-struggling-live-service-as-marathons-game-director-departs",
+      "urlToImage": "https://images.pushsquare.com/92585c234c927/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-07-17T19:45:00Z"
+    },
+    {
+      "title": "San Francisco demands Google and Apple remove 'nudify' apps from their stores - Yahoo Tech",
+      "description": "The San Francisco city attorney has sent cease-and-desist letters to Apple and Google, demanding they remove 13 \"nudify\" apps from their app stores.",
+      "url": "https://tech.yahoo.com/apps/article/san-francisco-demands-google-and-apple-remove-nudify-apps-from-their-stores-192154957.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/321ce965ae72c88c02a9426ec1f29b99851534820bb547996a3243434213cba0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-07%2F5779f520-7eca-11f1-8ff6-36d85925cac5",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-17T19:21:54Z"
+    },
+    {
+      "title": "Zelda: Ocarina Of Time Remake Price And Pre-Order Rumors Swirl - Kotaku",
+      "description": "Also: that mobile version of Final Fantasy 14 has been canceled",
+      "url": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/image-94.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-07-17T18:45:39Z"
+    },
+    {
+      "title": "Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn't Sell Well Enough To Prevent Layoffs - Kotaku",
+      "description": "In a post on social media, ZA/UM wrote that it would lay off 32 developers two months after releasing Zero Parades: For Dead Spies",
+      "url": "https://kotaku.com/disco-elysium-studio-says-game-about-people-forced-into-impossible-situations-didnt-sell-well-enough-to-prevent-layoffs-2000717249",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/05/zp6-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-07-17T18:02:19Z"
+    },
+    {
+      "title": "OpenAI tweaks chat access in the ChatGPT app for Mac - 9to5Mac",
+      "description": "OpenAI has updated its recently redesigned ChatGPT app for Mac to make chats easier to access once again. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/17/openai-fixes-chat-access-in-the-chatgpt-app-for-mac/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-insta.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2026-07-16T22:42:00Z"
+      "publishedAt": "2026-07-17T18:01:00Z"
     },
     {
-      "title": "It’s official: EU will force Google to share search data and open up AI on Android - Ars Technica",
-      "description": "Google says these changes could endanger user privacy and security.",
-      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-1152x648-1742412347.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-16T20:41:45Z"
+      "title": "EA Ads Lead Outlines Future of In-Game Ads Across EA’s Biggest Franchises - Sims Community",
+      "description": "The Game Business interviewed Alexander Dao, Head of EA Ads, and gave use insight into how in-game ads may work, and why they work.",
+      "url": "https://simscommunity.info/2026/07/17/ea-ads-lead-talks-in-game-ads/",
+      "urlToImage": "https://simscommunity.info/wp-content/uploads/2026/07/EA-Future-of-Ingame-Ads.jpg",
+      "source": "Simscommunity.info",
+      "publishedAt": "2026-07-17T17:55:50Z"
     },
     {
-      "title": "The Ultimate Affordable Tool Watch Gets Its Most Tactical Version Yet - Gear Patrol",
-      "description": "Independent watch brands Nodus and Raven have teamed up for a new take on the TrailTrekker featuring lume-infused forged carbon.",
-      "url": "https://www.gearpatrol.com/watches/nodus-raven-trailtrekker-carbon/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/nodus-raven-trailtrekker-carbon-lead.webp",
+      "title": "Honda’s Affordable New Performance Moto Is Its Most Rider-Friendly Yet - Gear Patrol",
+      "description": "Thanks to its compact size and innovative tech, the sporty bike looks super-approachable right out of the gate.",
+      "url": "https://www.gearpatrol.com/motorcycles/honda-cbr400r-four-e-clutch/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/Honda-CBR400R-FOUR-E-Clutch-macro.webp",
       "source": "Gear Patrol",
-      "publishedAt": "2026-07-16T19:40:28Z"
+      "publishedAt": "2026-07-17T17:55:48Z"
     },
     {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\" - Ars Technica",
-      "description": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-16T19:18:23Z"
-    },
-    {
-      "title": "GameStop CEO Says Physical Games Are ‘Totally Irrelevant’ - Kotaku",
-      "description": "Ryan Cohen also claims that if GameStop and eBay merged it could create a $1 trillion business",
-      "url": "https://kotaku.com/gamestop-ceo-says-physical-games-dont-matter-2000716758",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/11/gamestop-e1777731655117-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-16T18:49:01Z"
-    },
-    {
-      "title": "Google Vids now lets you star in your own AI videos - TechCrunch",
-      "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T18:32:54Z"
-    },
-    {
-      "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion - Kotaku",
-      "description": "How much online anger could two tiny trees create?",
-      "url": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/GTA-Online-top-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-16T18:23:44Z"
-    },
-    {
-      "title": "Inside the Art of Campaign Evolved - Halo Waypoint",
-      "description": "<p>To learn more about the art of Halo: Campaign Evolved, we sat down with Halo Studios Art Director Chris Matthews and Donnie Taylor, Halo: Campaign Evolved Art Director, to talk shop!</p>",
-      "url": "https://www.halowaypoint.com/news/inside-the-art-of-campaign-evolved",
-      "urlToImage": "https://wpassets.halowaypoint.com/wp-content/2026/07/HCE-ConceptArt-Maw-1920x1080-1.jpg",
-      "source": "Halowaypoint.com",
-      "publishedAt": "2026-07-16T18:18:37Z"
-    },
-    {
-      "title": "Marathon Promises An Even Bigger PvE Mode In The Fall - Kotaku",
-      "description": "A roguelite version of Cryo Archive is set to debut in the meantime",
-      "url": "https://kotaku.com/marathon-promises-an-even-bigger-pve-mode-in-the-fall-2000716734",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/06/marathon-vandal-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-16T17:50:07Z"
-    },
-    {
-      "title": "Apple Sued Over Reported 'Hide My Email' Flaw - MacRumors",
-      "description": "Apple this week was sued over a reported \"Hide My Email\" flaw that could expose a user's real email address. The proposed class action...",
-      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
-      "urlToImage": "https://images.macrumors.com/t/YyQOPHtncbrpeB3tj10riaKfVTs=/2250x/article-new/2023/06/General-macOS-Mail-Feature.jpg",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features - MacRumors",
+      "description": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to...",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "urlToImage": "https://images.macrumors.com/t/lYf14IFj-_I1liH_JpkCoQvPBPw=/2500x/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-07-16T17:11:20Z"
+      "publishedAt": "2026-07-17T17:39:18Z"
     },
     {
-      "title": "Pokémon TCG: Mega Evolution—Pitch Black Is Now Available in Pokémon TCG Live - Pokemon.com",
-      "description": "The Pokémon TCG: Mega Evolution—Pitch Black debut includes new Battle Pass decks and more.",
-      "url": "https://www.pokemon.com/us/news/pokemon-tcg-mega-evolution-pitch-black-is-now-available-in-pokemon-tcg-live",
-      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/trading-card-game/tiles/me/me05/tcgl/launch/me05-tcgl-169-en.png",
-      "source": "Pokemon.com",
-      "publishedAt": "2026-07-16T17:07:49Z"
+      "title": "The new MoonSwatch is expected to go fast. How to get one - USA Today",
+      "description": "Swatch said only a certain number of people will be approved to purchase the limited-edition watch. Here's how to get one.",
+      "url": "https://www.usatoday.com/story/money/2026/07/17/swatch-omega-gold-moonswatch/90954418007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90954671007-sp-01-26-moonswatch-1969-ssx-01-b-700-picture-double-expo-hd.jpg?crop=4719,2655,x4,y1504&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-17T17:33:00Z"
     },
     {
-      "title": "Pokémon TCG: First Partner Illustration Collection Series 2 Is 25% Off at Amazon - IGN",
-      "description": "Market prices for the Pokémon TCG's First Partner Collection Series 2 set have plummeted by over 37% in just the past month alone. Amazon finally has stock back with a massive discount to reflect the market changes, and we don't expect these to last long at t…",
-      "url": "https://www.ign.com/articles/pokemon-tcg-first-partner-illustration-series-2-restock-best-deal-new",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/03/pokemon-tcg-30-totidile-1783073474628.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-07-16T16:30:26Z"
+      "title": "If You Own One Of These Routers, You're At Risk - And There May Never Be A Fix - SlashGear",
+      "description": "If you own an older Tenda router, your home network could be at risk. Learn which models are vulnerable and the steps you should take now to stay safe.",
+      "url": "https://www.slashgear.com/2215484/wi-fi-router-security-risk-tenda-backdoor/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/if-you-own-one-of-these-routers-youre-at-risk-and-there-may-never-be-a-fix/l-intro-1784118048.jpg",
+      "source": "SlashGear",
+      "publishedAt": "2026-07-17T16:45:00Z"
     },
     {
-      "title": "Hasbro And Nintendo Partner Up On New Legend Of Zelda Toys - nintendolife.com",
-      "description": "A multi-year collaboration",
-      "url": "https://www.nintendolife.com/news/2026/07/hasbro-and-nintendo-partner-up-on-new-legend-of-zelda-toys",
-      "urlToImage": "https://images.nintendolife.com/be9055312f33a/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-07-16T16:30:00Z"
-    },
-    {
-      "title": "New spinning drone hides in plain sight: 'Phantom Twist' harnesses motion blur to nearly vanish in flight - Tech Xplore",
-      "description": "By exploiting the quirks of human vision, Northwestern University engineers have designed a drone that nearly disappears before the eyes. For years, researchers have tried to design invisible drones and robots using camouflage, transparent materials or light-…",
-      "url": "https://techxplore.com/news/2026-07-drone-plain-sight-phantom-harnesses.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-spinning-drone-hid-2.jpg",
-      "source": "Tech Xplore",
-      "publishedAt": "2026-07-16T16:00:02Z"
-    },
-    {
-      "title": "Google is renaming NotebookLM to Gemini Notebook - The Verge",
-      "description": "Google is renaming its AI notetaking app from NotebookLM to Gemini Notebook. The company is also planning to bring notebooks into AI Mode in Search.",
-      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&strip=all&crop=0%2C3.479841264548%2C100%2C93.040317470904&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-07-16T16:00:00Z"
-    },
-    {
-      "title": "First Impressions: Nintendo's Latest 'Switch 2 Edition' Is Here, And It'll Really Make You Sweat - nintendolife.com",
-      "description": "Towel at the ready",
-      "url": "https://www.nintendolife.com/previews/first-impressions-nintendos-latest-switch-2-edition-is-here-and-itll-really-make-you-sweat",
-      "urlToImage": "https://images.nintendolife.com/51e835b47d124/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-07-16T16:00:00Z"
-    },
-    {
-      "title": "Google Pixel 11 Rumor Roundup: New Colors, Higher Prices and Lots of Leaks - CNET",
-      "description": "Everything we've heard about what the new Pixel 11 phones look like, new prices and more storage than last year.",
-      "url": "https://www.cnet.com/tech/mobile/google-pixel-11-rumor-roundup-new-colors-higher-prices-and-lots-of-leaks/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/67f892782922eb14095b764d2949fdedbb6665f6/hub/2025/08/27/53e0ad41-ddd8-4387-ad5e-feb68485bd0c/pixel-10-pro-xl-review-test-cnet-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2026-07-16T16:00:00Z"
-    },
-    {
-      "title": "We Want Fallout New Vegas 2, But Not Like This - IGN",
-      "description": "Obsidian is reportedly starting work on a new Fallout game led by Josh Sawyer, but the project comes amid devastating Xbox layoffs and the cancellation of Avowed 2.",
-      "url": "https://www.ign.com/articles/we-want-fallout-new-vegas-2-but-not-like-this",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/15/site-thumb-1784142025783.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-07-16T15:44:30Z"
-    },
-    {
-      "title": "Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch - WIRED",
-      "description": "Swatch’s latest MoonSwatch is the Mission to the Moon 1969, a limited-edition model with components crafted from Omega’s 18K Moonshine Gold. To get one, you'll have to join a lottery.",
-      "url": "https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/",
-      "urlToImage": "https://media.wired.com/photos/6a58f0f4d35982f319740d69/191:100/w_1280,c_limit/TOP%20ART!.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-07-16T15:37:00Z"
-    },
-    {
-      "title": "Why is OpenAI selling a ChatGPT basketball? - TechCrunch",
-      "description": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
+      "title": "Parents want safer phones for kids. These companies are answering the call. - TechCrunch",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2026-07-16T15:31:09Z"
+      "publishedAt": "2026-07-17T16:12:46Z"
+    },
+    {
+      "title": "'There's a Huge Amount of Mutual Respect' — Todd Howard Dismisses 'Fan Chatter' About Purported Rivalry Between Bethesda and Fallout: New Vegas Developer Obsidian - IGN",
+      "description": "Todd Howard has dismissed what he described as “fan chatter” about a supposed rivalry between Fallout developers Bethesda Game Studios and Obsidian Entertainment.",
+      "url": "https://www.ign.com/articles/todd-howard-dismisses-fan-chatter-about-purported-rivalry-between-bethesda-and-obsidian-as-the-new-vegas-developer-starts-work-on-a-new-fallout-game",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/17/fallout-1784302873840.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-07-17T15:45:46Z"
+    },
+    {
+      "title": "Marketing images of Galaxy Z Fold 8 photos leak right before Galaxy Unpacked [Gallery] - 9to5Google",
+      "description": "Whether Samsung wants detailed images of the Galaxy Z Fold 8 and 8 Ultra out there, they are. The latest...",
+      "url": "http://9to5google.com/2026/07/17/galaxy-z-fold-8-flip-images-leak-before-launch/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-leaks-header-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-07-17T15:28:00Z"
+    },
+    {
+      "title": "Pixel 11 will be no iPhone 18 or Galaxy S27 — and that's its superpower - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/pixel-11-vs-iphone-18-vs-galaxy-s27_id181946",
+      "urlToImage": null,
+      "source": "PhoneArena",
+      "publishedAt": "2026-07-17T15:26:02Z"
+    },
+    {
+      "title": "Physical Games Are “Irrelevant” To GameStop’s Business, Says CEO - GameSpot",
+      "description": "\"It doesn't matter at all.\"",
+      "url": "https://www.gamespot.com/articles/physical-games-are-irrelevant-to-gamestops-business-says-ceo/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/07/GME-2.webp",
+      "source": "GameSpot",
+      "publishedAt": "2026-07-17T15:19:46Z"
     }
   ]
 }
