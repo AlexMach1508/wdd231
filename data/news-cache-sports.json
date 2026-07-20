@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-07-19T08:31:51.331Z",
+  "updatedAt": "2026-07-20T09:30:48.540Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "World Cup 2026: England coach Thomas Tuchel defends semi-final tactics in Argentina loss - BBC",
-      "description": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
-      "url": "https://www.bbc.com/sport/football/articles/c3r0l4zn9jpo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/01e2/live/c8df0030-8248-11f1-8c83-d19dc49cf1a1.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-18T02:50:36Z"
+      "title": "France's Mbappe sets World Cup scoring record with 22 goals - DW.com",
+      "description": "Kylian Mbappe has moved past Lionel Messi on the all-time World Cup goal-scoring record in a spectacular match for third place. England won the game 6-4.",
+      "url": "https://www.dw.com/en/frances-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308",
+      "urlToImage": "https://static.dw.com/image/78022116_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-19T05:10:13Z"
     },
     {
-      "title": "Fever's Caitlin Clark records WNBA's 1st 40-point, 10-assist double-double - ESPN",
-      "description": "Caitlin Clark scored a career-high 45 points and had 10 assists for the first 40-10 game in WNBA history, and the Indiana Fever beat Seattle 110-107.",
-      "url": "https://www.espn.com/wnba/story/_/id/49387955/fever-caitlin-clark-records-wnba-1st-40-point-10-assist-double-double",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1690677_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-07-18T02:32:00Z"
-    },
-    {
-      "title": "Brewers Initially Using Lance McCullers Jr. In Relief - MLB Trade Rumors",
-      "description": "The Brewers activated recently acquired righty Lance McCullers Jr. from the injured list, but he's not jumping directly into the rotation.",
-      "url": "https://www.mlbtraderumors.com/2026/07/brewers-initially-using-lance-mccullers-jr-in-relief.html",
-      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/07/USATSI_28976895-1024x683.jpg",
-      "source": "MLB Trade Rumors",
-      "publishedAt": "2026-07-18T01:48:18Z"
-    },
-    {
-      "title": "Disappointed France and England meet for third place in the World Cup - AP News",
-      "description": "France and England agree on this: Neither team wanted to be playing on Saturday. France was a favorite to win the World Cup. England was close to ending a decades-long wait for its first World Cup title since 1966. Both fell one match short of their ultimate …",
-      "url": "https://apnews.com/article/world-cup-england-france-third-place-mbappe-38628353a4903f1d5baf1f6129a97726",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a184f2b/2147483647/strip/true/crop/4976x3316+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F43%2Fabeb33455f123cb13d1d1cde9f0f%2Faa67b7689c3c4c71bb5dd6fe62a386c2",
+      "title": "Trump celebrates the World Cup as a US victory as he prepares to present trophy to the winning team - AP News",
+      "description": "President Donald Trump is set to present the World Cup trophy to the winner of Sunday’s final between Argentina and Spain. But in his eyes, the real victor of the world's premier soccer tournament is the United States. From the start, this year's World Cup fa…",
+      "url": "https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115",
+      "urlToImage": "https://dims.apnews.com/dims4/default/86a9f0c/2147483647/strip/true/crop/4046x2696+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F59%2F6e%2Fb152000fa45443a4ebe36806bed5%2Fb95f3895e165498d9acc9e896a46571d",
       "source": "Associated Press",
-      "publishedAt": "2026-07-18T01:18:00Z"
+      "publishedAt": "2026-07-19T04:01:00Z"
     },
     {
-      "title": "Lionel Messi Tells Tom Brady 'Insane' Story Behind Viral Lamine Yamal Baby Photoshoot - FOX Sports",
-      "description": "Tom Brady found out Lionel Messi is just as blown by the viral Lamine Yamal photoshoot picture as the next person.",
-      "url": "https://www.foxsports.com/stories/soccer/lionel-messi-tells-tom-brady-insane-story-behind-viral-lamine-yamal-baby-photoshoot",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/messi1-11.jpg?ve=1&tl=1",
-      "source": "Fox Sports",
-      "publishedAt": "2026-07-18T00:40:58Z"
-    },
-    {
-      "title": "Lionel Messi speaks in advance of World Cup final, says Argentina ‘will give it our all’ - AP News",
-      "description": "The lineup of sports legends simultaneously on the stage at Fanatics Fest on Friday night was almost absurd. There was Tom Brady, the greatest Super Bowl champion of all time. There was Novak Djokovic, the winner of more men’s Grand Slam tennis tournaments th…",
-      "url": "https://apnews.com/article/messi-argentina-world-cup-final-82ad1be062f7716d6107f4a001220b81",
-      "urlToImage": "https://dims.apnews.com/dims4/default/442b48e/2147483647/strip/true/crop/7329x4884+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F22%2Fc1c0f2ce224d0ed2fe4820a43627%2F96b6c1e686f94ef1ab0c3d740f5b6b7e",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-18T00:32:00Z"
-    },
-    {
-      "title": "The latest on when Julio could return to Mariners - Seattle Sports",
-      "description": "The Seattle Mariners are hopeful center fielder Julio Rodríguez will return from his stint on the IL with a concussion on Saturday.",
-      "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/julio-rodriguez-concussion-could-return-seattle-mariners",
-      "urlToImage": "https://sports.mynorthwest.com/wp-content/uploads/2026/05/Julio-Rodriguez-with-trident-in-dugout-in-Houston-close-up-Getty-900.jpg",
-      "source": "MyNorthwest.com",
-      "publishedAt": "2026-07-17T23:28:00Z"
-    },
-    {
-      "title": "Trump wants the US to host another World Cup, but without Mexico and Canada - Politico",
-      "description": "The president also revealed that the FIFA president proposed having the U.S. and China co-host a World Cup.",
-      "url": "https://www.politico.com/news/2026/07/17/trump-world-cup-us-01003946",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F15%2Fef%2F10b6c5894687ba8cfba8daebe533%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2286558664",
-      "source": "Politico",
-      "publishedAt": "2026-07-17T23:25:00Z"
-    },
-    {
-      "title": "Josh Kerr Runs Fastest 1200m Ever — Can He Run 3:42 Tomorrow? - LetsRun.com",
-      "description": "Kerr ran 2:42.45 with a running start at 5,335 feet of elevation in Albuquerque, closing his last 800 in 1:46.73 and his last 400 in 51.88. WR mile pace is 2:46.37. Kerr was impressed by his work as was LetsRun.com's John Kelogg who is now wondering if Kerr m…",
-      "url": "https://www.letsrun.com/news/2026/07/josh-kerr-runs-incredible-242-45-in-1200m-time-trial-before-mile-world-record-attempt/",
-      "urlToImage": "https://www.letsrun.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-175859-1024x580.png",
-      "source": "Letsrun.com",
-      "publishedAt": "2026-07-17T22:31:10Z"
-    },
-    {
-      "title": "Dana White responds to Conor McGregor saying his final UFC fight ‘has to be’ against Max Holloway - MMA Fighting",
-      "description": "Dana White understands why Conor McGregor wants Max Holloway when he’s ready to return but that doesn’t mean it’s going to happen.",
-      "url": "https://www.mmafighting.com/ufc/499936/dana-white-responds-to-conor-mcgregor-saying-his-final-ufc-fight-has-to-be-against-max-holloway",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2285711529.jpg?quality=90&strip=all&crop=0%2C7.706875886201%2C100%2C78.538943781875&w=1200",
+      "title": "Dricus du Plessis overwhelms Kamaru Usman in UFC Oklahoma City main event - MMA Fighting",
+      "description": "Dricus du Plessis makes a statement against Kamaru Usman at UFC Oklahoma City on Saturday night.",
+      "url": "https://www.mmafighting.com/ufc/500186/dricus-du-plessis-overwhelms-kamaru-usman-in-ufc-oklahoma-city-main-event",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2286699710.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
       "source": "MMA Fighting",
-      "publishedAt": "2026-07-17T22:30:00Z"
+      "publishedAt": "2026-07-19T03:34:11Z"
     },
     {
-      "title": "Postgame Pontifications: An embarrassment for the ages - Sounder at Heart",
-      "description": "The Sounders may have turned in the worst performance in their history.",
-      "url": "https://www.sounderatheart.com/2026/07/postgame-pontifications-an-embarrassment-for-the-ages/",
-      "urlToImage": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/07/SEA-POR-01024.jpg",
-      "source": "Sounder At Heart",
-      "publishedAt": "2026-07-17T22:21:08Z"
+      "title": "Racing Insights: North Wilkesboro to yield latest first-time winner in 2026? - NASCAR.com",
+      "description": "See how Racing Insights believes Sunday's Cup race at North Wilkesboro Speedway will play out with full projections (7 p.m. ET, TNT Sports).",
+      "url": "https://www.nascar.com/news-media/2026/07/18/racing-insights-2026-north-wilkesboro-speedway-projected-results/",
+      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2026/07/18/ncs-racing-insights-nwb-672x372.jpg",
+      "source": "NASCAR",
+      "publishedAt": "2026-07-19T03:21:50Z"
     },
     {
-      "title": "White House defends Argentina team over Falklands banner - BBC",
-      "description": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
-      "url": "https://www.bbc.com/news/articles/cx2rmjk0740o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1e16/live/e8524570-8226-11f1-bee8-53ce494e1abc.jpg",
+      "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final - Al Jazeera",
+      "description": "La Roja’s World Cup success has built a new coalition of loyal and recently converted Spanish fans across New York City.",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG_8927-1784411863.jpeg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-19T03:12:46Z"
+    },
+    {
+      "title": "Murphy's rocky start continues to highlight Braves' need for starting pitching - MLB.com",
+      "description": "ATLANTA -- Like JR Ritchie, Owen Murphy should be excited about what the future holds. But neither of these promising prospects has appeared to be ready to help the Braves fix their rotation woes.\nMurphy lasted just 2 2/3 innings while making his first MLB st…",
+      "url": "https://www.mlb.com/news/owen-murphy-makes-first-mlb-start-in-braves-loss-to-rangers",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1784429952/mlb/ookbdlep0ef70z62m3i1.jpg",
+      "source": "MLB.com",
+      "publishedAt": "2026-07-19T02:07:40Z"
+    },
+    {
+      "title": "RAF 11: Arman Tsarukyan vs. Colby Covington live results and round-by-round updates - Yahoo Sports",
+      "description": "Covington upset Arman Tsarukyan to win the RAF crossover cruiserweight title, and Askren put on an inspiring showing just one year removed from a double lung...",
+      "url": "https://sports.yahoo.com/wrestling/live/raf-11-arman-tsarukyan-vs-colby-covington-live-results-and-round-by-round-updates-063000727.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3e33abb787e2ae550271fbcddab3df120900c6e0132a52899a648e7cc4d6ee41/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-03%2Fea190150-9d29-11ec-bdff-3117b9a6a0d6",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-19T01:40:00Z"
+    },
+    {
+      "title": "Why the World Cup half-time show may be a taste of things to come - BBC",
+      "description": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
+      "url": "https://www.bbc.com/news/articles/cwyr498vqqpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85ef/live/7c99f4a0-81ee-11f1-926f-c90d1bcfbc84.png",
       "source": "BBC News",
-      "publishedAt": "2026-07-17T22:12:54Z"
+      "publishedAt": "2026-07-19T01:11:23Z"
     },
     {
-      "title": "Bryson DeChambeau penalty adds controversy to eventful British Open second round - CNN",
-      "description": "The British Open came to life Friday when Lucas Herbert and Sam Burns took their place in history by tying the major championship record with 62s, and Bryson DeChambeau getting penalized two shots after his round for inadvertently improving the path of his sw…",
-      "url": "https://www.cnn.com/2026/07/17/sport/bryson-dechambeau-penalized-british-open-second-round",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26198706033235.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-07-17T21:50:13Z"
+      "title": "Dodgers-Yankees Saturday game postponed; split DH Sunday - MLB.com",
+      "description": "NEW YORK – A marquee matchup between two of baseball’s most recognizable franchises had to wait for another day. Saturday’s game between the Dodgers and Yankees was rescheduled due to a forecast of sustained inclement weather at Yankee Stadium.\nThe clubs will…",
+      "url": "https://www.mlb.com/news/dodgers-yankees-saturday-july-18-2026-postponed-due-to-weather",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/hsu6fdblkdv69v9n8gmk.jpg",
+      "source": "MLB.com",
+      "publishedAt": "2026-07-19T00:08:20Z"
     },
     {
-      "title": "Washington Capitals to play two Monday lunch-hour games this season as NHL expands international reach - RMNB",
-      "description": "The Washington Capitals will participate in a new NHL scheduling initiative as the league tries to cater to and build its international…",
-      "url": "https://russianmachineneverbreaks.com/2026/07/17/nhl-monday-matinees-washington-capitals-european-international-reach/",
-      "urlToImage": "https://i0.wp.com/russianmachineneverbreaks.com/wp-content/uploads/2025/10/file-rasmus-sandin-warmups-aland-6665.jpg?fit=1200%2C800&ssl=1&original",
-      "source": "Russian Machine Never Breaks",
-      "publishedAt": "2026-07-17T21:14:11Z"
+      "title": "Latest On LeBron James - Hoops Rumors",
+      "description": "He's looking for a team with \"championship habits\" as he narrows down his decision.",
+      "url": "https://www.hoopsrumors.com/2026/07/latest-on-lebron-james-5.html",
+      "urlToImage": "https://cdn.hoopsrumors.com/files/2026/07/LeBron-James-1-900x600.jpg",
+      "source": "hoopsrumors.com",
+      "publishedAt": "2026-07-19T00:07:56Z"
     },
     {
-      "title": "LeBron, still mum on decision, riles up fans with 76ers mantra - ESPN",
-      "description": "LeBron James finished off the fourth of four public appearances scheduled around the first two days of Fanatics Fest on Friday, and just like in the three that came before it Thursday, James kept his upcoming free agency decision to himself.",
-      "url": "https://www.espn.com/nba/story/_/id/49386414/lebron-james-mum-free-agency-decision-riles-76ers-fans-trust-process",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690578_1296x729_16%2D9.jpg",
+      "title": "Bryson DeChambeau’s unusual request declined by R&A in surprise Open twist - Today's Golfer",
+      "description": "There was a fresh twist to the Bryson DeChambeau drama at The Open...",
+      "url": "https://www.todays-golfer.com/news-and-events/majors/the-open-championship/bryson-dechambeau-rules-official-request/",
+      "urlToImage": "https://todaysgolfer-images.bauersecure.com/wp-images/319459/786x524/bryson-dechambeau.jpg",
+      "source": "Todays-golfer.com",
+      "publishedAt": "2026-07-18T23:28:05Z"
+    },
+    {
+      "title": "Aaron Judge transferred to 60-day IL, will need another scan - ESPN",
+      "description": "Sidelined since May 31, superstar outfielder Aaron Judge, 34, will need another scan before a major ramp-up of activity while his fractured rib heals, and the New York Yankees moved their captain to the 60-day injured list Saturday.",
+      "url": "https://www.espn.com/mlb/story/_/id/49394737/aaron-judge-transferred-60-day-il-need-another-scan",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1691035_1296x729_16%2D9.jpg",
       "source": "ESPN",
-      "publishedAt": "2026-07-17T21:14:00Z"
+      "publishedAt": "2026-07-18T23:17:00Z"
     },
     {
-      "title": "City shares copy of draft terms sent to Blazers detailing $573M public investment in Moda - KATU",
-      "description": "The city of Portland publicly shared the draft term sheet it sent the Trail Blazers, including a $573 million funding contribution from the city, county, and st",
-      "url": "https://katu.com/news/investigations/city-shares-copy-of-draft-terms-sent-to-blazers-detailing-573m-public-investment-in-moda-nba-portland-local-business-politics-local-community-economy",
-      "urlToImage": "https://katu.com/resources/media2/16x9/1280/1320/center/90/e35aa6f7-44c9-4fc9-9cf7-8489e638f385-Sequence_MayoronBlazers040826jfa_0001_frame_147978.jpeg",
-      "source": "KATU",
-      "publishedAt": "2026-07-17T21:12:53Z"
+      "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform - Al Jazeera",
+      "description": "While no tickets are available on FIFA’s sales platform, they are being resold for sky-high prices on resale sites.",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-17T210848Z_1698407147_UP1EM7H1MQM8I_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-PREVIEW-1784412638.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-18T22:45:54Z"
     },
     {
-      "title": "Ethan Pocic signing 1-year deal with Ravens, sources say - ESPN",
-      "description": "Former Cleveland Browns center Ethan Pocic is signing a one-year deal with the Baltimore Ravens, sources told ESPN's Adam Schefter.",
-      "url": "https://www.espn.com/nfl/story/_/id/49386293/ethan-pocic-signing-1-year-deal-ravens-sources-say",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0119%2Fr1602894_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-07-17T21:00:00Z"
+      "title": "Cubs Acquire Aaron Civale - MLB Trade Rumors",
+      "description": "The Athletics are sending Aaron Civale and cash to the Cubs for a minor league pitcher.",
+      "url": "https://www.mlbtraderumors.com/2026/07/cubs-acquire-aaron-civale.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/07/AaronCivale-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2026-07-18T22:00:19Z"
     },
     {
-      "title": "Watch: Four-star safety Ta'Shawn Poole live commitment ceremony - 247Sports",
-      "description": "Macon Ga Howard fourstar safety TaShawn Poole is set to announce his commitment between Florida State Georgia and Tennessee on Friday evening at 6 pm ET The 6foot2 180pound safety is announcing his commitment live on the CBS Sports College Football YouTube Ch…",
-      "url": "https://247sports.com/college/florida-state/article/tashawn-poole-commitment-ceremony-288379595/",
-      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/235/117/14117235.jpeg?width=1200&height=628&crop=1.91:1&fit=cover",
-      "source": "247Sports",
-      "publishedAt": "2026-07-17T20:50:28Z"
+      "title": "Saka’s hat trick lifts England past Mbappé and France 6-4 in wild World Cup third-place game - AP News",
+      "description": "Bukayo Saka scored three goals to lead England to a 6-4 win over France for third place in the World Cup, while Kylian Mbappé surpassed Lionel Messi’s career World Cup scoring record and took the lead in the Golden Boot race with a pair of second-half goals. …",
+      "url": "https://apnews.com/article/world-cup-england-france-third-place-score-52f94eda6ff6d268d38aaefbc446c525",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fe648c8/2147483647/strip/true/crop/2756x1836+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2F50%2Fdc52a56d4baa7a0473af7c571f2a%2Fb7ff279400bc4f4e9a3486c19a8e5f5d",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-18T21:52:10Z"
+    },
+    {
+      "title": "Enhanced Box Score: Cubs 6, Twins 2 – July 18, 2026 - Bleacher Nation",
+      "description": "How about a Cubs win with a reunion show mixed in?!",
+      "url": "https://www.bleachernation.com/cubs/2026/07/18/enhanced-box-score-cubs-6-twins-2-july-18-2026/",
+      "urlToImage": "https://www.bleachernation.com/wp-content/uploads/2026/04/Enhanced-Box-Score.jpg",
+      "source": "bleachernation.com",
+      "publishedAt": "2026-07-18T21:19:25Z"
+    },
+    {
+      "title": "Wildfire Smoke In New Jersey Expected To Wane Ahead Of World Cup Final - Forbes",
+      "description": "Wildfire smoke from Canada blanketed the Northeast and Upper Midwest regions of the U.S. on Friday, as the majority of blazes raging in the country remained out of control.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/18/world-cup-air-quality-heres-the-forecast-for-sundays-game-as-canada-wildfires-rage/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5beaedcfd387612de3f723/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-07-18T21:19:00Z"
+    },
+    {
+      "title": "The 154th Open Championship: Round 4 tee times, groupings and featured groups at Royal Birkdale - NBC Sports",
+      "description": "Full Sunday morning tee times and pairings for final round of the 154th Open Championship, plus TV channel, streaming info and how to watch live.",
+      "url": "https://www.nbcsports.com/golf/news/the-154th-open-championship-round-4-tee-times-groupings-and-featured-groups-at-royal-birkdale",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a16f4b2/2147483647/strip/true/crop/5076x2855+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F36%2F49194a4a4acb97cca008d80efdaa%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29406428",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-07-18T21:01:54Z"
+    },
+    {
+      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile - NPR",
+      "description": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7322x4119+0+351/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F7d%2Fc8cf7c5344c6a0f303171435d159%2Fgettyimages-2286637047.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-07-18T20:06:35Z"
     }
   ]
 }
