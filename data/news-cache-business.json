@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-07-20T09:30:48.485Z",
+  "updatedAt": "2026-07-21T08:41:10.491Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Taylor Farms lettuce sample tests positive for Cyclospora as recall expands - Fox Business",
-      "description": "A shredded iceberg lettuce sample from Taylor Farms de Mexico tested positive for the cyclospora parasite as the company expanded its nationwide recall.",
-      "url": "https://www.foxbusiness.com/lifestyle/taylor-farms-lettuce-sample-tests-positive-cyclospora-recall-expands",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/taylor-farms-002.jpg?ve=1&tl=1",
+      "title": "Ryanair profit slumps 34% as airlines brace for a 'difficult winter' amid Middle East crisis - CNBC",
+      "description": "Ryanair's first-quarter profit took a 34% hit as consumers delayed bookings due to the Middle East crisis, while struggling airlines face a \"difficult winter.\"",
+      "url": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108308128-1779082030431-gettyimages-2274361383-AFP_B2492MH.jpeg?v=1784526320&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-20T06:20:01Z"
+    },
+    {
+      "title": "Moonshot’s Kimi K3 May Be More About Memory Than Compute - Bloomberg.com",
+      "description": "When DeepSeek’s R1 debuted in early 2025, almost $600 billion was wiped out from Nvidia Corp.’s market value in a single day on fears that artificial intelligence would require less computing power than previously expected. Moonshot AI’s release of Kimi K3 on…",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZeIvpiMPF6Y/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-20T04:50:00Z"
+    },
+    {
+      "title": "Silicon Valley is freaking out over China's open-source AI strategy - Business Insider",
+      "description": "The latest AI model out of China is causing another meltdown in Silicon Valley, highlighting the divide over the right way to run the AI race.",
+      "url": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7#article",
+      "urlToImage": "https://i.insider.com/6a5d9cd354f9875261777101?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-20T04:40:00Z"
+    },
+    {
+      "title": "FDA says Taylor Farms lettuce sample tested for cyclospora produced false positive for the parasite - NBC News",
+      "description": "A sample of lettuce from a supplier that has recalled products as a result of a multi-state cyclospora outbreak produced a false positive result for the parasite, federal officials said Sunday.",
+      "url": "https://www.nbcnews.com/health/health-news/fda-says-taylor-farms-lettuce-sample-tested-cyclospora-produced-false-rcna588303",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260719-taylor-farms-cyclosporiasis-ww-1906-63274d.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-07-20T04:30:00Z"
+    },
+    {
+      "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff - CNBC",
+      "description": "South Korean retail investors suffer heavy losses after Samsung and SK Hynix shares reverse sharply.",
+      "url": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108304939-1778505131249-gettyimages-2275069095-jung-southkor260511_npDS9.jpeg?v=1778505157&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-20T04:18:05Z"
+    },
+    {
+      "title": "The Palestinian economy is struggling. In the West Bank, the problem is too much cash - AP News",
+      "description": "In most places, cash is king. But in the Israeli-occupied West Bank, having too much is gumming up the machinery of daily life. The Palestinian Monetary Authority says Israel's longtime limit on accepting cash that accumulates in Palestinian banks is creating…",
+      "url": "https://apnews.com/article/west-bank-israel-banks-cash-6b94c7ee9feb7f5dbc8dda30ca777da1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/59ec95f/2147483647/strip/true/crop/6043x4027+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2F4c%2Fdfc005b0d582a50e2acf04f66792%2F95f96e92609b491894382b4ad502dad9",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-20T04:07:00Z"
+    },
+    {
+      "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates - CNBC",
+      "description": "The three major averages posted weekly losses last week.",
+      "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108336640-1784297859850-gettyimages-2286514414-mms19537_vhsflhbk.jpeg?v=1784297895&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-20T03:26:00Z"
+    },
+    {
+      "title": "Cathie Wood sells $11.7 million of tumbling semiconductor stock - thestreet.com",
+      "description": "Here are Cathie Wood’s latest moves.",
+      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-11-7-million-of-tumbling-semiconductor-stock",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE4NTcz/ark-invest-ceo-cathie-wood-shows-up-in-an-event-standing-in-front-of-a-brown-screen.jpg?profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-07-19T23:33:00Z"
+    },
+    {
+      "title": "China cracks down on chatbot romances as birthrate crisis worsens: report - Fox Business",
+      "description": "The new rules reportedly aim to curb emotional dependence on AI chatbots as China grapples with a shrinking population and record-low birthrate.",
+      "url": "https://www.foxbusiness.com/technology/china-cracks-down-chatbot-romances-birthrate-crisis-worsens-report",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/china-flag-skyscrapers.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-07-19T02:18:00Z"
+      "publishedAt": "2026-07-19T23:26:00Z"
     },
     {
-      "title": "United Airlines Backtracks on ‘Trump Airport’ Rerouting Memo - The Daily Beast",
-      "description": "Some passengers aren’t excited about landing or taking off at the newly renamed Palm Beach airport.",
-      "url": "https://www.thedailybeast.com/united-airlines-backtracks-on-trump-airport-rerouting-memo/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/X2XRTK7YMNHKDGD7BLVWIM5XSA.JPG?smart=true&auth=44397459f3cffd097270e1633f9b1fee0cceff9ae6f4ff7388f2929c2aa8ea95&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2026-07-19T02:06:00Z"
+      "title": "How Burger King is preparing for the GLP-1 revolution - NBC News",
+      "description": "As weight loss drugs reshape how Americans eat, Burger King is gearing up for a future where customers still want fast food — just less of it.",
+      "url": "https://www.nbcnews.com/business/ceo-interviews/burger-king-glp1s-tom-curtis-rcna588024",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260717-burger-king-ceo-ew-154p-be5687.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-07-19T23:01:43Z"
     },
     {
-      "title": "The Justice Department Is Pulling Back on Prosecuting Corporate Crime - WSJ",
+      "title": "Discount chain to shut down 75 stores nationwide - Cleveland.com",
       "description": null,
-      "url": "https://www.wsj.com/finance/regulation/the-justice-department-is-pulling-back-on-prosecuting-corporate-crime-dabf95a2",
+      "url": "https://www.cleveland.com/news/2026/07/discount-chain-to-shut-down-75-stores-nationwide.html",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-19T01:00:00Z"
+      "source": "cleveland.com",
+      "publishedAt": "2026-07-19T22:05:00Z"
     },
     {
-      "title": "Discount chain shuts 75 locations, calls its stores ‘substandard’ - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/retail/dollar-tree-closing-75-stores-admits-1000s-are-substandard",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-07-18T23:55:47Z"
+      "title": "Boeing just scrapped one of the first 777Xs to roll off Everett line - The Seattle Times",
+      "description": "Boeing commercial airplanes CEO Stephanie Pope is optimistic about the company’s long-delayed 777X family – even if Boeing did have to scrap one of the earliest-built planes from that program.",
+      "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-just-scrapped-one-of-the-first-777xs-to-roll-off-everett-line/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/07/07192026_777X_tzr_133033.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2026-07-19T22:00:00Z"
     },
     {
-      "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead - Investor's Business Daily",
-      "description": "Intel, Interactive Brokers and GE Vernova also report this week.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/stock-iran-map-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-18T20:18:00Z"
-    },
-    {
-      "title": "AI race splits in two as China wages open-weight insurgency - Axios",
-      "description": "Building the world's smartest models may no longer be enough to win.",
-      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-      "urlToImage": "https://images.axios.com/APqzIbdkLm6UoO5_2jBKQrprvhY=/0x0:1920x1080/1366x768/2026/07/17/1784310720970.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-07-18T20:12:17Z"
-    },
-    {
-      "title": "Supermarket takes drastic action to prevent meat theft: ‘Welcome to California’ - New York Post",
-      "description": "First it was the spray paint stores in California locked up to combat shoplifting, next it was eye drops and now its meat?",
-      "url": "https://nypost.com/2026/07/18/us-news/california-walmart-locks-up-pricey-meat-to-fight-shoplifting/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134790006.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-07-18T19:37:00Z"
-    },
-    {
-      "title": "Stephen Miller says Trump administration is pursuing policy to debank illegal immigrants - Fox News",
-      "description": "Stephen Miller says the Trump administration is debanking illegal immigrants to shut down their financial access and drive self-deportation.",
-      "url": "https://www.foxnews.com/politics/stephen-miller-trump-administration-pursuing-policy-debank-illegal-immigrants",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/stephen-miller.png",
-      "source": "Fox News",
-      "publishedAt": "2026-07-18T18:23:50Z"
-    },
-    {
-      "title": "Braum’s offering National Ice Cream Day deals for one day only - News 9",
-      "description": "Braum's is celebrating National Ice Cream Day on July 19 with discounted ice cream cones and sundaes.",
-      "url": "https://www.news9.com/oklahoma-city-news/braums-national-ice-cream-day-deals-july-19",
-      "urlToImage": "https://cdn.griffin.news/dims4/default/c0a7274/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fgriffin-media-production-griffin.s3.us-east-2.amazonaws.com%2Fbrightspot%2F68%2Fe0%2F2dc19ba34a289bc319fdebdcf718%2Fnews-graphic-4.jpeg",
-      "source": "news9.com KWTV",
-      "publishedAt": "2026-07-18T18:20:43Z"
-    },
-    {
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year - TechCrunch",
-      "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
-      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Honda-Prologue-at-Tesla-Supercharger1.jpg?resize=1200,801",
+      "title": "What to watch for after Jensen Huang’s Japan visit - TechCrunch",
+      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/getty-japan-flag-distance.jpg?resize=1200,827",
       "source": "TechCrunch",
-      "publishedAt": "2026-07-18T16:30:00Z"
+      "publishedAt": "2026-07-19T21:16:07Z"
     },
     {
-      "title": "Foreclosures hit highest level since 2019, sparking interest from bargain hunters - Yahoo Finance",
-      "description": "Foreclosure sales can mean hefty discounts for buyers willing to brave complex closing process and potential renovations.",
-      "url": "https://finance.yahoo.com/real-estate/article/foreclosures-hit-highest-level-since-2019-sparking-interest-from-bargain-hunters-162602374.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E2E30D4CB874CA20CB9170922ADFF5C3DE8274640AA30CEF0C6E2755449718E7/subgraphmysterio/resizefill_w1200_h577;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Ffb13f9ad-3f59-4003-85d9-6c3837e133b7",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-18T16:26:02Z"
+      "title": "Big Changes Afoot for 401(k) Plans - Newser",
+      "description": "ProPublica raises concerns about reduced protections, riskier investments",
+      "url": "https://www.newser.com/story/392966/big-changes-afoot-for-401k-plans.html",
+      "urlToImage": "https://cdn.newser.com/image/1699099-12-20260719162247.jpeg",
+      "source": "Newser",
+      "publishedAt": "2026-07-19T21:02:00Z"
     },
     {
-      "title": "Two unexpected revelations in Warren Buffett's CNBC interview - CNBC",
-      "description": "Warren Buffett tells CNBC that Bill Gates' ties to Jeffrey Epstein didn't drive his termination of donations.",
-      "url": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335257-1784117182377-OEZO09jg.jpg?v=1784127953&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-18T14:53:36Z"
+      "title": "6 Recalled Items to Check Your House for - Newser",
+      "description": "Federal agencies cite injury, contamination, and infection risks for 6 very different products",
+      "url": "https://www.newser.com/story/392892/check-your-house-for-these-6-recalled-items.html",
+      "urlToImage": "https://cdn.newser.com/image/1698829-12-20260719151147.jpeg",
+      "source": "Newser",
+      "publishedAt": "2026-07-19T20:35:00Z"
     },
     {
-      "title": "Meta, Anthropic drop bombshell news on AI market - thestreet.com",
-      "description": "Meta aims to change how the AI race is run.",
-      "url": "https://www.thestreet.com/technology/meta-anthropic-ai-compute-deal",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE3NzA1/mark-zuckerberg-3-26-26.jpg?profile=share16-9",
-      "source": "TheStreet",
-      "publishedAt": "2026-07-18T14:47:00Z"
-    },
-    {
-      "title": "Why a blown-out plane window nearly sucked a passenger outside at 16K feet - Fox News",
-      "description": "After a flight passenger's head and shoulders were pulled out of a dislodged airplane window, aviation experts share why this happened and how flyers can reduce risks.",
-      "url": "https://www.foxnews.com/travel/blown-out-plane-window-nearly-sucked-passenger-outside-16k-feet",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/GREECE_GERMANY_RYANAIR_WINDOW_INCIDENT_TRAVEL_1.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-07-18T14:00:48Z"
-    },
-    {
-      "title": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC",
-      "description": "Trump Media & ⁠Technology Group has in recent weeks also pitched a discounted plan of $60,000 per month if the firms sign up for a three-year plan.",
-      "url": "https://www.cnbc.com/2026/07/18/trump-media-pitched-100000/month-fee-for-fastest-feed-of-trump-posts.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108241933-1765821208042-gettyimages-2252063606-kd1_3462_hvpakcm8_20251215122239_ygtybgwa.jpeg?v=1772200902&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-18T13:57:16Z"
-    },
-    {
-      "title": "Mortgage rates hit highest level since the start of the war with Iran - WXOW",
-      "description": "Geopolitical tensions are rippling through America’s housing market, adding to the financial strain on homebuyers.",
-      "url": "https://www.wxow.com/news/national/mortgage-rates-hit-highest-level-since-the-start-of-the-war-with-iran/article_1cbbaf2c-3edd-5ef1-b10f-1d9e0fad06d4.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/4/c8/4c8fbb1d-0346-548b-a934-1f7bfe252e9d/6a593ce4b3e68.image.jpg?crop=1804%2C947%2C0%2C100&resize=1200%2C630&order=crop%2Cresize",
-      "source": "WXOW.com",
-      "publishedAt": "2026-07-18T13:55:00Z"
-    },
-    {
-      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication - CNBC",
-      "description": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
-      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108336764-1784310010871-260727_mg_31_Illo_WarshGPT_Fv2.png?v=1784321519&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-18T11:31:03Z"
-    },
-    {
-      "title": "This is the world’s No. 1 busiest airport. Here’s why - CNN",
-      "description": "In travel this week: how Asia is coping with hyper-hot weather, a terrifying incident on board a budget airline, plus the world’s busiest airports of 2025.",
-      "url": "https://www.cnn.com/2026/07/18/travel/travel-news-busiest-airports-2025",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2159000658.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-07-18T10:30:27Z"
-    },
-    {
-      "title": "Judges, lawyers grapple with the bench's AI balancing act - Axios",
-      "description": "Judges are becoming courtroom AI firewalls, but they're also using the tech.",
-      "url": "https://www.axios.com/2026/07/18/ai-lawyers-judges-balancing-act",
-      "urlToImage": "https://images.axios.com/u1nnO9JXUZFIl2EP-wZ9N1kXSzU=/1366x768/smart/2023/08/31/152508-1693495508585.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-07-18T10:01:51Z"
+      "title": "New Samsung Layoffs in the U.S. Show Smartphone Arm's Struggles, Even as It Profits Massively From AI - Gizmodo",
+      "description": "Roughly 839 Samsung employees are losing their jobs in the U.S.",
+      "url": "https://gizmodo.com/new-samsung-layoffs-in-the-u-s-show-smartphone-arms-struggles-even-as-it-profits-massively-from-ai-2000787512",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/samsung-nyc-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-07-19T20:11:05Z"
     }
   ]
 }
