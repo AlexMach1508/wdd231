@@ -1,135 +1,159 @@
 {
-  "updatedAt": "2026-07-23T08:42:07.248Z",
+  "updatedAt": "2026-07-24T08:38:38.507Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Super Micro Shares Surge 20% After It Says Gross Margins Will Nearly Double - Barron's",
-      "description": "Super Micro is crediting a favorable customer and product mix.",
-      "url": "https://www.barrons.com/articles/super-micro-stock-surge-gross-margins-3a0221fd",
-      "urlToImage": "https://images.barrons.com/im-65067522/social",
-      "source": "Barron's",
-      "publishedAt": "2026-07-22T07:57:00Z"
-    },
-    {
-      "title": "Stock futures fall as investors gear up for more earnings: Live updates - CNBC",
-      "description": "Investors looked ahead to another busy day of corporate earnings, with several major technology and industrial companies set to report.",
-      "url": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108337968-1784647816150-gettyimages-2287059605-anotherday241789564_dlr68bu0.jpeg?v=1784647890&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-22T07:13:00Z"
-    },
-    {
-      "title": "Trump's push for American-made AI chips hits TSMC's margins - CNBC",
-      "description": "The Taiwan-based chipmaker has announced $200 billion in investment into U.S. manufacturing since Trump returned to power in 2025.",
-      "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108337070-1784504520587-108337070-1784504458735-gettyimages-2260914479-4075_48_th-0660-d.jpg?v=1784504533&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-22T05:00:01Z"
-    },
-    {
-      "title": "As the president touts Trump Accounts, some families are still waiting for baby’s $1,000 - AP News",
-      "description": "President Donald Trump says Trump Accounts could lift children out of poverty and help more Americans invest in the stock market. But some parents are still waiting for the money to arrive. Trump plans to speak at a Georgia high school Wednesday to promote th…",
-      "url": "https://apnews.com/article/trump-accounts-money-kids-investments-1f749cfbe15409596e0fe7bed0034101",
-      "urlToImage": "https://dims.apnews.com/dims4/default/63a199d/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2F0c%2Fe16ec6aa4ff1f2774a5789f68263%2Fb78e1d3a648740e49c43fc93fad46417",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-22T04:06:00Z"
-    },
-    {
-      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says - NPR",
-      "description": "About 24% of U.S. employees stay in unwanted jobs just for health insurance, a report out Wednesday finds. Up significantly since 2021, the uptick in \"job lock\" is a concerning sign for the U.S. economy.",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2Fe0%2Fff6725fa4025a9155a253ea4dd07%2Fgettyimages-1353760073.jpg",
+      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR",
+      "description": "The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F2f%2F84c5c3c043149e502d27ea256460%2Fap26203630156692.jpg",
       "source": "NPR",
-      "publishedAt": "2026-07-22T04:01:00Z"
+      "publishedAt": "2026-07-23T05:23:42Z"
     },
     {
-      "title": "Trump Sets 100% Tariff on Generic Drugs With Two-Year Delay - Bloomberg.com",
-      "description": "Generic drug manufacturers will have two years to move production to the US or face a 100% import duty from August 2028, President Donald Trump said, threatening the supply of low-cost medicines that millions of Americans rely on.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plans-100-tariff-on-generic-drugs-from-august-2028",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQl6SYKD.klk/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-22T03:21:00Z"
+      "title": "FDA reviews peptide injections favored by RFK Jr. and wellness influencers - AP News",
+      "description": "Federal health advisers are meeting to review a group of controversial chemicals called peptides. The unapproved injections have become a popular wellness trend, promoted by influencers and celebrities for building muscle, healing injuries and other uses. The…",
+      "url": "https://apnews.com/article/peptides-fda-rfk-kennedy-bpc157-tb500-7267d0fad0110e7c2ed301d03cf5f0c2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cd90afd/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2Fbf%2Fe32df81c62fbba475a5013a2d4ce%2F15d3a8306c354d93836e4764e0c6fa9b",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-23T04:02:00Z"
     },
     {
-      "title": "China’s ‘AI for All’ Offensive Defies US Containment Playbook - Bloomberg.com",
-      "description": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook",
-      "urlToImage": null,
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-22T02:42:00Z"
+      "title": "Powerball winning numbers for $567M jackpot on Wednesday, July 22 - USA Today",
+      "description": "The Powerball jackpot is now at half a billion dollars ahead of the July 22 drawing after no ticket matched all six numbers Monday night.",
+      "url": "https://www.usatoday.com/story/money/lottery/2026/07/22/powerball-jackpot-july-22-winning-numbers/91014327007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91014335007-getty-images-2252768508-21.jpg?crop=1023,576,x0,y53&width=1023&height=576&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-23T03:08:00Z"
     },
     {
-      "title": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak - Al Jazeera",
-      "description": "US officials claim evidence points to lettuce grown in Mexico, which Mexico’s Health Ministry disputes.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6007ac7b0a-1784678316.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-22T02:03:57Z"
+      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
+      "description": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+      "url": "https://www.bbc.com/news/articles/c5ye2gyz0x4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-07-23T00:52:25Z"
     },
     {
-      "title": "Cracker Barrel sells Maple Street Biscuit Company, closes 16 locations - Fox Business",
-      "description": "The restaurant chain sold 35 Maple Street locations and will close 16 others while raising $77 million through a property deal to help pay down debt.",
-      "url": "https://www.foxbusiness.com/retail/cracker-barrel-sells-maple-street-biscuit-company-closes-16-locations",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/cracker-barrel-outside-chairs-person-getty.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-22T01:51:00Z"
-    },
-    {
-      "title": "Allergy medication recalled over possible drug mix-up that could trigger 'life-threatening' reactions - Fox Business",
-      "description": "The FDA announced a nationwide recall of certain allergy medication after possible contamination with another medication that could cause severe allergic reactions.",
-      "url": "https://www.foxbusiness.com/lifestyle/allergy-medication-recalled-possible-drug-mix-up-trigger-life-threatening-reactions",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/0/0/sick-woman-office-iStock.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-22T00:57:00Z"
-    },
-    {
-      "title": "Scoop: Progressives scorch Gillibrand over crypto - Axios",
-      "description": "The blistering — and deeply personal — attack from three groups complicates already delicate negotiations over the CLARITY Act.",
-      "url": "https://www.axios.com/2026/07/22/crypto-progressives-kirsten-gillibrand-senate",
-      "urlToImage": "https://images.axios.com/FCQrveqN2Uw_U-Kt_-0be636EZQ=/0x0:8192x4608/1366x768/2026/07/21/1784674977932.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-07-22T00:30:33Z"
-    },
-    {
-      "title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself - Financial Times",
-      "description": "AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face",
-      "url": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04dcd069-190a-4e3a-b939-8ef1d679d3b7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-22T00:11:33Z"
-    },
-    {
-      "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint - CNBC",
-      "description": "Nike is streamlining its online business in China as the company looks to stabilize pricing and branding and get back to growth.",
-      "url": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240031-1765391623150-gettyimages-2244450286-NIKE.jpeg?v=1776268376&w=1920&h=1080",
+      "title": "Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook: Live updates - CNBC",
+      "description": "Investors are weighing fresh earnings, AI spending concerns and rising oil prices.",
+      "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335481-17841345462026-07-15t165135z_861048727_rc2demax4lda_rtrmadp_0_usa-stocks.jpeg?v=1784134685&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-07-22T00:00:00Z"
+      "publishedAt": "2026-07-23T00:39:00Z"
     },
     {
-      "title": "Range Rover answers the question: \"What if we built a not-SUV?\" - Ars Technica",
-      "description": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
-      "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-21T23:01:23Z"
+      "title": "Macquarie names banking head to succeed Wikramanayake as CEO - Financial Times",
+      "description": "Greg Ward appointed to lead Australian investing giant",
+      "url": "https://www.ft.com/content/6df8a0ef-447f-43de-81a0-48db79498d93?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2b5112a-8439-4b7e-8095-5635c2c10035.png?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-23T00:11:44Z"
     },
     {
-      "title": "AMD just landed its biggest AI deal yet - thestreet.com",
+      "title": "IBM Cuts Revenue Outlook Following Historic Stock Drop - Barron's",
+      "description": "IBM’s earnings pre-announcement sent the stock into a tailspin but Wall Street isn’t giving up just yet.",
+      "url": "https://www.barrons.com/articles/ibm-earnings-stock-price-a3df6f77",
+      "urlToImage": "https://images.barrons.com/im-243864/social",
+      "source": "Barron's",
+      "publishedAt": "2026-07-22T21:41:00Z"
+    },
+    {
+      "title": "Alphabet Reports Blowout Earnings - Barron's",
+      "description": "The Google-parent reported earnings growth of 294% from a year ago.",
+      "url": "https://www.barrons.com/articles/alphabet-earnings-googl-stock-price-274aed13",
+      "urlToImage": "https://images.barrons.com/im-02323037/social",
+      "source": "Barron's",
+      "publishedAt": "2026-07-22T21:30:00Z"
+    },
+    {
+      "title": "30-year Treasury yields stick above 5% - marketplace.org",
+      "description": "High levels of U.S. debt and competition from tech companies issuing their own bonds are driving the high yields.",
+      "url": "https://www.marketplace.org/story/2026/07/22/yield-on-30year-treasury-tops-5-for-longest-period-since-2007",
+      "urlToImage": "https://img.apmcdn.org/d32678fecacdb500e13eeb1b77c208a3aa433c84/widescreen/56b666-20260722-a-person-runs-on-a-treadmill-at-a-gym-2000.jpg",
+      "source": "Marketplace.org",
+      "publishedAt": "2026-07-22T21:29:00Z"
+    },
+    {
+      "title": "Taco Bell offering $1 lettuce-free deal amid cyclospora outbreak - USA Today",
+      "description": "Taco Bell shared on July 22 that it is offering a $1 deal for a lettuce-free menu item amid the ongoing cyclospora outbreak.",
+      "url": "https://www.usatoday.com/story/money/food/2026/07/22/taco-bell-offering-dollar-lettuce-free-deal-amid-cyclospora-outbreak/91013601007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91010910007-20231017-t-025441-z-1560603434-mt-1-usatoday-21663899-rtrmadp-3-rosaalavezfreeholdborohandsanordertoadrivethru.JPG?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-22T20:55:00Z"
+    },
+    {
+      "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
+      "description": "The case accuses OpenAI of practicing medicine without a license and failing to safeguard users seeking health advice.",
+      "url": "https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/22/e5e759fc-8d21-4668-bd54-8c460427154d/thumbnail/1200x630/5a2932fdb6875d5de90066477810af6c/gettyimages-1645690310.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-07-22T20:45:00Z"
+    },
+    {
+      "title": "Social media addiction lawsuit against Meta is dropped - TechCrunch",
+      "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T20:36:41Z"
+    },
+    {
+      "title": "The 'Best-Case Scenario' That Shot Arrowhead Stock Sky-High - Investor's Business Daily",
+      "description": "Arrowhead Pharmaceuticals' triglycerides-buster hit the \"best-case scenario\" in two studies Wednesday.",
+      "url": "https://www.investors.com/news/technology/arrowhead-pharmaceuticals-stock-triglycerides-treatment/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/11/Stock-arrowheadpharma-01-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-07-22T20:05:00Z"
+    },
+    {
+      "title": "A 1987 idea could have saved Social Security - thestreet.com",
       "description": null,
-      "url": "https://www.thestreet.com/technology/amd-microsoft-deal-defies-price-myths",
+      "url": "https://www.thestreet.com/personal-finance/flat-rate-cola-1987-idea-could-have-saved-social-security",
       "urlToImage": null,
       "source": "TheStreet",
-      "publishedAt": "2026-07-21T22:49:03Z"
+      "publishedAt": "2026-07-22T20:00:00Z"
     },
     {
-      "title": "More than 2,000 flights canceled as severe storms hammer East Coast - Fox Business",
-      "description": "Severe weather triggered widespread flight cancellations and delays across New York, Boston, Philadelphia and Washington as airlines issued travel waivers.",
-      "url": "https://www.foxbusiness.com/lifestyle/more-2000-flights-canceled-severe-storms-hammer-east-coast",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/airport-delay.jpg?ve=1&tl=1",
+      "title": "Trump plans 100% tariffs on imported generic drugs. Here's what experts say. - CBS News",
+      "description": "Health policy experts say higher import duties could increase costs and strain supplies while offering no guarantee manufacturers will shift production to the U.S.",
+      "url": "https://www.cbsnews.com/news/trump-generic-drug-tariffs-manufacturing/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/22/accdc016-425c-41ab-ad52-b2fb05e25a96/thumbnail/1200x630/2b0e0f907067b0639b119bf5e0e819f2/gettyimages-1220583234.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-07-22T19:46:00Z"
+    },
+    {
+      "title": "OpenAI President Says Kimi K3 ‘Pretty Good,’ Unsure If Distilled - Bloomberg.com",
+      "description": "OpenAI President Greg Brockman acknowledged that Moonshot AI had developed a competitive new artificial intelligence model and said he wasn’t sure whether the Chinese firm had piggybacked on the ChatGPT maker’s technology.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/int86tnkmGvk/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-22T19:31:20Z"
+    },
+    {
+      "title": "Jury finds Nike discriminated against former employee due to her gender - Oregon Public Broadcasting - OPB",
+      "description": "A jury of one woman and seven men spent a little over a week hearing evidence and testimony and took just over a day to render its verdict.",
+      "url": "https://www.opb.org/article/2026/07/22/oregon-jury-verdict-nike-discriminated-against-former-employee-gender/",
+      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/I7HB2M4S4FGZHCUYPAEA2FCQTI.JPG?auth=b10106b5ced7e879a1ef252f37e3d4b2c221aed5c0ffc60c5a2c1dd3502e2ef7&width=1200&height=675&smart=true",
+      "source": "OPB News",
+      "publishedAt": "2026-07-22T19:28:22Z"
+    },
+    {
+      "title": "Chick-fil-A security incident may have exposed some customer account data - Fox Business",
+      "description": "The fast-food chain said it contacted affected customers after detecting suspicious login activity tied to certain Chick-fil-A One loyalty accounts.",
+      "url": "https://www.foxbusiness.com/retail/chick-fil-a-security-incident-may-have-exposed-some-customer-account-data",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/chick-fil-a-minnesota.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-07-21T22:42:00Z"
+      "publishedAt": "2026-07-22T19:15:00Z"
+    },
+    {
+      "title": "The Super-High-Yield Retirement Stocks That Turn a Nest Egg Into a Monthly Paycheck - 24/7 Wall St.",
+      "description": "Five stocks pay you every single month, but yield alone will get a retiree into trouble fast. Here is how the coverage math, balance sheets, and track records sort the durable monthly paychecks from the ones that just look generous on paper.",
+      "url": "https://247wallst.com/investing/2026/07/22/the-super-high-yield-retirement-stocks-that-turn-a-nest-egg-into-a-monthly-paycheck/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/07/shutterstock-1967113351-huge-licensed-scaled.jpg",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-07-22T18:03:34Z"
     }
   ]
 }
