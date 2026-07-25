@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2026-07-24T08:38:38.507Z",
+  "updatedAt": "2026-07-25T08:20:23.545Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR",
-      "description": "The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F2f%2F84c5c3c043149e502d27ea256460%2Fap26203630156692.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-07-23T05:23:42Z"
-    },
-    {
-      "title": "FDA reviews peptide injections favored by RFK Jr. and wellness influencers - AP News",
-      "description": "Federal health advisers are meeting to review a group of controversial chemicals called peptides. The unapproved injections have become a popular wellness trend, promoted by influencers and celebrities for building muscle, healing injuries and other uses. The…",
-      "url": "https://apnews.com/article/peptides-fda-rfk-kennedy-bpc157-tb500-7267d0fad0110e7c2ed301d03cf5f0c2",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cd90afd/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2Fbf%2Fe32df81c62fbba475a5013a2d4ce%2F15d3a8306c354d93836e4764e0c6fa9b",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-23T04:02:00Z"
-    },
-    {
-      "title": "Powerball winning numbers for $567M jackpot on Wednesday, July 22 - USA Today",
-      "description": "The Powerball jackpot is now at half a billion dollars ahead of the July 22 drawing after no ticket matched all six numbers Monday night.",
-      "url": "https://www.usatoday.com/story/money/lottery/2026/07/22/powerball-jackpot-july-22-winning-numbers/91014327007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91014335007-getty-images-2252768508-21.jpg?crop=1023,576,x0,y53&width=1023&height=576&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-07-23T03:08:00Z"
-    },
-    {
-      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
-      "description": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
-      "url": "https://www.bbc.com/news/articles/c5ye2gyz0x4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-23T00:52:25Z"
-    },
-    {
-      "title": "Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook: Live updates - CNBC",
-      "description": "Investors are weighing fresh earnings, AI spending concerns and rising oil prices.",
-      "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335481-17841345462026-07-15t165135z_861048727_rc2demax4lda_rtrmadp_0_usa-stocks.jpeg?v=1784134685&w=1920&h=1080",
+      "title": "S&P 500 futures are little changed as traders look to recover from oil-driven sell-off: Live updates - CNBC",
+      "description": "The three major averages are heading for weekly losses, led by the tech-heavy Nasdaq Composite.",
+      "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108306441-1778688845240-Traders-Photo-20260513-AS-3.jpg?v=1778688944&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-07-23T00:39:00Z"
+      "publishedAt": "2026-07-24T03:43:00Z"
     },
     {
-      "title": "Macquarie names banking head to succeed Wikramanayake as CEO - Financial Times",
-      "description": "Greg Ward appointed to lead Australian investing giant",
-      "url": "https://www.ft.com/content/6df8a0ef-447f-43de-81a0-48db79498d93?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2b5112a-8439-4b7e-8095-5635c2c10035.png?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-23T00:11:44Z"
-    },
-    {
-      "title": "IBM Cuts Revenue Outlook Following Historic Stock Drop - Barron's",
-      "description": "IBM’s earnings pre-announcement sent the stock into a tailspin but Wall Street isn’t giving up just yet.",
-      "url": "https://www.barrons.com/articles/ibm-earnings-stock-price-a3df6f77",
-      "urlToImage": "https://images.barrons.com/im-243864/social",
-      "source": "Barron's",
-      "publishedAt": "2026-07-22T21:41:00Z"
-    },
-    {
-      "title": "Alphabet Reports Blowout Earnings - Barron's",
-      "description": "The Google-parent reported earnings growth of 294% from a year ago.",
-      "url": "https://www.barrons.com/articles/alphabet-earnings-googl-stock-price-274aed13",
-      "urlToImage": "https://images.barrons.com/im-02323037/social",
-      "source": "Barron's",
-      "publishedAt": "2026-07-22T21:30:00Z"
-    },
-    {
-      "title": "30-year Treasury yields stick above 5% - marketplace.org",
-      "description": "High levels of U.S. debt and competition from tech companies issuing their own bonds are driving the high yields.",
-      "url": "https://www.marketplace.org/story/2026/07/22/yield-on-30year-treasury-tops-5-for-longest-period-since-2007",
-      "urlToImage": "https://img.apmcdn.org/d32678fecacdb500e13eeb1b77c208a3aa433c84/widescreen/56b666-20260722-a-person-runs-on-a-treadmill-at-a-gym-2000.jpg",
-      "source": "Marketplace.org",
-      "publishedAt": "2026-07-22T21:29:00Z"
-    },
-    {
-      "title": "Taco Bell offering $1 lettuce-free deal amid cyclospora outbreak - USA Today",
-      "description": "Taco Bell shared on July 22 that it is offering a $1 deal for a lettuce-free menu item amid the ongoing cyclospora outbreak.",
-      "url": "https://www.usatoday.com/story/money/food/2026/07/22/taco-bell-offering-dollar-lettuce-free-deal-amid-cyclospora-outbreak/91013601007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91010910007-20231017-t-025441-z-1560603434-mt-1-usatoday-21663899-rtrmadp-3-rosaalavezfreeholdborohandsanordertoadrivethru.JPG?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-07-22T20:55:00Z"
-    },
-    {
-      "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
-      "description": "The case accuses OpenAI of practicing medicine without a license and failing to safeguard users seeking health advice.",
-      "url": "https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/22/e5e759fc-8d21-4668-bd54-8c460427154d/thumbnail/1200x630/5a2932fdb6875d5de90066477810af6c/gettyimages-1645690310.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-07-22T20:45:00Z"
-    },
-    {
-      "title": "Social media addiction lawsuit against Meta is dropped - TechCrunch",
-      "description": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
-      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T20:36:41Z"
-    },
-    {
-      "title": "The 'Best-Case Scenario' That Shot Arrowhead Stock Sky-High - Investor's Business Daily",
-      "description": "Arrowhead Pharmaceuticals' triglycerides-buster hit the \"best-case scenario\" in two studies Wednesday.",
-      "url": "https://www.investors.com/news/technology/arrowhead-pharmaceuticals-stock-triglycerides-treatment/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/11/Stock-arrowheadpharma-01-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-22T20:05:00Z"
-    },
-    {
-      "title": "A 1987 idea could have saved Social Security - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/personal-finance/flat-rate-cola-1987-idea-could-have-saved-social-security",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-07-22T20:00:00Z"
-    },
-    {
-      "title": "Trump plans 100% tariffs on imported generic drugs. Here's what experts say. - CBS News",
-      "description": "Health policy experts say higher import duties could increase costs and strain supplies while offering no guarantee manufacturers will shift production to the U.S.",
-      "url": "https://www.cbsnews.com/news/trump-generic-drug-tariffs-manufacturing/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/22/accdc016-425c-41ab-ad52-b2fb05e25a96/thumbnail/1200x630/2b0e0f907067b0639b119bf5e0e819f2/gettyimages-1220583234.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-07-22T19:46:00Z"
-    },
-    {
-      "title": "OpenAI President Says Kimi K3 ‘Pretty Good,’ Unsure If Distilled - Bloomberg.com",
-      "description": "OpenAI President Greg Brockman acknowledged that Moonshot AI had developed a competitive new artificial intelligence model and said he wasn’t sure whether the Chinese firm had piggybacked on the ChatGPT maker’s technology.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/int86tnkmGvk/v1/1200x800.jpg",
+      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
+      "description": "A global selloff in technology stocks gained momentum as doubts over returns from billions of dollars spent on artificial intelligence were compounded by a surge in oil prices that rekindled inflation concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDVzBinMYAFc/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-07-22T19:31:20Z"
+      "publishedAt": "2026-07-24T02:45:34Z"
     },
     {
-      "title": "Jury finds Nike discriminated against former employee due to her gender - Oregon Public Broadcasting - OPB",
-      "description": "A jury of one woman and seven men spent a little over a week hearing evidence and testimony and took just over a day to render its verdict.",
-      "url": "https://www.opb.org/article/2026/07/22/oregon-jury-verdict-nike-discriminated-against-former-employee-gender/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/I7HB2M4S4FGZHCUYPAEA2FCQTI.JPG?auth=b10106b5ced7e879a1ef252f37e3d4b2c221aed5c0ffc60c5a2c1dd3502e2ef7&width=1200&height=675&smart=true",
-      "source": "OPB News",
-      "publishedAt": "2026-07-22T19:28:22Z"
+      "title": "FDA panel votes to loosen restrictions for controversial peptides - BBC",
+      "description": "The vote marks a win for Health Secretary Robert F Kennedy who has said he's a big fan of the drugs, which haven't been well studied for human use.",
+      "url": "https://www.bbc.com/news/articles/ckg4741vklko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1cb7/live/7948c470-86e9-11f1-82be-1d4e2c5c1bb2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-07-24T02:03:11Z"
     },
     {
-      "title": "Chick-fil-A security incident may have exposed some customer account data - Fox Business",
-      "description": "The fast-food chain said it contacted affected customers after detecting suspicious login activity tied to certain Chick-fil-A One loyalty accounts.",
-      "url": "https://www.foxbusiness.com/retail/chick-fil-a-security-incident-may-have-exposed-some-customer-account-data",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/chick-fil-a-minnesota.jpg?ve=1&tl=1",
+      "title": "Walmart recalls over 16,000 dressers that violate federal safety law due to potentially deadly hazard - Fox Business",
+      "description": "More than 16,800 EnHomee 9-Drawer Fabric Dressers sold on Walmart.com are being recalled after the CPSC said they pose tip-over hazards and violate federal safety standards",
+      "url": "https://www.foxbusiness.com/lifestyle/walmart-recalls-16000-dressers-violate-federal-safety-law-potentially-deadly-hazard",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/recalled-walmart-dresser-thumb.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-07-22T19:15:00Z"
+      "publishedAt": "2026-07-24T01:40:00Z"
     },
     {
-      "title": "The Super-High-Yield Retirement Stocks That Turn a Nest Egg Into a Monthly Paycheck - 24/7 Wall St.",
-      "description": "Five stocks pay you every single month, but yield alone will get a retiree into trouble fast. Here is how the coverage math, balance sheets, and track records sort the durable monthly paychecks from the ones that just look generous on paper.",
-      "url": "https://247wallst.com/investing/2026/07/22/the-super-high-yield-retirement-stocks-that-turn-a-nest-egg-into-a-monthly-paycheck/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/07/shutterstock-1967113351-huge-licensed-scaled.jpg",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-07-22T18:03:34Z"
+      "title": "Running, Rock Climbing and Other Sports Are Taking Off in China. Pricey Workout Clothes, Too. - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/retail/china-fitness-workout-atheltic-wear-lululemon-alo-21e05971",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-07-24T00:00:24Z"
+    },
+    {
+      "title": "SpaceX Is Turning Away Falcon Customers in Major Bet on Starship - Bloomberg.com",
+      "description": "SpaceX has started to turn away satellite operators seeking dedicated rides to orbit aboard its staple Falcon 9 rocket beyond 2028, people familiar with the matter said, underscoring the massive bet Elon Musk is making on its unproven Starship.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAKNa6qYs1.4/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-23T23:17:58Z"
+    },
+    {
+      "title": "Inside the White House debate over what to do about Chinese AI - Politico",
+      "description": "The Trump administration still searching for a coherent China AI strategy as top officials pursue competing approaches.",
+      "url": "https://www.politico.com/news/2026/07/23/inside-the-white-house-debate-over-what-to-do-about-chinese-ai-01010997",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F85%2F21%2Fd78b18d64e2c85c6974a4585419b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282302692",
+      "source": "Politico",
+      "publishedAt": "2026-07-23T23:08:00Z"
+    },
+    {
+      "title": "Mortgage rates hit highest level in nearly a year - Fox Business",
+      "description": "The 30-year fixed mortgage hit 6.58% this week, its highest level in nearly a year, as the conflict between the U.S. and Iran pushes oil prices higher.",
+      "url": "https://www.foxbusiness.com/economy/mortgage-rates-hit-highest-level-nearly-year",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/for-sale-home.png?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-07-23T22:09:00Z"
+    },
+    {
+      "title": "Parsley and Cilantro Identified as Potential Sources of Cyclospora Outbreak in North Carolina - Consumer Reports",
+      "description": "State officials said parsley and cilantro may be linked to rising cases in North Carolina. The FDA is also investigating a new outbreak with an unknown source.",
+      "url": "https://www.consumerreports.org/health/food-recalls/parsley-cilantro-potential-sources-cyclospora-a1067026795/",
+      "urlToImage": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1784819901/prod/content/dam/CRO-images-2026/Health/CR-Health-InlineHero-Parsley-and-Cilantro-Cyclospora-Outbreak-0725",
+      "source": "ConsumerReports.org",
+      "publishedAt": "2026-07-23T21:29:38Z"
+    },
+    {
+      "title": "Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat - Investor's Business Daily",
+      "description": "Intel smashed Wall Street's targets for the second quarter and with its guidance for the third quarter. Intel stock jumped on the news.",
+      "url": "https://www.investors.com/news/technology/intel-stock-intc-q2-2026-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/stock-Intel-Xeon-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-07-23T21:27:00Z"
+    },
+    {
+      "title": "Department of War taps Oracle for software deal worth nearly $7B - Fox Business",
+      "description": "The agreement, which could run for up to 10 years, is projected to save taxpayers at least $441 million by consolidating Oracle software purchases across the military.",
+      "url": "https://www.foxbusiness.com/politics/department-war-taps-oracle-software-deal-worth-nearly-7b",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/pentagon-building-arlington-va.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-07-23T21:24:00Z"
+    },
+    {
+      "title": "Reality Bites Elon Musk and His Tesla, SpaceX Believers - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/reality-bites-elon-musk-and-his-tesla-spacex-believers-1b639591",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-07-23T21:04:00Z"
+    },
+    {
+      "title": "Gallego eyes crypto bill ethics counteroffer, calling GOP proposal a ‘piece of s--t’ - Politico",
+      "description": "“Whatever piece of s--t they sent back to us, that was not a serious effort,” said Sen. Ruben Gallego (D-Ariz.).",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/gallego-eyes-crypto-bill-ethics-counteroffer-calling-gop-proposal-a-piece-of-shit-01010651",
+      "urlToImage": "https://www.politico.com/dims4/default/ad74183/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9a%2Fca%2F7758e6db4cc3840383afa7eff11c%2Fu-s-congress-38873.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-07-23T21:00:39Z"
+    },
+    {
+      "title": "SpaceX Starship Flight 13 launch updates: SpaceX delays Starship launch to July 24 - Space",
+      "description": "Join us Friday, July 24, at 6:15 p.m. EDT (2215 GMT) for live coverage of Starship Flight 13.",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-23-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nuZjBPHeXgE9FxV5LBfDt5-1920-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-07-23T20:53:19Z"
+    },
+    {
+      "title": "Oil prices leap to $100 a barrel after attacks in Red Sea - The Washington Post",
+      "description": "The price of Brent crude, now up about 40 percent this month, surged Thursday after Iran’s Houthi allies in Yemen claimed strikes on Saudi tankers.",
+      "url": "https://www.washingtonpost.com/world/2026/07/23/least-one-saudi-oil-tanker-is-attacked-red-sea-war-risks-widen/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DNZL55SNVC4FMAZRAQW56RZHLU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-23T20:23:54Z"
+    },
+    {
+      "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 - Yahoo Finance",
+      "description": "The \"Magnificent Seven\" group of stocks suffered its steepest one-day decline since the tariff-driven market sell-off in April 2025.",
+      "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-erase-797-billion-in-market-value-in-worst-day-since-april-2025-201930579.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8E89E0EDCECA68FB4B52083E54A5D5FABD515E5EC8822685DDB1643C6B877DB3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F76799021-de62-429e-affd-c204b91aca07",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-23T20:19:30Z"
+    },
+    {
+      "title": "Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",
+      "description": "Tesla missed second-quarter earnings estimates and the stock was down Thursday. Wall Street remains firmly focused on the future, though.",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-wall-street-buy-17f7997c",
+      "urlToImage": "https://images.barrons.com/im-01321295/social",
+      "source": "Barron's",
+      "publishedAt": "2026-07-23T20:17:00Z"
     }
   ]
 }
