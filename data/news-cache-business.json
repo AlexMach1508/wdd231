@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2026-07-25T08:20:23.545Z",
+  "updatedAt": "2026-07-26T08:37:15.599Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "S&P 500 futures are little changed as traders look to recover from oil-driven sell-off: Live updates - CNBC",
-      "description": "The three major averages are heading for weekly losses, led by the tech-heavy Nasdaq Composite.",
-      "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108306441-1778688845240-Traders-Photo-20260513-AS-3.jpg?v=1778688944&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-07-24T03:43:00Z"
+      "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn - Al Jazeera",
+      "description": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T185745Z_338274370_RC235MAACO0U_RTRMADP_3_ALPHABET-AI-1784941927.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-25T01:21:25Z"
     },
     {
-      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
-      "description": "A global selloff in technology stocks gained momentum as doubts over returns from billions of dollars spent on artificial intelligence were compounded by a surge in oil prices that rekindled inflation concerns.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDVzBinMYAFc/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-24T02:45:34Z"
-    },
-    {
-      "title": "FDA panel votes to loosen restrictions for controversial peptides - BBC",
-      "description": "The vote marks a win for Health Secretary Robert F Kennedy who has said he's a big fan of the drugs, which haven't been well studied for human use.",
-      "url": "https://www.bbc.com/news/articles/ckg4741vklko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1cb7/live/7948c470-86e9-11f1-82be-1d4e2c5c1bb2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-24T02:03:11Z"
-    },
-    {
-      "title": "Walmart recalls over 16,000 dressers that violate federal safety law due to potentially deadly hazard - Fox Business",
-      "description": "More than 16,800 EnHomee 9-Drawer Fabric Dressers sold on Walmart.com are being recalled after the CPSC said they pose tip-over hazards and violate federal safety standards",
-      "url": "https://www.foxbusiness.com/lifestyle/walmart-recalls-16000-dressers-violate-federal-safety-law-potentially-deadly-hazard",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/recalled-walmart-dresser-thumb.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-24T01:40:00Z"
-    },
-    {
-      "title": "Running, Rock Climbing and Other Sports Are Taking Off in China. Pricey Workout Clothes, Too. - WSJ",
+      "title": "Stock Market News, July 24, 2026: Crude Oil Slips on New Hopes for Peace Talks - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/retail/china-fitness-workout-atheltic-wear-lululemon-alo-21e05971",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-24-2026",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-24T00:00:24Z"
+      "publishedAt": "2026-07-25T01:12:00Z"
     },
     {
-      "title": "SpaceX Is Turning Away Falcon Customers in Major Bet on Starship - Bloomberg.com",
-      "description": "SpaceX has started to turn away satellite operators seeking dedicated rides to orbit aboard its staple Falcon 9 rocket beyond 2028, people familiar with the matter said, underscoring the massive bet Elon Musk is making on its unproven Starship.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-is-turning-away-falcon-customers-in-major-bet-on-starship",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAKNa6qYs1.4/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-23T23:17:58Z"
-    },
-    {
-      "title": "Inside the White House debate over what to do about Chinese AI - Politico",
-      "description": "The Trump administration still searching for a coherent China AI strategy as top officials pursue competing approaches.",
-      "url": "https://www.politico.com/news/2026/07/23/inside-the-white-house-debate-over-what-to-do-about-chinese-ai-01010997",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F85%2F21%2Fd78b18d64e2c85c6974a4585419b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282302692",
-      "source": "Politico",
-      "publishedAt": "2026-07-23T23:08:00Z"
-    },
-    {
-      "title": "Mortgage rates hit highest level in nearly a year - Fox Business",
-      "description": "The 30-year fixed mortgage hit 6.58% this week, its highest level in nearly a year, as the conflict between the U.S. and Iran pushes oil prices higher.",
-      "url": "https://www.foxbusiness.com/economy/mortgage-rates-hit-highest-level-nearly-year",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/for-sale-home.png?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-23T22:09:00Z"
-    },
-    {
-      "title": "Parsley and Cilantro Identified as Potential Sources of Cyclospora Outbreak in North Carolina - Consumer Reports",
-      "description": "State officials said parsley and cilantro may be linked to rising cases in North Carolina. The FDA is also investigating a new outbreak with an unknown source.",
-      "url": "https://www.consumerreports.org/health/food-recalls/parsley-cilantro-potential-sources-cyclospora-a1067026795/",
-      "urlToImage": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1784819901/prod/content/dam/CRO-images-2026/Health/CR-Health-InlineHero-Parsley-and-Cilantro-Cyclospora-Outbreak-0725",
-      "source": "ConsumerReports.org",
-      "publishedAt": "2026-07-23T21:29:38Z"
-    },
-    {
-      "title": "Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat - Investor's Business Daily",
-      "description": "Intel smashed Wall Street's targets for the second quarter and with its guidance for the third quarter. Intel stock jumped on the news.",
-      "url": "https://www.investors.com/news/technology/intel-stock-intc-q2-2026-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/stock-Intel-Xeon-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-23T21:27:00Z"
-    },
-    {
-      "title": "Department of War taps Oracle for software deal worth nearly $7B - Fox Business",
-      "description": "The agreement, which could run for up to 10 years, is projected to save taxpayers at least $441 million by consolidating Oracle software purchases across the military.",
-      "url": "https://www.foxbusiness.com/politics/department-war-taps-oracle-software-deal-worth-nearly-7b",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/pentagon-building-arlington-va.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-23T21:24:00Z"
-    },
-    {
-      "title": "Reality Bites Elon Musk and His Tesla, SpaceX Believers - WSJ",
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/finance/stocks/reality-bites-elon-musk-and-his-tesla-spacex-believers-1b639591",
+      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-23T21:04:00Z"
+      "publishedAt": "2026-07-25T01:00:00Z"
     },
     {
-      "title": "Gallego eyes crypto bill ethics counteroffer, calling GOP proposal a ‘piece of s--t’ - Politico",
-      "description": "“Whatever piece of s--t they sent back to us, that was not a serious effort,” said Sen. Ruben Gallego (D-Ariz.).",
-      "url": "https://www.politico.com/live-updates/2026/07/23/congress/gallego-eyes-crypto-bill-ethics-counteroffer-calling-gop-proposal-a-piece-of-shit-01010651",
-      "urlToImage": "https://www.politico.com/dims4/default/ad74183/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9a%2Fca%2F7758e6db4cc3840383afa7eff11c%2Fu-s-congress-38873.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-07-23T21:00:39Z"
+      "title": "Exclusive | Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-07-25T00:45:00Z"
     },
     {
-      "title": "SpaceX Starship Flight 13 launch updates: SpaceX delays Starship launch to July 24 - Space",
-      "description": "Join us Friday, July 24, at 6:15 p.m. EDT (2215 GMT) for live coverage of Starship Flight 13.",
-      "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-23-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nuZjBPHeXgE9FxV5LBfDt5-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2026-07-23T20:53:19Z"
+      "title": "Two pain drugs used by millions will be combined in a single tablet - USA Today",
+      "description": "The FDA approved a new table that combines Tylenol with naproxen, an anti-inflammatory medication.",
+      "url": "https://www.usatoday.com/story/news/health/2026/07/24/fda-pain-pill-combines-tylenol-naproxen/91039395007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/22/USAT/86300409007-20250922-vpc-trump-autism-announcement-thumb-getty-00-00-00-00-still-004.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-24T23:41:00Z"
     },
     {
-      "title": "Oil prices leap to $100 a barrel after attacks in Red Sea - The Washington Post",
-      "description": "The price of Brent crude, now up about 40 percent this month, surged Thursday after Iran’s Houthi allies in Yemen claimed strikes on Saudi tankers.",
-      "url": "https://www.washingtonpost.com/world/2026/07/23/least-one-saudi-oil-tanker-is-attacked-red-sea-war-risks-widen/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DNZL55SNVC4FMAZRAQW56RZHLU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-07-23T20:23:54Z"
+      "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
+      "description": "Investigators have determined that shell eggs recalled by Midwest Poultry Services are a likely source of the germ, but the Indiana-based company doesn’t account for all the illnesses.",
+      "url": "https://www.pbs.org/newshour/health/salmonella-outbreak-tied-to-eggs-has-sickened-98-people-in-17-states-since-november-fda-says",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/09/GettyImages-1415035613-e1667412503779-1024x608.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-07-24T23:25:12Z"
     },
     {
-      "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025 - Yahoo Finance",
-      "description": "The \"Magnificent Seven\" group of stocks suffered its steepest one-day decline since the tariff-driven market sell-off in April 2025.",
-      "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-erase-797-billion-in-market-value-in-worst-day-since-april-2025-201930579.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8E89E0EDCECA68FB4B52083E54A5D5FABD515E5EC8822685DDB1643C6B877DB3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F76799021-de62-429e-affd-c204b91aca07",
+      "title": "Orange County police search for spray paint vandal who allegedly tagged 13 Teslas - KTLA",
+      "description": "The Irvine Police Department is searching for a man who they say is responsible for vandalizing at least 13 Teslas this week. On Monday, police shared a video of a suspect vandalizing a Tesla with spray paint in a parking garage near Michelson Drive and Carls…",
+      "url": "https://ktla.com/news/california/irvine-police-search-for-serial-spray-painter-who-allegedly-vandalized-13-teslas/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/07/irvine-tesla-vandal-2.jpg?w=1280",
+      "source": "KTLA Los Angeles",
+      "publishedAt": "2026-07-24T21:52:18Z"
+    },
+    {
+      "title": "Stock market today: Nasdaq slips, Dow and S&P 500 recover to close a volatile week on Wall Street - Yahoo Finance",
+      "description": "Stocks stabilized on Friday but were on track for weekly losses as investors assessed a new set of global tariffs against a backdrop of AI jitters, rising oi...",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/01A5A6826A1937A2B6435290979E4F5F1D5EF07B4E8E04873CCEBD67BD209B0C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fecceb641-34a4-41f5-b9ed-79319b0dd01d",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-23T20:19:30Z"
+      "publishedAt": "2026-07-24T21:28:07Z"
     },
     {
-      "title": "Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",
-      "description": "Tesla missed second-quarter earnings estimates and the stock was down Thursday. Wall Street remains firmly focused on the future, though.",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-wall-street-buy-17f7997c",
-      "urlToImage": "https://images.barrons.com/im-01321295/social",
-      "source": "Barron's",
-      "publishedAt": "2026-07-23T20:17:00Z"
+      "title": "Trump's former top food official: Cyclospora outbreak ‘approaching catastrophic’ level - Politico",
+      "description": "Former FDA Deputy Commissioner Frank Yiannas called for an independent after-the-fact review of how the federal government has handled the record-breaking outbreak.",
+      "url": "https://www.politico.com/news/2026/07/24/cyclospora-outbreak-approaching-catastrophic-fda-01011946",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Faa%2F48%2F59f4848845439952c166034c239d%2Ffda-vapes-flavors-88482.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-07-24T21:16:00Z"
+    },
+    {
+      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight - CNBC",
+      "description": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
+      "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108315896-1780491649482-gettyimages-1175168392-AFP_1LB3WB.jpeg?v=1781036537&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-24T20:20:05Z"
+    },
+    {
+      "title": "One type of Social Security adjustment could cut the 75-year shortfall in half - Fox Business",
+      "description": "A flat-rate COLA proposal could close 50% of Social Security's 75-year fiscal shortfall, but the cost of waiting since 1987 has been enormous.",
+      "url": "https://www.foxbusiness.com/politics/one-type-social-security-adjustment-could-cut-75-year-shortfall-half",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/us-capitol-dc.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-07-24T20:00:00Z"
+    },
+    {
+      "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses - Ars Technica",
+      "description": "There's no human safety or efficacy data, but that no longer seems to matter.",
+      "url": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2225268507-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-24T19:10:09Z"
+    },
+    {
+      "title": "3 airports to join new 'TSA Gold+' program: What does that mean for travelers? - The Points Guy",
+      "description": "Airports are opting in to the TSA's new private screening program. Here's what that will mean for air travel.",
+      "url": "https://thepointsguy.com/news/tsa-gold-plus-private-security-what-it-means-travelers/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/03/20260330_March-2026-TSA-Lines_AJSmith-5.jpg",
+      "source": "The Points Guy",
+      "publishedAt": "2026-07-24T18:11:15Z"
+    },
+    {
+      "title": "Jensen Huang just used his first ever X post to warn the AI industry not to make the mistake that software narrowly avoided in the 1980s - Fortune",
+      "description": "Xi Jinping has called for \"openness\" and \"a symphony of global cooperation,\" and it seems that Jensen Huang agrees.",
+      "url": "https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286326398-e1784913912763.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-07-24T17:51:00Z"
+    },
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
+      "description": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297139-1777061266263-techceos.jpg?v=1777061317&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-24T17:37:49Z"
+    },
+    {
+      "title": "Deadline to file claim in $2.5B settlement over Amazon Prime coming soon - WOODTV.com",
+      "description": "You have just days to submit a claim to receive up to $51.",
+      "url": "https://www.woodtv.com/news/nexstar-media-wire/deadline-to-file-claim-in-2-5b-settlement-over-amazon-prime-coming-soon/",
+      "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2026/07/prime-e1759258909592.jpg?w=1280",
+      "source": "WOODTV.com",
+      "publishedAt": "2026-07-24T17:11:01Z"
+    },
+    {
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities - The Verge",
+      "description": "The company said in a release that Opus 5 “comes close to the capabilities of Claude Fable 5 in many domains” and is much better at complex coding tasks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-07-24T17:00:00Z"
+    },
+    {
+      "title": "How the cyclospora lettuce outbreak sparked a massive consumer trust crisis - NBC News",
+      "description": "The cyclospora outbreak has people avoiding salads and burrito bowls. Now, for many Americans the question is whether any lettuce can be trusted.",
+      "url": "https://www.nbcnews.com/business/consumer/cyclospora-trust-crisis-taco-bell-taylor-farms-rcna588817",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260722-grocery-salad-aa-617-88af66.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-07-24T16:19:00Z"
     }
   ]
 }
