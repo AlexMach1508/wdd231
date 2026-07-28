@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-07-27T10:05:29.047Z",
+  "updatedAt": "2026-07-28T08:47:36.913Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US - AP News",
-      "description": "Chinese AI models are gaining popularity in the U.S. for their affordability and efficiency. More American executives and companies are switching to Chinese models by startups such as DeepSeek, Moonshot AI and Z.ai for daily tasks. These models are way cheape…",
-      "url": "https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c2ecee7/2147483647/strip/true/crop/6327x4216+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2Fbb%2F76437f0389ccc725399ea3278dbc%2F71bc02306f1949499e5131b26440c4f2",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-26T04:05:00Z"
+      "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates - CNBC",
+      "description": "The week ahead will have no shortage of challenges for the major averages.",
+      "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335406-1784129151297-Traders-Photo-20260715-KK-PRESS-004.jpg?v=1784129393&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-27T03:31:00Z"
     },
     {
-      "title": "$600M Powerball: Winning numbers for Saturday, July 25, 2026 - ABC10",
+      "title": "Singapore Central Bank Tightens Again in Surprise Move - WSJ",
       "description": null,
-      "url": "https://www.abc10.com/article/news/nation-world/powerball-winning-numbers-saturday-july-25-2026/507-2238a3cb-f304-41b3-82eb-98833d84780b",
+      "url": "https://www.wsj.com/economy/central-banking/singapore-central-bank-delivers-surprise-back-to-back-tightening-04300256",
       "urlToImage": null,
-      "source": "ABC10.com KXTV",
-      "publishedAt": "2026-07-26T03:00:00Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-07-27T03:26:00Z"
     },
     {
-      "title": "Cyclospora outbreak dubbed \"lettuce-gate\" as concerns over parasitic illness spread across U.S. - CBS News",
-      "description": "Americans say they aren't convinced the cyclospora outbreak is under control as confirmed cases near 2,000.",
-      "url": "https://www.cbsnews.com/news/cyclospora-outbreak-iceberg-lettuce-cdc/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/0ad4b5e3-5aca-4e0e-891c-cbdcd133c355/thumbnail/1200x630/c1f867e130fcbbf2696a0be195107ec8/gettyimages-2285892126.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-07-26T00:58:00Z"
-    },
-    {
-      "title": "Cathie Wood buys $50.1 million of tumbling megacap stock - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-50-1-million-of-tumbling-megacap-stock-tesla-tsla",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-07-25T23:47:00Z"
-    },
-    {
-      "title": "Bargain buffet refuses to die while luxury dining takes over Vegas - Fox News",
-      "description": "Las Vegas buffets are vanishing from the Strip, with only four remaining as the city shifts toward luxury dining and wealthier casino visitors.",
-      "url": "https://www.foxnews.com/travel/bargain-buffet-refuses-die-while-luxury-dining-takes-over-vegas",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/36a134a6-las_vegas.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-07-25T22:33:05Z"
-    },
-    {
-      "title": "Billionaire Who Left His Wife For A Younger Woman Ordered To Pay Her Insane Amount In The 'Divorce Of The Century' - Bored Panda",
-      "description": "A South Korean billionaire was ordered to pay his ex-wife $645 million after a years-long divorce battle.",
-      "url": "https://www.boredpanda.com/billionaire-left-wife-for-younger-woman-ordered-to-pay-645m-dollars-divorce/",
-      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/fb_image_6a651a2b035f3.png",
-      "source": "Boredpanda.com",
-      "publishedAt": "2026-07-25T22:21:16Z"
-    },
-    {
-      "title": "DeepSeek’s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak - Gizmodo",
-      "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-      "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-07-25T22:08:30Z"
-    },
-    {
-      "title": "Taylor Farms CEO breaks silence over explosive diarrhea outbreak as class-action lawsuit filed - New York Post",
-      "description": "The CEO of the company that’s been linked to the diarrhea-inducing parasite exploding across the country is speaking out for the first time amid the filing of a class action lawsuit.",
-      "url": "https://nypost.com/2026/07/25/us-news/taylor-farms-ceo-breaks-silence-over-explosive-diarrhea-outbreak-as-class-action-lawsuit-filed/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135491855.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-07-25T21:18:00Z"
-    },
-    {
-      "title": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response' - Business Insider",
-      "description": "Hugging Face CEO Clem Delangue met with OpenAI this week to discuss the \"unprecedented\" hack on its systems by an agent running on OpenAI models.",
-      "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7#article",
-      "urlToImage": "https://i.insider.com/6a65142354f9875261779cef?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-25T20:21:00Z"
-    },
-    {
-      "title": "Top Democrat says Trump administration is worsening chip shortage - Financial Times",
-      "description": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
-      "url": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ce0e501-1f28-44f0-b26b-391a050cc159.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "title": "Indonesia central bank chief resigns - Financial Times",
+      "description": "Perry Warjiyo had been under pressure over weakening rupiah",
+      "url": "https://www.ft.com/content/f9abab6b-964c-4dae-ba41-4c20fa71c2e0?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb7beab9c-0817-4400-8e06-50065be3eb82.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-25T19:33:15Z"
+      "publishedAt": "2026-07-27T02:00:59Z"
     },
     {
-      "title": "Waymo crashes 1/3 as much as a human driver, says IIHS – with some caveats - Electrek",
-      "description": "An independent study finds Waymo robotaxis crash less than humans - but there are some important caveats. Tesla wasn't examined.",
-      "url": "http://electrek.co/2026/07/25/waymo-is-2-3-safer-than-a-human-driver-says-iihs-with-some-caveats/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/Waymo-cities-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-07-25T19:27:00Z"
+      "title": "Chinese chipmaker CXMT soars almost 500% in market debut - Financial Times",
+      "description": "Tech group becomes China’s most valuable listed company in mainland’s biggest IPO since 2010",
+      "url": "https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F75ae951b-a23d-4af3-9d34-ee13c109b4c9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-27T01:54:34Z"
     },
     {
-      "title": "Award-winning dairy company closes two facilities - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/retail/prairie-farms-award-winning-dairy-company-closes-two-facilities",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-07-25T18:03:00Z"
+      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount - Bloomberg.com",
+      "description": "Bond traders head into the week pricing in roughly a one-in-three chance of a Federal Reserve interest rate hike on Wednesday, after flaring Middle East tensions fueled volatility in oil prices and Treasury yields, heightening inflation worries.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/bond-traders-on-edge-as-risks-of-fed-rate-hike-this-week-mount",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itTiRjMaHI4Q/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-27T01:49:00Z"
     },
     {
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight - Ars Technica",
-      "description": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
-      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-25T17:47:22Z"
-    },
-    {
-      "title": "Goldman delivers a candid response after Intel’s stunning quarter - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/intc-intel-stock-price-target-goldman-sachs-maintains-neutral-after-q2-results-july-2026",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-07-25T16:37:00Z"
-    },
-    {
-      "title": "Maine mom awarded $17M after her bladder was mistakenly removed during routine surgery - New York Post",
-      "description": "A Maine jury awarded Emily Mitchell, 43, $15.75 million on July 23, three years after she underwent an op supposed to be routine to remove an ovarian cyst. The bumbling doc removed her bladder.",
-      "url": "https://nypost.com/2026/07/25/us-news/maine-moms-bladder-mistakenly-removed-during-surgery-wins-17m/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-40087721.jpg?quality=75&strip=all&w=1200",
+      "title": "Exclusive | Netflix exec goes ballistic after being fired for stunning 'trust exercise' confession at retreat: suit - New York Post",
+      "description": "He was fired from his $1.1 million a year job after revealing that he had taken medically prescribed Ketamine at a “Trust exercise”",
+      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-32u7wxbee-1785111414552.jpg?quality=75&strip=all&1785097069&w=1200",
       "source": "New York Post",
-      "publishedAt": "2026-07-25T16:23:00Z"
+      "publishedAt": "2026-07-27T01:03:00Z"
     },
     {
-      "title": "Trillionaire No More. SpaceX Collapse Loses Elon Musk $600 Billion in One Month - 24/7 Wall St.",
-      "description": "SpaceX's blockbuster IPO compressed years of post-debut volatility into a single month, and the fallout carries a warning for investors eyeing the next wave of highly anticipated tech offerings.",
-      "url": "https://247wallst.com/investing/2026/07/25/trillionaire-no-more-spacex-collapse-loses-elon-musk-600-billion-in-one-month/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2020/06/imageForEntry1-f4R.jpg",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-07-25T16:03:54Z"
+      "title": "Kospi index and U.S. stock futures jump as new Hormuz talks send oil prices plunging amid Iran war pause while Wall Street awaits Fed meeting - Yahoo Finance",
+      "description": "Iran and Oman are also in talks that center around having Iran run vessel transit through the Strait of Hormuz with fewer restrictions on ships.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/kospi-index-u-stock-futures-002504570.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/B02EC81A384AFEA3F33610EF356F8D6A1A07D50D1DE82E8F175A06AC39803974/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fcbbd5e3788e8a20f2c39d09f807cc3fb",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-27T00:25:00Z"
     },
     {
-      "title": "Forget gasoline: This overlooked fuel could raise the price of nearly everything you buy - Fox Business",
-      "description": "Diesel prices surged from $3.56 to $5.13 per gallon after the Iran conflict, threatening to raise the prices of groceries and everyday essentials.",
-      "url": "https://www.foxbusiness.com/politics/forget-gasoline-overlooked-fuel-could-raise-price-nearly-everything-you-buy",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/flag-diesel-trucks.png?ve=1&tl=1",
+      "title": "Here's How Much A 2021 Mercedes-Maybach S580 Has Depreciated In 5 Years - Jalopnik",
+      "description": "The 2021 Mercedes-Maybach S580 has shed roughly 34% of its value, currently trading for $120,000 on average, with high-mileage ones being the biggest bargains.",
+      "url": "https://www.jalopnik.com/2222527/2021-mercedes-maybach-s580-5-year-depreciation/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/heres-how-much-a-2021-mercedes-maybach-s580-has-depreciated-in-5-years/l-intro-1784905296.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-07-26T23:45:00Z"
+    },
+    {
+      "title": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-07-26T23:19:00Z"
+    },
+    {
+      "title": "Major retailer announces its closing 75 stores, slowing growth plans - Cleveland.com",
+      "description": null,
+      "url": "https://www.cleveland.com/news/2026/07/major-retailer-announces-its-closing-75-stores-slowing-growth-plans.html",
+      "urlToImage": null,
+      "source": "cleveland.com",
+      "publishedAt": "2026-07-26T22:11:00Z"
+    },
+    {
+      "title": "What the American Tin Can Reveals About Trump’s Volatile Tariff Policy - Bloomberg.com",
+      "description": "The industry’s struggle is a cautionary tale as the US president tries to rebuild his protectionist regime.",
+      "url": "https://www.bloomberg.com/news/features/2026-07-26/how-trump-s-steel-tariffs-impact-america-s-tin-can-industry",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAvgZxqWjzSs/v0/1200x630.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-26T21:00:22Z"
+    },
+    {
+      "title": "United reportedly approached Delta Air Lines about a potential merger - Fox Business",
+      "description": "The reported tie-up would have combined two of the nation’s largest airlines, but the preliminary discussions did not advance and both carriers ultimately moved on.",
+      "url": "https://www.foxbusiness.com/markets/united-reportedly-approached-delta-air-lines-potential-merger",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/united-airlines-flights.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-07-25T15:58:00Z"
+      "publishedAt": "2026-07-26T20:34:00Z"
     },
     {
-      "title": "Amy’s Soup Recalled in 27 States Over Spoilage Risk - Gizmodo",
-      "description": "\"Amy's recalled the lot out of an abundance of caution to ensure the high quality of its products,\" the company said in a statement.",
-      "url": "https://gizmodo.com/amys-soup-recalled-in-27-states-over-spoilage-risk-2000790517",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/amys-soup-shutterstock-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-07-25T15:57:04Z"
+      "title": "SpaceX Is $15 Away From A ‘Worthless’ AI Business Says Morgan Stanley - Forbes",
+      "description": "Some analysts at the bank looked at the falling price of the stock and said it implies investors assign to SpaceXAI, the Grok chatbot division.",
+      "url": "https://www.forbes.com/sites/eriksherman/2026/07/26/spacex-is-15-away-from-a-worthless-ai-business-says-morgan-stanley/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a666ef18404f93be1ffe0f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-07-26T20:33:25Z"
     },
     {
-      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus - Investor's Business Daily",
-      "description": "Apple, Amazon, Meta, Microsoft, SK Hynix loom with the Nasdaq breaking lower.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BigWavePipe-08-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-07-25T15:36:00Z"
+      "title": "The 'Great Wealth Transfer' Is Hitting a Speed Bump - Newser",
+      "description": "Many boomers exhaust savings on long-term care, shrinking generational wealth",
+      "url": "https://www.newser.com/story/393357/the-great-wealth-transfer-is-hitting-a-speed-bump.html",
+      "urlToImage": "https://cdn.newser.com/image/1700523-12-20260726154118.jpeg",
+      "source": "Newser",
+      "publishedAt": "2026-07-26T20:22:00Z"
+    },
+    {
+      "title": "What Google has teased about Gemini 4 - 9to5Google",
+      "description": "In the past week, Google has teased quite a bit about Gemini 4, as 3.5 Pro missed its June launch. The first mention of the...",
+      "url": "http://9to5google.com/2026/07/26/google-gemini-4-teases/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2026-07-26T20:07:00Z"
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI - TechCrunch",
+      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-26T19:40:57Z"
     }
   ]
 }
