@@ -1,135 +1,167 @@
 {
-  "updatedAt": "2026-07-28T08:47:36.913Z",
+  "updatedAt": "2026-07-29T08:52:19.230Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates - CNBC",
-      "description": "The week ahead will have no shortage of challenges for the major averages.",
-      "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335406-1784129151297-Traders-Photo-20260715-KK-PRESS-004.jpg?v=1784129393&w=1920&h=1080",
+      "title": "AI stock sell-off deepens as investors dump chipmakers - Financial Times",
+      "description": "SK Hynix and Samsung shares tumble, pushing South Korea’s Kospi down more than 10%",
+      "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28d7aa37-e06c-44e0-a6ef-028f765a2b8a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-07-28T03:45:00Z"
+    },
+    {
+      "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off - Investor's Business Daily",
+      "description": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-07-28T02:11:00Z"
+    },
+    {
+      "title": "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer - Al Jazeera",
+      "description": "Johnson & Johnson agrees to pay $5.5bn to settle nearly 70,000 US lawsuits over talc-based baby powder cancer claims.",
+      "url": "https://www.aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67f620-1785198112.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-28T01:12:09Z"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
+      "description": "Amodei argued that a ban on Chinese open models would do little to stop the actual threat.",
+      "url": "https://www.axios.com/2026/07/27/anthropic-open-weight-ban-china-dario-amodei",
+      "urlToImage": "https://images.axios.com/DZ78UgROxgcj7x3OKk_e8iahAVU=/0x0:5381x3027/1366x768/2026/07/27/1785192076909.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-07-28T01:03:26Z"
+    },
+    {
+      "title": "Nationwide recall issued for this thyroid medication. See products - USA Today",
+      "description": "A nationwide recall was issued for this common thyroid medication. See the recalled products.",
+      "url": "https://www.usatoday.com/story/money/2026/07/27/thyroid-medication-recall-july-2026/91070537007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/27/USAT/91070608007-getty-images-1159367387.jpg?crop=5759,3240,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-28T00:34:00Z"
+    },
+    {
+      "title": "NYC-run grocery stores will sell meat, other basics at 30% off, Mamdani says - The Washington Post",
+      "description": "The mayor, who made affordability a key component of his campaign, said the stores would save the average shopper about $1,000 annually.",
+      "url": "https://www.washingtonpost.com/business/2026/07/27/nyc-run-grocery-stores-will-sell-meat-other-basics-30-off-mamdani-says/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T7YVQGXYQMGHIWWQYSNMFMFLSI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-28T00:14:24Z"
+    },
+    {
+      "title": "PSA: T-Mobile is down, iPhones showing ‘SOS’ mode - 9to5Mac",
+      "description": "T-Mobile is down across the United States, and many iPhone users are seeing \"SOS\" in their device's status bar.",
+      "url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-07-27T23:17:00Z"
+    },
+    {
+      "title": "Cyclospora and salmonella outbreaks raise concerns about U.S. food safety - PBS",
+      "description": "Public health concerns are widening as cyclosporiasis cases surge and a salmonella outbreak across 17 states has many Americans raising concerns about U.S. food safety. Back-to-back cases where people are getting sick from food have put many on edge. William …",
+      "url": "https://www.pbs.org/newshour/show/cyclospora-and-salmonella-outbreaks-raise-concerns-about-u-s-food-safety",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/outbreakoutrebak-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-07-27T22:30:20Z"
+    },
+    {
+      "title": "Taco Bell offering another $1 lettuce-free item. See new promotion - USA Today",
+      "description": "Taco Bell is offering another one-day $1 lettuce-free promotion, following the success of its Enchirito deal. Here's how to get yours.",
+      "url": "https://www.usatoday.com/story/money/food/2026/07/27/taco-bell-offering-another-lettuce-free-promotion-july-2026/91068305007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/27/USAT/91068464007-20260717-t-162358-z-59945217-rc-2-sfmatma-3-n-rtrmadp-3-healthusacyclosporiasis.JPG?crop=4662,2623,x0,y308&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-07-27T22:16:00Z"
+    },
+    {
+      "title": "Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video) - Space",
+      "description": "Some of these views look decidedly sci-fi.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z5sRcMEVPouUb4LeG6qia8-2560-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-07-27T22:00:00Z"
+    },
+    {
+      "title": "Woman wins massive settlement after bladder mistakenly removed during surgery for benign cyst - Fox News",
+      "description": "A Maine jury awarded a woman $17 million after a routine surgery for a benign ovarian cyst ended with the accidental removal of her bladder.",
+      "url": "https://www.foxnews.com/us/woman-wins-massive-settlement-bladder-mistakenly-removed-surgery-benign-cyst",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/maine-hospital.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-07-27T21:53:06Z"
+    },
+    {
+      "title": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike - Bloomberg.com",
+      "description": "Citadel Securities expects the Federal Reserve to raise interest rates this week — a surprise move strengthening Chairman Kevin Warsh’s credibility in the battle with inflation.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/citadel-securities-sees-warsh-delivering-surprise-fed-rate-hike",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN_UJkDWn2u8/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-27T21:42:13Z"
+    },
+    {
+      "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization - CNBC",
+      "description": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
+      "url": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108337556-17845778412026-07-20t195630z_1807659533_rc2thmadohpw_rtrmadp_0_space-spacex-starship.jpeg?v=1784577868&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-07-27T03:31:00Z"
+      "publishedAt": "2026-07-27T21:26:03Z"
     },
     {
-      "title": "Singapore Central Bank Tightens Again in Surprise Move - WSJ",
+      "title": "Federal judge halts Minnesota law meant to bar prediction markets within state - MPR News",
+      "description": "Minnesota’s law barring prediction markets has been put on hold while a lawsuit plays out. A judge sided with a federal regulatory board and companies that facilitate trades that resemble gambling wagers.",
+      "url": "https://www.mprnews.org/story/2026/07/27/minnesota-ban-on-kalshi-polymarket-prediction-markets-put-on-hold-by-federal-judge",
+      "urlToImage": "https://img.apmcdn.org/faa5fea551ab1e5809c1e91f48cdba550d6b36b4/widescreen/93b903-20260702-the-prediction-market-app-kalshi-is-displayed-on-a-mobile-phone-2000.jpg",
+      "source": "Minnesota Public Radio News",
+      "publishedAt": "2026-07-27T21:25:00Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman heads to Washington as AI policy deadline nears - Politico",
+      "description": "Altman will preview his company’s newest model and is likely to face questions about OpenAI’s recent cybersecurity breach.",
+      "url": "https://www.politico.com/news/2026/07/27/openai-ceo-sam-altman-heads-to-washington-as-ai-policy-deadline-nears-01012970",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F07%2F72%2F47a07e6540a99aa35814109ee2e6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2194584986",
+      "source": "Politico",
+      "publishedAt": "2026-07-27T21:10:00Z"
+    },
+    {
+      "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies - Ars Technica",
+      "description": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+      "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-07-27T20:42:13Z"
+    },
+    {
+      "title": "Cracker Barrel CEO Stepping Down After Logo Controversy, Activist Pressure - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/economy/central-banking/singapore-central-bank-delivers-surprise-back-to-back-tightening-04300256",
+      "url": "https://www.wsj.com/business/cracker-barrel-ceo-julie-masino-to-step-down-66ef5937",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-27T03:26:00Z"
+      "publishedAt": "2026-07-27T20:42:00Z"
     },
     {
-      "title": "Indonesia central bank chief resigns - Financial Times",
-      "description": "Perry Warjiyo had been under pressure over weakening rupiah",
-      "url": "https://www.ft.com/content/f9abab6b-964c-4dae-ba41-4c20fa71c2e0?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb7beab9c-0817-4400-8e06-50065be3eb82.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-27T02:00:59Z"
-    },
-    {
-      "title": "Chinese chipmaker CXMT soars almost 500% in market debut - Financial Times",
-      "description": "Tech group becomes China’s most valuable listed company in mainland’s biggest IPO since 2010",
-      "url": "https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F75ae951b-a23d-4af3-9d34-ee13c109b4c9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-27T01:54:34Z"
-    },
-    {
-      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount - Bloomberg.com",
-      "description": "Bond traders head into the week pricing in roughly a one-in-three chance of a Federal Reserve interest rate hike on Wednesday, after flaring Middle East tensions fueled volatility in oil prices and Treasury yields, heightening inflation worries.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/bond-traders-on-edge-as-risks-of-fed-rate-hike-this-week-mount",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itTiRjMaHI4Q/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-27T01:49:00Z"
-    },
-    {
-      "title": "Exclusive | Netflix exec goes ballistic after being fired for stunning 'trust exercise' confession at retreat: suit - New York Post",
-      "description": "He was fired from his $1.1 million a year job after revealing that he had taken medically prescribed Ketamine at a “Trust exercise”",
-      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-32u7wxbee-1785111414552.jpg?quality=75&strip=all&1785097069&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-07-27T01:03:00Z"
-    },
-    {
-      "title": "Kospi index and U.S. stock futures jump as new Hormuz talks send oil prices plunging amid Iran war pause while Wall Street awaits Fed meeting - Yahoo Finance",
-      "description": "Iran and Oman are also in talks that center around having Iran run vessel transit through the Strait of Hormuz with fewer restrictions on ships.",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/kospi-index-u-stock-futures-002504570.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/B02EC81A384AFEA3F33610EF356F8D6A1A07D50D1DE82E8F175A06AC39803974/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fcbbd5e3788e8a20f2c39d09f807cc3fb",
+      "title": "A Nobel economist challenged Elon Musk to donate his entire $1T fortune by 2036. Musk’s reply: ‘I am actually going to do something along these lines’ - Yahoo Finance",
+      "description": "Musk has historically been apprehensive about philanthropy, so his Monday statement would be a major change for billionaire and trillionaire giving as we kno...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/nobel-economist-challenged-elon-musk-203923138.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/EBCDBD817320AF17EE005E43C33DC703A2494D671B242F726CFC13A4827571D9/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fcb9cb595771a1d9889a51f31eea77962",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-27T00:25:00Z"
+      "publishedAt": "2026-07-27T20:39:23Z"
     },
     {
-      "title": "Here's How Much A 2021 Mercedes-Maybach S580 Has Depreciated In 5 Years - Jalopnik",
-      "description": "The 2021 Mercedes-Maybach S580 has shed roughly 34% of its value, currently trading for $120,000 on average, with high-mileage ones being the biggest bargains.",
-      "url": "https://www.jalopnik.com/2222527/2021-mercedes-maybach-s580-5-year-depreciation/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/heres-how-much-a-2021-mercedes-maybach-s580-has-depreciated-in-5-years/l-intro-1784905296.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-07-26T23:45:00Z"
+      "title": "Sandisk and More Chip Stocks Hit China Roadblocks - Barron's",
+      "description": "Sandisk and other chip stocks sink as China plays the role of industry disrupter on Monday.",
+      "url": "https://www.barrons.com/articles/sandisk-asml-chip-stocks-cxmt-china-fd971457",
+      "urlToImage": "https://images.barrons.com/im-92551451/social",
+      "source": "Barron's",
+      "publishedAt": "2026-07-27T20:36:00Z"
     },
     {
-      "title": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-26T23:19:00Z"
-    },
-    {
-      "title": "Major retailer announces its closing 75 stores, slowing growth plans - Cleveland.com",
-      "description": null,
-      "url": "https://www.cleveland.com/news/2026/07/major-retailer-announces-its-closing-75-stores-slowing-growth-plans.html",
-      "urlToImage": null,
-      "source": "cleveland.com",
-      "publishedAt": "2026-07-26T22:11:00Z"
-    },
-    {
-      "title": "What the American Tin Can Reveals About Trump’s Volatile Tariff Policy - Bloomberg.com",
-      "description": "The industry’s struggle is a cautionary tale as the US president tries to rebuild his protectionist regime.",
-      "url": "https://www.bloomberg.com/news/features/2026-07-26/how-trump-s-steel-tariffs-impact-america-s-tin-can-industry",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAvgZxqWjzSs/v0/1200x630.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-26T21:00:22Z"
-    },
-    {
-      "title": "United reportedly approached Delta Air Lines about a potential merger - Fox Business",
-      "description": "The reported tie-up would have combined two of the nation’s largest airlines, but the preliminary discussions did not advance and both carriers ultimately moved on.",
-      "url": "https://www.foxbusiness.com/markets/united-reportedly-approached-delta-air-lines-potential-merger",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/united-airlines-flights.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-26T20:34:00Z"
-    },
-    {
-      "title": "SpaceX Is $15 Away From A ‘Worthless’ AI Business Says Morgan Stanley - Forbes",
-      "description": "Some analysts at the bank looked at the falling price of the stock and said it implies investors assign to SpaceXAI, the Grok chatbot division.",
-      "url": "https://www.forbes.com/sites/eriksherman/2026/07/26/spacex-is-15-away-from-a-worthless-ai-business-says-morgan-stanley/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a666ef18404f93be1ffe0f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-07-26T20:33:25Z"
-    },
-    {
-      "title": "The 'Great Wealth Transfer' Is Hitting a Speed Bump - Newser",
-      "description": "Many boomers exhaust savings on long-term care, shrinking generational wealth",
-      "url": "https://www.newser.com/story/393357/the-great-wealth-transfer-is-hitting-a-speed-bump.html",
-      "urlToImage": "https://cdn.newser.com/image/1700523-12-20260726154118.jpeg",
-      "source": "Newser",
-      "publishedAt": "2026-07-26T20:22:00Z"
-    },
-    {
-      "title": "What Google has teased about Gemini 4 - 9to5Google",
-      "description": "In the past week, Google has teased quite a bit about Gemini 4, as 3.5 Pro missed its June launch. The first mention of the...",
-      "url": "http://9to5google.com/2026/07/26/google-gemini-4-teases/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-07-26T20:07:00Z"
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI - TechCrunch",
-      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-26T19:40:57Z"
+      "title": "Nvidia reignites \"circular\" AI concerns as it weighs OpenAI financing guarantee - Axios",
+      "description": "The chip giant appears poised to tighten its ties with OpenAI as it reportedly explores a deal to backstop financing for a massive data center to power the ChatGPT maker's ambitions.",
+      "url": "https://www.axios.com/2026/07/27/nvidia-openai-financing-ai-jensen-huang-ssi",
+      "urlToImage": "https://images.axios.com/farAPSMU_KRJLp1JhdyLJkWQ1s0=/0x200:5668x3388/1366x768/2026/07/27/1785167124356.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-07-27T20:34:06Z"
     }
   ]
 }
