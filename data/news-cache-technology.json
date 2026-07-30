@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-07-29T08:52:19.115Z",
+  "updatedAt": "2026-07-30T08:43:45.349Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Everything We Know About MacBook Ultra's All-New Design - MacRumors",
-      "description": "Apple's next high-end laptop is expected to bring the most substantial external changes to the MacBook Pro line since 2021. No renders, case...",
-      "url": "https://www.macrumors.com/2026/07/27/macbook-ultra-all-new-design/",
-      "urlToImage": "https://images.macrumors.com/t/Sa45WpyBk4fP8VHn6dTWNNsULG8=/1960x/article-new/2025/10/M5-MacBook-Pro.jpg",
+      "title": "Claude Chats Popped Up in Google Search Results. How to See If Yours Are Public - PCMag",
+      "description": "Chats posted online by Claude users briefly appeared in Google search results over the weekend. Here's how to check whether you've shared any chats and revoke access.",
+      "url": "https://www.pcmag.com/news/claude-chats-popped-up-in-google-search-results-see-if-yours-are-public",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/05u1IxE2YaIXruh3K1JhrEP-1.fit_lim.size_1200x630.v1785181774.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2026-07-28T20:53:11Z"
+    },
+    {
+      "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac - MacRumors",
+      "description": "Apple retired the iPhone Upgrade Program in favor of a new Apple Upgrade leasing option made available in partnership with Klarna. Apple Upgrade...",
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-tidbits/",
+      "urlToImage": "https://images.macrumors.com/t/HbdIJt6so5b1ZucDQC4YeIMTxYY=/2210x/article-new/2026/07/apple-upgrade-program-1.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-07-28T01:00:00Z"
+      "publishedAt": "2026-07-28T20:19:48Z"
     },
     {
-      "title": "Pitch Black Set Review - PokeBeach",
-      "description": "Pitch Black has just released and it will be showcased for the first time at the upcoming World Championships. Personally, I think this set is one of the",
-      "url": "https://www.pokebeach.com/2026/07/pitch-black-set-review",
-      "urlToImage": "https://www.pokebeach.com/news/2026/07/me5_en_075_std.jpg",
-      "source": "Pokebeach.com",
-      "publishedAt": "2026-07-28T00:33:42Z"
-    },
-    {
-      "title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news - GSMArena.com",
-      "description": "Samsung may finally be adopting silicon carbon anodes for its flagship phones. A few days ago we heard some new details about the Galaxy S27 family's...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-pro-s27-ultra-battery-capacities-leak/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-07-27T23:31:02Z"
-    },
-    {
-      "title": "Update: Xbox Online Services Fully Restored After Hours-Long Outage - Game Informer",
-      "description": "Several online services, including playing digital games, are affected.",
-      "url": "https://gameinformer.com/2026/07/27/update-xbox-online-services-fully-restored-after-hours-long-outage",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/11/b14c2ec5/Xbox%20New%20Logo.jpg.webp",
+      "title": "Double Fine Announces Layoffs Following Split From Xbox - Game Informer",
+      "description": "\"Only the survival of our studio would ever make us consider such a painful action,\" says Double Fine head Tim Schafer.",
+      "url": "https://gameinformer.com/2026/07/28/double-fine-announces-layoffs-following-split-from-xbox",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/07/28/27750a01/double-fine-logo.jpg.webp",
       "source": "Gameinformer.com",
-      "publishedAt": "2026-07-27T23:25:36Z"
+      "publishedAt": "2026-07-28T20:11:00Z"
     },
     {
-      "title": "Ex-BioWare Dev Explains Why He Thinks Dragon Age Is Basically Dead - Kotaku",
-      "description": "Hard to argue with that",
-      "url": "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/dragon-age.jpg",
+      "title": "Nexus Mods New Boss Wants To Make Modding As Easy As Using Spotify - Kotaku",
+      "description": "The new guy in charge doesn't want players digging around for hours on Reddit to get a Skyrim mod working",
+      "url": "https://kotaku.com/the-biggest-modding-site-around-wants-to-make-installing-mods-as-easy-as-using-spotify-2000719879",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/mnodding.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-07-27T23:00:22Z"
+      "publishedAt": "2026-07-28T19:45:08Z"
     },
     {
-      "title": "Some people's chats with Claude AI found publicly available online - BBC",
-      "description": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "url": "https://www.bbc.com/news/articles/cly5qgjk5ywo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-27T22:14:04Z"
+      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy - TechCrunch",
+      "description": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+      "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-28T19:09:18Z"
     },
     {
-      "title": "Nintendo just debuted maybe the hardest boss in its 136-year history - Polygon.com",
-      "description": "Splatoon Raiders' hardest boss fight is against a tiny villain, and the Splatoon community is loving it.",
-      "url": "https://www.polygon.com/splatoon-raiders-pudyin-den-smallfry-fight/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_splatoonraiders_screenshot_04.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-07-27T22:00:12Z"
+      "title": "Halo: Campaign Evolved Scales Well from PS5 Pro to Xbox Series S Despite Its Full-Throated Unreal Engine 5 Features - Digital Foundry",
+      "description": "A gorgeous, technically-astute remake of an all-time classic.",
+      "url": "https://www.digitalfoundry.net/features/halo-campaign-evolved-scales-well-from-ps5-pro-to-xbox-series-s-despite-its-full-throated-unreal-engine-5-features",
+      "urlToImage": "https://images.digitalfoundry.net/e33c97a1d77e2/large.jpg",
+      "source": "Digitalfoundry.net",
+      "publishedAt": "2026-07-28T19:07:00Z"
     },
     {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms - Ars Technica",
-      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-27T21:56:14Z"
+      "title": "I Hate Adobe - Aftermath",
+      "description": "Adobe is a wretched, exploitative company that loves generative AI. Many are coerced into paying money for their software and the software runs like garbage.",
+      "url": "https://aftermath.site/i-hate-adobe/",
+      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/adobe_devil3.webp",
+      "source": "Aftermath.site",
+      "publishedAt": "2026-07-28T18:54:01Z"
     },
     {
-      "title": "This mammal breaks one of nature's biggest rules – and scientists have finally worked out why… - BBC Wildlife Magazine",
-      "description": "Humans aren’t the only ones who benefit from nepotism – female hyenas pass down their privilege to their children, whereas males do not",
-      "url": "https://www.discoverwildlife.com/animal-facts/mammals/spotted-hyena-females",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/c6653204-e43b-466d-9df6-82b3c0c20aad/thumbnails/2f3106c2-3194-43d5-ad88-c675b377a6a7.jpg?w=1200",
-      "source": "Discoverwildlife.com",
-      "publishedAt": "2026-07-27T21:28:06Z"
+      "title": "Crazy Taxi: World Tour closed network test set for September 11 to 13 - Gematsu",
+      "description": "SEGA will host a closed network test for Crazy Taxi: World Tour across PlayStation 5, Xbox Series, and PC from September 11 at 5:00 p.m. PT / 8:00 p.m. ET to September 13 at 5:00 p.m. PT / 8:00 p.m…",
+      "url": "https://www.gematsu.com/2026/07/crazy-taxi-world-tour-closed-network-test-set-for-september-11-to-13",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/Crazy-Taxi-CNT_07-28-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-07-28T17:59:35Z"
     },
     {
-      "title": "A Pokémon Fan Explains Why He Set Up 58 Consoles Searching For A One-In-Nine-Million Shiny - Kotaku",
-      "description": "Shiny Golduck may not seem like anything special, but the math behind this one makes it near-impossible to find",
-      "url": "https://kotaku.com/pokemon-ruby-sapphire-shiny-hunt-golduck-gamecube-wii-2000719575",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/HN5RmIcXIAAsoFT-1200x675.jpeg",
+      "title": "Tim Cook & John Ternus Talk CEO Transition, Apple TV’s Legacy & Future At ‘Ted Lasso’ S4 Premiere - Deadline",
+      "description": "Outgoing Apple CEO Tim Cook and his successor John Ternus talked with Deadline about the CEO transition and more and at the'Ted Lasso' premiere.",
+      "url": "http://deadline.com/2026/07/ted-lasso-premiere-apple-ceo-tim-cook-john-ternus-interview-1237005409/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/TernusCook2.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-07-28T17:32:00Z"
+    },
+    {
+      "title": "Despite all the upgrades, Galaxy S27 Ultra will likely miss out in two key areas - Notebookcheck",
+      "description": "Samsung is expected to launch the Galaxy S27 series in February next year with a host of improvements across the board. The Galaxy S27 Ultra and the Galaxy S27 Pro will get the most attention, but it looks like they will still miss out on faster RAM and stora…",
+      "url": "https://www.notebookcheck.net/Despite-all-the-upgrades-Galaxy-S27-Ultra-will-likely-miss-out-in-two-key-areas.1353917.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-S27-Ultra.jpg",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-28T17:15:00Z"
+    },
+    {
+      "title": "Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence - Kotaku",
+      "description": "And explains why Nintendo continues to succeed while its biggest competitors keep flailing",
+      "url": "https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771",
+      "urlToImage": "https://kotaku.com/app/uploads/2022/09/5ee55e8b4221e93fbfcffd61ff570eed.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-07-27T21:07:53Z"
+      "publishedAt": "2026-07-28T17:00:06Z"
     },
     {
-      "title": "‘Jay and Silent Bob’ Marijuana Farming Game in the Works - The Hollywood Reporter",
-      "description": "The newly launched indie company Nitrate Games is backing the project, described as an \"adult cozy farm sim.\"",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/jay-and-silent-bob-weed-farming-video-game-in-the-works-1236657425/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/01_JSBJV_Hero_PR-e1785178947977.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-07-27T21:00:46Z"
-    },
-    {
-      "title": "The Week In Games: Halo And Xenoblade Chronicles 2 Get Prettier - Kotaku",
-      "description": "Master Chief and Red finally have something in common",
-      "url": "https://kotaku.com/the-week-in-games-halo-and-xenoblade-chronicles-2-get-prettier-2000719514",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/halo-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-27T19:00:40Z"
-    },
-    {
-      "title": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws - MacRumors",
-      "description": "Apple today released iOS 26.6, iPadOS 26.6, and macOS Tahoe 26.6, all of which have a long list of security fixes.   iOS 26.6 and iPadOS 26.6 address...",
-      "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
-      "urlToImage": "https://images.macrumors.com/t/DP79CVusAMIqMynljMiYHm13LK8=/2016x/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "title": "All-New Apple Home Hub Reportedly Launching as Soon as October - MacRumors",
+      "description": "Apple plans to release an all-new smart home hub at some point between October and early next year, according to Bloomberg's Mark Gurman.  Apple...",
+      "url": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/",
+      "urlToImage": "https://images.macrumors.com/t/OUftIzGsXO_jjRdofXZXcypsL88=/2000x/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-07-27T18:55:37Z"
+      "publishedAt": "2026-07-28T16:31:32Z"
     },
     {
-      "title": "A Final Fantasy VI Remake Could Be Tricky To Make According To Final Fantasy Directors - Game Informer",
-      "description": "Naoki Yoshida recently commented on the hypothetical remake, joining Naoki Hamaguchi's comments from last month.",
-      "url": "https://gameinformer.com/2026/07/27/a-final-fantasy-vi-remake-could-be-tricky-to-make-according-to-final-fantasy-directors",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/07/27/49ca583a/ff6.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-07-27T17:50:35Z"
-    },
-    {
-      "title": "Huge PS5 game sale will help you stock up on physical discs before they disappear - Polygon.com",
-      "description": "From Marvel's Spider-Man to God of War, the sale includes a ton of PS5 first-party bangers via some of the biggest retailers around.",
-      "url": "https://www.polygon.com/ps5-spider-man-ghost-tsushima-game-sales-amazon-best-buy-gamestop/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/spider-man-2.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-07-27T16:50:11Z"
-    },
-    {
-      "title": "Samsung teases Android XR glasses with phone & watch integration, ‘reasonable’ price - 9to5Google",
-      "description": "Following a partial unveiling at its Unpacked event last week, Samsung is teasing some further details of its upcoming Android...",
-      "url": "http://9to5google.com/2026/07/27/samsung-android-xr-glasses-integration-price-tease/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Galaxy Z Fold 8’s wide new design is reportedly selling faster than Samsung expected - 9to5Google",
+      "description": "Samsung reportedly increased Galaxy Z Fold 8 production prior to launch, but it appears the smaller foldable model is still...",
+      "url": "http://9to5google.com/2026/07/28/galaxy-z-fold-8-selling-faster-than-samsung-expected/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-45.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2026-07-27T16:45:00Z"
+      "publishedAt": "2026-07-28T16:21:00Z"
     },
     {
-      "title": "Fable PS5 Has Run 'Uncomfortably Beyond Budget', Sources Claim - Push Square",
-      "description": "God of War Laufey invades RPG's \"dedicated moment\"",
-      "url": "https://www.pushsquare.com/news/2026/07/fable-ps5-has-run-uncomfortably-beyond-budget-sources-claim",
-      "urlToImage": "https://images.pushsquare.com/a8516749cedc0/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-07-27T16:30:00Z"
+      "title": "iPhone 18 Pro could be a no-brainer upgrade for lots of users - 9to5Mac",
+      "description": "iPhone 18 Pro is coming soon, and there are several reasons why it could prove an especially popular upgrade choice this year.",
+      "url": "https://9to5mac.com/2026/07/28/iphone-18-pro-could-be-a-no-brainer-upgrade-for-lots-of-users/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-07-28T15:58:00Z"
     },
     {
-      "title": "The 34-Hour Laptop Is Here. Here’s Why Battery Life Has Exploded in Recent Years - CNET",
-      "description": "We’ve tracked laptop battery performance for decades, and we’ve never seen a jump like this. Here’s why you can ditch your charger for longer, and which laptops go the distance.",
-      "url": "https://www.cnet.com/tech/computing/why-laptop-battery-life-has-exploded-in-recent-years/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/labs-exclusive-laptop-battery-life.png",
-      "source": "CNET",
-      "publishedAt": "2026-07-27T16:24:00Z"
+      "title": "Sony Confirms PlayStation Plus Monthly Games for August 2026, Headlined by Dying Light 2: Stay Human - IGN",
+      "description": "Sony has confirmed the PlayStation Plus monthly games lineup for August 2026 — and it includes Dying Light 2: Stay Human: Reloaded Edition.",
+      "url": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-august-2026-headlined-by-dying-light-2-stay-human",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/10/11/pspremiumthumb-1697040053191.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-07-28T15:51:38Z"
     },
     {
-      "title": "Nintendo Of America’s Original Pokémon Pitch From E3 1998 Is Wild To Watch Nearly 30 Years Later - Kotaku",
-      "description": "The series was already a hit in Japan, but Nintendo still had to convince Americans",
-      "url": "https://kotaku.com/pokemon-e3-1998-reveal-announcement-nintendo-america-2000719502",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/ash-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-07-27T16:00:54Z"
+      "title": "Framework Laptop 13 Pro review: The king of repairability is back - Notebookcheck",
+      "description": "After five full years with the same Laptop 13.5 model, Framework has finally developed a successor worthy of the \"Pro\" name. The much-needed update doubles down on everything that made the original so special while addressing many of the common concerns.",
+      "url": "https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-28T15:47:00Z"
+    },
+    {
+      "title": "It Sure Looks Like the Dodge Charger Super Bee Is Coming Back With a Turbocharged Inline-Six - The Drive",
+      "description": "An iconic Dodge Charger nameplate is returning, but it won't have a Hemi V8 under its hood this time.",
+      "url": "https://www.thedrive.com/news/it-sure-looks-like-the-dodge-charger-super-bee-is-coming-back-with-a-turbocharged-inline-six",
+      "urlToImage": null,
+      "source": "The Drive",
+      "publishedAt": "2026-07-28T15:35:03Z"
+    },
+    {
+      "title": "9 R.I.P. sequel launches October 27 in the west - Gematsu",
+      "description": "Otome visual novel sequel 9 R.I.P. sequel will launch for Switch on October 27 in the west, publisher Idea Factory International announced. It will be available both physically and digitally. A lim…",
+      "url": "https://www.gematsu.com/2026/07/9-rip-sequel-launches-october-27-in-the-west",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/9-RIP-sequel-Date_07-28-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-07-28T15:09:59Z"
+    },
+    {
+      "title": "Flamecraft adds PS5, Xbox Series, and Switch versions; demo now available - Gematsu",
+      "description": "The video game version of the tabletop strategy game Flamecraft will launch for PlayStation 5, Xbox Series, and Switch alongside its previously announced PC via Steam, developer Monster Couch annou…",
+      "url": "https://www.gematsu.com/2026/07/flamecraft-adds-ps5-xbox-series-and-switch-versions-demo-now-available",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/Flamecraft-Consoles_07-28-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-07-28T14:53:52Z"
+    },
+    {
+      "title": "Tesla's 2026.26 Summer Update Lets You Video Conference on Google Meet, Teams & Discord - Not a Tesla App",
+      "description": "Tesla's Summer Update allows web apps to access the interior cabin camera and mic, delivering on Musk's longstanding promise of in-vehicle video conferencing",
+      "url": "https://www.notateslaapp.com/news/4498/teslas-202626-summer-update-lets-you-video-conference-on-google-meet-teams-discord",
+      "urlToImage": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/browser-cam.webp/c7d9b8a77d691970da42dde91251bed4/browser-cam.jpg",
+      "source": "Notateslaapp.com",
+      "publishedAt": "2026-07-28T14:23:00Z"
     }
   ]
 }
