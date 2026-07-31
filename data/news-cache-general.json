@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-07-30T08:43:45.288Z",
+  "updatedAt": "2026-07-31T09:13:26.623Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "BTS Won’t Submit for 2027 Grammy Awards Consideration - Variety",
-      "description": "BTS announces it will skip the 69th Grammy Awards.",
-      "url": "https://variety.com/2026/music/news/bts-wont-submit-2027-grammy-awards-1236823143/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2286796054.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-07-29T07:03:00Z"
+      "title": "Porn Star Emily Willis Slowly Recovering After Catastrophic Brain Damage - TMZ",
+      "description": "Emily Willis' family has reached a massive settlement with the Malibu rehab facility where she suffered catastrophic brain damage ... but TMZ has learned she's slowly recovering.",
+      "url": "https://www.tmz.com/2026/07/30/emily-willis-recovering-after-brain-damage/",
+      "urlToImage": "https://imagez.tmz.com/image/2a/16by9/2024/03/28/2a6e50590f914a29a996ab43a2624191_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2026-07-30T07:00:56Z"
     },
     {
-      "title": "Live updates: At least 13 people killed in Japan earthquake, prime minister says - CNN",
-      "description": "At least 13 people have been confirmed dead after a 6.8-magnitude earthquake hit Japan’s southern Kumamoto prefecture, Prime Minister Sanae Takaichi said Wednesday.",
-      "url": "https://www.cnn.com/2026/07/28/world/live-news/japan-earthquake-kumamoto",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26209432687650.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-07-29T06:34:00Z"
+      "title": "Treasury sell-off continues after divided Fed holds interest rates steady - CNBC",
+      "description": "U.S. Treasury yields continued their upward climb on Thursday as investors weighed the Federal Reserve's decision to hold interest rates steady.",
+      "url": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108341983-1785352838443-gettyimages-2287527416-WARSH_FOMC_NYSE.jpeg?v=1785352925&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-07-30T06:56:06Z"
     },
     {
-      "title": "Saudi Arabia joins U.S. military strikes on Iranian proxies - The Washington Post",
-      "description": "The rare joint operation in Iraq underscores the risk that the Iran conflict could expand.",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SSYGXVVRWHM7FI2Y3K4P6UOTBA_size-normalized.jpg&w=1440",
+      "title": "Explosions in Kyiv after Zelenskyy warns of Russian strikes - DW.com",
+      "description": "At least one person was killed in a Russian air strike on Ukraine's capital, Kyiv. President Volodymyr Zelenskyy had warned that Russia had \"prepared a massive attack,\" citing air force reports.",
+      "url": "https://www.dw.com/en/explosions-in-kyiv-after-zelenskyy-warns-of-russian-strikes/a-78167375",
+      "urlToImage": "https://static.dw.com/image/78167457_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-30T06:35:39Z"
+    },
+    {
+      "title": "George and Amal Clooney evacuate France home as wildfires spread across Europe - Fox News",
+      "description": "George and Amal Clooney sent a letter to the Brignoles mayor before evacuating, saying they have \"no idea\" if their home will survive the fires.",
+      "url": "https://www.foxnews.com/entertainment/george-amal-clooney-evacuate-france-home-wildfires-spread-europe",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/george-amal-clooney-france-wildfires.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-07-30T06:05:55Z"
+    },
+    {
+      "title": "Microsoft Corp (MSFT) (Q4 2026) Earnings Call Highlights: Record Revenue Surpasses $331 ... - Yahoo Finance",
+      "description": "Microsoft Corp (MSFT) delivered a record fiscal year with Azure revenue surpassing $100 billion, while AI-driven demand continues to outpace capacity.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corp-msft-q4-2026-050436699.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-30T05:04:00Z"
+    },
+    {
+      "title": "A divided Fed holds interest rates steady despite stubborn inflation - The Washington Post",
+      "description": "The central bank left rates unchanged for a fifth straight meeting, holding off on an increase designed to fight rising prices even as three fed officials argued for higher rates.",
+      "url": "https://www.washingtonpost.com/business/2026/07/29/fed-holds-interest-rates-steady-warsh-second-meeting/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RG6DZ3Q3WNEIAPR6XFTBMHHNLE.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-07-29T06:17:00Z"
+      "publishedAt": "2026-07-30T04:36:07Z"
     },
     {
-      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu - Al Jazeera",
-      "description": "Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6941cc21f9-1785283020.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-29T05:50:45Z"
-    },
-    {
-      "title": "Wrexham man's headache turns out to be terminal brain cancer - BBC",
-      "description": "Josh Smith began experiencing brain fog and headaches, but assumed he was \"just tired\".",
-      "url": "https://www.bbc.com/news/articles/cgq502nj914o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50b6/live/fb1d0810-85d8-11f1-8f00-252bc70ad71a.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-29T05:09:35Z"
-    },
-    {
-      "title": "$800 million Mega Millions jackpot won by lone player in July 28 drawing - MLive.com",
-      "description": null,
-      "url": "https://www.mlive.com/lottery/2026/07/800-million-mega-millions-jackpot-won-by-lone-player-in-july-28-drawing.html",
-      "urlToImage": null,
-      "source": "mlive.com",
-      "publishedAt": "2026-07-29T04:46:00Z"
-    },
-    {
-      "title": "A 2:47 a.m. alert, a rabbit and 220,000 evacuees as France’s wildfire rages on - AP News",
-      "description": "A massive wildfire in southwest France has forced over 220,000 people to evacuate. Among them is Morgane Bonichot. The 40-year-old childcare worker, her daughter and her pets had to flee after receiving an urgent mobile alert. They're part of one of Europe's …",
-      "url": "https://apnews.com/article/europe-wildfires-france-spain-evacuees-shelter-13b3173c427388881108c58510312993",
-      "urlToImage": "https://dims.apnews.com/dims4/default/63fcff3/2147483647/strip/true/crop/4032x2687+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2F92%2Fd35ea9e572d08ab6a7ed52b12f3d%2Fb19bfdec6dc749b581de32b49e68fad0",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-29T04:29:00Z"
-    },
-    {
-      "title": "South Korea’s Kospi share index falls nearly 7%, other Asian shares also mostly lower - AP News",
-      "description": "Asian shares are mixed but South Korea’s Kospi share index is trading about 6% lower on prolonged selling of chipmaking shares. Oil prices jumped more than 2%. The latest rout in Seoul was led by a nearly 13% plunge for shares in chipmaker SK Hynix after its …",
-      "url": "https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ada0711/2147483647/strip/true/crop/5640x3758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Fc8%2F537246b0d88bb6399963277d7e9d%2F740f52d9bb64498f9b2e5afd608cb7a6",
-      "source": "Associated Press",
-      "publishedAt": "2026-07-29T03:48:00Z"
-    },
-    {
-      "title": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions - Axios",
-      "description": "Netanyahu's office said the two governments are in total alignment on the war.",
-      "url": "https://www.axios.com/2026/07/28/trump-netanyahu-oval-office-iran-war",
-      "urlToImage": "https://images.axios.com/TDTo2I04ZuoNB0Y6o2pg021WVvM=/0x0:5120x2880/1366x768/2026/07/28/1785261295770.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-07-29T02:13:44Z"
-    },
-    {
-      "title": "6th person dies from Legionnaires' disease in New York City: Health officials - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/6th-person-dies-legionnaires-disease-new-york-city/story?id\\\\u003d135171652",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-29T01:43:48Z"
-    },
-    {
-      "title": "'Jumanji 3' Trailer: Jack Black & Dwayne Johnson Stuck In 'Demo Mode' - Deadline",
-      "description": "The 'Jumanji: Open World' trailer sees core four videogame avatars face the real world. Cast also includes Rhys Darby, Nick Jonas & Brittany O'Grady.",
-      "url": "http://deadline.com/2026/07/jumanji-3-open-world-trailer-dwayne-johnson-jack-black-1237006351/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-6.44.01-PM-e1785289554750.png?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-07-29T01:30:00Z"
-    },
-    {
-      "title": "Trump administration bans new Chinese humanoid robots - BBC",
-      "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-      "url": "https://www.bbc.com/news/articles/cp9e2ex3ekyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-29T01:22:14Z"
-    },
-    {
-      "title": "2 Portland hospitals identified as measles exposure locations - KOIN.com",
-      "description": "PORTLAND, Ore. (KOIN) — A pair of Portland medical facilities were identified as measles exposure locations, the Oregon Health Authority announced on Tuesday. Health officials say that the exposures occurred at the Randall’s Children Hospital Emergency Depart…",
-      "url": "https://www.koin.com/news/portland/2-portland-hospitals-identified-as-measles-exposure-locations/",
-      "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2026/02/AP25096502247905-e1771508175939.jpg?w=1280",
-      "source": "KOIN.com",
-      "publishedAt": "2026-07-29T00:49:43Z"
-    },
-    {
-      "title": "86 senators vote to move forward with Graham Russia sanctions bill - Axios",
-      "description": "It is a procedural vote, but leadership hopes that the strong bipartisan support will allow for an expedited path to final passage.",
-      "url": "https://www.axios.com/2026/07/29/senate-russia-sanctions-lindsey-graham",
-      "urlToImage": "https://images.axios.com/F62RSIP6chvkFyhVc39l4cDjlaU=/0x0:3000x1688/1366x768/2026/07/28/1785256295660.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-07-29T00:30:34Z"
-    },
-    {
-      "title": "Florida executes 2 men Tuesday, a 1st in modern death penalty history - Tampa Bay Times",
-      "description": "James Duckett and Dominick Occhicone were both put to death Tuesday for separate murder cases from the 1980s.",
-      "url": "https://www.tampabay.com/news/crime/2026/07/28/florida-double-execution-tuesday-latest-updates/",
-      "urlToImage": "https://www.tampabay.com/resizer/v2/DMRWD6EMNBCYPOXOTWUNEGKLVU.jpg?auth=b820c612b90a563d9e9b2a5e9afc8be10b6b9b8646784684dd7a88010ef8b565&height=675&width=1200&smart=true",
-      "source": "Tampa Bay Times",
-      "publishedAt": "2026-07-28T23:42:10Z"
-    },
-    {
-      "title": "Passan: Tigers want to trade Tarik Skubal - NBC Sports",
-      "description": "Jeff Passan reported that many MLB executives believe that the Tigers want to trade Tarik Skubal.",
-      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-28/passan-tigers-want-to-trade-tarik-skubal",
+      "title": "Passan: Tigers are going to trade Tarik Skubal - NBC Sports",
+      "description": "ESPN's Jeff Passan told SportsCenter late Wednesday that the Tigers are going to trade Tarik Skubal.",
+      "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/passan-tigers-are-going-to-trade-tarik-skubal",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f509466/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fc8%2F9e981a3647cc8c7a3937acb3cabc%2Fskubal-tarik.jpg",
       "source": "NBCSports.com",
-      "publishedAt": "2026-07-28T23:21:43Z"
+      "publishedAt": "2026-07-30T04:24:15Z"
     },
     {
-      "title": "Exclusive | Longtime New Yorkers fume after being hit with massive pied-à-terre tax bills: 'Is this a witch hunt?' - New York Post",
-      "description": "Ordinary New Yorkers are seething after receiving five-figure property tax bills under Mayor Zohran Mamdani’s new pied-à-terre tax scheme.",
-      "url": "https://nypost.com/2026/07/28/us-news/longtime-new-yorkers-fume-after-being-hit-with-massive-pied-a-terre-tax-bills-is-this-a-witch-hunt/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135802362.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-07-28T22:59:00Z"
+      "title": "‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake - Al Jazeera",
+      "description": "Japanese PM Takaichi says ‘race against time’ to rescue those trapped in the mall and others affected by the quake.",
+      "url": "https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-28T103821Z_1577542721_RC2YMMAH5B5J_RTRMADP_3_JAPAN-QUAKE-1785265620.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-30T04:16:53Z"
     },
     {
-      "title": "Tony Petitti reiterates Big Ten desire for '27 24-team CFP - ESPN",
-      "description": "Speaking on the first day of his conference's media days gathering, Big Ten commissioner Tony Petitti on Tuesday doubled down on his league's push for a 24-team College Football Playoff in time for 2027, saying \"the faster it goes, the easier it will be.\"",
-      "url": "https://www.espn.com/college-football/story/_/id/49474525/tony-petitti-reiterates-big-10-desire-24-team-cfp-27",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694881_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-07-28T22:55:00Z"
+      "title": "US-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again - AP News",
+      "description": "The stop-start fighting between the United States and Iran appears to have entered a new phase as Saudi Arabia has publicly joined military escalations against Tehran-backed proxies. At the same time, an already untenable diplomatic effort to end the war has …",
+      "url": "https://apnews.com/article/iran-war-trump-saudi-arabia-israel-cbb2c3f49f3072c542fc6395468b64b5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f9212b4/2147483647/strip/true/crop/1667x1111+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2F6b%2F11c710ca729223c0933d3c0197a8%2Faba5c14d496449008f5fa17e7092fc24",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-30T04:12:00Z"
     },
     {
-      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit - Ars Technica",
-      "description": "Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
-      "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/link_arrays_katalyst-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-07-28T22:09:00Z"
+      "title": "Vote on Blanche’s AG nomination postponed amid standoff with Republican holdouts - The Washington Post",
+      "description": "Sens. John Cornyn (R-Texas) and Thom Tillis (R-North Carolina) said they were not yet ready to support Blanche, delivering a rare setback for Trump.",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/29/blanches-ag-nomination-doubt-critical-republican-remains-unsatisfied/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BR46HTGJZPRGR46OJTLIEBQGEI.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-07-30T03:51:00Z"
     },
     {
-      "title": "NWS confirms EF-3 tornado as Fox Valley begins storm cleanup Tuesday - WLUK",
-      "description": "A tornado tore through areas of Appleton, Neenah and Menasha Monday morning, leaving behind destroyed homes and businesses, power lines down and snapped trees.",
-      "url": "https://fox11online.com/good-day-wi/tornado-rips-through-fox-valley-leaving-shattered-homes-businesses-and-downed-lines-tornado-storm-damage-appleton-wisconsin-road-closures-power-outage",
-      "urlToImage": "https://fox11online.com/resources/media2/16x9/1920/1320/center/90/c769aa44-928b-47d5-9677-a62beeef026e-NEWGDWDRONESTORMDAMAGEVIDEO72826_frame_7133.jpeg",
-      "source": "Fox11online.com",
-      "publishedAt": "2026-07-28T22:07:08Z"
+      "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained - Al Jazeera",
+      "description": "The former top US health official invoked the amendment as Republicans questioned him over COVID-19.",
+      "url": "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a6a6ea785ba-1785360039.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-30T03:11:15Z"
+    },
+    {
+      "title": "DOJ tapped never-used ‘alien terrorist’ court to deport mother of convicted ISIS supporter - Politico",
+      "description": "ICE officials urging the special court to grant the deportation say efforts to deport her through traditional immigration courts would not suffice.",
+      "url": "https://www.politico.com/news/2026/07/29/alien-terrorist-court-deport-01016781",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F9f%2F73%2F8919f32a4650abde4fa369d5fd24%2Ffederal-government-85342.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-07-30T03:04:00Z"
+    },
+    {
+      "title": "‘Spider-Man: Brand New Day’ Aims to Make Box Office History as It Targets High-Flying Opening - The Hollywood Reporter",
+      "description": "Sony's Tom Holland-led feature eyes 2026's biggest launch — and then some — as it looks to buck trends for superhero fatigue: \"It's as much a gold standard as any for how to keep a character relevant.\"",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-opening-tom-holland-1236659734/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-11508_r-H-2026.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-07-30T02:30:25Z"
+    },
+    {
+      "title": "Bite of Seattle shooting suspect had prior gun charge, run-in with police - KOMO",
+      "description": "One of the suspects involved in the shootout at the Bite of Seattle event that killed three people and injured several bystanders had previously been arrested i",
+      "url": "https://komonews.com/news/local/bite-of-seattle-mass-shooting-suspect-had-prior-gun-charges-crime-seattle-police-mayor-festival-safety-seattle-center-safety-rainier-beach-ghost-guns-gang-related-shooting",
+      "urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/3723129f-6bd8-4144-90c0-524c03338861-00_01_12_15.jpg",
+      "source": "KOMO News",
+      "publishedAt": "2026-07-30T01:48:16Z"
+    },
+    {
+      "title": "20th Anniversary iPhone Coming Next Year With These 10 Features - MacRumors",
+      "description": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant redesign the device has seen since the iPhone...",
+      "url": "https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/",
+      "urlToImage": "https://images.macrumors.com/t/28K8GzT_qW1bSru-H9LUBSEsEIQ=/2500x/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-07-30T01:00:00Z"
+    },
+    {
+      "title": "Pat Forde: Why Pat Fitzgerald Feels Like the Perfect Fit at Michigan State - Sports Illustrated",
+      "description": "Both the coach and program are coming off painful setbacks, making this one of college football’s most compelling fresh starts.",
+      "url": "https://www.si.com/college-football/pat-forde-why-pat-fitzgerald-feels-like-the-perfect-fit-at-michigan-state",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4200,h_2362/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01kyr750e56b26948gpr.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-07-30T00:41:44Z"
+    },
+    {
+      "title": "Meta stock drops 10% as free cash flow gets crushed—and Zuckerberg hints at cloud business - Fortune",
+      "description": "Meta’s quarterly results showcased the strength of its core social media business, as well as the gap in its business model in the AI arms race.",
+      "url": "https://fortune.com/2026/07/29/meta-earnings-zuckerberg-hints-cloud-business-free-cash-flow-capex/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284934270_256dc4-e1785370245260.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-07-30T00:40:00Z"
+    },
+    {
+      "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30 - Space",
+      "description": "Roman's month of Milky Way observations would take Hubble about a century to complete.",
+      "url": "https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bDbEXjSMza29Dk4rWNdEof-2000-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-07-29T22:41:30Z"
     }
   ]
 }
