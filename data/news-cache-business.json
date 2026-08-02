@@ -1,159 +1,135 @@
 {
-  "updatedAt": "2026-08-01T08:31:38.727Z",
+  "updatedAt": "2026-08-02T08:34:25.390Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "South Korea’s Kospi index jumps more than 16% on a surge of chipmaking stocks - apnews.com",
-      "description": "South Korea’s Kospi index has jumped more than 16% as artificial intelligence-related stocks bounced back after losses earlier this week. U.S. futures edged higher and oil prices slipped Friday. Shares of South Korean technology giant Samsung Electronics surg…",
-      "url": "https://apnews.com/article/stock-markets-rates-korea-ai-oil-e31b3a442bcb957a53f1823ef21e73e8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/63deeec/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F5a%2Ff0806aad0401fadf7921e7b88747%2F6ead7d3450fc4fe18244036a73b0ccdc",
+      "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far - apnews.com",
+      "description": "President Donald Trump has for months pressured the Federal Reserve to slash interest rates, claiming it would be “Rocket Fuel!” for growth. But he seems to be losing his battle. Since the war in Iran began, borrowing money has become more expensive, meaning …",
+      "url": "https://apnews.com/article/trump-interest-rates-midterms-iran-9db7b892114e7863064323396f633c9d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e773b3c/2147483647/strip/true/crop/5640x3758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2F05%2F58e5c6e3e8845bf2f66b8ab689b8%2Ffa4c0db14f2049a2801a35b9d858aaee",
       "source": "Associated Press",
-      "publishedAt": "2026-07-31T04:20:00Z"
+      "publishedAt": "2026-08-01T04:00:00Z"
     },
     {
-      "title": "Stock Market News, July 30, 2026: Nasdaq Leaps, Fueled by Big Rally in Microsoft Shares - WSJ",
+      "title": "George Santos accused of ‘manipulative activity’ in prediction market trades - The Washington Post",
+      "description": "The former congressman agreed to pay $35,000 to settle charges by the Commodity Futures Trading Commission, which cited trades he made on Kalshi regarding whether he would attend the State of the Union address.",
+      "url": "https://www.washingtonpost.com/politics/2026/07/31/george-santos-accused-manipulative-activity-prediction-market-trades/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5SIEL7AG54I65N2KLPOTGXKPUI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-08-01T02:32:10Z"
+    },
+    {
+      "title": "Iran War Pushes Companies to Raise Prices on Beer, Paint, Fries and More - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026",
+      "url": "https://www.wsj.com/business/iran-war-pushes-companies-to-raise-prices-on-beer-paint-fries-and-more-e55d31b2",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-31T03:43:00Z"
+      "publishedAt": "2026-08-01T02:00:00Z"
     },
     {
-      "title": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026",
-      "urlToImage": null,
+      "title": "Stock Market News, July 31, 2026: Apple Stock Falls, but Nasdaq Marches Higher - WSJ",
+      "description": "Amazon's big surge keeps indexes rising",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026",
+      "urlToImage": "https://images.wsj.net/im-925351/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-07-31T01:00:00Z"
+      "publishedAt": "2026-08-01T01:57:00Z"
     },
     {
-      "title": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low - Financial Times",
-      "description": "The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin",
-      "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F74f22bde-99c1-490d-bbc4-178857778a50.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-07-31T00:59:39Z"
+      "title": "Amazon received $600M in Trump tariff refunds, will return some to customers - thehill.com",
+      "description": "Amazon said this week that it received hundreds of millions of dollars in refunds from President Trump’s tariffs and pledged to return some of the profits to its customers.  This follows a Supreme Court decision earlier this year that many of the Trump admini…",
+      "url": "https://thehill.com/business/6003349-amazon-receives-trump-tariff-refunds/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/10/69010b9292d901.38277250-e1785547962250.jpeg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2026-08-01T01:46:00Z"
     },
     {
-      "title": "Tim Cook signed off on his final Apple earnings call with a warning about a ‘hundred year flood’ in memory chip pricing - Fortune",
-      "description": "The iPhone maker said sever constraints in the supply chain will affect sales of iPhones, Macs, and iPads in the current quarter.",
-      "url": "https://fortune.com/2026/07/30/tim-cook-signed-off-on-his-final-apple-earnings-call-with-a-warning-about-a-hundred-year-flood-in-memory-chip-pricing/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287313352-e1785455985856.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-07-31T00:28:00Z"
-    },
-    {
-      "title": "Everyone Wants to Build the Best AI Model. Amazon Wants Something More Valuable. - The Motley Fool",
-      "description": "Everyone is debating which AI company will build the best AI model. But that may be the wrong question for investors to focus on.",
-      "url": "https://www.fool.com/investing/2026/07/30/everyone-wants-to-build-the-best-ai-model-amazon-w/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881092%2Fai-2.jpg&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-07-31T00:15:00Z"
-    },
-    {
-      "title": "Anthropic says AI models hacked three firms during tests - bbc.com",
-      "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-      "url": "https://www.bbc.com/news/articles/cz7dl7w8y7po",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-07-31T00:08:46Z"
-    },
-    {
-      "title": "Millions tap to pay every day. Here's what scammers hope you'll miss - USA Today",
-      "description": "As scams get harder to spot, a quick tap can become a costly mistake. Use this simple checklist to help protect your money before you pay.",
-      "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/30/tap-to-pay-scam-checklist/91099280007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/30/USAT/91108080007-20161004-t-120000-z-1544230378-s-1-beueyzngab-rtrmadp-3-russiaapplepay.JPG?crop=3499,1969,x0,y156&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-07-30T22:05:00Z"
-    },
-    {
-      "title": "ASML and 21 More Stocks to Consider Buying Out of the AI Wreckage - Barron's",
-      "description": "Sandisk, Nvidia, Microsoft, and several other AI-related stocks are worth keeping tabs even as the market remains volatile, according to this analyst.",
-      "url": "https://www.barrons.com/articles/asml-ai-stocks-buy-now-fd120464",
-      "urlToImage": "https://images.barrons.com/im-15782834/social",
-      "source": "Barron's",
-      "publishedAt": "2026-07-30T21:25:00Z"
-    },
-    {
-      "title": "Amazon revenue soars as AI investments pay off - Axios",
-      "description": "Amazon's AI cloud business soared in the second quarter, driving far higher revenue than expected, though the company's free cash flow also turned negative as it invests heavily in the business.",
-      "url": "https://www.axios.com/2026/07/30/amazon-earnings-revenue-ai",
-      "urlToImage": "https://images.axios.com/utR5lWXra0LXj6rR9O22U7FZe5s=/1366x768/smart/2024/12/19/223814-1734647894319.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-07-30T20:39:42Z"
-    },
-    {
-      "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns - NPR",
-      "description": "The 30-year fixed-rate mortgage reached 6.66% on average Thursday.",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4628x2603+0+482/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F79%2Fe893c284419f9955b015948f8372%2Fgettyimages-2235439355.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-07-30T20:37:59Z"
-    },
-    {
-      "title": "Rivian (RIVN) Q2 2026 earnings: revenue up 27%, gross margins soaring - Electrek",
-      "description": "Rivian's Q2 2026 revenue rose 27% to $1.658B and gross profit hit a record $179M as R2 deliveries began, but its car business still lost money.",
-      "url": "http://electrek.co/2026/07/30/rivian-rivn-q2-2026-earnings-r2-deliveries-revenue-up-27/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/03/Rivian-R2-Pricing-White-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "Electrek",
-      "publishedAt": "2026-07-30T20:05:00Z"
-    },
-    {
-      "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history - Yahoo Finance",
-      "description": "Microsoft's (MSFT) market capitalization rocketed to a record high on Thursday, just a day after posting strong earnings results powered by AI growth.",
-      "url": "https://finance.yahoo.com/technology/article/microsofts-stock-rockets-more-than-15-for-largest-single-day-jump-in-history-120144134.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7CDA630E91A5EEA10E4EB4D9FE17DE82A6ACE07E7B1D1DECE82ACF1A55796BBC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Fb3da665b-dca6-4a82-b2ae-bca04aa864bf",
+      "title": "With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again - Yahoo Finance",
+      "description": "When rival hedge funds face catastrophic losses, billionaire investor Ken Griffin has a habit of identifying opportunities and showing up with a checkbook....",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-ai-deal-citadels-235730306.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/01DF41B096A30FD21A063A1D3391AF9D13E77D02E7FDB1B395EA7B1E2B0DC4A5/subgraphmysterio/resizefill_w1200_h764;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F66f38639ea3d92252a3561b2901856f4",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-30T20:03:14Z"
+      "publishedAt": "2026-07-31T23:57:30Z"
     },
     {
-      "title": "Did robot vacuums get sucked into new robot ban? - USA Today",
-      "description": "The Federal Communications Commission has expanded a ban to new foreign-made robotic devices due to national security threats.",
-      "url": "https://www.usatoday.com/story/tech/2026/07/30/foreign-robot-ban-rules-roombas-vacuums/91104970007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/30/USAT/91106686007-20190725-t-155352-z-346740977-mt-1-usatoday-13095766-rtrmadp-3-canrobotvacuumsdealwithstandirobotroomba-650-hero-1.JPG?crop=4444,2499,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-07-30T20:01:00Z"
-    },
-    {
-      "title": "The four most important words in healthcare right now - vox.com",
-      "description": "Odds are, your doctor is using AI as they practice medicine. These are the questions experts say you should ask to make sure you’re informed.",
-      "url": "https://www.vox.com/good-medicine-newsletter/497318/chatgpt-claude-ai-doctor-in-healthcare-medicine",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-2248542402.jpg?quality=90&strip=all&crop=0%2C12.603933116252%2C100%2C74.792133767495&w=1200",
-      "source": "Vox",
-      "publishedAt": "2026-07-30T20:00:00Z"
-    },
-    {
-      "title": "Cyclospora outbreak dents Taco Bell sales but recovery underway, exec says - Fox Business",
-      "description": "Yum Brands reports Taco Bell sales fell 2% amid the cyclospora outbreak linked to iceberg lettuce, but CFO says declines moderated materially.",
-      "url": "https://www.foxbusiness.com/lifestyle/cyclospora-outbreak-dents-taco-bell-sales-recovery-underway-exec-says",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/person-holds-taco-bell-food.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-07-30T19:51:00Z"
-    },
-    {
-      "title": "Amazon’s Zoox wins first U.S. approval for paid robotaxis without human controls - NBC News",
-      "description": "Amazon‘s Zoox unit has won U.S. approval for limited commercial deployment of its novel steering-wheel-free robotaxis, a first for the autonomous ride industry, the U.S. auto safety agency said on Thursday.",
-      "url": "https://www.nbcnews.com/tech/tech-news/amazons-zoox-wins-first-us-approval-paid-robotaxis-human-controls-rcna590106",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260730-amazon-zoox-ew-300p-966ba6.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-07-30T19:23:50Z"
-    },
-    {
-      "title": "Sandwich maker Jersey Mike’s and retailer Reformation fail to excite IPO investors - Financial Times",
-      "description": "Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures",
-      "url": "https://www.ft.com/content/aa292d6f-3b12-4b7a-b558-7306e8d03b9e",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67431a02-7000-4ce6-a716-19eb34a4cb9f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "title": "Bond sell-off sent warning on Federal Reserve’s credibility, says top central bank official - Financial Times",
+      "description": "Alberto Musalem says he supported dissenters’ calls for a quarter-point interest rate rise",
+      "url": "https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F995cabbc-d653-441e-b78a-89f41c1dd8eb.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "source": "Financial Times",
-      "publishedAt": "2026-07-30T19:20:03Z"
+      "publishedAt": "2026-07-31T23:10:23Z"
     },
     {
-      "title": "OpenAI slashes Luna pricing - Axios",
-      "description": "Efficiency gains drive major GPT-5.6 discounts.",
-      "url": "https://www.axios.com/2026/07/30/openai-cuts-prices-gpt-terra-luna5",
-      "urlToImage": "https://images.axios.com/EeT7oGI_Uj7g-PtBVGleOGu4a_s=/0x0:1280x720/1366x768/2026/07/30/1785426117239.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-07-30T19:14:18Z"
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok - techcrunch.com",
+      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-31T22:47:26Z"
+    },
+    {
+      "title": "Full Ballard Link Line Could Take Until 2060 To Build, Sound Transit Says - The Urbanist",
+      "description": "The new 2060 timeline for light rail stations in Interbay and Ballard assumes Sound Transit isn't able to unearth any major cost savings or unlock additional financial tools. But the agency painted an optimistic picture about being able to make inroads in tho…",
+      "url": "https://www.theurbanist.org/full-ballard-link-line-could-take-until-2060-to-build-sound-transit-says/",
+      "urlToImage": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/07/Save_Ballard_Rail_Marchers_on_Ballard_Bridge_-_Trumm_20260419_xoudl5-1-.jpg",
+      "source": "Theurbanist.org",
+      "publishedAt": "2026-07-31T22:14:40Z"
+    },
+    {
+      "title": "Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - theinformation.com",
+      "description": "OpenAI is preparing to release a new model family, tentatively using the name “Astra,” with improved abilities to complete long-running tasks, according to three people briefed on the plans. \n\n OpenAI CEO Sam Altman demonstrated Astra to policymakers and regu…",
+      "url": "https://www.theinformation.com/briefings/exclusive-openai-previews-astra-ai-model-dc",
+      "urlToImage": "https://tii.imgix.net/global/defaults/article_image_unavailable.jpg",
+      "source": "The Information",
+      "publishedAt": "2026-07-31T22:09:00Z"
+    },
+    {
+      "title": "IBM quietly cleared a quantum computing hurdle experts doubted - thestreet.com",
+      "description": "The breakthrough came from an unlikely source: Error correction, not raw power.",
+      "url": "https://www.thestreet.com/technology/ibm-quantum-computing-breakthrough",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTMxNDQ3/ibm-office-building.jpg?profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-07-31T21:55:06Z"
+    },
+    {
+      "title": "SpaceX and Tesla Are Considering a Mega Merger -- Here's What Investors Need to Know - The Motley Fool",
+      "description": "Tesla and SpaceX may soon position themselves for a megamerger.",
+      "url": "https://www.fool.com/investing/2026/07/31/spacex-and-tesla-are-considering-a-mega-merger-here-s-what-investors-need-to-know/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5d25ae3ceb7a8df3e0b6d2b9551943871e9fe702-1806x1208.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-07-31T20:46:00Z"
+    },
+    {
+      "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage - Yahoo Finance",
+      "description": "The iPhone maker reported its third quarter earnings on Thursday, beating analysts' expectations on the top and bottom lines on strong iPhone sales, but shar...",
+      "url": "https://finance.yahoo.com/technology/article/apple-stock-falls-on-weak-revenue-forecast-as-ceo-tim-cook-flags-increasing-impact-from-memory-shortage-130428410.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8533B6A80E439C4C30611D6195850C02C025164873A75DCC39DEE9E35AF16EB8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fc29bf3d3-b9a3-4dc2-b8c5-42ed16d17f45_5245c07f73834e1d02b646db565370c36ad6deefc1ca478989b6aa07644e2c74.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-31T20:33:24Z"
+    },
+    {
+      "title": "Paramount Seeks Antitrust Trial in November, While States Ask for April 2027 - Variety",
+      "description": "Paramount asked a judge on Friday to schedule its upcoming antitrust trial in November, while a coalition of states asked for a date next April.",
+      "url": "https://variety.com/2026/film/news/states-paramount-warner-bros-antitrust-trial-2027-1236825068/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/12/Paramount-Warner-Bros-Studio-Merger-Water-Towers.jpg?w=1000&h=562&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-07-31T20:10:00Z"
+    },
+    {
+      "title": "Y'all Street launches: Texas Stock Exchange goes live in Dallas - Fox Business",
+      "description": "The TXSE debuted as the first major U.S. stock exchange to launch in decades, challenging the NYSE and Nasdaq for corporate listings and future IPOs.",
+      "url": "https://www.foxbusiness.com/markets/yall-street-launches-texas-stock-exchange-goes-live-dallas",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/dallas-metro-skyline.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-07-31T18:14:00Z"
+    },
+    {
+      "title": "Exxon and Chevron's $26.5 Billion Quarter Draws Trump's Ire - Crude Oil Prices Today | OilPrice.com",
+      "description": "ExxonMobil and Chevron made a combined $26.5 billion in the second quarter after producing more oil, refining more fuel, and selling all of it into a market scrambled by war.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-and-Chevrons-265-Billion-Quarter-Draws-Trumps-Ire.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-31_7tgrmn0ctc.jpg",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-31T18:05:13Z"
     }
   ]
 }
