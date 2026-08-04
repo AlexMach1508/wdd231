@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2026-08-03T10:02:06.355Z",
+  "updatedAt": "2026-08-04T08:50:46.955Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Amazon and Apple Deliver the Drama to Close a Turbulent Month - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-02T07:06:23Z"
+      "title": "US dollar weakens sharply against the Japanese yen after market interventions - AP News",
+      "description": "The U.S. dollar has weakened sharply against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets. Before late last week, the dollar was trading above 163 yen, touching 40-year highs. I…",
+      "url": "https://apnews.com/article/yen-dollar-currency-trump-economy-7316599afed35629a27ae23a35f569fd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0ec3309/2147483647/strip/true/crop/3546x2363+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F38%2Fa1%2Fb230ccb416ed2f4878139057d920%2Ff99c3fca43a84220bdf516f4425b347e",
+      "source": "Associated Press",
+      "publishedAt": "2026-08-03T08:08:00Z"
     },
     {
-      "title": "Nearly 23,000 pounds of Ukrop's baked spaghetti and chicken cobbler recalled over metal sliver concerns - Fox Business",
-      "description": "A consumer complaint about metal found in a fully cooked product triggered the Ukrop's Homestyle Foods recall of baked spaghetti and chicken cobbler.",
-      "url": "https://www.foxbusiness.com/lifestyle/nearly-23000-pounds-ukrops-baked-spaghetti-chicken-cobbler-recalled-over-metal-sliver-concerns",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/ukrops-prepared-food-recall.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-08-02T06:18:00Z"
-    },
-    {
-      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million - coindesk.com",
-      "description": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
-      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?auto=format&q=75",
-      "source": "CoinDesk",
-      "publishedAt": "2026-08-02T04:32:59Z"
-    },
-    {
-      "title": "German carmakers flood jobs market with managers after wielding axe - Financial Times",
-      "description": "Volkswagen approaches headhunter to find positions for hundreds of departing managers",
-      "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdfb4707b-814c-4520-950c-6d437a384914.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-02T04:01:25Z"
-    },
-    {
-      "title": "The Race to Build an American Alternative to Cheap AI From China - WSJ",
-      "description": "Silicon Valley startups are setting up open models, with some operating on shoestring budgets because of limited interest from VCs",
-      "url": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
-      "urlToImage": "https://images.wsj.net/im-29899458/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-02T01:00:00Z"
-    },
-    {
-      "title": "Homeowners Associations Are Foreclosing on More Residents - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/real-estate/homeowners-associations-are-foreclosing-on-more-residents-aba6f027",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-02T00:00:00Z"
-    },
-    {
-      "title": "Gavin Newsom Reportedly Concerned About State Antitrust Suit Against Paramount-Warner Bros. Merger - The Hollywood Reporter",
-      "description": "In a Friday report, sources told The Wall Street Journal that California's governor has said if the merger is blocked due to the lawsuit, state employment will suffer, and that \"Newsom’s office has encouraged Attorney General Rob Bonta’s office, which has ind…",
-      "url": "http://www.hollywoodreporter.com/business/business-news/gavin-newsom-concerned-state-suit-paramount-warner-bros-1236661514/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2285912292-e1785627332729.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-08-01T23:47:19Z"
-    },
-    {
-      "title": "Congress ended surprise medical bills — doctors and insurers hate it - Politico",
-      "description": "Lawmakers agree that the bill is flawed. But hostilities between insurers and doctors could stymie their efforts to fix it.",
-      "url": "https://www.politico.com/news/2026/08/01/congress-ended-surprise-medical-bills-doctors-and-insurers-hate-it-01020991",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F34%2F10%2Ff4802ba147fab72b7a40588c4ea2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1733699760",
-      "source": "Politico",
-      "publishedAt": "2026-08-01T20:00:00Z"
-    },
-    {
-      "title": "Baby boomers hate 10 things about today's grocery stores - Fox News",
-      "description": "From self-checkout frustrations to digital coupons and understaffing, baby boomers have strong opinions about how modern grocery stores have changed.",
-      "url": "https://www.foxnews.com/food-drink/baby-boomers-hate-10-things-todays-grocery-stores",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/c2ffeed1-boomers_grocery.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-08-01T19:29:42Z"
-    },
-    {
-      "title": "Loan Investors Are Pushing Back as Fear Rises - Bloomberg.com",
-      "description": "Loan investors are pushing back for the first time in years, in a shift that will probably translate to higher borrowing costs for everyone from private equity firms to deeply indebted AI companies.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/loan-investors-are-pushing-back-as-fear-rises-credit-weekly",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOg2e98aTcNg/v0/1200x800.jpg",
+      "title": "Yen Traders Brace for More Intervention With US at Japan’s Side - Bloomberg.com",
+      "description": "The yen rallied sharply on Monday amid speculation that authorities may have intervened to prop up the currency again after coordinated action between the US and Japan last week.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZDs8aME7gVQ/v1/1200x799.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-08-01T19:00:00Z"
+      "publishedAt": "2026-08-03T06:28:00Z"
     },
     {
-      "title": "‘Much, much more than what’s been reported’: Keep cyclospora on your radar as cases climb in Illinois, expert advises - Daily Herald",
-      "description": "With cyclosporiasis cases continuing to spike in Illinois, medical experts advise residents to avoid certain types of lettuce and take basic precautions, such as thoroughly rinsing greens to dodge the...",
-      "url": "https://www.dailyherald.com/20260801/news/much-much-more-than-whats-been-reported-keep-cyclospora-on-your-radar-as-cases-climb-in-illinoi/",
-      "urlToImage": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=c8b1081c-2658-5344-b005-f546a63d4efa&function=fit&type=preview",
-      "source": "Chicago Daily Herald",
-      "publishedAt": "2026-08-01T18:55:00Z"
+      "title": "Beefing with the Big Mac Index - Financial Times",
+      "description": "McDonald’s signature burger offers economic lessons — but not about purchasing power parity",
+      "url": "https://www.ft.com/content/942fa156-1316-47d0-ade1-7fe6efa11840",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5c45a7b1-587c-4bda-a183-3bce6edab159.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-03T05:00:36Z"
     },
     {
-      "title": "California farmers destroy perfect lettuce crops amid outbreak of explosive diarrhea parasite - New York Post",
-      "description": "Outbreaks of cyclospora are rocking every corner of the produce industry as many consumers avoid supermarkets’ fresh produce aisles.",
-      "url": "https://nypost.com/2026/08/01/business/california-lettuce-growers-skip-harvest-amid-cyclospora-outbreak/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136195452.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-08-01T18:18:00Z"
+      "title": "Oil Slumps, US Futures Rise on Iran Talks Optimism: Markets Wrap - Bloomberg.com",
+      "description": "Oil fell and Treasuries rose after President Donald Trump said fresh US-Iran talks would begin Monday, boosting optimism the two sides will reach a deal to reopen the Strait of Hormuz.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNcgTJCcb2W8/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-03T05:00:00Z"
     },
     {
-      "title": "Could a new federal lawsuit stop the Texas THC ban? - WFAA",
-      "description": null,
-      "url": "https://www.wfaa.com/article/news/local/texas/texas-thc-ban-new-federal-lawsuit/287-9ba897f3-2f95-4348-a81d-2fde4283a3e6",
-      "urlToImage": null,
-      "source": "WFAA.com",
-      "publishedAt": "2026-08-01T17:10:00Z"
+      "title": "Alibaba Releases AI Model With Performance Rivaling Anthropic - Bloomberg.com",
+      "description": "Alibaba Group Holding Ltd. released its biggest ever AI model, claiming performance on par with global leader Anthropic PBC in the latest Chinese breakthrough to challenge US rivals.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5U1V7eagIus/v1/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-03T04:50:00Z"
     },
     {
-      "title": "United Airlines CEO Scott Kirby Tells Trump, “I’ve Waited My Whole Career” For IAD Rebuild - liveandletsfly.com",
-      "description": "United CEO Scott Kirby told President Trump he had waited his whole career for the long-promised rebuild of Washington Dulles.",
-      "url": "https://liveandletsfly.com/scott-kirby-trump-iad-rebuild/",
-      "urlToImage": "https://liveandletsfly.com/wp-content/uploads/2026/08/Kirby-White-House-IAD-scaled.jpg",
-      "source": "Liveandletsfly.com",
-      "publishedAt": "2026-08-01T17:09:41Z"
+      "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans - Crude Oil Prices Today | OilPrice.com",
+      "description": "Oil prices fell sharply after President Trump paused planned military action against Iran, boosting hopes for diplomacy and a reopening of the Strait of Hormuz while OPEC approved another production increase.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-02_8klqup39sh.jpg",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-08-03T03:05:00Z"
     },
     {
-      "title": "NY looks to shut down Kalshi, have it pay $36 billion in new lawsuit - Gothamist",
-      "description": "The state alleges the \"prediction market\" is just a gambling operation in disguise.",
-      "url": "https://gothamist.com/news/ny-looks-to-shut-down-kalshi-have-it-pay-36-billion-in-new-lawsuit",
-      "urlToImage": "https://api-prod.gothamist.com/images/358429/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-08-01T16:46:00Z"
+      "title": "German Robotics Startup Agile Robots Set to Double Revenue This Year - WSJ",
+      "description": "Agile has signed customer contracts underpinning this year’s projected revenue and has so far raised about $1.5 billion from investors led by SoftBank Group",
+      "url": "https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc",
+      "urlToImage": "https://images.wsj.net/im-75320799/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-03T01:16:11Z"
     },
     {
-      "title": "Fast access to Trump's ‘Truth Social’ posts goes on sale for $100,000 per month - France 24",
-      "description": "US President Donald Trump's posts on his Truth Social platform can move markets with a few keystrokes. Starting Saturday, for a fee of $100,000 a month, Wall Street traders can access his \"Truth API\" service to have high-speed access to the president's announ…",
-      "url": "https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month",
-      "urlToImage": "https://s.france24.com/media/display/2227fa5e-8db4-11f1-84ff-005056bf30b7/w:1280/p:16x9/AP26155702431913.jpg",
-      "source": "FRANCE 24 English",
-      "publishedAt": "2026-08-01T15:29:08Z"
-    },
-    {
-      "title": "Minnesota's ban on crypto ATMs goes into effect after citizens report losing nearly $1 million in scams - Fox Business",
-      "description": "Minnesota's ban on crypto ATMs went into effect on Saturday, and by Dec. 31, all existing machines across the state must be removed.",
-      "url": "https://www.foxbusiness.com/politics/minnesotas-ban-crypto-atms-goes-effect-after-citizens-report-losing-nearly-1-million-scams",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/walz-atm-split.png?ve=1&tl=1",
+      "title": "Coldcard wallet attack drains up to $89M in Bitcoin from 1,200+ addresses - Fox Business",
+      "description": "A Coldcard firmware bug may have let attackers steal roughly $70 million in bitcoin in under an hour, and the company says attacks are still ongoing. Estimated losses now at $89M.",
+      "url": "https://www.foxbusiness.com/fox-news-tech/coldcard-wallet-attack-drains-up-89m-bitcoin-from-1200-addresses",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/crypto-hack.png?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-08-01T14:36:00Z"
+      "publishedAt": "2026-08-03T00:42:00Z"
     },
     {
-      "title": "Northern Lights Update: These 10 States Could See The Aurora Saturday - Forbes",
-      "description": "Friday, Saturday and Sunday have all shared forecasts of mild auroral activity around the northern U.S. border, according to the National Oceanic and Atmospheric Administration.",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/01/saturday-northern-lights-forecast-10-states-may-see-the-aurora-borealis-tonight/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a6dffffa82bce02d536e6ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-08-01T14:18:59Z"
+      "title": "Morgan Stanley sends cautious Apple stock message after earnings - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-cautious-message-on-apple-stock-after-earnings-aapl",
+      "urlToImage": null,
+      "source": "TheStreet",
+      "publishedAt": "2026-08-03T00:06:00Z"
+    },
+    {
+      "title": "I bought a one-way ticket to Shanghai, thinking I'd stay for a year. 12 years later, it feels like home. - Business Insider",
+      "description": "Graeme Kennedy expected to spend one year in Shanghai. Instead, he built a photography business and found a passion for telling China's food stories.",
+      "url": "https://www.businessinsider.com/moved-to-shanghai-china-career-change-photography-home-saint-cavish-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a6c0c0797a2276a3423ba6d?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-02T23:47:00Z"
+    },
+    {
+      "title": "Light rail service resumes in Seattle after Link train derailed at CID station - KOMO",
+      "description": "Sound Transit is working to restore full light-rail service after an out-of-service train derailed late Satueday night near the International District/Chinatown",
+      "url": "https://komonews.com/news/local/link-train-derails-near-cid-station-1-and-2-lines-partially-suspended-sound-transit-public-transit-weekend-commute-mariners-summer-event-tourism-travel-delay-route-bus-seattle-washington",
+      "urlToImage": "https://komonews.com/resources/media2/16x9/1920/1320/center/90/a452747b-3856-4227-9291-e56bd7740e2f-UntitledAugust022026at12.18.33.png",
+      "source": "KOMO News",
+      "publishedAt": "2026-08-02T22:45:25Z"
+    },
+    {
+      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems - BleepingComputer",
+      "description": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science.",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-08-02T22:31:41Z"
+    },
+    {
+      "title": "AstraZeneca and Bristol-Myers Squibb in talks over potential merger - Report - Yahoo Finance",
+      "description": "Investing.com -- AstraZeneca PLC (LON:AZN) shares fell nearly 7% in London trading on Monday after a report said the drugmaker has held merger discussions wi...",
+      "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-bristol-myers-squibb-talks-211432405.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-02T21:14:32Z"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate - TechCrunch",
+      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-02T20:54:22Z"
+    },
+    {
+      "title": "Stellantis worker dies in undisclosed accident at Center Line facility - Detroit Free Press",
+      "description": "The UAW said in a Facebook post that longtime member James Brasher died in the Aug. 1 incident.",
+      "url": "https://www.freep.com/story/money/cars/2026/08/02/stellantis-worker-dies-in-accident-in-center-line/91141612007/",
+      "urlToImage": "https://www.freep.com/gcdn/-mm-/2ef94dd84d6ff694b90e49ddb540f8bc6a7b9792/c=0-273-2626-1757/local/-/media/2017/12/19/DetroitFreeP/DetroitFreePress/636492997779194725-UAW-logo.jpg?width=2626&height=1484&fit=crop&format=pjpg&auto=webp",
+      "source": "Detroit Free Press",
+      "publishedAt": "2026-08-02T20:12:00Z"
+    },
+    {
+      "title": "Prysmian is said to near $2.5 billion deal for Atkore (ATKR:NYSE) - Seeking Alpha",
+      "description": "Prysmian is in advanced talks to buy Atkore in an all-cash deal, boosting its U.S.",
+      "url": "https://seekingalpha.com/news/4623152-prysmian-is-said-to-near-2_5-billion-deal-for-atkore",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/160195969/image_160195969.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-08-02T19:58:42Z"
     }
   ]
 }
