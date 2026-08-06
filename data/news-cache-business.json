@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2026-08-05T08:47:59.340Z",
+  "updatedAt": "2026-08-06T08:49:44.194Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’ - cnbc.com",
-      "description": "The result come after U.S. President Donald Trump lashed out at Big Oil for making \"too much money\" off higher fuel prices amid the Iran war.",
-      "url": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108289673-1775815842478-gettyimages-2227922173-UK_BP.jpeg?v=1775815890&w=1920&h=1080",
+      "title": "SpaceX is coming for T-Mobile, AT&T and Verizon - The Verge",
+      "description": "SpaceX is preparing to build a terrestrial mobile network to “acquire quite a few” of the customers now subscribed to T-Mobile, AT&T, and Verizon.",
+      "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T06:50:00Z"
+    },
+    {
+      "title": "Asia stocks jump as AI rally returns; Japan, Korea surge - Investing.com",
+      "description": "Asia stocks rally as tech rebounds, ASX hits record after Wall Street gains",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
+      "urlToImage": "https://i-invdn-com.investing.com/news/https://content-media.investing.com/news/LYNXMPEB5F0CM_L.jpg",
+      "source": "Investing.com",
+      "publishedAt": "2026-08-05T04:21:36Z"
+    },
+    {
+      "title": "Here's what to expect when Disney reports earnings before the bell - CNBC",
+      "description": "Disney reports its fiscal third-quarter earnings before the bell Wednesday as the market awaits further updates and changes under newly minted CEO Josh D'Amaro.",
+      "url": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108303074-1778083707874-gettyimages-2274814388-ms003142_6zosr9fb.jpeg?v=1778083738&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-04T06:07:12Z"
+      "publishedAt": "2026-08-05T04:01:01Z"
     },
     {
-      "title": "Scott Bessent’s yen intervention signals new era of US ‘currency activism’ - Financial Times",
-      "description": "Bid to support Japan’s currency shows US is ready to scupper trades that push against its interests",
-      "url": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56d614b2-ba3c-4267-8da9-fff70531f2ef.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-04T03:40:07Z"
+      "title": "AI agents fake identities, target real people in new security incident - CNN",
+      "description": "Anthropic’s most advanced artificial intelligence model used fake identities to deceive real people and try to plant malicious code during testing by Britain’s AI Security Institute (AISI) –– the latest example of an AI model going rogue.",
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280225352.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-08-05T03:56:00Z"
     },
     {
-      "title": "Artificial intelligence: Why firms are struggling to set prices - BBC",
-      "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "url": "https://www.bbc.com/news/articles/c872r52x7jgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-08-03T23:21:10Z"
+      "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High - Investor's Business Daily",
+      "description": "The Nasdaq powered above its 50-day while the Dow and S&P 500 hit highs.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/05/Stock-SpaceX-DragonCapsul-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-08-05T03:10:00Z"
     },
     {
-      "title": "Hugging Face CEO says China is winning the AI race while the US is building 'in silos' - Business Insider",
-      "description": "Clément Delangue said the Hugging Face hack showed that open-weight models are vital for AI defense.",
-      "url": "https://www.businessinsider.com/hugging-face-ceo-open-weight-ai-models-china-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a7108fda62e6e00bc53a045?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-03T22:50:00Z"
+      "title": "What David Ellison Is Really Up to - The Hollywood Reporter",
+      "description": "The sudden burst of friendly voices and platforms from the Democrat side of the aisle appears to be part of an anti-AG plan.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-merger-rob-bonta-lawsuit-ag-1236664494/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ellisoncinemacon.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-08-05T02:55:22Z"
     },
     {
-      "title": "As Merger Hangs In The Balance, Paramount And WBD Step Into Quarterly Earnings Spotlight - Deadline",
-      "description": "Paramount and Warner Bros. Discovery will both report second-quarter earnings results this week as legal clouds hang over their $110 billion merger.",
-      "url": "http://deadline.com/2026/08/paramount-wbd-merger-q2-earnings-1237016279/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/David-Ellison-and-David-Zaslav.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-08-03T22:48:00Z"
+      "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S. - CNBC",
+      "description": "GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.",
+      "url": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108232846-1764201290410-gettyimages-2197358286-ECP_fc1233819.jpeg?v=1785885015&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-05T02:30:00Z"
     },
     {
-      "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses - MarketWatch",
-      "description": "The rally in Microsoft shares ‘has legs’ because its capital spending is showing a payoff",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c",
-      "urlToImage": "https://images.mktw.net/im-06137309/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-03T22:44:00Z"
+      "title": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans - Fox Business",
+      "description": "OpenAI allegedly failed to advertise PERM jobs on its careers website and required paper applications to discourage U.S. workers from applying",
+      "url": "https://www.foxbusiness.com/technology/openai-pay-3-2-million-settle-doj-allegations-favored-foreign-workers-over-americans",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/sam-altman-court-trial.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-05T01:44:00Z"
     },
     {
-      "title": "UFC Lost $30 Million on Freedom 250 Event at the White House - Bloomberg.com",
-      "description": "TKO Group Holdings Inc. said it lost $30 million on the UFC Freedom 250 mixed martial arts event held in Washington on June 14, but gained in other ways in terms of media exposure and partnership deals.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/ufc-lost-30-million-on-freedom-250-event-at-the-white-house",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibW98C.G3DCY/v0/1200x810.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-03T22:26:25Z"
+      "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff - CNBC",
+      "description": "In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year.",
+      "url": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344426-1785845179477-gettyimages-2288184147-1565323-fi-space-x-earnings-after-ipo-eat-0005.jpeg?v=1785845222&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-05T01:43:00Z"
     },
     {
-      "title": "Asian Stocks Set for Muted Open, Oil Holds Losses: Markets Wrap - Bloomberg.com",
-      "description": "Global stocks held near record highs and futures pointed to further gains after a tech-led Wall Street rally followed a month of high volatility. The yen gave back some of its recent advance that was triggered by US and Japanese intervention.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5tnJzI.7K1I/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-03T22:13:40Z"
-    },
-    {
-      "title": "Palantir Earnings Send Stock Sharply Higher - Barron's",
-      "description": "Shares of Palantir Technologies rose sharply in late trading on Monday after the company reported strong second-quarter earnings results.",
-      "url": "https://www.barrons.com/articles/palantir-earnings-stock-price-4a392c80",
-      "urlToImage": "https://images.barrons.com/im-22691529/social",
-      "source": "Barron's",
-      "publishedAt": "2026-08-03T21:37:00Z"
-    },
-    {
-      "title": "Powerball reaches $748M. Financial advisors say winners should do this - USA Today",
-      "description": "Planning for a Powerball jackpot win is just as important as buying a $2 ticket. Here's what financial advisors say you winners should do.",
-      "url": "https://www.usatoday.com/story/money/lottery/2026/08/03/powerball-748-million-jackpot-financial-advisors-advice/91153160007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/03/USAT/91155310007-20251208-t-235604-z-50673864-mt-1-usatoday-27774390-rtrmadp-3-apowerballticketcanmakeyouamillionaireovernight.JPG?crop=3949,2221,x0,y18&width=3200&height=1800&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-03T21:20:00Z"
-    },
-    {
-      "title": "San Diego butcher shop explains why beef prices are so high - cbs8.com",
-      "description": null,
-      "url": "https://www.cbs8.com/article/news/local/san-diego-butcher-shop-explains-why-beef-prices-are-so-high/509-beb551e4-51a1-44a9-8450-d80df86c97d4",
-      "urlToImage": null,
-      "source": "CBS News 8",
-      "publishedAt": "2026-08-03T21:17:00Z"
-    },
-    {
-      "title": "Trump says oil companies should cut gas prices after making \"too much money\" - CBS News",
-      "description": "President Trump said U.S. oil companies made \"too much money\" from high oil prices. \"I'm not happy about it,\" he added.",
-      "url": "https://www.cbsnews.com/news/trump-oil-companies-cut-gas-prices/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/09/85e14faa-081c-4ee2-8e62-297cdb3157a0/thumbnail/1200x630/43aad9305ff04849e7c4326d14bb9598/cbsn-fusion-trump-revoking-irans-oil-waver-could-push-gas-prices-up-thumbnail.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-08-03T21:08:00Z"
-    },
-    {
-      "title": "JPMorgan chief Jamie Dimon says S.F. is back on track. His bank is betting on it - San Francisco Chronicle",
-      "description": "JPMorgan chief Jamie Dimon says San Francisco is back on track. His bank is betting on it by designating the Bay Area a corporate center.",
-      "url": "https://www.sfchronicle.com/sf/article/jpmorgan-investment-bay-area-22371956.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/66/77/05/31191379/12/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2026-08-03T21:06:54Z"
-    },
-    {
-      "title": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview - Yahoo Finance",
-      "description": "SpaceX will report highly anticipated second quarter results on Tuesday after the bell, its first report as a public company.",
-      "url": "https://finance.yahoo.com/technology/article/spacexs-first-ever-earnings-report-comes-as-stock-hits-new-all-time-low-q2-preview-132323178.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A0A28CF0680567C659BCC41220EA278FDE25B98E5A7C848C5F93B9093F784FB4/subgraphmysterio/resizefill_w1200_h716;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc699b5e7-8db7-4233-8dcb-dbe3bffcdf95",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-03T21:00:09Z"
-    },
-    {
-      "title": "With Subscriber Counts Decimated by Starlink, Hughesnet Files for Bankruptcy - PCMag",
-      "description": "Hughesnet will continue serving customers during its bankruptcy proceedings, but the goal is to focus on business and government customers rather than consumers.",
-      "url": "https://www.pcmag.com/news/with-subscriber-counts-decimated-by-starlink-hughesnet-files-for-bankruptcy",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/04XZ3d51ElTaseDMu4TBHp6-1.fit_lim.size_1200x630.v1785763140.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2026-08-03T20:43:25Z"
-    },
-    {
-      "title": "Marvell's Next Move Is To $100 (NASDAQ:MRVL) - Seeking Alpha",
-      "description": "Marvell is a unique fabless semiconductor designer focused on AI accelerators and next-generation data center hardware. Read more on MRVL stock here.",
-      "url": "https://seekingalpha.com/article/4929631-marvells-next-move-is-to-100",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2231325779/image_2231325779.jpg?io=getty-c-w1536",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-08-03T20:42:01Z"
-    },
-    {
-      "title": "Cyclospora outbreak causes first two deaths - Axios",
-      "description": "Weeks into the national crisis that's sickened thousands of people, federal authorities still don't know for certain where it's coming from or why.",
-      "url": "https://www.axios.com/2026/08/03/cyclospora-outbreak-deaths-illness-symptoms",
-      "urlToImage": "https://images.axios.com/2SLwXpOnVFLW4W7qDC5XsZLo-ZA=/0x691:4242x3077/1366x768/2026/08/03/1785776847743.jpeg",
+      "title": "Scoop: Inside Trump's AI framework - Axios",
+      "description": "The White House is excluding open models from its framework to test advanced AI capabilities.",
+      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+      "urlToImage": "https://images.axios.com/qjuQp7hPC0fkFCc05UWlAlol-dI=/0x0:1920x1080/1366x768/2025/09/05/1757099519535.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-08-03T20:39:47Z"
+      "publishedAt": "2026-08-05T00:47:04Z"
     },
     {
-      "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast - CNBC",
-      "description": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
-      "url": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-08-03T20:11:29Z"
+      "title": "Saudi-led group completes $55bn purchase of gaming giant EA - bbc.com",
+      "description": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+      "url": "https://www.bbc.com/news/articles/cjejyl34345o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-04T23:09:44Z"
+    },
+    {
+      "title": "Rocket Lab, STR win Space Force contracts for airborne-target tracking - SpaceNews",
+      "description": "Rocket Lab, STR win Space Force contracts for airborne-target tracking Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies",
+      "url": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg",
+      "source": "SpaceNews",
+      "publishedAt": "2026-08-04T22:47:07Z"
+    },
+    {
+      "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+      "description": "The company’s sales to data centers doubled in the latest quarter, but its revenue only narrowly beat analysts’ estimates",
+      "url": "https://www.wsj.com/business/earnings/amd-earnings-q2-2026-stock-03fe0b09",
+      "urlToImage": "https://images.wsj.net/im-82130025/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-04T22:24:00Z"
+    },
+    {
+      "title": "Buc-ee’s suing mini mart in Beavercreek, Ohio over logo branding - WLWT",
+      "description": "Buc-ee's, the popular convenience store chain that just opened its first store in Ohio, is suing a small convenience store alleging trademark infringement.",
+      "url": "https://www.wlwt.com/article/buc-ees-suing-mini-mart-in-beavercreek-ohio-over-logo-branding/73346001",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/8199edbb-f0b5-4b74-b6b7-c5890c47376e.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.112xh&resize=1200%3A*",
+      "source": "WLWT Cincinnati",
+      "publishedAt": "2026-08-04T22:15:00Z"
+    },
+    {
+      "title": "McDonald's says US sales slowed after value deal push fell short - Fox Business",
+      "description": "CEO Chris Kempczinski says weak promotion of value deals and a pullback in digital deals led to a drop in visits from McDonald's loyal customers.",
+      "url": "https://www.foxbusiness.com/markets/mcdonalds-says-us-sales-slowed-after-value-deal-push-fell-short",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/05/0/0/mcdonalds-restaurant.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-04T21:20:00Z"
+    },
+    {
+      "title": "Spotify Execs Bet People Will Pay for AI Music. Stock Price Plunges - Gizmodo",
+      "description": "The company is going all in on AI features, including AI-generated songs, to turn free users to paid.",
+      "url": "https://gizmodo.com/spotify-execs-bet-people-will-pay-for-ai-music-stock-price-plunges-2000794327",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2287813835-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-08-04T20:55:53Z"
     }
   ]
 }
