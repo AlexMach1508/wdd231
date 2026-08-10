@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2026-08-09T07:09:50.809Z",
+  "updatedAt": "2026-08-10T07:58:54.476Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building - Fox Business",
-      "description": "SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.",
-      "url": "https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/elon-musk-looking-into-distance.jpg?ve=1&tl=1",
+      "title": "Historic Maine house selling for $1 — but under one condition or it’ll face demolition - New York Post",
+      "description": "The house is currently being used as office space, with tenants under lease through November 2027.",
+      "url": "https://nypost.com/2026/08/09/real-estate/historic-maine-deering-house-selling-for-1-but-under-one-condition-or-itll-face-demolition/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/selling-historic-home-bath-1-136880616.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-08-09T05:50:00Z"
+    },
+    {
+      "title": "Investors return to European stocks as strong earnings lift Iran war gloom - Financial Times",
+      "description": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter",
+      "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53e9bcdd-608c-4751-9828-029dc12432af.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-09T04:00:09Z"
+    },
+    {
+      "title": "Kellogg removing artificial colors from Froot Loops, Apple Jacks a year ahead of schedule - Fox Business",
+      "description": "Kellogg's Froot Loops and Apple Jacks cereals are ditching artificial colors, but the company says the iconic rainbow cereal will keep its familiar look.",
+      "url": "https://www.foxbusiness.com/lifestyle/kellogg-removing-artificial-colors-from-froot-loops-apple-jacks-year-ahead-schedule",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/kellogg-cereal-artificial-colors.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-08-08T00:52:00Z"
+      "publishedAt": "2026-08-09T03:48:00Z"
     },
     {
-      "title": "OpenAI says it slowed Astra model development over security concerns - techcrunch.com",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-07T22:48:24Z"
+      "title": "Hannaford recalls deli, produce items due to potential salmonella contamination - WMUR",
+      "description": "Hannaford Supermarkets is recalling select deli and produce products from its shelves after potential salmonella contamination linked to a broader recall by jalapeno supplier Coast Citrus Distributors, the company said on Saturday.",
+      "url": "https://www.wmur.com/article/hannaford-deli-produce-recall/73383197",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hannaford-new-logo-1578681946.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "source": "WMUR Manchester",
+      "publishedAt": "2026-08-09T02:42:00Z"
     },
     {
-      "title": "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ",
+      "title": "After 66 years, Portlanders say goodbye to the Lloyd Center, old and new - OregonLive.com",
       "description": null,
-      "url": "https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e",
+      "url": "https://www.oregonlive.com/retail/2026/08/after-66-years-portland-says-goodbye-to-the-lloyd-center-old-and-new.html",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-07T22:31:00Z"
+      "source": "OregonLive",
+      "publishedAt": "2026-08-09T01:21:00Z"
     },
     {
-      "title": "Health department investigating after seeing more than 5x increase in cyclosporiasis cases in McHenry County - Lake and McHenry County Scanner",
-      "description": "The health department issued a warning as they investigate a more than five times increase in cyclosporiasis cases in McHenry County recently, with no identifiable source so far.",
-      "url": "https://www.lakemchenryscanner.com/2026/08/07/health-department-investigating-after-seeing-more-than-5x-increase-in-cyclosporiasis-cases-in-mchenry-county/",
-      "urlToImage": "https://lakemchenryscanner.b-cdn.net/wp-content/uploads/2026/08/3840p_Lettuce-scaled.jpg",
-      "source": "Lakemchenryscanner.com",
-      "publishedAt": "2026-08-07T22:14:04Z"
-    },
-    {
-      "title": "Buc-ee's CEO Arch Aplin tells his side, but records don't back it up - Cincinnati Enquirer",
-      "description": "Buc-ee's founder Arch Aplin explained his side of the story in the Ohio beaver lawsuit controversy, but ended up causing confusion.",
-      "url": "https://www.cincinnati.com/story/news/politics/2026/08/07/ohio-mayor-says-buc-ees-had-no-issues-with-beaver-logo/91211379007/",
-      "urlToImage": "https://www.cincinnati.com/gcdn/authoring/authoring-images/2026/08/02/PCIN/91142563007-b-7-e-99-c-1-afe-884-def-9-ba-633918-f-01-bc-57.png?crop=1919,1080,x0,y179&width=1919&height=1080&format=pjpg&auto=webp",
-      "source": "The Cincinnati Enquirer",
-      "publishedAt": "2026-08-07T22:12:00Z"
-    },
-    {
-      "title": "Crypto faces a setback in the Senate - Politico",
-      "description": "A landmark crypto bill faces uncertainty after senators punted it until after their August recess.",
-      "url": "https://www.politico.com/news/2026/08/07/delays-imperil-senate-crypto-bill-01029817",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fdf%2Fc7%2Fbccf878643208cd66ef3bdb54184%2Fu-s-congress-43371.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-08-07T21:37:00Z"
-    },
-    {
-      "title": "Foodborne illnesses are rising. What not to eat right now. - Sun Sentinel",
-      "description": "Not all reported outbreaks have reached Florida, but as federal agencies investigate cases of salmonella, E. coli and cyclosporiasis, some foods are worth avoiding for now. Here are the ones Floridians should know about.",
-      "url": "https://www.sun-sentinel.com/2026/08/07/foodborne-illnesses-are-rising-what-not-to-eat-right-now/",
-      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2026/08/tfl-z-AdobeStock-159333261-01.jpeg?w=5472&h=3648",
-      "source": "Sun Sentinel",
-      "publishedAt": "2026-08-07T21:32:52Z"
-    },
-    {
-      "title": "Shopping App Whatnot Valued at $20 Billion in New Funding - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/retail/the-hottest-app-in-retail-is-now-worth-20-billion-c98f0897",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-07T20:50:00Z"
-    },
-    {
-      "title": "Markets Rally on Surprise U.S. Job Losses, Airbnb Soars and Trade Desk Tanks | Markets P.M. for Aug. 7 - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/markets-rally-on-surprise-u-s-job-losses-83ecb5e4",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-07T20:33:00Z"
-    },
-    {
-      "title": "Amazon responds to Mayor Zohran Mamdani’s cease-and-desist letter - WGN-TV",
-      "description": null,
-      "url": "https://wgntv.com/news/national/amazon-responds-to-mayor-zohran-mamdanis-cease-and-desist-letter/",
-      "urlToImage": null,
-      "source": "WGN TV Chicago",
-      "publishedAt": "2026-08-07T20:10:39Z"
-    },
-    {
-      "title": "SpaceX 10GW in 2027 – Why It’s Real, Will Drive $500B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker - SemiAnalysis",
-      "description": "Inference at 100B/GW/year, SpaceX's stellar pace, Microsoft's 10GW 2026 Awakening, Azure Can Grow Tiple-Digits",
-      "url": "https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Fqy7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc31bfa2-c9d7-4f88-bab6-ca5198c164dc_1672x941.png",
-      "source": "Semianalysis.com",
-      "publishedAt": "2026-08-07T20:08:04Z"
-    },
-    {
-      "title": "The FCC Moves to Retroactively Ban Drones With LiDAR Obstacle Avoidance - PCMag",
-      "description": "Many photographers and videographers will be surprised to learn that the FCC considers camera drones with LiDAR obstacle avoidance, like the consumer-grade Air 3S, Avata 360, and Mini 5 Pro, to be weapons of war.",
-      "url": "https://www.pcmag.com/news/the-fcc-moves-to-retroactively-ban-drones-with-lidar-obstacle-avoidance",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/033sIKe5AtPoK1C81n5auNK-1.fit_lim.size_1200x630.v1786132018.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2026-08-07T19:55:32Z"
-    },
-    {
-      "title": "Prince Harry Reacts to Meta Settlement: “Change Cannot Wait” - Town & Country Magazine",
-      "description": "He called the $567 million fine “accountability” for the big tech company.",
-      "url": "https://www.townandcountrymag.com/society/tradition/a73378924/prince-harry-meta-settlement-reaction/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/5745b521-2727-46a9-996a-71d830809449.jpeg?crop=1xw:0.750375187594xh;center,top&resize=1200:*",
-      "source": "TownandCountrymag.com",
-      "publishedAt": "2026-08-07T19:47:00Z"
-    },
-    {
-      "title": "Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling. - Barron's",
-      "description": "Replimune secures FDA approval for Tudriqev on its third attempt, making it the company’s first product on the market.",
-      "url": "https://www.barrons.com/articles/replimune-stock-fda-skin-cancer-drug-1b2251e4",
-      "urlToImage": "https://images.barrons.com/im-52790984/social",
-      "source": "Barron's",
-      "publishedAt": "2026-08-07T19:33:00Z"
-    },
-    {
-      "title": "Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience - Bloomberg",
-      "description": "Five years of high inflation is testing the patience of Federal Reserve officials and showcasing a split between those willing to wait before hiking interest rates and those who say time is running out.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/fed-split-on-rate-hikes-deepens-as-high-inflation-tests-patience",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK2CUoia35Ng/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-07T19:27:06Z"
-    },
-    {
-      "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain - CNBC",
-      "description": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
-      "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346815-1786133181309-BK_Wendys.jpg?v=1786133195&w=1920&h=1080",
+      "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows - CNBC",
+      "description": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108225675-1763063273944-gettyimages-2246554747-_73a9943_rypsalje.jpeg?v=1763063392&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-07T18:19:39Z"
+      "publishedAt": "2026-08-08T23:14:00Z"
     },
     {
-      "title": "Blackjack losses, a chilling phone call and a diverted flight cap a chaotic Las Vegas vacation - foxnews.com",
-      "description": "David Hookstead's Las Vegas trip featured high-limit blackjack tables, Golden Tiki, Stage Door and machine guns while navigating threats in Las Vegas.",
-      "url": "https://www.foxnews.com/outkick-culture/blackjack-losses-chilling-phone-call-diverted-flight-cap-chaotic-las-vegas-vacation",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/img_8193.jpg",
+      "title": "Flight canceled after toddler refused to buckle seat belt, stranding passengers overnight - Fox News",
+      "description": "Porter Airlines flight 444 from British Columbia was canceled after a toddler refused to buckle their seatbelt, stranding passengers overnight.",
+      "url": "https://www.foxnews.com/travel/flight-canceled-toddler-refused-buckle-seat-belt-stranding-passengers-overnight",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/porter-airlines-plane-departing-toronto-pearson.jpg",
       "source": "Fox News",
-      "publishedAt": "2026-08-07T17:42:11Z"
+      "publishedAt": "2026-08-08T22:04:45Z"
     },
     {
-      "title": "Trump, Warsh Talk About Economy ‘All the Time,’ Hassett Says - Yahoo Finance",
-      "description": "(Bloomberg) -- President Donald Trump and Federal Reserve Chairman Kevin Warsh frequently talk about the economy, according to National Economic Council Dire...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-warsh-talk-economy-time-170233577.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-07T17:02:33Z"
+      "title": "Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway - businessinsider.com",
+      "description": "Warren Buffett's famous cash pile shrank last quarter as new CEO Greg Abel ramped up spending on stocks and buybacks to multi-year highs.",
+      "url": "https://www.businessinsider.com/berkshire-hathaway-warren-buffett-greg-abel-spending-cash-pile-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a776bb00c6c5a263f3a7ed7?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-08T21:40:00Z"
     },
     {
-      "title": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Washington Post",
-      "description": "Despite recent price hikes, the mysterious company is still offering a significant discount at 29 stations across Pennsylvania and New Jersey.",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/freedom-fuel-praised-by-trump-sells-cheap-gasoline-how/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YARFOCP7HMH2FP3CUD2UI54WYM_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-08-07T17:00:01Z"
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S. - TechCrunch",
+      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-08T21:24:02Z"
+    },
+    {
+      "title": "Delta passengers evacuated by slide after emergency landing in Atlanta - NBC News",
+      "description": "Passengers aboard an Orlando-bound Delta flight had to evacuate via slide after the aircraft made an emergency landing on a taxiway at Hartsfield-Jackson Atlanta International Airport shortly after takeoff Saturday morning.",
+      "url": "https://www.nbcnews.com/news/us-news/delta-passengers-evacuated-slide-emergency-landing-atlanta-rcna591513",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/200825-delta-airlines-mn-0840-58e23b.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-08-08T21:22:54Z"
+    },
+    {
+      "title": "LAX people mover sets opening date as YouTuber exposes behind-the-scenes chaos - New York Post",
+      "description": "LAX’s long-delayed airport train was 97% complete in May 2024. More than two years later, it still hasn’t opened, and now it has a new target date.The $3.34 billion project is targeting passenger s…",
+      "url": "https://nypost.com/2026/08/08/us-news/lax-people-mover-was-97-complete-two-years-ago-now-its-finally-targeting-an-october-opening/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-uunfhu7ep-1786223549649.jpg?quality=75&strip=all&1786209198&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-08-08T21:15:00Z"
+    },
+    {
+      "title": "Powerball grows to $856 million, largest drawing of the year - CBS News",
+      "description": "The total is also the eighth-largest Powerball jackpot in the game's history.",
+      "url": "https://www.cbsnews.com/news/powerball-856-million-largest-drawing-of-the-year/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/08/10adacd6-9502-43c5-976e-174662c59445/thumbnail/1200x630/a4dcf7eaac220a218aeb17391d089e76/gettyimages-2231384569.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-08-08T21:07:34Z"
+    },
+    {
+      "title": "Billionaire MacKenzie Scott Is Releasing Third Novel For Free On Substack - Forbes",
+      "description": "Scott, ex-wife of Amazon founder Jeff Bezos, is the 64th richest person in the world.",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/08/billionaire-mackenzie-scott-is-releasing-third-novel-for-free-on-substack/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a778b7d635095a2c8cbc6d6/0x0.jpg?format=jpg&crop=1156,650,x1489,y123,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-08-08T20:05:55Z"
+    },
+    {
+      "title": "Could the struggles of United Wholesale Mortgage impact the Phoenix Suns? - brightsideofthesun.com",
+      "description": "UWM’s difficult quarter has sparked concern, but the Suns’ financial outlook isn’t as simple as the headlines suggest.",
+      "url": "https://www.brightsideofthesun.com/suns-analysis/108658/mat-ishbia-uwm-losses-impact-owner-spending",
+      "urlToImage": "https://platform.brightsideofthesun.com/wp-content/uploads/sites/45/chorus/uploads/chorus_asset/file/25892124/usa_today_25030957.jpg?quality=90&strip=all&crop=0%2C13.861369545652%2C100%2C73.398838126659&w=1200",
+      "source": "Bright Side of the Sun",
+      "publishedAt": "2026-08-08T19:00:00Z"
+    },
+    {
+      "title": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo - AP News",
+      "description": "Two drivers of Mercedes AMG cars have filed a class action lawsuit against the luxury car company, saying that the AMG logo on their driver’s seat gets so hot that it literally brands them and causes burns. A court document filed earlier this week in Californ…",
+      "url": "https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3",
+      "urlToImage": "https://dims.apnews.com/dims4/default/154ee1e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F0b%2F8a84d81f106fb4cf600e60c6e2ab%2F42886605706145b89ace76a77cc0d878",
+      "source": "Associated Press",
+      "publishedAt": "2026-08-08T18:53:00Z"
+    },
+    {
+      "title": "Vegas-bound British Airways flight grounded by raging, swearing passenger - New York Post",
+      "description": "A belligerent British Airways passenger derailed a flight to Vegas when he erupted into a raging fit before take-off — making several vicious attempts at attacking other travelers before bein…",
+      "url": "https://nypost.com/2026/08/08/world-news/drunk-passenger-grounds-las-vegas-bound-british-airways-flight/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136830901.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-08-08T18:38:00Z"
+    },
+    {
+      "title": "57-year-old Burger chain closed 28 restaurants, 100s more coming - thestreet.com",
+      "description": "Shutting down locations has not stopped the financial bleeding, and more locations than planned may close.",
+      "url": "https://www.thestreet.com/restaurants/wendys-more-restaurant-closures-turnaround",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTM5Njc3/cheeseburger.jpg?profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-08-08T17:08:28Z"
+    },
+    {
+      "title": "Caterpillar tariffs send major signal on margins - thestreet.com",
+      "description": "Here's what could happen to CAT stock going forward after earnings.",
+      "url": "https://www.thestreet.com/investing/stocks/cat-caterpillar-tariff-recovery-margins-signal",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTM4NzU4/caterpillar-benefits-from-tariff-refund.jpg?profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-08-08T17:07:00Z"
     }
   ]
 }
