@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2026-08-11T07:22:13.842Z",
+  "updatedAt": "2026-08-12T07:46:12.005Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "13-Story Crown Heights Development Raises Questions Over Housing - COLlive",
-      "description": "Developer Yonah Grunhut filed plans for a 94-unit building at Troy and East New York Avenues, raising concerns over its small apartments and whether they will serve local families. Full Story",
-      "url": "https://collive.com/13-story-crown-heights-development-raises-questions-over-housing/",
-      "urlToImage": "https://collive.com/wp-content/uploads/2026/08/photo-output-5.jpeg",
-      "source": "COLlive - Chabad News",
-      "publishedAt": "2026-08-10T04:18:33Z"
+      "title": "Trump Media reports $238m loss as crypto falls - BBC",
+      "description": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-11T02:21:31Z"
     },
     {
-      "title": "U.A.E.’s Adnoc Gas to Invest More Than $8 Billion in Expansion Push - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/energy-oil/u-a-e-s-adnoc-gas-to-invest-more-than-8-billion-in-expansion-push-cceb572d",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-10T03:45:00Z"
-    },
-    {
-      "title": "In China, ‘Moles’ Are Leaking Official Secrets for Profit - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/world/china/in-china-moles-are-leaking-official-secrets-for-profit-94b156ac",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-10T02:00:00Z"
-    },
-    {
-      "title": "5 Four-Door Family Vehicles Quicker Than A C8 Corvette - SlashGear",
-      "description": "Four-door vehicles quicker than a C8 Corvette include the Rivian R1T, Porsche Cayenne Turbo Electric, and BMW M3 Competition xDrive.",
-      "url": "https://www.slashgear.com/2230596/four-door-family-vehicles-quicker-than-c8-corvette/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-four-door-family-vehicles-quicker-than-a-c8-corvette/l-intro-1785906648.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2026-08-10T01:15:00Z"
-    },
-    {
-      "title": "Vandalized fiber lines cause Verizon service outage for thousands of Southern California customers - ABC7 Los Angeles",
-      "description": "Verizon said vandals cut multiple fiber lines, causing a service interruption for some mobile and internet customers across SoCal.",
-      "url": "https://abc7.com/post/vandalized-fiber-lines-cause-verizon-service-outage-thousands-southern-california-customers/19653900/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19654106_080926-kabc-verizon-sos-issues-tn-img.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-08-10T00:29:54Z"
-    },
-    {
-      "title": "Swiss flight LX52 to Boston declared Mayday mid-Atlantic reporting onboard smoke - airlive",
-      "description": null,
-      "url": "https://airlive.net/emergency/2026/08/09/swiss-light-lx52-to-boston-declared-mayday-mid-atlantic-reporting-onboard-smoke/",
-      "urlToImage": null,
-      "source": "Airlive.net",
-      "publishedAt": "2026-08-09T23:46:44Z"
-    },
-    {
-      "title": "I Tried Every Culver's Seafood Menu Item And This Was Hands-Down The Best - The Takeout",
-      "description": "Culver's seafood menu is among the best, and, while all the items are winners, there is one that is hands-down better than the rest.",
-      "url": "https://www.thetakeout.com/2231104/culvers-seafood-menu-tried-hands-down-best/",
-      "urlToImage": "https://www.thetakeout.com/img/gallery/i-tried-every-culvers-seafood-menu-item-and-this-was-hands-down-the-best/l-intro-1785955097.jpg",
-      "source": "The Takeout",
-      "publishedAt": "2026-08-09T23:40:00Z"
-    },
-    {
-      "title": "Police Activity in NE Albuquerque as Man Fires Gun at Delivery Driver - ABQ RAW",
-      "description": "Albuquerque - There is Albuquerque Police activity reported in the 1100 block of Mary Ellen St NE, between San Jacinto Ave and Walker Dr NE. Details remain somewhat limited at this time but streets in the area have been blocked since shortly before 2:30 PM on…",
-      "url": "https://abqraw.com/post/police-activity-in-ne-albuquerque-as-man-fires-gun-at-delivery-driver/",
-      "urlToImage": "https://abqraw.com/wp-content/uploads/apdpatch-scaled-smaller.jpg",
-      "source": "Abqraw.com",
-      "publishedAt": "2026-08-09T22:44:55Z"
-    },
-    {
-      "title": "Porter Airliines flight in Canada canceled after child refuses to sit down and buckle up - AP News",
-      "description": "A Porter Airlines flight in Canada was canceled last week after a young child refused to sit down and buckle up, forcing the plane back to the terminal and delaying it past the airport’s runway closure. The Toronto-based airline says that the parent and crew …",
-      "url": "https://apnews.com/article/child-standing-seat-flight-canceled-porter-canada-870b2b0d5c6fe04adf8e4ebe984fb2c1",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0473530/2147483647/strip/true/crop/6226x4149+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F59%2F4864adb1f36bbd15afb300d8cf31%2Fe7abf91cb66d4900b51f24ae19faf2a9",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-09T22:17:00Z"
-    },
-    {
-      "title": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates - CNBC",
-      "description": "The three major indexes are coming off their best weeks since April, and the S&P 500 finished Friday at an all-time closing high.",
-      "url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346030-1786028135973-Traders-Photo-20260805-KK-PRESS-004.jpg?v=1786028197&w=1920&h=1080",
+      "title": "Stock futures are steady as investors weigh Iran, Hormuz deal prospects: Live updates - cnbc.com",
+      "description": "Investors weighed signs of progress toward reopening the Strait of Hormuz against doubts that the U.S. and Iran can reach a broader resolution to the conflict.",
+      "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346678-17861152912026-08-07t150406z_1699965828_rc2ptmaa9np4_rtrmadp_0_usa-stocks.jpeg?v=1786115422&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-09T22:14:52Z"
+      "publishedAt": "2026-08-11T02:14:20Z"
     },
     {
-      "title": "Passenger dies mid-flight on LAX-bound plane after multiple CPR attempts - New York Post",
-      "description": "A routine flight to Los Angeles descended into horror Friday morning when a passenger died after suffering a mid-flight fatal medical emergency.",
-      "url": "https://nypost.com/2026/08/09/us-news/passenger-dies-mid-flight-on-lax-bound-plane-after-multiple-cpr-attempts/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/COMP-18-1.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-08-09T21:50:00Z"
+      "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat - Ars Technica",
+      "description": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.",
+      "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-2560x1440.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-11T01:59:56Z"
     },
     {
-      "title": "A fresh look at who's gaining, losing ground in New York City's economy - gothamist.com",
-      "description": "A new state report sheds light on the economic winners and losers amid a growing policy debate.",
-      "url": "https://gothamist.com/news/a-fresh-look-at-whos-gaining-losing-ground-in-new-york-citys-economy",
-      "urlToImage": "https://api-prod.gothamist.com/images/358542/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-08-09T21:36:00Z"
+      "title": "Viral video ignites Shake Shack pricing debate - USA Today",
+      "description": "A customer's claim that non-tippers are being charged more at Shake Shack has recently gone viral and the chain has something to say about it.",
+      "url": "https://www.usatoday.com/story/money/food/2026/08/10/shake-shack-responds-viral-no-tip-surcharge-claim/91247673007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/10/USAT/91249134007-20260213-t-174207-z-281683673-mt-1-usatoday-28226954-rtrmadp-3-theshakeshackrestaurantat-3106-esaginawstnear.JPG?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-08-11T01:11:00Z"
     },
     {
-      "title": "China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com",
-      "description": "The strategy marks a break from Beijing’s reliance on subsidies and state funding.",
-      "url": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWPWrATa6hVs/v1/1200x800.jpg",
+      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks - VentureBeat",
+      "description": "OpenAI’s documents list pricing for GPT-5.6-Cyber at $12.50 per million input tokens and $75 per million output tokens, with cached input at $1.25 per million tokens.",
+      "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/1vFvZadzVgpBpKJvEUCDS9/e9b912eb53c0fda59b01e8676b3613b3/ChatGPT_Image_Aug_10__2026__07_36_04_PM.png?w=800&q=75",
+      "source": "VentureBeat",
+      "publishedAt": "2026-08-10T23:53:23Z"
+    },
+    {
+      "title": "South Korea’s Hanwha Makes $1 Billion Push Into U.S. Naval Shipbuilding - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/logistics-report/south-koreas-hanwha-makes-1-billion-push-into-u-s-naval-shipbuilding-24be09ab",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-10T23:20:00Z"
+    },
+    {
+      "title": "Food safety crisis deepens for Taylor Farms with salmonella outbreak - Axios",
+      "description": "Taylor Farms is engulfed in a food safety crisis that's ensnaring some of the biggest consumer brands in the U.S.",
+      "url": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms",
+      "urlToImage": "https://images.axios.com/K7RgoVHOKnJRkgiWHonUtVuiYgo=/0x25:5000x2837/1366x768/2026/08/10/1786391814436.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-08-10T22:48:12Z"
+    },
+    {
+      "title": "Apple Reportedly Testing Controversial Chinese Chips as Memory Supply Crunch Intensifies - Gizmodo",
+      "description": "Apple is allegedly testing chips from a chipmaker that the Trump Admin considers a Chinese military company.",
+      "url": "https://gizmodo.com/apple-reportedly-testing-controversial-chinese-chips-as-memory-supply-crunch-intensifies-2000796483",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/04/tim-cook-donald-trump-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-08-10T22:27:18Z"
+    },
+    {
+      "title": "July CPI Expected to Bounce Back After Unexpected June Inflation Decline - Morningstar",
+      "description": "Economists see a slight overall softening in inflation, but price pressures remain above the Fed’s target.",
+      "url": "https://www.morningstar.com/economy/july-cpi-expected-bounce-back-after-unexpected-june-inflation-decline",
+      "urlToImage": "https://media.morningstar.com/resizer/v2/OT3JWXZDNJHETMJFE63MTVZBRM.png?auth=6ba570a66f3b9a062bb2e315d42efde5f2c358fcb9cddd56866d166c4553a3f4&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
+      "source": "Morningstar.com",
+      "publishedAt": "2026-08-10T21:30:58Z"
+    },
+    {
+      "title": "BRKB Stock: Investors Are Starting To Look Past Warren Buffett - Investor's Business Daily",
+      "description": "The BRKB stock chart offers a clue about positive shift in investor sentiment.",
+      "url": "https://www.investors.com/news/brkb-stock-rises-berkshire-hathaway-investors-looking-past-warren-buffett/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/02/Stock-BerkshireHathaway-buy-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-08-10T21:12:00Z"
+    },
+    {
+      "title": "Canada flight cancelled after child refuses to wear seat belt - BBC",
+      "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "url": "https://www.bbc.com/news/articles/cj6307x3wdgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca08/live/f3ccb1a0-94f6-11f1-9181-85140b8ce01b.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-10T21:06:27Z"
+    },
+    {
+      "title": "US Drone Ban Explained: What You Can and Can't Buy in 2026 - PCMag",
+      "description": "Following its ban on new foreign-made drones and DJI cameras, the FCC is now revoking prior approvals for existing devices. Here's what it means for current owners and prospective buyers.",
+      "url": "https://www.pcmag.com/news/us-drone-ban-explained-what-you-can-and-cant-buy-in-2026",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/04qJgJ20u7bCa7PnywhKcxF-1.fit_lim.size_1200x630.v1786394695.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2026-08-10T21:01:44Z"
+    },
+    {
+      "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug - Investor's Business Daily",
+      "description": "TSMC said its sales in July rose nearly 6% from June and 45% year over year thanks to strong demand for AI chips. But TSM stock wavered.",
+      "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/01/Stock-TSMC-receptiondesk-02-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-08-10T21:01:00Z"
+    },
+    {
+      "title": "Supermicro to report Q4 results in latest test for AI infrastructure company - Yahoo Finance",
+      "description": "Super Micro will report its Q4 results after the bell Tuesday.",
+      "url": "https://finance.yahoo.com/technology/article/supermicro-to-report-q4-results-in-latest-test-for-ai-infrastructure-company-210004983.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/C4261056D58FF84DDF18062EBF69269468B4B2CEB5B4828BBF3C99B792E84AEB/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F2efbdddf-7ecd-4096-9fc5-b1b60aea67ff",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-10T21:00:04Z"
+    },
+    {
+      "title": "Intel to Sell $15 Billion in Stock After AI Boosts Demand - Bloomberg.com",
+      "description": "Intel Corp. is offering $15 billion worth of new stock in what represents its first public share sale since the chipmaker listed in 1971, a bid to extend its comeback and capitalize on the AI boom.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP1tQHCJVzOw/v1/1200x799.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-08-09T21:00:19Z"
+      "publishedAt": "2026-08-10T20:51:30Z"
     },
     {
-      "title": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target - BeInCrypto",
-      "description": "BofA, JPMorgan & Oppenheimer name their top 3 AI stocks. See the $255 Palantir target, $365 Amazon call and $400 Lam Research price target.",
-      "url": "https://beincrypto.com/bofa-jpmorgan-oppenheimer-favorite-ai-stocks-targets/",
-      "urlToImage": "https://assets.beincrypto.com/img/GnZIGVnyl-gGAeHyW3BboiNtT7M=/1200x630/smart/filters:format(jpeg):quality(82)/037bae950674434ab8340431289668bb",
-      "source": "BeInCrypto",
-      "publishedAt": "2026-08-09T20:53:00Z"
-    },
-    {
-      "title": "McDonald’s making some big changes to its menu - thestreet.com",
+      "title": "Rocket Lab Stock Pares Losses After Mixed Earnings Report - Barron's",
       "description": null,
-      "url": "https://www.thestreet.com/restaurants/mcdonalds-is-making-some-big-changes-to-its-menu",
+      "url": "https://www.barrons.com/articles/rocket-lab-earnings-stock-price-23b3d1ad",
       "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-08-09T20:40:41Z"
+      "source": "Barron's",
+      "publishedAt": "2026-08-10T20:48:00Z"
     },
     {
-      "title": "87-year-old Home Depot hardware rival closes shop for good - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/retail/87-year-old-vernon-hardware-closes-permanently",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-08-09T20:28:36Z"
+      "title": "Amazon funds biggest gas power plant in US despite climate pledge - Ars Technica",
+      "description": "Amazon announces first off-the-grid data center in race to reap AI profits.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-10T20:45:52Z"
     },
     {
-      "title": "At Whatnot, Some Are Bidding Away Their Bank Accounts - Newser",
-      "description": "WSJ looks at the pitfalls of the live-shopping app exploding in popularity",
-      "url": "https://www.newser.com/story/394120/at-whatnot-some-are-bidding-away-their-bank-accounts.html",
-      "urlToImage": "https://cdn.newser.com/image/1703628-12-20260809154418.jpeg",
-      "source": "Newser",
-      "publishedAt": "2026-08-09T20:15:00Z"
+      "title": "SpaceX Stock Keeps Rising After Lockup Rally Ahead of the Next Share Unlock - Barron's",
+      "description": "After trading flat for much of the day, shares of Elon Musk’s space company closed up 4.2% at $138.74.",
+      "url": "https://www.barrons.com/articles/spacex-stock-price-shares-release-15ccc02c",
+      "urlToImage": "https://images.barrons.com/im-14000031/social",
+      "source": "Barron's",
+      "publishedAt": "2026-08-10T20:23:00Z"
     }
   ]
 }
