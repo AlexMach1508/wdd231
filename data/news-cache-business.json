@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-08-12T07:46:12.005Z",
+  "updatedAt": "2026-08-13T07:47:06.554Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Trump Media reports $238m loss as crypto falls - BBC",
-      "description": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
-      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-08-11T02:21:31Z"
+      "title": "CoreWeave narrows Q2 losses, stock climbs 8% - finance.yahoo.com",
+      "description": "AI cloud provider CoreWeave reported its Q2 earnings after the bell on Tuesday, narrowing its losses per share and meeting expectations on revenue for the qu...",
+      "url": "https://finance.yahoo.com/technology/article/coreweave-narrows-q2-losses-stock-climbs-8-193036479.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2D65CE603BBE803980CEF46D32FA78401C8F455DFCFDC08F52E292E532BBAF54/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F7b608d6e-6546-46a4-9614-54bb51ea009f",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-12T04:51:00Z"
     },
     {
-      "title": "Stock futures are steady as investors weigh Iran, Hormuz deal prospects: Live updates - cnbc.com",
-      "description": "Investors weighed signs of progress toward reopening the Strait of Hormuz against doubts that the U.S. and Iran can reach a broader resolution to the conflict.",
-      "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346678-17861152912026-08-07t150406z_1699965828_rc2ptmaa9np4_rtrmadp_0_usa-stocks.jpeg?v=1786115422&w=1920&h=1080",
+      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide - CNBC",
+      "description": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
+      "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256804-1769399144405-gettyimages-1434221345-y_r_7071.jpeg?v=1770775676&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-11T02:14:20Z"
+      "publishedAt": "2026-08-12T03:36:00Z"
     },
     {
-      "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat - Ars Technica",
-      "description": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.",
-      "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-2560x1440.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-11T01:59:56Z"
+      "title": "Toyota recalls 655K Camrys globally over display defect that can knock out safety indicators - Fox Business",
+      "description": "Toyota recalled about 655,000 Camry vehicles globally over a display error that may deactivate turn signals and hazard lights.",
+      "url": "https://www.foxbusiness.com/lifestyle/toyota-recalls-655k-camrys-globally-over-display-defect-can-knock-out-safety-indicators",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/toyota-camry-hybrid-le.png?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-12T03:21:00Z"
     },
     {
-      "title": "Viral video ignites Shake Shack pricing debate - USA Today",
-      "description": "A customer's claim that non-tippers are being charged more at Shake Shack has recently gone viral and the chain has something to say about it.",
-      "url": "https://www.usatoday.com/story/money/food/2026/08/10/shake-shack-responds-viral-no-tip-surcharge-claim/91247673007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/10/USAT/91249134007-20260213-t-174207-z-281683673-mt-1-usatoday-28226954-rtrmadp-3-theshakeshackrestaurantat-3106-esaginawstnear.JPG?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-11T01:11:00Z"
+      "title": "30,000 pounds of beef from Argentina recalled in two states - washingtonpost.com",
+      "description": "A recall of beef products from Corte Argentino USA affects retailers and grocery distributors in Texas and Florida.",
+      "url": "https://www.washingtonpost.com/health/2026/08/11/30000-pounds-beef-argentina-recalled-two-states/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LUKJJR7BQYVJSELULX5NXFBADU_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-08-12T02:34:30Z"
     },
     {
-      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks - VentureBeat",
-      "description": "OpenAI’s documents list pricing for GPT-5.6-Cyber at $12.50 per million input tokens and $75 per million output tokens, with cached input at $1.25 per million tokens.",
-      "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
-      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/1vFvZadzVgpBpKJvEUCDS9/e9b912eb53c0fda59b01e8676b3613b3/ChatGPT_Image_Aug_10__2026__07_36_04_PM.png?w=800&q=75",
-      "source": "VentureBeat",
-      "publishedAt": "2026-08-10T23:53:23Z"
+      "title": "Stock futures are little changed ahead of Wednesday's big inflation report: Live updates - CNBC",
+      "description": "Investors are bracing for an important inflation report that could determine the near-term direction for interest rates.",
+      "url": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108345370-17859444502026-08-05t144724z_1880621099_rc2dsma0b0vy_rtrmadp_0_usa-stocks.jpeg?v=1785944551&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-12T02:12:22Z"
     },
     {
-      "title": "South Korea’s Hanwha Makes $1 Billion Push Into U.S. Naval Shipbuilding - WSJ",
+      "title": "Cracker Barrel’s CEO Was Plotting a Turnaround—but Opened the Door to Her Own Exit - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/logistics-report/south-koreas-hanwha-makes-1-billion-push-into-u-s-naval-shipbuilding-24be09ab",
+      "url": "https://www.wsj.com/business/hospitality/cracker-barrel-new-ceo-change-6cbef50b",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-10T23:20:00Z"
+      "publishedAt": "2026-08-12T02:00:00Z"
     },
     {
-      "title": "Food safety crisis deepens for Taylor Farms with salmonella outbreak - Axios",
-      "description": "Taylor Farms is engulfed in a food safety crisis that's ensnaring some of the biggest consumer brands in the U.S.",
-      "url": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms",
-      "urlToImage": "https://images.axios.com/K7RgoVHOKnJRkgiWHonUtVuiYgo=/0x25:5000x2837/1366x768/2026/08/10/1786391814436.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-08-10T22:48:12Z"
+      "title": "Super Micro targets $65B-$72B FY 2027 revenue as it guides Q1 sales of $14.5B-$15.5B (NASDAQ:SMCI) - Seeking Alpha",
+      "description": "SMCI Q4 FY2026 earnings call recap: record revenue, $60B+ orders, AI mix, margin surge and FY2027 outlook ($65B-$72B).",
+      "url": "https://seekingalpha.com/news/4631194-super-micro-targets-65b-72b-fy-2027-revenue-as-it-guides-q1-sales-of-14_5b-15_5b",
+      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-08-12T01:47:53Z"
     },
     {
-      "title": "Apple Reportedly Testing Controversial Chinese Chips as Memory Supply Crunch Intensifies - Gizmodo",
-      "description": "Apple is allegedly testing chips from a chipmaker that the Trump Admin considers a Chinese military company.",
-      "url": "https://gizmodo.com/apple-reportedly-testing-controversial-chinese-chips-as-memory-supply-crunch-intensifies-2000796483",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/04/tim-cook-donald-trump-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-08-10T22:27:18Z"
+      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data - CNBC",
+      "description": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+      "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108291072-17761734872026-04-14t090502z_1765770947_rc2sokaecd2n_rtrmadp_0_tesla-china.jpeg?v=1776173500&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-12T01:20:00Z"
     },
     {
-      "title": "July CPI Expected to Bounce Back After Unexpected June Inflation Decline - Morningstar",
-      "description": "Economists see a slight overall softening in inflation, but price pressures remain above the Fed’s target.",
-      "url": "https://www.morningstar.com/economy/july-cpi-expected-bounce-back-after-unexpected-june-inflation-decline",
-      "urlToImage": "https://media.morningstar.com/resizer/v2/OT3JWXZDNJHETMJFE63MTVZBRM.png?auth=6ba570a66f3b9a062bb2e315d42efde5f2c358fcb9cddd56866d166c4553a3f4&quality=80&height=1350&width=2400&crop=0,0:2400,1350",
-      "source": "Morningstar.com",
-      "publishedAt": "2026-08-10T21:30:58Z"
-    },
-    {
-      "title": "BRKB Stock: Investors Are Starting To Look Past Warren Buffett - Investor's Business Daily",
-      "description": "The BRKB stock chart offers a clue about positive shift in investor sentiment.",
-      "url": "https://www.investors.com/news/brkb-stock-rises-berkshire-hathaway-investors-looking-past-warren-buffett/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/02/Stock-BerkshireHathaway-buy-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-10T21:12:00Z"
-    },
-    {
-      "title": "Canada flight cancelled after child refuses to wear seat belt - BBC",
-      "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-      "url": "https://www.bbc.com/news/articles/cj6307x3wdgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca08/live/f3ccb1a0-94f6-11f1-9181-85140b8ce01b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-08-10T21:06:27Z"
-    },
-    {
-      "title": "US Drone Ban Explained: What You Can and Can't Buy in 2026 - PCMag",
-      "description": "Following its ban on new foreign-made drones and DJI cameras, the FCC is now revoking prior approvals for existing devices. Here's what it means for current owners and prospective buyers.",
-      "url": "https://www.pcmag.com/news/us-drone-ban-explained-what-you-can-and-cant-buy-in-2026",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/04qJgJ20u7bCa7PnywhKcxF-1.fit_lim.size_1200x630.v1786394695.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2026-08-10T21:01:44Z"
-    },
-    {
-      "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug - Investor's Business Daily",
-      "description": "TSMC said its sales in July rose nearly 6% from June and 45% year over year thanks to strong demand for AI chips. But TSM stock wavered.",
-      "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/01/Stock-TSMC-receptiondesk-02-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-10T21:01:00Z"
-    },
-    {
-      "title": "Supermicro to report Q4 results in latest test for AI infrastructure company - Yahoo Finance",
-      "description": "Super Micro will report its Q4 results after the bell Tuesday.",
-      "url": "https://finance.yahoo.com/technology/article/supermicro-to-report-q4-results-in-latest-test-for-ai-infrastructure-company-210004983.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/C4261056D58FF84DDF18062EBF69269468B4B2CEB5B4828BBF3C99B792E84AEB/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F2efbdddf-7ecd-4096-9fc5-b1b60aea67ff",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-10T21:00:04Z"
-    },
-    {
-      "title": "Intel to Sell $15 Billion in Stock After AI Boosts Demand - Bloomberg.com",
-      "description": "Intel Corp. is offering $15 billion worth of new stock in what represents its first public share sale since the chipmaker listed in 1971, a bid to extend its comeback and capitalize on the AI boom.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP1tQHCJVzOw/v1/1200x799.jpg",
+      "title": "China Races to Solve $148 Billion Property Threat as Leases End - Bloomberg.com",
+      "description": "Officials are trying to fix a problem that has hung over the sector for years.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-real-estate-market-races-to-defuse-a-148-billion-time-bomb",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivj18XieRUL0/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-08-10T20:51:30Z"
+      "publishedAt": "2026-08-11T23:00:17Z"
     },
     {
-      "title": "Rocket Lab Stock Pares Losses After Mixed Earnings Report - Barron's",
+      "title": "SpaceX Stock Could Reach $600, According to Morgan Stanley. Here’s How. - The Motley Fool",
+      "description": "Behind the eye-popping $600 price target lies a tower of assumptions.",
+      "url": "https://www.fool.com/investing/2026/08/11/spacex-stock-could-reach-600-according-to-morgan-stanley-heres-how/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc9bdd288af1f6e4edf499325370759e54a071554-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-08-11T22:45:00Z"
+    },
+    {
+      "title": "Credit card debt rises to $1.26 trillion, nearing all-time record - ABC News - Breaking News, Latest News and Videos",
       "description": null,
-      "url": "https://www.barrons.com/articles/rocket-lab-earnings-stock-price-23b3d1ad",
+      "url": "https://abcnews.com/US/credit-card-debt-rises-126-trillion-nearing-time/story?id\\\\u003d135556533",
       "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2026-08-10T20:48:00Z"
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-11T22:37:16Z"
     },
     {
-      "title": "Amazon funds biggest gas power plant in US despite climate pledge - Ars Technica",
-      "description": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-10T20:45:52Z"
+      "title": "Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social. - CBS News",
+      "description": "Customers are paying up to $100,000 a month for faster access to Truth Social posts from President Trump and other top users of the social media platform.",
+      "url": "https://www.cbsnews.com/news/trump-media-truth-social-api-contracts/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/17/c5e9e86b-42f9-4909-a408-0664a9d315fd/thumbnail/1200x630/1a453c3e81ec8e4cf9f0b490851bde5f/cbsn-fusion-stocks-for-trumps-truth-social-tank-thumbnail-2843327-640x360.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-08-11T22:20:00Z"
     },
     {
-      "title": "SpaceX Stock Keeps Rising After Lockup Rally Ahead of the Next Share Unlock - Barron's",
-      "description": "After trading flat for much of the day, shares of Elon Musk’s space company closed up 4.2% at $138.74.",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-shares-release-15ccc02c",
-      "urlToImage": "https://images.barrons.com/im-14000031/social",
-      "source": "Barron's",
-      "publishedAt": "2026-08-10T20:23:00Z"
+      "title": "Asian Stocks to Slip With US CPI, Iran in Focus: Markets Wrap - Bloomberg.com",
+      "description": "Asian stocks rose and US equity-index futures advanced as strong earnings from technology companies lured investors back into the artificial intelligence trade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqYiluY1EVJM/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-11T22:07:25Z"
+    },
+    {
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - cnbc.com",
+      "description": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108317415-1780669966906-gettyimages-2279256214-SKOREA_NVIDIA.jpeg?v=1781563682&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-11T21:01:13Z"
+    },
+    {
+      "title": "Is It Safe to Eat Lettuce Yet? - WIRED",
+      "description": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
+      "url": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
+      "urlToImage": "https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/191:100/w_1280,c_limit/Lettuce-.gif",
+      "source": "Wired",
+      "publishedAt": "2026-08-11T20:26:00Z"
+    },
+    {
+      "title": "Major US airport getting new tech to prevent runway incidents - Fox Business",
+      "description": "The FAA deployed new surface movement radar at Newark Liberty International Airport, replacing 30-year-old technology to track aircraft in all weather.",
+      "url": "https://www.foxbusiness.com/lifestyle/major-us-airport-getting-new-tech-prevent-runway-incidents",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/jetblue-flights-newark.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-11T20:13:00Z"
+    },
+    {
+      "title": "Oracle has drawn up plans for a new round of layoffs this month, sources say - Business Insider",
+      "description": "The potential layoffs reduce Oracle's payroll as it racks up billions in debt to fund AI infrastructure.",
+      "url": "https://www.businessinsider.com/oracle-is-planning-another-round-of-job-cuts-this-month-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a7b4d21bd87410e364d11ab?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-11T20:08:27Z"
+    },
+    {
+      "title": "Democratic attorneys general suing Trump administration over new interest rules for homeowners - The Hill",
+      "description": "A group of Democratic state attorneys general is suing the Trump administration to block its attempt to invalidate state requirements that mortgage lenders pay homeowners interest on money deposited into escrow accounts, calling it an “unlawful handout” to bi…",
+      "url": "https://thehill.com/homenews/state-watch/6023349-democratic-attorneys-general-suing-trump-administration-over-new-interest-rules-for-homeowners/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/04/AP24241718196972.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2026-08-11T20:07:00Z"
+    },
+    {
+      "title": "SpaceX Stock Falls Back Below IPO Price, Snaps Three-Day Streak - Investor's Business Daily",
+      "description": "SpaceX rose nearly 30% over the prior three sessions.",
+      "url": "https://www.investors.com/news/spacex-rocket-lab-elon-musk-rocket-lab-ast-spacemobile-space-industry/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/09/stock-SpaceX-starshipBuild-01-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-08-11T20:05:00Z"
     }
   ]
 }
