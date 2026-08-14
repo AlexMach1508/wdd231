@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-08-13T07:47:06.429Z",
+  "updatedAt": "2026-08-14T07:45:26.121Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders - 9to5Google",
-      "description": "With less than 24 hours to go until the company’s Pixel 11 launch event, Google is sending $150 discount codes...",
-      "url": "http://9to5google.com/2026/08/11/google-pixel-11-discount-code-email/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Pro-teaser-2a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2026-08-12T02:30:00Z"
-    },
-    {
-      "title": "Phantom Blade Zero pre-orders now available, 11-minute trailer; dedicated State of Play set for August 17 - Gematsu",
-      "description": "S-GAME has opened pre-orders and released an 11-minute trailer for Wuxia action RPG Phantom Blade Zero.",
-      "url": "https://www.gematsu.com/2026/08/phantom-blade-zero-pre-orders-now-available-11-minute-trailer-dedicated-state-of-play-set-for-august-17",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/08/Phantom-Blade-Zero-Pre-Order_08-11-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-08-12T02:06:03Z"
-    },
-    {
-      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT - The Verge",
-      "description": "Saber Interactive’s CEO has denied that it has replaced any game writers with AI after former Rideshare “Stimulator” lead writer Stella Sacco claimed Saber “replaced me with ChatGPT.”",
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-08-12T00:39:00Z"
-    },
-    {
-      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen - The Verge",
-      "description": "A Redditor has legit-looking photos of a prototype Xbox controller that’s almost certainly the Xbox Elite Series 3.",
-      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-08-11T22:36:35Z"
-    },
-    {
-      "title": "What to know as your driver's license gets a digital upgrade - PBS",
-      "description": "Your old plastic driver's license could soon be getting a digital upgrade. Multiplatform producer Tim McPhillips walks us through four things you should know, including some of the benefits and some of the concerns.",
-      "url": "https://www.pbs.org/newshour/show/what-to-know-as-your-drivers-license-gets-a-digital-upgrade",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/hands-holding-phone-GettyImages-184060520-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-08-11T22:25:07Z"
-    },
-    {
-      "title": "Xbox CEO Asha Sharma Gushes About Elder Scrolls VI, Does Not Seem To Notice Giant Rat On Bethesda Office Lawn - Aftermath",
-      "description": "Please clap (instead of talking about layoffs)",
-      "url": "https://aftermath.site/xbox-asha-sharma-elder-scrolls-vi-bethesda-giant-rat/",
-      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/20260811_095802.jpg",
-      "source": "Aftermath.site",
-      "publishedAt": "2026-08-11T21:40:26Z"
-    },
-    {
-      "title": "Apple Extends 2026 Back to School Promotion Until September 24 - MacRumors",
-      "description": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension...",
-      "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
-      "urlToImage": "https://images.macrumors.com/t/kVX3vjJ2eDLyestsvkmj3YZPffM=/1600x/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-08-11T20:52:37Z"
-    },
-    {
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack - The Hacker News",
-      "description": "Microsoft patches 398 flaws, including exploited CVE-2026-68820 that lets local attackers reach SYSTEM, plus four unauthenticated 9.8 RCEs.",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
-      "source": "Internet",
-      "publishedAt": "2026-08-11T20:10:00Z"
-    },
-    {
-      "title": "Ultra rare Nintendo Mario game cartridges discovered in Wisconsin - AP News",
-      "description": "A set of unique, extremely rare Super Mario cartridges was found in a gaming store in Waukesha, Wisconsin, and will be auctioned off starting Friday. Jason Ganos with Nintendo Wire said he discovered the products after they had been hidden away in a storage u…",
-      "url": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2",
-      "urlToImage": "https://dims.apnews.com/dims4/default/517f034/2147483647/strip/true/crop/1000x666+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F3a%2F26e1fd440e90871ec53bb7407bfa%2Fd0e1fa3bbd504cca9472a9d128b7f6c3",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-11T20:02:00Z"
-    },
-    {
-      "title": "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels - IGN",
-      "description": "Pearl Abyss has detailed its plans for smash hit action role-playing game Crimson Desert, confirming it is exploring multiplayer modes. Meanwhile, we have a target launch window for the Nintendo Switch 2 version, and talk of potential sequels.",
-      "url": "https://www.ign.com/articles/crimson-desert-dev-conducting-extensive-research-on-multiplayer-modes-plots-potential-sequels",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/18/cd-blogroll-1773860824069.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-08-11T19:57:21Z"
-    },
-    {
-      "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman - 9to5Mac",
-      "description": "Mark Gurman says that ‘iPhone Ultra’ is the name widely used within Apple when referring to the upcoming foldable model.",
-      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-08-11T19:40:00Z"
-    },
-    {
-      "title": "Man Covers Car in Special Wrap That Breaks Flock Cameras’ Electronic Brains - Futurism",
-      "description": "A researcher has come up with a special, computer-generated pattern wrap that can allow a car to evade detection from Flock's cameras.",
-      "url": "https://futurism.com/artificial-intelligence/man-covers-car-special-wrap-flock-cameras",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/08/man-covers-car-special-wrap-flock-cameras.jpg?w=1200",
-      "source": "Futurism",
-      "publishedAt": "2026-08-11T19:21:04Z"
-    },
-    {
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client - The Hacker News",
-      "description": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities.",
-      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s1600/zoomsday.jpg",
-      "source": "Internet",
-      "publishedAt": "2026-08-11T19:08:00Z"
-    },
-    {
-      "title": "Stop Killing Games Joins Lawsuit Against Sony Over Its ‘Total Control Of PlayStation Store Pricing’ - Kotaku",
-      "description": "Both Stop Killing Games and DoesItPlay are lending their support to a lawsuit against the digital 'monopoly'",
-      "url": "https://kotaku.com/stop-killing-games-joins-lawsuit-against-sony-over-its-total-control-of-playstation-store-pricing-2000723377",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/08/Stop-Killing-Games-official-logo-1200x675.jpg",
+      "title": "Saber CEO Makes Rideshare's Undisclosed AI Mess Even Worse - Kotaku",
+      "description": "Matt Karch said a missing Steam disclosure will be added eventually",
+      "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/08/rideshare-1-1200x675.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-08-11T17:53:14Z"
+      "publishedAt": "2026-08-13T04:42:19Z"
     },
     {
-      "title": "Tesla's New 'Preferred Routes' Doesn't Require the Summer Update - notateslaapp.com",
-      "description": "One of Tesla's most exciting Summer Update features does not require receiving the 2026.26 vehicle update.",
-      "url": "https://www.notateslaapp.com/news/4566/teslas-new-preferred-routes-doesnt-require-the-summer-update",
-      "urlToImage": "https://www.notateslaapp.com/img/containers/article_images/2026/preferred-routes-1.webp/19e1a679c8c7b8399faafa6232a631ad/preferred-routes-1.jpg",
-      "source": "Notateslaapp.com",
-      "publishedAt": "2026-08-11T17:44:00Z"
+      "title": "Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable",
+      "description": "No surprises here, just new phones.",
+      "url": "https://mashable.com/tech/made-by-google-2026-pixel-11-event-everything-announced",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03mLdCgCWLITXqBminRPP6c/hero-image.fill.size_1200x675.v1786567658.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-08-12T23:44:50Z"
     },
     {
-      "title": "FDA approves Samsung's Hearing Aid feature on Galaxy Buds - GSMArena.com news - GSMArena.com",
-      "description": "The Galaxy Buds3 Pro and Buds4 Pro just became cost-effective and easy-to-use hearing aid devices. Samsung has been improving its health-tracking features...",
-      "url": "https://www.gsmarena.com/fda_approves_samsungs_hearing_aid_feature_on_galaxy_buds-news-74121.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/04/galaxy-buds4-pro-firmware-update/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-08-11T17:31:02Z"
+      "title": "Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-12T22:30:00Z"
     },
     {
-      "title": "iOS 27 public beta 3 is here with Siri AI, iPhone speed upgrades, and more - 9to5Mac",
-      "description": "The third iOS 27 public beta is now available for iPhone. It gives users an early chance to try Apple’s...",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2026-08-11T17:22:00Z"
+      "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros. - IGN",
+      "description": "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros.",
+      "url": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/06/06/hogwartslegacy-switch2review-blogroll-1749233453856.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-12T21:22:25Z"
     },
     {
-      "title": "Dive Beneath the Surface in Grounded 2’s Biggest Update Yet: Into the Abyss - XBOX Wire",
-      "description": "Take the plunge today as Grounded 2's largest content update yet, Into the Abyss, opens an expansive new underwater adventure.",
-      "url": "https://news.xbox.com/en-us/2026/08/11/grounded-2-into-the-abyss-update-xbox/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/Summer_Update_KeyArt_Horizontal_4K_JPG-4e463c74746ac84a0063.jpg",
+      "title": "Things I Said Out Loud While Suffering Through King's Field 4 - Kotaku",
+      "description": "This is just like Dark Souls",
+      "url": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/08/kingsfield43-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-08-12T20:30:44Z"
+    },
+    {
+      "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
+      "description": "Microsoft has announced a pair of highly-detailed Gears of War: E-Day Limited Edition Xbox controllers, which look just as gruff and grizzled as you'd expect.",
+      "url": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/12/screenshot-2026-08-12-151416-1786544106177.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-12T19:33:53Z"
+    },
+    {
+      "title": "Kinetic Publishing Showcase Recap: Every Reveal, Including the New Sam Barlow Game - XBOX Wire",
+      "description": "Kinetic Publishing just held its first ever showcase - here are all the details on the five games included.",
+      "url": "https://news.xbox.com/en-us/2026/08/12/kinetic-publishing-showcase-recap-sam-barlow/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/KP_all_ganes_hero_16x9_v3-0b961b71e63e8ebfa89a.jpg",
       "source": "Xbox.com",
-      "publishedAt": "2026-08-11T17:01:38Z"
+      "publishedAt": "2026-08-12T19:32:10Z"
+    },
+    {
+      "title": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag - MacRumors",
+      "description": "Google today introduced the Pixel Tag, its answer to Apple's AirTag. Pixel Tag is Google's first item tracker, even though Google implemented...",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
+      "urlToImage": "https://images.macrumors.com/t/znp98m1jRfdDZmukwnm0HIbzWiU=/1739x/article-new/2026/08/google-pixel-tag-design.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-08-12T18:52:17Z"
+    },
+    {
+      "title": "iPhone 18 Pro set to become Apple’s new default model - 9to5Mac",
+      "description": "iPhone 18 Pro is being unveiled soon, and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before.",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-08-12T17:50:00Z"
+    },
+    {
+      "title": "Final Fantasy Resonance Shows Off 11-Minute Shiva Battle and Squall Summon on PS5 - Push Square",
+      "description": "Whatever",
+      "url": "https://www.pushsquare.com/news/2026/08/final-fantasy-resonance-shows-off-11-minute-shiva-battle-and-squall-summon-on-ps5",
+      "urlToImage": "https://images.pushsquare.com/b26e5818f5f55/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-08-12T17:30:00Z"
+    },
+    {
+      "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak - 9to5Mac",
+      "description": "iPhone Ultra will be unveiled next month, and a new leak indicates the device’s front cameras could be positioned in unusual spots.",
+      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2026-08-12T17:27:00Z"
+    },
+    {
+      "title": "Amazon Is Offering a Great Deal on a GeForce RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games - IGN",
+      "description": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
+      "url": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/11/acerpredatororion-1786485689059.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-12T16:20:00Z"
+    },
+    {
+      "title": "Phantom Blade Zero PS5 Demo Leaks Before Next Week's State of Play - Push Square",
+      "description": "The PS Store strikes again",
+      "url": "https://www.pushsquare.com/news/2026/08/phantom-blade-zero-ps5-demo-leaks-before-next-weeks-state-of-play",
+      "urlToImage": "https://images.pushsquare.com/3a00235411a9e/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-08-12T16:00:00Z"
+    },
+    {
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms - BleepingComputer",
+      "description": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign.",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-08-12T15:38:08Z"
+    },
+    {
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
+      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12T15:18:55Z"
+    },
+    {
+      "title": "‘Palworld’ Patch Notes: Big Buffs For Way Less Grinding - forbes.com",
+      "description": "Here are the Palworld patch notes for its latest update, which significantly nerfs some of the most annoying grinds in the game.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/12/palworld-patch-notes-big-buffs-for-way-less-grinding/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a64ac61c8dfb6888f9e71cf/0x0.jpg?format=jpg&crop=2562,1439,x255,y0,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-08-12T14:42:57Z"
+    },
+    {
+      "title": "8 Best Uses For The Samsung Galaxy Z Fold 8's Wide Screen - bgr.com",
+      "description": "With its wide 4:3 inner screen, the passport-shaped Samsung Galaxy Z Fold 8 makes it easier than ever to read, write, game, and even work on mobile.",
+      "url": "https://www.bgr.com/2232536/best-uses-samsung-galaxy-z-fold-8-screen/",
+      "urlToImage": "https://www.bgr.com/img/gallery/8-best-uses-for-the-samsung-galaxy-z-fold-8s-wide-screen/l-intro-1786120519.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-08-12T14:02:00Z"
     }
   ]
 }
