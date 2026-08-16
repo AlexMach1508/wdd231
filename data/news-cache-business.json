@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2026-08-15T06:53:05.746Z",
+  "updatedAt": "2026-08-16T06:54:35.793Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-14T00:42:00Z"
+      "title": "1.5 million dozen recalled eggs receive FDA’s highest-risk warning - washingtonpost.com",
+      "description": "The July recall affects retail stores and food service providers in six states.",
+      "url": "https://www.washingtonpost.com/health/2026/08/14/15-million-dozen-recalled-eggs-receive-fdas-highest-risk-warning/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SJ7RHZ4B34FLJ4VAZSXCVTOSJI.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-08-15T02:43:34Z"
     },
     {
-      "title": "Billionaire Bill Ackman Just Invested 5% of Pershing Square Capital Management's Portfolio in Netflix. Should Investors Follow Suit? - The Motley Fool",
-      "description": "While the business has been delivering dependable growth, the stock has been crushed, creating an enticing opportunity.",
-      "url": "https://www.fool.com/investing/2026/08/13/billionaire-bill-ackman-just-invested-5-of-pershing-square-capital-management-s-portfolio-in-netflix-should-investors-follow-suit/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf2c04c72d4443f72b53209e7360fdbb004d4547-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-08-13T23:52:00Z"
+      "title": "Trump-linked World Liberty crypto venture gets preliminary approval from currency comptroller - Fox Business",
+      "description": "World Liberty Financial's proposed national trust bank would issue and manage the USD1 stablecoin under OCC supervision, but key preopening hurdles remain.",
+      "url": "https://www.foxbusiness.com/politics/trump-linked-world-liberty-crypto-venture-gets-preliminary-approval-from-currency-comptroller",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/donald-trump-ankara.png?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-15T00:33:00Z"
     },
     {
-      "title": "United Airlines Flight 455 blows tire during takeoff at Chicago O'Hare International Airport: FAA; video shows emergency response - ABC7 Chicago",
-      "description": "A United Airlines plane blew a tire during takeoff Thursday at O'Hare airport, the FAA said. Video showed the emergency response on the runway.",
-      "url": "https://abc7chicago.com/post/emergency-response-involving-united-airlines-plane-seen-chicago-ohare-international-airport-video-shows/19674043/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19674050_081326-wls-united-emergency-clean-img.jpg?w=1600",
-      "source": "WLS-TV",
-      "publishedAt": "2026-08-13T23:28:11Z"
-    },
-    {
-      "title": "Tyson Foods Will Close or Sell Three U.S. Beef Facilities as Industry Struggles - Successful Farming",
-      "description": "Tyson Foods said on Thursday it will close or sell three of its beef plant and packaging operation sites, further shrinking its beef footprint as a historic U.S. cattle shortage deepens losses for the largest U.S. meatpacker.",
-      "url": "https://www.agriculture.com/partners-tyson-foods-says-it-will-close-sell-three-sites-amid-u-s-cattle-shortage-12059640",
-      "urlToImage": "https://www.agriculture.com/thmb/mPx0uRfvBmXqOAXBx0zngm4R1yI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52813922012_b280054ea1_o-aa637689822a47ce8217fa9ea3d786e9.jpeg",
-      "source": "Successful Farming",
-      "publishedAt": "2026-08-13T23:22:27Z"
-    },
-    {
-      "title": "Jim Cramer says Cisco’s post-earnings plunge is a buying opportunity. Here’s why - CNBC",
-      "description": "CNBC’s Jim Cramer said investors shouldn’t automatically sell a stock that falls on weak earnings guidance.",
-      "url": "https://www.cnbc.com/2026/08/13/jim-cramer-says-ciscos-post-earnings-plunge-is-a-buying-opportunity-heres-why.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185634-1755115292448-gettyimages-2229984519-_73a6816_thpdxeqv.jpeg?v=1770769109&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-08-13T22:56:18Z"
-    },
-    {
-      "title": "City Council looks to revive New York City outdoor dining - Gothamist",
-      "description": "Only 1,600 restaurants participate in the program, down from a peak of 12,500.",
-      "url": "https://gothamist.com/news/city-council-looks-to-revive-new-york-city-outdoor-dining",
-      "urlToImage": "https://api-prod.gothamist.com/images/358652/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-08-13T22:53:00Z"
-    },
-    {
-      "title": "Charter Gets Final State Approval for $21.9 Billion Cox Deal - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/telecom/charter-gets-final-state-approval-for-21-9-billion-cox-deal-ee47bd7c",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-13T22:27:00Z"
-    },
-    {
-      "title": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap - Bloomberg",
-      "description": "Asian stocks rose, adding to a fourth week of gains, as moderating US inflation reinforced bets that the Federal Reserve will refrain from raising interest rates next month. Technology stocks extended their rebound.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEsbVbdaQjuY/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-13T22:10:41Z"
-    },
-    {
-      "title": "Reddit Shares Surge on S&P 500 Inclusion Later This Month - Yahoo Finance",
-      "description": "Reddit Inc. will join the S&P 500 next week as part of an off-cycle change, S&P Dow Jones Indices said Thursday, sending the social networking platform’s sha...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-shares-surge-p-500-220937768.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/F49520617877AFF6D07D663E5605A82A0A8DA31FFA47231760B79CFC7AC0D84C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fd5428f0f018aaa2e6047ac5414e36a12.jpg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-13T22:09:37Z"
-    },
-    {
-      "title": "Apple Showcases Texas Mac Mini Factory, New Manufacturing School - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/apple-showcases-texas-mac-mini-factory-new-manufacturing-school-16fb8a10",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-13T22:03:00Z"
-    },
-    {
-      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings - BBC",
-      "description": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-      "url": "https://www.bbc.com/news/articles/c2k7zj4knwlo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
+      "title": "Why tech bosses keep sharing their manifestos about AI - BBC",
+      "description": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+      "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-08-13T22:00:10Z"
+      "publishedAt": "2026-08-14T23:06:27Z"
     },
     {
-      "title": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO - Bloomberg",
-      "description": "OpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street …",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV59m0FdBZTU/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-13T21:36:04Z"
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up - TechCrunch",
+      "description": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=1200",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14T22:43:24Z"
     },
     {
-      "title": "Manhattan’s average rent is now a record $6,655 - Time Out Worldwide",
-      "description": "City studios, one-bedrooms and two-bedrooms are reaching horrifying new highs.",
-      "url": "https://www.timeout.com/newyork/news/average-manhattan-rents-are-nearing-7-000-a-month-the-highest-in-nyc-history-081326",
-      "urlToImage": "https://media.timeout.com/images/106436577/image.jpg",
-      "source": "Time Out",
-      "publishedAt": "2026-08-13T21:20:20Z"
+      "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel - CNBC",
+      "description": "The hedge fund's five largest disclosed stock holdings at the end of June were Sandisk, Micron Technology, Bloom Energy, Taiwan Semiconductor and Nebius Group.",
+      "url": "https://www.cnbc.com/2026/08/14/situational-awareness-filing-shows-ai-bets-before-forced-portfolio-sale-to-citadel.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-14T22:27:32Z"
     },
     {
-      "title": "Forbes editor out; report says he took $6M from founder of firm that does business with magazine - apnews.com",
-      "description": "The top editor of Forbes has left his job after reportedly being fired for accepting $6 million from the founder of a firm that works with the magazine. The New York Times reported this week that the payment came from RJ Shook, whose company, Shook Research, …",
-      "url": "https://apnews.com/article/forbes-randall-lane-editor-810d2c08ed57ec1b703247cc76c92fbe",
-      "urlToImage": "https://dims.apnews.com/dims4/default/37fce09/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2Fe9%2F93bb80b9c474ae4bb54dc644e7a7%2F8e5d5a91950e4863be60b84b0f38c5e2",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-13T20:52:00Z"
+      "title": "Stock Market Today: S&P 500, Nasdaq eke out weekly gains, but Dow falls; oil prices and Treasury yields rise - MarketWatch",
+      "description": "Stocks end the week with declines, as rising oil prices and Treasury yields weigh.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-poised-for-a-struggle-with-retail-sales-data-ahead",
+      "urlToImage": "https://images.mktw.net/im-39286769/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-08-14T22:22:00Z"
     },
     {
-      "title": "Reese’s Pumpkins return after lawsuit is dismissed - USA Today",
-      "description": "Reese’s Peanut Butter Pumpkins are back for Halloween after a lawsuit alleging Hershey misled consumers about the candy’s appearance was dismissed.",
-      "url": "https://www.usatoday.com/story/money/food/2026/08/13/reeses-pumpkins-return-after-lawsuit-is-dismissed/91291996007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/25/USAT/86354524007-screenshot-83.png?crop=569,321,x0,y89&width=569&height=321&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-13T20:46:00Z"
+      "title": "723 jobs being lost as Tyson Foods closes Eagle Mountain facility - KSL News",
+      "description": "Tyson Foods announced this week it will close its case-ready meat facility in Eagle Mountain as the company restructures to deal with a historic cattle shortage.",
+      "url": "https://www.ksl.com/article/51609885/723-jobs-being-lost-as-tyson-foods-closes-eagle-mountain-facility",
+      "urlToImage": "https://img.ksl.com/slc/3197/319787/31978796.jpeg?filter=kslv2/responsive_story_lg",
+      "source": "KSL.com",
+      "publishedAt": "2026-08-14T22:02:55Z"
     },
     {
-      "title": "30,000 Pounds Of Beef Sold In 2 Southern States Have Been Recalled - Southern Living",
-      "description": "Corte Argentino USA LLC, which has headquarters in Aventura, Florida, is recalling approximately 29,628 pounds of raw beef products that were imported from Argentina, but were not inspected in the United States.",
-      "url": "https://www.southernliving.com/corte-argentino-usa-llc-beef-recall-12059444",
-      "urlToImage": "https://www.southernliving.com/thmb/zKmhxnmB4zoSDxLOxmz_rTuTKSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2275878896-780a59ec80fa47e99285c7665c870bb8.jpg",
-      "source": "Southernliving.com",
-      "publishedAt": "2026-08-13T20:45:56Z"
-    },
-    {
-      "title": "Inflation surge has squeezed shoppers. Sluggish pay has made it worse - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Business/inflation-surge-squeezed-shoppers-sluggish-pay-made-worse/story?id\\\\u003d135610975",
-      "urlToImage": null,
+      "title": "2 planes with the same flight number avoid possible disaster thanks to quick-thinking controller - ABC News - Breaking News, Latest News and Videos",
+      "description": "Potential disaster was averted when a Phoenix air traffic controller recognized two American Airlines jets mistakenly were flying the same flight number and acted quickly to avoid confusion and keep them a safe distance apart",
+      "url": "https://abcnews.com/Business/wireStory/2-planes-same-flight-number-avoid-disaster-quick-135659078",
+      "urlToImage": "https://i.abcnewsfe.com/a/46717607-71f8-4ae5-9054-c216040b0f1a/wirestory_8ab07e296fa2ad2fea3b9aada9a802d6_16x9.jpg?w=1600",
       "source": "Abcnews.com",
-      "publishedAt": "2026-08-13T20:27:58Z"
+      "publishedAt": "2026-08-14T21:28:21Z"
+    },
+    {
+      "title": "250,000 minifridges sold on Amazon recalled following reports of fires - Fox Business",
+      "description": "Cooluli is recalling about 250,000 minifridges sold on Amazon and its website after reports of fires, overheating and more than $80,000 in property damage.",
+      "url": "https://www.foxbusiness.com/lifestyle/250000-minifridges-sold-amazon-recalled-following-reports-fires",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/minifridge-stock-photo.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-14T20:57:00Z"
+    },
+    {
+      "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+      "description": "Senior FDA official confirms that inspectors were on-site at the Taylor Farms processing facility and plan to be in the fields next.",
+      "url": "https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BABJ5AOTZLOUF4FRLF36IXHGHA.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-08-14T20:37:41Z"
+    },
+    {
+      "title": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into - PBS",
+      "description": "A fan blade in the Boeing 737-800's right engine broke loose, sending fragments flying out of the engine that broke the window and damaged the fuselage in several other places, according to a preliminary report by the National Transportation Safety Board.",
+      "url": "https://www.pbs.org/newshour/world/ntsb-says-broken-engine-parts-shattered-ryanair-plane-window-that-a-mans-head-got-sucked-into",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-11T152848Z_220975582_RC2SAMAOZ204_RTRMADP_3_RYANAIR-GREECE-EMERGENCY-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2026-08-14T20:36:53Z"
+    },
+    {
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets - CNBC",
+      "description": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+      "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108327769-1782530637304-2026-06-26_Citizenshipship_Greg-8.jpg?v=1782531933&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-14T20:31:30Z"
+    },
+    {
+      "title": "Lettuce-linked parasitic outbreak spreads. See map, more updates - USA Today",
+      "description": "The outbreak specifically tied to recalled lettuce has grown to include two new states. Plus, FDA information gives insight into where it was sold.",
+      "url": "https://www.usatoday.com/story/news/health/2026/08/14/lettuce-linked-cyclospora-outbreak-expands-see-map/91307622007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/14/USAT/91308921007-getty-images-2290352198.jpg?crop=1023,576,x0,y9&width=1023&height=576&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-08-14T19:50:00Z"
+    },
+    {
+      "title": "Waymo wins California approval to expand robotaxis across 18 counties - Electrek",
+      "description": "California's CPUC approved Waymo to expand its driverless robotaxi service across 18 counties, including new markets in Sacramento and San Diego.",
+      "url": "http://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/waymo_ojai_hero_mp4_hd.original.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2026-08-14T19:47:00Z"
+    },
+    {
+      "title": "People are going to extreme lengths to stop themselves from being filmed through Meta’s ‘pervert glasses’ - Fortune",
+      "description": "Methods include singing copyrighted songs to downloading scanner apps, but an attorney said not all of these will be foolproof.",
+      "url": "https://fortune.com/2026/08/14/people-stop-filming-meta-pervert-glasses-privacy/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2235448062-e1786735123726.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-08-14T19:45:00Z"
+    },
+    {
+      "title": "Canada Union Says Stellantis Eyeing Sale of Toronto-Area Plant - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/autos/canada-union-says-stellantis-eyeing-sale-of-toronto-area-plant-5f2364da",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-14T19:37:00Z"
+    },
+    {
+      "title": "California man reunited with prized muscle car swiped 33 years ago: ‘Finally back where it belongs’ - New York Post",
+      "description": "A Northern California man whose prized muscle car was swiped more than three decades ago has finally been reunited with his beloved wheels, cops revealed this week.",
+      "url": "https://nypost.com/2026/08/14/us-news/california-man-reunited-with-beloved-muscle-car-stolen-33-years-ago/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/1971-chevelle-reported-stolen-33-137423981.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-08-14T19:33:00Z"
+    },
+    {
+      "title": "Walmart Recalls Soup in 29 States Due to Potential Listeria Contamination - EatingWell",
+      "description": "Walmart has recalled Marketside Tomato Bisque Soup Kit in 29 states due to possible Listeria contamination. Learn which states and what to do next.",
+      "url": "https://www.eatingwell.com/walmart-soup-recall-listeria-12060364",
+      "urlToImage": "https://www.eatingwell.com/thmb/lWFJ-p8YXVT8c4fg1n7iVzeRGy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Walmart-Recalls-Soup-in-29-States-Due-to-Potential-Listeria-Contamination-dd495826f2e0477ab8530ac4e7309b8f.jpg",
+      "source": "Eatingwell.com",
+      "publishedAt": "2026-08-14T19:00:14Z"
     }
   ]
 }
