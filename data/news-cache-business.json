@@ -1,159 +1,119 @@
 {
-  "updatedAt": "2026-08-17T07:11:36.754Z",
+  "updatedAt": "2026-08-18T06:59:02.928Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "BREAKING: New Disney Cruise Line Ship Class Breaks Mold with Giant Atrium Windows - WDW News Today",
+      "title": "Private credit under strain as troubled loans swell - Financial Times",
+      "description": "FT analysis shows signals of stress in the market are back to levels last seen in 2017",
+      "url": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F92a8c92e-b1e0-4211-bc1e-0ca4c1d71a2f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-17T04:01:23Z"
+    },
+    {
+      "title": "Japan’s Economy Keeps Growing, But Weakness Could Vex BOJ - wsj.com",
       "description": null,
-      "url": "https://wdwnt.com/2026/08/breaking-new-disney-cruise-line-ship-class-breaks-mold-with-giant-atrium-windows/",
+      "url": "https://www.wsj.com/economy/japans-economy-stays-on-growth-path-but-headwinds-loom-6abb9a34",
       "urlToImage": null,
-      "source": "wdwnt.com",
-      "publishedAt": "2026-08-16T04:09:33Z"
-    },
-    {
-      "title": "Waymo gets regulatory approval to scale up robotaxi service across California, enter 2 new markets - Fox Business",
-      "description": "Waymo's robotaxi service expands across Northern and Southern California after CPUC approval, adding Sacramento and San Diego as new markets.",
-      "url": "https://www.foxbusiness.com/technology/waymo-gets-regulatory-approval-scale-up-robotaxi-service-across-california-enter-2-new-markets",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/waymo-auto-chicago.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-08-16T03:52:00Z"
-    },
-    {
-      "title": "Costco brings back cult-favorite sweet treat discontinued in 2024, exciting shoppers - New York Post",
-      "description": "Costco is bringing back their cult-favorite sweet treat previously discontinued from its exclusive Kirkland brand — exciting bargain-loving frequent shoppers.",
-      "url": "https://nypost.com/2026/08/15/us-news/costco-brings-back-sweet-treat-discontinued-2024/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40361832.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-08-16T01:57:00Z"
-    },
-    {
-      "title": "Harvard makes massive $2.2B SpaceX bet on Elon Musk's rocket company - Fox Business",
-      "description": "Harvard Management Company revealed a $2.2 billion SpaceX stake as university endowments benefit from early investments in Elon Musk’s rocket company",
-      "url": "https://www.foxbusiness.com/markets/harvard-makes-massive-spacex-bet-elon-musks-rocket-company",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/spacex-harvard-display.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-08-16T00:11:00Z"
-    },
-    {
-      "title": "Walmart tomato bisque soup recalled over possible Listeria contamination - Fox Business",
-      "description": "More than 3,000 Marketside Tomato Bisque Soup Kits sold at select Walmart stores are being recalled over possible Listeria contamination",
-      "url": "https://www.foxbusiness.com/lifestyle/walmart-tomato-bisque-soup-recalled-possible-listeria-contamination",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/recalled-walmart-soup-thumb.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-08-15T22:45:00Z"
-    },
-    {
-      "title": "Cyclospora spreads through human waste — so how did it get on food? - PBS",
-      "description": "The nationwide cyclospora outbreak is very likely a result of sewage contamination in the food supply, according to scientific researchers and public health officials.",
-      "url": "https://www.pbs.org/newshour/health/cyclospora-spreads-through-human-waste-so-how-did-it-get-on-food",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26189642009611-1024x533.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-08-15T22:34:59Z"
-    },
-    {
-      "title": "Global finance looks like a 'giant Jenga tower' propped up by a Japanese yen that's in deep trouble - Fortune",
-      "description": "\"Now traders are watching the 'yen carry trade,' where cheap yen borrowing funds bets on higher-yielding assets worldwide, and wondering if it’s about to blow up.\"",
-      "url": "https://fortune.com/2026/08/15/scott-bessent-dollar-yen-carry-trade-global-finance-jenga-tower-fed-rates-bank-of-japan/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2275213554-e1786827040619.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-08-15T22:20:00Z"
-    },
-    {
-      "title": "Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter - AP News",
-      "description": "Berkshire Hathaway is increasing its stake in Google’s parent company, Alphabet. It is also boosting its holdings in homebuilders. The company also continued to pare its stake in financial companies and a number of other stocks in the April-June quarter. That…",
-      "url": "https://apnews.com/article/berkshire-hathaway-warren-buffett-greg-abel-portfolio-fd9d6750d34f208c338e305759bcf6c9",
-      "urlToImage": "https://dims.apnews.com/dims4/default/05a4319/2147483647/strip/true/crop/6088x4057+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2Fe8%2F4413250e952e26bdf862541f18f9%2F47733dfcbe4847be90721005d834ae0d",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-15T21:57:00Z"
-    },
-    {
-      "title": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for president - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Business/trump-linked-crypto-venture-world-liberty-trust-granted/story?id\\\\u003d135668756",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-15T21:51:44Z"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery - TechCrunch",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15T21:29:19Z"
-    },
-    {
-      "title": "Major ice cream brand files Chapter 11 bankruptcy after lawsuit - Yahoo Finance Singapore",
-      "description": "Enjoying a serving of frozen dessert on a hot summer day, or at any time for that matter, has grown in popularity as ice cream store industry growth rose by...",
-      "url": "https://www.thestreet.com/retail/rebel-creamery-files-chapter-11-bankruptcy-after-lawsuit",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9E05814BDC7BDE72550AFA41BD43CA005ACD3D064845DA228E3A0BD8A2F57734/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F13b383de6625ac3c90af02ae71f8be7d.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2026-08-15T20:00:09Z"
-    },
-    {
-      "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
-      "description": "Security experts say testing needs enforceable rules and better oversight as AI models continue to advance.",
-      "url": "https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe7%2F5f%2Fd5df42f141bcba07f17dc54a5dce%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2281437509",
-      "source": "Politico",
-      "publishedAt": "2026-08-15T20:00:00Z"
-    },
-    {
-      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
-      "description": "Nvidia is in talks to invest as much as $3 billion in SB Energy, the Softbank Group-backed developer of a massive planned Ohio data center project for OpenAI, according to people familiar with the discussions. The investment is being discussed as part of Nvid…",
-      "url": "https://www.theinformation.com/articles/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal",
-      "urlToImage": "https://tii.imgix.net/production/articles/17625/efe515c1-a311-4754-ace1-30d43b57e3d1.jpg?fm=jpg&auto=compress&w=1200&frame=0",
-      "source": "The Information",
-      "publishedAt": "2026-08-15T19:12:00Z"
-    },
-    {
-      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Bloomberg.com",
-      "description": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets, but could materialize at the worst po…",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGUGlo.blE.w/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-15T19:00:00Z"
-    },
-    {
-      "title": "Tyson Foods to close Eagle Mountain plant, impacting more than 700 Utah workers - KUTV",
-      "description": "More than 700 Utah workers are set to lose their jobs as Tyson Foods prepares to close its Eagle Mountain facility, a plant that opened just five years ago foll",
-      "url": "https://kutv.com/news/local/tyson-foods-to-close-eagle-mountain-plant-impacting-more-than-700-utah-workers",
-      "urlToImage": "https://kutv.com/resources/media2/16x9/3504/1320/0x46/90/10cf2fe2-80d2-408a-aaef-4d46c15df25a-AP20174770518285.jpg",
-      "source": "KUTV 2News",
-      "publishedAt": "2026-08-15T17:46:43Z"
-    },
-    {
-      "title": "Why Buy It When You Can Print It? A DIY Nation Has a Fix for Broken Doodads - WSJ",
-      "description": "Creating replacement parts with 3-D printers can be easier and cheaper than buying new household items",
-      "url": "https://www.wsj.com/tech/why-buy-it-when-you-can-print-it-a-diy-nation-has-a-fix-for-broken-doodads-d0821b7d",
-      "urlToImage": "https://images.wsj.net/im-85739243/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-15T17:45:00Z"
+      "publishedAt": "2026-08-17T03:24:00Z"
     },
     {
-      "title": "Aston Martin's Latest Special Supercar Is A V12 Villain - Motor1.com",
-      "description": "We take a look at Aston Martin's latest special-edition supercar. The Valen is the most powerful front-engine production car, and starts at $2 million.",
-      "url": "https://www.motor1.com/news/804190/aston-martin-valen-reveal/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/qkYpkz/s1/aston-martin-valen.jpg",
-      "source": "Motor1 ",
-      "publishedAt": "2026-08-15T16:43:19Z"
+      "title": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation. - Yahoo Finance",
+      "description": "Jensen Huang has a unique ability to drive investment in his industry.",
+      "url": "https://www.fool.com/investing/2026/08/16/jensen-huang-doubled-nvidias-own-sales-forecast-to/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/B9F72059D3AF424524D177D3BCB9C707E1B415769E1BB1D673D40C282F583272/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Faabd534ca5610b8e8fb2715d36ab17f8.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2026-08-17T03:20:00Z"
     },
     {
-      "title": "FDA inspects Taylor Farms Mexico plant linked to outbreak - USA Today",
-      "description": "The Food and Drug Administration is inspecting a Taylor Farms plant in Mexico, which distributed lettuce linked to a cyclospora outbreak.",
-      "url": "https://www.usatoday.com/story/news/health/2026/08/15/fda-taylor-farms-plant-lettuce-cyclospora/91318164007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91014785007-getty-images-2285918456.jpg?crop=1023,576,x0,y53&width=1023&height=576&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-15T16:31:00Z"
+      "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
+      "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "url": "https://www.bbc.com/news/articles/c77ggpgrp2do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-17T01:47:33Z"
     },
     {
-      "title": "SpaceX officially closes its Cursor acquisition - TechCrunch",
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+      "title": "Nursing Homes Run $9,000 a Month. A Federal Rule Called \"Spousal Impoverishment Protection\" Lets the At-Home Spouse Keep the House, the Car, and Six Figures of Savings - 24/7 Wall St.",
+      "description": "Most couples burn through their life savings before anyone tells them the federal government already built a financial firewall for exactly this situation. What it protects, and the traps that cancel it out, depend entirely on decisions made before the first …",
+      "url": "https://247wallst.com/personal-finance/2026/08/16/nursing-homes-run-9000-a-month-a-federal-rule-called-spousal-impoverishment-protection-lets-the-at-home-spouse-keep-the-house-the-car-and-six-figures-of-savings/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry17-N4P.jpg",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-08-17T01:09:01Z"
+    },
+    {
+      "title": "The next China shock will come from open-source AI - Financial Times",
+      "description": "Countries adopting Chinese models will also absorb Chinese standards and governance",
+      "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F275ca360-8c22-48dc-9908-352a51f8623f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-17T01:00:05Z"
+    },
+    {
+      "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates - CNBC",
+      "description": "The stock market remains near all-time highs.",
+      "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348570-1786550238318-Traders-Photo-20260811-KK-PRESS-023.jpg?v=1786550302&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-17T00:11:15Z"
+    },
+    {
+      "title": "If Meta loses this trial, Instagram and Facebook could change forever - BBC",
+      "description": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+      "url": "https://www.bbc.com/news/articles/clyqpx6xk69o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-16T23:27:36Z"
+    },
+    {
+      "title": "Sam’s Club meal kit feeds a family for under $16 as shoppers seek affordable dinners - New York Post",
+      "description": "The offering is part of a broader push by the warehouse club to give members more convenient options for putting dinner on the table.",
+      "url": "https://www.foxnews.com/food-drink/sams-club-meal-kit-feeds-family-under-16-shoppers-seek-affordable-dinners",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137646601.jpg?quality=75&strip=all&w=1200",
+      "source": "Fox News",
+      "publishedAt": "2026-08-16T23:25:00Z"
+    },
+    {
+      "title": "Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology - 24/7 Wall St.",
+      "description": "Four seemingly unrelated headlines dropped over two weeks, and when you line them up in sequence, they point to a partnership that could reshape who controls the next trillion dollars of AI infrastructure.",
+      "url": "https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2747468571.jpg",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-08-16T22:57:48Z"
+    },
+    {
+      "title": "Oil Edges Higher as Middle East Tensions Linger: Markets Wrap - Bloomberg.com",
+      "description": "The dollar fell against most of its major peers after weak US economic data reduced bets on a Federal Reserve interest-rate hike next month.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZb_J8Ife9Cw/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-16T22:14:58Z"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future - techcrunch.com",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
       "source": "TechCrunch",
-      "publishedAt": "2026-08-15T16:30:00Z"
+      "publishedAt": "2026-08-16T20:32:01Z"
+    },
+    {
+      "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - Bloomberg.com",
+      "description": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5.taRLVay1E/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-16T20:08:01Z"
+    },
+    {
+      "title": "Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing - Daring Fireball",
+      "description": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation…",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
+      "source": "Daringfireball.net",
+      "publishedAt": "2026-08-16T19:26:46Z"
     }
   ]
 }
