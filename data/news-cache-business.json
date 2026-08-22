@@ -1,159 +1,143 @@
 {
-  "updatedAt": "2026-08-21T07:02:21.773Z",
+  "updatedAt": "2026-08-22T06:54:54.692Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV - CNBC",
-      "description": "The GV90 features a new design direction for Genesis and expands the Hyundai brand's lineup to seven vehicles in the U.S.",
-      "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351491-1787144479430-Photo_4_GV90_Exterior.jpg?v=1787166148&w=1920&h=1080",
+      "title": "Trump Wants to Revive Keystone XL. The Industry Has a Different Plan. - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/energy-oil/trump-wants-to-revive-keystone-xl-the-industry-has-a-different-plan-5f7e775b",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-21T02:00:00Z"
+    },
+    {
+      "title": "Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates - CNBC",
+      "description": "The Dow ended Thursday's session down 700 points, marking its worst day since July 29.",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350946-1787062383421-gettyimages-2291006888-mms16054_lcaoxzmq.jpeg?v=1787062440&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-20T03:00:00Z"
+      "publishedAt": "2026-08-21T01:37:00Z"
     },
     {
-      "title": "US national debt hits $40 trillion, rising by $90K per second - WJLA",
-      "description": "The U.S. national debt crossed a record $40 trillion this week—a figure economists and lawmakers expect will continue to surge.Data from the U.S. Congress Joint",
-      "url": "https://wjla.com/news/local/us-national-debt-hits-40-trillion-rising-by-90000-a-second-committee-says",
-      "urlToImage": "https://wjla.com/resources/media2/16x9/3000/1320/0x157/90/7a9f1fab-0d82-429a-8d6c-e39ffba2e695-GettyImages672798.jpg",
-      "source": "WJLA",
-      "publishedAt": "2026-08-20T01:47:45Z"
+      "title": "Live Coverage: Pro Farmer Crop Tour sweeps across Iowa and Minnesota - Pro Farmer",
+      "description": "Results from Minnesota and Iowa conclude an eye-opening, field-level look at corn and soybean crops across seven states.",
+      "url": "https://www.profarmer.com/news/live/live-coverage-pro-farmer-crop-tour-sweeps-across-iowa-and-minnesota",
+      "urlToImage": "https://assets.farmjournal.com/dims4/default/7b42fa3/2147483647/strip/true/crop/1200x675+0+86/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F66%2Ff5%2F23833a2c4a5ea93c829cc431b849%2Fcrop-tour-2026-live-blog-day-4.jpg",
+      "source": "Profarmer.com",
+      "publishedAt": "2026-08-21T01:23:35Z"
     },
     {
-      "title": "The data center fight is hitting a fever pitch. Here's how they actually work - Axios",
-      "description": "They're often big, windowless warehouses without any humans in sight.",
-      "url": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
-      "urlToImage": "https://images.axios.com/5mMlgVfKcqTLLYiUeUymkAu2_6Q=/0x540:8192x5148/1366x768/2026/08/19/1787159737821.jpeg",
+      "title": "What’s behind the bond market roller coaster? - The Washington Post",
+      "description": "The bond market was already on edge. President Donald Trump’s economic policies have not helped.",
+      "url": "https://www.washingtonpost.com/business/2026/08/20/whats-behind-bond-market-roller-coaster/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AU5MZOJ3U6DVRVN3V2WWAODWKA.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-08-21T00:04:29Z"
+    },
+    {
+      "title": "Here's how America's $40 trillion debt can hit your wallet - Axios",
+      "description": "Rising debt could pressure lawmakers to raise taxes, cut spending or change federal benefits.",
+      "url": "https://www.axios.com/2026/08/20/us-40-trillion-dollars-national-debt-costs-interests",
+      "urlToImage": "https://images.axios.com/A1FqMjwSKKSK5urfBhOSmDXrC9c=/0x163:8216x4785/1366x768/2026/08/20/1787250539189.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-08-20T00:39:19Z"
+      "publishedAt": "2026-08-20T23:24:26Z"
     },
     {
-      "title": "What If This Was How You Found Out The Singularity Has Begun? - Gizmodo",
-      "description": "The authority on the matter: a financial services platform.",
-      "url": "https://gizmodo.com/what-if-this-was-how-you-found-out-the-singularity-has-begun-2000800568",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Generic_Social_Card-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-08-20T00:23:36Z"
+      "title": "Millennials are struggling to buy a home - but is it actually getting easier? - BBC",
+      "description": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
+      "url": "https://www.bbc.com/news/articles/cgewlld498xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png",
+      "source": "BBC News",
+      "publishedAt": "2026-08-20T23:10:58Z"
     },
     {
-      "title": "Futures Rise; Biotechs, Gold Shine But Not These Techs - Investor's Business Daily",
-      "description": "AI stocks and leading software names had a tough outing.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/NEWAM_biotech1_051024_adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-20T00:20:00Z"
+      "title": "What is Scott Bessent doing with the $32tn Treasury market — and will it work? - Financial Times",
+      "description": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs",
+      "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa407c458-0ab6-4442-98fe-2d92e8c253f8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-20T23:08:14Z"
     },
     {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’ - TechCrunch",
-      "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19T23:32:00Z"
-    },
-    {
-      "title": "New tire rule raises concerns: 'California is particularly vulnerable here' - SFGATE",
-      "description": "Some in the tire industry worried that the regulation is ill conceived: \"I will tell you, California is particularly vulnerable here.\"",
-      "url": "https://www.sfgate.com/travel/article/tire-rule-concerns-california-22395480.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/07/71/31227516/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-08-19T22:27:56Z"
-    },
-    {
-      "title": "Moderna and Merck shares soar on mRNA cancer vaccine - Axios",
-      "description": "The results come at a pivotal moment for Moderna and mRNA research.",
-      "url": "https://www.axios.com/2026/08/19/moderna-merck-mrna-cancer-vaccine",
-      "urlToImage": "https://images.axios.com/37lchMmq5jskTpVpcWScxJHTrVs=/0x0:4832x2718/1366x768/2026/08/19/1787168992152.jpeg",
+      "title": "Employer health costs: Why it could be another tough year - Axios",
+      "description": "Near double-digit health cost increases are set to continue in 2027.",
+      "url": "https://www.axios.com/2026/08/20/health-care-costs-employers-rising",
+      "urlToImage": "https://images.axios.com/DThrSuR88C4ERr5o0hsx-kvo6dg=/1366x768/smart/2024/07/22/203124-1721680284541.jpg",
       "source": "Axios",
-      "publishedAt": "2026-08-19T22:26:50Z"
+      "publishedAt": "2026-08-20T21:49:05Z"
     },
     {
-      "title": "Asian Stocks to Gain as US Treasury Supports Bonds: Markets Wrap - Bloomberg.com",
-      "description": "Asian bonds and stocks gained as US plans to buy back longer-dated Treasuries to curb borrowing costs buoyed sentiment. The dollar steadied after sliding to a three-month low.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic5Hp9zDedS4/v0/1200x670.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-19T22:12:30Z"
+      "title": "Abbott to Pay $670 Million to Settle Baby-Formula Litigation - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/abbott-to-pay-670-million-to-settle-baby-formula-litigation-8260e5fb",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-20T21:37:00Z"
     },
     {
-      "title": "Salmonella outbreak linked to tainted jalapeños isn’t over - NBC News",
-      "description": "The CDC reported more than 400 cases in 32 states, although the number of illnesses is likely to be much higher.",
-      "url": "https://www.nbcnews.com/health/health-news/salmonella-jalapenos-cyclospora-lettuce-cdc-illnesses-hospitalizations-rcna593369",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260805-jalapenos-vl-306p-166186.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-08-19T21:38:40Z"
-    },
-    {
-      "title": "State Farm is sending $5 billion in dividend payments. Here’s who qualifies - KTLA",
-      "description": "State Farm has begun issuing payments to qualifying auto customers as part of its one-time $5 billion cash-back dividend, the largest in the company’s more than 100-year history. The dividend is being distributed in waves to eligible customers across more tha…",
-      "url": "https://ktla.com/news/nationworld/state-farm-dividend-payments-auto-customers/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/03/GettyImages-498133778.jpg?w=1280",
-      "source": "KTLA Los Angeles",
-      "publishedAt": "2026-08-19T21:34:38Z"
-    },
-    {
-      "title": "Frozen fruit bars recalled nationwide over possible glass contamination - Fox Business",
-      "description": "Dreyer’s Grand Ice Cream is recalling select Outshine fruit bars sold nationwide after consumers reported finding glass in the products.",
-      "url": "https://www.foxbusiness.com/lifestyle/frozen-fruit-bars-recalled-nationwide-over-possible-glass-contamination",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/orange-fruit-popsicle.jpg?ve=1&tl=1",
+      "title": "Jalapeño-linked salmonella outbreak sickens 431 people across 32 states - Fox Business",
+      "description": "Federal health officials say a salmonella outbreak linked to fresh jalapeños has grown to 431 cases and 57 hospitalizations across 32 states",
+      "url": "https://www.foxbusiness.com/lifestyle/jalapeno-linked-salmonella-outbreak-sickens-people-across-32-states",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/jalapenos-in-supermarket.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-08-19T21:27:00Z"
+      "publishedAt": "2026-08-20T21:36:00Z"
     },
     {
-      "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta - NPR",
-      "description": "The former Meta employee testified that the company culture prioritized user numbers over child safety measures.",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F2f%2Fddceaf2542398d1b564b346cbce8%2Fgettyimages-2290597246.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-08-19T21:20:15Z"
+      "title": "Trump crypto meeting signals US 'not going to slow down' in bid for digital asset dominance, expert says - Fox Business",
+      "description": "Trump hosted crypto industry leaders at the White House to discuss the CLARITY Act with hopes to sign the digital assets bill into law by September.",
+      "url": "https://www.foxbusiness.com/technology/trump-crypto-meeting-signals-us-not-going-slow-down-bid-digital-asset-dominance-expert-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/trump-digital-assets-crypto-innovation-01.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-20T20:39:00Z"
     },
     {
-      "title": "YouTube Offers Creators Millions to Not Work With Netflix - Bloomberg.com",
-      "description": "YouTube will pay creators to post their videos to YouTube before any other service. If creators post to YouTube and Netflix at the same time, they will face consequences.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW3.yhnWpkCo/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-19T21:15:02Z"
-    },
-    {
-      "title": "Decision On Paramount's $1.88B Merger Bond Now Close To Ticking Fee Start Date - Deadline",
-      "description": "Paramount's hopes for a big bucks bond have been pushed back over a month, as a scathing LA County report predicts big job losses if merger closes",
-      "url": "http://deadline.com/2026/08/paramount-merger-suit-bond-ruling-latest-1237045521/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/lots.jpg?w=1024",
+      "title": "The ParaBros Backlash: Threats To Leave L.A. & An AG Who Won’t Back Down Divide Hollywood - Deadline",
+      "description": "Paramount-Warner Bros Discovery has evoked a range of emotion in Hollywood, with a new one panic after David Ellison threatened to leave L.A.",
+      "url": "http://deadline.com/2026/08/paramount-warner-bros-divides-hollwyood-threats-to-leave-1237045520/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/Paramount.jpg?w=1024",
       "source": "Deadline",
-      "publishedAt": "2026-08-19T21:05:00Z"
+      "publishedAt": "2026-08-20T20:30:00Z"
     },
     {
-      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less - CNBC",
-      "description": "As he has done in the past, Trump accused Fed officials of having political motives.",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351822-1787169562276-gettyimages-2290596908-AFP_C62U9KH.jpeg?v=1787174566&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-08-19T20:32:48Z"
+      "title": "Walmart stock drops 9% as sales growth slows, customers make 'trade-offs' amid high fuel costs - Yahoo Finance",
+      "description": "Walmart raised its outlook, but traffic and US sales came in below Wall Street's expectations.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-9-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/016BBFD7B1AA9D9EFA363BB0B2E432579B34833C6D15014B5507E69BD5E71209/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F58a9cc97-d3c9-475c-b852-2f483249bbf5",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-20T20:16:20Z"
     },
     {
-      "title": "Walmart Earnings: The Biggest And Most Influential Retail Report Looms - Investor's Business Daily",
-      "description": "Walmart report follows a summer pricing blitz to lure inflation-hit shoppers.",
-      "url": "https://www.investors.com/news/walmart-earnings-the-biggest-and-most-influential-retail-report/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-walmart-02-company.jpg",
+      "title": "Neighborhood peacock allegedly attacked by mail carrier in California - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/neighborhood-peacock-allegedly-attacked-mail-carrier-california/story?id\\\\u003d135804815",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-20T20:10:31Z"
+    },
+    {
+      "title": "Industrial Giant Does Something It Hadn't In 10 Quarters. Stock Soars. - Investor's Business Daily",
+      "description": "Deere is known for tractors and harvesters. But data centers fuel its construction business.",
+      "url": "https://www.investors.com/news/deere-soars-data-centers-drive-first-earnings-gain-in-11-quarters/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/01/Stock-Deere-trctrPlntr-company.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-19T20:18:00Z"
+      "publishedAt": "2026-08-20T20:10:00Z"
     },
     {
-      "title": "Why China’s Unitree IPO Surge Is Good News for Tesla - Barron's",
-      "description": "China’s Unitree Robotics, a rival to Tesla, surged 460% on its trading debut in Shanghai Wednesday, giving the company a market capitalization of around $51 billion.",
-      "url": "https://www.barrons.com/articles/unitree-ipo-china-robot-tesla-7b95f6e1",
-      "urlToImage": "https://images.barrons.com/im-24535298/social",
-      "source": "Barron's",
-      "publishedAt": "2026-08-19T20:17:00Z"
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system - NPR",
+      "description": "From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration's cuts last year.",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+637/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F4e%2F9d52754f43fc82f260d9a37f6f06%2Fcyclospora-final-01.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-08-20T19:54:19Z"
     },
     {
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data - Ars Technica",
-      "description": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-19T20:04:41Z"
+      "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design - The Verge",
+      "description": "Genesis announced the GV90, a three-row electric SUV with coach-style doors, heated floors, front seats that rotate 180 degrees, and an airbag for the glass roof.",
+      "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Original-6722-photo-2-gv90-neolun-exterior.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-08-20T19:52:57Z"
     }
   ]
 }
