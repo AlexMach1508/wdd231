@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-08-26T07:03:12.087Z",
+  "updatedAt": "2026-08-27T17:35:23.086Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "eBay Removes Leaked “30th Anniversary” Pokemon TCG Listings at TPCi’s Request - PokeBeach",
-      "description": "eBay has started to remove in-hand listings of 30th Anniversary cards and merchandise under its Stolen Property Policy after receiving communication from",
-      "url": "https://www.pokebeach.com/2026/08/ebay-cracks-down-on-early-30th-anniversary-pokemon-tcg-listings-at-tpcis-request",
-      "urlToImage": "https://www.pokebeach.com/news/2026/08/ebay-ban-30th-anniversary.jpg",
-      "source": "Pokebeach.com",
-      "publishedAt": "2026-08-25T03:01:53Z"
+      "title": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’ - 9to5Mac",
+      "description": "Apple has officially announced its next product event, where it will unveil the iPhone 18 Pro lineup and its first...",
+      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-max-ultra-event.webp?resize=1200,628",
+      "source": "9to5Mac",
+      "publishedAt": "2026-08-26T16:02:00Z"
     },
     {
-      "title": "AirPods 5 to Launch as Early as Next Month - MacRumors",
-      "description": "Apple is planning to announce two new AirPods 5 models as early as Wednesday, September 9, according to  Bloomberg's Mark Gurman. Like the...",
-      "url": "https://www.macrumors.com/2026/08/24/airpods-5-to-launch-as-early-as-next-month/",
-      "urlToImage": "https://images.macrumors.com/t/fYjVcXVY5VPjzwT55r9PcKFUJVY=/2500x/article-new/2026/03/airpods-4-new-new-orange.jpg",
+      "title": "Xbox announces disc-to-digital feature that digitizes your physical games - The Verge",
+      "description": "Microsoft is launching a new Xbox feature to digitize Xbox discs. Xbox owners will be able to turn their physical game collections into digital ones.",
+      "url": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/PRESERVATION_GEARS-16x9-1-f50ea7c7183d739eee78.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-08-26T14:30:00Z"
+    },
+    {
+      "title": "Elden Ring plays much better than I'd expected on Switch 2, but it isn't without its flaws - Eurogamer.net",
+      "description": "The power of the Nintendo Switch 2 definitely knows its bounds, but that hasn't stopped Nintendo and co. from taking on this ambitious Elden Ring Switch 2 port.",
+      "url": "https://www.eurogamer.net/elden-ring-tarnished-edition-switch-2-impressions-performance",
+      "urlToImage": "https://assetsio.gnwcdn.com/elden-ring-on-switch-2-(2).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-08-26T14:00:00Z"
+    },
+    {
+      "title": "Rockstar Games Responds to Grand Theft Auto VI Gameplay Leaks Ahead of Extended Look Trailer - Bleacher Report",
+      "description": "Rockstar Games released a statement Wednesday regarding the recent gameplay leaks for the highly anticipated Grand Theft Auto VI video game.",
+      "url": "https://bleacherreport.com/articles/25487346-rockstar-games-responds-grand-theft-auto-vi-gameplay-leaks-ahead-extended-look-trailer",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2192875226_0_large_cropped.jpg?w=1120&h=630",
+      "source": "Bleacher Report",
+      "publishedAt": "2026-08-26T13:50:30Z"
+    },
+    {
+      "title": "‘Crimson Desert’ Literally Patched Its Story In A Huge Way, Transforming Kliff - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/26/crimson-desert-literally-patched-its-story-in-a-huge-way-transforming-kliff/",
+      "urlToImage": null,
+      "source": "Forbes",
+      "publishedAt": "2026-08-26T13:32:53Z"
+    },
+    {
+      "title": "Exclusive: Samsung Galaxy S27 Official CAD Renders Leaks - Android Headlines",
+      "description": "After revealing the redesigned Samsung Galaxy S27 Ultra in CADs yesterday, AndroidHeadlines can now exclusively bring you the CADs of the base Galaxy S27.",
+      "url": "https://www.androidheadlines.com/samsung-galaxy-s27",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-AH-2-scaled.png",
+      "source": "Android Headlines",
+      "publishedAt": "2026-08-26T13:05:18Z"
+    },
+    {
+      "title": "Fable: Find Out How Combat Works After Our First Hands-on - XBOX Wire",
+      "description": "Playground Games gave us our biggest look yet at how Fable’s combat will work in the form of a first ever demo for press and creators - here's everything we learned.",
+      "url": "https://news.xbox.com/en-us/2026/08/26/fable-combat-first-demo-explained/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/FABLE_Gamescom2026_OfficialQuestGameplay_Screenshot_Bowerstone_4K-ddbd3c70deca82794876.jpg",
+      "source": "Xbox.com",
+      "publishedAt": "2026-08-26T12:01:29Z"
+    },
+    {
+      "title": "Alleged Foldable iPhone Motherboard Photos Surface Online - MacRumors",
+      "description": "Images and video claiming to show circuitry from Apple's upcoming foldable iPhone are circulating on X and Chinese social media platforms.   For...",
+      "url": "https://www.macrumors.com/2026/08/26/foldable-iphone-motherboard-photos-surface/",
+      "urlToImage": "https://images.macrumors.com/t/Qm7QbTidj1ch7gUxIYK06CqJX0g=/1600x/article-new/2026/08/foldable-iphone-boards.jpeg",
       "source": "MacRumors",
-      "publishedAt": "2026-08-25T03:00:32Z"
+      "publishedAt": "2026-08-26T11:33:50Z"
     },
     {
-      "title": "Apple Gears Up to Launch Its First New Mac Mini in Two Years - Bloomberg",
-      "description": "Apple Inc. is gearing up to launch a new version of its Mac mini desktop computer for the first time in almost two years, according to people familiar with the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWxZyHr2ka_g/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-25T01:49:00Z"
+      "title": "How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range - WIRED",
+      "description": "Xbox and Ikea collab alert! This unique nine-piece collection for gamers arrives this fall and has a slew of Easter eggs.",
+      "url": "https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/",
+      "urlToImage": "https://media.wired.com/photos/6a8c1c817e094df45d7c1f8f/191:100/w_1280,c_limit/PH210899.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-08-26T10:00:00Z"
     },
     {
-      "title": "Castlevania: Belmont's Curse Reveals English Voice Cast In New Trailer - Nintendo Life",
-      "description": "Launching on Switch this October",
-      "url": "https://www.nintendolife.com/news/2026/08/castlevania-belmonts-curse-reveals-english-voice-cast-in-new-trailer",
-      "urlToImage": "https://images.nintendolife.com/2fbacce9acf4d/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-08-25T00:30:00Z"
+      "title": "The Warhammer 40,000 August Update – Everything you need to know - Warhammer Community",
+      "description": "New updates for points, maps, and detachments.",
+      "url": "https://www.warhammer-community.com/articles/b4zj2o7u/the-warhammer-40000-august-update-everything-you-need-to-know",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/40k_balanceupdate-aug26-1-feature-zgwhhbxovf.jpg",
+      "source": "Warhammer-community.com",
+      "publishedAt": "2026-08-26T09:30:38Z"
     },
     {
-      "title": "Motorola's 2027 flagships will officially support GrapheneOS - GSMArena.com news - GSMArena.com",
-      "description": "This is the de-Googled, more secure version of the Android Open Source Project. GrapheneOS, the modified version of Android that is devoid of Google while...",
-      "url": "https://www.gsmarena.com/motorolas_2027_flagships_will_officially_support_grapheneos-news-74312.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-grapheneos-official-support/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-08-25T00:02:01Z"
-    },
-    {
-      "title": "Apple is reportedly preparing iPhone price hikes (because of course they are) - Mashable",
-      "description": "How high will the price of an iPhone go?",
-      "url": "https://mashable.com/tech/apple-iphone-price-hikes-on-the-way",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00tN0XVQRYRXujpYDv4Ud1w/hero-image.fill.size_1200x675.v1787604274.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-08-24T22:07:11Z"
-    },
-    {
-      "title": "The Sinking City 2 PC Performance Analysis & Tuning Guide – How To Get Best Experience On PC - Wccftech",
-      "description": "Optimize The Sinking City 2's graphics settings to boost performance by 18% at 1440p while maintaining visual quality with DLSS Super Resolution.",
-      "url": "https://wccftech.com/how-to/the-sinking-city-2-pc-performance-analysis-tuning-guide-how-to-get-best-experience-on-pc/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/TS2-Featured-Image.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-08-24T21:13:21Z"
-    },
-    {
-      "title": "Canceled Iron Man Game Footage Leaks Online, Showing Destructible Environments, Flying, and More - ign.com",
-      "description": "Alleged footage from Avalanche Studios' canceled Iron Man game has surfaced online.",
-      "url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/20/iron-man-ea-motive-1663686372718.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "Persona 4 Revival: The Good and the Bad of Our First Hands-On | gamescom 2026 - IGN",
+      "description": "In the pantheon of the Persona series, its fourth entry is held in high regard, and time will tell if Persona 4 Revival will prove to be the best of the bunch. The little bit I got to see is at least making it a pretty strong contender for that award, and it …",
+      "url": "https://www.ign.com/articles/persona-4-revival-the-good-and-the-bad-of-our-first-hands-on-gamescom-2026",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/25/persona-4-revival-whatwethink-blogroll-01-1787697134921.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-08-24T21:03:12Z"
+      "publishedAt": "2026-08-26T09:00:00Z"
     },
     {
-      "title": "Ads and tracking infiltrated TVs. Now they’re coming for monitors. - Ars Technica",
-      "description": "Monitor vendors are playing with fire.",
-      "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-24T20:17:41Z"
-    },
-    {
-      "title": "The Duskbloods' Weirdest Character Was Inspired By Ultraman - Kotaku",
-      "description": "Just like Ultraman",
-      "url": "https://kotaku.com/the-duskbloods-zork-mosquito-ultra-man-2000727643",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/08/zork-and-pals.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-08-24T20:00:59Z"
-    },
-    {
-      "title": "Is this double-sided foot massager the key to preventing plantar fasciitis? I tested it for months to find out - CNN",
-      "description": "I tested the Chirp Sole Vibe foot massager for two months while marathon training. Here’s what I really think about the pain-relief product.",
-      "url": "https://www.cnn.com/cnn-underscored/reviews/chirp-sole-vibe-foot-massager",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cfc5e1e7-edde-401a-a1e0-a538919bb438-20260820183433682.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-08-24T20:00:00Z"
-    },
-    {
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage - TechCrunch",
-      "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
-      "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-24T19:54:50Z"
-    },
-    {
-      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red handed - Ars Technica",
-      "description": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-24T19:19:21Z"
-    },
-    {
-      "title": "51 People Confess Their Awkward Social Disasters That Haunt Them Forever - Yahoo Lifestyle Canada",
-      "description": "As a naturally awkward person...I feel seen.",
-      "url": "https://www.buzzfeed.com/jennifer_mcphee/stories-about-misread-social-cues?origin=bf-yahoo",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/14f07ab2285258352cad404aac156a4173d9d0706332170efd8b6af9563a8eaf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F4596efff628eb39c1cf6c7cf52b80665.jpg",
-      "source": "Buzzfeed",
-      "publishedAt": "2026-08-24T19:01:02Z"
-    },
-    {
-      "title": "Lenovo Addresses Legion Go BIOS Update Bricking Gaming Handhelds - TechPowerUp",
-      "description": "It was recently revealed in a handful of Reddit posts that an official Lenovo Legion Go BIOS update (N3CN42WW) was apparently causing the handheld gaming PCs to become unresponsive, with users claiming Lenovo told them they would be on the hook for repair cos…",
-      "url": "https://www.techpowerup.com/351896/lenovo-addresses-legion-go-bios-update-bricking-gaming-handhelds",
-      "urlToImage": "https://www.techpowerup.com/img/8jXzD2qgpDwzxR54.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-08-24T18:29:30Z"
-    },
-    {
-      "title": "Terranigma coming to Nintendo Switch 2, Switch - Nintendo Everything",
-      "description": "Terranigma is making a surprise comeback on Nintendo Switch 2 and Switch, Clear River Games and Square Enix just announced. A release is planned for 2027. Terranigma, an action RPG made by Quintet, went on to become a beloved Japanese action RPG after its lau…",
-      "url": "https://nintendoeverything.com/terranigma-coming-to-nintendo-switch-2-switch/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Terranigma-.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-08-24T18:09:06Z"
-    },
-    {
-      "title": "Playstation Doubles Down on Ditching PC in New PS5 Video - Polygon.com",
-      "description": "PlayStation just released a video suggesting it won't support new PC ports anytime soon.",
-      "url": "https://www.polygon.com/ps5-sony-exclusives-pc-ports-wolverine-god-of-war-laufey/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/god-of-war-laufey.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-08-24T18:05:59Z"
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns - TechCrunch",
-      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-24T18:03:55Z"
-    },
-    {
-      "title": "Warhammer 40k: Space Marines Codex Moves 16 Units To Legendary Status! - Bell of Lost Souls",
-      "description": "Some universe-shaking changes are coming for Space Marines this fall. Just an hour after the reveal of the new Outrider Captain, a full preview of the new Codex: Space Marines is here! The studio kicked things off with a brief video overview of what to expect…",
-      "url": "https://www.belloflostsouls.net/2026/08/warhammer-40k-space-marines-codex-moves-16-units-to-legendary-status.html",
-      "urlToImage": "https://www.belloflostsouls.net/wp-content/uploads/2026/08/40k-marine-classic-skull-header.jpg",
-      "source": "Belloflostsouls.net",
-      "publishedAt": "2026-08-24T17:34:06Z"
-    },
-    {
-      "title": "You Can Save 23% Off Metal Gear Solid Master Collection Vol. 2 for PC – But the Offer Ends Soon - ign.com",
-      "description": "Metal Gear Solid Master Collection Vol. 2 is out this week, but if you preorder the Steam PC version, you can save 23% off list price.",
-      "url": "https://www.ign.com/articles/metal-gear-solid-master-collection-vol-2-pc-preorder-discount",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/24/mgs-collection-vol-2-blogroll-1787585391900.png?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "Metro 2039 Developers on Russia's Invasion of Ukraine: \"Quite a Lot of Our Plans Changed Overnight\" - IGN",
+      "description": "After finishing the four-or-so-hour preview build of Metro 2039, the upcoming first-person shooter sequel from Ukrainian developer 4A Games and falling completely in love with it, I reached out to the team to ask some questions about how they've approached th…",
+      "url": "https://www.ign.com/articles/metro-2039-developers-on-how-russias-invasion-of-ukraine-changed-their-plans",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/21/metro-interview-1787344517568.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-08-24T16:19:29Z"
+      "publishedAt": "2026-08-26T07:02:00Z"
+    },
+    {
+      "title": "Perplexity launches a local AI agent with zero token costs - Android Authority",
+      "description": "Perplexity has launched \"Portable Computer\" — a new agentic AI that runs locally on NVIDIA hardware and saves token costs.",
+      "url": "https://www.androidauthority.com/perplexity-portable-computer-local-ai-agent-3703083/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/04/perplexity-ai-play-store-stock-scaled.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2026-08-26T06:40:00Z"
+    },
+    {
+      "title": "Porsche Unveils 911 Challenge as New Entry-Level Race Car - Sportscar365",
+      "description": "Race car largely based around road-going Porsche 911 GT3 to debut in single-make Challenge, Trophy series next year...",
+      "url": "https://sportscar365.com/industry/porsche-unveils-911-challenge-car/",
+      "urlToImage": "https://sportscar365.com/wp-content/uploads/2026/08/001_911_Challenge.jpg",
+      "source": "Sportscar365",
+      "publishedAt": "2026-08-26T06:04:04Z"
+    },
+    {
+      "title": "Everything Announced At Gamescom Opening Night Live 2026 - Game Informer",
+      "description": "Here's a quick rundown at all of the news from Gamescom's annual presentation. - Game Informer",
+      "url": "https://gameinformer.com/gamescom-2026/2026/08/25/everything-announced-at-gamescom-opening-night-live-2026",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/25/4b01ad81/Nodusfall%20World%20Premiere%20Trailer%201.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-08-26T01:27:00Z"
+    },
+    {
+      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning - The Verge",
+      "description": "Garmin just launched its Fenix 9 and 9 Pro smartwatches, both of which come with brighter OLED displays. The Fenix 9 Pro model also offers satellite connectivity across all three size options.",
+      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+      "source": "The Verge",
+      "publishedAt": "2026-08-25T22:20:17Z"
+    },
+    {
+      "title": "Lenovo launches flagship tablet with 2.5K 165 Hz OLED, Snapdragon 8 Elite Gen 5 and 24 GB RAM - Notebookcheck",
+      "description": "Lenovo has launched the Legion Y700 Infinite in China with a 2.5K 165 Hz OLED display and Snapdragon 8 Elite Gen 5. It offers up to 24 GB of RAM and 5G, with prices starting at CNY 4,999 (about $744).",
+      "url": "https://www.notebookcheck.net/Lenovo-launches-flagship-tablet-with-2-5K-165-Hz-OLED-Snapdragon-8-Elite-Gen-5-and-24-GB-RAM.1378009.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Lenovo-has-unveiled-the-Legion-Y700-Infinite-gaming-tablet.png",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-25T21:27:00Z"
+    },
+    {
+      "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered - XBOX Wire",
+      "description": "The Witcher 3: Wild Hunt Remastered launches September 29 with an array of improvements and modernizations. New expansion Songs of the Past is coming in 2027.",
+      "url": "https://news.xbox.com/en-us/2026/08/25/witcher-3-remastered-and-songs-of-the-past/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/The_Witcher_3_SoP_16x9_Master_Image-7c33e67ed30ccaef1ab5.jpg",
+      "source": "Xbox.com",
+      "publishedAt": "2026-08-25T21:02:11Z"
+    },
+    {
+      "title": "Gears of War: E-Day Campaign Hands On – Brutal, Brilliant, and Quintessentially Gears - XBOX Wire",
+      "description": "There’s something to be said for a video game so emotionally striking in what it offers that I spend a few seconds just sitting in the lobby, looking at the characters in awe. That’s how I started my first hands-on preview of the Gears of War: E-Day campaign …",
+      "url": "https://news.xbox.com/en-us/2026/08/25/gears-of-war-e-day-campaign-preview-gameplay-xbox/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Gears-f783604b4900f089e04e.jpg",
+      "source": "Xbox.com",
+      "publishedAt": "2026-08-25T21:02:11Z"
     }
   ]
 }
