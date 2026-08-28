@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-08-27T17:35:23.266Z",
+  "updatedAt": "2026-08-28T18:35:13.073Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Red Bull misses out as FIA reveals fresh F1 ADUO results - The Race",
-      "description": "The latest findings from the FIA's Formula 1 engine analysis have not yielded the hoped-for upgrade opportunities for Red Bull",
-      "url": "https://www.the-race.com/formula-1/red-bull-misses-out-as-fia-reveals-fresh-f1-aduo-results/",
-      "urlToImage": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/08/SI202608230387_hires_jpeg_24bit_rgb.jpg",
-      "source": "The-race.com",
-      "publishedAt": "2026-08-26T15:47:37Z"
-    },
-    {
-      "title": "Buss brothers joining new Padres ownership group - ESPN",
-      "description": "The Buss brothers' new firm will be part of the Padres ownership group after selling the Lakers.",
-      "url": "https://www.espn.com/mlb/story/_/id/49732342/buss-brothers-joining-new-padres-ownership-group",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0316%2Fr1629461_1024x576_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-08-26T15:08:48Z"
-    },
-    {
-      "title": "US Open 2026: Serena and Venus Williams to play women's doubles in New York - BBC",
-      "description": "Serena and Venus Williams will play doubles together at the US Open in their first Grand Slam outing as a pairing for four years.",
-      "url": "https://www.bbc.com/sport/tennis/articles/c1l1r7p1ggeo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3fc/live/0f8ea380-a15e-11f1-aed2-8d6da8d75094.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-08-26T14:38:54Z"
-    },
-    {
-      "title": "Report: Lane Kiffin, LSU instigated fifth-year lawsuit - NBC Sports",
-      "description": "Some NFL teams could, if they wanted, accuse Kiffin and LSU of tortious interference.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lane-kiffin-lsu-instigated-fifth-year-lawsuit",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/cab089c/2147483647/strip/true/crop/7093x3990+0+370/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F78%2Fecb3a8044732aa6b988a9710a50f%2F2288141510.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-08-26T14:14:55Z"
-    },
-    {
-      "title": "Swimsuit Model Who Spent Night Out With Luka Doncic & The Lakers During Trip To Slovenia Is Going Viral - Yahoo Sports",
-      "description": "Luka Doncic appears to be making moves off the court.",
-      "url": "https://www.totalprosports.com/nba/los-angeles-lakers/swimsuit-model-luka-doncic-lakers-slovenia-trip-night-out/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e5fb2cc2f9dbaf1e0e7095bae081be0528cf79ae707a375ece594bfaffd933ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftotalprosports_555%2F9d231201ef4f4feb91f338e9262f67dc.jpg",
-      "source": "Total Pro Sports",
-      "publishedAt": "2026-08-26T13:49:33Z"
-    },
-    {
-      "title": "23 players on roster bubble to watch during Packers' final preseason week - Packers Wire",
-      "description": "Who are the roster bubble players to watch as the Packers prepare to take on the Cardinals in a joint practice and the preseason finale?",
-      "url": "https://packerswire.usatoday.com/story/sports/nfl/packers/2026/08/26/23-players-on-roster-bubble-to-watch-during-packers-final-preseason-week/91471601007/",
-      "urlToImage": "https://packerswire.usatoday.com/gcdn/authoring/authoring-images/2026/08/26/SPAC/91471992007-20260803-t-181015-z-23532805-mt-1-usatoday-29505658-rtrmadp-3-greenbaypackersgeneralmanagerbriangutekunstandhead.JPG?crop=3324,1870,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-26T13:49:00Z"
-    },
-    {
-      "title": "Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille - Al Jazeera",
-      "description": "Sought-after Bouaddi joins the Premier League club on a five-year deal worth $117m.",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26235620585249-1787742216.jpg?resize=1920%2C1333",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-26T13:38:04Z"
-    },
-    {
-      "title": "What's next for LSU, SEC and players returning to college after league bans - On3",
-      "description": "LSU may continue to challenge the SEC after the league passed a new ban on professional players returning to college sports.",
-      "url": "https://www.on3.com/news/whats-next-for-lsu-sec-and-players-returning-to-college-after-league-bans/",
-      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/08/26075751/SEC-LSU-afi.png",
-      "source": "On3.com",
-      "publishedAt": "2026-08-26T13:34:11Z"
-    },
-    {
       "title": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
       "description": "SportsLine's model has revealed its 2026 Week 0 college football picks for UNC vs. TCU and every other game",
-      "url": "https://www.cbssports.com/betting/news/college-football-odds-lines-spreads-picks-predictions-for-week-0-2026/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/08/25/072b9a39-e3ba-42ec-a6c3-4cd094e6e24c/thumbnail/1200x675/42f1b0a307b9668c6b75c13fec7d1284/kameron-courtney-virginia-cavaliers-imagn-images.jpg",
+      "url": "https://www.cbssports.com/betting/news/college-football-odds-lines-spreads-picks-predictions-week-0-2026/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/08/27/8dc02406-45cd-4e90-bcbf-598148dd36f1/thumbnail/1200x675/9848601ddc13c199a08070d7c16d7be9/kameron-courtney-virginia-imagn.jpg",
       "source": "CBS Sports",
-      "publishedAt": "2026-08-26T13:29:57Z"
+      "publishedAt": "2026-08-27T16:12:25Z"
     },
     {
-      "title": "Ranking NFL's newly revealed 2026 'Rivalries' uniforms best (Vikings) to worst (?) - USA Today",
-      "description": "This year, the teams of the NFC North, with their rich heritage, and the fairly new clubs that make up the AFC South will all wear \"Rivalries\" alternates.",
-      "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/08/25/nfl-new-rivalries-uniforms-2026-ranked-best-worst-nike/91369401007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91452493007-fa-26-nfl-rivalries-multiteam-2880-x-1440.jpg?crop=2393,1346,x131,y11&width=2393&height=1346&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-26T13:24:00Z"
+      "title": "Scare for Tadej Pogačar as he veers off-road following rival's warning to take it easy on Vuelta a España descent – Video - Cyclingnews",
+      "description": "World champion makes a rare misjudgment in the finale of stage 6",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/scare-for-tadej-pogacar-as-he-veers-off-road-following-rivals-warning-to-take-it-easy-on-vuelta-a-espana-descent-video/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/p56aURTcLn8xpb8hLtVub6-2000-80.jpg",
+      "source": "Cyclingnews.com",
+      "publishedAt": "2026-08-27T15:43:19Z"
     },
     {
-      "title": "PGA Tour 2027 schedule: 36 events, two at Pebble; more signature spacing - Golf Channel",
-      "description": "The PGA Tour announced Wednesday its 2027 competition schedule, which features 36 tournaments, including the four majors, and more spacing for signature events.",
-      "url": "https://www.golfchannel.com/pga-tour/news/pga-tour-2027-schedule-36-events-two-at-pebble-more-signature-spacing",
-      "urlToImage": "https://assets.golfchannel.com/dims4/default/e18fa86/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fversant-production-golfchannel.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F35%2F4263300f491aaf4840375a3b1316%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2261922910",
-      "source": "Golf Channel",
-      "publishedAt": "2026-08-26T13:03:25Z"
-    },
-    {
-      "title": "Dana White reacts to Bella Mir’s shocking upset loss on Contender Series: ‘She didn’t have deep water experience’ - MMA Fighting",
-      "description": "Dana White reacts to Bella Mir’s upset loss to Alex Apodaca, one of the biggest upsets ever",
-      "url": "https://www.mmafighting.com/ufc/507100/dana-white-reacts-to-bella-mirs-shocking-upset-loss-on-contender-series-she-didnt-have-deep-water-experience",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292059550.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-08-26T13:00:00Z"
-    },
-    {
-      "title": "Micah Parsons gives Lions RB Jahmyr Gibbs MASSIVE compliment - Pride Of Detroit",
-      "description": "Detroit Lions RB Jahmyr Gibbs has tremendous respect around the NFL, including from rival EDGE Micah Parsons.",
-      "url": "https://www.prideofdetroit.com/detroit-lions-news/170691/micah-parsons-gives-lions-rb-jahmyr-gibbs-massive-compliment",
-      "urlToImage": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY276903641467272470.jpg?quality=90&strip=all&crop=0%2C5.1458311417898%2C100%2C78.534031413613&w=1200",
-      "source": "Prideofdetroit.com",
-      "publishedAt": "2026-08-26T13:00:00Z"
-    },
-    {
-      "title": "Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’ - Financial Times",
-      "description": "TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams",
-      "url": "https://www.ft.com/content/70949883-f543-4444-a330-503b8e4c141a?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf73e76b-5c10-4052-8900-cefd74002933.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-08-26T12:59:02Z"
-    },
-    {
-      "title": "The 26 Biggest Story Lines Ahead of the 2026 College Football Season - The Ringer",
-      "description": "Everything you need to know about the upcoming season before games kick off",
-      "url": "https://www.theringer.com/2026/08/26/college-football/college-football-story-lines-indiana-sec-lane-kiffin-oregon-notre-dame",
-      "urlToImage": "https://wp.theringer.com/wp-content/uploads/2026/08/cropped-CFBstory_getty_ringer-scaled-1.jpg",
-      "source": "The Ringer",
-      "publishedAt": "2026-08-26T12:38:38Z"
-    },
-    {
-      "title": "Source: Giants WR Calvin Austin (torn ACL) out for season - ESPN",
-      "description": "Giants wide receiver Calvin Austin III will miss the upcoming season after suffering a torn ACL in his right knee while running a route at Tuesday's training camp practice, a source told ESPN's Adam Schefter.",
-      "url": "https://www.espn.com/nfl/story/_/id/49731270/source-giants-wr-calvin-austin-miss-upcoming-season",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0825%2Fr1706825_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-08-26T12:31:00Z"
-    },
-    {
-      "title": "The 2026 Heisman Trophy Race Has Seven Names You Need to Know - Sports Illustrated",
-      "description": "One of the most dominant players in college football is a wide receiver. Could this be the season a non-quarterback wins the coveted award?",
-      "url": "https://www.si.com/college-football/2026-heisman-trophy-race-has-seven-names-you-need-to-know",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_27,w_3014,h_1695/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m0xr395qredw68ep8f.jpg",
+      "title": "Albert Breer Empties His Jets Notebook From Training Camp - Sports Illustrated",
+      "description": "Geno Smith returns to give New York stability at quarterback. Plus, Aaron Glenn has built the defense in his image, and Garrett Wilson is stepping up as a leader.",
+      "url": "https://www.si.com/nfl/albert-breer-empties-jets-notebook-training-camp-2026",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_56,w_4272,h_2403/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m0zgzaw7dft5wqrsqe.jpg",
       "source": "Sports Illustrated",
-      "publishedAt": "2026-08-26T12:30:00Z"
+      "publishedAt": "2026-08-27T15:40:13Z"
     },
     {
-      "title": "Eliot Wolf on Kayshon Boutte trade: Jaylen Reed was someone we wanted to acquire - NBC Sports",
-      "description": "When the Patriots traded Kayshon Boutte to the Texans this week, much of the focus was on the Texans' need for a wideout and New England's increased depth at receiver.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eliot-wolf-on-kayshon-boutte-trade-jaylen-reed-was-someone-we-wanted-to-acquire",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/42e271c/2147483647/strip/true/crop/6956x3913+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F73%2F836dba654d68b51be2c75cc9b95c%2F2257292595.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-08-26T12:17:53Z"
+      "title": "Eagles News: Za’Darius Smith reveals why he left Philadelphia last year - Bleeding Green Nation",
+      "description": "Philadelphia Eagles news and links for 8/27/26.",
+      "url": "https://www.bleedinggreennation.com/news/180923/eagles-news-zadarius-smith-reveals-why-he-left-philadelphia-last-year",
+      "urlToImage": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2026/08/gettyimages-2235108872.jpg?quality=90&strip=all&crop=0%2C10.736641461463%2C100%2C78.526717077074&w=1200",
+      "source": "Bleeding Green Nation",
+      "publishedAt": "2026-08-27T15:34:34Z"
     },
     {
-      "title": "Unrivaled hits staggering $650 million valuation on heels of sold-out tour - New York Post",
-      "description": "Unrivaled’s value continues to skyrocket as it prepares for its third season.",
-      "url": "https://nypost.com/2026/08/26/sports/unrivaled-hits-staggering-650-million-valuation-on-heels-of-sold-out-tour/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-9lm0eizir-1787716253463.jpg?quality=75&strip=all&1787701895&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-08-26T12:00:00Z"
+      "title": "Sources: Seahawks' Leonard Williams lands 3-year, $90M extension - ESPN",
+      "description": "The Seahawks are signing Leonard Williams to a three-year, $90 million contract extension that will make him one of the NFL's highest-paid defensive tackles, sources told ESPN.",
+      "url": "https://www.espn.com/nfl/story/_/id/49742399/sources-seahawks-leonard-williams-lands-3-year-90m-extension",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0728%2Fr1694911_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-08-27T15:07:00Z"
     },
     {
-      "title": "Enes Kanter Freedom banned from home games of WNBA's Chicago Sky, owner says, calling him \"potential threat\" - CBS News",
-      "description": "The 6-foot-10, 250-pound former NBA player was removed from Sunday's game after he was confronted by Sky guard Natasha Cloud.",
-      "url": "https://www.cbsnews.com/news/enes-kanter-freedom-banned-wnba-chicago-sky-home-games/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/24/4d8e87dc-9247-43f3-9340-734128204308/thumbnail/1200x630g3/991c435f4d03abba0d365d7dd980b4fb/gettyimages-2291749735.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-08-26T11:22:00Z"
+      "title": "10 Patriots to watch in preseason finale vs. Browns - Pats Pulpit",
+      "description": "New England concludes its preseason in Cleveland on Thursday night.",
+      "url": "https://www.patspulpit.com/new-england-patriots-preseason/134685/patriots-players-to-watch-preseason-finale-browns",
+      "urlToImage": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/08/gettyimages-2291625421.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+      "source": "Pats Pulpit",
+      "publishedAt": "2026-08-27T14:43:41Z"
+    },
+    {
+      "title": "Omar Marmoush: Tottenham sign Manchester City forward on season-long loan - BBC",
+      "description": "Tottenham sign Manchester City forward Omar Marmoush on loan until the end of the season, with an obligation to make the deal permanent for £60m next summer.",
+      "url": "https://www.bbc.com/sport/football/articles/clyj50j91xgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22e9/live/2975b110-a223-11f1-bd6a-3d72a7f54a3e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-27T14:34:14Z"
+    },
+    {
+      "title": "Julian Alvarez transfer news: Arsenal only likely exit after Atletico say no to Barcelona - BBC",
+      "description": "Julian Alvarez has not attended Atletico Madrid training since being told privately that the club would not sell him to Barcelona.",
+      "url": "https://www.bbc.com/sport/football/articles/c980e1d2vpgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d6ef/live/39a812e0-a222-11f1-bd6a-3d72a7f54a3e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-27T14:18:57Z"
+    },
+    {
+      "title": "Our 2026 College Football Crystal Ball Has Some Surprises - Sports Illustrated",
+      "description": "Who will win it all? Sports Illustrated’s college football experts predict the conference champions, Heisman winner, coaching moves, biggest surprise and more.",
+      "url": "https://www.si.com/college-football/our-2026-college-football-crystal-ball-has-some-surprises",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_51,w_2000,h_1125/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01m10hbbqt5p25xmv4wr.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-08-27T13:00:03Z"
+    },
+    {
+      "title": "Umar Nurmagomedov has new nickname for Merab Dvalishvili after latest comments: ‘All the time crying’ - MMA Fighting",
+      "description": "UFC Shanghai headliner Umar Nurmagomedov sends a message to Merab Dvalishvili following his recent comments.",
+      "url": "https://www.mmafighting.com/ufc/506992/his-next-fight-is-in-abu-dhabi-we-can-go-visit-umar-nurmagomedov-sounds-off-on-merab-dvalishvili-after-latest-comments",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2188609441.jpg?quality=90&strip=all&crop=0%2C10.730603175268%2C100%2C78.538793649463&w=1200",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-08-27T13:00:00Z"
+    },
+    {
+      "title": "Seahawks: Why Khoslas likely won’t join Seattle’s list of reviled owners - The Seattle Times",
+      "description": "Seattle sports fans have earned the right to be skeptical of new owners, but here's why the Khosla family, who are buying the Seahawks, are unlikely to join that list.",
+      "url": "https://www.seattletimes.com/sports/seahawks/seahawks-why-khoslas-likely-wont-join-seattles-list-of-reviled-owners/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/08/08262026_tzr_tzr_152554Khosla.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2026-08-27T13:00:00Z"
+    },
+    {
+      "title": "How is NFL dealing with players heading back to college? 'Cluster of all clusters' - ESPN",
+      "description": "NFL coaches, execs and agents tell ESPN they're sifting through questions and implications of a new reality, which seems to change by the hour.",
+      "url": "https://www.espn.com/nfl/story/_/id/49737553/nfl-dealing-players-returning-college-football-eligibility-ncaa-sec-big-ten-big-12-lsu-cluster",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0827%2Fr1707475_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-08-27T12:27:19Z"
+    },
+    {
+      "title": "MLB stadium looks virtually empty as fans send clear message about the team: 'Embarrassing' - Fox News",
+      "description": "The Los Angeles Angels claimed 25,161 fans attended Wednesday's matinee, but the empty stands in Anaheim told a very different and brutal story.",
+      "url": "https://www.foxnews.com/outkick-sports/mlb-stadium-looks-virtually-empty-fans-send-clear-message-team-embarrassing",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/zach-neto-double-play-angels-guardians.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-08-27T12:17:27Z"
+    },
+    {
+      "title": "NFL veterans on the chopping block: These 20 players could be among roster-cut casualties - CBS Sports",
+      "description": "Former Pro Bowlers and first-round picks are not immune to the realities of cutdown day",
+      "url": "https://www.cbssports.com/nfl/news/nfl-roster-cuts-veteran-candidates/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/08/26/3546251b-14a8-4d20-b2c9-04cc64c3ba40/thumbnail/1200x675/37d6369d845e54a7def66068653072e0/gettyimages-2291060735-1.jpg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-08-27T12:10:36Z"
+    },
+    {
+      "title": "Colapinto to stay with Alpine for 2027 season - BBC",
+      "description": "Franco Colapinto will remain with Alpine for the 2027 season, the Formula 1 team announces.",
+      "url": "https://www.bbc.com/sport/formula1/articles/c8jdyl78022o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cfea/live/a59cc250-a20b-11f1-9090-b51af3a01fc2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-27T11:56:09Z"
+    },
+    {
+      "title": "What the Buss family Lakers dispute can teach the wealthy about trusts - CNBC",
+      "description": "Jeanie Buss, governor of the Lakers, is contesting her siblings' decision to sell the family's remaining stake in the NBA team.",
+      "url": "https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351219-1787088265457-gettyimages-2262602661-ldn-l-lakers-riley-0223-kb31.jpeg?v=1787782627&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-27T11:30:01Z"
+    },
+    {
+      "title": "NFL renews DraftKings, FanDuel deals, adds Fanatics - ESPN",
+      "description": "The NFL has reached multiyear partnerships with DraftKings, FanDuel and Fanatics for those sportsbooks to be official betting operators of the league.",
+      "url": "https://www.espn.com/nfl/story/_/id/49740505/nfl-renews-draftkings-fanduel-deals-adds-fanatics",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0312%2Fr1627294_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-08-27T11:30:00Z"
+    },
+    {
+      "title": "WNBA player rankings: The top 50 players in the league - ESPN",
+      "description": "A'ja Wilson remains No. 1, but where are Caitlin Clark, Napheesa Collier and Angel Reese as the World Cup break nears?",
+      "url": "https://www.espn.com/wnba/story/_/id/49659438/wnba-2026-top-50-player-rankings-wilson-clark-stewart-miles-bueckers",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fwnba_rank%2Dtop%2D50_16x9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-08-27T11:30:00Z"
     }
   ]
 }

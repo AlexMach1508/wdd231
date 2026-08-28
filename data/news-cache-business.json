@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2026-08-27T17:35:23.167Z",
+  "updatedAt": "2026-08-28T18:35:13.001Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia earnings - MarketWatch",
-      "description": "Stocks trader lower Wednesday as investors prepare for Nvidia's second-quarter earnings results.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-inflation-data-crowdstrike-salesforce",
-      "urlToImage": "https://images.mktw.net/im-25740750/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-08-26T16:16:00Z"
+      "title": "Meta’s $18bn settlement: How social platforms will change for child users - Al Jazeera",
+      "description": "From night curfew to two-hour limit, Instagram and Facebook will introduce new features for children in the US.",
+      "url": "https://www.aljazeera.com/features/2026/8/27/metas-18bn-settlement-how-social-platforms-will-change-for-child-users",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-02-19T005618Z_191266687_RC2OOJAKNY9N_RTRMADP_3_SOCIALMEDIA-TRIAL-1787831178.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-27T15:19:48Z"
     },
     {
-      "title": "Oil prices tumble amid renewed optimism over the Strait of Hormuz - NBC News",
-      "description": "Oil prices tumbled for the third straight day, as a flurry of headlines from the Middle East sparked renewed optimism in global energy markets.",
-      "url": "https://www.nbcnews.com/business/energy/oil-prices-inflation-trump-strait-hormuz-rcna594477",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260730-strait-of-hormuz-rs-fbe127.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-08-26T15:22:07Z"
+      "title": "Bitcoin Price Tests $80K In 'Powerful Setup.' IREN Earnings Due. - Investor's Business Daily",
+      "description": "Bitcoin price shows a \"powerful setup,\" Bitwise CIO says as the crypto trades near $80,000. Miner, AI player IREN to report.",
+      "url": "https://www.investors.com/news/bitcoin-price-test-key-level-treasury-trump-adminsitration-clarity-act-crypto-regulations-iren-earnings-crypto-stocks/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/Stock-Bitcoin-37-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-08-27T14:25:00Z"
     },
     {
-      "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next - CNBC",
-      "description": "Paramount Skydance's acquisition of Warner Bros. Discovery is stalled due to an antitrust lawsuit, leaving WBD in limbo during a pivotal moment for media.",
-      "url": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334336-1783975362519-gettyimages-2285923979-dji_20260713093855_0155_d_lbcei8zc.jpeg?v=1783975391&w=1920&h=1080",
+      "title": "Okta skyrockets 20%, CrowdStrike surges 15% as rising AI threat boosts earnings - CNBC",
+      "description": "AI adoption is pushing customers to spend more on cybersecurity tools from companies such as CrowdStrike and Okta",
+      "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108313292-1779985196223-gettyimages-2264127364-campbell-notitle260303_npGQz.jpeg?v=1779985232&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-26T14:31:47Z"
+      "publishedAt": "2026-08-27T13:47:39Z"
     },
     {
-      "title": "Key inflation gauge remains elevated during Iran conflict and ongoing US trade fights - AP News",
-      "description": "An inflation measure closely watched by the Federal Reserve was unchanged last month in the latest sign that many Americans are still struggling with higher costs. The Commerce Department’s Wednesday report showed that prices rose 3.7% in July compared with a…",
-      "url": "https://apnews.com/article/consumer-spending-inflation-tariffs-wages-a7ee35490dc5be41640379b6eafd11a4",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b4e6513/2147483647/strip/true/crop/6075x4048+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2Fc9%2F01430e06d08072458de0966d1fc8%2F19f8193bb03845bca1b425e060ee1288",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-26T14:29:00Z"
-    },
-    {
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause - CNBC",
-      "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
-      "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108171040-17522615752025-05-08t140318z_734903116_rc2qdeamtlun_rtrmadp_0_health-gates-foundation.jpeg?v=1752261599&w=1920&h=1080",
+      "title": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker - CNBC",
+      "description": "The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.",
+      "url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108329388-1782919464595-gettyimages-2210278931-trumpstariffscreatestockmarketconfusionandopportunityforsome.jpeg?v=1782919598&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-26T13:12:37Z"
+      "publishedAt": "2026-08-27T13:40:29Z"
     },
     {
-      "title": "Behr Just Named Its 2027 Color of the Year—and It’s the Calming Neutral You’ll Want Everywhere - Real Simple",
-      "description": "This earthy neutral is easy to mix and match anywhere in your home.",
-      "url": "https://www.realsimple.com/behr-just-named-its-2027-color-of-the-year-12067848",
-      "urlToImage": "https://www.realsimple.com/thmb/dEzO3CwBagBeCGOG3do97HsoUt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BEHR_26.03_TRENDS_TC_OFF_004-1280x1280-262049e761e842cdb4d19dd93361e34a.jpeg",
-      "source": "Real Simple",
-      "publishedAt": "2026-08-26T13:05:00Z"
+      "title": "General Mills ditches artificial colors in Lucky Charms, Trix - Fox Business",
+      "description": "Food-making giant General Mills, which is behind popular cereals like Trix and Lucky Charms, announced that all of its U.S. cereals are now made without \"certified colors.\"",
+      "url": "https://www.foxbusiness.com/fox-news-food-drink/general-mills-ditches-artificial-colors-lucky-charms-trix",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/cereal-boxes-photo.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-27T13:35:00Z"
     },
     {
-      "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh - CNBC",
-      "description": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
-      "url": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108341957-1785351420198-gettyimages-2287525917-AFP_C3HN8FT.jpeg?v=1785968183&w=1920&h=1080",
+      "title": "Burger King revamps menu item after customers sought 'total overhaul' - Fox Business",
+      "description": "Burger King will debut revamped chicken nuggets and refreshed dipping sauces Sept. 1 after thousands of customers criticized the existing product.",
+      "url": "https://www.foxbusiness.com/fox-news-food-drink/burger-king-revamps-menu-item-customers-sought-total-overhaul",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/burger-king-nuggets.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-27T13:26:00Z"
+    },
+    {
+      "title": "Fed governor Lisa Cook: \"No legitimate basis for removal\" on Trump mortgage claims - Axios",
+      "description": "It is a closely watched case that may determine the political independence of the central bank.",
+      "url": "https://www.axios.com/2026/08/26/trump-fed-lisa-cook",
+      "urlToImage": "https://images.axios.com/og4MIj4gXil2sceD0jjR4MTHPqc=/0x417:4000x2667/1366x768/2026/08/26/1787785785084.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-08-27T13:06:37Z"
+    },
+    {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face - Ars Technica",
+      "description": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-27T12:58:59Z"
+    },
+    {
+      "title": "How Financial Advisors Are Navigating the Surge in 30-Year Treasury Yields - Barron's",
+      "description": "Investment advisors recommend investors forego long-term bonds and emphasize securities that are above-average in credit quality.",
+      "url": "https://www.barrons.com/advisor/articles/financial-advisors-navigating-30-year-treasury-yield-surge-945db489",
+      "urlToImage": "https://images.barrons.com/im-73197856/social",
+      "source": "Barron's",
+      "publishedAt": "2026-08-27T12:05:00Z"
+    },
+    {
+      "title": "American Airlines adds batch of new international routes on its XLR planes - CNBC",
+      "description": "American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Philadelphia hub or from New York City.",
+      "url": "https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243309-1766011271492-251023-A321XLR-hero.jpg?v=1766011329&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-08-26T13:00:11Z"
+      "publishedAt": "2026-08-27T12:00:01Z"
     },
     {
-      "title": "US Economy Expands 1.5% With Spending, Investment Revised Up - Bloomberg",
-      "description": "The US economy expanded at an unrevised 1.5% pace in the second quarter, though underlying details showed stronger consumer spending and business investment than initially reported.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/us-economy-expands-1-5-with-spending-investment-revised-up",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_qCaW1AO1GI/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-26T12:51:29Z"
+      "title": "American Airlines Jet Blows Tires in Alarming Airport Trend - The Daily Beast",
+      "description": "Passengers heard an extremely loud popping noise as the plane prepared for takeoff.",
+      "url": "https://www.thedailybeast.com/american-airlines-jet-blows-tires-in-alarming-chicago-ohare-international-airport-trend/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/73L4XXVN6VGK3E7O3EZMWQIBQM.png?smart=true&auth=dd11514f9f44a715818d3fb179ed4f56eb543ec899e6498c31becb66f35dcc60&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2026-08-27T11:47:00Z"
     },
     {
-      "title": "Inside United’s New Airbus A321XLR That Will Fly Upcoming Routes to Europe - Upgraded Points",
-      "description": "Taking a look inside United's first Airbus A321XLR to see what it will be like as a passenger flying this plane across the Atlantic.",
-      "url": "https://upgradedpoints.com/news/inside-new-united-airlines-airbus-a321xlr/",
-      "urlToImage": "https://upgradedpoints.com/wp-content/uploads/2026/08/United-Airbus-A321XLR.jpeg",
-      "source": "Upgradedpoints.com",
-      "publishedAt": "2026-08-26T12:37:40Z"
+      "title": "Jes Staley told Congress it was ‘incredible’ Epstein’s abuse continued after jail - Financial Times",
+      "description": "Former JPMorgan banker who went on to be CEO of Barclays appeared before Congress in July",
+      "url": "https://www.ft.com/content/5250dd00-5bfc-44ce-80d6-2295c020efb8?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F704b4259-0a6f-4cee-9b84-be2e4bb578b9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-27T11:37:57Z"
     },
     {
-      "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet - CNBC",
-      "description": "The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.",
-      "url": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354070-1787682471076-gettyimages-2282868860-SKOREA_BUSAN_AUTO.jpeg?v=1787682582&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-08-26T12:00:01Z"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, S&P Futures Slip; Investors Await Nvidia Earnings — Live Updates - WSJ",
-      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026",
-      "urlToImage": "https://images.wsj.net/im-34062673/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-26T11:51:00Z"
-    },
-    {
-      "title": "Dick's Sporting Goods' stock crash reveals a major problem for struggling Nike - Yahoo Finance",
-      "description": "Look out for another bad quarter from Nike.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/dicks-sporting-goods-stock-crash-reveals-a-major-problem-for-struggling-nike-114409937.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0ceeecbc5a89c869b74408bd2ed02ea684b1829c3f02eeeb9643e66f10df65b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fa4bba25a-460f-4bd3-ad4d-d89bdd23c894",
+      "title": "Kansas City Fed’s Schmid says inflation too hot, rates too accommodative on eve of Jackson Hole - Yahoo Finance",
+      "description": "Kansas City Federal Reserve President Jeff Schmid said in an interview Wednesday on the eve of the central bank's annual economic summit in Jackson Hole, Wyo...",
+      "url": "https://finance.yahoo.com/economy/policy/article/kansas-city-feds-schmid-says-inflation-is-too-hot-rates-too-accommodative-on-eve-of-jackson-hole-113000818.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b5863c9a99014bbd450f627c58ce8a6ba14242660e4c0cc3d02acf25d44258ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F08454187-a573-4ea5-ae13-74fd8b4864ad",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-26T11:44:09Z"
+      "publishedAt": "2026-08-27T11:30:00Z"
     },
     {
-      "title": "Exclusive | Vanguard Buys Wealth Management Platform Altruist in $4 Billion Deal - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/deals/vanguard-buys-wealth-management-platform-altruist-in-4-billion-deal-68e7260c",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-26T11:43:29Z"
+      "title": "Ex-waitress reveals restaurant tipping secret most customers don't realize — expert calls it 'bad hospitality' - Fox News",
+      "description": "A mentor at the Red Rooster Tavern taught Mel Robbins which diners actually influence the tip, sparking debate among hospitality and etiquette experts.",
+      "url": "https://www.foxnews.com/food-drink/ex-waitress-reveals-restaurant-tipping-secret-most-customers-dont-realize-expert-calls-bad-hospitality",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/restaurant-waitress-smiles-to-customers.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-08-27T10:00:37Z"
     },
     {
-      "title": "Americans traveling to Canada may be wondering about one thing - USA Today",
-      "description": "A trade war between the U.S. and Canada escalated this week after talks between the two countries collapsed.",
-      "url": "https://www.usatoday.com/story/travel/news/2026/08/26/canada-trade-war-travel-cost/91461706007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91461977007-20250212-t-205333-z-479792007-rc-20-tcaxpiz-5-rtrmadp-3-canadapoliticsfentanyl.JPG?crop=4387,2470,x0,y61&width=3200&height=1802&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-26T11:36:00Z"
+      "title": "Trump's oil and gas stock trades continued during Iran war, filings show - CBS News",
+      "description": "President Trump has accused oil companies like Chevron and ExxonMobil of \"making too much money.\" He owns shares of both.",
+      "url": "https://www.cbsnews.com/news/trumps-oil-gas-stock-trades-iran-war/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/26/10b7cc1a-2cea-4998-8689-1710db448eda/thumbnail/1200x630g2/abad32c72114cbd1f312ec5a075cd27d/gettyimages-2291340795.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-08-27T10:00:06Z"
     },
     {
-      "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further - CNBC",
-      "description": "Mortgage rates rose again last week causing demand for both refinances and purchase loans to drop. Rates climbed to their highest level in three weeks.",
-      "url": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351241-1787091269608-gettyimages-2288493560-US_HOUSING.jpeg?v=1787091309&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-08-26T11:00:01Z"
+      "title": "Fed Chair Warsh faces Jackson Hole spotlight with inflation, rate path in focus - Fox Business",
+      "description": "Federal Reserve Chair Kevin Warsh delivers his first Jackson Hole keynote as bond yields near highs and markets demand clarity on the Fed's rate path.",
+      "url": "https://www.foxbusiness.com/economy/fed-chair-warsh-faces-jackson-hole-spotlight-inflation-rate-path-focus",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/fed-chair-kevin-warsh-july-01.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-27T10:00:00Z"
     },
     {
-      "title": "How to avoid a Social Security cut? Lawmakers are floating ideas for what to do - AP News",
-      "description": "Two senators who are set to retire have embarked on a mission to save tens of millions of Social Security beneficiaries from a projected 22% cut in their benefits, starting in just six years. It’s one of the most perilous political efforts that a member of Co…",
-      "url": "https://apnews.com/article/social-security-congress-benefit-cuts-solvency-65f2da9369e561dd5b8e3f0d1d855931",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9154a0a/2147483647/strip/true/crop/2857x1904+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2Fb8%2F933612951dd4df5824118a160950%2Fb85569897ee74aea93628b8844b5c324",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-26T10:59:00Z"
+      "title": "Trump reckons with his least favorite president - MS NOW",
+      "description": "As the president faces the sobering reality of the complexities of war with Iran, people close to the president say his tone about the former Democratic president has shifted.",
+      "url": "https://www.ms.now/news/trump-reckons-with-his-least-favorite-president",
+      "urlToImage": "https://www.ms.now/wp-content/uploads/2026/08/260826-donald-trump-jimmy-carter-parallel-al.webp?crop=0px,0px,2500px,1313px&w=1200&h=630",
+      "source": "MS Now",
+      "publishedAt": "2026-08-27T09:00:00Z"
     },
     {
-      "title": "Shopping malls are charging for prime parking. It's not going well - USA Today",
-      "description": "Scoring a great parking spot at the shopping mall used to take luck or determination. Now it takes a credit card. And shoppers are not thrilled.",
-      "url": "https://www.usatoday.com/story/money/retail/2026/08/26/why-shopping-malls-are-charging-you-for-premium-parking/91450581007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91459891007-20201127-t-193903-z-957299819-mt-1-usatoday-15239179-rtrmadp-3-theparkinglotatgovernorssquaremallonfriday.JPG?crop=5183,2916,x0,y539&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-26T10:50:00Z"
-    },
-    {
-      "title": "Nvidia earnings could reveal its fastest-growing business isn’t chips: Chart of the Day - Yahoo Finance",
-      "description": "Wall Street is focused on Nvidia's GPUs, but the faster-growing story is sitting beside them.",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-could-reveal-its-fastest-growing-business-isnt-chips-chart-of-the-day-100000332.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2ad745fe3ada5aac5070952b7cf748569c02a495149d33e8f1e0ab4100294efb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fe6acb0b9-5ebe-4509-b56a-fb9891f0645b_883388b6219eec3ce5ca0266f2e85560c46eae5b742b32ede8f7b2f507b4def8.jpg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-26T10:00:00Z"
-    },
-    {
-      "title": "Wall Street turns on Scott Bessent - Politico",
-      "description": "The Treasury secretary’s credibility as a steward of U.S. financial markets is under threat.",
-      "url": "https://www.politico.com/news/2026/08/26/bessent-bonds-us-financial-market-01049797",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffe%2F98%2Fcf0dfdb845ee9bb6f5f88742432f%2Ftreasury-bessent-9641.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-08-26T09:01:00Z"
+      "title": "Google DeepMind is losing its grip on elite AI talent, new data shows - Fortune",
+      "description": "Data shared with Fortune shows the lab’s share of top research hires in Europe has fallen as OpenAI, Anthropic, and a new generation of rivals gain ground.",
+      "url": "https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2276578034-e1787759543733.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-08-27T07:00:00Z"
     }
   ]
 }
