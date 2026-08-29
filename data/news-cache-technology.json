@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-08-28T18:35:12.931Z",
+  "updatedAt": "2026-08-29T12:38:09.720Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Panic passes Trump tariff refunds back to the Playdate customers who paid them - Ars Technica",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDlBNGh2aFBLd0IwZU9DdW5lcWV0TnpWeWE5YnB3YnZKWFk5VDFEeWJ2VzNPQXkzRUYtZDQtN045bHZOUU1YZWVDb01BTUdfcW10NnloMmtqNUxqOUVaX2RlbkhBcEpvRGhweHhCRXdKd0ZBek9PdVQ5c2twaDJBNzZUY3Z2T1h4VnVXc0s5bTNPbjJYRmZ1S2dKazQzaWlWQmxnWVd0dEVTN0ZPRDgyOF94QmYyQlE?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2026-08-27T14:53:17Z"
+      "title": "People are itching to create the Gen Z version of Friends. Here's five reasons it's impossible - BBC",
+      "description": "The legacy of Friends can be seen in a new wave of US sitcoms about twenty-something pals hitting the small screen. But, unlike the classic show, they're struggling to make a mark.",
+      "url": "https://www.bbc.com/culture/article/20260827-five-reasons-why-the-gen-z-friends-is-impossible",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0p6llbm.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-08-28T10:38:02Z"
     },
     {
-      "title": "GTA 6 Netflix extended look: What time it releases today - Mashable",
-      "description": "We might finally see some non-leaked gameplay, maybe.",
-      "url": "https://mashable.com/entertainment/gta-6-netflix-extended-look-time-details",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01X60hPxIpKj7Gz2kMawN5J/hero-image.fill.size_1200x675.v1787835869.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-08-27T14:44:28Z"
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps - TechCrunch",
-      "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-27T14:27:04Z"
-    },
-    {
-      "title": "Bad Xbox ‘Fable’ Combat Video Goes Viral, But It’s Pretty Misleading - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/27/bad-xbox-fable-combat-video-goes-viral-but-its-pretty-misleading/",
-      "urlToImage": null,
-      "source": "Forbes",
-      "publishedAt": "2026-08-27T14:08:49Z"
-    },
-    {
-      "title": "Android 17 boosts network security by hiding domain names, lets carriers disable 2G - 9to5Google",
-      "description": "Google is out with a blog post today recapping new network security measures in Android 17. These four features...",
-      "url": "http://9to5google.com/2026/08/27/android-17-network-security/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Android-17-network-security-1.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5google.com",
-      "publishedAt": "2026-08-27T14:00:00Z"
-    },
-    {
-      "title": "Exclusive: Samsung Galaxy S27 Pro Official CAD Renders Leaks - Android Headlines",
-      "description": "To add to the Galaxy S27 series this week, feast your eyes on the Galaxy S27 Pro. This is essentially the Galaxy S27 Ultra but in a smaller size. Unlike",
-      "url": "https://www.androidheadlines.com/samsung-galaxy-s27-pro",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-AH-999-scaled.png",
-      "source": "Android Headlines",
-      "publishedAt": "2026-08-27T13:01:31Z"
-    },
-    {
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents - TechCrunch",
-      "description": "Plaud's new 'agentic' earbuds are priced at $249.",
-      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/169-KV-Clean-2.jpeg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-27T13:00:00Z"
-    },
-    {
-      "title": "Samsung’s Galaxy S26 FE Strips the S26+ Down to Its Basics - Gizmodo",
-      "description": "The value of these 'Fan Edition' Samsung phones isn't what it used to be.",
-      "url": "https://gizmodo.com/samsung-galaxy-s26-fe-strips-the-s26-down-to-its-basics-2000801476",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/samsung-galaxy-s26-fe-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-08-27T12:00:37Z"
-    },
-    {
-      "title": "Samsung announces 2027 Odyssey monitors with 1,100 Hz IPS and 720 Hz QD-OLED modes - VideoCardz.com",
-      "description": "Samsung's Gamescom lineup includes new 49, 42, 32 and 27-inch Odyssey monitors. Refresh rates range from 165 Hz at 4K to 1,100 Hz in HD mode.",
-      "url": "https://videocardz.com/newz/samsung-announces-2027-odyssey-monitors-with-1100-hz-ips-and-720-hz-qd-oled-modes",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/08/SAMSUNG-ODYSSEY-2027-MONITORS.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-08-27T11:58:26Z"
-    },
-    {
-      "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features - MacRumors",
-      "description": "Apple's logo for its upcoming September 9 \"Surprise and shine\" event hints at two rumored iPhone 18 Pro features, including new color...",
-      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
-      "urlToImage": "https://images.macrumors.com/t/3KxQ1Cj5B33XoyogmjHvpHDtHDE=/2048x/article-new/2026/08/Apple-Surprise-Shine.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2026-08-27T11:46:03Z"
-    },
-    {
-      "title": "\"All of the industry needs to start to innovate on affordability and efficiency\" - Xbox's Asha Sharma wants change and \"more choice\" for people buying consoles - Eurogamer.net",
-      "description": "As console prices skyrocket, Xbox leader Asha Sharma has called for change in the way companies sell them.",
-      "url": "https://www.eurogamer.net/xbox-console-affordability-price-asha-sharma",
-      "urlToImage": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "GTA 6 is revamping the Wanted system and giving you a Criminal Profile - Eurogamer.net",
+      "description": "The veil has been lifted off GTA 6. Here's what we learned about how the game's world is going to react to your actions, including crimes.",
+      "url": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
+      "urlToImage": "https://assetsio.gnwcdn.com/grand-theft-auto-6-police-car.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
-      "publishedAt": "2026-08-27T11:16:24Z"
+      "publishedAt": "2026-08-28T10:10:16Z"
     },
     {
-      "title": "Hugging Face Unveils $400 Singing, Skating Duck-Like Robot - Bloomberg.com",
-      "description": "Artificial intelligence platform Hugging Face Inc. unveiled a singing $400 bipedal robot that can be taught tricks, the latest in the company’s ongoing effort to make AI and robotics more approachable to the general public.The cute robot — aptly named Microdu…",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/hugging-face-unveils-400-singing-skating-duck-like-robot",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibEoNidLRx4E/v2/1200x676.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-27T10:00:10Z"
-    },
-    {
-      "title": "Marmots Are Terrorizing California Hikers and Stealing Their Shoes - WSJ",
+      "title": "Managers Beware: ‘Grand Theft Auto VI’ Is Going to Be a Work Blackout - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/lifestyle/travel/marmots-hikers-california-sequoia-a197b314",
+      "url": "https://www.wsj.com/arts-culture/people-are-saving-up-their-vacation-days-to-binge-grand-theft-auto-vi-90cda437",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-27T09:30:00Z"
+      "publishedAt": "2026-08-28T09:30:00Z"
     },
     {
-      "title": "Call Of Duty: Modern Warfare 4 Switch 2 Estimated File Size Revealed - Nintendo Life",
-      "description": "It's a big one!",
-      "url": "https://www.nintendolife.com/news/2026/08/call-of-duty-modern-warfare-4-switch-2-estimated-file-size-revealed",
-      "urlToImage": "https://images.nintendolife.com/49b752fc74b33/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-08-27T05:30:00Z"
+      "title": "Laser-wielding mosquito killer hits market promising to track and zap backyard pests midair - Fox Business",
+      "description": "Photon Matrix says its laser mosquito zapper uses lidar, radar and AI vision to detect and eliminate mosquitoes midair, but the device costs nearly $1,000.",
+      "url": "https://www.foxbusiness.com/technology/laser-wielding-mosquito-killer-hits-market-promising-track-zap-backyard-pests-midair",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/bug-zapper-3.png?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-28T01:53:00Z"
     },
     {
-      "title": "Apple says these three things can speed up the new Spotlight indexing - 9to5Mac",
-      "description": "Apple has explained how Spotlight indexing works across its devices, including three things it says can help the process finish more quickly.",
-      "url": "https://9to5mac.com/2026/08/26/apple-says-these-three-things-can-speed-up-the-new-spotlight-indexing/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/indexing-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "title": "The GTA VI ‘extended look’ is now streaming on YouTube - The Verge",
+      "description": "Rockstar Games has published the official YouTube version of the GTA VI “extended look” that originally premiered for Netflix subscribers.",
+      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-08-28T01:05:00Z"
+    },
+    {
+      "title": "SanDisk launches 1TB microSD Express card for Switch 2 - Notebookcheck",
+      "description": "SanDisk has unveiled a new SD Express card at Gamescom. It allows Switch 2 owners to upgrade to 1TB of storage and is also compatible with several Asus gaming handhelds. However, the card is very expensive.",
+      "url": "https://www.notebookcheck.net/SanDisk-launches-1TB-microSD-Express-card-for-Switch-2.1381155.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/microsd-express-memory-card-1tb-front.png.wdthumb.1280.1280.webp",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-28T00:19:00Z"
+    },
+    {
+      "title": "GTA 6 Sounds Like It Won't Be 60FPS At Launch - Kotaku",
+      "description": "Higher frame rates could get patched in later",
+      "url": "https://kotaku.com/gta-6-will-be-30fps-at-launch-rockstar-reportedly-not-sure-about-60fps-performance-mode-2000729032",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/08/GTa-6-10803-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-08-27T22:01:17Z"
+    },
+    {
+      "title": "Jonny Kim’s resume already lists Navy SEAL, astronaut, doctor. He’s now returning to active duty. - Navy Times",
+      "description": "After almost a decade of working at NASA, Jonny Kim will return to active duty for the U.S. Navy, where he previously served as a SEAL.",
+      "url": "https://www.navytimes.com/news/your-navy/2026/08/27/jonny-kims-resume-already-lists-navy-seal-astronaut-doctor-hes-now-returning-to-active-duty/",
+      "urlToImage": "https://www.armytimes.com/resizer/v2/REHVHIZIERG6TLJWPB2XSLTGYQ.jpg?width=1200&auth=92de5b517c52a44157e14dd3cc302f229caeec7de088b129cb8c874f66d98874",
+      "source": "NavyTimes.com",
+      "publishedAt": "2026-08-27T21:42:31Z"
+    },
+    {
+      "title": "Rockstar Games pulls back the curtain on ‘Grand Theft Auto VI’ after leak - NBC News",
+      "description": "The company teamed up with Netflix to offer fans an extended look at Jason and Lucia’s life of crime in Vice City, days after a hack leaked material from the long-awaited game.",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/rockstar-games-netflix-grand-theft-auto-vi-teaser-preview-what-to-know-rcna591225",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260827-grand-thef-auto-vi-mn-1140-a742cf.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-08-27T20:57:13Z"
+    },
+    {
+      "title": "Ikea’s New Collection Is a Mislabeled Gold Mine of Smart Home Office Upgrades - Gear Patrol",
+      "description": "Ikea made its latest collection for gamers, but it quietly includes some of the smartest home office and small-space furniture the brand has released in years.",
+      "url": "https://www.gearpatrol.com/home/ikea-xbox-gaming-yxstaby-furniture-collection-revealed/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/Ikea-Work-from-Home-Illustration.webp",
+      "source": "Gear Patrol",
+      "publishedAt": "2026-08-27T20:54:41Z"
+    },
+    {
+      "title": "Google announces ‘Expert Intelligence’ to let you add Play Books in Gemini Notebook - 9to5Google",
+      "description": "Expert Intelligence is a new “cross Google initiative that helps you engage with your trusted sources through Google AI products,” starting with Play Books and Gemini Notebook.",
+      "url": "http://9to5google.com/2026/08/27/gemini-notebook-play-books/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Google-Expert-Intelligence.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5google.com",
+      "publishedAt": "2026-08-27T19:58:00Z"
+    },
+    {
+      "title": "GTA 6's driving and car-jacking will be \"more challenging\", Rockstar says, amid a seemingly big push for realism - Eurogamer.net",
+      "description": "Rockstar has apparently revamped the series' pick-up-and-play systems for something much more involved - but will it get in the way of the fun?",
+      "url": "https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push",
+      "urlToImage": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-screaming-car.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-08-27T19:44:05Z"
+    },
+    {
+      "title": "GTA 6 Playthrough Can Last Roughly 80 Hours - GameSpot",
+      "description": "Rockstar North's Rob Nelson says his own playthrough of the game lasted dozens of hours.",
+      "url": "https://www.gamespot.com/articles/gta-6-playthrough-can-last-roughly-80-hours/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/08/4230001-1.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2026-08-27T19:35:54Z"
+    },
+    {
+      "title": "GTA 6’s Love Story Matters Less Than Rockstar’s Trailers Make It Seem - IGN",
+      "description": "GTA 6 has a whole relationship system to increase Jason and Lucia’s bond, but it’s completely optional if you’d rather keep things platonic.",
+      "url": "https://www.ign.com/articles/gta-6-jason-lucia-relationship-system-explained",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/mega-3-1787855175829.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-27T19:00:59Z"
+    },
+    {
+      "title": "‘We Have To Be Careful’ — Rockstar on GTA 6’s Approach to Satire - IGN",
+      "description": "Rockstar is still dedicated to making Grand Theft Auto a funny satire of modern America, but it’s being careful with its references to ensure GTA 6 doesn’t feel dated before it launches.",
+      "url": "https://www.ign.com/articles/gta-6-satire-humor-rockstar-comments",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/gta6-satire-news-1787848953836.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-27T19:00:39Z"
+    },
+    {
+      "title": "The Witcher 3 Remastered Brought in a Community Modder to Help CD Projekt Red Build - IGN",
+      "description": "CD Projekt Red enlisted the help of a modder to help make the newly revealed The Witcher 3: Wild Hunt – Remastered look better than ever.",
+      "url": "https://www.ign.com/articles/cd-projekt-red-enlisted-modder-to-help-make-the-witcher-3-look-better-than-ever-in-new-remaster",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/05/31/firstwitcher011280jpg-7667b2-1622477139209.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-27T18:28:11Z"
+    },
+    {
+      "title": "M6 Mac mini: Three things Apple didn’t highlight in the announcement - 9to5Mac",
+      "description": "A new Mac mini with M6 and M5 Pro was unveiled this week, but we’ve since learned three things that weren’t highlighted by Apple.",
+      "url": "https://9to5mac.com/2026/08/27/m6-mac-mini-three-things-apple-didnt-highlight-in-the-announcement/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-top-down-m6.jpg?quality=82&strip=all&resize=1200,628",
       "source": "9to5Mac",
-      "publishedAt": "2026-08-27T02:24:00Z"
+      "publishedAt": "2026-08-27T18:20:00Z"
     },
     {
-      "title": "Microsoft's latest AI rebrand beats its own history of terrible rebrands, renaming Microsoft 365 Roadmap to \"AI at Work\" - Windows Latest",
-      "description": "If you use Microsoft 365 and want to know what’s coming next, what would you search for on Google/Bing? Microsoft 365 Roadmap, right? Wrong. Microsoft now wants you to search for “AI at Work Roadmap,” as it “centralizes AI innovations” across products like Wo…",
-      "url": "https://www.windowslatest.com/2026/08/27/microsoft-just-renamed-a-product-after-ai-microsoft-365-roadmap-is-called-at-at-work/",
-      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/08/Microsoft-365-Copilot-AI.jpg",
-      "source": "WindowsLatest",
-      "publishedAt": "2026-08-27T00:32:24Z"
+      "title": "Windows 11 version 26H2 enters final preview phase before general mass rollout begins - Windows Central",
+      "description": "Microsoft has announced that Windows 11 version 26H2 is now available to test in the Windows Insider Release Preview Channel, which means general availability is imminent.",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-finalizes-windows-11-version-26h2-for-general-availability-next-version-of-windows-11-enters-final-preview-phase-before-rollout-begins",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fKbbqRFQ4BnYrkUMYE2u8c-2560-80.jpg",
+      "source": "Windows Central",
+      "publishedAt": "2026-08-27T18:02:19Z"
     },
     {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation - TechCrunch",
-      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-27T00:24:57Z"
+      "title": "Surprise Elden Ring Patch Notes Reveal Buffs and a Few Nerfs in Biggest Update in Years - IGN",
+      "description": "FromSoftware has delivered a surprise Elden Ring update, revealing the biggest changes its critically acclaimed action-RPG has gotten in years.",
+      "url": "https://www.ign.com/articles/elden-ring-update-patch-notes-reveal-biggest-changes-in-years",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/03/04/elden-ring-rune-farm-1646401242502.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-27T17:42:08Z"
     },
     {
-      "title": "Video: Elden Ring Nintendo Switch 2 vs. PS5 graphics comparison - Nintendo Everything",
-      "description": "Elden Ring is launching imminently on Nintendo Switch 2, and we’re now able to get a better look at how it compares to the PS5 release with a graphics comparison video. Much has been made of the Nintendo Switch 2 version going back to last year. Out of the ga…",
-      "url": "https://nintendoeverything.com/video-elden-ring-nintendo-switch-2-vs-ps5-graphics-comparison/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Elden-Ring-graphics-comparison.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-08-26T22:05:50Z"
+      "title": "NVIDIA DLSS 5 DLL Leaked by NBA 2K27 Early Access Build, Here's Our Analysis - TechPowerUp",
+      "description": "Earlier today, we reported that a DLSS 5 DLL has been leaked by an early access build of 2K's NBA2K27 early access. NVIDIA announced DLSS 5 earlier this year, and showed more details at SIGGRAPH this year, saying it would ship \"this fall.\" However, we were su…",
+      "url": "https://www.techpowerup.com/352033/nvidia-dlss-5-dll-leaked-by-nba-2k27-early-access-build-heres-our-analysis",
+      "urlToImage": "https://www.techpowerup.com/img/RKtEilb2ZKKV7hJE.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-08-27T17:32:06Z"
     }
   ]
 }
