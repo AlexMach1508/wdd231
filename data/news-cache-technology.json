@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-08-29T12:38:09.720Z",
+  "updatedAt": "2026-08-30T11:49:24.586Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "People are itching to create the Gen Z version of Friends. Here's five reasons it's impossible - BBC",
-      "description": "The legacy of Friends can be seen in a new wave of US sitcoms about twenty-something pals hitting the small screen. But, unlike the classic show, they're struggling to make a mark.",
-      "url": "https://www.bbc.com/culture/article/20260827-five-reasons-why-the-gen-z-friends-is-impossible",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0p6llbm.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-08-28T10:38:02Z"
+      "title": "Fatal Fury: City of the Wolves is free to play for the weekend though only on one platform, Standard Edition on sale for just $10 - EventHubs",
+      "description": "Duck King just launched as the second DLC character of Fatal Fury: City of the Wolves Season 3, and there's a few special offers going around for the game right now.Players who've never hopped on to the ...",
+      "url": "https://www.eventhubs.com/news/2026/aug/28/fatal-fury-free-sale/",
+      "urlToImage": "https://media.eventhubs.com/images/2026/08/28-fatal-fury-free-salet.webp",
+      "source": "EventHubs",
+      "publishedAt": "2026-08-28T22:29:02Z"
     },
     {
-      "title": "GTA 6 is revamping the Wanted system and giving you a Criminal Profile - Eurogamer.net",
-      "description": "The veil has been lifted off GTA 6. Here's what we learned about how the game's world is going to react to your actions, including crimes.",
-      "url": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
-      "urlToImage": "https://assetsio.gnwcdn.com/grand-theft-auto-6-police-car.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-08-28T10:10:16Z"
-    },
-    {
-      "title": "Managers Beware: ‘Grand Theft Auto VI’ Is Going to Be a Work Blackout - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/arts-culture/people-are-saving-up-their-vacation-days-to-binge-grand-theft-auto-vi-90cda437",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-08-28T09:30:00Z"
-    },
-    {
-      "title": "Laser-wielding mosquito killer hits market promising to track and zap backyard pests midair - Fox Business",
-      "description": "Photon Matrix says its laser mosquito zapper uses lidar, radar and AI vision to detect and eliminate mosquitoes midair, but the device costs nearly $1,000.",
-      "url": "https://www.foxbusiness.com/technology/laser-wielding-mosquito-killer-hits-market-promising-track-zap-backyard-pests-midair",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/bug-zapper-3.png?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-08-28T01:53:00Z"
-    },
-    {
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube - The Verge",
-      "description": "Rockstar Games has published the official YouTube version of the GTA VI “extended look” that originally premiered for Netflix subscribers.",
-      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "title": "Xbox CEO calls Project Helix a ‘family of devices’ - The Verge",
+      "description": "Xbox CEO Asha Sharma tells BBC News that Project Helix will be a “family of devices.”",
+      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-08-28T01:05:00Z"
+      "publishedAt": "2026-08-28T22:03:13Z"
     },
     {
-      "title": "SanDisk launches 1TB microSD Express card for Switch 2 - Notebookcheck",
-      "description": "SanDisk has unveiled a new SD Express card at Gamescom. It allows Switch 2 owners to upgrade to 1TB of storage and is also compatible with several Asus gaming handhelds. However, the card is very expensive.",
-      "url": "https://www.notebookcheck.net/SanDisk-launches-1TB-microSD-Express-card-for-Switch-2.1381155.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/microsd-express-memory-card-1tb-front.png.wdthumb.1280.1280.webp",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-08-28T00:19:00Z"
-    },
-    {
-      "title": "GTA 6 Sounds Like It Won't Be 60FPS At Launch - Kotaku",
-      "description": "Higher frame rates could get patched in later",
-      "url": "https://kotaku.com/gta-6-will-be-30fps-at-launch-rockstar-reportedly-not-sure-about-60fps-performance-mode-2000729032",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/08/GTa-6-10803-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-08-27T22:01:17Z"
-    },
-    {
-      "title": "Jonny Kim’s resume already lists Navy SEAL, astronaut, doctor. He’s now returning to active duty. - Navy Times",
-      "description": "After almost a decade of working at NASA, Jonny Kim will return to active duty for the U.S. Navy, where he previously served as a SEAL.",
-      "url": "https://www.navytimes.com/news/your-navy/2026/08/27/jonny-kims-resume-already-lists-navy-seal-astronaut-doctor-hes-now-returning-to-active-duty/",
-      "urlToImage": "https://www.armytimes.com/resizer/v2/REHVHIZIERG6TLJWPB2XSLTGYQ.jpg?width=1200&auth=92de5b517c52a44157e14dd3cc302f229caeec7de088b129cb8c874f66d98874",
-      "source": "NavyTimes.com",
-      "publishedAt": "2026-08-27T21:42:31Z"
-    },
-    {
-      "title": "Rockstar Games pulls back the curtain on ‘Grand Theft Auto VI’ after leak - NBC News",
-      "description": "The company teamed up with Netflix to offer fans an extended look at Jason and Lucia’s life of crime in Vice City, days after a hack leaked material from the long-awaited game.",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/rockstar-games-netflix-grand-theft-auto-vi-teaser-preview-what-to-know-rcna591225",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260827-grand-thef-auto-vi-mn-1140-a742cf.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-08-27T20:57:13Z"
-    },
-    {
-      "title": "Ikea’s New Collection Is a Mislabeled Gold Mine of Smart Home Office Upgrades - Gear Patrol",
-      "description": "Ikea made its latest collection for gamers, but it quietly includes some of the smartest home office and small-space furniture the brand has released in years.",
-      "url": "https://www.gearpatrol.com/home/ikea-xbox-gaming-yxstaby-furniture-collection-revealed/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/Ikea-Work-from-Home-Illustration.webp",
-      "source": "Gear Patrol",
-      "publishedAt": "2026-08-27T20:54:41Z"
-    },
-    {
-      "title": "Google announces ‘Expert Intelligence’ to let you add Play Books in Gemini Notebook - 9to5Google",
-      "description": "Expert Intelligence is a new “cross Google initiative that helps you engage with your trusted sources through Google AI products,” starting with Play Books and Gemini Notebook.",
-      "url": "http://9to5google.com/2026/08/27/gemini-notebook-play-books/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Google-Expert-Intelligence.jpg?quality=82&strip=all&resize=1200,628",
+      "title": "Android 17 QPR2 Beta 4 rolling out with many Pixel bug fixes - 9to5Google",
+      "description": "Following the big release two weeks ago, Google is rolling out Android 17 QPR2 Beta 4 for Pixel devices...",
+      "url": "http://9to5google.com/2026/08/28/android-17-qpr2-beta-4-pixel/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?quality=82&strip=all&resize=1200,628",
       "source": "9to5google.com",
-      "publishedAt": "2026-08-27T19:58:00Z"
+      "publishedAt": "2026-08-28T21:53:00Z"
     },
     {
-      "title": "GTA 6's driving and car-jacking will be \"more challenging\", Rockstar says, amid a seemingly big push for realism - Eurogamer.net",
-      "description": "Rockstar has apparently revamped the series' pick-up-and-play systems for something much more involved - but will it get in the way of the fun?",
-      "url": "https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push",
-      "urlToImage": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-screaming-car.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-08-27T19:44:05Z"
+      "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard - Kotaku",
+      "description": "Committing grand theft auto in Grand Theft Auto 6 will be much more challenging and rewarding",
+      "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/08/GTa-6-stealing-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-08-28T19:31:12Z"
     },
     {
-      "title": "GTA 6 Playthrough Can Last Roughly 80 Hours - GameSpot",
-      "description": "Rockstar North's Rob Nelson says his own playthrough of the game lasted dozens of hours.",
-      "url": "https://www.gamespot.com/articles/gta-6-playthrough-can-last-roughly-80-hours/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/08/4230001-1.jpg",
+      "title": "Game Developers Devastated By Gamescom Laptop Theft Spree - Aftermath",
+      "description": "Multiple developers had laptops stolen Thursday night",
+      "url": "https://aftermath.site/gamescom-laptop-theft-spree-iam8bit-mimic/",
+      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/photo-1566755272146-d8ebc6bdcdc7.jpeg",
+      "source": "Aftermath.site",
+      "publishedAt": "2026-08-28T18:29:15Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 series receives seventh One UI 9 beta with Galaxy Z Fold8 series' features - GSMArena.com news - GSMArena.com",
+      "description": "This was a surprise, as the sixth beta was released just a few days ago. Samsung released the sixth One UI 9 beta for the Galaxy S26 series earlier this...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_7_update-news-74387.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-series-one-ui-9-beta-7-update/-952x498w6/gsmarena_001.jpg",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-08-28T17:47:02Z"
+    },
+    {
+      "title": "Turn-Based-Tactics Fans Are Suddenly Eating Very Well - GameSpot",
+      "description": "Enjoying Star Wars Zero Company? There are some other impressive-looking turn-based games coming soon.",
+      "url": "https://www.gamespot.com/articles/turn-based-tactics-fans-are-suddenly-eating-very-well/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/08/star-wars-zero-company-tactics.jpg",
       "source": "GameSpot",
-      "publishedAt": "2026-08-27T19:35:54Z"
+      "publishedAt": "2026-08-28T17:26:41Z"
     },
     {
-      "title": "GTA 6’s Love Story Matters Less Than Rockstar’s Trailers Make It Seem - IGN",
-      "description": "GTA 6 has a whole relationship system to increase Jason and Lucia’s bond, but it’s completely optional if you’d rather keep things platonic.",
-      "url": "https://www.ign.com/articles/gta-6-jason-lucia-relationship-system-explained",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/mega-3-1787855175829.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-08-27T19:00:59Z"
+      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent - Ars Technica",
+      "description": "Annual Apple TV subscriptions get the biggest bump.",
+      "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-28T17:23:53Z"
     },
     {
-      "title": "‘We Have To Be Careful’ — Rockstar on GTA 6’s Approach to Satire - IGN",
-      "description": "Rockstar is still dedicated to making Grand Theft Auto a funny satire of modern America, but it’s being careful with its references to ensure GTA 6 doesn’t feel dated before it launches.",
-      "url": "https://www.ign.com/articles/gta-6-satire-humor-rockstar-comments",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/gta6-satire-news-1787848953836.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-08-27T19:00:39Z"
-    },
-    {
-      "title": "The Witcher 3 Remastered Brought in a Community Modder to Help CD Projekt Red Build - IGN",
-      "description": "CD Projekt Red enlisted the help of a modder to help make the newly revealed The Witcher 3: Wild Hunt – Remastered look better than ever.",
-      "url": "https://www.ign.com/articles/cd-projekt-red-enlisted-modder-to-help-make-the-witcher-3-look-better-than-ever-in-new-remaster",
-      "urlToImage": "https://assets-prd.ignimgs.com/2021/05/31/firstwitcher011280jpg-7667b2-1622477139209.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-08-27T18:28:11Z"
-    },
-    {
-      "title": "M6 Mac mini: Three things Apple didn’t highlight in the announcement - 9to5Mac",
-      "description": "A new Mac mini with M6 and M5 Pro was unveiled this week, but we’ve since learned three things that weren’t highlighted by Apple.",
-      "url": "https://9to5mac.com/2026/08/27/m6-mac-mini-three-things-apple-didnt-highlight-in-the-announcement/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-top-down-m6.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-08-27T18:20:00Z"
-    },
-    {
-      "title": "Windows 11 version 26H2 enters final preview phase before general mass rollout begins - Windows Central",
-      "description": "Microsoft has announced that Windows 11 version 26H2 is now available to test in the Windows Insider Release Preview Channel, which means general availability is imminent.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-finalizes-windows-11-version-26h2-for-general-availability-next-version-of-windows-11-enters-final-preview-phase-before-rollout-begins",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fKbbqRFQ4BnYrkUMYE2u8c-2560-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2026-08-27T18:02:19Z"
-    },
-    {
-      "title": "Surprise Elden Ring Patch Notes Reveal Buffs and a Few Nerfs in Biggest Update in Years - IGN",
-      "description": "FromSoftware has delivered a surprise Elden Ring update, revealing the biggest changes its critically acclaimed action-RPG has gotten in years.",
-      "url": "https://www.ign.com/articles/elden-ring-update-patch-notes-reveal-biggest-changes-in-years",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/03/04/elden-ring-rune-farm-1646401242502.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-08-27T17:42:08Z"
-    },
-    {
-      "title": "NVIDIA DLSS 5 DLL Leaked by NBA 2K27 Early Access Build, Here's Our Analysis - TechPowerUp",
-      "description": "Earlier today, we reported that a DLSS 5 DLL has been leaked by an early access build of 2K's NBA2K27 early access. NVIDIA announced DLSS 5 earlier this year, and showed more details at SIGGRAPH this year, saying it would ship \"this fall.\" However, we were su…",
-      "url": "https://www.techpowerup.com/352033/nvidia-dlss-5-dll-leaked-by-nba-2k27-early-access-build-heres-our-analysis",
-      "urlToImage": "https://www.techpowerup.com/img/RKtEilb2ZKKV7hJE.jpg",
+      "title": "DLSS 5 Patched to Work on RTX 4000 \"Ada Lovelace\" GPUs Despite No Official Support - TechPowerUp",
+      "description": "The modding community has been hard at work ever since the untimely release of DLSS-NR, a precursor to DLSS 5. Now, modders have gotten NVIDIA's leaked DLSS 5 tool working on RTX 4000 series cards, even though the tool was only built for RTX 5000 Blackwell ha…",
+      "url": "https://www.techpowerup.com/352086/dlss-5-patched-to-work-on-rtx-4000-ada-lovelace-gpus-despite-no-official-support",
+      "urlToImage": "https://www.techpowerup.com/img/cFxxKlXUNA2hUdg1.jpg",
       "source": "Techpowerup.com",
-      "publishedAt": "2026-08-27T17:32:06Z"
+      "publishedAt": "2026-08-28T17:22:12Z"
+    },
+    {
+      "title": "Here’s Your New Trade-in Values Towards the Pixel 11 Series - Droid Life",
+      "description": "If you didn't buy a Pixel 11 series phone before today, you missed out on the higher trade-in values that Google was offering through the Google Store. We're now a full week out from launch day and Google told us that yesterday was the final day to get those …",
+      "url": "https://www.droid-life.com/2026/08/28/new-trade-in-values-towards-pixel-11-series/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/08/Pixel-11-Pro-Pixel-11-Pro-XL-Size-Comparison-1-1200x628.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-08-28T17:01:13Z"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt Remastered Bumps PC Minimum Hardware Requirements - TechPowerUp",
+      "description": "CD Projekt Red announced The Witcher 3: Wild Hunt Remastered at Gamescom 2026, revealing a visual, performance, and gameplay upgrades coming as a free update to The Witcher 3 for existing owners. Owners of The Witcher 3: Wild Hunt Complete Edition will see th…",
+      "url": "https://www.techpowerup.com/352088/the-witcher-3-wild-hunt-remastered-bumps-pc-minimum-hardware-requirements",
+      "urlToImage": "https://www.techpowerup.com/img/2oF9hyMsbF6nkSTW.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-08-28T16:28:14Z"
+    },
+    {
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers - The Hacker News",
+      "description": "Android 17 adds OS-wide ECH, local network permissions, default certificate transparency, and carrier-controlled 2G blocking.",
+      "url": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-08-28T16:20:00Z"
+    },
+    {
+      "title": "Xbox Anniversary Consoles Sell for Thousands on eBay as Scalpers Cash In on X25 - IGN",
+      "description": "The Xbox Series X25 anniversary console is officially up for pre-order, so you know what that means: scalpers are cashing in.",
+      "url": "https://www.ign.com/articles/xbox-anniversary-consoles-sell-for-thousands-on-ebay-as-scalpers-cash-in-on-x25",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/xboxthumb-1787840644764.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-28T16:13:08Z"
+    },
+    {
+      "title": "Fall gear alert: The North Face has rain jackets, hoodies and more up to 48% off, but not for long - NBC News",
+      "description": "The North Face is offering up to 48 percent off rain jackets, fall jackets, hoodies and fleeces right now. Here are the best deals to shop before they sell out.",
+      "url": "https://www.nbcnews.com/select/shopping/the-north-face-sale-deal-of-the-day-2026-rcna594894",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260828-dotd-the-north-face-dj-main-833972.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-08-28T16:05:01Z"
+    },
+    {
+      "title": "Elden Ring Tarnished Edition New Content Locations: All New Weapons, Armour Sets, NPC Invasions & Horse Armour - Nintendo Life",
+      "description": "The Lands Between has more to find",
+      "url": "https://www.nintendolife.com/guides/elden-ring-tarnished-edition-weapons-armor-npc-invasions-steed-attire-content",
+      "urlToImage": "https://images.nintendolife.com/2b47f583663d0/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-08-28T15:51:33Z"
+    },
+    {
+      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code - The Hacker News",
+      "description": "A cluster of 19 Chrome and Edge extensions can steal wallet secrets, drain crypto, harvest credentials, and inject code into targeted sites.",
+      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-08-28T15:27:00Z"
+    },
+    {
+      "title": "It's not clear when iPhone 18 Pro and folding iPhone preorders will start - AppleInsider",
+      "description": "Apple will reportedly sidestep a September 11 preorder date by moving sales to Saturday, only to burden buyers with a significantly less convenient start time.",
+      "url": "https://appleinsider.com/articles/26/08/28/its-not-clear-when-iphone-18-pro-and-folding-iphone-preorders-will-start",
+      "urlToImage": "https://media.appleinsider.com/gallery/68697-144829-Fold---12-xl.jpg",
+      "source": "AppleInsider",
+      "publishedAt": "2026-08-28T15:19:00Z"
+    },
+    {
+      "title": "Dev Calls Steam Branding His Adventure Game Porn 'Humiliating' - Kotaku",
+      "description": "Valve's decision to slap the PEGI 12-rated indie game Future? No Thanks! with an adults-only rating on Steam has led its developer to seek support from 'top German regulators'",
+      "url": "https://kotaku.com/steams-decision-to-brand-his-open-world-adventure-about-a-cranky-old-boomer-pornography-is-humiliating-and-surreal-developer-says-2000729298",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/08/Future-No-Thanks-official-image-molleindustria.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-08-28T14:40:45Z"
+    },
+    {
+      "title": "Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears - Eurogamer.net",
+      "description": "The Iron Man game EA announced four years ago finally reappears, albeit in a leaked gameplay video.",
+      "url": "https://www.eurogamer.net/ea-motive-iron-man-gameplay-footage-leak",
+      "urlToImage": "https://assetsio.gnwcdn.com/EA-Marvel-Motive-Iron-Man-teaser-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-08-28T14:31:10Z"
     }
   ]
 }
