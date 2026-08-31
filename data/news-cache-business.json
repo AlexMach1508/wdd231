@@ -1,151 +1,159 @@
 {
-  "updatedAt": "2026-08-30T11:49:24.661Z",
+  "updatedAt": "2026-08-31T13:34:27.405Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts - Business Insider",
-      "description": "OpenAI said it doesn't trust SpaceX to comply with its terms of service, citing past conduct by xAI, another of Elon Musk's companies.",
-      "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a92569a45e6f385a516a903?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-29T03:41:42Z"
+      "title": "40-year-old corner store brand closes all locations, to liquidate - thestreet.com",
+      "description": "The chain of mini-markets has been a regional community staple since 1986.",
+      "url": "https://www.thestreet.com/retail/premier-foreways-brand-closes-all-locations-to-liquidate",
+      "urlToImage": "https://www.thestreet.com/.image/MjE2NjU5NjUzNzAwODg3OTE5/we-are-closed-sign-on-shop-door.jpg?profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-08-30T14:40:14Z"
     },
     {
-      "title": "Anthropic sends clear message to Wall Street ahead of IPO - thestreet.com",
+      "title": "Target recovers from Ulta divorce, goes all-in on beauty - thestreet.com",
       "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/anthropic-nscale-45-billion-cloud-deal-ipo",
+      "url": "https://www.thestreet.com/retail/target-recovers-from-ulta-divorce-goes-all-in-on-beauty",
       "urlToImage": null,
       "source": "TheStreet",
-      "publishedAt": "2026-08-29T00:33:00Z"
+      "publishedAt": "2026-08-30T12:07:00Z"
     },
     {
-      "title": "12 deals I recommend buying first at REI's epic Labor Day sale - USA Today",
-      "description": "REI's Labor Day sale is live with savings on camping gear, hiking shoes, backpacks, travel accessories and outdoor apparel. Here's what to shop.",
-      "url": "https://www.usatoday.com/story/shopping/deals/labor-day/2026/08/28/best-rei-outdoor-labor-day-deals/91504933007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/28/USAT/91507983007-designer-3.png?crop=1534,865,x0,y28&width=1534&height=865&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-08-29T00:24:00Z"
+      "title": "Unsealed court documents reveal State Farm saved $1.4 billion as weather, roof claims worsened - NBC News",
+      "description": "State Farm reduced its payouts to policyholders by more than a billion dollars as massive storms tore up the rooftops of houses in Oklahoma, according to company documents released as part of an ongoing series of lawsuits.",
+      "url": "https://www.nbcnews.com/business/business-news/unsealed-court-documents-reveal-state-farm-saved-14-billion-weather-ro-rcna594377",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260825-texas-storm-mn-1500-622739.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-08-30T12:00:41Z"
     },
     {
-      "title": "SpaceX renews investor hope with bold new plan - thestreet.com",
+      "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media? - CNBC",
+      "description": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?",
+      "url": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355826-1787933010998-gettyimages-74896034-WR97090302.jpeg?v=1787933038&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-30T12:00:02Z"
+    },
+    {
+      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently - CNBC",
+      "description": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.",
+      "url": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351750-1787163029580-gettyimages-2291174689-_73a8220_66btukpe.jpeg?v=1787936496&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-30T12:00:02Z"
+    },
+    {
+      "title": "Consumer Reports Ranked These Three Off-Road SUVs From Best To Worst - Jalopnik",
+      "description": "Consumer Reports ranks the Toyota 4Runner as the best of the three vehicles, followed by the Ford Bronco and the Jeep Wrangler.",
+      "url": "https://www.jalopnik.com/2245253/consumer-reports-three-off-road-suvs-best-to-worst/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/consumer-reports-ranked-these-three-off-road-suvs-from-best-to-worst/l-intro-1787817255.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-08-30T11:05:00Z"
+    },
+    {
+      "title": "This cult-favorite spray serum is 38% off at Amazon (for now) - NBC News",
+      "description": "The D’Alba Piedmont Italian White Truffle Spray Serum is 38% off at Amazon right now. Here’s why this viral, glass-skin serum is worth grabbing while the price is down.",
+      "url": "https://www.nbcnews.com/select/shopping/dalba-spray-serum-deal-of-the-day-2026-rcna594980",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260828-DOTD-DALBA-SERUM-lf-main-32903d.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-08-30T11:00:00Z"
+    },
+    {
+      "title": "Warsh Makes the Case for Higher Rates and Raises the Bar for Standing Pat - WSJ",
       "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/spacex-spcx-plans-louisiana-starbase-spaceport",
+      "url": "https://www.wsj.com/economy/central-banking/warsh-makes-the-case-for-higher-rates-and-raises-the-bar-for-standing-pat-3cc1b306",
       "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-08-28T23:03:00Z"
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-30T09:30:00Z"
     },
     {
-      "title": "2 LaGuardia air traffic controllers left work an hour early before deadly crash, AP source says - AP News",
-      "description": "Two air traffic controllers could be fired for leaving the tower at New York’s LaGuardia Airport about an hour early on the night that an Air Canada jet smashed into a fire truck crossing the runway, killing both pilots. A government official familiar with th…",
-      "url": "https://apnews.com/article/laguardia-air-traffic-controller-air-canada-ntsb-4bb2da2b5bde880d2667552d6c97c40a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/45fde2f/2147483647/strip/true/crop/2892x1927+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F8d%2F15110743f185029fd3b8a54df519%2Fdcc63afe479549438a0d31270aa3b7ff",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-28T22:04:00Z"
+      "title": "What to Expect in Markets This Week: Dell, Several Consumer Companies to Report; August Jobs Data Due - Investopedia",
+      "description": null,
+      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-dell-several-consumer-companies-to-report-august-jobs-data-due-12069193",
+      "urlToImage": null,
+      "source": "Investopedia",
+      "publishedAt": "2026-08-30T09:00:00Z"
     },
     {
-      "title": "9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona's prosecution - Arizona Mirror",
-      "description": "9th Circuit ruling could revive the Arizona Kalshi case, finding sports bets aren’t protected as federal ‘swaps.’",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "urlToImage": "https://azmirror.com/wp-content/uploads/2026/08/kalshi-illus-njm-2048x1366.jpg",
-      "source": "Azmirror.com",
-      "publishedAt": "2026-08-28T21:34:18Z"
+      "title": "The U.S. Created 79,000 Fewer Jobs Than Previously Reported, New Revisions Suggest - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/economy/jobs/job-growth-bls-revision-5a632dc9",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-30T08:33:30Z"
     },
     {
-      "title": "Many of the Chinese bots X says posted anti-data-center content had no followers or engagement, a researcher found - Business Insider",
-      "description": "A Clemson researcher found that at least 59 of the bots had no followers or engagement and only posted a few times before they were suspended.",
-      "url": "https://www.businessinsider.com/x-chinese-bots-data-center-debate-no-engagement-followers-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a91b4e179f11f0a89f922d2?width=1200&format=jpeg",
+      "title": "The AI-slop menu is disgusting and, sadly, makes perfect sense - Business Insider",
+      "description": "Horrifying Reubens and nauseating circle shrimp are hot new menu items.",
+      "url": "https://www.businessinsider.com/menus-are-getting-ai-sloppified-and-the-images-are-terrifying-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a91e63279f11f0a89f924ff?width=1048&format=jpeg",
       "source": "Business Insider",
-      "publishedAt": "2026-08-28T20:59:00Z"
+      "publishedAt": "2026-08-30T08:31:00Z"
     },
     {
-      "title": "Grok Not Only Generates Child Porn but Was Also Trained On It, New Lawsuit Claims - Gizmodo",
-      "description": "A plaintiff is claiming that CSAM was used to train Grok.",
-      "url": "https://gizmodo.com/grok-not-only-generates-child-porn-but-was-also-trained-on-it-new-lawsuit-claims-2000804488",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/elon-looms-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-08-28T20:50:13Z"
+      "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil - Al Jazeera",
+      "description": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-oil-poster-1788067413.jpg?resize=1200%2C630",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-30T05:21:59Z"
     },
     {
-      "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes - CNBC",
-      "description": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity.",
-      "url": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355936-1787943228467-108355936-1787943060847-gettyimages-2224525376-cgv25071313769_psg_che.jpg?v=1787943238&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-08-28T20:42:07Z"
+      "title": "What’s the fiscal hit from higher yields? - Financial Times",
+      "description": "A long answer to a simple question",
+      "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe510938-1637-4daa-b754-cfa34e48dbb8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-08-30T04:12:58Z"
     },
     {
-      "title": "Jobs report, Broadcom results pose next hurdles for stock market rally - Yahoo Finance",
-      "description": "By Lewis Krauskopf NEW YORK, Aug 28 (Reuters) - A fresh look at the U.S. labor market in the coming week along with quarterly results from semiconductor comp...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jobs-report-broadcom-results-pose-100141778.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/96a754d9dbd80792d722d489514b27acc2b71a89916691ad67894d8df02c9d9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5c972e496088e7d676ccc8429a106c3d.jpg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-28T20:22:06Z"
+      "title": "Steak ’n Shake: The Midwestern Burger Chain That’s Going Full MAGA - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/steak-n-shake-maga-a85d4ee8",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-30T02:31:52Z"
     },
     {
-      "title": "Corn and wheat prices jump to highest prices in more than three years - CNBC",
-      "description": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.",
-      "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348933-1786603272529-gettyimages-2285482828-AA_14072026_2883242.jpeg?v=1786603346&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-08-28T20:00:56Z"
+      "title": "Dog-eaten meat, rats and urine: Stomach-churning details of 10K LA street food complaints revealed - New York Post",
+      "description": "Raw meat baking unrefrigerated in the heat and cockroaches crawling out of a food truck are just two of the 9,746 public health complaints about street food vendors filed across LA County in recent…",
+      "url": "https://nypost.com/2026/08/29/us-news/disgusting-details-of-10k-la-street-food-vending-complaints-revealed/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-ajhj9bxf5-1788046597467.jpg?quality=75&strip=all&1788032330&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-08-30T02:13:00Z"
     },
     {
-      "title": "Iran or the dollar? US makes an example of Banque Misr - Iran International",
-      "description": "The US has opened a new front in its economic campaign against Iran by threatening to cut a major third-country bank out of the dollar system over alleged involvement in Tehran’s shadow-banking network.",
-      "url": "https://www.iranintl.com/en/202608284624",
-      "urlToImage": "https://i.iranintl.com/images/rdk9umy0/production/7acd9c50239c103c4ffc043c895aec26842d2f7c-1200x853.jpg?rect=42,117,1158,608&w=1200&h=630&q=66&fit=max&auto=format",
-      "source": "Iranintl.com",
-      "publishedAt": "2026-08-28T19:50:14Z"
+      "title": "Morgan Stanley finds bigger story in SpaceX’s $100 billion bet - thestreet.com",
+      "description": "One enormous SpaceX project points to an unexpected opportunity",
+      "url": "https://www.thestreet.com/investing/spacex-stock-morgan-stanley-louisiana-starbase",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTYwMzk4/untitled.jpg?profile=share16-9",
+      "source": "TheStreet",
+      "publishedAt": "2026-08-30T00:07:00Z"
     },
     {
-      "title": "Branded fruit: How produce got “Honeycrisp-ified\" : Planet Money - NPR",
-      "description": "The produce aisle is changing. You’ve noticed this, I’m sure. It is now full of superstar fruits and vegetables: The Honeycrisp apple, The Cotton Candy grape, The Cuties mandarin orange. They stand out. They cost more. They have branding and sometimes tradema…",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947931/tomato-varieties-nixon-apples",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+1/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fa1%2F3b864dae484f981299f01fb966e6%2F5eab7aed-06ce-42f8-a48c-aa27c5ac83ed.png",
-      "source": "NPR",
-      "publishedAt": "2026-08-28T19:19:07Z"
+      "title": "‘A Roth IRA on Steroids’: Wealthy Americans Find Another Tax-Free Way to Invest - WSJ",
+      "description": "Private-placement life insurance contracts allow unlimited investments to grow tax-free",
+      "url": "https://www.wsj.com/finance/investing/a-roth-ira-on-steroids-wealthy-americans-find-another-tax-free-way-to-invest-82816ffc",
+      "urlToImage": "https://images.wsj.net/im-91034723/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-08-30T00:00:00Z"
     },
     {
-      "title": "5 lessons from the OpenAI / Hugging Face incident - Marcus on AI | Substack",
-      "description": "Did OpenAI really do the best they could?",
-      "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!u_oJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd299653c-48d8-459e-a248-53fc80ab8ce6_2420x1264.jpeg",
-      "source": "Substack.com",
-      "publishedAt": "2026-08-28T18:24:05Z"
+      "title": "SpaceX Is Trading Near Its $135 Offering Price. Wall Street Analysts Say This Is What Happens Next. - The Motley Fool",
+      "description": "Wall Street analysts believe there is more upside in SpaceX shares from here. Are they right?",
+      "url": "https://www.fool.com/investing/2026/08/29/spacex-is-trading-near-its-135-offering-price-wall/",
+      "urlToImage": null,
+      "source": "Motley Fool",
+      "publishedAt": "2026-08-29T23:45:00Z"
     },
     {
-      "title": "Nvidia almighty: Chip riches flood through AI universe - Axios",
-      "description": "It's Nvidia's world. We're just living in it.",
-      "url": "https://www.axios.com/2026/08/28/nvidia-ai-chip-circular-finance-startups",
-      "urlToImage": "https://images.axios.com/qxg_2eiRJLYJhvuMgJuaDWTjSzE=/0x0:4500x2531/1366x768/2026/08/27/1787874278680.jpg",
+      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music - Axios",
+      "description": "The suit is likely the opening salvo in what promises to be a long battle over intellectual property.",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "urlToImage": "https://images.axios.com/qhcf30-AQP9rUCSe_T43DXl9xoY=/0x81:5472x3159/1366x768/2026/08/29/1788019156066.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-08-28T18:23:50Z"
-    },
-    {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets - TechCrunch",
-      "description": "There's a lot of capital pouring into the business of giving models away.",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-28T18:19:40Z"
-    },
-    {
-      "title": "National Target Boycott leaders demand answers over racist Halloween costume - FOX 9 Minneapolis-St. Paul",
-      "description": "Minnesota civil rights leaders held a protest outside Target headquarters in Minneapolis to \"demand answers about how a racially offensive children's Halloween costume made it through the retailer's internal review and approval processes,\" according to a news…",
-      "url": "https://www.fox9.com/news/target-boycott-activists-demand-answers-over-offensive-halloween-costume-imagery-aug-28-2026",
-      "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/08/1200/630/08282026-target-protest-kmspeme002_11_52_53_mpg_00.14.05.34.jpg?ve=1&tl=1",
-      "source": "FOX 9",
-      "publishedAt": "2026-08-28T16:56:40Z"
-    },
-    {
-      "title": "Amazon Labor Day sales: Early deals from Apple, Hanes, Dyson and more up to 70% off - Yahoo",
-      "description": "These major Labor Day deals on top brands are tough to pass up — we found big savings on fall style must-haves, smart TVs, vacuums, kitchenware and more.",
-      "url": "https://shopping.yahoo.com/deals/article/amazon-labor-day-sales-early-deals-from-apple-hanes-dyson-and-more-up-to-70-off-163307915.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/432d4871e3fa286a94868782b3a4f1e672e3a23a5c1cb0003553f5bf717cf724/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fhangtag-tentpole-badge-template_9543.png",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-28T16:33:07Z"
+      "publishedAt": "2026-08-29T23:34:18Z"
     }
   ]
 }
