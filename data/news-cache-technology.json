@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-09-01T11:33:18.895Z",
+  "updatedAt": "2026-09-02T11:10:29.301Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "State of Play Confirmed for 3rd September, State of Play Japan Show Straight After - Push Square",
-      "description": "See a new look at Final Fantasy 7 Revelation",
-      "url": "https://www.pushsquare.com/news/2026/08/state-of-play-confirmed-for-3rd-september-state-of-play-japan-show-straight-after",
-      "urlToImage": "https://images.pushsquare.com/bfdead7244290/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-08-31T12:11:15Z"
+      "title": "What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era - Vogue",
+      "description": "The CameraJet toothbrush marks Dyson’s first step into the oral care category, which is undergoing a broader makeover.",
+      "url": "https://www.vogue.com/article/what-dysons-first-toothbrush-says-about-oral-cares-beauty-era",
+      "urlToImage": "https://assets.vogue.com/photos/6a95b2cdec7a28024a73a086/16:9/w_1280,c_limit/OC01_PPIDROSSVL_066-CMYK-InUse-Talent-Female-West-Smiling-EyesClosed-A1_MONO%20(2).jpeg",
+      "source": "Vogue",
+      "publishedAt": "2026-09-01T09:30:00Z"
     },
     {
-      "title": "September’s Miniature of the Month and Collectible Coin revealed - Warhammer Community",
-      "description": "See what you can get in your local Warhammer store in September.",
-      "url": "https://www.warhammer-community.com/articles/qgmvkomp/septembers-miniature-of-the-month-and-collectible-coin-revealed",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/motm-aug31-1-feature-npgwvvgvtp.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-08-31T11:58:25Z"
+      "title": "The Blood of Dawnwalker Review: Time Doesn't Heal All Wounds - Game Informer",
+      "description": "The Blood of Dawnwalker (PlayStation 5) Review – 7/10: Despite mechanical gripes, The Blood of Dawnwalker shows that curating a massive RPG rather than",
+      "url": "https://gameinformer.com/review/the-blood-of-dawnwalker/time-doesnt-heal-all-wounds",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/29/3aa3a2b3/ww_dw_standardedition_screenshot_03.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-09-01T09:14:38Z"
     },
     {
-      "title": "How long is Fable? - Eurogamer.net",
-      "description": "Xbox has revealed how long Fable's main story will take to finish, and its life sim elements could stretch playtime much further.",
-      "url": "https://www.eurogamer.net/fable-main-story-length-15-20-hours-xbox",
-      "urlToImage": "https://assetsio.gnwcdn.com/01_Fable_Choices.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-08-31T11:05:50Z"
+      "title": "Seiko Expands The Speedtimer Collection With Four New References - Fratello Watches",
+      "description": "✓ Jorg goes hands-on with the latest Seiko Speedtimers ✓ Two new mechanical chronographs and two time-only models ✓ Read it here! ✓",
+      "url": "https://www.fratellowatches.com/seiko-expands-the-speedtimer-collection-with-four-new-references/",
+      "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/Seiko-Speedtimer-Models-HBD001-HBD002-HBC003-HBC004-10.jpg",
+      "source": "Fratellowatches.com",
+      "publishedAt": "2026-09-01T05:02:24Z"
     },
     {
-      "title": "Amazon makes Alexa+ free on compatible Fire TVs - Fox News",
-      "description": "Amazon's Alexa+ rolls out free to Fire TV devices across the U.S., but hands-free microphones and stored voice data raise key privacy questions.",
-      "url": "https://www.foxnews.com/tech/amazon-makes-alexa-free-compatible-fire-tvs",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/amazon-fire-tv-alexa.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-08-31T10:51:18Z"
+      "title": "Tengo Project announces side-scrolling shoot ’em up remake Cybernetic Attack: Final Mission - Gematsu",
+      "description": "Tengo Project has announced Cybernetic Attack: Final Mission, a 16-bit-style remake of the 8-bit side-scrolling shoot ’em up game S.C.A.T.: Special Cybernetic Attack Team. Platforms and a rel…",
+      "url": "https://www.gematsu.com/2026/08/tengo-project-announces-side-scrolling-shoot-em-up-remake-cybernetic-attack-final-mission",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/08/Cybernetic-Attack-Ann_08-31-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-09-01T03:30:24Z"
     },
     {
-      "title": "The Witcher 4 already runs on all target platforms - CD Projekt Red not taking any chances after Cyberpunk 2077 - Eurogamer.net",
-      "description": "CD Projekt Red has seemingly learned its lesson from Cyberpunk 2077, as the developer already has The Witcher 4 running on its target platforms.",
-      "url": "https://www.eurogamer.net/the-witcher-4-runs-on-pc-ps5-xbox-cyberpunk-2077-lessons",
-      "urlToImage": "https://assetsio.gnwcdn.com/The-Witcher-4-%E2%80%93-Cinematic-Reveal-Trailer-%E2%80%93-Behind-the-scenes-1-6-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-08-31T10:10:17Z"
+      "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises - VentureBeat",
+      "description": "OpenClaw is making another bet: that enterprises ultimately need an agent platform to function as both runtime and workplace.",
+      "url": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
+      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/5b6Yc3MtilCHZByZlSPAAU/ccd8c5adf4d86701c0572337f4aa06ca/ChatGPT_Image_Aug_31__2026__10_41_38_PM.png?w=800&q=75",
+      "source": "VentureBeat",
+      "publishedAt": "2026-09-01T03:27:47Z"
     },
     {
-      "title": "Pocket’s AI made my game ideas real. Now Meta controls the results. - Ars Technica",
-      "description": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
-      "source": "Ars Technica",
-      "publishedAt": "2026-08-31T10:00:34Z"
+      "title": "Microsoft acknowledges widespread Exchange Online problems - Mashable",
+      "description": "Initially reported as an Outlook problem, Microsoft says its Exchange Online service has been disrupted.",
+      "url": "https://mashable.com/tech/microsoft-responds-exchange-online-outlook-outage-aug-31",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03hQIuXtXkx9hM5Jadk7sCZ/hero-image.fill.size_1200x675.v1788214528.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-09-01T02:48:45Z"
     },
     {
-      "title": "Apple Reportedly Considered Going Full Palm Pilot With Its Foldable iPhone - Gizmodo",
-      "description": "Steve Jobs did not want the iPhone to be controlled with a stylus.",
-      "url": "https://gizmodo.com/apple-reportedly-considered-going-full-palm-pilot-with-its-foldable-iphone-2000804798",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/palm-pilot-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-08-31T09:30:15Z"
+      "title": "Valve suffers massive 12TB leak, revealing a decade of Steam game files - Mashable",
+      "description": "The colossal leak could include data from over 2000 video games.",
+      "url": "https://mashable.com/entertainment/valve-leak-12-terabytes-steam-games",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05tC2qkVdI471bmvenaSCG3/hero-image.fill.size_1200x675.v1788167242.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-09-01T02:27:44Z"
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 beta Steam numbers haven't budged in the second weekend, despite Warzone's arrival and transformative patch - Eurogamer.net",
+      "title": "‘Most’ of Star Wars Zero Company studio Bit Reactor was furloughed ahead of launch - Game File | Stephen Totilo",
+      "description": "The details emerged amid a legal dispute between company founders. The lawsuit also provides an unexpected look into a studio behind one of the best-reviewed Star Wars games in years",
+      "url": "https://www.gamefile.news/p/star-wars-zero-company-bit-reactor-furloughs-lawsuit",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!fgkI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0aa7727-9ab7-4a63-a6c7-9a372df45bf6_1920x1080.jpeg",
+      "source": "Gamefile.news",
+      "publishedAt": "2026-09-01T02:23:21Z"
+    },
+    {
+      "title": "New Galaxy Book6 with Windows 11 out at $799, has drawbacks - neowin.net",
       "description": null,
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-second-weekend-major-patch-steam-numbers",
+      "url": "https://www.neowin.net/news/new-galaxy-book6-with-windows-11-out-at-799-has-drawbacks/",
       "urlToImage": null,
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-08-31T08:35:55Z"
+      "source": "Neowin",
+      "publishedAt": "2026-09-01T01:40:00Z"
     },
     {
-      "title": "10 Practical Camping Gadgets Worth Buying From Tractor Supply - SlashGear",
-      "description": "Tractor Supply may not be your first choice for camping gear, but it offers more than you might expect, including tools, sleeping bags, and cast-iron cookware.",
-      "url": "https://www.slashgear.com/2244394/tractor-supply-camping-gadgets-worth-buying/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/10-practical-camping-gadgets-worth-buying-from-tractor-supply/l-intro-1787733196.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2026-08-31T01:30:00Z"
+      "title": "Pikmin 3 Deluxe 1.2.0 update out now, patch notes - new benefits for Nintendo Switch 2 players - Nintendo Everything",
+      "description": "Pikmin 3 Deluxe just got a version 1.2.0 update aimed at Nintendo Switch 2 players, and here are the patch notes.",
+      "url": "https://nintendoeverything.com/pikmin-3-deluxe-1-2-0-update-out-now-patch-notes-new-benefits-for-nintendo-switch-2-players/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Pikmin-3-Deluxe-1.2.0-update.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-09-01T01:22:07Z"
     },
     {
-      "title": "GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers - TechPowerUp",
-      "description": "It's been known since Rockstar released the first trailer for GTA VI that the upcoming action game would have a massive impact on the gaming industry, and analysts have predicted week-one sales of $4.5 billion when the game launches in November. Following Roc…",
-      "url": "https://www.techpowerup.com/352158/gta-vi-extended-gameplay-preview-attracted-over-4-million-live-viewers",
-      "urlToImage": "https://www.techpowerup.com/img/FufxFbVyDGsZpE8t.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-08-30T22:02:27Z"
+      "title": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
+      "description": "A study that staged more than 50,000 conversations with AI chatbots found that they will help users role-play or write stories about their suicide or death.",
+      "url": "https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4CNZK2D4AWS7URZNGL4WDLYVIY.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-01T00:07:04Z"
     },
     {
-      "title": "NVIDIA Shuts Down RTX 5000 Power Limit Control OC in Latest Driver Update - TechPowerUp",
-      "description": "We recently reported on the open-source overclocking tool, mVolt+, unlocking power limit control on NVIDIA GeForce RTX 5000-series GPUs, allowing certain GPUs, like the RTX 5090, to draw up to 125 W of additional power and enabling significantly higher core c…",
-      "url": "https://www.techpowerup.com/352157/nvidia-shuts-down-rtx-5000-power-limit-control-oc-in-latest-driver-update",
-      "urlToImage": "https://www.techpowerup.com/img/1Rjg4DviMeTxrCIe.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-08-30T21:16:02Z"
+      "title": "The Bentley Supersports: A stripped-out engineer’s indulgence - Ars Technica",
+      "description": "It's the lightest Bentley in 85 years.",
+      "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-08-31T23:01:16Z"
+    },
+    {
+      "title": "'There's a Lot of Resentment for Sony': Sources Go Back and Forth on Publisher Backlash to PS5 Physical Discs - Push Square",
+      "description": "Here we go again",
+      "url": "https://www.pushsquare.com/news/2026/09/theres-a-lot-of-resentment-for-sony-sources-go-back-and-forth-on-publisher-backlash-to-ps5-physical-discs",
+      "urlToImage": "https://images.pushsquare.com/7cf3320b9e74c/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-08-31T23:00:00Z"
+    },
+    {
+      "title": "Xbox Fans Begin Creating Disc To Digital Lists For Supported And Non-Supported Games - Pure Xbox",
+      "description": "Rapidly gaining in numbers",
+      "url": "https://www.purexbox.com/news/2026/08/xbox-fans-begin-creating-disc-to-digital-lists-for-supported-and-non-supported-games",
+      "urlToImage": "https://images.purexbox.com/66a0e4d213090/large.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-08-31T22:50:00Z"
+    },
+    {
+      "title": "The Google TV Streamer now costs $50 more - The Verge",
+      "description": "Google has increased the price of its Google TV Streamer to $149, two years after the 4K streaming box launched.",
+      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-08-31T22:32:51Z"
+    },
+    {
+      "title": "PlayStation Is Set to Pay Out $7.85 Million to Users as Part of Class-Action Lawsuit - IGN",
+      "description": "PlayStation users may be eligible for a cut of a $7.85 million class-action lawsuit settlement very soon.",
+      "url": "https://www.ign.com/articles/playstation-is-set-to-pay-out-785-million-to-users-as-part-of-class-action-lawsuit",
+      "urlToImage": "https://assets1.ignimgs.com/2015/10/27/playstation-logojpg-9b373d.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-08-31T22:31:11Z"
     },
     {
       "title": "Apple iPhone 18 Pro Release Timeline: New Date Enters The Schedule - Forbes",
-      "description": "It’s a matter of days before the next iPhones are revealed. Here’s a full schedule of what’s happening, including a new report that changes a key time in the calendar.",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/08/30/apple-iphone-18-pro-release-timeline-new-date-enters-the-schedule/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/693eddc7a1a220985d13f65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": null,
+      "url": "https://www.forbes.com/sites/davidphelan/2026/08/31/apple-iphone-18-pro-release-timeline-new-date-enters-the-schedule/",
+      "urlToImage": null,
       "source": "Forbes",
-      "publishedAt": "2026-08-30T20:01:00Z"
+      "publishedAt": "2026-08-31T21:53:43Z"
     },
     {
-      "title": "12 TB Valve Archive Leaks Online, Fans Dig Through Early Portal 2 and Half-Life Clues - TechPowerUp",
-      "description": "A gigantic 12-terabyte archive from Valve's old Steam2 content servers has leaked online, containing internal development builds spanning from 2003 to 2013. The trove includes a July 2009 build of Portal 2 with unused sequences and beta menus, along with asse…",
-      "url": "https://www.techpowerup.com/352151/12-tb-valve-archive-leaks-online-fans-dig-through-early-portal-2-and-half-life-clues",
-      "urlToImage": "https://www.techpowerup.com/img/k11Sz7a16mD4EZB8.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-08-30T18:16:46Z"
-    },
-    {
-      "title": "The Witcher 3 Remastered Accessibility Options Include Health Regen, Auto Loot, Infinite Item Durability - Push Square",
-      "description": "And more",
-      "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-accessibility-options-include-health-regen-auto-loot-infinite-item-durability",
-      "urlToImage": "https://images.pushsquare.com/042afc2f0cb7e/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-08-30T18:15:00Z"
-    },
-    {
-      "title": "PlayStation May Delay Digital-Only Shift Following Rumors of \"100% Physical Xbox Helix\" - TechPowerUp",
-      "description": "We recently reported that Xbox's disc-to-digital entitlement program and the new CEO's refusal to address questions about Helix's disc drive suggested that the gaming giant was moving towards a new all-digital future, starting with Project Helix. However, a c…",
-      "url": "https://www.techpowerup.com/352145/playstation-may-delay-digital-only-shift-following-rumors-of-100-physical-xbox-helix",
-      "urlToImage": "https://www.techpowerup.com/img/XCKvh6zLFlPHHQs9.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-08-30T16:28:50Z"
-    },
-    {
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio - MacRumors",
-      "description": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI...",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "urlToImage": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas - MacRumors",
+      "description": "Apple today released the sixth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to...",
+      "url": "https://www.macrumors.com/2026/08/31/apple-ios-27-public-beta-6/",
+      "urlToImage": "https://images.macrumors.com/t/1NjEBYIkMMwyq5jqMfdPxw9c_cY=/2500x/article-new/2026/07/iOS-27-Feature-Cool.jpg",
       "source": "MacRumors",
-      "publishedAt": "2026-08-30T15:52:05Z"
+      "publishedAt": "2026-08-31T21:13:17Z"
     },
     {
-      "title": "China’s CXMT Is Getting Ready To Make History As LPDDR6 RAM Mass Production Scheduled To Happen In September; One Hint Reveals Limitations In Total Output - Wccftech",
-      "description": "CXMT is scheduled to start LPDDR6 RAM mass production in September making history while one crucial detail hints at upcoming limitations in total output",
-      "url": "https://wccftech.com/chinas-cxmt-lpddr6-ram-mass-production-september-output-limit-hint/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/CXMT-LPDDR6-RAM.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-08-30T15:41:43Z"
+      "title": "Mega Squads Event Guide: Maschiff, Shiny Flamigo, and New Super Megas - Pokémon GO Hub",
+      "description": "Starts Tuesday, September 8, 2026, at 10:00 AM Local Time Ends Monday, September 14, 2026, at 8:00 PM Local Time Following Pokémon GO Fest 2026: Mega Finale, the Mega Squads event kicks off the new Twilight Trails Season from Tuesday, September 8 at 10:00 a.m…",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-mega-squads-event-guide/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/08/mega-squads-pokemon-go.jpg",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-08-31T20:00:33Z"
     },
     {
-      "title": "GeForce RTX 3080 Drops From 138 FPS to 4 FPS When DLSS 5 Neural Rendering is Enabled; Reports Confirm Similar Performance Drop With RTX 30 Series - Wccftech",
-      "description": "DLSS 5 Neural Rendering runs on RTX 30 series but suffers a 97% FPS drop, making it unplayable, while RTX 50 series officially supports it",
-      "url": "https://wccftech.com/dlss-5-enabled-on-rtx-3080-in-deep-rock-galactic/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/RTX-3080-DLSS-5-Deep-Rock-Galactic.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-08-30T15:19:32Z"
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC",
+      "description": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
+      "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-08-31T19:30:10Z"
     }
   ]
 }
