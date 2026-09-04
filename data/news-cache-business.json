@@ -1,143 +1,143 @@
 {
-  "updatedAt": "2026-09-03T11:06:36.296Z",
+  "updatedAt": "2026-09-04T11:09:28.636Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Credo Shares Sink Despite Earnings Beat - Barron's",
-      "description": "The firm specializes in copper cables used to connect AI servers to networking switches.",
-      "url": "https://www.barrons.com/articles/credo-earnings-stock-price-9f8c1d24",
-      "urlToImage": "https://images.barrons.com/im-03170163/social",
-      "source": "Barron's",
-      "publishedAt": "2026-09-02T08:50:00Z"
+      "title": "The ‘Gen Z stare’ — and the decline of saying things out loud - washingtonpost.com",
+      "description": "We’re speaking fewer words every year. Scientists worry what that’s doing to our brains.",
+      "url": "https://www.washingtonpost.com/health/2026/09/03/gen-z-stare-decline-saying-things-out-loud/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BRLFLRVI55A7PBI4OBSZ6S7UOI.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-03T10:32:58Z"
     },
     {
-      "title": "Dow Jones Futures: Dell, Credo, Palo Alto Are Earnings Movers Late; Oil Prices Keep Rising - Investor's Business Daily",
-      "description": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices soared.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/08/Stock_oilrig_sunset_adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-09-02T05:47:00Z"
-    },
-    {
-      "title": "Broadcom Looks for a Reset with Third-Quarter Earnings - Barron's",
-      "description": "Though Wall Street analysts expect around 70% earnings growth this year and next, the stock is down 30% from its all-time high in June.",
-      "url": "https://www.barrons.com/articles/broadcom-earnings-stock-ai-chips-13672771",
-      "urlToImage": "https://images.barrons.com/im-98039672/social",
-      "source": "Barron's",
-      "publishedAt": "2026-09-02T05:00:00Z"
-    },
-    {
-      "title": "Stock futures are little changed after Wall Street posts third straight losing day: Live updates - CNBC",
-      "description": "The three major indexes posted their third down day on Tuesday.",
-      "url": "https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353953-1787671978491-Traders-20260825-AS-PRESS-7.jpg?v=1787672206&w=1920&h=1080",
+      "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’ - CNBC",
+      "description": "DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.",
+      "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189455-1755837837539-gettyimages-2207841764-20090101250404-99-437438.jpeg?v=1760020715&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-09-02T04:04:11Z"
+      "publishedAt": "2026-09-03T07:12:34Z"
     },
     {
-      "title": "Data Center Spending to Reach $31.6 Trillion by 2050 on AI Boom - Bloomberg.com",
-      "description": "Global data center spending is set to reach $31.6 trillion through 2050 to meet the world’s growing appetite for AI, an investment boom with no precedent in history, according to PricewaterhouseCoopers LLP.",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQLPNrN7R9ig/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-09-02T04:00:00Z"
+      "title": "Health insurance costs projected to spike next year by most in two decades - The Washington Post",
+      "description": "Employers predict an average 8.2% increase in the cost of their insurance plans. Workers will shoulder some of the cost.",
+      "url": "https://www.washingtonpost.com/business/2026/09/02/health-insurance-costs-projected-spike-next-year-by-82-percent/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TKBMY7VCNEI6TNZSIGTZYJKRX4.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-03T03:30:00Z"
     },
     {
-      "title": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
-      "description": "Meta dropped the hammer on thousands of its AI glasses users who it detected physically tampering with the recording light.",
-      "url": "https://www.businessinsider.com/meta-glasses-camera-disabled-tampering-recording-light-update-2026-9#article",
-      "urlToImage": "https://i.insider.com/6a97829e1f60b9f4b1633bbc?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-09-02T03:10:33Z"
-    },
-    {
-      "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns - The Information",
-      "description": "OpenAI says its forthcoming AI model Astra marks a step up in capabilities such as coding and operating applications on a computer. But an innovative technique that improved the model’s performance also means that the model, and others like it, will reveal le…",
-      "url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns",
-      "urlToImage": "https://tii.imgix.net/production/articles/17754/be695ddf-1418-4bea-aade-15337cae07b7.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "source": "The Information",
-      "publishedAt": "2026-09-02T00:40:00Z"
-    },
-    {
-      "title": "Apple Unveils Pay Package For New CEO John Ternus - deadline.com",
-      "description": "Apple set a pay package worth $58 million for new CEO John Ternus, who formally took the reins from longtime chief executive Tim Cook today",
-      "url": "http://deadline.com/2026/09/apple-unveils-pay-package-for-new-ceo-john-ternus-1237064858/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/BUC00840.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-09-01T23:59:00Z"
-    },
-    {
-      "title": "Range Rover launches first fully electric model - BBC",
-      "description": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
-      "url": "https://www.bbc.com/news/articles/clyk5016mpyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-09-01T23:43:47Z"
-    },
-    {
-      "title": "Trump Ramps Up Pressure on Squeezed Refiners to Ease Pump Prices - Yahoo Finance",
-      "description": "President Donald Trump pressed US oil refiners to boost domestic production of gasoline and diesel during a closed-door meeting Tuesday, as he contends with...",
-      "url": "https://finance.yahoo.com/energy/articles/trump-ramps-pressure-squeezed-refiners-222526209.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6168b626e52eaa7aabbf8999e0a35e1119fb19e7a2057e9c7867fff1e27ce03/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fc3bd7e265e675264aefdef82342e8642.jpg",
+      "title": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
+      "description": "Broadcom stock slipped before trimming losses after the company's first quarter revenue forecast missed estimates.",
+      "url": "https://finance.yahoo.com/markets/article/broadcom-stock-wavers-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9dec1cadc9e856ab929bc25281d5e872e7909d5ef57c4ee3c5b397ef4ecd2c06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F56e9dd57-7a8e-43ad-beda-5e5f384ec332",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-01T22:25:26Z"
+      "publishedAt": "2026-09-03T02:38:00Z"
     },
     {
-      "title": "Grocery chain closes one of its last stores in major market - thestreet.com",
+      "title": "Meta debuts Muse Spark 1.3 as personal agent work continues - Axios",
+      "description": "AI chief Alexandr Wang tells Axios the update brings Meta closer in performance to OpenAI's GPT 5.6 and other frontier models.",
+      "url": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues",
+      "urlToImage": "https://images.axios.com/d1ZNbibIIgr8T0BMBsBuDuBTMPg=/0x0:1280x720/1366x768/2026/09/02/1788373030867.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-09-03T02:31:12Z"
+    },
+    {
+      "title": "Statement on Today's The Zeta Set Sale - Magic: The Gathering",
+      "description": "A statement on the September 2, 2026, sale of The Zeta Set from the Secret Lair team.",
+      "url": "https://magic.wizards.com/en/news/announcements/statement-on-todays-the-zeta-set-sale",
+      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg",
+      "source": "Wizards.com",
+      "publishedAt": "2026-09-03T01:33:45Z"
+    },
+    {
+      "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast - MarketWatch",
       "description": null,
-      "url": "https://www.thestreet.com/retail/fred-meyer-store-closure-tacoma",
+      "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c",
       "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-09-01T22:19:17Z"
-    },
-    {
-      "title": "Costco shuts down a key service with no notice - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/retail/costco-shuts-down-a-key-service-with-no-notice",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-09-01T22:17:10Z"
-    },
-    {
-      "title": "Dow drops below a key chart level, warning of more trouble ahead - marketwatch.com",
-      "description": "The index last closed below its 50-day moving average on April 10, which marked the end of a correction phase that included a 5,000-point drop at its low point",
-      "url": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664",
-      "urlToImage": "https://images.mktw.net/im-08604167/social",
       "source": "MarketWatch",
-      "publishedAt": "2026-09-01T21:56:00Z"
+      "publishedAt": "2026-09-03T00:23:00Z"
     },
     {
-      "title": "‘We're not going to have a business’: Vermont companies say Trump’s renewed trade war with Canada has them scrambling, again - VTDigger",
-      "description": "“It becomes almost impossible to manage a budget within the context of this environment,” said the co-founder of cheesemaker Jasper Hill Farm.",
-      "url": "https://vtdigger.org/2026/09/01/were-not-going-to-have-a-business-vermont-companies-say-trumps-renewed-trade-war-with-canada-has-them-scrambling-again/",
-      "urlToImage": "https://vtdigger.org/wp-content/uploads/2026/09/Mateo-Kehler-jasper-hill-welch-tariff-event.jpg",
-      "source": "vtdigger.org",
-      "publishedAt": "2026-09-01T21:53:11Z"
+      "title": "Trump keeps attacking Silicon Valley's giants in court — and they keep dodging - Politico",
+      "description": "The White House may have just missed its best chance to break up a major tech company.",
+      "url": "https://www.politico.com/news/2026/09/02/trump-keeps-attacking-silicon-valley-in-court-and-they-keep-dodging-01062893",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F00%2F68%2F3a8b807d4f09a47b213c9093038c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2259952833",
+      "source": "Politico",
+      "publishedAt": "2026-09-02T23:43:00Z"
     },
     {
-      "title": "Palo Alto Stock Climbs On Fiscal Q4 Earnings Beat, 2027 Outlook - Investor's Business Daily",
-      "description": "Palo Alto stock rose amid fiscal Q4 earnings and revenue that topped estimates while the cybersecurity firm's fiscal 2027 guidance came in above views.",
-      "url": "https://www.investors.com/news/technology/palo-alto-stock-panw-palo-alto-earnings-aug26/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/stock-PaloAltoNetworks-04-shutter.jpg",
+      "title": "Canada Opens The Door To 33,397 More Chinese Vehicles - Carscoops",
+      "description": "In the first period of sales, 15,603 Chinese vehicles were imported into Canada and that was well below the limit",
+      "url": "https://www.carscoops.com/2026/09/canada-chinese-ev-imports/",
+      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2026/09/Carscoops-Polestar-China.jpg",
+      "source": "CarScoops",
+      "publishedAt": "2026-09-02T23:10:40Z"
+    },
+    {
+      "title": "Uber beats Waymo as first to launch robotaxis in London - The Verge",
+      "description": "Uber beat Waymo to launching robotaxis in London. The ridehail company is working with UK startup Wayve to bring cars powered by AI, cameras, and radar to the foggy streets of England’s capital.",
+      "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T23:00:00Z"
+    },
+    {
+      "title": "Marin County finance bros charged over massive $100M Ponzi scheme - nypost.com",
+      "description": "Two Marin County men were indicted Tuesday on federal charges of wire fraud conspiracy in an alleged Ponzi scheme.",
+      "url": "https://nypost.com/2026/09/02/us-news/bay-area-executives-indicted-in-alleged-103m-ponzi-scheme/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-8siy3zyz4-1788398585395.jpg?quality=75&strip=all&1788384289&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-09-02T22:52:00Z"
+    },
+    {
+      "title": "MLive announces full turn into digital formats, will end printed editions in December - MLive.com",
+      "description": null,
+      "url": "https://www.mlive.com/news/2026/09/mlive-announces-full-turn-into-digital-formats-will-end-printed-editions-in-december.html",
+      "urlToImage": null,
+      "source": "mlive.com",
+      "publishedAt": "2026-09-02T22:47:00Z"
+    },
+    {
+      "title": "Tech CEOs, Trump Administration Ask G-20 to Adopt Pro-AI Policies - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/tech-ceos-trump-administration-ask-g-20-to-adopt-pro-ai-policies-5b27a45c",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-02T21:52:00Z"
+    },
+    {
+      "title": "Waymo expands driverless robotaxi service to 3 major US cities - Fox Business",
+      "description": "Alphabet-owned Waymo has opened public robotaxi access in Denver, San Diego and Tampa, bringing its fully autonomous ride-hailing service to 14 cities.",
+      "url": "https://www.foxbusiness.com/lifestyle/waymo-expands-driverless-robotaxi-service-3-major-us-cities",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/waymo-auto-chicago.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-09-02T21:48:00Z"
+    },
+    {
+      "title": "Southwest Airlines to open new lounges in these 4 airports. See where - USA Today",
+      "description": "Southwest Airlines is debuting its airport lounge network in partnership with Chase Bank. Here's what we know.",
+      "url": "https://www.usatoday.com/story/travel/airline-news/2026/09/02/southwest-airlines-opening-lounges-airports/91583617007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/02/USAT/91583784007-getty-images-2276077189.jpg?crop=1023,577,x0,y52&width=1023&height=577&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-09-02T21:09:00Z"
+    },
+    {
+      "title": "HPE Earnings Top Estimates Amid Oracle AI Data Center Deal - Investor's Business Daily",
+      "description": "HPE stock wavered amid fiscal Q3 earnings and revenue that topped estimates with high expectations for AI infrastructure growth.",
+      "url": "https://www.investors.com/news/technology/hpe-stock-hpe-earnings-news-july26/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-HPE-02-company.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2026-09-01T21:31:00Z"
+      "publishedAt": "2026-09-02T21:07:00Z"
     },
     {
-      "title": "MongoDB Earnings Beat Estimates But Stock Tumbles - Investor's Business Daily",
-      "description": "MongoDB stock slid late Tuesday, after the database software company reported fiscal second quarter results.",
-      "url": "https://www.investors.com/news/technology/mongodb-stock-q2-2026-earnings-report/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/03/stock-MongoDB-01-shutter.jpg",
+      "title": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending - Investor's Business Daily",
+      "description": "Nvidia stock approached a buy point Wednesday as chip stocks rallied following a bullish quarterly report from Dell Technologies.",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-buy-point-chip-stocks-rally/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/stock-nvidia-building-sc-adobe.jpg",
       "source": "Investor's Business Daily",
-      "publishedAt": "2026-09-01T20:56:00Z"
-    },
-    {
-      "title": "Dell Stock Gains After Earnings Come In Way Ahead of Estimates - Barron's",
-      "description": "Dell reported better-than-expected second-quarter financial results after the stock market closed on Tuesday.",
-      "url": "https://www.barrons.com/articles/dell-earnings-stock-price-d07d0ee7",
-      "urlToImage": "https://images.barrons.com/im-41263687/social",
-      "source": "Barron's",
-      "publishedAt": "2026-09-01T20:52:00Z"
+      "publishedAt": "2026-09-02T20:53:00Z"
     }
   ]
 }

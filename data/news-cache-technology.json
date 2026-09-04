@@ -1,159 +1,159 @@
 {
-  "updatedAt": "2026-09-03T11:06:36.226Z",
+  "updatedAt": "2026-09-04T11:09:28.563Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Apple Launching Eight New Products This Month - MacRumors",
-      "description": "Apple last month announced a new Mac mini and a new Mac Studio. Both machines start shipping on Tuesday, September 22, which means they will launch...",
-      "url": "https://www.macrumors.com/2026/09/02/apple-launching-eight-new-products-next-month/",
-      "urlToImage": "https://images.macrumors.com/t/N5tp-9D45kaYwmW4T-nKdXWOXn4=/1600x/article-new/2025/11/Apple-Store-Logo-Livat-Beijing.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2026-09-02T08:38:00Z"
-    },
-    {
-      "title": "Dell’s newest laptop sounds a lot like a MacBook Neo - The Verge",
-      "description": "Dell’s new Dell 14S is a colorful laptop aimed at students, starting with 8GB of RAM and sporting Intel’s Wildcat Lake chips.",
-      "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0%2C16.709105790342%2C100%2C66.581788419316&w=1200",
+      "title": "IFA 2026: the biggest tech and gadget announcements - The Verge",
+      "description": "IFA runs from September 4th to 8th, and The Verge will be on the ground in Berlin to bring you all the biggest announcements and hardware hands-ons.",
+      "url": "https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ifa-berlin-sign-2026-2.jpg?quality=90&strip=all&crop=0%2C10.737777045019%2C100%2C78.524445909961&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-09-02T07:00:00Z"
+      "publishedAt": "2026-09-03T10:20:50Z"
     },
     {
-      "title": "Super Smash Bros. Ultimate 13.0.5 update out now, patch notes - Nintendo Everything",
-      "description": "Nintendo has come out with a new version 13.0.5 update for Super Smash Bros. Ultimate, and the patch notes are here.",
-      "url": "https://nintendoeverything.com/super-smash-bros-ultimate-13-0-5-update-out-now-patch-notes/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Super-Smash-Bros.-Ultimate-13.0.5-update.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-09-02T04:24:21Z"
+      "title": "Planet Coaster and Jurassic World developer Frontier partners with Disney for a new video game - Eurogamer.net",
+      "description": "Frontier, the developer behind Planet Coaster and Jurassic World, has announced a collaboration with Disney for a new video game using Disney's IP.",
+      "url": "https://www.eurogamer.net/frontier-disney-new-video-game-planet-coaster-jurassic-world",
+      "urlToImage": "https://assetsio.gnwcdn.com/park_mickey_02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-09-03T08:53:53Z"
     },
     {
-      "title": "9 Years Later, Mario Kart 8 Just Got a Game-Changing Update for Nintendo Switch 2 - Polygon.com",
-      "description": "Nintendo adds Switch 2 support to Mario Kart 8 Deluxe bringing 8-player split-screen multiplayer and a 96-course marathon VS Race.",
-      "url": "https://www.polygon.com/mario-kart-8-deluxe-switch-2-update-patch-notes-nintendo/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24419429/Switch_MK8D_BCP_Screen_02.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-09-02T02:03:00Z"
+      "title": "Anker’s MindBase Wants to Be the Smart Hub for Your Life - Gizmodo",
+      "description": "With Matter support, on-device AI, and NAS storage, Anker's MindBase makes a play to be the center of your home.",
+      "url": "https://gizmodo.com/ankers-mindbase-wants-to-be-the-smart-hub-for-your-life-2000805980",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Anker-MindBase-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-09-03T07:30:38Z"
     },
     {
-      "title": "Nintendo Expands Switch Online's NES Library With Three More Titles - Nintendo Life",
-      "description": "Japan's Famicom library also got an update",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-expands-switch-onlines-nes-library-with-three-more-titles",
-      "urlToImage": "https://images.nintendolife.com/62cb4f06ee74a/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-09-02T01:30:00Z"
+      "title": "Anker’s sleep speaker uses radar and flower power to help you relax - The Verge",
+      "description": "The SleepLab speaker uses millimeter-wave radar synced to binaural beats and lighting to deepen relaxation.",
+      "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sleep-Speaker-Lifestyle-1.png?quality=90&strip=all&crop=39.94453125%2C27.831602675974%2C60.05546875%2C55.897905759162&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-09-03T07:30:00Z"
     },
     {
-      "title": "Apple tells Mac App Store developers they can now drop Intel support - 9to5Mac",
-      "description": "Apple started informing developers today that universal macOS apps on the Mac App Store that require macOS 13 or later...",
-      "url": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-09-02T00:50:00Z"
+      "title": "Bosses Concerned That GTA 6 Release Will Cause Massive Drop in Productivity - Forex Factory",
+      "description": "When the long awaited role playing game “Fallout 4” dropped in 2015, it marked the first installation in the franchise in five years. The release quickly became a running joke, with working class gamers yukking it up over their plans to call in sick the day i…",
+      "url": "https://www.forexfactory.com/news/1416217-bosses-concerned-that-gta-6-release-will-cause",
+      "urlToImage": "https://www.forexfactory.com/news/1416217-bosses-concerned-that-gta-6-release-will-cause/image",
+      "source": "Forex Factory",
+      "publishedAt": "2026-09-03T01:10:00Z"
     },
     {
-      "title": "Minecraft Is Making Changes To Minecoins On Nintendo Platforms - Nintendo Life",
-      "description": "Minecoins purchased on Nintendo devices can only be used on Switch or Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/minecraft-is-making-changes-to-minecoins-on-nintendo-platforms",
-      "urlToImage": "https://images.nintendolife.com/67a417cc40205/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-09-02T00:30:00Z"
+      "title": "Sony and Microsoft say they’re not obligated to pass U.S. tariff refunds to consumers, echoing Nintendo - Game File | Stephen Totilo",
+      "description": null,
+      "url": "https://www.gamefile.news/p/sony-and-microsoft-say-theyre-not",
+      "urlToImage": null,
+      "source": "Gamefile.news",
+      "publishedAt": "2026-09-03T00:20:19Z"
     },
     {
-      "title": "Xbox Disc-to-Digital Works on Delisted Games Too: Every Working Title So Far - PCMag",
-      "description": "Deadpool, Rock Band 4, and Minecraft: Story Mode are among the titles that reportedly support Microsoft's new Disc-to-Digital program.",
-      "url": "https://www.pcmag.com/news/xbox-disc-to-digital-works-on-delisted-games-too-every-working-title-so",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/04JU9vvtoIR46weoh9LnY2D-1.fit_lim.size_1200x630.v1788272722.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2026-09-01T22:49:40Z"
+      "title": "1Password Wades Into a Right-Wing Mess After Funding a Linux Project - Slashdot",
+      "description": "1Password is facing customer and internal employee backlash after pledging $300,000 to support a Linux distro created by David Heinemeier Hansson, who has regularly published racist and anti-immigrant rhetoric. \"The popular password manager is now a 'distingu…",
+      "url": "https://news.slashdot.org/story/26/09/02/2055245/1password-wades-into-a-right-wing-mess-after-funding-a-linux-project",
+      "urlToImage": "https://a.fsdn.com/sd/topics/money_64.png",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-02T22:35:45Z"
     },
     {
-      "title": "GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem - IGN",
-      "description": "Grand Theft Auto 6's morality meter can reportedly \"shatter\" and lead to you becoming essentially irredeemable for an entire playthrough of the game.",
-      "url": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-09-01T22:21:29Z"
+      "title": "The Blood of Dawnwalker Day-One Update 1.003 Improves Performance on Launch Day - MP1st",
+      "description": "The Blood of Dawnwalker Day-One Update 1.003 is out for download and it helps improves performance on all platforms.",
+      "url": "https://mp1st.com/news/the-blood-of-dawnwalker-day-one-update-1-003-improves-performance",
+      "urlToImage": "https://mp1st.com/wp-content/uploads/2026/07/the-blood-of-dawnwalker-img10.jpg",
+      "source": "http://mp1st.com/category/news",
+      "publishedAt": "2026-09-02T21:53:17Z"
     },
     {
-      "title": "Samsung’s Android 17-based One UI 9 beta expands to these Galaxy phones this month - 9to5Google",
-      "description": "Samsung is expanding its Android 17 / One UI 9 beta program to several new Galaxy smartphones this month, signaling...",
-      "url": "http://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-7-rereview-2.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5google.com",
-      "publishedAt": "2026-09-01T21:50:00Z"
+      "title": "iOS 27 Introduces New 'iPhone Handoff' Feature - MacRumors",
+      "description": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number...",
+      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "urlToImage": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-02T19:35:43Z"
     },
     {
-      "title": "Latest leak claims the iPhone 18 Pro lineup will launch in these new colors - GSMArena.com news - GSMArena.com",
-      "description": "Apple will unveil the new iPhones on September 9. There have been plenty of rumors surrounding the color options for the upcoming iPhone 18 Pro series, and...",
-      "url": "https://www.gsmarena.com/latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pro-max-colors-new-leak/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-09-01T21:31:02Z"
+      "title": "Huawei’s Watch D3 Doubles as an Inflatable Blood Pressure Cuff - Gizmodo",
+      "description": "The Huawei Watch D3 can track your sleep and workouts, but its best trick is a clever method for measuring your blood pressure.",
+      "url": "https://gizmodo.com/huaweis-watch-d3-doubles-as-an-inflatable-blood-pressure-cuff-2000806409",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Huawei-Watch-D3-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-09-02T18:45:13Z"
     },
     {
-      "title": "Days After GTA 6's Big Reveal, Rockstar Announces A Major GTA 5 Update - Polygon.com",
-      "description": "Grand Theft Auto 5 will introduce a revamped world with better NPCs in addition to other improvements, Rockstar says",
-      "url": "https://www.polygon.com/gta-5-nopixel-beta-when-is-roleplay-customization-new-gameplay/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta5world.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-09-01T20:34:29Z"
-    },
-    {
-      "title": "Your First Pixel Watch 5 Update Arrived and It’s Big - Droid Life",
-      "description": "The first Pixel Watch 5 update arrived as build P3A.260905.002 on all versions. The update includes several major changes and features.",
-      "url": "https://www.droid-life.com/2026/09/01/your-first-pixel-watch-5-update-arrived-and-its-big/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/09/Pixel-Watch-5-3-1200x628.jpg",
-      "source": "Droid Life",
-      "publishedAt": "2026-09-01T20:04:05Z"
-    },
-    {
-      "title": "NVIDIA DLSS 5 Launches in NBA 2K27 September 3rd, DLSS Comes to STAR WARS Zero Company, Onimusha: Way of the Sword & The Blood of Dawnwalker - TechPowerUp",
-      "description": "Each week, new games and apps integrating NVIDIA DLSS, NVIDIA Reflex, and advanced ray-traced effects are released or announced, delivering the definitive PC experience for GeForce RTX players. In the last few days, STAR WARS Zero Company and Aliens: Fireteam…",
-      "url": "https://www.techpowerup.com/352238/nvidia-dlss-5-launches-in-nba-2k27-september-3rd-dlss-comes-to-star-wars-zero-company-onimusha-way-of-the-sword-the-blood-of-dawnwalker",
-      "urlToImage": "https://www.techpowerup.com/img/2FFGAtntdB1XPzlH.jpg",
+      "title": "Early DLSS 5 Testing Suggests the RTX 5090's Single Power Connector Might Be the Bottleneck - TechPowerUp",
+      "description": "Community testing of leaked DLSS 5 builds suggests the tech may already be hitting a wall on NVIDIA's own flagship GPU. Tom's Hardware ran the neural rendering model through Cyberpunk 2077, Hogwarts Legacy, and Control on an RTX 5090 Founders Edition, as well…",
+      "url": "https://www.techpowerup.com/352262/early-dlss-5-testing-suggests-the-rtx-5090s-single-power-connector-might-be-the-bottleneck",
+      "urlToImage": "https://www.techpowerup.com/img/K4hRqPsQDWhnXdvu.jpg",
       "source": "Techpowerup.com",
-      "publishedAt": "2026-09-01T20:01:43Z"
+      "publishedAt": "2026-09-02T18:27:55Z"
     },
     {
-      "title": "Apple Watch Series 12: Three new features coming next week - 9to5Mac",
-      "description": "Apple Watch Series 12 is coming next week at the September event, here are three new features rumored for the next-generation model.",
-      "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-09-01T19:18:00Z"
+      "title": "Fusion energy, extreme environment materials could be built easily as US develops key system - Interesting Engineering",
+      "description": "A lab in the United States is helping researchers develop materials for extreme environment applications, such as gas turbines and fusion energy systems.",
+      "url": "https://interestingengineering.com/energy/materials-for-fusion-energy-extreme-environment",
+      "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/fusion-new.jpg",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-09-02T18:22:00Z"
     },
     {
-      "title": "‘GTA 6’ Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days - Variety",
-      "description": "With only six hours of exclusivity Netflix's \"Grand Theft Auto 6\" extended look became the streamer's most-viewed title last week.",
-      "url": "https://variety.com/2026/tv/news/gta-6-netflix-extended-look-views-1236848409/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/08/GTA-6-1.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-09-01T19:00:00Z"
+      "title": "Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro - pushsquare.com",
+      "description": "Top Dogma",
+      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
+      "urlToImage": "https://images.pushsquare.com/9e552972bfb94/large.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-09-02T18:00:00Z"
     },
     {
-      "title": "The 11 Best Games We Played at Gamescom 2026 - Polygon.com",
-      "description": "Here are the best games we played at Gamescom 2026, from AAA titans to indie gems.",
-      "url": "https://www.polygon.com/best-games-gamescom-2026/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gamescom_26_093_014.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-09-01T18:30:14Z"
+      "title": "Galaxy S25 gets Super Steady with Horizontal Lock with the One UI 9 update - SamMobile",
+      "description": "Samsung has released the One UI 9.0 beta update to the Galaxy S25 series and introduced the Horizontal Lock camera feature from the S26.",
+      "url": "https://www.sammobile.com/news/galaxy-s25-camera-horizon-lock-one-ui-9-update/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/10/Galaxy-S25-Ultra-cameras.jpg",
+      "source": "SamMobile",
+      "publishedAt": "2026-09-02T17:40:00Z"
     },
     {
-      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official - Ars Technica",
-      "description": "New features are rolling out across the Android ecosystem starting today.",
-      "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-01T18:00:02Z"
-    },
-    {
-      "title": "6 Big September Games We've Already Played if You Want to Know What We Think of Them So Far - IGN",
-      "description": "September is here, which means the Fall is here, which means some of the biggest games of the year drop this month. We've already played some of the biggest ones, so check out our previews of Marvel's Wolverine, Control Resonant, and more on this page.",
-      "url": "https://www.ign.com/articles/wolverine-control-resonant-and-4-more-big-september-games-weve-already-played-and-can-tell-you-about",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/01/wolvie-1788284606072.png?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "The Officially Licensed WD Black 1TB PlayStation 5 SSD Just Dropped to the Lowest Price of the Year - ign.com",
+      "description": "Brand new with 5 year WD warranty.",
+      "url": "https://www.ign.com/articles/wd-black-1tb-playstation-5-ssd-deal-september-2026",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/02/wdblacksn8502-1788367331109.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-09-01T17:45:00Z"
+      "publishedAt": "2026-09-02T16:54:28Z"
+    },
+    {
+      "title": "‘It’s Not a Revolutionary Thing for an RPG to Have’ — Fable Explains the Very Obvious Reason as to Why Its Hero Design Has Changed - ign.com",
+      "description": "Fable's game director Ralph Fulton spoke to us at gamescom 2026 about character customization and confirms: Yes, it's in there.",
+      "url": "https://www.ign.com/articles/its-not-a-revolutionary-thing-for-an-rpg-to-have-fable-explains-the-very-obvious-reason-as-to-why-its-hero-design-has-changed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/02/fable-character-blog-1788365010109.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-09-02T16:05:30Z"
+    },
+    {
+      "title": "Introducing: H. Moser & Cie. Streamliner Tourbillon Skeleton Ceramic Alpine Limited Edition - Monochrome Watches",
+      "description": "The new H. Moser & Cie. x Alpine Motorsports watch comes in anthracite grey ceramic, with a fully openworked movement in Alpine blue.",
+      "url": "https://monochrome-watches.com/moser-streamliner-tourbillon-skeleton-ceramic-alpine-limited-edition-introducing-price/",
+      "urlToImage": "https://monochrome-watches.com/app/uploads/2026/08/H-Moser-Cie-Streamliner-Tourbillon-Skeleton-Ceramic-Alpine-Limited-Edition-1.jpg",
+      "source": "Monochrome-watches.com",
+      "publishedAt": "2026-09-02T16:01:54Z"
+    },
+    {
+      "title": "Dishonored's Co-Creator Explains What So Many Games Are Missing - Kotaku",
+      "description": "The co-creator of new studio Black Pony Immersive tells us about defying expectations in the most underserved genre",
+      "url": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/09/smith1-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-09-02T16:00:47Z"
+    },
+    {
+      "title": "Lego Skylines is already looking like a treat, but I suspect the real magic's in the stuff Paradox won't talk about just yet - Eurogamer.net",
+      "description": "How's this for an unhelpful opener: in a lot of ways, Lego Skylines is exactly what you think it is; but in others, it'…",
+      "url": "https://www.eurogamer.net/lego-skylines-gamescom-preview",
+      "urlToImage": "https://assetsio.gnwcdn.com/lego-skylines-fisherman-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-09-02T15:58:25Z"
     }
   ]
 }
