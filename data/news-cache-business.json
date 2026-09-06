@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2026-09-05T10:29:00.139Z",
+  "updatedAt": "2026-09-06T10:48:53.582Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Volkswagen jumps 5% on plans to cut 50,000 jobs amid tariffs, China competition - CNBC",
-      "description": "Volkswagen shares jumped on Friday after it announced plans to slash a further 50,000 jobs as part of its transformation plan.",
-      "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333235-1783672992314-gettyimages-2284739900-20090101260709-99-13697.jpeg?v=1783673027&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-09-04T08:49:09Z"
-    },
-    {
-      "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings - cnbc.com",
-      "description": "Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns.",
-      "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358787-1788499774131-gettyimages-1730657667-NORWAY_ECONOMY.jpeg?v=1788499914&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-09-04T06:46:35Z"
-    },
-    {
-      "title": "Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited - Investing.com",
-      "description": "Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-reduced-fed-hike-bets-lift-tech-us-jobs-data-awaited-4888803",
-      "urlToImage": "https://content-media.investing.com/news/LYNXMPEA7B05U_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-04T06:46:08Z"
-    },
-    {
-      "title": "Popular squishy toys recalled over potentially deadly water bead hazard - Fox Business",
-      "description": "More than 15,000 popular squeeze toys containing water beads face recalls as federal regulators warned of choking and death hazards for children.",
-      "url": "https://www.foxbusiness.com/economy/popular-squishy-toys-recalled-over-potentially-deadly-water-bead-hazard",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/squishy-toy-recall-alert-warning.png?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-09-04T04:57:00Z"
-    },
-    {
-      "title": "Anthropic’s IPO set to test external trust with power over board - Financial Times",
-      "description": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose",
-      "url": "https://www.ft.com/content/9536c7b9-c600-48ec-8fe2-453b0ca187e9?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5abd076-1407-4c39-b42e-5d46b85a1eb7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-04T04:01:28Z"
-    },
-    {
-      "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts - Axios",
-      "description": "Executives say this could mark the moment when artificial general intelligence equals human capabilities.",
-      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-      "urlToImage": "https://images.axios.com/1WBM3-KVcVPMQvbRndQWELRQJXs=/0x0:1280x720/1366x768/2026/09/03/1788450549349.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-09-04T03:12:24Z"
-    },
-    {
-      "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut - WIRED",
-      "description": "An invite-only event in Austin, Texas, kept online fans in the dark for hours.",
-      "url": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/",
-      "urlToImage": "https://media.wired.com/photos/6a985f4fb0ecbdbb43db44df/191:100/w_1280,c_limit/Tesla-CyberCab-Event-Gear-2270749481.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-09-04T02:53:00Z"
-    },
-    {
-      "title": "Costco quietly pulls popular member perk seemingly without warning: 'Real bummer for the deals' - Fox Business",
-      "description": "Costco members can no longer access the retailer’s Costco Next storefronts, which featured discounted camping gear, home goods, electronics, bicycles and even caskets.",
-      "url": "https://www.foxbusiness.com/retail/costco-quietly-pulls-popular-member-perk-seemingly-without-warning-real-bummer-deals",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/Costco-1.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-09-03T23:35:00Z"
-    },
-    {
-      "title": "Nvidia: The Market Will Come To Its Senses Eventually (NASDAQ:NVDA) - Seeking Alpha",
-      "description": "Nvidia's Q2 blowout, margin gains, and Hugging Face deal power its AI lead, with AWS/SpaceX partners and modest valuation. Click for this NVDA update.",
-      "url": "https://seekingalpha.com/article/4942934-nvidia-the-market-will-come-to-its-senses-eventually",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1141488976/image_1141488976.jpg?io=getty-c-w1536",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-09-03T23:03:33Z"
-    },
-    {
-      "title": "Oura files to go public - TechCrunch",
-      "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-03T22:35:41Z"
-    },
-    {
-      "title": "Stock Market on Sept. 3, 2026: Dow, S&P 500, Nasdaq end sharply higher as software stocks and Big Tech rally; Treasury yields ease after Fed governor Waller's remarks - MarketWatch",
-      "description": "Major U.S. stock indexes climbed Thursday as Treasury yields edged lower after remarks from Federal Reserve governor Christopher Waller. The Dow, S&P 500 and Nasdaq all saw back-to-back gains.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-bond-yields-ease-ism-services-pmi",
-      "urlToImage": "https://images.mktw.net/im-51746529/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-09-03T22:00:00Z"
-    },
-    {
-      "title": "American automakers urge Congress to ban Chinese vehicle sales in the U.S. - CBS News",
-      "description": "Chinese cars can collect and send consumer and vehicle data to Beijing, U.S. automaker group warns in calling for a ban on sales.",
-      "url": "https://www.cbsnews.com/news/automakers-urge-congress-ban-chinese-vehicles/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/03/7b3cb238-2d62-46a2-8415-c3591c781be1/thumbnail/1200x630/7a667d49c9c0ea328e96d0a5f28c38f4/gettyimages-2292514186.jpg",
-      "source": "CBS News",
-      "publishedAt": "2026-09-03T21:18:45Z"
-    },
-    {
-      "title": "Stocks, Bonds Rally After Dovish Fed Comments - WSJ",
+      "title": "Unruly passenger arrested after being restrained with duct tape during flight - abcnews.com",
       "description": null,
-      "url": "https://www.wsj.com/finance/stocks/stocks-bonds-rally-after-dovish-fed-comments-b95763ae",
+      "url": "https://abcnews.com/US/unruly-passenger-arrested-after-restrained-duct-tape-flight/story?id\\\\u003d136214947",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-05T01:46:44Z"
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America? - BBC",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-09-05T01:42:09Z"
+    },
+    {
+      "title": "Novartis Says Closely Watched Cholesterol Study Failed to Meet Goal - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/pharma/novartis-says-closely-watched-cholesterol-study-failed-to-meet-goal-7901cb11",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-03T21:03:00Z"
+      "publishedAt": "2026-09-04T23:56:05Z"
     },
     {
-      "title": "Lululemon sinks after cutting forecast as revenue declines - Yahoo Finance",
-      "description": "Lululemon stock sank in after-hours trading following the company's quarterly results.",
-      "url": "https://finance.yahoo.com/markets/article/lululemon-sinks-after-cutting-forecast-as-revenue-declines-210101310.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1678942bba3d59e91c6112aa959d5717a73e05ee56ac79f47e3e6adeba5cc38a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F6bb4db60-9891-11f0-bf93-939d88dcfd48",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-03T21:01:01Z"
+      "title": "Vance says Trump, US military have prevented ‘energy crisis’ during Iran war - Fox News",
+      "description": "Vice President JD Vance said the U.S. military protecting ships is the reason “why we have not had a worldwide energy crisis” during the war against Iran, as Tehran continues to threaten shipping in the Strait of Hormuz.",
+      "url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-04-26",
+      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/aa54704865362695c9e81bf70ece1490.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-09-04T22:32:27Z"
     },
     {
-      "title": "Summit Packs A Punch For Merck's Keytruda — But Not Everyone Is Sold - Investor's Business Daily",
-      "description": "Summit Therapeutics stock rocketed Thursday after its experimental cancer drug outperformed Merck's blockbuster, Keytruda.",
-      "url": "https://www.investors.com/news/technology/summit-therapeutics-stock-nsclc-pd-1-vegf-treatment/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/09/Stock-SummitTherapeutics-01-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-09-03T20:51:00Z"
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki - Ars Technica",
+      "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-04T22:17:36Z"
     },
     {
-      "title": "Adobe Names Chakravarthy CEO, While Other Contender Departs - Bloomberg.com",
-      "description": "Adobe Inc. named Anil Chakravarthy, the leader of its marketing and analytics software business, as its next chief executive officer, thrusting the company veteran into a challenging competition with artificial intelligence upstarts.",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/adobe-names-chakravarthy-ceo-to-lead-effort-against-ai-rivals",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaiiJ2BykI8w/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-09-03T20:26:58Z"
+      "title": "Popular Squishy Toys Pulled From Market After Children Are Hospitalized With Serious Injuries - Bored Panda",
+      "description": "“Once it touches you, there’s no way to get it off.”",
+      "url": "https://www.boredpanda.com/popular-squishy-toys-pulled-from-market/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/fb_image_6a9b394fa1e5b.png",
+      "source": "Boredpanda.com",
+      "publishedAt": "2026-09-04T22:11:42Z"
     },
     {
-      "title": "OpenAI launches plan to protect critical infrastructure from AI cyberattacks - axios.com",
-      "description": "The move comes as the AI lab releases its most powerful model to date.",
-      "url": "https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
-      "urlToImage": "https://images.axios.com/82JFhUvJLzWBJGMcyBGe9oHtCAA=/0x0:1920x1080/1366x768/2019/12/11/1576086793119.jpg",
+      "title": "E coli blueberry recall expanding to frozen mixed berry packages sold at Walmarts in 16 states - Fox Business",
+      "description": "Great Value frozen Organic Triple Berry Blend sold at Walmart in 16 states joins the expanded E. coli blueberry recall over contamination concerns.",
+      "url": "https://www.foxbusiness.com/lifestyle/e-coli-blueberry-recall-expanding-frozen-mixed-berry-packages-sold-walmarts-16-states",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/triple-berry-belnd-package.gif?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-09-04T22:05:00Z"
+    },
+    {
+      "title": "Campbell's cuts 13% of salaried workforce, closes plants as part of turnaround effort - Fox Business",
+      "description": "Campbell's CEO Mick Beekhuizen calls results \"unacceptable\" as the company slashes 13% of salaried workers and targets $500 million in savings.",
+      "url": "https://www.foxbusiness.com/markets/campbells-cuts-13-salaried-workforce-closes-plants-part-turnaround-effort",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/campbells-chicken-noodle-soup-cans.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-09-04T21:58:00Z"
+    },
+    {
+      "title": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike - AP News",
+      "description": "Stocks fell on Wall Street and Treasury yields rose after a surprisingly strong report on the job market appeared to increase chances that the U.S. central bank could raise interest rates later this month. The S&P 500 lost 0.4% Friday. The Dow Jones Industria…",
+      "url": "https://apnews.com/article/stocks-markets-oil-trump-iran-war-1af16359af43eb8abc66445465f633c8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4da4943/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fe3%2F5ad22f27bcf5d5764762a7da74c0%2Fab26dc027169491c9c5fdf0cf6d339df",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-04T20:57:00Z"
+    },
+    {
+      "title": "Sound Transit has a dead fish problem - MyNorthwest.com",
+      "description": "Thousands of fish have been found dead in Lake Washington, possibly electrocuted by Sound Transit's equipment from the new light rail system.",
+      "url": "https://mynorthwest.com/chokepoints/sound-transit-dead-fish-problem/4272607",
+      "urlToImage": "https://mynorthwest.com/wp-content/uploads/2026/03/Sound-Transit-light-rail.jpg",
+      "source": "MyNorthwest.com",
+      "publishedAt": "2026-09-04T20:41:34Z"
+    },
+    {
+      "title": "Are mortgage rates heading back above 7%? Here's what experts think. - cbsnews.com",
+      "description": "Mortgage rates have climbed sharply this year amid mounting concerns about inflation and U.S. debt.",
+      "url": "https://www.cbsnews.com/news/mortgage-rates-expected-cross-7-percent/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/16/279e0fdb-1b16-4f31-a288-e280b539f926/thumbnail/1200x630/fcaf2b61cf909292707f662423e98720/cbsn-fusion-prospective-homeowners-delaying-purchases-amid-high-prices-high-mortgage-rates-thumbnail.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-09-04T20:34:00Z"
+    },
+    {
+      "title": "Records reveal safety complaints, poor maintenance at site of deadly Washington pulp mill disaster - AP News",
+      "description": "A pulp mill in Longview, Washington, where 11 workers died after a chemical tank collapsed in May had a history of safety complaints, poor maintenance and discharges of toxic chemicals. That's according to state and federal records involving inspections and s…",
+      "url": "https://apnews.com/article/washington-pulp-mill-chemical-tank-collapse-0a8a458321b3872398efeebcdb52ef32",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a322b55/2147483647/strip/true/crop/1000x666+24+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2Fe5%2F6efaf48446c1922470b16f8d23a2%2F9dcf7f32c74c4f4ea37e55a738dc692b",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-04T19:49:00Z"
+    },
+    {
+      "title": "FICO Stock Plunges as FHFA Pushes VantageScore and Threatens Credit Bureau Model - Barron's",
+      "description": "Equifax, Experian, and TransUnion are “overcharging Americans,” according to Bill Pulte, the head of the Federal Housing Finance Agency.",
+      "url": "https://www.barrons.com/articles/fico-stock-plunges-fhfa-vantagescore-credit-bureaus-ee4e60af",
+      "urlToImage": "https://images.barrons.com/im-22411473/social",
+      "source": "Barron's",
+      "publishedAt": "2026-09-04T19:48:00Z"
+    },
+    {
+      "title": "A costly summer sendoff approaches - Axios",
+      "description": "Persistent pump pain and pricey burgers mean this summer's last hurrah comes with a cost crunch.",
+      "url": "https://www.axios.com/2026/09/04/gas-prices-labor-day-summer-sendoff",
+      "urlToImage": "https://images.axios.com/b2V7xIDo96SeiJaUgUCu430UI6c=/0x0:1920x1080/1366x768/2026/07/21/1784653129286.jpeg",
       "source": "Axios",
-      "publishedAt": "2026-09-03T20:17:39Z"
+      "publishedAt": "2026-09-04T19:45:42Z"
+    },
+    {
+      "title": "New profile of John Ternus offers insight into life and reputation of Apple CEO - 9to5Mac",
+      "description": "John Ternus became Apple’s new CEO this week, and today a Financial Times profile offers fresh insights into Ternus’s life and reputation.",
+      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-01.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5Mac",
+      "publishedAt": "2026-09-04T19:17:00Z"
+    },
+    {
+      "title": "Publix, Walmart, other grocers under investigation over beef prices - thehill.com",
+      "description": "The Department of Justice is expanding its investigation into beef affordability in the United States to include eight of the largest grocers in the country.",
+      "url": "https://thehill.com/business/6071478-publix-walmart-doj-scrutiny-grocers-beef-prices/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP885137627141-e1788548404891.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2026-09-04T19:01:00Z"
+    },
+    {
+      "title": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here - 9to5Mac",
+      "description": "Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan....",
+      "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628",
+      "source": "9to5Mac",
+      "publishedAt": "2026-09-04T18:52:00Z"
+    },
+    {
+      "title": "‘I don't think anyone is really comfortable’: Democrat leading on AI raises alarms at Trump, Zuckerberg call - Politico",
+      "description": "Rep. Lori Trahan said she and other House Democrats would haul in tech CEOs, like Meta’s Mark Zuckerberg, if her party takes back the majority.",
+      "url": "https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454",
+      "urlToImage": "https://www.politico.com/dims4/default/d085e2f/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1c%2F79%2F52b755e04449a1e78cd7e639e8cf%2F2026-0521-trahan-francis-17-edit.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-09-04T18:26:34Z"
     }
   ]
 }
