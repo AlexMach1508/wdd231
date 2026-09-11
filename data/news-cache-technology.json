@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-09-10T11:10:25.568Z",
+  "updatedAt": "2026-09-11T11:10:22.729Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant - MacRumors",
-      "description": "A series of screenshots shared with MacRumors today seemingly show Verizon's AI chat assistant answering detailed questions about the iPhone 18...",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-details-leaked-by-verizon/",
-      "urlToImage": "https://images.macrumors.com/t/3W26Rv2AgG-jzjMnQcwrrXDfnrc=/2500x/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-09-09T11:28:32Z"
+      "title": "The Legend of Zelda 40th Anniversary Switch 2 Console and Accessory Preorders Are Live in the UK - IGN",
+      "description": "Preorders are starting to go live at Nintendo's UK store and Smyths Toys for the Zelda 40th Anniversary Edition Switch 2 console and accessories. But act fast!",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-40th-anniversary-switch-2-console-and-accessory-preorders-are-live-in-the-uk",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/09/zelda-console-article-2-1788945443880.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-09-10T09:19:00Z"
     },
     {
-      "title": "Samsung ‘advice’ to Apple suggests it fears the build quality of the iPhone Duo - 9to5mac.com",
-      "description": "Samsung says it welcomes Apple’s entry into the foldable smartphone market, although the company appears to feel threatened by the...",
-      "url": "https://9to5mac.com/2026/09/09/samsung-advice-to-apple-suggests-it-fears-the-build-quality-of-the-iphone-duo/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-09-09T10:58:00Z"
+      "title": "‘Death Stranding’ Creator Hideo Kojima’s Upcoming ‘Physint’ Moves From PlayStation to Xbox as New Publisher - Variety",
+      "description": "Xbox is expanding its partnership with video game industry legend Hideo Kojima.",
+      "url": "https://variety.com/2026/gaming/news/hideo-kojima-physint-game-xbox-playstation-1236855372/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Hideo-Kojima.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-09-10T02:34:00Z"
     },
     {
-      "title": "Massive achievement leak seemingly stemming from Steam reveals info on Persona 6, Kingdom Hearts 4, and multiple unreleased PC games - Eurogamer.net",
-      "description": null,
-      "url": "https://www.eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam",
-      "urlToImage": null,
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-09-09T10:34:15Z"
-    },
-    {
-      "title": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi - Yahoo Finance",
-      "description": "Wall Street sees Apple Inc. (NASDAQ:AAPL) entering a significant hardware cycle ahead of its “Surprise and Shine” event streaming live on Wednesday, Septembe...",
-      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/febefbf2643d69823e527822a23551589e58d52f8e55554e897c0177e598007d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F62cb46e6eeef5e0adeaa5b81e9188f72.jpg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-09T10:15:21Z"
-    },
-    {
-      "title": "The new Apple Watch will use microphone and other sensors to generate AI recaps of your day - 9to5Mac",
-      "description": "Apple will announce the new Apple Watch lineup later today, and Mark Gurman at Bloomberg has the early scoop. He...",
-      "url": "https://9to5mac.com/2026/09/09/the-new-apple-watch-will-use-microphone-and-other-sensors-to-generate-ai-recaps-of-your-day/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-lineup.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-09-09T07:52:00Z"
-    },
-    {
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks - bleepingcomputer.com",
-      "description": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/09/Google_Chrome.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-09-09T06:25:48Z"
-    },
-    {
-      "title": "OM System PEN review: Get the F out! This camera isn't a PEN-F II – but it's better in every single way - Digital Camera World",
-      "description": "The OM System PEN is the ultimate everyday carry – and in many ways, a better Lumix L10 than the actual L10",
-      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/om-system-pen-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KJbo8qw2nnfj272cgSmRtH-2560-80.jpg",
-      "source": "Digital Camera World",
-      "publishedAt": "2026-09-09T06:06:29Z"
-    },
-    {
-      "title": "Multiple amiibo Listings Have Apparently Been Spotted On GameStop's Internal Database - Nintendo Life",
-      "description": "New Zelda amiibo were announced yesterday",
-      "url": "https://www.nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database",
-      "urlToImage": "https://images.nintendolife.com/224f64cdd2020/large.jpg",
+      "title": "Mario Kart World Has Been Updated To Version 1.8.0, Here Are The Full Patch Notes - Nintendo Life",
+      "description": "You can download this free update now",
+      "url": "https://www.nintendolife.com/news/2026/09/mario-kart-world-has-been-updated-to-version-1-8-0-here-are-the-full-patch-notes",
+      "urlToImage": "https://images.nintendolife.com/4b09e62fd3094/large.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2026-09-09T04:55:00Z"
+      "publishedAt": "2026-09-09T23:55:00Z"
     },
     {
-      "title": "Valheim 1.0 Launches After 5 Years in Early Access - TechPowerUp",
-      "description": "Valheim launched into Steam Early Access in February 2021 and quickly garnered attention, launching with over 500,000 peak concurrent players on Steam and still counting over 20,000 daily concurrent players at the time of writing. Now, over five years after t…",
-      "url": "https://www.techpowerup.com/352474/valheim-1-0-launches-after-5-years-in-early-access",
-      "urlToImage": "https://www.techpowerup.com/img/ydOLaRQdurgjZ2M3.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-09-09T02:41:39Z"
+      "title": "Apple shares more details about Apple Intelligence usage limits and terms - 9to5Mac",
+      "description": "Apple today published a new support article that provides more detail on Apple Intelligence usage terms, limits, and restrictions.",
+      "url": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5Mac",
+      "publishedAt": "2026-09-09T21:27:00Z"
     },
     {
-      "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge - The Register",
-      "description": "Adobe also brought goodies to the patch party and they deserve immediate attention",
-      "url": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
-      "urlToImage": "https://image.theregister.com/5295166.jpg?imageId=5295166&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "source": "Theregister.com",
-      "publishedAt": "2026-09-09T00:25:22Z"
+      "title": "If Meta Glasses Freak You Out, Wait Until You Hear About the New Apple Watch Features - Gizmodo",
+      "description": "Live Rewind and Siri Recap just killed the dreams of always on AI wearables.",
+      "url": "https://gizmodo.com/if-meta-glasses-freak-you-out-wait-until-you-hear-about-the-new-apple-watch-features-2000809371",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Meta-Glasses-Apple-Watch-Features-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-09-09T20:30:22Z"
     },
     {
-      "title": "Xbox’s Disc‑to‑Digital program just got a major boost as Ubisoft signs on with more publishers expected soon - Windows Central",
-      "description": "Some outlets were highlighting Ubisoft's lack of involvement in Xbox's disc-to-digital program. Perhaps we should remind ourselves that it's still in testing.",
-      "url": "https://www.windowscentral.com/gaming/xbox/ubisoft-joins-xboxs-disc-to-digital-program-with-more-publishers-to-follow",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ftDQHZue9WoD59KBGjdfBT-2560-80.png",
-      "source": "Windows Central",
-      "publishedAt": "2026-09-08T23:58:27Z"
+      "title": "Apple Adds AppleCare One Family Plan for Up to Six People - MacRumors",
+      "description": "Apple today announced AppleCare One Family, a new option for U.S. customers that extends AppleCare coverage to every eligible device across an Apple...",
+      "url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
+      "urlToImage": "https://images.macrumors.com/t/EqkQsp3rRESKGu9emzZxS5enwAs=/1600x/article-new/2026/09/AppleCare-One-Family.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-09T20:23:05Z"
     },
     {
-      "title": "From Wearables to Robots to Tabletop Trinkets, the AI Hardware Scene Is Booming - CNET",
-      "description": "AI is supercharging a new crop of gadgets, mixing whimsy with practicality. I checked them out at IFA 2026.",
-      "url": "https://www.cnet.com/tech/computing/ifa-2026-dedicated-ai-devices-new-product-category/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/IFA.png",
-      "source": "CNET",
-      "publishedAt": "2026-09-08T21:54:29Z"
+      "title": "Almost 1,900 Blizzard workers ratify first union contract with Microsoft - GamesIndustry.biz",
+      "description": "Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by a workforce vote c…",
+      "url": "https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft",
+      "urlToImage": "https://assetsio.gnwcdn.com/overwatch_clYfSXF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-09-09T20:14:39Z"
     },
     {
-      "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
-      "description": "“It doesn’t cost a lot to store text forever.”...",
-      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600.jpg",
+      "title": "iPhone 18 Pro and iPhone Duo Feature Apple's New C2 Modem [Updated] - MacRumors",
+      "description": "Apple today unveiled new iPhone 18 Pro models and the iPhone Duo – the company's first foldable iPhone – and both the iPhone 18 Pro and the...",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-iphone-duo-new-c2-modem/",
+      "urlToImage": "https://images.macrumors.com/t/1XLwE6ZV4Zq3kmGvuaSzrT2s4bk=/1600x/article-new/2026/09/iphone-duo-c2.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-09T19:28:10Z"
+    },
+    {
+      "title": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates - MacRumors",
+      "description": "Apple today seeded the release candidate versions of iOS 27 and iPadOS 27 for final testing purposes, with the update coming a week after Apple...",
+      "url": "https://www.macrumors.com/2026/09/09/apple-ios-27-rc/",
+      "urlToImage": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-09T19:07:40Z"
+    },
+    {
+      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode - Ars Technica",
+      "description": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AIrPods-5-1152x648.jpg",
       "source": "Ars Technica",
-      "publishedAt": "2026-09-08T21:52:29Z"
+      "publishedAt": "2026-09-09T18:58:24Z"
     },
     {
-      "title": "GOG brings back \"big box\" PC games, one printable template at a time - Ars Technica",
-      "description": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
-      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/hitmanbox1-1152x648-1788901163.png",
-      "source": "Ars Technica",
-      "publishedAt": "2026-09-08T21:23:13Z"
+      "title": "Apple Discontinues iPhone 17 Pro and iPhone 17 Pro Max - MacRumors",
+      "description": "Following the announcement of the iPhone 18 Pro models today, Apple discontinued the iPhone 17 Pro and ‌iPhone 17 Pro Max.   Apple usually retires...",
+      "url": "https://www.macrumors.com/2026/09/09/apple-discontinues-iphone-17-pro-max/",
+      "urlToImage": "https://images.macrumors.com/t/XEU16kt-6jgaEnJRrVVbql2f7YU=/1960x/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-09T18:55:20Z"
     },
     {
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit - BleepingComputer",
-      "description": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk.",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/10/15/F5_01.png",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-09-08T20:08:55Z"
+      "title": "Konami Announces Yu-Gi-Oh! Tag Force GX Game for Switch 2, Switch, PC - Anime News Network",
+      "description": "Updated version of Yu-Gi-Oh! GX Tag Force 3, previously unreleased in N. America, launches on February 16",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-09/konami-announces-yu-gi-oh-tag-force-gx-game-for-switch-2-switch-pc/.241575",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ7/youtube/DzGpTjuzelg.jpg",
+      "source": "Anime News Network",
+      "publishedAt": "2026-09-09T18:13:31Z"
     },
     {
-      "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
-      "description": "Apple products like AirPods, iPads, MacBooks and official accessories are on sale during the final hours of Labor Day weekend.",
-      "url": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/apple-memorial-day-2026-deals.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-09-08T19:56:00Z"
+      "title": "iPhone Duo Launch Deals Include $300 Off Samsung's Galaxy Z Fold 8 - Droid Life",
+      "description": "It might be iPhone Duo day, but Samsung still has two excellent new foldables it doesn’t want you to forget about. Both the Galaxy Z Fold 8 Ultra and Galaxy Z Fold 8 are discounted heavily with no trade-in required. Instead of being an iPhone Duo beta tester,…",
+      "url": "https://www.droid-life.com/2026/09/09/skip-iphone-duo-and-slap-300-off-galaxy-z-fold-8/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/09/iPhone-Duo-Launch-Deals.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2026-09-09T18:01:45Z"
     },
     {
-      "title": "Game Awards Host Geoff Keighley And PlayStation Architect Mark Cerny Will Start Giving $2 Million To Young Game Designers Each Year - Kotaku",
-      "description": "The Nova Games Foundation is a new philanthropic initiative aimed at supporting the next generation of game makers",
-      "url": "https://kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/09/g-eoff-cnery-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-09-08T19:49:04Z"
-    },
-    {
-      "title": "The Galaxy Z Fold 8 is outselling Samsung's record-breaking Fold 7 by a wide margin - phonearena.com",
+      "title": "Valheim’s Metacritic Review Score Ties A 2026 Record - Forbes",
       "description": null,
-      "url": "https://www.phonearena.com/news/galaxy-z-fold-8-is-outselling-samsungs-record-breaking-fold-7-by-a-wide-margin_id183159",
+      "url": "https://www.forbes.com/sites/paultassi/2026/09/09/valheims-metacritic-review-score-is-in-and-ties-a-2026-record/",
       "urlToImage": null,
-      "source": "PhoneArena",
-      "publishedAt": "2026-09-08T18:59:11Z"
+      "source": "Forbes",
+      "publishedAt": "2026-09-09T18:01:12Z"
     },
     {
-      "title": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new - 9to5Mac",
-      "description": "Last week Sonos unveiled several new features coming soon, and now the first of those upgrades are here in the ‘Sonos 27’ app update.",
-      "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-27-app-update-screenshots.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-09-08T18:59:00Z"
+      "title": "Apple Extends Free Satellite Access for iPhone 14, 15, and 16 Users - MacRumors",
+      "description": "Apple today announced it is extending free access to satellite features for an additional year for existing iPhone 14, iPhone 15, and iPhone 16...",
+      "url": "https://www.macrumors.com/2026/09/09/apple-extends-free-satellite-access/",
+      "urlToImage": "https://images.macrumors.com/t/NiqVm75fJdfBoWGMCBRbMJjPAU0=/3564x/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-09T17:51:00Z"
     },
     {
-      "title": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’ - 9to5Mac",
-      "description": "In April, OpenAI released upgraded image generation technology with ChatGPT Images 2. Five months later, the company is releasing an...",
-      "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-09-08T18:50:00Z"
+      "title": "LG's denial confirms the part that applies to every smart TV - The Next Web",
+      "description": "LG rejects the standby recording claims but confirms its TVs scan local networks, calling it industry standard. ACR varies by country.",
+      "url": "https://thenextweb.com/news/lg-smart-tv-acr-denial-industry-standard-eu",
+      "urlToImage": "https://media.thenextweb.com/2026/04/LG-electronics.jpg",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-09T17:29:51Z"
+    },
+    {
+      "title": "Every New Announcement At The September 2026 Nintendo Direct - Game Informer",
+      "description": "From a new 2D Metroid to a new open-world Kirby, here's every new update and reveal from today's broadcast. - Game Informer",
+      "url": "https://gameinformer.com/nintendo-direct/2026/09/09/every-new-announcement-at-the-september-2026-nintendo-direct",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/09/09/f89c500c/MetroidRavenous_KeyArt_crop.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-09-09T16:55:00Z"
+    },
+    {
+      "title": "PlayStation Plus Game Catalog for September 2026 Confirmed - IGN",
+      "description": "Sony has confirmed the PlayStation Plus Game Catalog for September 2026, which is headlined by RuneScape: Dragonwilds, WWE 2K26 and Ball x Pit.",
+      "url": "https://www.ign.com/articles/playstation-plus-game-catalog-for-september-2026-confirmed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/12/12/playstation-plus-1702412896101.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-09-09T16:03:21Z"
+    },
+    {
+      "title": "FARCRY 3 Classic Edition & FARCRY 3 Blood Dragon Classic Edition are coming to Nintendo Switch 2! - Ubisoft",
+      "description": "For the first time in ages, the FARCRY franchise comes to Nintendo hardware.",
+      "url": "https://www.ubisoft.com/en-us/news/ignt.62990/farcry-3-classic-edition-farcry-3-blood-dragon-classic-edition-are-coming-to-nintendo-switch-2",
+      "urlToImage": "https://ubiservices.cdn.ubi.com/748afbe7-1d05-43d8-bf4b-9aff7d389b7a/news/FC_image1.jpg",
+      "source": "Ubisoft.com",
+      "publishedAt": "2026-09-09T15:50:54Z"
     }
   ]
 }
