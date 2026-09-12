@@ -1,135 +1,143 @@
 {
-  "updatedAt": "2026-09-11T11:10:22.794Z",
+  "updatedAt": "2026-09-12T10:39:03.993Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock futures inch higher as traders brace for wholesale inflation report: Live updates - CNBC",
-      "description": "The first of two inflation reports due this week is in focus as oil prices rise.",
-      "url": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353951-1787671978491-Traders-20260825-AS-PRESS-4.jpg?v=1787672206&w=1920&h=1080",
+      "title": "Stock futures edge higher as key consumer inflation report looms ahead: Live updates - CNBC",
+      "description": "The three major averages are heading for a losing week as higher oil prices and a surge in Treasury yields weigh on stocks.",
+      "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357833-1788364301709-Traders-OB-20260902-ACJ-PRESS-8.jpg?v=1788364539&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-09-10T09:22:47Z"
+      "publishedAt": "2026-09-11T06:48:47Z"
     },
     {
-      "title": "World shares retreat and oil prices trade above $100 a barrel - AP News",
-      "description": "World shares are mostly lower following a retreat on Wall Street as the price of crude oil again trades above $100 a barrel. U.S. futures were modestly higher early Thursday. On Wednesday, the S&P 500 lost 0.5% and the Dow Jones Industrial Average gave up 0.8…",
-      "url": "https://apnews.com/article/stocks-markets-oil-trump-rates-7fbc77061abd778608068d3beb1bbbaf",
-      "urlToImage": "https://dims.apnews.com/dims4/default/66b2c02/2147483647/strip/true/crop/6860x4571+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F93%2Ffa46080487b09fadb5113f3afdfc%2F47b0eab6592649239fad794f1d4c5022",
+      "title": "Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5% - Bloomberg.com",
+      "description": "Bond bears are pushing benchmark Treasury yields toward the closely-watched 5% level ahead of US inflation data that stands to determine expectations for a Federal Reserve interest-rate hike next week.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/global-bond-selloff-sends-10-year-treasury-yields-to-cusp-of-5",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2fGQPaAqFB0/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-09-11T05:40:00Z"
+    },
+    {
+      "title": "Scott Bessent fails to break ‘fever’ in US bond market - Financial Times",
+      "description": "Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn",
+      "url": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0895921f-d4d4-4ec6-95a6-d0b59461be1d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-11T05:17:04Z"
+    },
+    {
+      "title": "Inflation report lands amid spiking oil prices, rising interest rates and Fed on fence - Yahoo Finance",
+      "description": "Friday's inflation report is shaping up to be among the most consequential in years.  Oil and gas prices have spiked again on the back of renewed combat in t...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/inflation-report-lands-amid-spiking-040030031.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c8b3a949a6b54b0027fbfff502a65130f7c6b49c49836e6b495ab18dba52bd23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F550004dadb1667480d867df93a81a5e9.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-11T04:00:00Z"
+    },
+    {
+      "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
+      "description": "Anthropic says it has blocked efforts by bad actors to use its artificial intelligence models for malicious activity such as cyberattacks, surveillance and research that could have led to biological weapons. As AI models grow more powerful, elaborate cyberatt…",
+      "url": "https://apnews.com/article/anthropic-ai-threat-bioweapon-russia-00266dca90e4f8853f669648998d3bda",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cc34ed2/2147483647/strip/true/crop/5000x3332+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2F20%2F785616a9d6cd43fad6538dac7906%2F2ae6211ac40c4c759949e06d6698571b",
       "source": "Associated Press",
-      "publishedAt": "2026-09-10T08:29:00Z"
+      "publishedAt": "2026-09-11T03:59:00Z"
     },
     {
-      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI - theverge.com",
-      "description": "Volvo revealed the plug-in hybrid version of the XC40 SUV, with improved styling and better safety sensors.",
-      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-09-10T07:00:00Z"
+      "title": "Chemours accused of illegally dumping PFAS chemicals in Cape Fear River, other NC water settles for millions - ABC11 News",
+      "description": "The EPA found that the companies released PFAS chemicals into the Cape Fear River, a drinking water source for about 500,000 people.",
+      "url": "https://abc11.com/post/chemours-accused-illegally-dumping-pfas-chemicals-cape-fear-river-other-nc-water-settles-600-million-ag-says/19813141/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19817494_Chemours2.jpg?w=1600",
+      "source": "WTVD-TV",
+      "publishedAt": "2026-09-11T00:18:21Z"
     },
     {
-      "title": "TSA revives pre-9/11 tradition with gate access for certain travelers without tickets - Fox Business",
-      "description": "The Transportation Security Administration launched a new program allowing TSA PreCheck members to move past airport security as non-ticketed guests.",
-      "url": "https://www.foxbusiness.com/fox-news-travel/tsa-revives-pre-9-11-tradition-gate-access-certain-travelers-without-tickets",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/waving-goodbye-airport-travelers.png?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-09-10T06:48:00Z"
+      "title": "Are interest rates on the way up again? - BBC",
+      "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+      "url": "https://www.bbc.com/news/articles/cew9nkx7v9eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-09-10T23:03:09Z"
     },
     {
-      "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast - NPR",
-      "description": "For nearly two minutes, one of the pilots of the Amazon cargo plane that careened off a Miami runway repeatedly warned his counterpart they were going too fast, according to flight information.",
-      "url": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+107/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F59%2F296fb6254fea893dc07b1f53416d%2Fap26251843234935.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-09-10T05:45:00Z"
-    },
-    {
-      "title": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history - CNN",
-      "description": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident — one of the largest cryptocurrency thefts in US history — and then embarking on a wild spending spree …",
-      "url": "https://www.cnn.com/2026/09/09/us/man-pleads-guilty-massive-crypto-heists-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26247717154420.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-09-10T02:14:00Z"
-    },
-    {
-      "title": "City of Seattle unveils economic plan as office vacancies hit hard - king5.com",
-      "description": null,
-      "url": "https://www.king5.com/article/money/economy/city-of-seattle-unveils-economic-plan-as-office-vacancies-hit-hard/281-f2d6fb2a-2299-4ae4-84ba-f89f458cd80e",
-      "urlToImage": null,
-      "source": "KING5.com",
-      "publishedAt": "2026-09-10T00:41:00Z"
-    },
-    {
-      "title": "BREAKING: Two rays of hope - Marcus on AI",
-      "description": "Pushing for transparency",
-      "url": "https://garymarcus.substack.com/p/breaking-two-rays-of-hope",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!VgKh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea6a1796-1bd1-4b4b-96aa-73e473d38928_1668x1842.png",
-      "source": "Substack.com",
-      "publishedAt": "2026-09-10T00:04:59Z"
-    },
-    {
-      "title": "Anthropic posted, then swiftly deleted, a $450,000 sales job aimed at its 'mega' customer Meta - Business Insider",
-      "description": "Anthropic listed a sales job specifically targeting Meta, a major customer but also a rival in the AI race. It has since deleted the posting.",
-      "url": "https://www.businessinsider.com/anthropic-job-posting-450000-for-a-sales-job-meta-2026-9#article",
-      "urlToImage": "https://i.insider.com/6aa1e281cc23a829a3b8fa42?width=1200&format=jpeg",
+      "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop' - businessinsider.com",
+      "description": "Caltech mathematicians said the event, which is sponsored by AI companies, \"is likely to have destructive impacts for the mathematical community.\"",
+      "url": "https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9#article",
+      "urlToImage": "https://i.insider.com/6aa3256b9b8974787b1cad06?width=1200&format=jpeg",
       "source": "Business Insider",
-      "publishedAt": "2026-09-09T23:22:00Z"
+      "publishedAt": "2026-09-10T22:46:00Z"
     },
     {
-      "title": "Passenger killed, driver critically injured after Tesla crashes into scaffolding in Midtown - ABC7 New York",
-      "description": "A passenger was killed and a driver is under arrest after a car crashed into scaffolding in Midtown Manhattan early Wednesday morning.",
-      "url": "https://abc7ny.com/post/passenger-killed-driver-critically-injured-tesla-crashes-scaffolding-midtown/19809818/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19809809_090926-wabc-tesla-fatal-midtown-crash-img.jpg?w=1600",
-      "source": "WABC-TV",
-      "publishedAt": "2026-09-09T22:33:45Z"
+      "title": "Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’ - NBC News",
+      "description": "After Jacob Coxon roiled the AI industry with his viral departure from Anthropic, two more researchers are speaking out about their concerns over AI safety.",
+      "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-anthropic-ch-1433-ff98e1.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-09-10T22:33:24Z"
     },
     {
-      "title": "Hunter Biden’s ‘$LAPTOP’ crypto coin crashes minutes after launch - washingtonpost.com",
-      "description": "Biden had touted the launch of the meme coin, saying it was a way to reclaim a symbol that had defined coverage about him when his father was president.",
-      "url": "https://www.washingtonpost.com/business/2026/09/09/hunter-bidens-laptop-crypto-coin-crashes-minutes-after-launch/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/J5X4VUOIG3AKPDZOUMYIG5YK6Y.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-09-09T22:29:53Z"
+      "title": "Stock Market on Sept. 10, 2026: Dow, S&P 500 and Nasdaq end lower as U.S. oil prices surge to more than $100 a barrel and Treasury yields jump; stocks book 4th straight day of losses - MarketWatch",
+      "description": null,
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-up-oil-calmer-treasury-steady-producer-inflation-oracle-earnings",
+      "urlToImage": null,
+      "source": "MarketWatch",
+      "publishedAt": "2026-09-10T22:20:00Z"
     },
     {
-      "title": "Exclusive | Ford CEO Says Transportation Secretary Had ‘Basic Misunderstandings’ in Letter - wsj.com",
-      "description": "Exchange shows how politically sensitive the question of Chinese automakers breaking into the U.S. has become",
-      "url": "https://www.wsj.com/business/autos/ford-ceo-says-transportation-secretary-had-basic-misunderstandings-in-letter-34795840",
-      "urlToImage": "https://images.wsj.net/im-58659109/social",
+      "title": "Lineage Sues Solar-Panel Operator Over L.A. Warehouse Fire - WSJ",
+      "description": "The world’s largest cold-storage operator claims negligence caused a massive blaze and is seeking over $1 billion in damages",
+      "url": "https://www.wsj.com/logistics-report/lineage-sues-solar-panel-operator-over-l-a-warehouse-fire-732d627a",
+      "urlToImage": "https://images.wsj.net/im-52477857/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-09T21:35:00Z"
+      "publishedAt": "2026-09-10T21:42:00Z"
     },
     {
-      "title": "OpenAI’s rogue AI agents used universities, wikis, and text‑sharing sites as hidden message boards - Fortune",
-      "description": "Researchers say OpenAI agents quietly spread across more than a dozen obscure websites, raising questions about how the company is monitoring its systems.",
-      "url": "https://fortune.com/2026/09/09/openai-rogue-ai-agents-reached-12-more-websites/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292626781.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-09-09T21:31:00Z"
+      "title": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027 - oilprice.com",
+      "description": "OPEC now expects global oil demand growth to jump from just 380,000 barrels per day this year to 2.36 million bpd in 2027a more than sixfold increase in the space of a year.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Explode-Sixfold-in-2027.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_asqu9tsfwp.jpg",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-09-10T21:30:00Z"
     },
     {
-      "title": "US loans $1.9B to restart shuttered Iowa nuclear plant - foxbusiness.com",
-      "description": "NextEra Energy received a $1.9 billion DOE loan commitment to restart Iowa’s Duane Arnold nuclear plant to power Google’s AI data centers.",
-      "url": "https://www.foxbusiness.com/fox-news-tech/us-loans-1-9b-restart-shuttered-iowa-nuclear-plant",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/power-plant-worker-turbine.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-09-09T21:28:00Z"
+      "title": "Diesel prices are nearing $6 a gallon for the first time ever - CBS News",
+      "description": "The price of diesel has soared more than 60% over the last year, a surge energy experts said is likely to continue. Here's why.",
+      "url": "https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/10/3e90ada3-ad94-4496-9075-189ceedfb4cc/thumbnail/1200x630/15bb64b17d40e3a6457d64c5bd2df388/gettyimages-2291635482.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-09-10T21:05:00Z"
     },
     {
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia - theverge.com",
-      "description": "﻿OpenAI is disrupting mathematics, alright.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-09-09T21:16:34Z"
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand - TechCrunch",
+      "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-10T20:59:51Z"
     },
     {
-      "title": "O’Charley’s closing all locations nationwide after 55 years - WTVC",
-      "description": "A longtime Tennessee restaurant is closing its doors.Nashville-based O’Charley’s Restaurant & Bar will close all of its remaining company-owned locations nation",
-      "url": "https://newschannel9.com/news/local/ocharleys-closing-all-locations-nationwide-after-55-years",
-      "urlToImage": "https://newschannel9.com/resources/media/5770e5c6-b31b-4777-b919-b2e1e69f8e9e-jumbo16x9_ocharleysclosing.movframe326.png",
-      "source": "WTVC",
-      "publishedAt": "2026-09-09T21:00:52Z"
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek - TechCrunch",
+      "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-10T20:57:30Z"
+    },
+    {
+      "title": "Oracle Stock Rises After Solid Earnings - Barron's",
+      "description": "Oracle stock rose after the cloud-computing company reported solid fiscal first-quarter earnings.",
+      "url": "https://www.barrons.com/articles/oracle-earnings-stock-price-7608397f",
+      "urlToImage": "https://images.barrons.com/im-33371378/social",
+      "source": "Barron's",
+      "publishedAt": "2026-09-10T20:54:00Z"
+    },
+    {
+      "title": "Autonomous Tesla Cybercabs hit the streets of New York City - Gothamist",
+      "description": "The sand-colored Tesla taxis are required to have a driver behind the wheel.",
+      "url": "https://gothamist.com/news/autonomous-tesla-cybercabs-hit-the-streets-of-new-york-city",
+      "urlToImage": "https://api-prod.gothamist.com/images/359114/fill-1200x650|format-webp|webpquality-85/",
+      "source": "Gothamist",
+      "publishedAt": "2026-09-10T20:50:00Z"
     }
   ]
 }
