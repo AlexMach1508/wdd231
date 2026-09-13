@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-09-12T10:39:04.109Z",
+  "updatedAt": "2026-09-13T11:41:44.056Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Fenerbahce coach Kartal’s resignation refused as bottle thrown in Roma tie - Al Jazeera",
-      "description": "Fenerbahce president refuses Ismail Kartal’s resignation after fan threw bottle at coach in Roma Champions League tie.",
-      "url": "https://www.aljazeera.com/sports/2026/9/11/fenerbahce-coach-kartals-resignation-refused-by-president-as-bottles-thrown-in-roma-champions-league-tie",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2294560922-1789103520.jpg?resize=1200%2C675",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-11T06:22:30Z"
+      "title": "England vs Pakistan: Joe Root and Jordan Cox come through scare to win third Test and 3-0 sweep - BBC",
+      "description": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c770z1j5l0ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b861/live/409db100-aea1-11f1-8972-d5c52a82c3b8.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-09-12T12:11:19Z"
     },
     {
-      "title": "Rams jet lag celebration completely backfires against 49ers - SFGATE",
-      "description": "The Los Angeles Rams' jet-lag celebration after an interception completely backfires against the San Francisco 49ers.",
-      "url": "https://www.sfgate.com/49ers/article/rams-jet-lag-celebration-49ers-22426740.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/23/77/31277042/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-09-11T04:04:57Z"
+      "title": "U.S. Men’s Tennis Is Back on the Brink of Crowning a Major Champion - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/cio-journal/u-s-mens-tennis-is-back-on-the-brink-of-crowning-a-major-champion-526cc521",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-12T11:55:00Z"
     },
     {
-      "title": "De'Zhaun Stribling injury update: Latest news on 49ers WR's status in Week 1 - SFGATE",
-      "description": "San Francisco 49ers rookie wide receiver De'Zhaun Stribling went to the blue medical tent in the first quarter. Here's the latest update on his injury.",
-      "url": "https://www.sfgate.com/49ers/article/stribling-injury-update-week-1-22426559.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/23/67/31276542/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-09-11T03:47:48Z"
+      "title": "Vlad's baserunning slipup, Scherzer's 6-run start shape series-opening loss vs. O's - MLB.com",
+      "description": "TORONTO -- All of the Blue Jays’ momentum coming into this homestand came crashing down in a few early, ugly minutes on Friday night.\nThe 7-4 loss to the Orioles leaves the Blue Jays two games behind the Guardians for the final AL Wild Card spot, but at this …",
+      "url": "https://www.mlb.com/news/blue-jays-lose-pivotal-series-opener-vs-orioles",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/g52rd9ariaf68okgitfl.jpg",
+      "source": "MLB.com",
+      "publishedAt": "2026-09-12T06:40:26Z"
     },
     {
-      "title": "Brock Purdy, 49ers dominate Rams 27-7 in Australia - nbcsports.com",
-      "description": "The 49ers quarterback outplayed Matthew Stafford, completing 25 of 34 passes for 205 yards with three touchdowns and an interception.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-49ers-dominate-rams-27-7-in-australia",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/af49669/2147483647/strip/true/crop/3000x1688+0+375/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Fdb%2F71d1523841a58e23662b61f84832%2F2294608470.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-09-11T03:38:10Z"
-    },
-    {
-      "title": "What we learned as Purdy, Evans fuel 49ers' opening win over Rams in Australia - NBC Sports Bay Area & California",
-      "description": "Quarterback Brock Purdy threw three touchdown passes as the San Francisco 49ers opened the season with a convincing win over the Los Angeles Rams.",
-      "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-mike-evans-win-rams-analysis/1962410/",
-      "urlToImage": "https://media.nbcsportsbayarea.com/2026/09/Mike-Evans-Touchdown-Rams-Reuters.jpg?quality=85&strip=all&resize=1200%2C675",
-      "source": "Nbcsportsbayarea.com",
-      "publishedAt": "2026-09-11T03:32:55Z"
-    },
-    {
-      "title": "US Open: Elena Rybakina to face Aryna Sabalenka in final after comeback win over Coco Gauff - Yahoo Sports",
-      "description": "It will be the new No. 1 against the old No. 1 in the US Open women's final.",
-      "url": "https://sports.yahoo.com/tennis/live/us-open-womens-semifinals-2026-coco-gauff-aryna-sabalenka-elena-rybakina-jessica-pegula-222302966.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b56f8e9764ac4f7291137876358467f8664623da5d51a60d0fb04f09037cea52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fb235f7fc-0fd3-44c2-a363-06bcf13054bf",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-11T03:31:00Z"
-    },
-    {
-      "title": "Feds open criminal investigation into Clippers' Kawhi Leonard dealings, report says - ABC7 Los Angeles",
-      "description": "Federal prosecutors have opened a criminal investigation into the Los Angeles Clippers, according to a new report.",
-      "url": "https://abc7.com/post/federal-prosecutors-open-criminal-investigation-clippers-report-says/19817296/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19817313_clippers-img.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2026-09-11T03:25:56Z"
-    },
-    {
-      "title": "Four Observations from Bayern Munich’s 5-0 win over Bodø/Glimt - Bavarian Football Works",
-      "description": "Bayern Munich had a strong start to the Champions League season.",
-      "url": "https://www.bavarianfootballworks.com/bayern-munich-match-observations/254620/four-observations-from-bayern-munichs-5-0-win-over-bodo-glimt",
-      "urlToImage": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/09/gettyimages-2294570075.jpg?quality=90&strip=all&crop=0%2C6.7950314286143%2C100%2C86.409937142771&w=1200",
-      "source": "Bavarian Football Works",
-      "publishedAt": "2026-09-11T02:15:00Z"
-    },
-    {
-      "title": "Rams' Puka Nacua: Was 'kind of drowning myself' with alcohol - ESPN",
-      "description": "Rams WR Puka Nacua told Netflix that \"alcohol was definitely a thing\" for him as he dealt with off-the-field stresses that included a rapid rise to NFL stardom and the birth of his son.",
-      "url": "https://www.espn.com/nfl/story/_/id/49898899/rams-puka-nacua-was-kind-drowning-alcohol",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0813%2Fr1701410_1296x729_16%2D9.jpg",
+      "title": "Ben Shelton's shot at history comes Sunday in the US Open final - ESPN",
+      "description": "Can Shelton become the first American man in 23 years to win a major? He'll carry the ultimate home-court pressure into his showdown with Alexander Zverev.",
+      "url": "https://www.espn.com/tennis/story/_/id/49909988/us-open-2026-final-american-mens-champion-ben-shelton-sasha-zverev",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0912%2Fr1715216_1296x729_16%2D9.jpg",
       "source": "ESPN",
-      "publishedAt": "2026-09-11T01:33:00Z"
+      "publishedAt": "2026-09-12T06:06:00Z"
     },
     {
-      "title": "Patriots might not have A.J. Brown for game against Bills in Week 5 - Buffalo Rumblings",
-      "description": "We now have more information on A.J. Brown’s injury",
-      "url": "https://www.buffalorumblings.com/buffalo-bills-news/139790/buffalo-bills-unlikely-to-face-patriots-wr-a-j-brown-in-week-4",
-      "urlToImage": "https://platform.buffalorumblings.com/wp-content/uploads/sites/51/2026/09/gettyimages-2294428336.jpg?quality=90&strip=all&crop=0%2C10.80040374621%2C100%2C78.39919250758&w=1200",
-      "source": "Buffalo Rumblings",
-      "publishedAt": "2026-09-11T00:53:00Z"
+      "title": "‘I don't understand it': Phillies' recurring mistakes emerge in Atlanta - NBC Sports Philadelphia",
+      "description": "The Phillies squandered three late leads in a 6-5 loss to the Braves as bullpen continues to struggle.",
+      "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/aaron-nola-luis-arraez-justin-crawford/750684/",
+      "urlToImage": "https://media.nbcsportsphiladelphia.com/2026/09/2026-09-12T002852Z_2001391526_MT1USATODAY29792823_RTRMADP_3_MLB-PHILADELPHIA-PHILLIES-AT-ATLANTA-BRAVES.jpg?quality=85&strip=all&crop=0px%2C98px%2C3005px%2C1763px&resize=1200%2C675",
+      "source": "Nbcsportsphiladelphia.com",
+      "publishedAt": "2026-09-12T03:24:23Z"
     },
     {
-      "title": "No sanctions for LSU after SEC meeting on expulsion - espn.com",
-      "description": "A meeting of SEC presidents and chancellors Thursday ended without any punishment imposed on LSU.",
-      "url": "https://www.espn.com/college-football/story/_/id/49897284/no-sanctions-lsu-sec-meeting-expulsion",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0531%2Fr1180445_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-09-10T22:50:00Z"
+      "title": "Yankees, sports world remember 25th anniversary of 9/11 with 'God Bless America' and moments of silence - Fox News",
+      "description": "The New York Mets and New York Yankees wore first-responder caps at Yankee Stadium as MLB marked the 25th anniversary of 9/11 with league-wide tributes.",
+      "url": "https://www.foxnews.com/outkick-sports/yankees-sports-world-remember-25th-anniversary-9-11-god-bless-america-moments-silence",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/New-York-Yankees-players-tribute-pregame.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-09-12T01:55:21Z"
     },
     {
-      "title": "Packers running back Josh Jacobs pleads no contest to 2 misdemeanor charges, including battery - AP News",
-      "description": "Green Bay Packers running back Josh Jacobs pleaded no contest Thursday to misdemeanor charges of battery and criminal damage to property stemming from a May altercation with his girlfriend during which she said he threw her to the ground. Jacobs must pay a $1…",
-      "url": "https://apnews.com/article/josh-jacobs-no-contest-plea-96da101ba6d3f3614a0b514fc910aaf6",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0343922/2147483647/strip/true/crop/5781x3852+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F89%2Fa9%2Fe5324409a69171f5c564e2ca3608%2Fe388251d1dde4593822b331148eb35fe",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-10T21:48:00Z"
+      "title": "Joey Porter Jr. is 'not really' optimistic he will sign a new contract before the Steelers' opener - Pittsburgh Post-Gazette",
+      "description": "False",
+      "url": "https://www.post-gazette.com/sports/steelers/2026/09/11/joey-porter-contract-news-update/stories/202609110037",
+      "urlToImage": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609110037/1140x_a10-7_cTC/20260730mf-steelers18_1789149518.jpg",
+      "source": "Pittsburgh Post-Gazette",
+      "publishedAt": "2026-09-12T01:45:13Z"
     },
     {
-      "title": "After Further Review: Drake Maye breakdown, Patriots defense review, and quick-hit film notes from the loss to the Seahawks - New England Patriots",
-      "description": "Film review of the Patriots loss to the Seahawks in Week 1, including a full breakdown of QB Drake Maye's performance.",
-      "url": "https://patriots-frontend.pocket.nfl.com/news/after-further-review-drake-maye-breakdown-patriots-defense-review-and-quick-hit-film-notes-from-the-loss-to-the-seahawks",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/hxeil6ymcvk0sy4xbfbx",
-      "source": "NFL News",
-      "publishedAt": "2026-09-10T21:23:15Z"
-    },
-    {
-      "title": "Tua Tagovailoa exited practice with oblique injury, Cooper Rush next man up - The Falcoholic",
-      "description": "Feel the Rush? We might.",
-      "url": "https://www.thefalcoholic.com/atlanta-falcons-news/96002/tua-tagovailoa-exited-practice-with-oblique-injury-cooper-rush-next-man-up",
-      "urlToImage": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/09/gettyimages-2291039982.jpg?quality=90&strip=all&crop=0%2C10.729085274655%2C100%2C78.541829450691&w=1200",
-      "source": "The Falcoholic",
-      "publishedAt": "2026-09-10T21:20:59Z"
-    },
-    {
-      "title": "Aaron Rodgers Sure Has a Lot to Say About His Exes - The Cut",
-      "description": "Aaron Rodgers celebrated the start of football season by forcing us to listen to some truly heinous opinions about his ex-girlfriends, Shailene Woodley and Danica Patrick.",
-      "url": "http://www.thecut.com/article/aaron-rodgers-shailene-woodley-breakup-comments.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/77f/29b/25c933d3746bba1b666c9de3534ccceb83-lede-aaron-rodgers.1x.rsocial.w1200.jpg",
-      "source": "The Cut",
-      "publishedAt": "2026-09-10T21:05:40Z"
-    },
-    {
-      "title": "Jets' Breece Hall says he's ready to face Titans in opener - ESPN",
-      "description": "Jets RB Breece Hall, who strained his groin Aug. 17, proclaimed himself ready to face the Titans on Sunday at Nissan Stadium.",
-      "url": "https://www.espn.com/nfl/story/_/id/49895714/jets-breece-hall-says-ready-face-titans-opener",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702061_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-09-10T20:32:00Z"
-    },
-    {
-      "title": "Salk: What Sam Darnold’s injury means for Seahawks season - Seattle Sports",
-      "description": "The Seattle Seahawks are expected to be without starting QB Sam Darnold for at least some time after a hip injury took him out of their Week 1 win.",
-      "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/seattle-seahawks-mike-salk-sam-darnold-hip-injury",
-      "urlToImage": "https://sports.mynorthwest.com/wp-content/uploads/2026/09/seattle-seahawks-sam-darnold-drew-lock-qbs-getty.jpg",
-      "source": "MyNorthwest.com",
-      "publishedAt": "2026-09-10T20:25:34Z"
-    },
-    {
-      "title": "Schefter: Malik Nabers (knee) ‘on track to play’ - nbcsports.com",
-      "description": "ESPN's Adam Schefter reports that Giants WR Malik Nabers (knee) is \"on track to play\" in Week 1 against the Cowboys.",
-      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/schefter-malik-nabers-knee-on-track-to-play",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/188cda1/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2Fa6%2F4e1aaa854ab6aa4a3da4c01b9a53%2Fnabers-malik-copy.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-09-10T20:10:29Z"
-    },
-    {
-      "title": "Underhill: Kamara will play, barring a setback - NBC Sports",
-      "description": "NewOrleans.Football's Nick Underhill believes Alvin Kamara (knee) will play in Week 1 against the Lions.",
-      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-10/underhill-kamara-will-play-barring-a-setback",
+      "title": "Beat: Kamara (knee) won’t have huge role if active - NBC Sports",
+      "description": "New Orleans Football's Nick Underhill believes Saints RB Alvin Kamara (knee) will not have a \"huge role\" if he plays in Week 1 against the Lions.",
+      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-11/beat-kamara-knee-wont-have-huge-role-if-active",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/53e6d18/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F76%2Fd0%2Fe13b20f1486e869b35e1904adf63%2Fkamara-alvin-800-1080-771bc1ebec65560d.jpg",
       "source": "NBCSports.com",
-      "publishedAt": "2026-09-10T19:25:29Z"
+      "publishedAt": "2026-09-11T23:48:53Z"
     },
     {
-      "title": "Former hockey players at University of Michigan sue, say they were sexually abused decades ago - AP News",
-      "description": "More than a dozen former hockey players are suing the University of Michigan. They say their coach and other staff were aware of sexual hazing that included the forced shaving of their genitals and other abuses by teammates decades ago. The plaintiffs are 16 …",
-      "url": "https://apnews.com/article/university-michigan-hockey-sexual-abuse-hazing-lawsuit-dd43b5033c84e7f365c47f0204729962",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b2ae0ef/2147483647/strip/true/crop/4917x3276+71+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2Fa0%2F7a9d2863bbcf22bf436c22832448%2Fed2ee16eebe24484a4d3fc120f8c0b24",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-10T19:24:00Z"
+      "title": "New bodycam footage shows more of Dustin Poirier’s airport arrest, continued belligerent behavior - MMA Fighting",
+      "description": "More footage was released showing Dustin Poirier’s airport arrest and the aftermath",
+      "url": "https://www.mmafighting.com/ufc/509704/new-bodycam-footage-shows-more-of-dustin-poiriers-airport-arrest-continued-belligerent-behavior",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/Screenshot-2026-09-11-at-6.41.31-PM.png?quality=90&strip=all&crop=0,13.710091366389,100,72.579817267221",
+      "source": "MMA Fighting",
+      "publishedAt": "2026-09-11T22:46:26Z"
+    },
+    {
+      "title": "Fred Warner savagely trolls Rams after 49ers' dominant Week 1 win in Melbourne - NBC Sports Bay Area & California",
+      "description": "After the 49ers beat the Los Angeles Rams in Week 1 down in Melbourne, Fred Warner took to social media to troll them.",
+      "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/fred-warner-trolls-rams-after-win/1962758/",
+      "urlToImage": "https://media.nbcsportsbayarea.com/2026/09/FredWarnerTrollStory.jpg?quality=85&strip=all&resize=1200%2C675",
+      "source": "Nbcsportsbayarea.com",
+      "publishedAt": "2026-09-11T22:21:46Z"
+    },
+    {
+      "title": "Falcons vs. Steelers Week 1 injuries: Tua Tagovailoa ruled out for Sunday - The Falcoholic",
+      "description": "Falcons’ Michael Penix Jr. practices fully on Wednesday",
+      "url": "https://www.thefalcoholic.com/atlanta-falcons-injuries/96049/falcons-vs-steelers-week-1-injuries-tua-tagovailoa-ruled-out-for-sunday",
+      "urlToImage": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/07/gettyimages-2278522093.jpg?quality=90&strip=all&crop=0%2C2.1685730079497%2C100%2C41.892814109468&w=1200",
+      "source": "The Falcoholic",
+      "publishedAt": "2026-09-11T22:10:37Z"
+    },
+    {
+      "title": "Chris Johnson's Titans Ring of Honor Ceremony Postponed Due to 'Unforeseen Circumstances' - Bleacher Report",
+      "description": "The Tennessee Titans' ceremony to induct former running back Chris Johnson into the team's Ring of Honor has been postponed.",
+      "url": "https://bleacherreport.com/articles/25498366-chris-johnsons-titans-ring-honor-ceremony-postponed-due-unforeseen-circumstances",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-09/e9c28604137b4fa1b48847a98ca8db89/Seahawks_Titans_Football_44184_5652x3179_(159,507).jpg?w=1120&h=630",
+      "source": "Bleacher Report",
+      "publishedAt": "2026-09-11T21:40:49Z"
+    },
+    {
+      "title": "Byron Buxton To Undergo Season-Ending Hip Surgery - MLB Trade Rumors",
+      "description": "The injury troubles for Buxton continue.",
+      "url": "https://www.mlbtraderumors.com/2026/09/byron-buxton-to-undergo-season-ending-hip-surgery.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/07/Byron_Buxton_Twins-copy-2-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2026-09-11T21:25:23Z"
+    },
+    {
+      "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 2 - CBS Sports",
+      "description": "A closer look at the top games from a loaded Week 2 slate as college football season swings into full force",
+      "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-games-week-2/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/09/11/9da7e13e-c192-4ec9-91bc-013348b9a9cf/thumbnail/1200x675/ec9c6f8c290845234992819784c9b0ec/ohio-state-t25-picks-1.jpg",
+      "source": "CBS Sports",
+      "publishedAt": "2026-09-11T21:23:00Z"
+    },
+    {
+      "title": "Taylor Townsend wins US Open doubles final, praises black 'representation' - Fox News",
+      "description": "Taylor Townsend's victory speech at the US Open women's doubles final sparked debate after she highlighted race and representation at the podium.",
+      "url": "https://www.foxnews.com/outkick-sports/taylor-townsend-wins-us-open-doubles-final-praises-black-representation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/taylor-townsend-tennis-apology-002.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-09-11T21:05:07Z"
+    },
+    {
+      "title": "Cowboys RB Malik Davis carted off during Friday's practice with injury - Dallas News",
+      "description": "The backup running back has been ruled out for Sunday's opener against the Giants.",
+      "url": "https://www.dallasnews.com/sports/cowboys/article/malik-davis-injury-22427753.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/06/51/31222370/3/rawImage.jpg",
+      "source": "The Dallas Morning News",
+      "publishedAt": "2026-09-11T21:02:51Z"
+    },
+    {
+      "title": "Phil Mickelson revelation comes to light just days after shock LIV Golf bankruptcy news - Golfmagic",
+      "description": "Fresh questions have emerged over Mickelson’s LIV Golf future after the six-time major champion was linked to an ownership stake in the troubled circuit.",
+      "url": "https://www.golfmagic.com/tour/liv-golf/phil-mickelson-revelation-comes-light-just-days-after-shock-liv-golf-bankruptcy-news",
+      "urlToImage": "https://www.golfmagic.com/sites/default/files/2026-09/2026-09-08t211154z_898696923_rc2lnu9kpuy6_rtrmadp_3_golf-liv.JPG?width=1600&aspect_ratio=16:9",
+      "source": "Golfmagic.com",
+      "publishedAt": "2026-09-11T20:31:37Z"
+    },
+    {
+      "title": "Eagles-Commanders Final Injury Report: Jonathan Greenard ruled OUT - Bleeding Green Nation",
+      "description": "Week 1 game status updates.",
+      "url": "https://www.bleedinggreennation.com/news/182413/eagles-commanders-final-injury-report-jonathan-greenard-ruled-out",
+      "urlToImage": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2026/07/gettyimages-2277841576.jpg?quality=90&strip=all&crop=0%2C10.736409837615%2C100%2C78.527180324769&w=1200",
+      "source": "Bleeding Green Nation",
+      "publishedAt": "2026-09-11T20:11:19Z"
+    },
+    {
+      "title": "Vikings-Packers Week 1 score predictions from the Bring Me The Sports staff - Bring Me the Sports",
+      "description": null,
+      "url": "https://bringmethesports.com/vikings-packers-week-1-score-predictions-from-the-bring-me-the-sports-staff",
+      "urlToImage": null,
+      "source": "Bringmethesports.com",
+      "publishedAt": "2026-09-11T20:04:38Z"
     }
   ]
 }
