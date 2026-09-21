@@ -1,159 +1,159 @@
 {
-  "updatedAt": "2026-09-20T11:14:11.338Z",
+  "updatedAt": "2026-09-21T12:40:18.921Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Google Gemini accessed protected systems of 3 real companies during artificial intelligence cybersecurity test - Fox Business",
-      "description": "Google Gemini accessed three real companies' protected systems during a cybersecurity test, including one case where the AI repeatedly guessed passwords.",
-      "url": "https://www.foxbusiness.com/technology/google-gemini-accessed-3-companies-systems-during-ai-cybersecurity-test",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/ai-models-phone.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-09-19T09:29:00Z"
+      "title": "Trump's proposed Washington arch to become sniper, drone facility - Axios",
+      "description": "The president is now framing construction of the arch as a national security issue.",
+      "url": "https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones",
+      "urlToImage": "https://images.axios.com/SCPOtHpRuHsJ8HlU_CJYe2occtU=/0x187:3840x2347/1366x768/2026/09/20/1789904743322.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-09-20T12:11:15Z"
     },
     {
-      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
-      "description": "Russia’s parliamentary election for the first time is being held in Ukraine’s regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago. It's a way for the Kremlin to cement its territorial gains in the war. Wh…",
-      "url": "https://apnews.com/article/russia-parliament-ukraine-vote-election-putin-war-dc5773facca1bedad04c212ccdc94532",
-      "urlToImage": "https://dims.apnews.com/dims4/default/18df499/2147483647/strip/true/crop/4719x3144+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2F73%2F7b5133edd9636f19eb50873a5134%2Fb0cea43aff1b475d921e94ae53d885d7",
+      "title": "Hideo Kojima explains the surprise split with Sony - The Washington Post",
+      "description": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
+      "url": "https://www.washingtonpost.com/style/2026/09/20/hideo-kojima-explains-surprise-physint-split-with-sony/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH2X75DW66CW3YPGB54D2V6EYU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-20T11:21:36Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC",
+      "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+      "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-09-20T11:00:01Z"
+    },
+    {
+      "title": "Trump and sons invest heavily in AI economy as he resists calls for slowdown - The Washington Post",
+      "description": "Trump’s decisions as president on one of the most consequential policy debates of his administration could affect the value of his personal investments.",
+      "url": "https://www.washingtonpost.com/politics/2026/09/20/trump-family-large-ai-related-investments-create-possible-conflicts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/E3Y4PHLGMZM3IS4YTORCT5RY3A.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-20T10:32:09Z"
+    },
+    {
+      "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says - Al Jazeera",
+      "description": "Moscow mayor says Russia has intercepted 1,600 drones since Saturday, including 450 directed at the capital.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T042905Z_1824787393_RC2QMNA5QBAK_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1789884302.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-20T10:14:08Z"
+    },
+    {
+      "title": "‘Crisis even bigger than Covid’: American business owners are barely getting by - CNN",
+      "description": "The historic supply chain struggles that America’s business owners face show why resurgent inflation will not be easily resolved – even if the war ended.",
+      "url": "https://www.cnn.com/2026/09/20/economy/covid-diesel-supply-chain",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2290741663.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-09-20T10:00:29Z"
+    },
+    {
+      "title": "Israeli man critically wounded in West Bank shooting, and other Mideast developments - AP News",
+      "description": "An Israeli man has been fatally shot in the occupied West Bank and the suspect was detained. Separately, Israel's military said it killed a man attempting a ramming attack on troops elsewhere in the Palestinian territory. Both occurred hours before the Yom Ki…",
+      "url": "https://apnews.com/article/mideast-news-roundup-september-20-2026-4ca7f5b7d7b4a6658909b7c92764973a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f747050/2147483647/strip/true/crop/6736x4488+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2F03%2Fb9a37598595b43eb3fb57d627032%2F828d4a3602ef4dca8dd5ca13342b6e1e",
       "source": "Associated Press",
-      "publishedAt": "2026-09-19T07:21:23Z"
+      "publishedAt": "2026-09-20T09:50:00Z"
     },
     {
-      "title": "Horoscope for Saturday, September 19, 2026 - Chicago Sun-Times",
+      "title": "I spent 30 minutes with the iPhone Duo — 3 things you just don’t get from the pictures - Tom's Guide",
+      "description": "This thing hits different when you hold it",
+      "url": "https://www.tomsguide.com/phones/iphones/i-spent-30-minutes-with-the-iphone-duo-3-things-you-just-dont-get-from-the-pictures",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GTrSzbvbSigPgscpMS3JsU-2560-80.jpg",
+      "source": "Tom's Guide",
+      "publishedAt": "2026-09-20T09:45:00Z"
+    },
+    {
+      "title": "Trinidad Chambliss shows NFL talent in leading Ole Miss to win over LSU - NBC Sports",
+      "description": "Once a zero-star prospect, Chambliss is currently sixth in the betting odds to go first overall in the 2027 NFL draft.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trinidad-chambliss-shows-nfl-talent-in-leading-ole-miss-to-win-over-lsu",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b928aac/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2F54%2F6dbb32ea4fefa1c3d922122fd510%2F2296160972.jpg",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-09-20T09:07:08Z"
+    },
+    {
+      "title": "Fast food from the US and China catches on in both countries - AP News",
+      "description": "China and the United States are divided on many issues, from tariffs to Taiwan. But fast food is one thing tying the two superpowers together as their leaders prepare to meet in Washington. American restaurant and beverage chains are expanding rapidly in Chin…",
+      "url": "https://apnews.com/article/fast-food-chains-china-kfc-tea-trump-9bd3cf5e539f51791d346b97432293ba",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6deab8c/2147483647/strip/true/crop/6825x4548+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F05%2F637529c576d1ad68efb30d44dc73%2F0608e0f4e3344399b28e841ac01c894e",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-20T09:06:00Z"
+    },
+    {
+      "title": "T. rex teeth indicate it ran as warm as an elephant - Ars Technica",
+      "description": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-09-20T09:00:11Z"
+    },
+    {
+      "title": "German states go to the polls in high-stakes test for Friedrich Merz - Financial Times",
+      "description": "Poor results for unpopular chancellor’s CDU in Mecklenburg-Vorpommern and Berlin could determine his future",
+      "url": "https://www.ft.com/content/fcab43da-63ac-49e1-959d-aa4334528017?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89dd92b4-bab7-4bb3-8a02-fe031ec210c6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-20T08:22:36Z"
+    },
+    {
+      "title": "Jack Avery Fights Ex Gabbie Gonzalez's Latest Bid to See Their Daughter - TMZ",
+      "description": "Jack Avery is pushing back against his ex Gabbie Gonzalez's latest attempt to reconnect with their daughter ... saying there's a good reason a criminal protective order currently blocks her from having any contact.",
+      "url": "https://www.tmz.com/2026/09/20/jack-avery-fights-gabbie-gonzalez-custody-request/",
+      "urlToImage": "https://imagez.tmz.com/image/44/16by9/2026/09/17/4441756224394cecaec5c410ed3f2dfe_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2026-09-20T08:00:30Z"
+    },
+    {
+      "title": "California officials warn of possible measles exposure in 6 counties due to infected Amtrak rider - KCRA",
+      "description": "State public health officials are warning about a possible measles exposure across multiple California counties after an infected passenger traveled across the country on trains and buses.",
+      "url": "https://www.kcra.com/article/california-measles-exposure-amtrak-rider-6-counties/73797063",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/amtrak-file-6977d9c7b953d.jpg?crop=0.904xw%3A1.00xh%3B0.0489xw%2C0&resize=1200%3A*",
+      "source": "KCRA Sacramento",
+      "publishedAt": "2026-09-20T06:49:00Z"
+    },
+    {
+      "title": "Billionaire Tata scion faces battle of his life to avert a listing - Financial Times",
+      "description": "Noel Tata is up against the 150-year-old business empire’s chair and his well-connected New Delhi allies",
+      "url": "https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7079884b-34c8-4e02-842a-1c630504d89e.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-20T06:28:01Z"
+    },
+    {
+      "title": "Horoscope for Sunday, September 20, 2026 - Chicago Sun-Times",
       "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/09/19/horoscopes-today-saturday-september-19-2026",
+      "url": "https://chicago.suntimes.com/horoscopes/2026/09/20/horoscopes-today-sunday-september-20-2026",
       "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
       "source": "Suntimes.com",
-      "publishedAt": "2026-09-19T05:01:00Z"
+      "publishedAt": "2026-09-20T05:01:00Z"
     },
     {
-      "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease - MacRumors",
-      "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo.   The iPhone Duo...",
-      "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
-      "urlToImage": "https://images.macrumors.com/t/NuDa84z4PV4wgt5FllkUNv14Guw=/1600x/article-new/2026/09/iphone-duo-weather.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-09-19T04:51:00Z"
+      "title": "Joshua Van dominates Alexandre Pantoja in rematch to retain UFC title - ESPN",
+      "description": "UFC flyweight champion Joshua Van defeated Alexandre Pantoja in their first fight 10 months ago. Van beat Pantoja in the rematch too.",
+      "url": "https://www.espn.com/mma/story/_/id/49986556/joshua-van-dominates-alexandre-pantoja-rematch-retain-ufc-title",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719314_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-09-20T04:30:00Z"
     },
     {
-      "title": "Trump says son has paid back Russian for wedding party - The Washington Post",
-      "description": "The president defended Donald Trump Jr.’s decision to take a large gift from Umar Kremlev, saying that such presents are “common.”",
-      "url": "https://www.washingtonpost.com/politics/2026/09/18/trump-says-son-has-paid-back-russian-wedding-party/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FOOEBLTL2HACPPQ67MUIEXXDT4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-09-19T04:21:05Z"
+      "title": "Saudi Arabia says Houthis tried to attack its capital - NPR",
+      "description": "Saudi Arabia on Saturday said that Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time the Saudi capital has been targeted since the escalation in fighting with the Iran-backed rebels opened a new front in the Iran war.",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x3780+0+350/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fdb%2F8f851f56428ca4e4169af0b6f600%2Fap26261536659837.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-09-20T03:57:23Z"
     },
     {
-      "title": "Oil prices are high but could be much worse. Trump has China’s Xi to thank for that - AP News",
-      "description": "President Donald Trump’s conflict with Iran has not led to the doomsday oil price spike many feared at the start of the war. Energy analysts credit China’s oil strategy for this stability. China weathered the energy crunch by building a massive oil reserve an…",
-      "url": "https://apnews.com/article/trump-xi-iran-oil-china-78b8ccd21cbc4bc0ab19a79f68372ec0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7ac9f47/2147483647/strip/true/crop/3330x2219+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F66%2Fccba78d2d8f1aeacdcbd78339386%2F11f59cc28deb4f7ba605be5ff72b11f3",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-19T04:08:00Z"
-    },
-    {
-      "title": "Investors weigh whether Anthropic can sustain surging revenues post-IPO - Financial Times",
-      "description": "OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model",
-      "url": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F84e31127-9df1-437a-8ed4-cfb4dcd9a852.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-19T04:00:24Z"
-    },
-    {
-      "title": "NAACP sues to block Trump administration from sending armed agents to polls - The Hill",
-      "description": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November’s midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigra…",
-      "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/voting_sign_va_091826gn07_w.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2026-09-19T03:39:00Z"
-    },
-    {
-      "title": "Colby Covington makes quick work of Belal Muhammad with shutout victory in RAF 13 main event - MMA Fighting",
-      "description": "Colby Covington scored a technical fall over rival Belal Muhammad to cap off RAF 13 on Friday in Miami.",
-      "url": "https://www.mmafighting.com/ufc/511006/colby-covington-makes-quick-work-of-belal-muhammad-with-shutout-victory-in-raf-13-main-event",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/IMG_5605.jpg?quality=90&strip=all&crop=0%2C2.8865762300797%2C100%2C69.248444533045&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2026-09-19T03:37:00Z"
-    },
-    {
-      "title": "Fever's Kelsey Mitchell breaks A'ja Wilson's WNBA single-season points record - USA Today",
-      "description": "Kelsey Mitchell continued her stellar WNBA season, claiming another record that was previously held by the league's perennial MVP, A'ja Wilson.",
-      "url": "https://www.usatoday.com/story/sports/wnba/fever/2026/09/18/kelsey-mitchell-breaks-wnba-single-season-points-record/91831608007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/18/USAT/91833351007-getty-images-2291753712.jpg?crop=2713,1526,x0,y141&width=2713&height=1526&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-09-19T03:13:00Z"
-    },
-    {
-      "title": "Shapiro fires back at RFK Jr., Trump on measles: ‘Incompetence’ - The Hill",
-      "description": "Pennsylvania Gov. Josh Shapiro (D) fired back against at President Trump’s Friday Oval Office comments calling him a “bad governor” that’s “close to incompetent” following four measles-related deaths in the state. “Incompetence is letting measles, a disease t…",
-      "url": "https://thehill.com/homenews/state-watch/6099441-shapiro-trump-kennedy-measles-clash/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26165579254880-e1783174877766.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2026-09-19T02:48:00Z"
-    },
-    {
-      "title": "UNC shows faith in Bill Belichick’s control of football program. It also offers a warning - WRAL",
-      "description": "UNC leaders say they’ll investigate new allegations tied to the Tar Heels if they arise. Analysts say that’s a message to the program and regulators.",
-      "url": "https://www.wral.com/sports/northcarolina-bill-belchick-investigation-control-of-football-program-september-2026/",
-      "urlToImage": "https://images.wral.com/e95b371d-7b63-554e-9cf4-2c52f66bf611?w=1200&h=630&height=630",
-      "source": "WRAL.com",
-      "publishedAt": "2026-09-19T02:31:44Z"
-    },
-    {
-      "title": "Trump says he will demand drug companies split up vaccines into more doses - The Washington Post",
-      "description": "Those comments came a day after Health Secretary Robert F. Kennedy Jr. told attendees of a conference for the anti-vaccine group he founded that they have a “friend at the White House.”",
-      "url": "https://www.washingtonpost.com/health/2026/09/18/trump-says-he-will-demand-drug-companies-split-up-vaccines-into-more-doses/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LQFAYR7L3MLEYAVBDSFTARDBPM.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-09-19T02:00:26Z"
-    },
-    {
-      "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland - Al Jazeera",
-      "description": "Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp-newsml.afp_.com_.20260121T033153Z.doc-93fn7pf-1769076318.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-19T01:16:39Z"
-    },
-    {
-      "title": "Newsom signs bill to help prepare Hollywood workers for AI - Politico",
-      "description": "The measure is one of California’s first laws squarely focused on Hollywood and the rapidly evolving technology.",
-      "url": "https://www.politico.com/news/2026/09/18/newsom-signs-bill-to-help-prepare-hollywood-workers-for-ai-01084932",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fcb%2F22%2Fddd7c3bc4ee18560149ac57e01c1%2Ftrump-film-tariff-explainer-66366.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-09-19T01:06:00Z"
-    },
-    {
-      "title": "A New Buffett Takes On the Task of Preserving Berkshire Hathaway’s Culture - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/a-new-buffett-takes-on-the-task-of-preserving-berkshire-hathaways-culture-bdb9cc30",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-19T00:34:00Z"
-    },
-    {
-      "title": "Trump bans CNN, MS NOW and Politico from White House - Axios",
-      "description": "His post leaves the ban's exact scope unclear.",
-      "url": "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house",
-      "urlToImage": "https://images.axios.com/txBpYA2CdCTNZ0Imq8JdwBjvzuo=/0x0:5656x3182/1366x768/2026/09/18/1789759287575.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-09-18T23:37:40Z"
-    },
-    {
-      "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war - AP News",
-      "description": "President Donald Trump has signed a major sanctions package targeting Russian officials and key sectors of its economy. The move aims to punish and pressure Moscow for its ongoing war against Ukraine. The bill also serves as a final legacy item for the late S…",
-      "url": "https://apnews.com/article/donald-trump-russia-sanctions-ukraine-lindsey-graham-d1715ad5e8feccba76bfae51c5f28c45",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c1585ef/2147483647/strip/true/crop/3745x2495+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3c%2Fe0%2F249ea14b31529ae4f74817b85dc5%2F03ea2735a4964667bea44c3c63c37602",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-18T23:37:00Z"
-    },
-    {
-      "title": "Mississippi Gov. warns of ‘Hurricane Kiffin,’ clarifies National Guard’s role for Ole Miss-LSU - AL.com",
-      "description": null,
-      "url": "https://www.al.com/sec/2026/09/mississippi-gov-warns-of-hurricane-kiffin-clarifies-national-guards-role-for-ole-miss-lsu.html",
-      "urlToImage": null,
-      "source": "AL.com",
-      "publishedAt": "2026-09-18T23:33:00Z"
+      "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert - NPR",
+      "description": "Ed Sheeran opened a solo concert Saturday with comments about Gaza after controversy swirled around his tour and supporting acts withdrew in solidarity with opener Macklemore, who was dropped after making pro-Palestinian comments onstage.",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2721x1531+0+142/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2Fff%2Fe3acbd2949d08e867507620d030a%2Fap26261595285689.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-09-20T03:34:12Z"
     }
   ]
 }
