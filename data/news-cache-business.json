@@ -1,159 +1,127 @@
 {
-  "updatedAt": "2026-09-21T12:40:19.186Z",
+  "updatedAt": "2026-09-22T11:27:46.526Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Polymarket’s Rush to Grow Left a Door Wide Open For Fraudsters - WSJ",
+      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week - Yahoo Finance",
+      "description": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September.",
+      "url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/189e5eb6f1fc0bd28e3873374ffd83a1c68dc7d9559327648a5a2cf1f944e4ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F401f6232-d687-4703-ab56-5f7bd62c2aad_e41666f8780ea00245798cfc102ef67809c1dd0078a8a23b84952382e2eb8aad.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-21T10:00:00Z"
+    },
+    {
+      "title": "Live BTC price: Bitcoin nears $85,000 as oil slumps - CoinDesk",
+      "description": "Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned ahead of a Trump-Xi summit later this week.",
+      "url": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5ac197997d19deeeb890818c2d4d59588cf6dbf6-1508x840.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "source": "CoinDesk",
+      "publishedAt": "2026-09-21T09:56:15Z"
+    },
+    {
+      "title": "Flights disrupted by 'technical issue' with air traffic control across Scotland - BBC",
+      "description": "Engineers are investigating the \"technical issue\" at the Prestwick Centre which handles air traffic control across Scotland and the north of England.",
+      "url": "https://www.bbc.com/news/articles/cmlylpgdwz56o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/db87/live/e96fcd20-b59c-11f1-abe6-535e7b14de4c.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-09-21T08:37:24Z"
+    },
+    {
+      "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - apnews.com",
+      "description": "Global shares are advancing ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington. U.S. futures are also higher. Treasury Secretary Scott Bessent told reporters after talks with Chinese Vice Pr…",
+      "url": "https://apnews.com/article/stocks-markets-rates-oil-energy-trump-xi-1f1a267bf4556c01513f506914eb6359",
+      "urlToImage": "https://dims.apnews.com/dims4/default/17aa9ea/2147483647/strip/true/crop/4278x2851+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F61%2F91%2F983f0e7b1e7289c336d3cae2f7f2%2F5d06a020cb0b4f2080c1fa09ccf1572c",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-21T08:11:00Z"
+    },
+    {
+      "title": "Chinese rare earth shipments to US drop ahead of Trump-Xi summit - ft.com",
       "description": null,
-      "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmZQc285cE1xSXV5OTFxRXc3NG1HZWlvdHZFMkd4VmlGalJWUnVwaHI5dDdHRTZldGVVellZN2F2REJhRWdRTDVpMUxhQWN1OG1PekdmR3JpTWlHdzhvbHNuYmZuYi1neHl0VnVhU1pZOXMtMElmVmNuS28ySS1CRnA3SWQ?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-09-21T07:45:45Z"
+    },
+    {
+      "title": "China and the US are competing for AI dominance but have shared concerns over safety - apnews.com",
+      "description": "U.S. President Donald Trump and Chinese leader Xi Jinping are expected to meet this week to discuss artificial intelligence. The meeting comes amid rising concerns about AI's potential threats and the competitive tension between the two countries. On Sunday, …",
+      "url": "https://apnews.com/article/china-us-trump-xi-meeting-ai-d08e58524de21511dcaba51f43faad95",
+      "urlToImage": "https://dims.apnews.com/dims4/default/018a267/2147483647/strip/true/crop/3483x2321+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffd%2F1f%2Faf419a73996d8f9641843401e084%2Ff74f375d147548d6811b0591093a60d4",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-21T07:29:00Z"
+    },
+    {
+      "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals - CNBC",
+      "description": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
+      "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249930-1767883114856-gettyimages-1457781967-_x3m2814.jpeg?v=1776772295&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-09-21T04:20:33Z"
+    },
+    {
+      "title": "Fast-food giant cancels breakfast at hundreds of locations - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/restaurants/more-wendys-drop-breakfast-menu-after-partners-chapter-11",
+      "urlToImage": null,
+      "source": "TheStreet",
+      "publishedAt": "2026-09-21T02:22:00Z"
+    },
+    {
+      "title": "Passenger goes overboard on Carnival cruise ship heading to Long Beach - ABC7 Los Angeles",
+      "description": "A passenger on a Carnival cruise ship on its way back to Long Beach went overboard, prompting a lockdown in which passengers were told to return to their rooms.",
+      "url": "https://abc7.com/post/passenger-goes-overboard-carnival-cruise-ship-to-heading-long-beach/19853487/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19852396_092026-kabc-11pm-cruise-passenger-overboard-vid.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2026-09-21T01:46:59Z"
+    },
+    {
+      "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates - CNBC",
+      "description": "Wall Street is coming off a mixed week for the major averages.",
+      "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363133-17894885332026-09-15t160320z_21746204_rc2pjnaowezl_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-09-21T01:03:42Z"
+    },
+    {
+      "title": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5% - wsj.com",
+      "description": null,
+      "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-20T10:44:08Z"
+      "publishedAt": "2026-09-21T01:00:00Z"
     },
     {
-      "title": "‘Crisis even bigger than Covid’: American business owners are barely getting by - CNN",
-      "description": "The historic supply chain struggles that America’s business owners face show why resurgent inflation will not be easily resolved – even if the war ended.",
-      "url": "https://www.cnn.com/2026/09/20/economy/covid-diesel-supply-chain",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2290741663.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-09-20T10:00:29Z"
+      "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High - wsj.com",
+      "description": null,
+      "url": "https://www.wsj.com/business/energy-oil/a-shortage-of-oil-tankers-is-threatening-to-keep-gas-prices-high-66b2675a",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-21T00:00:00Z"
     },
     {
-      "title": "How Trump 2.0's stock market stacks up with predecessors - Axios",
-      "description": "Trump 2.0 stock market easily topped Biden, but remains behind Obama and Trump 1.0.",
-      "url": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
-      "urlToImage": "https://images.axios.com/-87oNUMDa_R0Lp0TqtC7Bajf00w=/0x0:1600x900/1366x768/2026/09/19/1789831417233.png",
-      "source": "Axios",
-      "publishedAt": "2026-09-20T09:59:43Z"
-    },
-    {
-      "title": "Meet a 71-year-old who retired as a radiologist and professor, and now runs a banana-skewer business - Fortune",
-      "description": "Richard Brown’s career has taken him from the exam room to the classroom and boardroom. At 71, he’s still working—and is now focused on entrepreneurship.",
-      "url": "https://fortune.com/2026/09/20/retired-professor-radiologist-richard-brown-turning-to-entreprenuership-career-success-starting-over-poka-snack/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/RichardBrown.jpg?resize=1200,600",
+      "title": "Dollar General CEO says consumers making $100,000 a year don't feel high income anymore - Fortune",
+      "description": "\"Having 2,000 items at or below $1 is very meaningful for the consumer, always has, but especially in this environment.\"",
+      "url": "https://fortune.com/2026/09/20/dollar-general-high-income-shoppers-100000-high-gas-prices-inflation/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1827147740-e1789940537780.jpg?resize=1200,600",
       "source": "Fortune",
-      "publishedAt": "2026-09-20T09:34:00Z"
+      "publishedAt": "2026-09-20T23:03:00Z"
     },
     {
-      "title": "Fast food from the US and China catches on in both countries - AP News",
-      "description": "China and the United States are divided on many issues, from tariffs to Taiwan. But fast food is one thing tying the two superpowers together as their leaders prepare to meet in Washington. American restaurant and beverage chains are expanding rapidly in Chin…",
-      "url": "https://apnews.com/article/fast-food-chains-china-kfc-tea-trump-9bd3cf5e539f51791d346b97432293ba",
-      "urlToImage": "https://dims.apnews.com/dims4/default/6deab8c/2147483647/strip/true/crop/6825x4548+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F05%2F637529c576d1ad68efb30d44dc73%2F0608e0f4e3344399b28e841ac01c894e",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-20T09:06:00Z"
+      "title": "Trump’s economist takes lying to an Olympian level on Fox News - “Strong economy with low inflation” - Daily Kos",
+      "description": "“If you tell the truth, you don’t have to remember anything” ― Mark Twain (attributed) On Sunday, National Economic Council Director Kevin Hassett (Trump’s economist) talked with Fox News’s Peter…",
+      "url": "http://www.dailykos.com/stories/2026/9/20/800100869/community/trumps-economist-takes-lying-to-an-olympian-level-on-fox-news-strong-economy-with-low-inflation/",
+      "urlToImage": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-20-at-3.58.37-PM.png",
+      "source": "Dailykos.com",
+      "publishedAt": "2026-09-20T22:34:29Z"
     },
     {
-      "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site - NPR",
-      "description": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers  helped ease regulations and negotiations were covered under nondisclosure agreements.",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3395x1909+170+96/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F55%2F56b64ea44f28a8e18b7e2d06aaef%2F8w3a9822-crop.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-09-20T09:00:00Z"
-    },
-    {
-      "title": "Billionaire Tata scion faces battle of his life to avert a listing - Financial Times",
-      "description": "Noel Tata is up against the 150-year-old business empire’s chair and his well-connected New Delhi allies",
-      "url": "https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7079884b-34c8-4e02-842a-1c630504d89e.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-20T06:28:01Z"
-    },
-    {
-      "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups - WSJ",
-      "description": "Fed up with the rat race, people are trying their luck by starting solo AI companies—but they face a brutal market",
-      "url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3",
-      "urlToImage": "https://images.wsj.net/im-21202219/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-20T05:31:14Z"
-    },
-    {
-      "title": "Le Pen condemns Russia over seizure of European companies’ assets - The Kyiv Independent",
-      "description": "The statement followed Russian President Vladimir Putin’s decision to place the Russian operations of Nestle and Auchan under temporary administration.",
-      "url": "https://kyivindependent.com/le-pen-condemns-russia-over-seizure-of-european-companies-assets/",
-      "urlToImage": "https://assets.kyivindependent.com/content/images/2026/09/GettyImages-2198352707_20260917-100243.jpg",
-      "source": "Kyivindependent.com",
-      "publishedAt": "2026-09-20T02:47:00Z"
-    },
-    {
-      "title": "What It’s Like to Work in One of America’s Data Centers - WSJ",
-      "description": "Powering the nation’s massive AI build-out requires lots of walking, checking for burning smells and monitoring for bird damage",
-      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-      "urlToImage": "https://images.wsj.net/im-53946391/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-20T01:31:35Z"
-    },
-    {
-      "title": "Not all AI workers think the tech could kill everyone - BBC",
-      "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-09-19T23:01:57Z"
-    },
-    {
-      "title": "Flight attendants reveal 90-second 'hotel room autopsy' that could save your life - Fox News",
-      "description": "Flight attendants reveal their six-step \"hotel room autopsy\" routine, from scanning for intruders to checking door locks and emergency exits.",
-      "url": "https://www.foxnews.com/travel/flight-attendants-reveal-90-second-hotel-room-autopsy-save-your-life",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/Hotel-room.jpeg",
-      "source": "Fox News",
-      "publishedAt": "2026-09-19T22:04:42Z"
-    },
-    {
-      "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
-      "description": "The Iran and Ukraine wars have exposed the world’s reliance on the Middle East and Russia for diesel",
-      "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
-      "urlToImage": "https://images.wsj.net/im-64365735/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-19T20:53:00Z"
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think - The Verge",
-      "description": "Muse probably can’t ‘see’ your notifications. But it also has no idea how it works.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-09-19T20:44:40Z"
-    },
-    {
-      "title": "Treasury yields are already blowing up the CBO’s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry - Yahoo Finance",
-      "description": "\"If interest begets debt, and debt begets interest, eventually debt will spin out of control. A fiscal crisis, once unthinkable, is now a distinct possibilit...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/treasury-yields-already-blowing-cbo-193157579.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cc90d88a4a07fa1522f82e00fb96aa0d177fbd693c39fca9731d5ffe56a97463/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F9d28ab682d66531b53ba5e602eae671f.jpg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-19T19:31:57Z"
-    },
-    {
-      "title": "‘New era of aviation’: Autonomous airplane completes first-ever flight across the country - New York Post",
-      "description": "It took autonomous aviation to new heights…and lengths.",
-      "url": "https://nypost.com/2026/09/19/lifestyle/autonomous-airplane-completes-first-cross-continental-trip/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141727540.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-09-19T18:06:00Z"
-    },
-    {
-      "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn - Investor's Business Daily",
-      "description": "Anthropic is now targeting a November IPO, the Wall Street Journal reported.",
-      "url": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/02/stock-claude-anthropic-adobe-scaled.jpeg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-09-19T17:48:00Z"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
-      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-19T17:30:00Z"
-    },
-    {
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - PBS",
-      "description": "The lawsuit argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.",
-      "url": "https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-11T084017Z_1960340699_RC2MPLAX7CZB_RTRMADP_3_BRITAIN-ECONOMY-2-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-09-19T17:10:44Z"
+      "title": "Driverless Waymo cruises through Denver farmers market - The Denver Post",
+      "description": "“Waymo babe this is a farmers market,” Hearth Denver, a bakery and coffee shop that participates in the market, wrote in a video posted Sunday morning to social media.",
+      "url": "https://www.denverpost.com/2026/09/20/waymo-denver-pearl-street-farmers-market/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/08/TDP-L-waymo081926-cha-1634.jpg?w=7650&h=5100",
+      "source": "The Denver Post",
+      "publishedAt": "2026-09-20T22:33:09Z"
     }
   ]
 }
