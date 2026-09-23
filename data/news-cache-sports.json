@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2026-09-22T11:27:46.635Z",
+  "updatedAt": "2026-09-23T11:25:32.219Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "32 things we learned in NFL Week 2: For 2024 QB class, 2026 is master class in misery - USA Today",
-      "description": "Sunday was a brutal for the top two picks of the 2024 draft, Chicago's Caleb Williams and Washington's Jayden Daniels both carted off. And it wasn't much better for their draftmates.",
-      "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/09/20/nfl-week-2-takeaways-caleb-williams-jayden-daniels-drake-maye-bo-nix/91862984007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/21/USAT/91867621007-getty-images-2296299587.jpg?crop=2601,1463,x102,y32&width=2601&height=1463&format=pjpg&auto=webp",
+      "title": "Jaxson Dart is believed to have a sprained MCL - NBC Sports",
+      "description": "MRI is coming on Monday.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-believed-to-have-a-sprained-mcl",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7459eff/2147483647/strip/true/crop/5568x3132+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fa1%2F6f7545ea45ed80840efd9822c720%2F2026-09-22t033421z-2075806672-mt1usatoday29883898-rtrmadp-3-nfl-new-york-giants-at-los-angeles-rams.jpg",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-09-22T09:52:56Z"
+    },
+    {
+      "title": "Aaron Donald's return fires up Rams in rout of Giants - ESPN",
+      "description": "Aaron Donald -- and the SoFi Stadium crowd's response to him -- sparked the Rams in his first game since the end of the 2023 season.",
+      "url": "https://www.espn.com/nfl/story/_/id/50002943/aaron-donald-return-fires-rams-rout-giants",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0922%2Fr1720269_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-09-22T05:34:00Z"
+    },
+    {
+      "title": "Puka Nacua officially inactive for Week 2 vs. NYG - NBC Sports",
+      "description": "Rams WR Puka Nacua (groin) is inactive for Week 2 against the Giants.",
+      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/puka-nacua-officially-inactive-for-week-2-vs-nyg",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4f81fad/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F13%2F4e06873d46af9d85e3e40c5e04e7%2Fnacua-puka-800-1080-aa56d212d0027e84.jpg",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-09-22T03:33:13Z"
+    },
+    {
+      "title": "Rapsheet: Alec Pierce will attempt to rehab injury - NBC Sports",
+      "description": "NFL Network's Ian Rapoport reports Colts WR Alec Pierce (heel) will \"attempt to rehab his injury rather than have surgery.\"",
+      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/rapsheet-alec-pierce-will-attempt-to-rehab-injury",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/38679f4/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Fcf%2F82f04c20444f85e0ca1ec0ec801e%2Fpierce-alec-800-1080-0a5014a9e800b6cd.jpg",
+      "source": "NBCSports.com",
+      "publishedAt": "2026-09-22T03:22:36Z"
+    },
+    {
+      "title": "Blackhawks 4, Wild 3 (OT) (Preseason) — Three Stars, Key Takeaways - Bleacher Nation",
+      "description": "The Blackhawks hosted the Minnesota Wild in their home preseason opener on Monday night.",
+      "url": "https://www.bleachernation.com/blackhawks/2026/09/21/blackhawks-4-wild-3-ot-preseason-three-stars-key-takeaways/",
+      "urlToImage": "https://www.bleachernation.com/wp-content/uploads/2026/09/Wyatt-Kaiser-USATSI_2026-09-22T015632Z_1172381474_MT1USATODAY29883299_RTRMADP_3_NHL-PRESEASON-MINNESOTA-WILD-AT-CHICAGO-BLACKHAWKS.jpg",
+      "source": "bleachernation.com",
+      "publishedAt": "2026-09-22T02:30:01Z"
+    },
+    {
+      "title": "Day 5 Camp Update - Zuccarello Latest, Perry Update, Lines/Pairs Change + Kings Reduce Camp Roster - LA Kings Insider",
+      "description": "Training Camp, Day 5, is in the books. Lots to discuss from today. First things first, the Kings have announced a reduction to their training camp roster following today’s practices. As noted this morning, this is unsurprising. The schedule always pointed tow…",
+      "url": "https://lakingsinsider.com/2026/09/21/day-5-camp-update-zuccarello-latest-perry-update-lines-pairs-change-kings-reduce-camp-roster/",
+      "urlToImage": "https://lakingsinsider.com/wp-content/uploads/2026/09/GettyImages-2270772700.jpg",
+      "source": "lakingsinsider.com",
+      "publishedAt": "2026-09-22T02:17:41Z"
+    },
+    {
+      "title": "Penguins/Sabres (preseason) recap: Impressions on the opener - PensBurgh",
+      "description": "",
+      "url": "https://www.pensburgh.com/game-recaps/80935/penguins-sabres-preseason-recap-impressions-on-the-opener",
+      "urlToImage": "https://platform.pensburgh.com/wp-content/uploads/sites/123/2026/09/gettyimages-2295970917.jpg?quality=90&strip=all&crop=0%2C11.105209824087%2C100%2C77.789580351825&w=1200",
+      "source": "PensBurgh",
+      "publishedAt": "2026-09-22T01:35:00Z"
+    },
+    {
+      "title": "‘Protected from his violence’: Arrest warrant issued for right-wing live streamer after violent protest at The Sports Bra - KOIN.com",
+      "description": "PORTLAND, Ore. (KOIN) — Charges have been filed, and a warrant will be issued for the arrest of a right-wing live streamer, the Multnomah County District Attorney’s Office said. On Monday, people rallied inside the Portland Police Bureau downtown, calling for…",
+      "url": "https://www.koin.com/news/portland/protected-from-his-violence-arrest-warrant-issued-for-right-wing-live-streamer-after-violent-protest-at-the-sports-bra/",
+      "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2026/09/snapshot-2026-09-21T171857.426.jpg?w=1280",
+      "source": "KOIN.com",
+      "publishedAt": "2026-09-22T00:26:04Z"
+    },
+    {
+      "title": "Giants put Eldridge on concussion list after accident at hotel - ESPN",
+      "description": "Bryce Eldridge's strong rookie season for San Francisco appears to have come to an end.",
+      "url": "https://www.espn.com/mlb/story/_/id/50001501/giants-put-eldridge-concussion-list-accident-hotel",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1720144_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-09-22T00:25:00Z"
+    },
+    {
+      "title": "Seahawks plan to have Sam Darnold back at practice Wednesday - ESPN",
+      "description": "Coach Mike Macdonald also said \"there is a chance\" that quarterback Sam Darnold will play this week at Washington.",
+      "url": "https://www.espn.com/nfl/story/_/id/50001287/seahawks-plan-sam-darnold-back-practice-wednesday",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0916%2Fr1717696_1024x576_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-09-21T23:35:00Z"
+    },
+    {
+      "title": "Giants Promote Bo Davidson, Activate Marcelo Mayer - MLB Trade Rumors",
+      "description": "The Giants are calling up one of their top prospects to get a taste of the big leagues before the winter arrives.",
+      "url": "https://www.mlbtraderumors.com/2026/09/giants-to-promote-bo-davidson.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/09/Bo_Davidson_Giants-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2026-09-21T23:28:38Z"
+    },
+    {
+      "title": "NFL DFS, Week 2: Rams vs. Giants optimal FanDuel, DraftKings 'MNF' lineups from a daily Fantasy pro - SportsLine",
+      "description": "DFS millionaire Mike McClure shares his top NFL DFS picks for Giants vs. Rams on 'Monday Night Football'",
+      "url": "https://www.sportsline.com/insiders/nfl-dfs-week-2-rams-vs-giants-optimal-fanduel-draftkings-mnf-lineups-from-a-daily-fantasy-pro/",
+      "urlToImage": "https://splnhub.cbsistatic.com/i/2026/09/16/043910ac-565b-4334-ab78-7d1218309229/jaxson-dart-new-york-giants-imagn-images.jpg",
+      "source": "SportsLine",
+      "publishedAt": "2026-09-21T22:53:25Z"
+    },
+    {
+      "title": "Report: Eagles are signing TE Zach Ertz to their practice squad - PhillyVoice",
+      "description": "Suddenly very thin at tight end, the Eagles bring back old friend Zach Ertz to the practice squad.",
+      "url": "https://www.phillyvoice.com/report-eagles-are-signing-te-zach-ertz-their-practice-squad/",
+      "urlToImage": "https://media.phillyvoice.com/media/images/2024-11-14T234908Z_2082042658_.2e16d0ba.fill-1200x630-c0.jpg",
+      "source": "PhillyVoice.com",
+      "publishedAt": "2026-09-21T22:43:22Z"
+    },
+    {
+      "title": "Eagles' Nick Sirianni needs IV, players report melting cleats vs. Titans - USA Today",
+      "description": "Amid record-setting heat wave in Nashville, players have cleats sprayed with water, Eagles coach Nick Sirianni requires IV as turf temperatures soar.",
+      "url": "https://www.usatoday.com/story/sports/nfl/2026/09/21/field-temperature-157-degrees-melts-cleats-titans-eagles/91870778007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/21/USAT/91871206007-20260920-t-172128-z-164353330-mt-1-usatoday-29871366-rtrmadp-3-nflphiladelphiaeaglesattennesseetitans.JPG?crop=2950,1660,x0,y92&width=2950&height=1660&format=pjpg&auto=webp",
       "source": "USA Today",
-      "publishedAt": "2026-09-21T10:10:00Z"
+      "publishedAt": "2026-09-21T21:55:00Z"
     },
     {
-      "title": "Eagles vs. Titans: 7 winners, 5 losers, 5 IDKs - Bleeding Green Nation",
-      "description": "The Birds are undefeated after Week 2.",
-      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-analysis/183658/eagles-vs-titans-7-winners-5-losers-5-idks",
-      "urlToImage": "https://platform.bleedinggreennation.com/wp-content/uploads/sites/36/2026/09/gettyimages-2296266523.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "Bleeding Green Nation",
-      "publishedAt": "2026-09-21T06:49:00Z"
+      "title": "Atlanta Falcons' Week 3 depth chart vs. Green Bay Packers - Atlanta Falcons",
+      "description": "The Falcons will travel to Green Bay to face the Packers on Thursday Night Football.",
+      "url": "https://www.atlantafalcons.com/news/atlanta-falcons-week-3-depth-chart-vs-green-bay-packers",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/auq7liyrfd7v9bk9zwlm",
+      "source": "AtlantaFalcons.com",
+      "publishedAt": "2026-09-21T21:47:35Z"
     },
     {
-      "title": "Colts' Shane Steichen defends OT playcalling in loss to Chiefs - ESPN",
-      "description": "Colts coach Shane Steichen defended his late-game strategy and playcalling in Sunday night's 33-30 overtime loss to the Chiefs, saying he would have gone for the win on fourth-and-8 had Kansas City showed a favorable defensive coverage.",
-      "url": "https://www.espn.com/nfl/story/_/id/49996583/colts-coach-shane-steichen-defends-playcalling-loss-chiefs",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719907_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-09-21T06:34:00Z"
+      "title": "Gable Steveson KO Gets New Trading Card After Sharaf's Surprising Win at UFC 331 - Bleacher Report",
+      "description": "After his stunning knockout win over Gable Steveson at UFC 331, Sean Sharaf has his own trading card.",
+      "url": "https://bleacherreport.com/articles/25501775-gable-steveson-ko-gets-new-trading-card-after-sharafs-surprising-win-ufc-331",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2296153078_large_cropped.jpg?w=1120&h=630",
+      "source": "Bleacher Report",
+      "publishedAt": "2026-09-21T21:31:21Z"
     },
     {
-      "title": "Jayden Daniels’s dislocated elbow overshadows Commanders’ loss to Cowboys - The Washington Post",
-      "description": "The quarterback faces more time on the sidelines after exiting the 37-20 defeat. He injured the same elbow last year.",
-      "url": "https://www.washingtonpost.com/sports/2026/09/20/jayden-daniels-exits-commanders-game-vs-cowboys-with-elbow-injury/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BK66EE2WO4CIQWHE3BJT2MVFMU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-09-21T04:22:27Z"
+      "title": "No penalties for Carson Hocevar, Ryan Blaney after Bristol fight - NASCAR.com",
+      "description": "NASCAR CEO Steve O'Donnell confirmed Monday that no penalties will be issued to Carson Hocevar or Ryan Blaney after their Bristol fight.",
+      "url": "https://www.nascar.com/news-media/2026/09/21/cup-series-no-penalties-carson-hocevar-ryan-blaney-bristol-fight/",
+      "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2026/09/21/2026-Sept-19-NCS-Bristol-Blaney-Hocevar-9-672x372.jpg",
+      "source": "NASCAR",
+      "publishedAt": "2026-09-21T21:11:33Z"
     },
     {
-      "title": "Lock, Smith-Njigba have Seahawks 2-0 with Darnold ahead of schedule - ESPN",
-      "description": "Seahawks coach Mike Macdonald said QB Sam Darnold could return to practice this week and did not rule out the possibility of him playing next Sunday. In the meantime, backup Drew Lock has Seattle 2-0, with plenty of help from receiver Jaxon Smith-Njigba.",
-      "url": "https://www.espn.com/nfl/story/_/id/49995944/drew-lock-jaxon-smith-njigba-seahawks-2-0-sam-darnold-ahead-schedule",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719886_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-09-21T03:24:00Z"
+      "title": "Packers-Falcons Injury Report | Sept. 21, 2026 - Green Bay Packers",
+      "description": "",
+      "url": "https://www.packers.com/news/packers-falcons-injury-report-sept-21-2026",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/epcohmxkdxh2t9v2e7j0",
+      "source": "Packers.com",
+      "publishedAt": "2026-09-21T21:09:43Z"
     },
     {
-      "title": "Multiple Broncos call out the Jacksonville Jaguars after Denver’s win - DNVR",
-      "description": "After the Denver Broncos win over the Jacksonville Jaguars, multiple Broncos called out the Jaguars for different reasons.",
-      "url": "https://thednvr.com/broncos/broncos-call-out-jacksonville-jaguars-denvers-win/",
-      "urlToImage": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/6/2026/09/20210645/2026-09-20T233910Z_779537078_MT1USATODAY29877365_RTRMADP_3_NFL-JACKSONVILLE-JAGUARS-AT-DENVER-BRONCOS-1024x685.jpg",
-      "source": "Thednvr.com",
-      "publishedAt": "2026-09-21T03:11:58Z"
-    },
-    {
-      "title": "How Browns fans might have to welcome Deshaun Watson home after that gutsy upset of the Bucs: Mary Kay Cabot - Cleveland.com",
-      "description": null,
-      "url": "https://www.cleveland.com/browns/2026/09/how-browns-fans-might-have-to-get-behind-deshaun-watson-after-that-gutsy-upset-of-the-bucs-mary-kay-cabot.html",
-      "urlToImage": null,
-      "source": "cleveland.com",
-      "publishedAt": "2026-09-21T02:26:00Z"
-    },
-    {
-      "title": "Grades for Brock Purdy, 49ers' runaway Week 2 win over floundering Dolphins - NBC Sports Bay Area & California",
-      "description": "Matt Maiocco hands out team grades for the San Francisco 49ers' convincing 35-13 win over the Miami Dolphins on Sunday at Levi's Stadium.",
-      "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-report-card-grades-dolphins/1964786/",
-      "urlToImage": "https://media.nbcsportsbayarea.com/2026/09/Brock-Purdy-Celebrating-Dolphins-Reuters.jpg?quality=85&strip=all&resize=1200%2C675",
-      "source": "Nbcsportsbayarea.com",
-      "publishedAt": "2026-09-21T02:15:37Z"
-    },
-    {
-      "title": "Nashville turf temp of 157 F melts cleats, sends Sirianni for IV - ESPN",
-      "description": "Players' cleats were melting and Eagles coach Nick Sirianni needed an IV as a result of extreme heat conditions at Nissan Stadium during Sunday's game between Philadelphia and the Tennessee Titans, a 24-20 win for the Eagles.",
-      "url": "https://www.espn.com/nfl/story/_/id/49995389/turf-temps-157-f-nashville-melts-cleats",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719850_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-09-21T01:54:00Z"
-    },
-    {
-      "title": "McConkey (cracked rib) is \"pushing to play\" vs. LV - NBC Sports",
-      "description": null,
-      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-20/mcconkey-cracked-rib-is-pushing-to-play-vs-lv",
-      "urlToImage": null,
-      "source": "NBCSports.com",
-      "publishedAt": "2026-09-21T01:37:51Z"
-    },
-    {
-      "title": "Get ready for three straight Falcons prime-time games (barring a Week 5 flex) - NBC Sports",
-      "description": "The Falcons aren't ready for prime time.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/get-ready-for-three-straight-falcons-prime-time-games-barring-a-week-5-flex",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/84a3698/2147483647/strip/true/crop/7760x4365+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F71%2F1876ee0b42fabafc0c9e070bf735%2F2295799764.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-09-21T01:33:12Z"
-    },
-    {
-      "title": "Alec Pierce downgraded to out with heel injury - NBC Sports",
-      "description": "There is not good news on Colts receiver Alec Pierce.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-downgraded-to-out-with-heel-injury",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0ad7135/2147483647/strip/true/crop/6316x3553+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F46%2F8b%2F5b6dbd4443d5a59a9b01c5e08417%2F2255081378.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-09-21T01:25:54Z"
-    },
-    {
-      "title": "Steelers report card: Receivers, offensive line get failing grades in the loss to the Patriots - Pittsburgh Post-Gazette",
-      "description": "False",
-      "url": "https://www.post-gazette.com/sports/steelers/2026/09/20/steelers-report-card-patriots/stories/202609200094",
-      "urlToImage": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609200094/1140x_a10-7_cTC/Steelers-Patriots-Football-32_1789945987.jpg",
-      "source": "Pittsburgh Post-Gazette",
-      "publishedAt": "2026-09-21T01:19:06Z"
-    },
-    {
-      "title": "The Z-Score: Inside The Numbers of Notre Dame’s Win over Sparty - 247Sports",
-      "description": "The Irish improved to 30 with a 2710 win against the Michigan State Spartans though its hard to blame fans for feeling slightly underwhelmed If you wanted to find something to point to there it was However despite the questions and concerns Notre Dame had sta…",
-      "url": "https://247sports.com/college/notre-dame/longformarticle/the-z-score-inside-the-numbers-of-notre-dame-footballs-win-over-sparty-290243485/",
-      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/205/407/14407205.png?width=1200&height=628&crop=1.91:1&fit=cover",
-      "source": "247Sports",
-      "publishedAt": "2026-09-21T00:44:24Z"
-    },
-    {
-      "title": "Raiders show signs of being a well-coached team under Klint Kubiak - Silver And Black Pride",
-      "description": "The Las Vegas Raiders improved to 2-0 as they have beaten the Los Angeles Chargers by a score of 26-14 Sunday",
-      "url": "https://www.silverandblackpride.com/las-vegas-raiders-game-information/139319/raiders-chargers-gary-kubiak-undefeated",
-      "urlToImage": "https://platform.silverandblackpride.com/wp-content/uploads/sites/143/2026/09/gettyimages-2296296724.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "Silver And Black Pride",
-      "publishedAt": "2026-09-21T00:37:00Z"
-    },
-    {
-      "title": "Bengals stymie Texans 20-6 as Houston drops first two games again - nbcsports.com",
-      "description": "The Bengals defense is not the same defense as last season.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-stymie-texans-20-6-as-houston-drops-first-two-games-again",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9a7f3b7/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2Ff0%2Fca4e9e9a4975add06ee29255a971%2F2296281032.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-09-20T23:34:21Z"
-    },
-    {
-      "title": "Hurts taunts Titans after Eagles win: Finished what you started - ESPN",
-      "description": "Tennessee Titans defensive tackle Jeffery Simmons approached Jalen Hurts for a postgame dap-up following Philadelphia's 24-20 come-from-behind win Sunday and the Eagles' quarterback was ready for him.",
-      "url": "https://www.espn.com/nfl/story/_/id/49993771/hurts-taunts-titans-eagles-win",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719769_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-09-20T23:00:00Z"
+      "title": "Jerry Jones issues 'dangerous' warning after Cowboys topple Commanders behind Dak Prescott's historic day - Fox News",
+      "description": "Jerry Jones delivered a bold warning after the Dallas Cowboys' 37-20 win over the Washington Commanders as Dak Prescott made franchise history.",
+      "url": "https://www.foxnews.com/outkick-sports/jerry-jones-issues-dangerous-warning-cowboys-topple-commanders-dak-prescott-historic-day",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/jerry-jones-cowboys-giants-metlife-stadium.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-09-21T21:02:22Z"
     }
   ]
 }
