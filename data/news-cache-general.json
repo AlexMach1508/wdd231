@@ -1,143 +1,159 @@
 {
-  "updatedAt": "2026-09-27T11:55:31.952Z",
+  "updatedAt": "2026-09-28T13:43:53.584Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Presidents Cup: How to watch Saturday action in Chicago - PGA Tour",
-      "description": "The Presidents Cup heads to the venerable Medinah Country Club with a hungry group of Internationals looking to defeat the American side for the first time on home soil. This marks the 16th playing of the Presidents Cup and another notable event hosted at Med…",
-      "url": "https://www.pgatour.com/article/news/latest/2026/09/25/how-to-watch-presidents-cup-medinah-scores-results-us-internationals",
-      "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2026/09/25/Morikawa_Rolex_PCUP.jpg",
-      "source": "pgatour.com",
-      "publishedAt": "2026-09-26T10:42:53Z"
+      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
+      "description": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7d4f7ee67-1790432503.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-27T13:26:03Z"
     },
     {
-      "title": "Angela Rayner criticises worker visa plans on eve of Labour conference - BBC",
-      "description": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
-      "url": "https://www.bbc.com/news/articles/cmx2zz035q99o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c5fe/live/2254a9f0-b942-11f1-bc1f-3f186ca4140c.jpg",
+      "title": "How much should you actually tip on a 'free' walking tour? - BBC",
+      "description": "They're advertised as free – but guides often pay a fee for every guest. Here's what travellers should know before joining one.",
+      "url": "https://www.bbc.com/travel/article/20260924-how-much-should-you-actually-pay-on-a-free-walking-tour",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pc7npb.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-09-26T10:39:33Z"
+      "publishedAt": "2026-09-27T13:00:53Z"
     },
     {
-      "title": "She grew up under Soviet rule. Now EU's top diplomat warns Europe against giving Russia what it wants - Fox News",
-      "description": "Kaja Kallas says Russia's sabotage and intimidation campaign aims to weaken European support for Ukraine, warning the strategy will escalate if it works.",
-      "url": "https://www.foxnews.com/politics/grew-up-soviet-rule-eu-top-diplomat-warns-europe-against-giving-russia-wants",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/kaja-kallas-eu.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-09-26T10:00:22Z"
-    },
-    {
-      "title": "Pope encourages Catholics in deeply secular France to persevere as Paris shuts down for huge Mass - apnews.com",
-      "description": "Pope Leo XIV has arrived in Paris for an outdoor Mass at Place de la Concorde, marking the first official papal state visit to France in 18 years. The American pope greeted hundreds of thousands from his popemobile during a parade along the Champs-Élysées. Th…",
-      "url": "https://apnews.com/article/france-pope-concorde-catholics-mass-5fc1201a104e6f5a1b044a7ceb39fb1a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b747f86/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fef%2F57%2F345f223fbc48c997c2e170b4647c%2Fc71c61dacc0a4a73ac43179090be9e20",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-26T09:50:00Z"
-    },
-    {
-      "title": "Fury v Joshua fight to provide 'big boost' to city's economy - BBC",
-      "description": "Cardiff is preparing for an influx of fans from across the globe for the 11 December showdown.",
-      "url": "https://www.bbc.com/news/articles/c6qxv75g4zx8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f5fc/live/72cc5c90-b8f5-11f1-b1d1-571ed4d7ff2c.png",
-      "source": "BBC News",
-      "publishedAt": "2026-09-26T09:45:36Z"
-    },
-    {
-      "title": "How a six pack of beer and the Magna Carta could finally fix a problem plaguing Americans for decades - Fox News",
-      "description": "Kenneth Jouppi's $95,000 Cessna was seized over a misdemeanor beer conviction, and the Supreme Court will now weigh Eighth Amendment limits.",
-      "url": "https://www.foxnews.com/politics/six-pack-beer-magna-carta-fix-problem-plaguing-americans-decades",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/kenneth-jouppi.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-09-26T09:00:53Z"
-    },
-    {
-      "title": "Thousands without power, roads flood in New Jersey as first major signs of nor'easter take shape - apnews.com",
-      "description": "Thousands are without power on the U.S. East Coast, while roads are flooding in some coastal New Jersey communities. The events Friday night signaled the first major signs of a powerful nor’easter expected to create dangerous conditions through the weekend. T…",
-      "url": "https://apnews.com/article/noreaster-storm-cape-cod-new-england-4057bec1ced5c4883d36c30c778df410",
-      "urlToImage": "https://dims.apnews.com/dims4/default/513690d/2147483647/strip/true/crop/5608x3737+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2F80%2F614fa761da0093f4e82365e04775%2F17bc5c570b1d4ba49890b0c912e5c7b1",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-26T03:49:00Z"
-    },
-    {
-      "title": "Rogue OpenAI agents accessed US government websites - Politico",
-      "description": "It’s the latest instance of “misaligned” activity confirmed by the company as concerns about AI risks grow.",
-      "url": "https://www.politico.com/news/2026/09/25/rogue-openai-agents-accessed-us-government-websites-01094035",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F51%2Fe2%2F582ddba044fa9682123cc4974e46%2Fchatgpt-search-engine-97390.jpg",
+      "title": "Trump turns on Salazar after Florida Republican challenges his immigration crackdown - Politico",
+      "description": "The president reposted more than a dozen attacks on Salazar, including calls to replace her, weeks after endorsing her reelection.",
+      "url": "https://www.politico.com/news/2026/09/26/trump-maria-elvira-salazar-immigration-florida-01094098",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fed%2Fda%2Fff4f19494b0f8b327f8e72bc9874%2Fu-s-congress-75288.jpg",
       "source": "Politico",
-      "publishedAt": "2026-09-26T01:38:00Z"
+      "publishedAt": "2026-09-27T12:24:00Z"
     },
     {
-      "title": "Hurricane Nolo expected to bring heavy rain as it skirts Hawaii’s Big Island - NBC News",
-      "description": "NAALEHU, Hawaii — Hurricane Nolo is forecast to strengthen into a major hurricane in the Pacific Ocean over the weekend, unleashing intense rain, the possibility of life-threatening flash flooding, and dangerous surf for Hawaii’s Big Island.",
-      "url": "https://www.nbcnews.com/news/us-news/hurricane-nolo-expected-bring-heavy-rain-skirts-hawaiis-big-island-rcna599924",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260925-hurricane-nolo-hawaii-ww-1515-c3329b.jpg",
+      "title": "Men arrested on suspicion of explosives offenses near U.S. air base in Britain in major incident - NBC News",
+      "description": "LONDON — British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S.",
+      "url": "https://www.nbcnews.com/world/united-kingdom/men-arrested-suspicion-explosives-offences-us-air-base-britain-rcna600052",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-fairford-nd-d2e946.jpg",
       "source": "NBC News",
-      "publishedAt": "2026-09-26T01:13:00Z"
+      "publishedAt": "2026-09-27T12:18:38Z"
     },
     {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere - techcrunch.com",
-      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-26T01:08:57Z"
+      "title": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
+      "description": "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.",
+      "url": "https://www.foxnews.com/outkick-sports/college-football-week-4-contenders-pretenders-texas-survives-michigans-karma-coaches-sweating",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/arch-manning-texas-tennessee-victory.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-09-27T11:42:28Z"
     },
     {
-      "title": "‘Primetime’ Critics’ Score Drops And Chris Hansen Gives First Review Of Pattinson Film - Forbes",
+      "title": "Trump now says the Kennedy Center could be deadly. Months ago, it was ‘great.’ - The Washington Post",
+      "description": "The president’s assessment of the Kennedy Center’s physical condition grew increasingly dire after his name went up on the building and revenue began to plunge.",
+      "url": "https://www.washingtonpost.com/style/2026/09/27/trump-now-says-kennedy-center-could-be-deadly-months-ago-it-was-great/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K3RLJE3KXBEXJEYUSDDP6B35X4_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-27T11:32:37Z"
+    },
+    {
+      "title": "Northern Ireland protesters block Catholic area before Orange Order march - Al Jazeera",
+      "description": "Crowd gathered on Garvaghy Road on Sunday to protest against a court ruling allowing the march.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/northern-ireland-court-allows-orange-order-march-through-catholic-area",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260927__C9G83WE__v1__HighRes__MonitoringForTensionInNIrishTownAsMilitantOrang-1790504309.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-27T10:04:26Z"
+    },
+    {
+      "title": "Ford’s Latest Employee of the Month is a Hawk Named ‘El Charro’ - WSJ",
+      "description": "To protect 300,000 trucks a year from a persistent pigeon invasion, the automaker turned to an ancient practice: falconry",
+      "url": "https://www.wsj.com/business/autos/fords-factory-hermosillo-mexico-pigeons-hawk-el-charro-b78d90ae",
+      "urlToImage": "https://images.wsj.net/im-81884514/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-27T09:30:00Z"
+    },
+    {
+      "title": "Rob Bonta’s Paramount-WBD debacle has created political chaos - New York Post",
+      "description": "Antitrust suits aren’t supposed to be about politics, and yet that’s what’s happening of late.",
+      "url": "https://nypost.com/2026/09/27/business/rob-bontas-paramount-wbd-debacle-has-created-political-chaos/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/rob-bonta-attorney-general-state-142088205-e1790469388992.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-09-27T07:33:00Z"
+    },
+    {
+      "title": "UFC provides medical update on Raoni Barcelos following scary knockout - MMA Junkie",
+      "description": "The UFC released an official statement regarding the health of Raoni Barcelos following UFC Fight Night 289.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/27/ufc-provides-medical-update-raoni-barcelos-following-scary-knockout/91970296007/",
+      "urlToImage": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/09/27/SMMA/91970304007-imagic-5844-x-3896-20260927-t-064824.jpg?crop=3768,2117,x2073,y929&width=3200&height=1798&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-09-27T06:51:00Z"
+    },
+    {
+      "title": "Trump administration considers building baseball park in Grand Teton National Park - The Washington Post",
+      "description": "Major League Baseball contacted the administration about hosting a game in a national park, with an agency official scouting Grand Teton as a possible location.",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/09/26/trump-officials-weigh-mlb-game-grand-teton-national-park/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRW24P3NADYT3NDTDPGXQ7ONNM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-09-27T05:19:00Z"
+    },
+    {
+      "title": "Jalen Brunson Brings the New York Knicks to the ‘Saturday Night Live’ Season 52 Premiere - The Hollywood Reporter",
+      "description": "Karl-Anthony Towns, Josh Hart, OG Anunoby and Mikal Bridges showed up to support the NBA Finals MVP's first hosting stint.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/jalen-brunson-snl-season-52-premiere-knicks-players-1236712688/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Screenshot-2026-09-26-at-8.43.03-PM-e1790480718880.png?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-09-27T05:10:35Z"
+    },
+    {
+      "title": "Fetterman defends political identity, weighs potential role as 51st senator - thehill.com",
+      "description": "Pennsylvania Sen. John Fetterman (D) defended his position as a Democrat on Saturday despite straying from the party on key issues — but refused to speculate how he would break ties if his party attained a 51-seat majority this November. During the closing ke…",
+      "url": "https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/08/fettermanjohn_071626gn03_w.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2026-09-27T03:33:00Z"
+    },
+    {
+      "title": "Spain: Thousands protest in Madrid against housing crisis - dw.com",
+      "description": "Tens of thousands rallied in the Spanish capital after an 87-year-old woman was dramatically evicted from her home this week. Protesters called for measures to curb rising costs and reduce evictions.",
+      "url": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662",
+      "urlToImage": "https://static.dw.com/image/79446263_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-27T02:59:11Z"
+    },
+    {
+      "title": "Avengers Endgame: Encore gets an unexpected Disney Plus release update - Yahoo",
+      "description": "When does Avengers Endgame: Encore come out on Disney Plus? Is it streaming soon? Marvel Studios may have quietly revealed the answer.",
+      "url": "https://bamsmackpow.com/marvel-avengers-endgame-encore-disney-plus-release-date-update",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a68b818b733d942740d5b4da46db8c394c07221d2ab250a4bff7fbd48a908395/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbam_smack_pow_articles_921%2Fd04f55355aaf4aa78bc0229a6b401897.jpg",
+      "source": "Bam! Smack! Pow!",
+      "publishedAt": "2026-09-27T02:05:00Z"
+    },
+    {
+      "title": "Jon Watts to Direct Next ‘Star Wars’ Movie - Variety",
+      "description": "A new “Star Wars” movie is currently in development with director Jon Watts, Variety can confirm.",
+      "url": "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2187954772.jpg?crop=1717px%2C346px%2C2683px%2C1511px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2026-09-27T02:04:00Z"
+    },
+    {
+      "title": "Today’s NYT Strands Hints, Spangram, Answers: Sunday, September 27 (It’s Skin Deep) - forbes.com",
       "description": null,
-      "url": "https://www.forbes.com/sites/timlammers/2026/09/25/primetime-critics-score-drops-and-chris-hansen-gives-first-review-of-pattinson-film/",
+      "url": "https://www.forbes.com/sites/paultassi/2026/09/26/todays-nyt-strands-hints-spangram-answers-sunday-september-20-its-skin-deep/",
       "urlToImage": null,
       "source": "Forbes",
-      "publishedAt": "2026-09-26T00:55:03Z"
+      "publishedAt": "2026-09-27T01:35:07Z"
     },
     {
-      "title": "Warnings go out about a new drug said to be 10 times more potent than Fentanyl - KDVR",
-      "description": "A social media post circulating among students at Colorado State University is warning of a deadly new illegal drug called cychlorphine.",
-      "url": "https://kdvr.com/news/local/warnings-go-out-about-a-new-drug-said-to-be-10-times-more-potent-than-fentanyl/",
-      "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2026/05/AP21119723253276-e1773268809667.jpg?w=1280",
-      "source": "FOX 31 Denver",
-      "publishedAt": "2026-09-26T00:20:01Z"
+      "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square - AP News",
+      "description": "Pope Leo XIV draws hundreds of thousands of people to Paris’ Champs-Élysées for a massive outdoor Mass. The pope greeted cheering crowds from his popemobile during a parade on Saturday to Place de la Concorde. The Vatican estimates 800,000 people attended, su…",
+      "url": "https://apnews.com/article/france-pope-concorde-catholics-mass-5fc1201a104e6f5a1b044a7ceb39fb1a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a61260e/2147483647/strip/true/crop/6021x4012+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2Fad%2F37af655baaec1c47e6d105050db5%2Fe63b6d68a90c48f7a5119b1719d44024",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-27T00:55:00Z"
     },
     {
-      "title": "What the Supreme Court's voter-citizenship database decision means for the midterms - PBS",
-      "description": "The Supreme Court revived a controversial voter-citizenship database less than two months ahead of the midterm elections. In the ruling, the court sided with the Trump administration, which is seeking to use the Department of Homeland Security’s SAVE database…",
-      "url": "https://www.pbs.org/newshour/show/what-the-supreme-courts-voter-citizenship-database-decision-means-for-the-midterms",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/votedata-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-09-25T22:55:46Z"
-    },
-    {
-      "title": "2026 WNBA playoffs: Biggest questions for Lynx-Liberty, Aces-Fever and every first-round series - Yahoo Sports",
-      "description": "The WNBA playoffs tips off this weekend with four dynamic matchups. Let's dig in.",
-      "url": "https://sports.yahoo.com/wnba/article/2026-wnba-playoffs-biggest-questions-for-lynx-liberty-aces-fever-and-every-first-round-series-225201717.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6bde9bfeb7f8b10704503dac233b993c08cb01d863268af85c50adbfddac82f7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F9bcf74c1-19be-4b7f-91f3-2ecaf90a5516",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-25T22:54:57Z"
-    },
-    {
-      "title": "The Major Social Media Platforms Are All Rejecting Paid Ads for Alex Gibney’s ‘Musk’ (Exclusive) - The Hollywood Reporter",
-      "description": "YouTube, TikTok and Meta have all turned down the trailer for the Oct. 9 doc, citing “political” content. X won't even take Bleecker Street's calls. The distributor is appealing.",
-      "url": "http://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/muskzi.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-09-25T22:45:45Z"
-    },
-    {
-      "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical - CNBC",
-      "description": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
-      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108366218-1790089325194-gettyimages-2296039391-boivin-photoill260922_npJvq.jpeg?v=1790089357&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-09-25T22:31:32Z"
-    },
-    {
-      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says - Al Jazeera",
-      "description": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab6e4f3-1790371059.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-25T22:24:26Z"
+      "title": "Trump to roll back fuel-efficiency rules in boost for automakers - New York Post",
+      "description": "The Trump administration is set to announce a major rollback of federal fuel-economy requirements for new cars and light trucks, giving automakers more freedom to build gas-powered vehicles.",
+      "url": "https://nypost.com/2026/09/26/us-news/trump-to-roll-back-fuel-efficiency-rules-in-boost-automakers/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-r5nrpoilp-1790469641383.jpg?quality=75&strip=all&1790455296&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-09-27T00:42:00Z"
     }
   ]
 }

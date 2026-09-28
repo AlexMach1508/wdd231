@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2026-09-27T11:55:32.102Z",
+  "updatedAt": "2026-09-28T13:43:53.735Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "The worst airports if you have a connecting flight - The Washington Post",
-      "description": "Short layover? You may want to think twice before booking through these transport hubs.",
-      "url": "https://www.washingtonpost.com/travel/2026/09/26/worst-airports-travel-connections/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XDPXNZH5F5RCBWUGWONWJPALIQ.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-09-26T12:46:09Z"
+      "title": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day - Yahoo Finance",
+      "description": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
+      "url": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-corporate-bond-boom-chart-of-the-day-115022571.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6bf85454a97f61895174d1924117c57dc7fc5c8e2dab7584bcad3e1e699e972/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F24d53d20-2614-439b-bd33-9695bf941721",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-27T11:50:22Z"
     },
     {
-      "title": "The Great Republican Panic Is Upon Us - Slate Magazine",
-      "description": "These races weren’t supposed to be close. Now they very much are.",
-      "url": "https://slate.com/news-and-politics/2026/09/trump-diesel-senate-midterms-republicans.html",
-      "urlToImage": "https://compote.slate.com/images/dc94f933-fbbf-4f1e-93e0-1fd7209c8421.jpeg?crop=1080%2C720%2Cx0%2Cy0&width=1560",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-09-26T09:45:00Z"
+      "title": "Ford’s Latest Employee of the Month is a Hawk Named ‘El Charro’ - WSJ",
+      "description": "To protect 300,000 trucks a year from a persistent pigeon invasion, the automaker turned to an ancient practice: falconry",
+      "url": "https://www.wsj.com/business/autos/fords-factory-hermosillo-mexico-pigeons-hawk-el-charro-b78d90ae",
+      "urlToImage": "https://images.wsj.net/im-81884514/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-27T09:30:00Z"
     },
     {
-      "title": "Elizabeth Holmes Thirsts Over Donald Trump After Shock Release Plan Revealed - The Daily Beast",
-      "description": "The disgraced Theranos founder has asked Trump to cut her sentence short. Now she’s celebrating his “wins” as an early prison exit approaches.",
-      "url": "https://www.thedailybeast.com/elizabeth-holmes-thirsts-over-donald-trump-after-shock-release-plan-revealed/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/JKVCN6OY4BCOHKML3XPEM5VVB4.JPG?smart=true&auth=93b913606d8a660b900f5e5034122ef247411393c4f50bed7811109840e8343d&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2026-09-26T07:29:00Z"
-    },
-    {
-      "title": "Chinese AI models surge in global popularity — and Washington is worried - CNBC",
-      "description": "Usage of Chinese AI models by businesses across the globe has increased substantially in 2026.",
-      "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108296706-1777015790399-gettyimages-2195904316-TFSPI_28012025-4051.jpeg?v=1777016004&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-09-26T05:00:01Z"
-    },
-    {
-      "title": "E. coli outbreak linked to raw milk cheese brand: CDC, FDA - ABC News - Breaking News, Latest News and Videos",
+      "title": "How to Know When the AI Boom Is About to Go Bust - wsj.com",
       "description": null,
-      "url": "https://abcnews.com/GMA/News/coli-outbreak-linked-raw-milk-cheese-brand-cdc/story?id\\\\u003d136766868",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-26T02:05:46Z"
-    },
-    {
-      "title": "Rogue OpenAI agents accessed US government websites - Politico",
-      "description": "It’s the latest instance of “misaligned” activity confirmed by the company as concerns about AI risks grow.",
-      "url": "https://www.politico.com/news/2026/09/25/rogue-openai-agents-accessed-us-government-websites-01094035",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F51%2Fe2%2F582ddba044fa9682123cc4974e46%2Fchatgpt-search-engine-97390.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-09-26T01:38:00Z"
-    },
-    {
-      "title": "Trump Treasury secretary set off Wall St. revolt he can't control - Alternet",
-      "description": "During a speech at Southern Methodist University in Texas on Tuesday, September 8, Treasury Secretary Scott Bessent had a message for the bond market: \"I am the house now.\" But according to journalist Joseph Zeballos-Roig, \"the house is getting a lot of egg o…",
-      "url": "https://www.alternet.org/bessent-bond-market/",
-      "urlToImage": "https://www.alternet.org/media-library/us-treasury-secretary-scott-bessent-in-washington-d-c-us-september-23-2026-reuters-nathan-howard.jpg?id=67861669&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "source": "AlterNet",
-      "publishedAt": "2026-09-26T01:30:00Z"
-    },
-    {
-      "title": "Secret Lair Commander Deck: Odds and Ends Decklist - Magic: The Gathering",
-      "description": "Even the odds (even if those odds are oddly uneven) with Secret Lair Commander Deck: Odds and Ends—available on September 28, 2026!",
-      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-commander-deck-odds-and-ends-decklist",
-      "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/2cvfJgtyhyj1e0l8e0UDRF/fe7b3fae98327771bd45736eab5bc1ec/SLD_Odds_and_Ends_960x540.jpg",
-      "source": "Wizards.com",
-      "publishedAt": "2026-09-26T00:54:36Z"
-    },
-    {
-      "title": "Starbucks to close 2 Western New York stores in nationwide shutdown - WGRZ",
-      "description": null,
-      "url": "https://www.wgrz.com/article/money/business/starbucks-closing-2-western-new-york-stores-amherst-blasdell/71-934f149e-8796-4837-a0a2-09705cfbd5b6",
-      "urlToImage": null,
-      "source": "WGRZ.com",
-      "publishedAt": "2026-09-26T00:03:00Z"
-    },
-    {
-      "title": "Common kitchen staple may sharpen your brain — and it only takes 2 tablespoons - Fox News",
-      "description": "Eating about 2 tablespoons of tomato paste daily for three months boosted attention, processing speed and associative memory scores in a new study.",
-      "url": "https://www.foxnews.com/food-drink/common-kitchen-staple-may-sharpen-your-brain-only-takes-2-tablespoons",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/organic-tomato-sauce.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-09-25T23:45:53Z"
-    },
-    {
-      "title": "Could an iced coffee freeze you out of the job market? - BBC",
-      "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
-      "url": "https://www.bbc.com/news/articles/cv62k9p1rz4do",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png",
-      "source": "BBC News",
-      "publishedAt": "2026-09-25T23:08:22Z"
-    },
-    {
-      "title": "New Mexico jury finds Facebook liable for deceiving users about privacy protections - apnews.com",
-      "description": "A New Mexico jury has found Facebook liable of deceiving users about privacy protections on the social media platform. The verdict arrived Friday, the latest legal setback that has already cost the company billions of dollars. It is now up to the judge to det…",
-      "url": "https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-3f822af6a0628b983f942754d21b5ba6",
-      "urlToImage": "https://dims.apnews.com/dims4/default/44ae8cf/2147483647/strip/true/crop/7000x4664+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F85%2Fef0fad809cbea3eeb95e3a7e8142%2Fb20cc831e88d42118060597213ce9f78",
-      "source": "Associated Press",
-      "publishedAt": "2026-09-25T22:46:00Z"
-    },
-    {
-      "title": "More than 167,000 pounds of meat were recalled. What to know about the state of food safety in the U.S. - PBS",
-      "description": "More than 167,000 pounds of beef, pork and goat meat are being recalled after they were produced without the required federal inspection and labeled with a false inspection sticker, according to the Department of Agriculture.",
-      "url": "https://www.pbs.org/newshour/health/more-than-167000-pounds-of-meat-were-recalled-what-to-know-about-the-state-of-food-safety-in-the-u-s",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-20T225804Z_127066172_RC2NKMA7LLO7_RTRMADP_3_USA-FED-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-09-25T22:15:02Z"
-    },
-    {
-      "title": "McDonald’s promises to bring back colorful PlayPlaces in bid to win over frustrated parents - New York Post",
-      "description": "McDonald’s says it’s no longer playing around with kid amenities and customer service.",
-      "url": "https://nypost.com/2026/09/25/business/mcdonalds-promises-to-bring-back-colorful-playplaces-in-bid-to-win-over-frustrated-parents/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142512700.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-09-25T21:38:00Z"
-    },
-    {
-      "title": "Walmart chief rules out personalised pricing as AI transforms retail - Financial Times",
-      "description": "Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity",
-      "url": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48d55fb1-8116-43c1-b2de-09ff7d8d904d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-09-25T21:16:49Z"
-    },
-    {
-      "title": "If You Want to Know Who America’s Oligarchs Are, Read This List - rollingstone.com",
-      "description": "Donald Trump's state dinner for Chinese President Xi Jinping features a who's who of the American oligarchy, from tech CEOs to Republican politicians.",
-      "url": "http://www.rollingstone.com/politics/political-commentary/trump-state-dinner-guest-list-american-oligarchs-1235632171/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/altman-zuck-american-oligarchy.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-09-25T21:15:10Z"
-    },
-    {
-      "title": "Retail headwinds force women’s apparel giant Cato to close dozens of locations - Fox Business",
-      "description": "Cato Fashions' parent company announced a plan to shutter over 10% of its locations after economic pressures prompted the company to double down on closures.",
-      "url": "https://www.foxbusiness.com/retail/retail-headwinds-force-womens-apparel-giant-cato-close-dozens-locations",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/Resale-Market-iStock.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-09-25T21:07:00Z"
-    },
-    {
-      "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89",
+      "url": "https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-09-25T21:06:00Z"
+      "publishedAt": "2026-09-27T09:30:00Z"
     },
     {
-      "title": "Meta opens early access program for new Muse features - TechCrunch",
-      "description": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "title": "Futures Ahead After Trump's Iran Decision - Investor's Business Daily",
+      "description": "Micron, SpaceX and Tesla eye buy points with big news this week.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/06/stock-brain-chip-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-09-27T08:59:00Z"
+    },
+    {
+      "title": "Nearly 333 pounds of Buckhead tuna recalled across 5 states over elevated scombrotoxin levels - Fox Business",
+      "description": "Buckhead tuna sold across five states tested positive for elevated scombrotoxin levels, triggering an FDA Class II recall of nearly 333 pounds.",
+      "url": "https://www.foxbusiness.com/lifestyle/nearly-333-pounds-buckhead-tuna-recalled-across-5-states-over-elevated-scombrotoxin-levels",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/buckhead-tuna-class-two-recall-2026.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-09-27T06:25:00Z"
+    },
+    {
+      "title": "Value of old supertankers soars past new builds as market goes ‘bananas’ - Financial Times",
+      "description": "As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers",
+      "url": "https://www.ft.com/content/a2c22bca-f50a-440d-82f8-1a373859770d?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9b67903-0e37-4223-943f-fffc741e6a93.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-27T04:01:14Z"
+    },
+    {
+      "title": "Boeing identifies 737 MAX software glitch affecting landing navigation feature - NBC News",
+      "description": "Boeing has identified a previously undisclosed 737 MAX software glitch that could cause an automated navigation feature to fail during landing, The Wall Street Journal reported on Saturday, citing company documents.",
+      "url": "https://www.nbcnews.com/news/us-news/boeing-identifies-737-max-software-glitch-affecting-landing-navigation-rcna599993",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260926-boeing-737-ww-1712-cdb999.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-09-27T03:12:00Z"
+    },
+    {
+      "title": "E. coli outbreak linked to raw milk cheese leads to 13 illnesses and eight hospitalizations across the US: FDA - Fox Business",
+      "description": "Eight people have been hospitalized as the FDA investigates contamination in Sierra Nevada Graziers cheddar and jack cheese varieties.",
+      "url": "https://www.foxbusiness.com/retail/e-coli-outbreak-linked-raw-milk-cheese-leads-13-illnesses-eight-hospitalizations-across-us-fda",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/graziers-raw-cheese.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-09-27T00:14:00Z"
+    },
+    {
+      "title": "Colorado officials issue health advisory for multiple marijuana vape devices - KDVR",
+      "description": "The Colorado Department of Revenue and the Department of Public Health and Environment have issued a health and safety advisory over contaminated marijuana vape devices.",
+      "url": "https://kdvr.com/news/local/colorado-officials-issue-health-advisory-for-multiple-marijuana-vape-devices/",
+      "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2026/04/6449ade9be4a47.47478836-e1703192279231_cf2971.jpeg?w=1280",
+      "source": "FOX 31 Denver",
+      "publishedAt": "2026-09-26T23:54:46Z"
+    },
+    {
+      "title": "The Surprise Social Security Benefit That Goes to Parents Who Have Kids Late - WSJ",
+      "description": "Social Security recipients can get an additional benefit for dependent children, which alters the calculation about when to draw benefits",
+      "url": "https://www.wsj.com/personal-finance/the-surprise-social-security-benefit-that-goes-to-parents-who-have-kids-late-05497d3e",
+      "urlToImage": "https://images.wsj.net/im-04276716/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-26T23:00:00Z"
+    },
+    {
+      "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards - thehill.com",
+      "description": "President Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration. The 2024 EV mandate aimed to facilitate the transition from gas-powered to EVs by setting new …",
+      "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/trumpdonald_UN_092226_AP-e1790103355885.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2026-09-26T22:52:00Z"
+    },
+    {
+      "title": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
+      "description": "The massive scale of security incidents points to control problems for AI companies.",
+      "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "urlToImage": "https://images.axios.com/b9BbuwrPG6fO9BSYyOLqAcMyUZM=/0x0:1920x1080/1366x768/2026/02/04/1770232055847.jpeg",
+      "source": "Axios",
+      "publishedAt": "2026-09-26T22:39:13Z"
+    },
+    {
+      "title": "Here's how much worse U.S. debt could get as Treasury yields surge to the highest levels in two decades - Fortune",
+      "description": "Publicly held debt would explode to 222% of GDP by 2056, under a scenario where interest rates rise by 1 percentage point.",
+      "url": "https://fortune.com/2026/09/26/us-debt-outlook-cbo-10-year-treasury-bond-yields-highest-two-decades/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2243682053-e1790453452185.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-09-26T22:39:00Z"
+    },
+    {
+      "title": "Apple hit with $5.7 billion in damages over haptic patents - theverge.com",
+      "description": "Apple’s Taptic Engine was found to infringe on two of Taction’s patents.",
+      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-09-26T21:30:01Z"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs - TechCrunch",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
       "source": "TechCrunch",
-      "publishedAt": "2026-09-25T20:34:53Z"
+      "publishedAt": "2026-09-26T21:02:06Z"
+    },
+    {
+      "title": "Heartbreaking update for teen football star shot while working at California Five Guys - nypost.com",
+      "description": "Nearly one month after a stray bullet tore through a teen Five Guys employee in Southern California, his heartbroken mother has revealed a devastating update.",
+      "url": "https://nypost.com/2026/09/26/us-news/tragic-update-for-teen-shot-while-working-at-five-guys-in-oxnard/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142660349.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-09-26T20:57:00Z"
+    },
+    {
+      "title": "6 WA Starbucks locations closing amid broader shutdown. Here's where - FOX 13 Seattle",
+      "description": "Starbucks is preparing to close 250 stores deemed \"underperforming\" by the company, with six of the locations based in Washington. Here's where.",
+      "url": "https://www.fox13seattle.com/news/wa-starbucks-locations-closing",
+      "urlToImage": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2023/09/1200/630/Starbucks1.jpg?ve=1&tl=1",
+      "source": "Fox13seattle.com",
+      "publishedAt": "2026-09-26T20:33:11Z"
+    },
+    {
+      "title": "Alabama teens getting their own version of TikTok under sweeping $100M deal - Fox Business",
+      "description": "TikTok must disable its \"For You\" page for minors and enforce two-hour daily screen time limits under a landmark $100 million Alabama settlement.",
+      "url": "https://www.foxbusiness.com/politics/alabama-teens-getting-own-version-tiktok-under-sweeping-100m-deal",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/TikTok-app.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-09-26T19:58:00Z"
     }
   ]
 }
