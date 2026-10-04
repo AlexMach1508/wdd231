@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-10-03T11:33:40.803Z",
+  "updatedAt": "2026-10-04T12:14:54.203Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately' - MacRumors",
-      "description": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues....",
-      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
-      "urlToImage": "https://images.macrumors.com/t/rg8EDzX_tTUcquU3LV5ww4-P3Fc=/1600x/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-10-02T03:42:00Z"
-    },
-    {
-      "title": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered - Nintendo Life",
-      "description": "But Switch 2 owners might have to wait a little longer",
-      "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-      "urlToImage": "https://images.nintendolife.com/27d45a82d575d/1280x720.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-10-02T01:55:00Z"
-    },
-    {
-      "title": "Amazon redesigns Kindle lineup and announces new accessories - 12newsnow.com",
-      "description": null,
-      "url": "https://www.12newsnow.com/article/news/nation-world/amazon-redesign-kindle-lineup-new-accessories/507-c904947e-ef0f-4735-93c9-3dbed6bb059a",
-      "urlToImage": null,
-      "source": "12newsnow.com KBMT-KJAC",
-      "publishedAt": "2026-10-02T00:13:00Z"
-    },
-    {
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video - The Verge",
-      "description": "A smart home camera Apple’s working on would give users text descriptions of events instead of recordings, according to Bloomberg’s Mark Gurman.",
-      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-10-01T22:51:36Z"
-    },
-    {
-      "title": "Blizzard Cracks Down on Gold Selling in World of Warcraft Forever — and Streamers Are in the Firing Line - IGN",
-      "description": "World of Warcraft: Classic has had a gold selling problem for its entire existence, but with Forever, Blizzard seems hard-set on reversing that trend, and some streamers are getting caught in the act.",
-      "url": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
+      "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+      "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-10-01T21:22:45Z"
+      "publishedAt": "2026-10-03T01:33:00Z"
     },
     {
-      "title": "No, No, No—Don’t Peel the Nano-Texture Layer off the iPhone Duo’s Inner Screen - Gizmodo",
-      "description": "Don't be the idiot who breaks their $2,000 foldable iPhone because they listened to some 'experts' on social media.",
-      "url": "https://gizmodo.com/iphone-duo-inner-display-damage-2000820502",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Apple-Event-Sept2026-iphone-duo-10-1200x675.jpg",
+      "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
+      "description": "But the race isn't over yet...",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+      "urlToImage": "https://images.nintendolife.com/cc53314210756/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-10-03T00:30:00Z"
+    },
+    {
+      "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag",
+      "description": "This week's iOS update is intended to prevent this from happening to other phones. If your iPhone 18 Max Pro has already lost service, you'll need to return it for a new one.",
+      "url": "https://www.pcmag.com/news/apple-confirms-att-iphone-18-pro-max-problems-you-might-need-new-phone",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/06h6NJK0d4qbfsrUHWcCPVN-1.fit_lim.size_1200x630.v1790931853.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2026-10-02T23:59:18Z"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-02T23:03:16Z"
+    },
+    {
+      "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
+      "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video.",
+      "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg",
       "source": "Gizmodo.com",
-      "publishedAt": "2026-10-01T20:40:34Z"
+      "publishedAt": "2026-10-02T23:00:33Z"
     },
     {
-      "title": "ChatGPT can now virtually try on clothes for you - TechCrunch",
-      "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-01T19:21:53Z"
+      "title": "Miami Heat to play as Vice City from Grand Theft Auto VI for single game, with new court and uniforms - Yahoo Sports",
+      "description": "This will also happen to be Giannis Antetokounmpo's first game against his old team, the Milwaukee Bucks.",
+      "url": "https://sports.yahoo.com/nba/article/miami-heat-to-play-as-vice-city-from-grand-theft-auto-vi-for-single-game-with-new-court-and-uniforms-212134941.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/65f42886932f0349067916cb8ae0e8b2b233040459f945a28f87100438c5d37f/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F68623ccf-c69b-452e-aaf2-58c7b96380cb",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-02T21:21:34Z"
     },
     {
-      "title": "Make unknown callers explain why they're calling - Fox News",
-      "description": "iPhone, Google Pixel and Samsung Galaxy phones now offer call screening that asks unknown callers to identify themselves before your phone rings.",
-      "url": "https://www.foxnews.com/tech/make-unknown-callers-explain-why-theyre-calling",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/man-glasses-smartphone-home-office.jpg",
+      "title": "Can it run Doom: SQL database edition - Ars Technica",
+      "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-02T21:19:05Z"
+    },
+    {
+      "title": "End of Abyss Review: Samus-Inspired Survival Success - Game Informer",
+      "description": "End of Abyss (PlayStation 5) Review – 8/10: Despite the glitches, I loved snooping through the cold, industrial hallways of End of Abyss. - Game Informer",
+      "url": "https://gameinformer.com/review/end-of-abyss/samus-inspired-survival-success",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/05/05/ef760bfa/378_endofabyss03.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-10-02T21:13:00Z"
+    },
+    {
+      "title": "Vibe-Coded Mashup Mods Have Taken Over X This Week - IGN",
+      "description": "I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Claude, and mashing them up with other games. As the week has gone on, there have only been more clip…",
+      "url": "https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/02/vibecodedmods-explainer-blogroll-1790975025611.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-10-02T21:09:28Z"
+    },
+    {
+      "title": "Only one browser has this really helpful search tool - The Washington Post",
+      "description": "This is great for experimentation with a different search site, keeping a particular search out of your history at your usual site, or giving yourself a break from AI-first answers.",
+      "url": "https://www.washingtonpost.com/technology/2026/10/02/search-without-ai-or-your-browser-history-with-mozilla-firefox/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6C3RGY6E6EMA3MRLAOQEMRPQU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-02T21:00:00Z"
+    },
+    {
+      "title": "‘HomePad’ coming: Will Apple hold an October special event? - 9to5Mac",
+      "description": "With Apple reportedly planning to unveil new products on October 13, here’s when the company could announce an event, based on the timing of its previous October announcements.",
+      "url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-chairs.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5Mac",
+      "publishedAt": "2026-10-02T20:31:00Z"
+    },
+    {
+      "title": "Android malware can steal your PIN and bank logins - Fox News",
+      "description": "RatHat Android malware uses AI to steal banking credentials, intercept two-factor authentication codes and reconstruct your PIN from touch inputs.",
+      "url": "https://www.foxnews.com/tech/android-malware-steal-pin-bank-logins",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/android-motion-sickness-2.jpg",
       "source": "Fox News",
-      "publishedAt": "2026-10-01T18:30:09Z"
+      "publishedAt": "2026-10-02T19:00:23Z"
     },
     {
-      "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter - 9to5Mac",
-      "description": "Twelve South, the company behind a range of premium Apple accessories, has launched a notable expansion of its Airfly brand....",
-      "url": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+      "title": "Nvidia Is Killing Its Beloved Base Shield TV - gizmodo.com",
+      "description": "It’s hard not to see this as a symbol for Nvidia’s turn away from its gaming roots.",
+      "url": "https://gizmodo.com/nvidia-shield-tv-discontinued-2000820944",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Nvidia-Shield-TV-Box-and-Remote-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-10-02T18:25:01Z"
+    },
+    {
+      "title": "The Xbox Cloud Gaming Controller Is Not Dead, Apparently - GameSpot",
+      "description": "Microsoft is apparently going to release a new Xbox controller specifically for cloud gaming.",
+      "url": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxcloudgaming-Large.jpeg",
+      "source": "GameSpot",
+      "publishedAt": "2026-10-02T18:20:31Z"
+    },
+    {
+      "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated] - 9to5Mac",
+      "description": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive....",
+      "url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
       "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&resize=1200,628",
       "source": "9to5Mac",
-      "publishedAt": "2026-10-01T17:20:00Z"
+      "publishedAt": "2026-10-02T18:15:00Z"
     },
     {
-      "title": "Minior Showers in Pokémon GO: Dates, Cores & Bonuses - Pokémon GO Hub",
-      "description": "Minior debuts in Pokémon GO on October 19! Explore Minior Showers dates, core colours, hemisphere exclusives, bonuses and its form-changing mechanic.",
-      "url": "https://pokemongohub.net/post/guide/minior-showers/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/10/minior-showers.jpg",
-      "source": "Pokemon GO Hub",
-      "publishedAt": "2026-10-01T17:13:16Z"
+      "title": "ASUS ROG Edition 20 - Celebrating 20 years of Republic of Gamers - TechPowerUp",
+      "description": "ASUS is celebrating 20 years, with its \"Edition 20\" products that are pure enthusiast excess in the best possible way, including a custom AMD Ryzen X870E board & AIO, GeForce RTX 5090, 3000 W PSU, open-frame case and pairing it with a high-end OLED into one b…",
+      "url": "https://www.techpowerup.com/review/asus-rog-20th-anniversary-build/",
+      "urlToImage": "https://www.techpowerup.com/review/asus-rog-20th-anniversary-build/images/title.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-02T18:00:01Z"
     },
     {
-      "title": "NVIDIA and Microsoft tease RTX Spark announcements for October 7 Windows event - VideoCardz.com",
-      "description": "RTX Spark will be a key focus of Microsoft’s October 7 Windows event with Jensen Huang in attendance. The first systems appear aimed at premium laptops and workstations rather than gaming PCs.",
-      "url": "https://videocardz.com/newz/nvidia-and-microsoft-tease-rtx-spark-announcements-for-october-7-windows-event",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/10/MICROSOFT-RTX-SPARK.webp",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-10-01T16:52:13Z"
-    },
-    {
-      "title": "Space Marine 2 gets a massive anniversary update - Warhammer Community",
-      "description": "Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode.",
-      "url": "https://www.warhammer-community.com/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sm2_update-oct01-2-share-uez7pznbxa.jpg",
+      "title": "Your questions answered from The Big Autumn Preview - Warhammer Community",
+      "description": "You asked about paint, Adeptus Custodes, Tomb Kings of Khemri, and more.",
+      "url": "https://www.warhammer-community.com/articles/ezaznq06/your-questions-answered-from-the-big-autumn-preview",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bigautumnq&a-oct02-2-share-syn7fyibno.jpg",
       "source": "Warhammer-community.com",
-      "publishedAt": "2026-10-01T16:49:06Z"
+      "publishedAt": "2026-10-02T17:54:31Z"
     },
     {
-      "title": "Invincible VS DLC character Angstrom Levy launches October 13 - Gematsu",
-      "description": "Publisher Skybound Games and developer Quarter Up will release three-versus-three tag fighting game Invincible VS downloadable content character Angstrom Levy on October 13 as part of the game&#821…",
-      "url": "https://www.gematsu.com/2026/10/invincible-vs-dlc-character-angstrom-levy-launches-october-13",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Invincible-VS_2026_10-01-26_008.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-10-01T16:38:18Z"
+      "title": "Apple Watch Series 12 In-Depth Review: Worth Upgrading? - DC Rainmaker",
+      "description": "Is the Apple Watch Ultra 12 worth the ugprade from an existing Apple Watch model? I dive into see where it makes the most sense.",
+      "url": "https://www.dcrainmaker.com/2026/10/apple-watch-series12-in-depth-review-worth-upgrade.html",
+      "urlToImage": "https://media.dcrainmaker.com/images/2026/10/AppleWatchSeries12YT.jpg",
+      "source": "DC Rainmaker",
+      "publishedAt": "2026-10-02T17:13:16Z"
     },
     {
-      "title": "007 First Light Extended Operation DLC is Out Today, For Free, and Lets You Drive the Valhalla Again - IGN",
-      "description": "The 007 First Light Extended Operations DLC launches for free today, and adds five different missions to the TacSim mode, along with New Game Plus, new outfits and a photo mode that was somehow missing from the game at launch.",
-      "url": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/01/007thumb-1790861077438.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-10-01T16:25:28Z"
+      "title": "7 iOS 27 features that make old iPhones exciting again (no Apple Intelligence needed) - ZDNET",
+      "description": "Do you own an older iPhone that doesn’t support Siri AI or Apple Intelligence? Upgrading to iOS 27 is still worth the effort. Here are seven reasons why.",
+      "url": "https://www.zdnet.com/tech/ios-27-features-older-iphones/",
+      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-No-Apple-Intelligence-no-problem-7-iOS-27-features-worth-the-upgrade.jpg",
+      "source": "ZDNet",
+      "publishedAt": "2026-10-02T16:56:36Z"
     },
     {
-      "title": "Can VR glasses save VR? - The Verge",
-      "description": "Meta VR Glasses might make more sense than headsets — not just because of size and weight, but due to passthrough vision, peripheral vision, and field of view.",
-      "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260924_130227-EDIT.jpg?quality=90&strip=all&crop=0%2C10.704986421032%2C100%2C78.590027157936&w=1200",
+      "title": "Nacon’s new PS5 controller can mix audio from your phone and console - The Verge",
+      "description": "The Nacon Revolution 5 Unlimited brings an asymmetrical TMR thumbstick design to the PS5 with a built-in screen for customizing the controller’s functionality.",
+      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-10-01T16:10:32Z"
-    },
-    {
-      "title": "Apple TV Just Updated Its Selection of 'Bonus' Movies - MacRumors",
-      "description": "Starting today, the Apple TV streaming service is offering a new selection of \"bonus\" movies in the U.S., Canada, the U.K., and some other...",
-      "url": "https://www.macrumors.com/2026/10/01/apple-tv-new-bonus-movies/",
-      "urlToImage": "https://images.macrumors.com/t/jb4VFrAh4bvpJS4f7DXXXCtJRQg=/1600x/article-new/2026/04/New-Apple-TV-Logo.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2026-10-01T16:07:57Z"
-    },
-    {
-      "title": "IKEA and XBOX Team Up on YXSTABY, a New Collection Made for Gaming at Home - news.xbox.com",
-      "description": "IKEA and XBOX have teamed up to launch a gaming-inspired furniture collection, YXSTABY. See what's included inside.",
-      "url": "https://news.xbox.com/en-us/2026/10/01/ikea-xbox-gaming-collection-yxstaby/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/IKEA-Hero-5703aacba90368d2e431.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-10-01T16:07:30Z"
-    },
-    {
-      "title": "Sony announces QSSR AI upscaling tech for base PS5 in Marvel's Wolverine and Ghost of Yōtei - Digital Foundry",
-      "description": "The PS5 Pro is no longer the sole domain of AI upscaling tech on console.",
-      "url": "https://www.digitalfoundry.net/news/2026/10/sony-announces-qssr-ai-upscaling-tech-for-base-ps5-in-marvels-wolverine-and-ghost-of-ytei",
-      "urlToImage": "https://images.digitalfoundry.net/b9119de05990a/1280x720.jpg",
-      "source": "Digitalfoundry.net",
-      "publishedAt": "2026-10-01T16:03:00Z"
-    },
-    {
-      "title": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show - Push Square",
-      "description": "Wanted dead",
-      "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
-      "urlToImage": "https://images.pushsquare.com/8b9cd557e453f/1280x720.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-10-01T16:00:00Z"
+      "publishedAt": "2026-10-02T16:35:13Z"
     }
   ]
 }

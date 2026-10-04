@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-10-03T11:33:41.189Z",
+  "updatedAt": "2026-10-04T12:14:54.463Z",
   "country": "us",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close - Variety",
-      "description": "Michael De Luca & Pamela Abdy won't be part of David Ellison's management team after the Paramount Skydance & Warner Bros. Discovery merger closes.",
-      "url": "https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/2296593786.jpg?crop=264px%2C181px%2C4854px%2C2728px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2026-10-02T06:15:00Z"
-    },
-    {
-      "title": "Ken Urker, the Father of Gypsy-Rose Blanchard’s Daughter, Dies at 34 - The Hollywood Reporter",
-      "description": "Urker also appeared in Lifetime's 'Gypsy Rose: Life After Lockup' with Blanchard.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/ken-urker-dead-father-gypsy-rose-blanchard-daughter-1236720726/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Ken-Urker-obit-temp-screengrab-H-2026.png?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-10-02T04:22:27Z"
-    },
-    {
-      "title": "War Series-Premiere Recap: The Tipping Point - vulture.com",
-      "description": "A tech mogul and movie star’s marriage comes to an acrimonious end, kicking off HBO’s delicious legal drama.",
-      "url": "http://www.vulture.com/article/war-season-1-episode-1-hbo-premiere.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/829/ff1/55ff567d75ef6df56afc04fb8469e91888-dominic-west-sienna-miller.1x.rsocial.w1200.jpg",
-      "source": "Vulture",
-      "publishedAt": "2026-10-02T02:01:49Z"
-    },
-    {
-      "title": "Rapper Rick Ross arrested in Miami Beach on domestic violence charges - The Washington Post",
-      "description": "The rap mogul and South Florida fixture has faced recent public accusations of violence from a former girlfriend.",
-      "url": "https://www.washingtonpost.com/nation/2026/10/01/rapper-rick-ross-arrested-miami-beach-domestic-violence-charges/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MVHDGXN7YQSKHVMRBTJWUN2DLI.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-02T01:45:51Z"
-    },
-    {
-      "title": "Halle Berry's attorney fires back after ex Olivier Martinez accuses actress of abusing their son - Fox News",
-      "description": "Halle Berry's ex was granted a temporary restraining order and is seeking sole custody of their son, alleging child abuse, including allegedly choking by the star.",
-      "url": "https://www.foxnews.com/entertainment/halle-berrys-attorney-fires-back-after-ex-olivier-martinez-accuses-actress-abusing-son",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/halle-berry-olivier-martinez-power-women.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-02T01:42:10Z"
-    },
-    {
-      "title": "‘Big Brother’ Season 28 Crowns Winner On CBS & America’s Favorite Houseguest Revealed - Deadline",
-      "description": "After 12 weeks of competition, Big Brother Season 28 has come to an end with a houseguest taking home a $750,000 cash prize.",
-      "url": "https://deadline.com/gallery/big-brother-season-28-winner-cbs/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/big-brother-season-28-finale.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-10-02T01:24:00Z"
-    },
-    {
-      "title": "Sydney Sweeney shares cheeky boat trip photos with boyfriend Scooter Braun - foxnews.com",
-      "description": "Sydney Sweeney shared a Lake Powell boat trip carousel with wakeboarding, water skiing and a sweet Polaroid snapshot with boyfriend Scooter Braun.",
-      "url": "https://www.foxnews.com/entertainment/sydney-sweeney-shares-cheeky-boat-trip-photos-boyfriend-scooter-braun",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/sydney-sweeney-26.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-02T01:09:35Z"
-    },
-    {
-      "title": "HBO’s Casey Bloys Gets New Challenge At Par-WBD: Scale & Mass Appeal - Deadline",
-      "description": "HBO's Casey Bloys faces new challenge at Paramount-Warner Bros with scale and programming for the masses as he is set to bring his executive team.",
-      "url": "http://deadline.com/2026/10/hbo-casey-bloys-paramount-warner-bros-new-job-1237143734/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Casey-Bloys_2caca9.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-10-02T00:34:00Z"
-    },
-    {
-      "title": "Jim Carrey Is Married? - The Cut",
-      "description": "Jim Carrey has reportedly gotten married to his longtime girlfriend Min Ah, who accompanied him to the César Awards in February.",
-      "url": "http://www.thecut.com/article/jim-carrey-is-married.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/dfb/6fe/4a548208b811d2d8b12f7ce64c52c9fce2-GettyImages-2263776528.1x.rsocial.w1200.jpg",
-      "source": "The Cut",
-      "publishedAt": "2026-10-02T00:19:30Z"
-    },
-    {
-      "title": "'Where are they in your film?': Oct. 7 survivor who lost husband, son confronts 'NAZA' directors - The Jerusalem Post",
-      "description": "\"You’re talking about collateral damage? My husband and my son were murdered by Hamas. Where does this appear in your film?” Sabine Taasa asked Abraham and Szor.",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910389",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740200",
-      "source": "The Jerusalem Post",
-      "publishedAt": "2026-10-02T00:18:50Z"
-    },
-    {
-      "title": "Jennifer Garner reunites with ‘Alias’ co-star and ex Michael Vartan in rare photo - Page Six",
+      "title": "How Midcentury Modern Design Went From Cool to Cringey - WSJ",
       "description": null,
-      "url": "https://pagesix.com/2026/10/01/celebrity-news/jennifer-garner-reunites-with-alias-co-star-and-ex-michael-vartan-photo/",
+      "url": "https://www.wsj.com/style/design/how-midcentury-modern-design-went-from-cool-to-cringey-0ac6a6a1",
       "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-03T10:00:00Z"
+    },
+    {
+      "title": "Sylvester Stallone showered in his clothes to survive before ‘Rocky’ fame - Page Six",
+      "description": "To stave off hunger, Stallone would eat spoonfuls of cottage cheese, then down three or four raw eggs.",
+      "url": "https://www.foxnews.com/entertainment/sylvester-stallone-showered-clothes-survive-before-rocky-fame",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/143562746.jpg?quality=75&strip=all&w=1200",
+      "source": "Fox News",
+      "publishedAt": "2026-10-03T08:54:00Z"
+    },
+    {
+      "title": "Zach Bryan wears 'Free Palestine' shirt during concert at Robert Kraft's Gillette Stadium — after Macklemore controversy - Page Six",
+      "description": "Country singer Zach Bryan wore a “Free Palestine” shirt during his concert at Robert Kraft’s Gillette Stadium Friday night — one month after the Jewish NFL owner barred Macklemore…",
+      "url": "https://pagesix.com/2026/10/03/celebrity-news/zach-bryan-wears-free-palestine-shirt-during-concert-at-robert-krafts-gillette-stadium-after-macklemore-controversy/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/zach-bryan-kraft-free-palestine.jpg?quality=75&strip=all&w=1200",
       "source": "Page Six",
-      "publishedAt": "2026-10-01T23:56:00Z"
+      "publishedAt": "2026-10-03T04:41:00Z"
     },
     {
-      "title": "Eddie Murphy to Star in Peacock Drama Series ‘The Chairman’ From ‘Mad Men’ Creator Matthew Weiner - Variety",
-      "description": "Eddie Murphy is attached to star in 'The Chairman,' a drama series in development at Peacock from 'Mad Men' creator Matthew Weiner.",
-      "url": "https://variety.com/2026/tv/news/eddie-murphy-peacock-drama-matthew-weiner-1236897144/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2271983441.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-10-01T23:30:00Z"
-    },
-    {
-      "title": "A 58-Year-Old Adopted Man Just Met His Biological Father: Michael McDonald - rollingstone.com",
-      "description": "An adopted man discovered his biological father is musician Michael McDonald and the pair discussed meeting for the first time in a new interview.",
-      "url": "http://www.rollingstone.com/music/music-news/michael-mcdonald-biological-father-adopted-man-meet-1235635494/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/michael-mcdonald-adopted-son.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-10-01T21:43:38Z"
-    },
-    {
-      "title": "Your Tarot Horoscope Is Here With A Message For Friday, October 2 - YourTango",
-      "description": "The tarot horoscope for October 2, 2026 is here with a message for each zodiac sign on Friday.",
-      "url": "https://www.yourtango.com/2026401285/daily-tarot-card-reading-october-2-2026",
-      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-10/daily-tarot-horoscope-friday-october-2-2026.png",
+      "title": "Venus Retrograde Tests The Emotional Strength Of 5 Zodiac Signs Between Now & November 13, 2026 - YourTango",
+      "description": "Venus retrograde is testing the emotional strength of five zodiac signs between now and November 13, 2026. They are: Capricorn, Libra, Sagittarius, Pisces, and Leo.",
+      "url": "https://www.yourtango.com/2026401180/zodiac-signs-venus-retrograde-testing-emotional-strength-november-13-2026",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-10/zodiac-signs-venus-retrograde-testing-emotional-strength-november-13-2026.png",
       "source": "YourTango",
-      "publishedAt": "2026-10-01T21:17:38Z"
+      "publishedAt": "2026-10-03T03:03:27Z"
     },
     {
-      "title": "Chris Hansen on Primetime Ending, A24 Legal Action: They Exploited Me - Variety",
-      "description": "The film 'Primetime' depicts the show 'To Catch a Predator' and its host, Chris Hansen. But he says that nearly everything in it is untrue.",
-      "url": "https://variety.com/2026/film/features/chris-hansen-primetime-ending-a24-legal-action-1236894822/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/chris-hansen-Robert-Pattinson-Primetime.jpg?crop=0px%2C22px%2C1000px%2C562px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2026-10-01T20:26:00Z"
+      "title": "‘Digger’: Tom Cruise Film Eyes Dismal $10 Million Opening Weekend At Box Office - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/timlammers/2026/10/02/digger-tom-cruise-film-eyes-dismal-10-million-opening-weekend-at-box-office/",
+      "urlToImage": null,
+      "source": "Forbes",
+      "publishedAt": "2026-10-03T02:43:46Z"
     },
     {
-      "title": "How Netflix’s ‘East of Eden’ handled its ‘Timshel’ problem for Hebrew speakers - The Forward",
-      "description": "The word is at the heart of Steinbeck’s epic. It’s also not a real one.",
-      "url": "https://forward.com/culture/film-tv/853199/netflix-east-of-eden-timshel-meaning-hebrew-real-translation/",
-      "urlToImage": "https://forward.com/wp-content/uploads/2026/10/East_of_Eden_n_S1_E7_00_53_36_00RX-scaled.jpg?_t=1790877261",
-      "source": "Forward",
-      "publishedAt": "2026-10-01T20:06:11Z"
+      "title": "“Good Heavens”: Kathleen Turner Reacts to Michael Douglas’ Bombshell About Their Secret Romance During ‘Romancing the Stone’ - The Hollywood Reporter",
+      "description": "The two-time Oscar nominee revealed via a new excerpt from his 'One Helluva Ride' memoir that they had an affair during production on the 1984 movie.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/kathleen-turner-michael-douglas-secret-romance-romancing-stone-1236721432/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-88441849-e1790989828862.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-10-03T01:22:34Z"
     },
     {
-      "title": "'I know she's a liar': Nathan Fielder reveals more details from Elizabeth Holmes doc - SFGATE",
-      "description": "After a New York Film Festival screening of \"You Can See Everything,\" the directors explained the surreal nature of the film shoot.",
-      "url": "https://www.sfgate.com/sf-culture/article/elizabeth-holmes-documentary-details-22458375.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/40/33/31327940/3/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-10-01T20:02:35Z"
+      "title": "Your Love Horoscope Is Here For Saturday, October 3: The Planet Of Love & Money Goes Retrograde - yourtango.com",
+      "description": "Your zodiac sign's daily love horoscope is here for October 3, 2026. See how Venus retrograde affects your love life on Saturday.",
+      "url": "https://www.yourtango.com/2026401411/love-horoscope-saturday-october-3-2026",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-10/daily-love-horoscopes-saturday-october-3-2026.png",
+      "source": "YourTango",
+      "publishedAt": "2026-10-03T01:03:26Z"
     },
     {
-      "title": "'Landman' Season 3 Promotes 4 to Series Regular Status - variety.com",
-      "description": "\"Landman\" Season 3 is officially in production, with the hit Paramount+ oil industry drama promoting four cast members to series regular status.",
-      "url": "https://variety.com/2026/tv/news/landman-season-3-series-regulars-start-production-1236896271/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Landman-Season-3.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-10-01T20:00:00Z"
+      "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work. - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-03T01:00:00Z"
     },
     {
-      "title": "Bradley Cooper Will Lead Danny McBride’s ‘G.I. Joe’ Movie - Gizmodo",
-      "description": "He'll play Duke in the upcoming film, which will act to reboot the Hasbro franchise.",
-      "url": "https://gizmodo.com/bradley-cooper-will-lead-danny-mcbrides-g-i-joe-movie-2000820474",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Bradley-Cooper-A-Team-1200x675.jpg",
+      "title": "What Ken Urker Told Gypsy Rose Blanchard's Brother Dylan Blanchard Night Before Death - E! News",
+      "description": "Gypsy Rose Blanchard's half-brother Dylan Blanchard shared what Ken Urker told him and wife Anita Blanchard on the night before his death when they attended church together in Louisiana.",
+      "url": "https://www.eonline.com/news/1436710/what-ken-urker-told-gypsy-rose-blanchards-brother-dylan-before-death",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261002/6a23ebf5-64d0-4519-9a8a-dd95faa34079_1790986969.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "source": "Eonline.com",
+      "publishedAt": "2026-10-03T00:10:00Z"
+    },
+    {
+      "title": "‘Behemoth!’ Review: Pedro Pascal Plays a Wayward Cellist in Tony Gilroy’s Movingly Atonal Character Study About How People Conduct Themselves - IndieWire",
+      "description": "The \"Andor\" creator returns to the big screen with a movie that's smaller and stranger than its title would suggest.",
+      "url": "https://www.indiewire.com/criticism/movies/behemoth-movie-review-pedro-pascal-1235220030/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/10/images-7.jpeg?w=650",
+      "source": "IndieWire",
+      "publishedAt": "2026-10-03T00:06:00Z"
+    },
+    {
+      "title": "Taylor Swift Debuts Even Shorter Hair—and Revives Her Curls—to Celebrate Latest Career Milestone - instyle.com",
+      "description": "Taylor Swift showed off her shortened bob as she celebrated a career milestone following the re-release of “The Life of a Showgirl.” See her new look here.",
+      "url": "https://www.instyle.com/taylor-swift-debuts-shorter-hair-revives-curls-latest-career-milestone-12155262",
+      "urlToImage": "https://www.instyle.com/thmb/k5CD6RsBoL3_Jcqujz8sV-2x3lY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Taylor-Swift-Lead-ca6fc7ee1be14923843cadc08831320a.jpg",
+      "source": "InStyle",
+      "publishedAt": "2026-10-02T23:01:13Z"
+    },
+    {
+      "title": "'Landman' Season 3 Officially Fixes a Major Character Problem - MovieWeb",
+      "description": "After receiving minor criticism for poorly developed side characters, Landman is graduating its guest stars to series regulars in Season 3.",
+      "url": "https://movieweb.com/landman-season-3-casting-changes/",
+      "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/01/img_2026-01-19-133858.jpg?w=1600&h=900&fit=crop",
+      "source": "MovieWeb",
+      "publishedAt": "2026-10-02T23:00:17Z"
+    },
+    {
+      "title": "EXCLUSIVE: Michael McDonald’s long-lost son reveals stunning moment he discovered famous father after 58 years - Fox News",
+      "description": "A St. Louis man adopted through Catholic Charities nearly 60 years ago learned his biological father is Doobie Brothers singer Michael McDonald.",
+      "url": "https://www.foxnews.com/entertainment/michael-mcdonalds-long-lost-son-reveals-stunning-moment-discovered-famous-father-58-years",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/michael-mcdonald-son-thumbnail.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-10-02T23:00:13Z"
+    },
+    {
+      "title": "Mary Louise Weller Dies: ‘Animal House’s Mandy Pepperidge Was 79 - Deadline",
+      "description": "Mary Louise Weller, who played Mandy Pepperidge in 'Animal House' and had two dozen other film and TV credits, died October 1, a day before her 80th birthday..",
+      "url": "http://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Mary-Louise-Weller.jpg?w=1000",
+      "source": "Deadline",
+      "publishedAt": "2026-10-02T22:50:00Z"
+    },
+    {
+      "title": "Sean “Diddy” Combs Reportedly Ran Fort Dix Prison Cell Like a Luxury Suite With Paid Staff - The Hollywood Reporter",
+      "description": "Inmates were allegedly paid to clean his cell and give him massages, per NBC News, as Combs' release date keeps shifting.",
+      "url": "http://www.hollywoodreporter.com/music/music-news/sean-diddy-combs-fort-dix-prison-luxury-suite-paid-staff-1236721315/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/Sean-Combs.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-10-02T22:22:17Z"
+    },
+    {
+      "title": "Olivia Dean Song Accused of Plagiarizing Bill Withers’ “Just the Two of Us” - The Hollywood Reporter",
+      "description": "The publisher of Wither’s catalog claims that the similarities between Dean’s \"I've Seen It\" and Wither's 1981 hit are “obvious and inescapable.”",
+      "url": "http://www.hollywoodreporter.com/music/music-news/olivia-dean-song-bill-withers-just-the-two-of-us-lawsuit-1236721273/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2264089864.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-10-02T21:18:45Z"
+    },
+    {
+      "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/erikkain/2026/10/02/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+      "urlToImage": null,
+      "source": "Forbes",
+      "publishedAt": "2026-10-02T20:00:08Z"
+    },
+    {
+      "title": "WWE SmackDown Spoiler Lineup for October 2, 2026: Full Match Card and Backstage Notes Revealed - Ringside News",
+      "description": "WWE SmackDown is set to deliver an exciting night of action on October 2, 2026 with a lineup featuring thrilling matches and intense rivalries. Fans can",
+      "url": "https://www.ringsidenews.com/wwe-smackdown-spoiler-lineup-october-2-2026-full-match-card-backstage-notes-revealed/",
+      "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2026/06/wwe-smackdown-spoiler-results-highlights-and-key-moments-for-june-5-2026-16.jpg",
+      "source": "Ringside News",
+      "publishedAt": "2026-10-02T19:51:43Z"
+    },
+    {
+      "title": "DC’s James Gunn and Peter Safran Survived the Skydance Bloodbath - Gizmodo",
+      "description": "The pair will continue to run DC Studios as Paramount and Warner Bros. merge.",
+      "url": "https://gizmodo.com/dcs-james-gunn-and-peter-safran-survived-the-skydance-bloodbath-2000820959",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/James-Gunn-Peter-Safran-Superman-1200x675.jpg",
       "source": "Gizmodo.com",
-      "publishedAt": "2026-10-01T19:15:19Z"
+      "publishedAt": "2026-10-02T19:00:54Z"
+    },
+    {
+      "title": "'The Watcher' Season 2 finally kicks off at Netflix, 4 years after its renewal - USA Today",
+      "description": "Netflix's \"The Watcher\" first aired in 2022 and was renewed for a second season. It will be back with Naomi Watts and Bobby Cannavale returning.",
+      "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/02/netflix-the-watcher-season-2-production-ryan-murphy/92059433007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/10/13/USAT/9e8043f0-7c81-4c04-9d76-831bb9f0aadb-WATCHER_101_Unit_01414RC.jpeg?crop=2880,1620,x491,y346&width=2880&height=1620&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-10-02T18:13:00Z"
     }
   ]
 }

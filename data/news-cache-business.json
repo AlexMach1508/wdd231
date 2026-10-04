@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-10-03T11:33:40.936Z",
+  "updatedAt": "2026-10-04T12:14:54.289Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway - CNBC",
-      "description": "Nike's shares plummeted in premarket trading, continuing a second straight day of declines after it reported falling revenue and plans to lay off staff.",
-      "url": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368266-1790359794492-gettyimages-2279041096-img_9363.jpeg?v=1790359907&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-02T10:00:31Z"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of key jobs report as oil steadies - Yahoo Finance",
-      "description": "The Labor Department's September jobs report, oil prices, and bond yields were the key things to watch on Friday in markets.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/341a2f6c005d395e8f6451d03048ec2bc5a5ddbad907e8060f8ccb347a0efaee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F4004e7c9-570a-4238-b1a8-5ef5b9cf2b7c",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-02T10:00:21Z"
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721% - CNBC",
-      "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-02T10:00:01Z"
-    },
-    {
-      "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "url": "https://www.bbc.com/news/articles/c6y9z9r4ejzwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-10-02T08:20:32Z"
-    },
-    {
-      "title": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic - bloomberg.com",
-      "description": "Broadcom Inc.’s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1vmxDaePyhE/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-10-02T04:12:00Z"
-    },
-    {
-      "title": "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3% - Investing.com",
-      "description": "Asia stocks mixed ahead of U.S. jobs data; Hong Kong shares drop 3%",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-jobs-data-hong-kong-shares-drop-3-4928868",
-      "urlToImage": "https://content-media.investing.com/news/LYNXMPEB310J3_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-02T03:35:10Z"
-    },
-    {
-      "title": "Boeing engineers, tech workers approve contract, avoid strike - KOMO",
-      "description": "Boeing has avoided an engineering strike after more than 17,000 engineers and technical workers on Thursday approved a four-year contract offer promising wage i",
-      "url": "https://komonews.com/news/local/boeing-engineers-tech-workers-approve-contract-avoid-strike-union-employment-raise-vacation-insurance-benefits-holiday-shutdown-development-tech",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/4186/1320/0x219/90/941a1a54-238e-4bd1-af29-03cd39f9cf07-AP24254608243475.jpg",
-      "source": "KOMO News",
-      "publishedAt": "2026-10-02T02:51:03Z"
-    },
-    {
-      "title": "Paramount-WBD Deal Architect Gerry Cardinale Says Most Of $6B In Expected Cost Savings Will Not Be Layoffs - Deadline",
-      "description": "Gerry Cardinale, a key architect of Paramount's merger with Warner Bros. Discovery, insists that most of the deal's cost savings will not come from layoffs.",
-      "url": "http://deadline.com/2026/10/paramount-warner-bros-merger-layoffs-1237144978/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/david-ellison-and-gerry-cardinale.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2026-10-01T23:56:00Z"
-    },
-    {
-      "title": "Trump’s “Most EXCLUSIVE DINNER IN THE WORLD” - vox.com",
-      "description": "The latest way Trump is using crypto to profit off of the presidency.",
-      "url": "https://www.vox.com/the-logoff-newsletter-trump/504911/trump-memecoin-crypto-dinner-corruption",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296657910.jpg?quality=90&strip=all&crop=0%2C10.73734584109%2C100%2C78.525308317821&w=1200",
-      "source": "Vox",
-      "publishedAt": "2026-10-01T22:30:00Z"
-    },
-    {
-      "title": "US presses Europe to release 'immediately' diesel reserves as Trump threatens export ban - France 24",
-      "description": "The United States on Thursday urged European allies to release strategic diesel reserves immediately to curb prices driven higher by the US war on Iran. EU states will discuss a coordinated response on Friday, as Washington increases pressure following Presid…",
-      "url": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices",
-      "urlToImage": "https://s.france24.com/media/display/0321c574-b409-11f1-a939-9f514b90f153/w:1280/p:16x9/2026-09-17T093053Z-2036940640-RC2ZINAAJOGS-RTRMADP-3-EUROPE-ECONOMY-ENERGY.jpg",
-      "source": "FRANCE 24 English",
-      "publishedAt": "2026-10-01T22:08:00Z"
-    },
-    {
-      "title": "A man found $128K on top of a Bank of America ATM. Here's what he did next - USA Today",
-      "description": "A Texas man found a bag containing $128,514 on top of a Bank of America ATM on Aug. 3. Here's what he did next.",
-      "url": "https://www.usatoday.com/story/money/2026/10/01/man-returns-bag-money-found-atop-bank-of-america-atm/92042721007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/01/USAT/92042919007-getty-images-1409532651.jpg?crop=1023,576,x0,y106&width=1023&height=576&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-10-01T21:58:00Z"
-    },
-    {
-      "title": "Medicare Advantage plans shift more costs onto seniors in 2027 - STAT",
-      "description": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.",
-      "url": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_378253117-1024x576.jpeg",
-      "source": "STAT",
-      "publishedAt": "2026-10-01T21:16:31Z"
-    },
-    {
-      "title": "2027 Hyundai Tucson: An Everyday SUV With Sci-Fi Vibes - The Drive",
-      "description": "Once again, Hyundai has delivered a sequel to a common crossover that looks like it was beamed from Mars.",
-      "url": "https://www.thedrive.com/news/2027-hyundai-tucson-an-everyday-suv-with-sci-fi-vibes",
-      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/10/73035-untitled-86-copy.jpg?quality=85&w=1200",
-      "source": "The Drive",
-      "publishedAt": "2026-10-01T21:15:00Z"
-    },
-    {
-      "title": "Anthropic Targets Mega-IPO Before Thanksgiving Holiday - Bloomberg.com",
-      "description": "Anthropic PBC is seeking to go public as soon as the middle of November, according to people familiar with the matter, after the artificial intelligence model maker pushed back plans to list.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaq0YnaRbmmY/v1/1200x824.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-10-01T21:04:14Z"
-    },
-    {
-      "title": "California gives the green light to balcony solar - Electrek",
-      "description": "California's governor signed into law balcony solar, along with two other new laws aimed at lowering power bills.",
-      "url": "http://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/",
-      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/10/balconysolar-EWG.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "Electrek",
-      "publishedAt": "2026-10-01T21:04:00Z"
-    },
-    {
-      "title": "Chase launches new premium IHG card with 200,000-point welcome offer - The Points Guy",
-      "description": "Chase and IHG have launched the new $350 IHG Premier Select card. It offers a limited-time 200,000-point bonus plus premium IHG perks.",
-      "url": "https://thepointsguy.com/news/ihg-premier-select-card-launch/",
-      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/SOCIAL-IMAGE_PARTNER-OFFERS-TERMS-APPLY_woman-traveling-on-the-train-near-Matterhorn-Swiss-Alps_-Oleh_Slobodeniuk_14.jpg",
-      "source": "The Points Guy",
-      "publishedAt": "2026-10-01T21:01:18Z"
-    },
-    {
-      "title": "Ynon Kreiz, as Co-CEO of Paramount, to Receive Pay Package Worth More Than $46.5 Million - Variety",
-      "description": "Paramount revealed the pay package for Ynon Kreiz, who will lead Paramount-Warner Bros. as co-CEO alongside David Ellison.",
-      "url": "https://variety.com/2026/film/news/ynon-kreiz-co-ceo-paramount-warner-bros-pay-package-salary-1236896994/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Ynon-Kreiz.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-10-01T20:44:00Z"
-    },
-    {
-      "title": "Amazon locks in nuclear power for 20 years as energy demand surges - Fox Business",
-      "description": "Amazon's 20-year Constellation deal will support a major expansion of Maryland's Calvert Cliffs nuclear plant as U.S. electricity demand climbs.",
-      "url": "https://www.foxbusiness.com/energy/amazon-nuclear-power-constellation-calvert-cliffs-deal",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/Amazon-GettyImages-1915741110.jpg?ve=1&tl=1",
+      "title": "FDA concludes investigation into Cyclospora outbreak tied to recalled Taylor Farms iceberg lettuce - Fox Business",
+      "description": "The FDA concluded its Cyclospora outbreak investigation, finding strong evidence linking recalled iceberg lettuce from Taylor Farms de Mexico to over 12,800 cases.",
+      "url": "https://www.foxbusiness.com/lifestyle/fda-concludes-investigation-cyclospora-outbreak-tied-recalled-taylor-farms-iceberg-lettuce",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/taylor-farms-002.jpg?ve=1&tl=1",
       "source": "Fox Business",
-      "publishedAt": "2026-10-01T20:20:00Z"
+      "publishedAt": "2026-10-03T06:22:00Z"
+    },
+    {
+      "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally - apnews.com",
+      "description": "President Donald Trump is trying to rally voters in the Dayton, Ohio, area on Saturday. But days ago, 1,400 workers were laid off from a truck factory there. The November midterms are a test for the working-class coalition that lifted Trump into the White Hou…",
+      "url": "https://apnews.com/article/trump-ohio-midterms-factory-workers-7c8dc7901de15a22a909bcd9c8b78a3e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c90b94b/2147483647/strip/true/crop/5325x3548+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2Fda%2F782bfa29106ad7de0359d12bf3b4%2F14cdfd5af72a4d5e93a1e6671fb5e7d0",
+      "source": "Associated Press",
+      "publishedAt": "2026-10-03T04:02:00Z"
+    },
+    {
+      "title": "Ozempic Rival Delivers 25% Weight Loss at Highest Dose in Phase 3 Trial - ScienceAlert",
+      "description": "A flight of stairs can become a challenge for aching knees.",
+      "url": "https://www.sciencealert.com/ozempic-rival-delivers-25-weight-loss-at-highest-dose-in-phase-3-trial",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/Person-Stepping-onto-a-Weighing-Scale.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2026-10-03T01:02:30Z"
+    },
+    {
+      "title": "Philadelphia City Council becomes 1st city to officially back the Starbucks Workers United boycott - 6abc Philadelphia",
+      "description": "The union says it is no longer possible to be both a Starbucks customer and support workers.",
+      "url": "https://6abc.com/post/philadelphia-city-council-becomes-1st-officially-back-starbucks-workers-united-boycott/19900326/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19900331_100226-wpvi-phila-starbucks-5avo-video-vid.jpg?w=1600",
+      "source": "WPVI-TV",
+      "publishedAt": "2026-10-03T00:22:30Z"
+    },
+    {
+      "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider",
+      "description": "David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company, a spokesperson told Business Insider.",
+      "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10#article",
+      "urlToImage": "https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-02T23:15:00Z"
+    },
+    {
+      "title": "Scores Turn Out To Celebrate Sound Transit's First Infill Station - The Urbanist",
+      "description": "Throngs of transit fans packed onto the station plaza near I-5 and NE 130th Street Wednesday to check out the new station, which had initially been scheduled to open in 2031. Criticized for a high price tag and bad adjacent land use, Pinehurst is a catalyst f…",
+      "url": "https://www.theurbanist.org/scores-turn-out-to-celebrate-sound-transits-first-infill-station/",
+      "urlToImage": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/09/IMG_8764.JPG",
+      "source": "Theurbanist.org",
+      "publishedAt": "2026-10-02T22:21:04Z"
+    },
+    {
+      "title": "Shivon Zilis says she was 'let go' from relationship with Elon Musk - USA Today",
+      "description": "Shivon Zilis, the mother of four of Elon Musk's children, said in an Oct. 2 X post that the tech mogul ended their relationship 'with no warning.'",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/10/02/elon-musk-shivon-zilis-break-up/92058785007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/02/USAT/92061069007-getty-images-2258846110.jpg?crop=1023,576,x0,y53&width=1023&height=576&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-10-02T22:15:00Z"
+    },
+    {
+      "title": "Seagate Stock and Western Digital Tumble as Investors Worry AI Shortage Will Ease - Barron's",
+      "description": "Western Digital and Seagate’s Japanese rival Toshiba plans to double its production capacity for drives used in AI data centers in fiscal 2027, Nikkei reports.",
+      "url": "https://www.barrons.com/articles/seagate-stock-western-digital-ai-data-centers-ab47e2a8",
+      "urlToImage": "https://images.barrons.com/im-74354122/social",
+      "source": "Barron's",
+      "publishedAt": "2026-10-02T22:11:00Z"
+    },
+    {
+      "title": "'We can't trust them completely': AI research fellows warn that labs are running models with the safeguards off behind closed doors - Fortune",
+      "description": "Alan Chan and Sam Manning, co-authors with OpenAI's and Anthropic's top researchers, say that many times, \"internal safeguards have not been deployed.\"",
+      "url": "https://fortune.com/2026/10/02/we-cant-trust-them-completely-labs-safeguards/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1260011941-e1790887171834.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-10-02T22:05:00Z"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Leads Charge On Rate Hopes; Nvidia Hits Highs - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index rallies Friday after a surprise result from the U.S. jobs report. Tesla stock rises on Q3 deliveries.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-september-jobs-report-nike-earnings-tesla-deliveries/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-10-02T20:39:00Z"
+    },
+    {
+      "title": "Pool supplies retailer files for bankruptcy, to close 76 stores - Fox Business",
+      "description": "Leslie's Inc. filed for Chapter 11 bankruptcy with plans to close 76 stores and slash about $685 million in debt while remaining fully operational.",
+      "url": "https://www.foxbusiness.com/retail/pool-supplies-retailer-files-bankruptcy-closes-76-stores",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/pool-man-floats-cleaning.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-02T20:31:00Z"
+    },
+    {
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash - Ars Technica",
+      "description": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-02T20:30:27Z"
+    },
+    {
+      "title": "DOJ will not reopen criminal probe of Powell, Blanche says - Politico",
+      "description": "The statement comes after the Fed’s independent watchdog found no evidence of criminal violations in the project.",
+      "url": "https://www.politico.com/news/2026/10/02/doj-probe-jerome-powell-01105265",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F18%2Ffe%2F199c70104c62b021056b75211a3e%2Ftrump-551.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-10-02T20:23:00Z"
+    },
+    {
+      "title": "He Found $128K in Cash at ATM, Turned It In - Newser",
+      "description": "A Brinks worker in Texas apparently left it there by accident",
+      "url": "https://www.newser.com/story/397511/he-found-128k-in-cash-at-atm-turned-it-in.html",
+      "urlToImage": "https://cdn.newser.com/image/1715592-12-20261002152218.jpeg",
+      "source": "Newser",
+      "publishedAt": "2026-10-02T20:05:00Z"
+    },
+    {
+      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue - CNBC",
+      "description": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+      "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107256668-1686758919563-gettyimages-1241994183-farnborough_airshow-20-18-07-2022.jpeg?v=1686758967&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-10-02T18:54:09Z"
+    },
+    {
+      "title": "Stewart’s recalls two half-gallon ice cream flavors - NEWS10 ABC",
+      "description": "Stewart's Shops is recalling two half-gallon ice cream flavors that were sold at all Stewart's locations between July 17 and October 2. Stewart's said the Heavenly Medley and Vanilla-Chocolate-Strawberry half-gallons could potentially have metal in them.",
+      "url": "https://www.news10.com/news/local-news/stewarts-recalls-two-half-gallon-ice-cream-flavors/",
+      "urlToImage": "https://www.news10.com/wp-content/uploads/sites/64/2026/10/Untitled-design.png?w=1280",
+      "source": "NEWS10 ABC",
+      "publishedAt": "2026-10-02T18:53:18Z"
+    },
+    {
+      "title": "Chip City abruptly closes all locations, including NYC stores, citing ‘macro-economic headwinds’ for closure - amNewYork",
+      "description": "Chip City, the popular cookie chain founded in Astoria nine years ago, abruptly shuttered all 24 locations Thursday evening, informing staff in an email that",
+      "url": "http://www.amny.com/business-finance/chip-city-abruptly-closes-all-locations-nyc-stores/",
+      "urlToImage": "https://www.amny.com/wp-content/uploads/2026/10/IMG_6256.jpeg?quality=51&w=1200&p=q",
+      "source": "amNY",
+      "publishedAt": "2026-10-02T18:42:31Z"
+    },
+    {
+      "title": "SDG&E begins power shutoffs amid extreme heat, Santa Ana winds - fox5sandiego.com",
+      "description": "SAN DIEGO (FOX 5/KUSI) — San Diego Gas & Electric has begun shutting off power in some communities as extreme heat and Santa Ana winds create dangerous wildfire conditions across the region. In an announcement Friday morning, the utility company said it has i…",
+      "url": "https://fox5sandiego.com/news/local-news/sdge-began-power-shutoffs/",
+      "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2018/04/useruploadedimage7.jpg?w=1280",
+      "source": "fox5sandiego.com",
+      "publishedAt": "2026-10-02T18:22:05Z"
+    },
+    {
+      "title": "Inflation has been eating up wage gains for months. September was no different. - Yahoo Finance",
+      "description": "Average hourly earnings rose an anemic 0.1% from August and are up 3% year over year. That's against a backdrop of 3.4% inflation.",
+      "url": "https://finance.yahoo.com/economy/article/inflation-has-been-eating-up-wage-gains-for-months-september-was-no-different-180727718.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b12d0d91816669d01eb3b36dd588cc69c9d14d352991ddb6a6c48259a807157a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F736c3929-b369-4da2-9537-0206571b3a50",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-02T18:07:27Z"
+    },
+    {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner - The Verge",
+      "description": "Dot is ChatGPT’s new consumer AI agent that’s aimed for business use cases — but can help with life stuff, too.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-10-02T18:00:00Z"
     }
   ]
 }
