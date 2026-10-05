@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-10-04T12:14:54.203Z",
+  "updatedAt": "2026-10-05T14:25:58.875Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
-      "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
-      "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-10-03T01:33:00Z"
+      "title": "Three 'Day One' Xbox Game Pass Titles Are Confirmed For The Next Few Days (October 6-8) - Pure Xbox",
+      "description": "With potentially more to come",
+      "url": "https://www.purexbox.com/news/2026/10/three-day-one-xbox-game-pass-titles-are-confirmed-for-the-next-few-days-october-6-8",
+      "urlToImage": "https://images.purexbox.com/29d86cf93f8d9/1280x720.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-10-04T11:00:00Z"
     },
     {
-      "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
-      "description": "But the race isn't over yet...",
-      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
-      "urlToImage": "https://images.nintendolife.com/cc53314210756/1280x720.jpg",
+      "title": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2 - Nintendo Life",
+      "description": "\"easy to recommend\"",
+      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
+      "urlToImage": "https://images.nintendolife.com/d7c190aa5d3ae/1280x720.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2026-10-03T00:30:00Z"
+      "publishedAt": "2026-10-04T10:30:00Z"
     },
     {
-      "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag",
-      "description": "This week's iOS update is intended to prevent this from happening to other phones. If your iPhone 18 Max Pro has already lost service, you'll need to return it for a new one.",
-      "url": "https://www.pcmag.com/news/apple-confirms-att-iphone-18-pro-max-problems-you-might-need-new-phone",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/06h6NJK0d4qbfsrUHWcCPVN-1.fit_lim.size_1200x630.v1790931853.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2026-10-02T23:59:18Z"
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
-      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-02T23:03:16Z"
-    },
-    {
-      "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
-      "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video.",
-      "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-10-02T23:00:33Z"
-    },
-    {
-      "title": "Miami Heat to play as Vice City from Grand Theft Auto VI for single game, with new court and uniforms - Yahoo Sports",
-      "description": "This will also happen to be Giannis Antetokounmpo's first game against his old team, the Milwaukee Bucks.",
-      "url": "https://sports.yahoo.com/nba/article/miami-heat-to-play-as-vice-city-from-grand-theft-auto-vi-for-single-game-with-new-court-and-uniforms-212134941.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/65f42886932f0349067916cb8ae0e8b2b233040459f945a28f87100438c5d37f/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F68623ccf-c69b-452e-aaf2-58c7b96380cb",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-02T21:21:34Z"
-    },
-    {
-      "title": "Can it run Doom: SQL database edition - Ars Technica",
-      "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-02T21:19:05Z"
-    },
-    {
-      "title": "End of Abyss Review: Samus-Inspired Survival Success - Game Informer",
-      "description": "End of Abyss (PlayStation 5) Review – 8/10: Despite the glitches, I loved snooping through the cold, industrial hallways of End of Abyss. - Game Informer",
-      "url": "https://gameinformer.com/review/end-of-abyss/samus-inspired-survival-success",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/05/05/ef760bfa/378_endofabyss03.jpg.webp",
-      "source": "Gameinformer.com",
-      "publishedAt": "2026-10-02T21:13:00Z"
-    },
-    {
-      "title": "Vibe-Coded Mashup Mods Have Taken Over X This Week - IGN",
-      "description": "I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Claude, and mashing them up with other games. As the week has gone on, there have only been more clip…",
-      "url": "https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/02/vibecodedmods-explainer-blogroll-1790975025611.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-10-02T21:09:28Z"
-    },
-    {
-      "title": "Only one browser has this really helpful search tool - The Washington Post",
-      "description": "This is great for experimentation with a different search site, keeping a particular search out of your history at your usual site, or giving yourself a break from AI-first answers.",
-      "url": "https://www.washingtonpost.com/technology/2026/10/02/search-without-ai-or-your-browser-history-with-mozilla-firefox/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6C3RGY6E6EMA3MRLAOQEMRPQU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-02T21:00:00Z"
-    },
-    {
-      "title": "‘HomePad’ coming: Will Apple hold an October special event? - 9to5Mac",
-      "description": "With Apple reportedly planning to unveil new products on October 13, here’s when the company could announce an event, based on the timing of its previous October announcements.",
-      "url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-chairs.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-10-02T20:31:00Z"
-    },
-    {
-      "title": "Android malware can steal your PIN and bank logins - Fox News",
-      "description": "RatHat Android malware uses AI to steal banking credentials, intercept two-factor authentication codes and reconstruct your PIN from touch inputs.",
-      "url": "https://www.foxnews.com/tech/android-malware-steal-pin-bank-logins",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/android-motion-sickness-2.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-02T19:00:23Z"
-    },
-    {
-      "title": "Nvidia Is Killing Its Beloved Base Shield TV - gizmodo.com",
-      "description": "It’s hard not to see this as a symbol for Nvidia’s turn away from its gaming roots.",
-      "url": "https://gizmodo.com/nvidia-shield-tv-discontinued-2000820944",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Nvidia-Shield-TV-Box-and-Remote-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-10-02T18:25:01Z"
-    },
-    {
-      "title": "The Xbox Cloud Gaming Controller Is Not Dead, Apparently - GameSpot",
-      "description": "Microsoft is apparently going to release a new Xbox controller specifically for cloud gaming.",
-      "url": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxcloudgaming-Large.jpeg",
-      "source": "GameSpot",
-      "publishedAt": "2026-10-02T18:20:31Z"
-    },
-    {
-      "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated] - 9to5Mac",
-      "description": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive....",
-      "url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-10-02T18:15:00Z"
-    },
-    {
-      "title": "ASUS ROG Edition 20 - Celebrating 20 years of Republic of Gamers - TechPowerUp",
-      "description": "ASUS is celebrating 20 years, with its \"Edition 20\" products that are pure enthusiast excess in the best possible way, including a custom AMD Ryzen X870E board & AIO, GeForce RTX 5090, 3000 W PSU, open-frame case and pairing it with a high-end OLED into one b…",
-      "url": "https://www.techpowerup.com/review/asus-rog-20th-anniversary-build/",
-      "urlToImage": "https://www.techpowerup.com/review/asus-rog-20th-anniversary-build/images/title.jpg",
+      "title": "Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine - TechPowerUp",
+      "description": "Jagex has announced a fourth RuneScape MMO at RuneFest 2026. It currently goes by the working title RS4, though most people are already calling it RuneScape 4. The game is being built in Unreal Engine, and Jagex hasn't said which version. It's the first numbe…",
+      "url": "https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine",
+      "urlToImage": "https://www.techpowerup.com/img/wxjJUoXsPqiUdLQy.jpg",
       "source": "Techpowerup.com",
-      "publishedAt": "2026-10-02T18:00:01Z"
+      "publishedAt": "2026-10-04T00:52:53Z"
     },
     {
-      "title": "Your questions answered from The Big Autumn Preview - Warhammer Community",
-      "description": "You asked about paint, Adeptus Custodes, Tomb Kings of Khemri, and more.",
-      "url": "https://www.warhammer-community.com/articles/ezaznq06/your-questions-answered-from-the-big-autumn-preview",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bigautumnq&a-oct02-2-share-syn7fyibno.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-10-02T17:54:31Z"
+      "title": "Motorola's wide foldable could be my next phone if the price is right - Android Police",
+      "description": "A wide screen I can pocket matters more than a bigger one",
+      "url": "https://www.androidpolice.com/motorolas-wide-foldable-could-be-my-next-phone-if-price-is-right/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/motorola-razr-flex-shown-partially-unfolded.png?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-10-03T22:00:10Z"
     },
     {
-      "title": "Apple Watch Series 12 In-Depth Review: Worth Upgrading? - DC Rainmaker",
-      "description": "Is the Apple Watch Ultra 12 worth the ugprade from an existing Apple Watch model? I dive into see where it makes the most sense.",
-      "url": "https://www.dcrainmaker.com/2026/10/apple-watch-series12-in-depth-review-worth-upgrade.html",
-      "urlToImage": "https://media.dcrainmaker.com/images/2026/10/AppleWatchSeries12YT.jpg",
-      "source": "DC Rainmaker",
-      "publishedAt": "2026-10-02T17:13:16Z"
+      "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament - Kotaku",
+      "description": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal",
+      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-10-03T21:26:58Z"
     },
     {
-      "title": "7 iOS 27 features that make old iPhones exciting again (no Apple Intelligence needed) - ZDNET",
-      "description": "Do you own an older iPhone that doesn’t support Siri AI or Apple Intelligence? Upgrading to iOS 27 is still worth the effort. Here are seven reasons why.",
-      "url": "https://www.zdnet.com/tech/ios-27-features-older-iphones/",
-      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-No-Apple-Intelligence-no-problem-7-iOS-27-features-worth-the-upgrade.jpg",
-      "source": "ZDNet",
-      "publishedAt": "2026-10-02T16:56:36Z"
+      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think - 9to5Google",
+      "description": "Following the compute-based usage change in May, Google is introducing limits on what Gemini models free and AI Plus users can access.",
+      "url": "http://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5google.com",
+      "publishedAt": "2026-10-03T20:57:00Z"
     },
     {
-      "title": "Nacon’s new PS5 controller can mix audio from your phone and console - The Verge",
-      "description": "The Nacon Revolution 5 Unlimited brings an asymmetrical TMR thumbstick design to the PS5 with a built-in screen for customizing the controller’s functionality.",
-      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-10-02T16:35:13Z"
+      "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity - IGN",
+      "description": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
+      "url": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/01/btfiuoeldu6mkzuez7e008xhvd1icgg-jcb-u5aiuoy-1790813782471.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-10-03T19:46:08Z"
+    },
+    {
+      "title": "6 One UI 9 features you should immediately try out - Android Police",
+      "description": "The One UI 9 features worth trying first",
+      "url": "https://www.androidpolice.com/one-ui-9-features-you-should-try/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/one-ui-9-s26-ultra-hero.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2026-10-03T19:00:10Z"
+    },
+    {
+      "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12 - 9to5Mac",
+      "description": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series...",
+      "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5Mac",
+      "publishedAt": "2026-10-03T18:48:00Z"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Director Says It Was 'Absolutely Essential' Not To Turn The Remake Into 'My Own Personal Fan Project' - Kotaku",
+      "description": "Balancing new content with staying faithful to the legacy of the original is never easy",
+      "url": "https://kotaku.com/final-fantasy-vii-revelation-director-says-it-was-absolutely-essential-not-to-turn-the-remake-into-my-own-personal-fan-project-2000739591",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/cloud-1.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-10-03T18:15:04Z"
+    },
+    {
+      "title": "Microsoft adds alternate way to download and install Windows 11 26H2 easily - Neowin",
+      "description": null,
+      "url": "https://www.neowin.net/news/microsoft-adds-alternate-way-to-download-and-install-windows-11-26h2-easily/",
+      "urlToImage": null,
+      "source": "Neowin",
+      "publishedAt": "2026-10-03T17:16:00Z"
+    },
+    {
+      "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: here's how two of the best phones of 2026 compare - TechRadar",
+      "description": "We compare the key specs and features of the iPhone 18 Pro Max and Samsung Galaxy S26 Ultra to help you decide which is right for you.",
+      "url": "https://www.techradar.com/phones/samsung-galaxy-phones/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jqWfie64c57GdtqLEGhv9c-1920-80.jpg",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-03T17:00:00Z"
+    },
+    {
+      "title": "6 Old-School Pony Cars That Aren't The Ford Mustang - Jalopnik",
+      "description": "Besides the Mustang, pony cars of the 1970s inclued the Mercury Cougar, Plymouth Barracuda / 'Cuda, Dodge Challenger, Chevy Camaro, and AMC Javelin.",
+      "url": "https://www.jalopnik.com/2273229/old-school-pony-cars-that-arent-ford-mustang/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/6-old-school-pony-cars-that-arent-the-ford-mustang/l-intro-1790779448.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-10-03T16:45:00Z"
+    },
+    {
+      "title": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026? - pushsquare.com",
+      "description": "Plus or minus?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
+      "urlToImage": "https://images.pushsquare.com/3ac5bdb09dcdb/1280x720.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-10-03T16:00:00Z"
+    },
+    {
+      "title": "5 Classic Nintendo 64 Games That Still Hold Up Today - svg.com",
+      "description": "The Nintendo 64 was a literal gamechanger, and even though some of these games are around 30 years old now, they still hold up today.",
+      "url": "https://www.svg.com/2270415/classic-nintendo-64-games-hold-up-today/",
+      "urlToImage": "https://www.svg.com/img/gallery/5-classic-nintendo-64-games-that-still-hold-up-today/l-intro-1790364510.jpg",
+      "source": "SVG",
+      "publishedAt": "2026-10-03T16:00:00Z"
+    },
+    {
+      "title": "‘GTA 6’ Rated PEGI 18 For Decapitation, Sex Scenes And Cocaine - forbes.com",
+      "description": "Grand Theft Auto always pushes the envelope when it comes to adult content, but GTA 6 is going an extra mile, according to its PEGI 18 rating.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/10/03/gta-6-rated-pegi-18-for-decapitation-sex-scenes-and-cocaine/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ac1224ebb5a0c39790263e7/0x0.jpg?format=jpg&crop=2000,1124,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-10-03T15:53:09Z"
+    },
+    {
+      "title": "Apple MacBook Pro Release Schedule: What To Expect When - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/ewanspence/2026/10/03/apple-macbook-pro-m6-macbook-pro-oled-macbook-neo-release-date/",
+      "urlToImage": null,
+      "source": "Forbes",
+      "publishedAt": "2026-10-03T15:40:04Z"
+    },
+    {
+      "title": "I’ve tested TVs and tracked Prime Day deals for 11 years. Here are the 10 best early sales - CNN",
+      "description": "Our tech reviewer and TV tester has picked his favorite TV, soundbar and streaming device sales that arrived early for this year’s October Prime Day.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-10-03",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/best-tvs-best-tested-cnnu-fire-tv-omni-qled-05.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-10-03T15:00:00Z"
+    },
+    {
+      "title": "iPhone 18 Pro Max users on AT&T: Take these steps to save your service - Mashable",
+      "description": "If you still have service, update ASAP.",
+      "url": "https://mashable.com/tech/apple-replacing-iphone-18-pro-max-cell-service-issues",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/031cKZ2YPNfUndUMBTLb3sN/hero-image.fill.size_1200x675.v1791037084.jpg",
+      "source": "Mashable",
+      "publishedAt": "2026-10-03T14:24:17Z"
     }
   ]
 }
