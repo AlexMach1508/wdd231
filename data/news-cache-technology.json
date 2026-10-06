@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-10-05T14:25:58.875Z",
+  "updatedAt": "2026-10-06T13:13:21.805Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Three 'Day One' Xbox Game Pass Titles Are Confirmed For The Next Few Days (October 6-8) - Pure Xbox",
-      "description": "With potentially more to come",
-      "url": "https://www.purexbox.com/news/2026/10/three-day-one-xbox-game-pass-titles-are-confirmed-for-the-next-few-days-october-6-8",
-      "urlToImage": "https://images.purexbox.com/29d86cf93f8d9/1280x720.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2026-10-04T11:00:00Z"
+      "title": "Stages SB200 Indoor Smartbike In-Depth Review: Redemption? - DC Rainmaker",
+      "description": "In this review I cover whether the SB200 is a worthwhile upgrade over the existing SB20, as well as everything you need to know from ride feel to accuracy.",
+      "url": "https://www.dcrainmaker.com/2026/10/stages-bike-sb200-in-depth-review.html",
+      "urlToImage": "https://media.dcrainmaker.com/images/2026/10/DSC08006-1-scaled.jpg",
+      "source": "DC Rainmaker",
+      "publishedAt": "2026-10-05T14:37:30Z"
     },
     {
-      "title": "\"A Colossal Upgrade\" - Digital Foundry Delivers Its Tech Verdict For The Witcher 3 Remastered On Switch 2 - Nintendo Life",
-      "description": "\"easy to recommend\"",
-      "url": "https://www.nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
-      "urlToImage": "https://images.nintendolife.com/d7c190aa5d3ae/1280x720.jpg",
+      "title": "Mac Users Reclaim 12GB+ of Storage With Apple Intelligence Removal Tool - MacRumors",
+      "description": "A new open-source tool is making waves in the Mac community by helping users reclaim valuable storage space taken up by Apple's AI models. Called...",
+      "url": "https://www.macrumors.com/2026/10/05/apple-intelligence-removal-tool-frees-mac-storage/",
+      "urlToImage": "https://images.macrumors.com/t/bDSnDh5rJkwhN6iKwOzp-X_CeWo=/2500x/article-new/2025/08/Apple-Intelligence-Comes-Under-Fire-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-05T14:14:38Z"
+    },
+    {
+      "title": "Mini Review: KINGDOM HEARTS -HD 1.5+2.5 ReMIX- (Switch 2) - Nintendo Life",
+      "description": null,
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kingdom-hearts-hd-1-5plus2-5-remix",
+      "urlToImage": null,
       "source": "Nintendo Life",
-      "publishedAt": "2026-10-04T10:30:00Z"
+      "publishedAt": "2026-10-05T13:37:50Z"
     },
     {
-      "title": "Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine - TechPowerUp",
-      "description": "Jagex has announced a fourth RuneScape MMO at RuneFest 2026. It currently goes by the working title RS4, though most people are already calling it RuneScape 4. The game is being built in Unreal Engine, and Jagex hasn't said which version. It's the first numbe…",
-      "url": "https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine",
-      "urlToImage": "https://www.techpowerup.com/img/wxjJUoXsPqiUdLQy.jpg",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-10-04T00:52:53Z"
+      "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo - The Verge",
+      "description": "More phones should have matte displays like the TCL P80 Ultra Nxtpaper.",
+      "url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tcl-p80-ultra-review-09.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-10-05T12:02:41Z"
     },
     {
-      "title": "Motorola's wide foldable could be my next phone if the price is right - Android Police",
-      "description": "A wide screen I can pocket matters more than a bigger one",
-      "url": "https://www.androidpolice.com/motorolas-wide-foldable-could-be-my-next-phone-if-price-is-right/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/motorola-razr-flex-shown-partially-unfolded.png?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2026-10-03T22:00:10Z"
-    },
-    {
-      "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament - Kotaku",
-      "description": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal",
-      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-10-03T21:26:58Z"
-    },
-    {
-      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think - 9to5Google",
-      "description": "Following the compute-based usage change in May, Google is introducing limits on what Gemini models free and AI Plus users can access.",
-      "url": "http://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5google.com",
-      "publishedAt": "2026-10-03T20:57:00Z"
-    },
-    {
-      "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity - IGN",
-      "description": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
-      "url": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/01/btfiuoeldu6mkzuez7e008xhvd1icgg-jcb-u5aiuoy-1790813782471.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "Best Buy’s Techtober Sale Challenges Prime Day with Major Video Game Deals and No Membership Fees - IGN",
+      "description": "Best Buy's Techtober sale is now live, rivalling Amazon Prime Day with savings on new PS5 game releases, Xbox hardware bundles, and plenty more.",
+      "url": "https://www.ign.com/articles/best-buy-techtober-sale-deals-prime-day-2026",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/05/best-buy-techtober-sale-ign-1791198612326.png?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-10-03T19:46:08Z"
+      "publishedAt": "2026-10-05T11:14:25Z"
     },
     {
-      "title": "6 One UI 9 features you should immediately try out - Android Police",
-      "description": "The One UI 9 features worth trying first",
-      "url": "https://www.androidpolice.com/one-ui-9-features-you-should-try/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/one-ui-9-s26-ultra-hero.jpg?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2026-10-03T19:00:10Z"
+      "title": "Nintendo has renewed some classic game trademarks - mynintendonews.com",
+      "description": "Nintendo has recently refreshed some trademarks for some of its older titles as it naturally does from time to time. It doesn’t mean that new entries are currently in the works, though that would be…",
+      "url": "https://mynintendonews.com/2026/10/05/nintendo-has-renewed-some-classic-game-trademarks/",
+      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/05/nintendo_logo_3.jpg?fit=1920%2C1080&ssl=1",
+      "source": "My Nintendo News",
+      "publishedAt": "2026-10-05T11:02:51Z"
     },
     {
-      "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12 - 9to5Mac",
-      "description": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series...",
-      "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-10-03T18:48:00Z"
+      "title": "Ace Combat 8 is far and away the series' biggest launch on Steam - Eurogamer.net",
+      "description": "Despite releasing in a busy period, Ace Combat 8: Wings of Theve has already set new records for the flight action series.",
+      "url": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
+      "urlToImage": "https://assetsio.gnwcdn.com/ace-combat-8-online-lobby-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-10-05T11:02:40Z"
     },
     {
-      "title": "Final Fantasy 7 Revelation Director Says It Was 'Absolutely Essential' Not To Turn The Remake Into 'My Own Personal Fan Project' - Kotaku",
-      "description": "Balancing new content with staying faithful to the legacy of the original is never easy",
-      "url": "https://kotaku.com/final-fantasy-vii-revelation-director-says-it-was-absolutely-essential-not-to-turn-the-remake-into-my-own-personal-fan-project-2000739591",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/09/cloud-1.jpg",
+      "title": "Google admits not every Android app runs great on Intel Googlebooks - The Verge",
+      "description": "‘A small handful’ of apps apparently need some ‘developer tuning.’",
+      "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Asus_Googlebook_14_ADiBenedetto_0006_0b94ab.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-10-05T10:58:22Z"
+    },
+    {
+      "title": "Apple and a Hacker’s Future - Stratechery by Ben Thompson",
+      "description": "I was happy for years in Apple’s walled garden; with AI, however, their protections feel like limitations.",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "urlToImage": "https://stratechery.com/wp-content/uploads/2026/10/apple-hacker-5.png",
+      "source": "Stratechery.com",
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "title": "Free-To-Play RPG 'The New Denpa Men' Is Ending Service Later This Year - Nintendo Life",
+      "description": "Denparessing",
+      "url": "https://www.nintendolife.com/news/2026/10/free-to-play-rpg-the-new-denpa-men-is-ending-service-later-this-year",
+      "urlToImage": "https://images.nintendolife.com/51d718301000c/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-10-05T09:30:00Z"
+    },
+    {
+      "title": "UK Charts: Metroid Prime 4: Beyond Climbs Back Into The Top 10 - Nintendo Life",
+      "description": "While Xenoblade Chronicles 2: NS2 Edition makes its debut",
+      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-metroid-prime-4-beyond-climbs-back-into-the-top-10",
+      "urlToImage": "https://images.nintendolife.com/16d3654b0b7ea/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-10-05T08:45:00Z"
+    },
+    {
+      "title": "'The Details Could Be Terrifying' — Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research - ign.com",
+      "description": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
+      "url": "https://www.ign.com/articles/gta-6-research-gang-members",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-10-05T08:29:06Z"
+    },
+    {
+      "title": "Arc Raiders is getting a free trial to celebrate its biggest update yet - Eurogamer.net",
+      "description": "Very soon, anyone who wants to play Arc Raiders without paying for it can do so for four days.",
+      "url": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail",
+      "urlToImage": "https://assetsio.gnwcdn.com/Arc-Raiders-deluxe-set.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-10-05T08:21:21Z"
+    },
+    {
+      "title": "Google Pixels could get an all-new way to customize lock screens, for better or for worse - Android Authority",
+      "description": "We've dug into the Wallpaper & Style app in the latest Android 17 beta, and discovered a brand-new way to customize your lock screen.",
+      "url": "https://www.androidauthority.com/google-wallpaper-style-app-lock-screen-customization-teardown-3718877/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-lock-screen-face-unlock-scaled.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2026-10-05T07:30:00Z"
+    },
+    {
+      "title": "Registered Players Of Rare Cookie's Bustle Invited To Secret Party - Kotaku",
+      "description": "After being freed from a patent troll earlier this year, the infamous '90s adventure game Cookie's Bustle is renewing the enigma that is itself",
+      "url": "https://kotaku.com/players-who-registered-rare-japanese-pc-game-invited-to-secret-party-over-25-years-later-2000739658",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/03/cookie-1200x675.jpg",
       "source": "Kotaku",
-      "publishedAt": "2026-10-03T18:15:04Z"
+      "publishedAt": "2026-10-05T02:59:23Z"
     },
     {
-      "title": "Microsoft adds alternate way to download and install Windows 11 26H2 easily - Neowin",
+      "title": "Honor Magic 9 series global launch scheduled for January 2027 - Huawei Central",
       "description": null,
-      "url": "https://www.neowin.net/news/microsoft-adds-alternate-way-to-download-and-install-windows-11-26h2-easily/",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-global-launch-scheduled-for-january-2027/",
       "urlToImage": null,
-      "source": "Neowin",
-      "publishedAt": "2026-10-03T17:16:00Z"
+      "source": "Huaweicentral.com",
+      "publishedAt": "2026-10-05T02:40:16Z"
     },
     {
-      "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: here's how two of the best phones of 2026 compare - TechRadar",
-      "description": "We compare the key specs and features of the iPhone 18 Pro Max and Samsung Galaxy S26 Ultra to help you decide which is right for you.",
-      "url": "https://www.techradar.com/phones/samsung-galaxy-phones/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jqWfie64c57GdtqLEGhv9c-1920-80.jpg",
-      "source": "TechRadar",
-      "publishedAt": "2026-10-03T17:00:00Z"
+      "title": "Apple Hiring 'iCup' Specialist - MacRumors",
+      "description": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have...",
+      "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
+      "urlToImage": "https://images.macrumors.com/t/6xrvEOM_TcerNOi3ln5u4hht7Zc=/1800x/article-new/2026/01/wwdc-sans-text-feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-05T02:11:00Z"
     },
     {
-      "title": "6 Old-School Pony Cars That Aren't The Ford Mustang - Jalopnik",
-      "description": "Besides the Mustang, pony cars of the 1970s inclued the Mercury Cougar, Plymouth Barracuda / 'Cuda, Dodge Challenger, Chevy Camaro, and AMC Javelin.",
-      "url": "https://www.jalopnik.com/2273229/old-school-pony-cars-that-arent-ford-mustang/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/6-old-school-pony-cars-that-arent-the-ford-mustang/l-intro-1790779448.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-10-03T16:45:00Z"
+      "title": "Orion browser for Linux axed months after beta launch - OMG! Ubuntu",
+      "description": "Kagi has announced that it is ending the development of the Orion web browser for Linux. The native GTK port of Orion for Linux was announced in 2025 and",
+      "url": "https://www.omgubuntu.co.uk/2026/10/orion-linux-browser-development-ended",
+      "urlToImage": "https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/kagi-orion-beta-linux.webp",
+      "source": "Omgubuntu.co.uk",
+      "publishedAt": "2026-10-05T02:04:43Z"
     },
     {
-      "title": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026? - pushsquare.com",
-      "description": "Plus or minus?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
-      "urlToImage": "https://images.pushsquare.com/3ac5bdb09dcdb/1280x720.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-10-03T16:00:00Z"
+      "title": "Today's NYT Strands Hints (and Answer) for Sunday, October 4, 2026 - Lifehacker",
+      "description": "Here are some hints to help you win NYT Strands #945.",
+      "url": "https://lifehacker.com/entertainment/strands-nyt-hint-today-grab-your-tokens-october-4-2026",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01M3WY47KM7A6A67N4F2YAT4XJ/hero-image.fill.size_1200x675.jpg",
+      "source": "Lifehacker.com",
+      "publishedAt": "2026-10-05T01:45:34Z"
     },
     {
-      "title": "5 Classic Nintendo 64 Games That Still Hold Up Today - svg.com",
-      "description": "The Nintendo 64 was a literal gamechanger, and even though some of these games are around 30 years old now, they still hold up today.",
-      "url": "https://www.svg.com/2270415/classic-nintendo-64-games-hold-up-today/",
-      "urlToImage": "https://www.svg.com/img/gallery/5-classic-nintendo-64-games-that-still-hold-up-today/l-intro-1790364510.jpg",
-      "source": "SVG",
-      "publishedAt": "2026-10-03T16:00:00Z"
-    },
-    {
-      "title": "‘GTA 6’ Rated PEGI 18 For Decapitation, Sex Scenes And Cocaine - forbes.com",
-      "description": "Grand Theft Auto always pushes the envelope when it comes to adult content, but GTA 6 is going an extra mile, according to its PEGI 18 rating.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/10/03/gta-6-rated-pegi-18-for-decapitation-sex-scenes-and-cocaine/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ac1224ebb5a0c39790263e7/0x0.jpg?format=jpg&crop=2000,1124,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2026-10-03T15:53:09Z"
-    },
-    {
-      "title": "Apple MacBook Pro Release Schedule: What To Expect When - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/ewanspence/2026/10/03/apple-macbook-pro-m6-macbook-pro-oled-macbook-neo-release-date/",
-      "urlToImage": null,
-      "source": "Forbes",
-      "publishedAt": "2026-10-03T15:40:04Z"
-    },
-    {
-      "title": "I’ve tested TVs and tracked Prime Day deals for 11 years. Here are the 10 best early sales - CNN",
-      "description": "Our tech reviewer and TV tester has picked his favorite TV, soundbar and streaming device sales that arrived early for this year’s October Prime Day.",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-10-03",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/best-tvs-best-tested-cnnu-fire-tv-omni-qled-05.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-10-03T15:00:00Z"
-    },
-    {
-      "title": "iPhone 18 Pro Max users on AT&T: Take these steps to save your service - Mashable",
-      "description": "If you still have service, update ASAP.",
-      "url": "https://mashable.com/tech/apple-replacing-iphone-18-pro-max-cell-service-issues",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/031cKZ2YPNfUndUMBTLb3sN/hero-image.fill.size_1200x675.v1791037084.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-10-03T14:24:17Z"
+      "title": "Report: Assassin’s Creed Hexe Exclusive Character, Story Details Surface - MP1st",
+      "description": "Unearthed Assassin's Creed Hexe descriptions reveal character roster details, story lore, and locations expected to appear in the game.",
+      "url": "https://mp1st.com/news/assassins-creed-hexe-exclusive-character-story-details-surface",
+      "urlToImage": "https://mp1st.com/wp-content/uploads/2026/10/achx24c0aa398r-600x338.png",
+      "source": "http://mp1st.com/category/news",
+      "publishedAt": "2026-10-05T01:45:14Z"
     }
   ]
 }
