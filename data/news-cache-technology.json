@@ -1,151 +1,167 @@
 {
-  "updatedAt": "2026-10-08T13:19:06.326Z",
+  "updatedAt": "2026-10-09T13:06:49.215Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Resident Evil Requiem's Writer Reveals What The Upcoming DLC Might Be About - Nintendo Life",
-      "description": "Well, part of it at least",
-      "url": "https://www.nintendolife.com/news/2026/10/resident-evil-requiems-writer-reveals-what-the-upcoming-dlc-might-be-about",
-      "urlToImage": "https://images.nintendolife.com/b20027412ccec/1280x720.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-10-07T11:15:00Z"
-    },
-    {
-      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC - Eurogamer.net",
-      "description": "Xbox Cloud will not, in fact, be the only way to stream GTA 6 come November.",
-      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-      "urlToImage": "https://assetsio.gnwcdn.com/gta-6-ultimate-edition-car-collection-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-10-07T08:31:39Z"
-    },
-    {
-      "title": "Pokémon FireRed Version and Pokémon LeafGreen Version Now Link with Pokémon HOME - Pokemon.com",
-      "description": "Pokémon FireRed Version and Pokémon LeafGreen Version for the Nintendo Switch can now link with Pokémon HOME.",
-      "url": "https://www.pokemon.com/us/news/pokemon-firered-version-and-pokemon-leafgreen-version-now-link-with-pokemon-home",
-      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-home/2026/10/06/pokemon-home-169-en.png",
-      "source": "Pokemon.com",
-      "publishedAt": "2026-10-07T08:12:46Z"
-    },
-    {
-      "title": "Konami Announces The Composer For Castlevania: Belmont's Curse - Nintendo Life",
-      "description": "From the talent behind the Rogue Prince of Persia soundtrack",
-      "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
-      "urlToImage": "https://images.nintendolife.com/bfb5e961aa3d4/1280x720.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-10-07T02:15:00Z"
-    },
-    {
-      "title": "Today's biggest TV deal? $2,000 off a 100-inch Hisense TV (yes, really) - USA Today",
-      "description": "Prime Big Deal Days brings major savings on Hisense U7SG MiniLED TVs, with discounts ranging from $650 to $2,000 off. Shop every size from 55 inches to 100 inches.",
-      "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/hisense-amazon-prime-day-tv-deals/92013372007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92013807007-hisensehero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-10-07T01:21:00Z"
-    },
-    {
-      "title": "Prime Day Mac deals: New Mac mini $150 off, MacBook Air $200 off, much more - 9to5Mac",
-      "description": "Update, October 6, 5:09 p.m. PT: Amazon has slashed prices of the new Mac mini even lower as the Prime...",
-      "url": "https://9to5mac.com/2026/10/06/prime-day-mac-deals-start-early-new-mac-mini-150-off-macbook-air-200-off-much-more/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Prime-Day-fall-Mac-mini-MacBook-deals.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-10-07T00:15:00Z"
-    },
-    {
-      "title": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience - Nintendo Life",
-      "description": "A \"new permanent Nintendo space\" arrives later this month",
-      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
-      "urlToImage": "https://images.nintendolife.com/db55544976701/1280x720.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-10-07T00:15:00Z"
-    },
-    {
-      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' - BBC",
-      "description": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
-      "url": "https://www.bbc.com/news/articles/cj3vqxldglepo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-10-06T23:01:22Z"
-    },
-    {
-      "title": "iFixit tears down Apple Watch Series 12 and Ultra 4, finds mixed repairability results - 9to5Mac",
-      "description": "Concluding iFixit’s teardown sequence for Apple’s September launches, iFixit today published the teardown of the new Apple Watch Series 12 and Ultra 4.",
-      "url": "https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ifixit-teardown-watch-12-ultra-4.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5Mac",
-      "publishedAt": "2026-10-06T22:09:00Z"
-    },
-    {
-      "title": "Google sounds really excited about 'massive' feature update hitting Pixel Buds right now - Android Authority",
-      "description": "From dynamic ANC, to tap-to-mute for your microphone, to even new Live Translate capabilities, this sounds like one major update!",
-      "url": "https://www.androidauthority.com/pixel-buds-massive-update-3719844/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-buds-pro-2-vs-pixel-buds-pro-in-hand-2.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2026-10-06T21:55:00Z"
-    },
-    {
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat - The Verge",
-      "description": "Apple and LG are rumored to be working on new smart home hardware that will launch in a few months, including a lock, thermostat, and doorbell.",
-      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "GTA VI leaks continue with a lengthy (and very nude) gameplay video - The Verge",
+      "description": "A new 25-minute video of GTA 6 footage from leaker Cyberleek reportedly shows the game’s main characters naked, with light story spoilers.",
+      "url": "https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-10-06T21:39:53Z"
+      "publishedAt": "2026-10-08T13:22:35Z"
     },
     {
-      "title": "11 Prime Day Cycling Deals Actually Worth Buying in 2026 - Outside Magazine",
-      "description": "Navigating Amazon's cynical retail holiday is an exhausting chore. Here are 11 genuine 2026 discounts on cycling tech, smart trainers, and nutrition from Wahoo, Garmin, and GoPro that I recommend at full price.",
-      "url": "https://velo.outsideonline.com/road/road-gear/2026-amazon-prime-day-cycling-deals/#article",
-      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/Amazon-Prime-Day-Header-scaled.jpg",
-      "source": "Outside",
-      "publishedAt": "2026-10-06T20:22:19Z"
+      "title": "Amazon’s Alexa Tablets are coming for the iPad - The Verge",
+      "description": "With access to Android apps, a new display tech, and lots of Alexa, Amazon hopes its new tablets can bring more people into its AI universe.",
+      "url": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268799_AlexaTablet12Pro_8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-10-08T13:00:00Z"
     },
     {
-      "title": "Saleen's 450-HP Sports Car Is Finally Available To Order, For Corvette Z06 Money - CarBuzz",
-      "description": "It's been years, but Saleen promises its new sports car is ready for primetime. We just don't know exactly when that will be yet.",
-      "url": "https://carbuzz.com/saleen-s1-specs-reveal-october-2026/",
-      "urlToImage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/10/saleen-s1-2-1.JPG?w=1600&h=900&fit=crop",
-      "source": "CarBuzz",
-      "publishedAt": "2026-10-06T20:08:24Z"
+      "title": "Google Cloud announces ‘Gemini agent’ as ‘universal agent for work’ - 9to5Google",
+      "description": "At Gemini at Work 2026, Google Cloud today announced the \"Gemini agent\" for enterprise customers. This is for...",
+      "url": "http://9to5google.com/2026/10/08/gemini-agent-google-cloud/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-agent.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5google.com",
+      "publishedAt": "2026-10-08T12:00:00Z"
     },
     {
-      "title": "Deals: here are the best tablet and smartwatch deals from Amazon's Prime Big Deal Days - GSMArena.com news - GSMArena.com",
-      "description": "We already looked at phones in a separate post. Here we're also including a number of Amazon devices that don't quite fall in the \"tablet\" category.",
-      "url": "https://www.gsmarena.com/deals_here_are_the_best_tablet_and_smartwatch_deals_from_amazons_prime_big_deal_days-news-74926.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/prime-day-us-deals/-952x498w6/gsmarena_002.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-10-06T20:02:02Z"
+      "title": "Review: Hellraiser: Revival (PS5) - Faithful Adaptation Let Down by Severe Gameplay Woes - Push Square",
+      "description": "You opened the box, we answered",
+      "url": "https://www.pushsquare.com/reviews/ps5/hellraiser-revival",
+      "urlToImage": "https://images.pushsquare.com/19233f2fa56ee/1280x720.jpg",
+      "source": "Push Square",
+      "publishedAt": "2026-10-08T12:00:00Z"
     },
     {
-      "title": "Garmin’s New Smartwatch Has Battery Life That Laps the Apple Watch Ultra 4 - Gizmodo",
-      "description": "The Garmin Enduro 4 promises up to 320 hours of battery while still offering the health and fitness tracking features of the Fenix 9 Pro.",
-      "url": "https://gizmodo.com/garmin-enduro-4-smartwatch-2000822419",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Garmin-Enduro-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-10-06T20:00:14Z"
+      "title": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback - Eurogamer.net",
+      "description": "A new blog post from the World of Warcraft: Forever team confirms the models for Skyborne elves are being reworked following feedback, coming early 2027.",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
+      "urlToImage": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-skyborn-work-in-progress-models.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-10-08T11:35:03Z"
     },
     {
-      "title": "A Windows 11 System With 16GB RAM Was Consuming Just 16% Of Total Memory Through Rufus; Other Methods Removed Bloatware While Running The Newest 26H2 Update - Wccftech",
-      "description": "Discover how stripping bloatware with Rufus and running the latest update cuts Windows 11 RAM usage down to just 16% on a 16GB system, unleashing peak performance and efficiency",
-      "url": "https://wccftech.com/windows-11-lightweight-update-rufus-bloatware-removal-16gb-ram/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Windows-11-4.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-10-06T19:59:02Z"
+      "title": "\"What's the point of this if you're not feeling something?\" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel' - Eurogamer.net",
+      "description": "The Star Wars: Galactic Racer developers at Fuse Games talk board games, emotions, and looking up \"verisimilitude\".",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game",
+      "urlToImage": "https://assetsio.gnwcdn.com/New-Project-(30)_bkYmocn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-10-08T11:21:47Z"
     },
     {
-      "title": "PS5 Metroidvania Game Gets Perfect Reviews, New PlayStation GOTY Contender - PlayStation LifeStyle",
-      "description": "An upcoming PS5 Metroidvania game has already won over critics while emerging as a Game of the Year contender.",
-      "url": "https://www.playstationlifestyle.net/2026/10/06/ps5-metroidvania-perfect-reviews-playstation-goty-contender",
-      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/10/PS5-Metroidvania-Game-Gets-Perfect-Reviews-New-PlayStation-GOTY-Contender.jpg?resize=1200,630",
-      "source": "PlayStation LifeStyle",
-      "publishedAt": "2026-10-06T19:54:11Z"
-    },
-    {
-      "title": "Viture XR Display Glasses Have Dropped to Their Lowest Prices Ever in Prime Big Deal Days Sale - IGN",
-      "description": null,
-      "url": "https://www.ign.com/articles/viture-xr-display-glasses-amazon-prime-big-deal-days-sale-2026",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/06/beast-1777319780574-1791315488184.webp?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "Wizards of the Coast Confirms Reprints for Popular MTG Warhammer 40K Commander Decks - IGN",
+      "description": "In a statement to IGN, Wizards of the Coast has confirmed a new \"small\" reprint run for the incredibly popular MTG Warhammer 40K Commander Decks.",
+      "url": "https://www.ign.com/articles/magic-the-gathering-warhammer-40k-commander-decks-reprint-confirmed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/08/warhammer-40k-decks-getting-reprinted-1791457378552.png?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-10-06T19:48:30Z"
+      "publishedAt": "2026-10-08T11:20:46Z"
+    },
+    {
+      "title": "Zorua Community Day: Your Go-To PvE Guide - Pokémon GO Hub",
+      "description": "Zorua Community Day features Zoroark with Sucker Punch as its Fast Attack. Learn its PvE outlook and the affect of its new attack.",
+      "url": "https://pokemongohub.net/post/meta/zorua-community-day-your-go-to-pve-guide/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/10/Zoroark.png",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-10-08T09:25:26Z"
+    },
+    {
+      "title": "New iPad Mini Rumored to Have 60Hz OLED Display Ahead of Launch - MacRumors",
+      "description": "Ahead of the expected imminent launch of the new iPad mini 8, word out of Asia suggests that the device will feature a 60Hz OLED display rather than...",
+      "url": "https://www.macrumors.com/2026/10/08/new-ipad-mini-rumored-60hz-oled-display/",
+      "urlToImage": "https://images.macrumors.com/t/M4f_JRDgdN51VQtIf8swHv1a4iw=/2500x/article-new/2026/06/OLED-iPad-Mini-Feature-2.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-08T09:15:54Z"
+    },
+    {
+      "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour - BBC",
+      "description": "Barack Obama awarded the Apollo 11 software engineer with the America's highest civilian honour in 2016.",
+      "url": "https://www.bbc.com/news/videos/c8p3gzenvylyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/43a8/live/90a6ab50-c2e4-11f1-bc2e-018d645d8d21.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T07:08:03Z"
+    },
+    {
+      "title": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In - Nintendo Life",
+      "description": "Here's what the critics think",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+      "urlToImage": "https://images.nintendolife.com/a88ce0c7dfa51/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-10-08T05:25:00Z"
+    },
+    {
+      "title": "Beloved action-RPG classic Muramasa: The Demon Blade returns in 2027 in gorgeous remake - Polygon.com",
+      "description": "Vanillaware's Muramasa: The Demon Blade gets a huge upgrade with Muramasa: Revenant Blades in 2027 for PS5, Switch, and PC.",
+      "url": "https://www.polygon.com/muramasa-revenant-blades-2027-remake-remaster-vanillaware-marvelous/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/63_fishing-2_sea-monster.jpeg?w=1600&h=900&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2026-10-08T04:00:23Z"
+    },
+    {
+      "title": "MSFT Stock On 4-Day Winning Streak: Microsoft Takes On Apple's Macs With Nvidia-Powered Surface Ultra, More On-Device AI - Yahoo Finance",
+      "description": "Microsoft is pushing Windows deeper into the local-AI era with Nvidia-powered Surface, on-device models and hybrid Copilot features.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-on-4-day-winning-streak-microsoft-takes-on-apple-s-macs-with-nvidia-powered-surface-ultra-more-on-device-ai/cZDUPNQRBZS",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/85a3b191601dd3b170a6eae8d99e43f1be3a1feeb3fa1157178ac6b256f88a99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F0123207a1e5918fc322b6fc2888415a3.jpg",
+      "source": "Stocktwits.com",
+      "publishedAt": "2026-10-08T03:28:00Z"
+    },
+    {
+      "title": "Gears of War: E-Day Launches to Modest Reviews and 31,500 Peak Steam Players - TechPowerUp",
+      "description": "Gears of War: E-Day, the origin story of the long-running Gears of War franchise, launched on Steam, Xbox, and Game Pass, and, although Microsoft has been building hype for the new Gears game for several months leading up to launch day, the game's launch perf…",
+      "url": "https://www.techpowerup.com/353482/gears-of-war-e-day-launches-to-modest-reviews-and-31-500-peak-steam-players",
+      "urlToImage": "https://www.techpowerup.com/img/z7z7DArqzDtMJhLq.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-08T00:03:11Z"
+    },
+    {
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones - Ars Technica",
+      "description": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-07T21:56:42Z"
+    },
+    {
+      "title": "9 Of The Best RPGs on Switch 2 Are Currently On Sale - Kotaku",
+      "description": "Some of them are Amazon Prime deals, and won't last long",
+      "url": "https://kotaku.com/9-of-the-best-rpgs-on-switch-2-are-currently-on-sale-2000742011",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/elliot.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-10-07T21:40:05Z"
+    },
+    {
+      "title": "PlayStation to Launch New Crunchyroll Anime Hub for PS5 - Variety",
+      "description": "Sony's PlayStation will launch a new Crunchyroll anime hub within its PlayStation 5 gaming console's home screen next year.",
+      "url": "https://variety.com/2026/gaming/news/playstation-ps5-new-crunchyroll-anime-hub-1236904550/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/GettyImages-1236466459.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-10-07T21:30:00Z"
+    },
+    {
+      "title": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not? - Kotaku",
+      "description": "I know I’ll see him naked, but just how naked?",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-jason-naked-nude-shower-scene-2000742015",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/jason-gta6-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-10-07T21:10:48Z"
+    },
+    {
+      "title": "Sonic Racing: CrossWorlds DLC ‘Avatar Legends Pack’ launches October 14 - Gematsu",
+      "description": "Sonic Racing: CrossWorlds downloadable content “Avatar Legends Pack” will launch on October 14, SEGA announced. It is also available as part of the $29.99 Season Pass.",
+      "url": "https://www.gematsu.com/2026/10/sonic-racing-crossworlds-dlc-avatar-legends-pack-launches-october-14",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Sonic-Racing-Avatar-Legends_10-07-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-10-07T19:40:03Z"
+    },
+    {
+      "title": "Pre-order Minecraft for Nintendo Switch™ 2 today! - Minecraft",
+      "description": "Minecraft for Nintendo Switch™ 2 launches October 27, and pre-orders are available now for the Standard Edition, Deluxe Collection, Ultimate Collection, and physical retail version. All editions include the Super Mario™ Mash-Up Pack with Vibrant Visuals, whil…",
+      "url": "https://www.minecraft.net/en-us/article/pre-order-minecraft-for-nintendo-switch-2",
+      "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/article-pictures/MinecraftVanilla_Switch2_NetBlog_1170x500.jpg",
+      "source": "Minecraft.net",
+      "publishedAt": "2026-10-07T19:07:33Z"
     }
   ]
 }

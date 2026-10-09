@@ -1,143 +1,167 @@
 {
-  "updatedAt": "2026-10-08T13:19:06.455Z",
+  "updatedAt": "2026-10-09T13:06:49.294Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "We found the 139 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN",
-      "description": "Amazon’s October Prime Day event has moved into its second day! We searched through thousands of potential discounts to find the deals most worth your time and money.",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2026-10-07",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu-20261006063417781.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-10-07T12:02:00Z"
-    },
-    {
-      "title": "Costco fans are renovating their houses to make unloading groceries easier - The Washington Post",
-      "description": "People are installing tiny doors that connect garages to kitchens.",
-      "url": "https://www.washingtonpost.com/lifestyle/2026/10/07/costco-fans-are-renovating-their-houses-make-unloading-groceries-easier/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XYQFW4H6CZBIDFI2ON3C3RQO5I.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-07T11:32:43Z"
-    },
-    {
-      "title": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs — Live Updates - WSJ",
+      "title": "Stock Market Today: Oil Rises, Nasdaq Slips After Fresh Tanker Attack — Live Updates - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-07T11:07:00Z"
+      "publishedAt": "2026-10-08T14:22:00Z"
     },
     {
-      "title": "U.S. Investors Have an ‘Exorbitant Privilege’ - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/investing/u-s-investors-have-an-exorbitant-privilege-16201ed3",
-      "urlToImage": null,
+      "title": "Palantir Stock Has a Secret Weapon in the AI Boom, Goldman Sachs Says - Barron's",
+      "description": "Goldman Sachs upgrades Palantir Technologies stock to Buy from Neutral, citing an explosion of demand for sovereign and bespoke AI.",
+      "url": "https://www.barrons.com/articles/palantir-stock-price-upgrade-goldman-ab22d7cb",
+      "urlToImage": "https://images.barrons.com/im-92670184/social",
+      "source": "Barron's",
+      "publishedAt": "2026-10-08T14:10:00Z"
+    },
+    {
+      "title": "PepsiCo Trims Outlook as North American Unit Underperforms - WSJ",
+      "description": "The snacks and soda maker’s net revenue climbed 5.6% to $25.27 billion in the fiscal third quarter",
+      "url": "https://www.wsj.com/business/retail/pepsico-posts-higher-profit-sales-as-turnaround-continues-aa219b31",
+      "urlToImage": "https://images.wsj.net/im-34803099/social",
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-07T10:27:00Z"
+      "publishedAt": "2026-10-08T14:08:00Z"
     },
     {
-      "title": "Nvidia Director Tops AI Billionaires on Insider Stock Sales - Bloomberg.com",
-      "description": "AI billionaires led selling in the quarter amid a turbulent market",
-      "url": "https://www.bloomberg.com/news/features/2026-10-07/nvidia-s-stevens-jeff-bezos-among-top-q3-insider-stock-sellers",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihw403oWJMr0/v0/1200x630.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-10-07T09:00:17Z"
+      "title": "Chrysler Building to get its crown restored after being sold - BBC",
+      "description": "The distinctive Manhattan skyscraper will undergo a major renovation and provide a new supply of offices.",
+      "url": "https://www.bbc.com/news/articles/c8g47z3r4dzvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9bdc/live/e92e06b0-c325-11f1-bc2e-018d645d8d21.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T12:49:12Z"
     },
     {
-      "title": "Here's the latest sticker shock: Borrowing for a mortgage — or a car - NPR",
-      "description": "It's not just mortgages being at their highest level in almost three years — but the cost of loans for cars and higher education are among the borrowing costs affected, too.",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7734x4350+0+586/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F44%2F297620e241faa8d38b241e423564%2Fap26232585270405.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-10-07T09:00:00Z"
+      "title": "The 15+ best Prime Day tech deals still live: Last chance deals on MacBooks, TVs, headphones, and more - Mashable",
+      "description": "These deals erase some of the price hikes we've seen amid the RAM crisis. They're so good, we'd add them to our own carts.",
+      "url": "https://mashable.com/tech/best-october-prime-day-tech-deals-still-live-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/060YYjPFaOQ1uSBc98eGTOr/hero-image.fill.size_1200x675.v1791447924.png",
+      "source": "Mashable",
+      "publishedAt": "2026-10-08T12:44:31Z"
     },
     {
-      "title": "Elon Musk Rules Out Potential TSMC Role in Terafab Operations - Bloomberg.com",
-      "description": "Elon Musk said his business empire will build and operate Terafab independently, quashing speculation about industry leader Taiwan Semiconductor Manufacturing Co. swooping in to run his ambitious chipmaking venture.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/elon-musk-rules-out-potential-tsmc-role-in-terafab-operations",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i54cjIav8BLU/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-10-07T08:40:01Z"
-    },
-    {
-      "title": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse - CNBC",
-      "description": "His comments come as rising Middle East crude exports and an emergency G7 stockpile release appear to have helped to ease supply fears.",
-      "url": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373938-1791375909497-gettyimages-2291635421-AFP_C6KY7DL.jpeg?v=1791375927&w=1920&h=1080",
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says - CNBC",
+      "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138159-1745946378116-gettyimages-2207589702-AFP_38VT4KD.jpeg?v=1783025629&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-10-07T08:20:41Z"
+      "publishedAt": "2026-10-08T12:05:16Z"
     },
     {
-      "title": "Japan watchdog probes 4 major brewers over alleged beer price cartel - Japan Today",
-      "description": null,
-      "url": "https://japantoday.com/category/business/japan-watchdog-probes-4-major-brewers-over-alleged-beer-price-cartel",
-      "urlToImage": null,
-      "source": "Japan Today",
-      "publishedAt": "2026-10-07T07:14:00Z"
+      "title": "California's once-mighty wine industry is on the ropes - SFGATE",
+      "description": "From changes in drinking habits and tariffs to the costs of labor and production, California's wine industry is struggling like no time since the Depression.",
+      "url": "https://www.sfgate.com/centralcalifornia/article/california-wine-industry-struggles-22466620.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/61/63/26942685/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2026-10-08T11:02:56Z"
     },
     {
-      "title": "Why McDonald's faces a tough slog winning customers back - Fortune",
-      "description": "High inflation and poor execution are turning off many of the burger giant's customers.",
-      "url": "https://fortune.com/2026/10/07/mcdonalds-earnings-growth-customers-meal-deals/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297053478.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-10-07T07:00:00Z"
-    },
-    {
-      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva - CNBC",
-      "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
-      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373756-1791348289382-gettyimages-2296639243-z92_0347_fjdwcvlm.jpeg?v=1791348373&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-07T06:16:39Z"
-    },
-    {
-      "title": "The 2027 Volkswagen Atlas Fixes What Wasn't Broken: Driven - Motor1.com",
-      "description": "The second-generation Volkswagen Atlas is here for 2027, and it has several improvements that are worthy of attention in this first drive review.",
-      "url": "https://www.motor1.com/reviews/810850/2027-volkswagen-atlas-first-drive-review/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/AkOn2x/s1/2027-volkswagen-atlas-first-drive-review.jpg",
-      "source": "Motor1 ",
-      "publishedAt": "2026-10-07T06:06:19Z"
-    },
-    {
-      "title": "Jaguar's controversial rebrand finally makes sense with the unveiling of the bold Type 01 - Creative Bloq",
-      "description": "It's a car design you'll either love or hate.",
-      "url": "https://www.creativebloq.com/design/product-design/jaguars-dramatic-type-01-finally-makes-sense-of-the-controversial-rebrand",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zXaE444HfuZWxz35ZPbxgN-1200-80.jpg",
-      "source": "Creative Bloq",
-      "publishedAt": "2026-10-07T06:05:20Z"
-    },
-    {
-      "title": "Neat tricks to help French bonds - Financial Times",
-      "description": "And why they won’t work",
-      "url": "https://www.ft.com/content/16df642e-dc1a-4d17-8f18-b97f32efc5db?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa8a319a3-398f-4a07-a97e-56fbe5725ccc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "title": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz - Financial Times",
+      "description": "Transit through vital waterway rose close to 90% of prewar levels last month but has since fallen sharply",
+      "url": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F702c6a16-5b65-439a-b19a-3aaf9fac8d45.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "source": "Financial Times",
-      "publishedAt": "2026-10-07T05:31:30Z"
+      "publishedAt": "2026-10-08T10:46:10Z"
     },
     {
-      "title": "Dalio Says We’re Nearing Point Where AI Bubble May Burst - Yahoo Finance UK",
-      "description": "Billionaire Ray Dalio warned that artificial intelligence is a “classic bubble” that is nearing a bursting point thanks to rising interest rates and the need...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dalio-says-nearing-point-where-040523378.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3e60dfa3c5bc978ccbee6ec2bb23141bf218828105b1539ef7f4dc387da69807/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F814dca3ee96108ad302e03f0c07f2aed.jpg",
+      "title": "Social Security 2027 COLA may outpace Medicare cost but not much else - USA Today",
+      "description": "2027 Social Security COLA may rise to 3.5%, above the expected Medicare Part B premium increase. But other rising costs may eat up the rest of COLA.",
+      "url": "https://www.usatoday.com/story/money/personal-finance/retirement/social-security/2026/10/08/social-security-2027-cola-estimate-medicare/92124213007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/06/USAT/92127101007-20260921-t-130805-z-993604214-mt-1-usatoday-29879313-rtrmadp-3-agneshollanderisawidowtryingtosurviveonlyonsocial.JPG?crop=6541,3681,x0,y284&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-10-08T10:44:00Z"
+    },
+    {
+      "title": "Goldman’s Top Leaders Set to Score More Than $500 Million With Special Bonus - Bloomberg.com",
+      "description": "Goldman Sachs Group Inc.’s most senior leaders are set to unlock a special bonus that will rank among the biggest such payouts the firm has ever awarded.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/goldman-sachs-ceo-david-solomon-top-executives-to-earn-massive-bonus-payouts",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6HJNJbUIu3g/v3/1200x747.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-08T10:38:45Z"
+    },
+    {
+      "title": "Applied Digital’s Earnings Show Its Data Center Bet Is Starting to Pay Off - Barron's",
+      "description": "Applied Digital reports a 322% year-over-year jump in revenue.",
+      "url": "https://www.barrons.com/articles/applied-digital-earnings-stock-price-40be1857",
+      "urlToImage": "https://images.barrons.com/im-37533378/social",
+      "source": "Barron's",
+      "publishedAt": "2026-10-08T09:56:00Z"
+    },
+    {
+      "title": "OpenAI's math breakthrough points beyond math - Axios",
+      "description": "AI disruption is coming for mathematics.",
+      "url": "https://www.axios.com/2026/10/08/openai-math-proofs-ai-model",
+      "urlToImage": "https://images.axios.com/uDvkiTHqDr_kfSreMeJvQvyac-I=/1366x768/smart/2024/05/19/154408-1716133448708.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-10-08T09:42:11Z"
+    },
+    {
+      "title": "Electric Big Rigs Struggle to Compete, Even With Diesel at $8 a Gallon - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/logistics-report/electric-big-rigs-struggle-to-compete-even-with-diesel-at-8-a-gallon-2d16fd68",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-08T09:30:00Z"
+    },
+    {
+      "title": "Amazon to cut nearly 1,000 white-collar jobs across stores division and other units: report - Fox Business",
+      "description": "Amazon's stores division bears the brunt of the latest cuts affecting employees in the U.S., India and the United Kingdom across divisions.",
+      "url": "https://www.foxbusiness.com/economy/amazon-cut-nearly-1000-white-collar-jobs-across-stores-division-other-units-report",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/amazon.png?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-08T08:54:00Z"
+    },
+    {
+      "title": "Fed’s Waller sees additional rate hikes to get inflation down faster - Yahoo Finance",
+      "description": "Federal Reserve Governor Chris Waller said in a speech Thursday that he expects the Fed will need to enact more interest rate hikes to bring down inflation f...",
+      "url": "https://finance.yahoo.com/economy/policy/article/feds-waller-sees-additional-rate-hikes-to-get-inflation-down-faster-083000282.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b1ba97fa393afa0f77f723058fa1d4a47dfa2b92fb9d242b757d13e1f95cfee4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-05%2F92192210-f01a-11ed-8beb-5da9c44eaeb5",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-07T04:05:00Z"
+      "publishedAt": "2026-10-08T08:30:00Z"
     },
     {
-      "title": "Stock futures are little changed after S&P 500 hits fresh record: Live updates - CNBC",
-      "description": "The S&P 500 reached a new high Tuesday as tech stocks rallied.",
-      "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368166-17903510302026-09-25t154129z_1909425411_rc2dqnah6o8f_rtrmadp_0_usa-stocks.jpeg?v=1790351148&w=1920&h=1080",
+      "title": "Samsung Profit Up Almost Nine-Fold With Memory Chip Windfall - Bloomberg.com",
+      "description": "Samsung Electronics Co. earned a nearly nine-fold rise in quarterly operating profit, and Taiwan Semiconductor Manufacturing Co.’s sales jumped 51%, reflecting the spoils of relentless spending on AI infrastructure.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/samsung-reaches-new-profit-record-with-memory-chip-windfall",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipEA9mtMBL2c/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-08T08:06:48Z"
+    },
+    {
+      "title": "Stock futures move lower after S&P 500 retreats from record: Live updates - CNBC",
+      "description": "Stock futures edged lower early Thursday as higher yields dent investor appetite.",
+      "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369467-1790695898141-gettyimages-2297721790-anotherday276803029_y0jj9gxn.jpeg?v=1790696070&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-10-07T03:44:36Z"
+      "publishedAt": "2026-10-08T07:56:47Z"
     },
     {
-      "title": "Walmart, Trader Joe’s frozen berry recall expands over E. coli risk - NBC News",
-      "description": "An expanded recall includes certain Great Value organic blueberries and berry blends sold at Walmart and Trader Joe’s over possible E. coli contamination.",
-      "url": "https://www.nbcnews.com/select/shopping/walmart-trader-joes-frozen-berries-recall-ecoli-rcna601835",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-pd-frozen-berries-dj-main-66343f.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-10-07T00:55:00Z"
+      "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says - Yahoo Finance UK",
+      "description": "The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what could t...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-risks-worst-p-061638441.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3519d40dfa2564f59ed1796845b7c3b08474ab271e11e58cc946dcc629024619/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F978a3e8c4800bfa981929afb790f6fc3.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-08T06:16:00Z"
+    },
+    {
+      "title": "New electric car 'make or break for Jaguar' - BBC",
+      "description": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
+      "url": "https://www.bbc.com/news/articles/cwvgrx5ner6go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b2d4/live/d69c5b20-c305-11f1-a64c-550be9e3c66b.png",
+      "source": "BBC News",
+      "publishedAt": "2026-10-08T05:08:56Z"
+    },
+    {
+      "title": "Trump administration paving way for temporary sale of some unapproved peptides - The Washington Post",
+      "description": "Food and Drug Administration scientists and some medical experts have raised alarms about increasing access to certain peptides.",
+      "url": "https://www.washingtonpost.com/health/2026/10/07/trump-administration-paving-way-temporary-sale-some-unapproved-peptides/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/X334NFGBC4I7BDXOU6CINNGHS4.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-08T03:38:00Z"
     }
   ]
 }
