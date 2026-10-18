@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-10-17T10:32:44.082Z",
+  "updatedAt": "2026-10-18T10:55:32.589Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed - Nintendo Life",
-      "description": "A bonus available in France",
-      "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
-      "urlToImage": "https://images.nintendolife.com/fa9beb913faba/1280x720.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-10-16T03:55:00Z"
+      "title": "What To Do With Your Old Nest Gadgets Since Google Ended Support - BGR",
+      "description": "Wondering what's to be done with your Google Nest gadgets that have now reached their end of support? It turns out there's a few options to choose from.",
+      "url": "https://www.bgr.com/2283131/what-to-do-with-old-google-nest/",
+      "urlToImage": "https://www.bgr.com/img/gallery/what-to-do-with-your-old-nest-gadgets-since-google-ended-support/l-intro-1791669710.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-10-17T01:36:10Z"
     },
     {
-      "title": "Oops, Apple's Website Just Hinted at iPad Mini 8 - MacRumors",
-      "description": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website, hinting that a new iPad mini is coming. The case's A3632...",
-      "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
-      "urlToImage": "https://images.macrumors.com/t/2345fVS9Wh16988o2qY5zWvHd6Y=/2500x/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
+      "title": "Verizon Will Charge $10 a Month for iPhone Handoff - MacRumors",
+      "description": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27. iPhone Handoff allows one phone number...",
+      "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
+      "urlToImage": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
       "source": "MacRumors",
-      "publishedAt": "2026-10-16T00:27:00Z"
+      "publishedAt": "2026-10-16T23:37:39Z"
     },
     {
-      "title": "'Consumers Must Have the Right to Own' — A Congressman Is Introducing a Bill to Get Rid of Digital Game Licenses and Give Players Total Ownership - IGN",
-      "description": "Democratic Congressman Ritchie Torres is introducing legislation that aims to ensure you own your digital games, rather than having a license.",
-      "url": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/31/gettyimages-2186493403-1785487186283.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps - The Verge",
+      "description": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools, including “bait-and-switch” apps with “nudification” features.",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-10-16T22:51:22Z"
+    },
+    {
+      "title": "Man's Clever Trick After Realizing His Job Interviewer Was AI Sparks Fears For Humanity's Future - Bored Panda",
+      "description": "As more and more companies replace their interviewers with AI, a frustrated comedian went viral by bringing his own “AI representative” to the meeting.",
+      "url": "https://www.boredpanda.com/mans-clever-trick-after-realizing-job-interview-was-ai-goes-viral/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/fb_image_6ad2a30822ebe.png",
+      "source": "Boredpanda.com",
+      "publishedAt": "2026-10-16T22:39:24Z"
+    },
+    {
+      "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns - IGN",
+      "description": "Professional Super Smash Bros. player Jason ‘Mew2King’ Zimmerman has been banned from a competitive tournament after posting photos of his concerning skin condition and complaining of a bug infestation in his home.",
+      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-10-15T23:21:09Z"
+      "publishedAt": "2026-10-16T21:54:10Z"
     },
     {
-      "title": "ChatGPT can peek at your Chrome tabs now - The Verge",
-      "description": "The ChatGPT Chrome extension has added more features to use information from your open browser tabs, and bring chat or Work to the page you’re viewing in a sidebar.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-10-15T22:43:23Z"
+      "title": "Fans Are Comparing Grand Theft Auto 6′ s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’ - Kotaku",
+      "description": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
+      "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/Grand-Theft-Auto-6-Launch-Trailer-image-Rockstar-Games.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-10-16T21:33:57Z"
     },
     {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch - The Verge",
-      "description": "Sega is removing Total War: Shogun 2 — Complete Edition from storefronts after users complained about bugs and ugly upscaling seemingly done by AI.",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-10-15T22:35:55Z"
+      "title": "Pour One Out for the Leap Second - WIRED",
+      "description": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "urlToImage": "https://media.wired.com/photos/6ad26281fc48d47f39527b44/191:100/w_1280,c_limit/Science_Pour%20One%20Out%20for%20the%20Leap%20Second_v1.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-10-16T21:31:00Z"
     },
     {
-      "title": "OLED MacBook Pro Won't Get M7 Chips Until Late 2027 - MacRumors",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJdXhqU29VTWZWYWUyVXQ1MkxwaXYwYy05RGxab29udklkODBRTS1pU1NydGYyd2lpWTd3QkVCZVBFeEpFc1JMTmNmcW8xZXpBQkN3OEw4TXktYld3a2JlVk5CZEJ6QTFtRnB5VlMxRQ?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2026-10-15T22:10:36Z"
+      "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out - Financial Times",
+      "description": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
+      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F776e515e-3e39-47f7-9fda-1b1683f6efb4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-16T21:03:42Z"
     },
     {
-      "title": "Report: Cancelled “Assassin’s Creed Destiny” Unveiled in First Screenshots & Gameplay Footage - MP1st",
-      "description": "We have unearthed gameplay footage and details for Assassin's Creed Destiny, a title set in 206 BCE China by TiMi Studio Group and Ubisoft.",
-      "url": "https://mp1st.com/news/report-cancelled-assassins-creed-destiny-unveiled-in-first-screenshots-gameplay-footage",
-      "urlToImage": "https://mp1st.com/wp-content/uploads/2026/10/acds-600x338.png",
-      "source": "http://mp1st.com/category/news",
-      "publishedAt": "2026-10-15T20:41:28Z"
+      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive - MacRumors",
+      "description": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up.   The case comes in two pieces and...",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
+      "urlToImage": "https://images.macrumors.com/t/1lygljCOZBkj565M6S2GQ6yjgXg=/1600x/article-new/2026/09/iphone-duo-case.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-16T19:51:49Z"
     },
     {
-      "title": "SPINE ‘Customization Announce’ trailer, screenshots - Gematsu",
-      "description": "Nekki has released a new trailer and screenshots for single-player story-focused action game SPINE introducing the game’s customization features.",
-      "url": "https://www.gematsu.com/2026/10/spine-customization-announce-trailer-screenshots",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/SPINE-Parrot_10-15-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-10-15T19:57:32Z"
-    },
-    {
-      "title": "Google updates Android earthquake alerts with more info, expands to 200+ regions - 9to5Google",
-      "description": "Google has updated Android's earthquake alerts system with more information while also expanding support to new regions.",
-      "url": "http://9to5google.com/2026/10/15/android-earthquake-alerts-update-regions/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/android-earthquake-alerts-1.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5google.com",
-      "publishedAt": "2026-10-15T19:45:00Z"
-    },
-    {
-      "title": "Engineering ordered two-dimensional defect phases to strengthen structural alloys - Science | AAAS",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xSGlkS2E2R1FzaG5UWExWYTB5S1Q5cWFxdmxNYmZvNXRUOG44T25HSkpNa0xsX0dEd3NRWEtaTFBCN2dxMEdyRTdKb2FLYTAyTHVKNWNidzlLVi1MLXZSWA?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2026-10-15T18:24:43Z"
-    },
-    {
-      "title": "Galaxy S27 Ultra comes alive in new renders and a trailer and I see Samsung’s vision - PhoneArena",
-      "description": null,
-      "url": "https://www.phonearena.com/news/galaxy-s27-ultra-comes-alive-in-new-renders-and-trailer_id184089",
-      "urlToImage": null,
-      "source": "PhoneArena",
-      "publishedAt": "2026-10-15T17:46:22Z"
-    },
-    {
-      "title": "SF AI Founder’s Zombie Shooter Game Turns Tenderloin Residents Into Targets - SFist",
-      "description": "A local tech founder has created a multiplayer shooter game set in the Tenderloin, where players gun down zombie versions of neighborhood residents, drawing immediate criticism for its portrayal of people dealing with homelessness and addiction.",
-      "url": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
-      "urlToImage": "https://img.sfist.com/2026/10/Tenderloin-Shooter-Game.jpg",
-      "source": "SFist",
-      "publishedAt": "2026-10-15T17:43:47Z"
-    },
-    {
-      "title": "Google’s $180 Fitbit Edge makes a bet on smartwatch fatigue - TheStreet",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/google-fitbit-edge-smartwatch-fatigue",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-10-15T17:07:00Z"
-    },
-    {
-      "title": "PEAK coming to PS5, Xbox Series, and Switch 2 on October 22 - Gematsu",
-      "description": "Aggro Crab and Landfall will release cooperative climbing game PEAK for PlayStation 5, Xbox Series, and Switch 2 on October 22, the developers announced. It will support cross-play between all plat…",
-      "url": "https://www.gematsu.com/2026/10/peak-coming-to-ps5-xbox-series-and-switch-2-on-october-22",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/PEAK-Console-Edition_10-15-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-10-15T17:02:43Z"
-    },
-    {
-      "title": "Justice Composed the Score for Grand Theft Auto VI - Pitchfork",
-      "description": "The French electronic duo have also tapped Tame Impala, SZA, and King Gizzard for a new song from the game’s soundtrack",
-      "url": "https://pitchfork.com/story/justice-composed-the-score-for-grand-theft-auto-vi/",
-      "urlToImage": "https://media.pitchfork.com/photos/6ad0d7e955d07c15782a269d/16:9/w_1280,c_limit/Justice.jpg",
-      "source": "Pitchfork",
-      "publishedAt": "2026-10-15T16:52:34Z"
-    },
-    {
-      "title": "I’ve Tested Echo Shows and Nest Hubs. Here’s How Apple’s HomeView Display Stacks Up - CNET",
-      "description": "Apple’s new HomeView faces steep competition from Amazon and Google’s well-established smart displays. Here’s what I think, based on my past reviews.",
-      "url": "https://www.cnet.com/home/smart-home/apple-homeview-vs-amazon-echo-show-google-nest-hub/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/image-21-2.png",
-      "source": "CNET",
-      "publishedAt": "2026-10-15T16:00:07Z"
-    },
-    {
-      "title": "Free Play Days – NBA 2K27, Crusader Kings III, The Alters, Bus Simulator 21, Soccer Story and Ravenswatch - XBOX Wire",
-      "description": "Xbox Game Pass Ultimate, Premium, and Essential members can enjoy Subnautica this weekend, while Project Motor Racing, One Piece: Pirate Warriors 4, and Graveyard Keeper are free for all Xbox users. Discover how to participate, keep your progress, and take ad…",
-      "url": "https://news.xbox.com/en-us/2026/10/15/free-play-days-10-15-2026/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_xx-xx-xxxx_1920x1080-1-c1e7b7f7ea8ab3c3617f.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-10-15T15:57:34Z"
-    },
-    {
-      "title": "Asus ROG Xbox Ally X20 Review: The Prettiest, Most Comfortable Handheld You Can Buy - Gizmodo",
-      "description": "The OLED Xbox Ally looks, feels, and plays better than ever. That doesn’t mean it's offering the best performance.",
-      "url": "https://gizmodo.com/asus-rog-xbox-ally-x20-review-2000826321",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Asus-ROG-Xbox-Ally-X20-16-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-10-15T15:45:28Z"
-    },
-    {
-      "title": "Apple TV 4K, HomeView pre-order ship times now delayed later in November - 9to5Mac",
-      "description": "Pre-order shipping times for new Apple TV 4K and HomeView products have already started slipping into late November for new orders.",
-      "url": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&strip=all&resize=1200,628",
+      "title": "HomeView will include these Apple apps at launch - 9to5Mac",
+      "description": "Apple’s HomeView is available to pre-order now and ships November 13. Here are the Apple apps you’ll be able to use on HomeView at launch.",
+      "url": "https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&strip=all&resize=1200,628",
       "source": "9to5Mac",
-      "publishedAt": "2026-10-15T15:39:00Z"
+      "publishedAt": "2026-10-16T19:50:00Z"
+    },
+    {
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\" - Ars Technica",
+      "description": "There are still significant hurdles ahead, both technical and legislative.",
+      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-16T19:41:18Z"
+    },
+    {
+      "title": "Castlevania's Most Iconic Song Should Chain Whip Me To Death, Not Put Me In A Thousand Year Sleep - Kotaku",
+      "description": "The Belmont's Curse version of \"Bloody Tars\" is more restrained than it should be",
+      "url": "https://kotaku.com/the-belmonts-curse-soundtrack-needs-a-little-more-blood-and-tears-2000746787",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/Belmont.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-10-16T19:30:48Z"
+    },
+    {
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality - Ars Technica",
+      "description": "The bug is fixed, but privacy concerns remain.",
+      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-16T19:11:50Z"
+    },
+    {
+      "title": "I tried replacing Photoshop, Lightroom, and Acrobat with free vibe-coded alternatives, and they're surprisingly good - XDA",
+      "description": "Got to give credit where credit's due",
+      "url": "https://www.xda-developers.com/tried-replacing-photoshop-premiere-pro-lightroom-with-free-vibe-coded-alternatives/",
+      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/artcraft-app-icons-like-photocraft-pdfcraft-and-gridcraft-on-an-ipad-beside-a-keyboard.jpeg?w=1600&h=900&fit=crop",
+      "source": "XDA Developers",
+      "publishedAt": "2026-10-16T18:00:19Z"
+    },
+    {
+      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features - MacRumors",
+      "description": "Daring Fireball's John Gruber shared his first impressions of the new Apple TV 4K and HomePod mini 2 this week, and he concluded that the price...",
+      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
+      "urlToImage": "https://images.macrumors.com/t/Hdpo5Nka_SD6rrA4oAIHTa-Kb0I=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View2.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-16T17:30:14Z"
+    },
+    {
+      "title": "Here's What The Reviews Are Saying About Call Of Duty: Modern Warfare 4's Campaign - Pure Xbox",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmpoQmNWSU92TkdibGJYMzFiUVJfTTBMZXZoeE9FeFJoaU1xUEIwaFZJTk9kaDZaclpENzB0TDlXdnVtMmtGQjVNQjBXalRqVVBLckgzRld0V0N0OElpNTQ3RC03aDdjWktIV2cyQ1pnVEhZak1UaU5Oa19CZlNxUVV6Nmo5SU52YnFQZDItdG1VUFJmNFkwN21sME5pMnJTb1plY0NidGhpeFVFY2JCMXRPNV9VdGV0?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-10-16T17:25:00Z"
+    },
+    {
+      "title": "Apple’s New CEO Just Demonstrated How to Stay Classy While Insulting the Competition - Inc.com",
+      "description": null,
+      "url": "https://www.inc.com/kit-eaton/apples-new-ceo-just-demonstrated-how-to-stay-classy-while-insulting-the-competition/91421326",
+      "urlToImage": null,
+      "source": "Inc.",
+      "publishedAt": "2026-10-16T16:54:45Z"
+    },
+    {
+      "title": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating - 9to5Google",
+      "description": "According to a new report, Samsung’s Galaxy S27 series might not use the latest Snapdragon chipset due to overheating problems....",
+      "url": "http://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Snapdragon-8-Elite-Extreme-Gen-6.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5google.com",
+      "publishedAt": "2026-10-16T16:50:00Z"
+    },
+    {
+      "title": "Shrek 2 Remastered Microsoft Store page appears - Gematsu",
+      "description": "A Microsoft Store page for the unannounced Shrek 2 Remastered developed by Aspyr has gone live.",
+      "url": "https://www.gematsu.com/2026/10/shrek-2-remastered-microsoft-store-page-appears",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Shrek-2-Remastered-Leak_10-16-26.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2026-10-16T16:32:05Z"
+    },
+    {
+      "title": "This new theory on how AI ‘thinks’ could impact whether it kills us all - Business Insider",
+      "description": "We may be closer to understanding how AI models think, giving researchers new tools to ensure they don't go rogue.",
+      "url": "https://www.businessinsider.com/ai-reasoning-theory-nick-cammarata-safety-neural-networks-2026-10#article",
+      "urlToImage": "https://i.insider.com/6ad238ba2428f6b45581319e?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-16T16:05:00Z"
     }
   ]
 }
