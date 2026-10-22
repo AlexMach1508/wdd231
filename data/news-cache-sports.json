@@ -1,103 +1,95 @@
 {
-  "updatedAt": "2026-10-21T11:39:12.692Z",
+  "updatedAt": "2026-10-22T11:40:55.979Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Rays win AL pennant, advance to World Series - Bay News 9",
-      "description": "Tampa Bay will face the Milwaukee Brewers in the World Series starting Friday.",
-      "url": "https://baynews9.com/fl/tampa/sports/2026/10/20/rays-win-al-pennant--advance-to-world-series",
-      "urlToImage": "https://s7d2.scene7.com/is/image/TWCNews/AP_Rays_ALCS_celebration",
-      "source": "Bay News 9",
-      "publishedAt": "2026-10-20T11:02:00Z"
+      "title": "Paris St-Germain: Khvicha Kvaratskhelia to have surgery on ruptured ACL - BBC",
+      "description": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday.",
+      "url": "https://www.bbc.com/sport/football/articles/cxnv0ed5pz23o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6778/live/6bc68ff0-cd32-11f1-9be1-0ba032f367ac.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T09:49:23Z"
     },
     {
-      "title": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues - ESPN",
-      "description": "How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
-      "url": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1019%2Fnfl_power_rankings_16x9.jpg",
+      "title": "Latest On Brandon Woodruff - MLB Trade Rumors",
+      "description": "The Brewers are weighing whether to carry Brandon Woodruff on the World Series roster. MLB Trade Rumors has the update.",
+      "url": "https://www.mlbtraderumors.com/2026/10/latest-on-brandon-woodruff-2.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/10/2026-10-16T180126Z_974808959_MT1USATODAY30100346_RTRMADP_3_MILWAUKEE-BREWERS-PITCHER-BRANDON-WOODRUFF-WALKS-OFF-THE-1024x785.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2026-10-21T04:30:04Z"
+    },
+    {
+      "title": "Wemby, Fox Involved in Spurs-Thunder Fight in Video, 4 Technicals and 1 Flagrant Foul Assessed - Bleacher Report",
+      "description": "The San Antonio Spurs and Oklahoma City Thunder have quickly become one of the biggest rivalries in the NBA, and it didn't take long for things to get chippy between the two sides on Tuesday.",
+      "url": "https://bleacherreport.com/articles/25513946-wemby-fox-involved-spurs-thunder-fight-video-4-technicals-and-1-flagrant-foul-assessed",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300688483_large_cropped.jpg?w=1120&h=630",
+      "source": "Bleacher Report",
+      "publishedAt": "2026-10-21T04:10:34Z"
+    },
+    {
+      "title": "Knicks raise NBA championship banner, hand out elaborate rings complete with a miniature Madison Square Garden - Yahoo Sports",
+      "description": "With LeBron James and the Philadelphia 76ers in town for their season debuts, the Knicks passed out championship rings and raised a banner in front of an ecs...",
+      "url": "https://sports.yahoo.com/nba/breaking-news/article/knicks-raise-nba-championship-banner-hand-out-elaborate-rings-complete-with-a-miniature-madison-square-garden-024402839.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7b1c7db4fd2c0e1461df6222ef5ee21e8d15925cfb8206002ad6493020f03d32/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F20d2e2db-f304-489d-8978-5e6655acb943",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-21T02:41:00Z"
+    },
+    {
+      "title": "76ers win opening game with LeBron James and Jaylen Brown, beating NBA champion Knicks 106-100 - AP News",
+      "description": "The Philadelphia 76ers sent an opening-night message they’ll be a contender for the New York Knicks’ NBA title after adding LeBron James and Jaylen Brown, rallying for a 106-100 victory Tuesday night. Tyrese Maxey scored 28 points and Brown had 19 points, eig…",
+      "url": "https://apnews.com/article/knicks-76ers-score-516e86ad2bc08b55e11f0ddfe63c400b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bfd69bf/2147483647/strip/true/crop/5527x3685+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2Fbc%2F4e59e165f25637dd83bcf9020c91%2F9f6b2809b588450fbb9449d7b84ecaa1",
+      "source": "Associated Press",
+      "publishedAt": "2026-10-21T02:18:00Z"
+    },
+    {
+      "title": "Insider Reveals Troubling Root Cause of Bo Nix's Struggles - Sports Illustrated",
+      "description": "The Broncos are definitely concerned about Bo Nix, and now we know why.",
+      "url": "https://www.si.com/nfl/broncos/onsi/insider-reveals-troubling-root-cause-of-bo-nix-struggles",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_65,w_3660,h_2058/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/mile_high_huddle/01m5e09t4wx6k97wgh49.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-10-21T01:20:08Z"
+    },
+    {
+      "title": "NFLPA calls for 'full investigation' into medical care provided to Eagles' Hurts - ESPN",
+      "description": "After NFL chief medical officer Allen Sills staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue Tuesday, the NFLPA issued a statement calling for a \"full investigation\" into his medical care.",
+      "url": "https://www.espn.com/nfl/story/_/id/50233573/nflpa-demands-full-investigation-hurts-medical-care",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733718_1296x729_16%2D9.jpg",
       "source": "ESPN",
-      "publishedAt": "2026-10-20T10:05:00Z"
+      "publishedAt": "2026-10-21T01:06:00Z"
     },
     {
-      "title": "What Ryan Day said about Ohio State quarterback Julian Sayin’s status on Monday night: Buckeye Breakfast - Cleveland.com",
+      "title": "‘BYU is the best of the bunch’: UCF head coach Scott Frost previews matchup with No. 2 BYU - Deseret News",
+      "description": "The Knights host No. 2 BYU for homecoming after the Cougars' 28-24 upset win over Notre Dame.",
+      "url": "https://www.deseret.com/sports/2026/10/20/ucf-head-coach-scott-frost-previews-byu/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/AAG5YDYKGJFUTHUUVPWGH57DY4.jpg?focal=0%2C0&auth=91f2ce3e873440e54a4640dfd5c00842492d77dcac03b50a53b85f8f8cff7322&width=630&height=331",
+      "source": "Deseret News",
+      "publishedAt": "2026-10-21T00:59:00Z"
+    },
+    {
+      "title": "How many people watched BYU-Notre Dame? - Deseret News",
+      "description": "",
+      "url": "https://www.deseret.com/sports/2026/10/20/byu-notre-dame-television-viewership-2026/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/EPPFTX7EKRDB5FKKB7H5SVC2OI.JPG?focal=1363%2C870&auth=33d3a221e5b6666b84300635b31f24e68f994640d812b411dc40df8cf873f33c&width=630&height=331",
+      "source": "Deseret News",
+      "publishedAt": "2026-10-21T00:28:00Z"
+    },
+    {
+      "title": "Michigan benches QB Bryce Underwood, will start Tommy Carr vs. Indiana - On3",
+      "description": "Michigan made a quarterback switch as Kyle Whittingham and crew benched Bryce Underwood for Tommy Carr ahead of this week's game against Indiana,",
+      "url": "https://www.on3.com/news/michigan-benches-qb-bryce-underwood-will-start-tommy-carr-vs-indiana/",
+      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/10/05074614/On3-Michigan-benches-QB-Bryce-Underwood-will-start-Tommy-Carr-v-hookly.png",
+      "source": "On3.com",
+      "publishedAt": "2026-10-21T00:00:40Z"
+    },
+    {
+      "title": "Springfield police probe high-speed chase near Stewart arrest - OregonLive.com",
       "description": null,
-      "url": "https://www.cleveland.com/osu/2026/10/what-ryan-day-said-about-ohio-state-quarterback-julian-sayins-status-on-monday-night-buckeye-breakfast.html",
+      "url": "https://www.oregonlive.com/ducks/2026/10/springfield-police-investigating-separate-high-speed-pursuit-near-evan-stewart-duii-stop.html",
       "urlToImage": null,
-      "source": "cleveland.com",
-      "publishedAt": "2026-10-20T09:00:00Z"
-    },
-    {
-      "title": "Mike Evans injury update as 49ers WR leaves after non-contact injury on 'Monday Night Football' - USA Today",
-      "description": "Latest updates after 49ers wide receiver Mike Evans exited the teams Week 6 \"Monday Night Football\" game vs. Commanders after a non-contact injury.",
-      "url": "https://www.usatoday.com/story/sports/nfl/49ers/2026/10/19/mike-evans-injury-update-49ers-monday-night-football/92339413007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/20/USAT/92340762007-20261020-t-014122-z-1784441737-mt-1-usatoday-30133378-rtrmadp-3-nflwashingtoncommandersatsanfrancisco-49-ers.JPG?crop=2114,1189,x2132,y0&width=2114&height=1189&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-10-20T04:10:00Z"
-    },
-    {
-      "title": "What’s next for Dan Quinn? - NBC Sports",
-      "description": "At the end of the first half of Monday night's game, with the Commanders down 20-3 and coach Dan Quinn going viral based on a lip-reading clip that was being widely interpreted as him not realizing it was fourth down (after a failed fourth-down play), it look…",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/whats-next-for-dan-quinn",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7a803d6/2147483647/strip/true/crop/5924x3332+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2Ffa%2Fd8274c4e40bc97fa9cf02b679ba7%2F2300555315.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-10-20T03:35:53Z"
-    },
-    {
-      "title": "Monday Night Football: 49ers hang on for 23-17 win over Commanders - NBC Sports",
-      "description": "The Commanders had two drives deep into San Francisco territory to win it in the final two minutes.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-hang-on-for-23-17-win-over-commanders",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b6aac85/2147483647/strip/true/crop/8069x4539+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fa3%2F93a2dc344cbcb30859c4b44176ee%2F2300555427.jpg",
-      "source": "NBCSports.com",
-      "publishedAt": "2026-10-20T03:33:26Z"
-    },
-    {
-      "title": "Angel Reese gives up mid-play on her Atlanta Dream teammates during historic WNBA Finals Game 2 performance - New York Post",
-      "description": "Reese was seen visibly frustrated with less than eight minutes left in the quarter.",
-      "url": "https://nypost.com/2026/10/19/sports/angel-reese-gives-up-on-atlanta-dream-teammates-mid-play-during-wnba-finals-game-2/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-7t19or56m-1792464074829.jpg?quality=75&strip=all&1792449712&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-10-20T02:57:00Z"
-    },
-    {
-      "title": "USWNT Under-17 sets World Cup record with 17-0 win over Samoa - ESPN",
-      "description": "The U.S. under-17 women's national team opened its World Cup campaign with a record-shattering 17-0 victory over Samoa, marking the most goals ever scored in any FIFA World Cup match.",
-      "url": "https://www.espn.com/soccer/story/_/id/50223931/united-states-usa-17-sets-world-cup-record-17-0-samoa",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1020%2Fr1733237_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-10-20T02:46:00Z"
-    },
-    {
-      "title": "Timberwolves agree to 1-year, $40M extension with McDaniels - ESPN",
-      "description": "The Timberwolves and forward Jaden McDaniels agreed to a one-year, $40 million extension that will keep him under contract through 2029-30.",
-      "url": "https://www.espn.com/nba/story/_/id/50223341/timberwolves-agree-1-year-40m-extension-mcdaniels",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0330%2Fr1636063_1024x576_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-10-20T01:59:00Z"
-    },
-    {
-      "title": "Commanders' Terry McLaurin carted off with knee injury in MNF loss to 49ers - ESPN",
-      "description": "Terry McLaurin was carted off the field with his left leg in an air cast after injuring his knee against the 49ers. He'll undergo additional testing Tuesday.",
-      "url": "https://www.espn.com/nfl/story/_/id/50222846/commanders-terry-mclaurin-carted-knee-injury-ruled-mnf-vs-49ers",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1020%2Fr1733219_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-10-20T01:11:00Z"
-    },
-    {
-      "title": "Michigan OC Jason Beck: QB change from Underwood to Carr ‘needed to be made’ - MLive.com",
-      "description": null,
-      "url": "https://www.mlive.com/wolverines/football/2026/10/michigan-oc-jason-beck-qb-change-from-underwood-to-carr-needed-to-be-made.html",
-      "urlToImage": null,
-      "source": "mlive.com",
-      "publishedAt": "2026-10-20T01:01:00Z"
-    },
-    {
-      "title": "Dream and Valkyries skip national anthem again in WNBA Finals Game 2 despite rulebook requirement - Fox News",
-      "description": "The Atlanta Dream and Golden State Valkyries skipped the national anthem again before WNBA Finals Game 2 despite the league's own rulebook requirement.",
-      "url": "https://www.foxnews.com/outkick-sports/dream-valkyries-skip-national-anthem-wnba-finals-game-2-despite-rulebook-requirement",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/chase-center-wnba-finals-game-one-001.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-20T00:45:55Z"
+      "source": "OregonLive",
+      "publishedAt": "2026-10-20T23:58:00Z"
     },
     {
       "title": "Week 7 Injury Report: Patriots at Bears - Patriots.com",
@@ -105,55 +97,71 @@
       "url": "https://www.patriots.com/news/week-7-injury-report-patriots-at-bears",
       "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ktpjsebpur3fu7wpiw9z",
       "source": "Patriots.com",
-      "publishedAt": "2026-10-20T00:03:52Z"
+      "publishedAt": "2026-10-20T23:42:35Z"
     },
     {
-      "title": "Inside College Football Playoff's 24-team expansion: What to know about the new format, schedule and fallout - Yahoo Sports",
-      "description": "The CFP and ESPN have agreed to expand the playoff to 24 teams. Here's how college football will be impacted by that.",
-      "url": "https://sports.yahoo.com/college-football/article/inside-college-football-playoffs-24-team-expansion-what-to-know-about-the-new-format-schedule-and-fallout-135930768.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/763c774bdf198529ae2dfc881af1ced06503f70c72485bdf9f8037732804a635/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fa3b3097c-3f8b-4b8a-a1ca-0aaf86b0757e",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-19T23:36:17Z"
+      "title": "Dylan Larkin has given Detroit Red Wings 10 teams as trade options - Detroit Free Press",
+      "description": "Dylan Larkin wants the Detroit Red Wings to trade him, and has submitted 10 teams as options. Here's who they are:",
+      "url": "https://www.freep.com/story/sports/nhl/red-wings/2026/10/20/dylan-larkin-detroit-red-wings-trade-teams/92352702007/",
+      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/10/18/PDTF/92312132007-20261018-t-011017-z-1569051462-mt-1-usatoday-30118064-rtrmadp-3-nhlsanjosesharksatdetroitredwings.JPG?crop=2441,1373,x0,y127&width=2441&height=1373&format=pjpg&auto=webp",
+      "source": "Detroit Free Press",
+      "publishedAt": "2026-10-20T23:20:00Z"
     },
     {
-      "title": "Utah AD Mark Harlan on ‘College GameDay,’ late kickoffs and more - Deseret News",
-      "description": "Utah AD excited for opportunity to host ‘GameDay’ for third time in four seasons, but expresses disappointment at number of late kickoffs for Utes,",
-      "url": "https://www.deseret.com/sports/2026/10/19/utah-ad-mark-harlan-on-college-gameday-late-kickoffs-tv-times/",
-      "urlToImage": "https://www.deseret.com/resizer/v2/2KAJGYCOWVBLPODBJ3OCZQSMQI.JPG?focal=0%2C0&auth=cc1afb0a495cd63104a3326990f21ea9924cc7be79531ce28a5c3461c01106bd&width=630&height=331",
-      "source": "Deseret News",
-      "publishedAt": "2026-10-19T23:29:29Z"
-    },
-    {
-      "title": "Fantasy Football Takeaways From Week 6: Germie Bernard Leads Utilization Report - FantasyLife",
-      "description": "Welcome to the Utilization Report, where Dwain McFarland highlights his top fantasy football takeaways heading into Week 7.",
-      "url": "https://www.fantasylife.com/articles/fantasy/fantasy-football-takeaways-germie-bernard-utilization-report",
-      "urlToImage": "https://cdn.fantasylife.com/assets/content/large_UR_2026_THUMBNAIL_week_7_cb73e29d92.webp",
-      "source": "Fantasylife.com",
-      "publishedAt": "2026-10-19T23:25:00Z"
-    },
-    {
-      "title": "US airman who died after rappel fall at a college football game in Texas is identified - AP News",
-      "description": "The service member who died after a fall while rappelling in a stadium before a college football game in Texas has been identified as U.S. Air Force Tech. Sgt. Ian Patterson. Patterson was a Tactical Air Control Party instructor assigned to the 6th Combat Tra…",
-      "url": "https://apnews.com/article/fall-service-member-died-utsa-rappelling-bb717d8d0e03d9ce11d1da5382c2202e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b5bf7c6/2147483647/strip/true/crop/3280x2187+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2F7d%2F13bd8b5f7aee40963562896a8db7%2F01e8b27f369b4bcfba372ae6efe303c7",
+      "title": "Brewers promised a ticket to any future game for $1,000. Some fans unhappy with World Series seats - AP News",
+      "description": "The Milwaukee Brewers ran a promotion over a decade ago offering fans a “Timeless Ticket” granting them admission to any game in the future if they paid $1,000. Now that the Brewers are in the World Series for the first time since 1982, fans who took that dea…",
+      "url": "https://apnews.com/article/brewers-world-series-timeless-ticket-promotion-fans-fe377e7b0c67dd70e84bc64aad77e45b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fc134a5/2147483647/strip/true/crop/4705x3137+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F56%2F01a951b1f2a1ece41f99768c8b35%2F7650c9753346460896270c7601261276",
       "source": "Associated Press",
-      "publishedAt": "2026-10-19T21:50:00Z"
+      "publishedAt": "2026-10-20T22:33:00Z"
     },
     {
-      "title": "Packers' Josh Jacobs to practice Wednesday, may play Sunday - ESPN",
-      "description": "Running back Josh Jacobs missed Green Bay's first six games while on the NFL's commissioner exempt list.",
-      "url": "https://www.espn.com/nfl/story/_/id/50221818/packers-josh-jacobs-practice-wednesday-play-sunday",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1019%2Fr1733122_1296x729_16%2D9.jpg",
+      "title": "For 900 miles, ocean swimmer Catherine Breed reckoned with El Niño - SFGATE",
+      "description": "The 33-year-old Mill Valley swimmer shared with SFGATE how El Niño complicated her historic swim of the entire California coastline.",
+      "url": "https://www.sfgate.com/sports/article/catherine-breed-coast-swim-22483896.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/53/50/31373847/5/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2026-10-20T21:43:57Z"
+    },
+    {
+      "title": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play - ESPN",
+      "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
+      "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1020%2Fr1733592_1296x729_16%2D9.jpg",
       "source": "ESPN",
-      "publishedAt": "2026-10-19T21:38:00Z"
+      "publishedAt": "2026-10-20T21:17:00Z"
     },
     {
-      "title": "Oregon school officials silent after football player levels opponent carrying American flag | OutKick - Fox News",
-      "description": "A viral video from a Portland, Oregon high school football game shows a Jefferson player hitting a Grant player carrying an American flag onto the field.",
-      "url": "https://www.foxnews.com/outkick-sports/oregon-school-officials-silent-football-player-levels-opponent-carrying-american-flag",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/football-american-flag.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-19T21:32:15Z"
+      "title": "Some NBC viewers had trouble finding the Pistons-Celtics opening day afternoon tip-off game - Awful Announcing",
+      "description": "NBC says it wants to start a new tradition with an afternoon start to NBA opening day but many of their affiliates opted out.",
+      "url": "https://awfulannouncing.com/nbc/affiliates-not-showing-pistons-celtics-opening-day.html",
+      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/10/2026-10-20T202223Z_1931144542_MT1USATODAY30138340_RTRMADP_3_NBA-BOSTON-CELTICS-AT-DETROIT-PISTONS-scaled-e1792529810996.jpg",
+      "source": "Awful Announcing",
+      "publishedAt": "2026-10-20T20:59:22Z"
+    },
+    {
+      "title": "Joan Garcia 9.5, Gordon 6 | PSG 4-2 Barcelona: Player Ratings - Barca Universal",
+      "description": "Barcelona’s clash against PSG in Paris lived up to its billing on Tuesday night as both sides came at it with their all to win the battle between Europe’s two best teams. While there was not much at stake, both sides pressed relentlessly to control the game t…",
+      "url": "https://barcauniversal.com/joan-garcia-9-5-gordon-6-psg-4-2-barcelona-player-ratings/",
+      "urlToImage": "https://barcauniversal.com/wp-content/uploads/2026/10/paris-saint-germain-v-fc-barcelona-uefa-champions-league-2026-27-league-phase-md3-1000x600.jpg",
+      "source": "Barcauniversal.com",
+      "publishedAt": "2026-10-20T20:58:23Z"
+    },
+    {
+      "title": "Kindel conscious, stable after medical episode on Penguins plane - NHL.com",
+      "description": "Team had to return to Utah shortly after takeoff on Tuesday",
+      "url": "https://www.nhl.com/news/ben-kindel-status-update-october-20-2026",
+      "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/ftc3bsb8hx8agd5f1vjj.jpg",
+      "source": "NHL News",
+      "publishedAt": "2026-10-20T20:49:35Z"
+    },
+    {
+      "title": "Steelers sign Valdes-Scantling - Steelers.com",
+      "description": "The Steelers sign Marquez Valdes-Scantling to practice squad",
+      "url": "https://www.steelers.com/news/steelers-sign-valdes-scantling",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/c4a3ykufmbsbitrjavex",
+      "source": "Steelers.com",
+      "publishedAt": "2026-10-20T20:05:34Z"
     }
   ]
 }
