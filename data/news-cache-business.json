@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-10-22T11:40:55.840Z",
+  "updatedAt": "2026-10-23T11:29:50.660Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Netflix Stock Drops. Why Wall Street Is Still Worried After Earnings Beat. - Barron's",
-      "description": "Netflix shares are down 27% this year as the streaming giant struggles to grow in a saturated market and faces growing competition.",
-      "url": "https://www.barrons.com/articles/netflix-earnings-stock-price-856a48ad",
-      "urlToImage": "https://images.barrons.com/im-73058438/social",
-      "source": "Barron's",
-      "publishedAt": "2026-10-21T09:38:00Z"
-    },
-    {
-      "title": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious. - Barron's",
-      "description": "Super Micro assembles servers and data-center systems around chips from suppliers including Nvidia and Advanced Micro Devices.",
-      "url": "https://www.barrons.com/articles/super-micro-earnings-stock-price-6c9f58cf",
-      "urlToImage": "https://images.barrons.com/im-07562841/social",
-      "source": "Barron's",
-      "publishedAt": "2026-10-21T09:28:00Z"
-    },
-    {
-      "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC",
-      "description": "This earnings season could help propel stocks as the year winds down, said Christian Mueller-Glissmann, head of asset allocation for Goldman Sachs Research.",
-      "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108437793-1792509114099-Traders-Photo-20261019-KK-016.jpg?v=1792509208&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-21T07:55:45Z"
-    },
-    {
-      "title": "U.S. stock futures rise as SpaceX surges on upbeat earnings - Investing.com",
-      "description": "S&P, Nasdaq futures rise amid earnings parade; SpaceX shares jump",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-spacex-surges-on-upbeat-earnings-4961479",
-      "urlToImage": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-21T07:50:10Z"
-    },
-    {
-      "title": "OpenAI ‘agents’ disabled their own monitoring systems - Financial Times",
-      "description": "AI lab investigating whether incident shows ‘propensity to evade’ controls",
-      "url": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff83e7041-9b74-4d89-9878-95617a1d3d5f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-21T06:12:46Z"
-    },
-    {
-      "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service - NPR",
-      "description": "Nearly a decade after Boeing unveiled its largest 737 Max jet, the company has cleared a major hurdle in its effort to bring the plane to airlines.",
-      "url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5649x3178+0+294/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F49%2F691e54804b89835aa835df090ce6%2Fap26293796017632.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-10-21T06:05:18Z"
-    },
-    {
-      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations - CNBC",
-      "description": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-21T06:02:59Z"
-    },
-    {
-      "title": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center - Bloomberg.com",
-      "description": "Nextdc Ltd. slashed its full-year earnings guidance by a third and placed development plans on hold after protests delayed power supply to one of its major projects in Melbourne, wiping some $2 billion off its market value.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/nextdc-cuts-outlook-as-public-backlash-delays-data-center-power",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2adOO6c1uIE/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-10-21T05:55:00Z"
-    },
-    {
-      "title": "Anthropic posts $80bn loss in first half of 2026: WSJ - Al Jazeera",
-      "description": "The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad838d3-1792555219.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-21T05:52:53Z"
-    },
-    {
-      "title": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers - Investing.com",
-      "description": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
-      "urlToImage": "https://content-media.investing.com/news/LYNXMPEA9Q076_L.jpg",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-21T03:50:51Z"
-    },
-    {
-      "title": "PHP warns it plans to release 2 emergency patches imminently - Ars Technica",
-      "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-10-21T02:12:18Z"
-    },
-    {
-      "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find - WSJ",
+      "title": "Stock Market Today: Stocks Slide After Mideast Tensions, Tesla Earnings — Live Updates - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-21T02:00:00Z"
+      "publishedAt": "2026-10-22T12:26:00Z"
     },
     {
-      "title": "Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck - Investor's Business Daily",
-      "description": "SpaceX crushes views on AI compute sales, mulls Tesla merger.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-earnings-tesla-meta-oil-prices/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/stock-SpaceX-Moon2-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-10-21T00:26:00Z"
-    },
-    {
-      "title": "Japan exports post huge miss in September as growth slows to 16.7% - CNBC",
-      "description": "Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters.",
-      "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034334-1726312516674-gettyimages-72340449-50965410KK008.jpeg?v=1726312529&w=1920&h=1080",
+      "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue - CNBC",
+      "description": "It's the fourth major U.S. carrier to cut its 2026 forecast this month because of a spike in fuel costs.",
+      "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108365416-1789917263772-gettyimages-2295594382-AFP_C8TD6BD.jpeg?v=1789917622&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-10-20T23:53:50Z"
+      "publishedAt": "2026-10-22T11:10:03Z"
     },
     {
-      "title": "Elon Musk says Tesla-SpaceX merger being considered - BBC",
-      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "url": "https://www.bbc.com/news/articles/cmlyl09xjke4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+      "title": "Barclays to Cut 5,000 Jobs in AI-Fueled Push to Lower Costs - Bloomberg.com",
+      "description": "Barclays Plc is cutting 5,000 jobs to reduce costs through the use of artificial intelligence, the latest large lender to slash its workforce as the new technology ripples throughout the banking industry.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7LDzQkk.v28/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-22T10:07:46Z"
+    },
+    {
+      "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com",
+      "description": "Chinese stocks were dragged into a bear market, with $2.4 trillion lost since a peak in May, as a protracted slump in consumption and mounting doubts over the profitability of artificial intelligence companies turn them into one of the world’s worst performer…",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/china-stocks-set-for-bear-market-as-ai-trade-policy-hopes-fade",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_umxUjKzi9g/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-22T09:37:13Z"
+    },
+    {
+      "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-22T09:30:00Z"
+    },
+    {
+      "title": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking - Yahoo Finance",
+      "description": "Earnings calls are a great tool to mine for investing clues.",
+      "url": "https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fb883df454a7f0b0f714e2deda9d50130d5cf33be21c01449b7e61a9cae61e09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F17060d20-0669-11ef-afbb-b49c87d8ee17",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-22T09:19:24Z"
+    },
+    {
+      "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day - NPR",
+      "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x3937+0+365/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F71%2F820e6ba548dfabffd935a504e3e6%2Fgettyimages-2264847017.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-10-22T09:01:00Z"
+    },
+    {
+      "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019 - NPR",
+      "description": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5794x3259+0+341/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F4f%2Fa6ef628346e5b0e8961027373fce%2Fgettyimages-2285398485.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence - CNBC",
+      "description": "The fund has a current value of around $2.3 trillion.",
+      "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108278877-1773752864426-gettyimages-2242000077-NORWAY_CLIMATE.jpeg?v=1773752901&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-10-22T08:09:53Z"
+    },
+    {
+      "title": "Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch - Fox Business",
+      "description": "Elon Musk says Tesla demand is far outpacing production, crediting Full Self-Driving technology as the biggest driver ahead of Cybercab's Dallas launch.",
+      "url": "https://www.foxbusiness.com/technology/elon-musk-says-tesla-vehicle-demand-exceeding-production-ahead-dallas-cybercab-launch",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/elon-musk-cybercab.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-22T04:38:00Z"
+    },
+    {
+      "title": "Australia extends ban on KPMG federal contracts until 2027 - Politico",
+      "description": "Firm has lost $61.3 million in federal work after misconduct allegations.",
+      "url": "https://www.politico.com/news/2026/10/22/australia-extends-ban-on-kpmg-federal-contracts-until-2027-01131512",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F65%2F7c%2F5da201054b4aa6039bb805075b1e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1297929032",
+      "source": "Politico",
+      "publishedAt": "2026-10-22T04:00:00Z"
+    },
+    {
+      "title": "Powerball numbers are in for $635 million jackpot. Did you win? - USA Today",
+      "description": "The Powerball winning numbers are in for Wednesday night's $635 million jackpot drawing. See the results for Oct. 21.",
+      "url": "https://www.usatoday.com/story/money/lottery/2026/10/21/powerball-winning-numbers-oct-21-2026/92369920007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92369981007-20260717-t-181228-z-871832335-mt-1-usatoday-29401452-rtrmadp-3-powerballisamultistatejackpotgamepowerballcom.JPG?crop=2399,1350,x0,y93&width=2399&height=1350&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-10-22T03:17:00Z"
+    },
+    {
+      "title": "Futures Fall; Meta, Tesla Lead Big Earnings Late - Investor's Business Daily",
+      "description": "The Nasdaq is set to move right back below its 50-day line.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-tesla-earnings-spacex-super-micro-nasdaq/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/marketdiem_elonmusk.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-10-22T03:09:00Z"
+    },
+    {
+      "title": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump’s Exit — ARK Sees Tesla Holders ‘5x Better Off’ By 2036 - Yahoo Finance",
+      "description": "Balancing the benefits implies a 30% Tesla premium using ARK’s 2031 projections, but a 50% discount using its 2036 projections.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-musk-merger-before-trump-exit-ark-tesla-holders-5x-better-off-2036/cZxvrHoRBwd",
+      "urlToImage": "https://news.stocktwits-cdn.com/large_trump_musk_e78f77abd7.jpg",
+      "source": "Stocktwits.com",
+      "publishedAt": "2026-10-22T01:44:00Z"
+    },
+    {
+      "title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million - AP News",
+      "description": "Meta Platforms says its third-quarter profit jumped more than threefold, as revenue climbed sharply. The Facebook and Instagram parent company on Wednesday reported net income of $9.86 billion, or $3.83 per share, for the July-September period. Excluding a ch…",
+      "url": "https://apnews.com/article/meta-earnings-facebook-instagram-muse-capex-13ecd6c459e39a3602f302bcc2412fe9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9e43669/2147483647/strip/true/crop/2052x1368+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2F9f%2F29dd649b0fcbde4cbabca520e5ff%2Fb37171330ce24dd6b725b94d2d6550f8",
+      "source": "Associated Press",
+      "publishedAt": "2026-10-21T23:30:00Z"
+    },
+    {
+      "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus - Yahoo Finance",
+      "description": "Meta reported earnings that beat expectations, while narrowing its capex plans.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-gain-powered-by-meta-tesla-stock-spcx-meta-tsla-skyd-ibm-in-focus/cZxM14eRBwR",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d4c016ad04463c0ef53fc9d5084b95be2ab4793f56467d82c966f2e4aaa01a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc3bed49a5bbfc8e896f3462aab4f64df.jpg",
+      "source": "Stocktwits.com",
+      "publishedAt": "2026-10-21T23:15:19Z"
+    },
+    {
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules - BBC",
+      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "url": "https://www.bbc.com/news/articles/c6n049gg75r4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-10-20T23:24:47Z"
-    },
-    {
-      "title": "American Airlines O'Hare news today: Crew reported brake problem before tire blew out on flight at Chicago airport, officials say - ABC7 Chicago",
-      "description": "Federal officials are investigating after a flight arriving from Barcelona experienced a tire blowout following a reported brake issue while landing at O'Hare.",
-      "url": "https://abc7chicago.com/post/chicago-ohare-news-today-person-hospitalized-plane-blows-2-tires-landing-brake-issues-nw-side-airport/19961452/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19962773_102026-wls-cate-ohare-tire-blowout-10p-vid.jpg?w=1600",
-      "source": "WLS-TV",
-      "publishedAt": "2026-10-20T23:21:15Z"
-    },
-    {
-      "title": "Trump administration launches national kidney care plan - The Hill",
-      "description": "Click in for more news from The Hill {beacon} Healthcare Healthcare   The Big Story  Trump launches national kidney care plan The Trump administration launched the Kidney Care National Plan Tuesday, aiming to improve structural kidney care deficiencies the He…",
-      "url": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP22182820846349-e1792535933841.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2026-10-20T23:13:00Z"
-    },
-    {
-      "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, Elon Musk says - Space",
-      "description": "\"I'd say it's more likely than not that this succeeds.\"",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bdHKBGYDk9vQ58gCeTzvgW-2318-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2026-10-20T22:29:46Z"
+      "publishedAt": "2026-10-21T22:54:58Z"
     }
   ]
 }

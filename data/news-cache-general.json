@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2026-10-22T11:40:55.595Z",
+  "updatedAt": "2026-10-23T11:29:50.516Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "Netflix Stock Drops. Why Wall Street Is Still Worried After Earnings Beat. - Barron's",
-      "description": "Netflix shares are down 27% this year as the streaming giant struggles to grow in a saturated market and faces growing competition.",
-      "url": "https://www.barrons.com/articles/netflix-earnings-stock-price-856a48ad",
-      "urlToImage": "https://images.barrons.com/im-73058438/social",
-      "source": "Barron's",
-      "publishedAt": "2026-10-21T09:38:00Z"
-    },
-    {
-      "title": "Russia says it freed American Stephen Hubbard, 74, as Trump envoy meets with Putin - NBC News",
-      "description": "Russia has released retired American teacher Stephen Hubbard, 74, the latest sign of warmer ties between the two countries as Washington pressures Kyiv to agree to a deal to end Moscow’s war.",
-      "url": "https://www.nbcnews.com/world/russia/russia-released-american-stephen-hubbard-trump-putin-ukraine-war-talks-rcna604730",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261021-hubbard-rs-0515e1.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-10-21T09:25:00Z"
-    },
-    {
-      "title": "The history behind France’s proud tradition of protests - AP News",
-      "description": "France is known for its vibrant protest culture, where activism is seen as a social duty and part of the national identity. From high fuel taxes to better pay for farmers, the French take to the streets with passion. Protests are considered a rite of passage …",
-      "url": "https://apnews.com/article/france-protests-education-inequality-violence-7c362a35d57e974e026f1e57062cf467",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0fd6c07/2147483647/strip/true/crop/4500x3000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fef%2Fd2%2F84766442c67648d7792ecd810e36%2F404b52257df24e93991ca319ff0c38c4",
-      "source": "Associated Press",
-      "publishedAt": "2026-10-21T08:26:00Z"
-    },
-    {
-      "title": "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-21T08:13:00Z"
-    },
-    {
-      "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC",
-      "description": "This earnings season could help propel stocks as the year winds down, said Christian Mueller-Glissmann, head of asset allocation for Goldman Sachs Research.",
-      "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108437793-1792509114099-Traders-Photo-20261019-KK-016.jpg?v=1792509208&w=1920&h=1080",
+      "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue - CNBC",
+      "description": "It's the fourth major U.S. carrier to cut its 2026 forecast this month because of a spike in fuel costs.",
+      "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108365416-1789917263772-gettyimages-2295594382-AFP_C8TD6BD.jpeg?v=1789917622&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-10-21T07:55:45Z"
+      "publishedAt": "2026-10-22T11:10:03Z"
     },
     {
-      "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service - NPR",
-      "description": "Nearly a decade after Boeing unveiled its largest 737 Max jet, the company has cleared a major hurdle in its effort to bring the plane to airlines.",
-      "url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5649x3178+0+294/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F49%2F691e54804b89835aa835df090ce6%2Fap26293796017632.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-10-21T06:05:18Z"
-    },
-    {
-      "title": "The Orionid Meteor Shower Peaks Tonight — Here’s When To Look - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/jamiecartereurope/2026/10/21/orionids-halleys-comet-shooting-stars-peak-tonight---when-to-look/",
-      "urlToImage": null,
-      "source": "Forbes",
-      "publishedAt": "2026-10-21T06:00:00Z"
-    },
-    {
-      "title": "United Nations report highlights significant increase in U.S. climate pollution - NPR",
-      "description": "The U.S. is the only major economy where planet-warming pollution dramatically increased last year. The United Nations warns the planet is on track for catastrophic warming.",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6003553/america-oil-gas-coal-climate-change-trump-carbon-emissions",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F9b%2Fa2c776734499835a32baf99555f7%2Fap26008814159354.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-10-21T05:00:00Z"
-    },
-    {
-      "title": "U.S. restores intelligence sharing with Ukraine, Zelensky says - The Washington Post",
-      "description": "After meeting with the Ukrainian president in Oslo, Trump envoy Steve Witkoff heads to Russia on Wednesday to push Vladimir Putin for three-way talks.",
-      "url": "https://www.washingtonpost.com/world/2026/10/20/us-restores-intelligence-sharing-with-ukraine-zelensky-says/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5BS2QT3MF6ZSNFBIUXNKFYJWM_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-21T04:38:17Z"
-    },
-    {
-      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami - Science Daily",
-      "description": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The viol…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/asteroid-slamming-into-ocean.webp",
-      "source": "Science Daily",
-      "publishedAt": "2026-10-21T04:10:39Z"
-    },
-    {
-      "title": "Ohio governor’s race in uproar over ad featuring Democrat’s estranged mother - The Washington Post",
-      "description": "Amy Acton was removed from her mother’s home when she was 12 after her stepfather was indicted on a charge of raping her.",
-      "url": "https://www.washingtonpost.com/politics/2026/10/20/ohio-governors-race-uproar-over-video-featuring-democrats-estranged-mother/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVAL6JFJLVWCRDZIIK2E32YW4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-21T04:08:00Z"
-    },
-    {
-      "title": "Julia Stiles Has '10 Things I Hate About You' Reunion During Heath Ledger Tribute on 'DWTS' - Variety",
-      "description": "During \"Dedication Night,\" Julia Stiles was joined by her \"10 Things I Hate About You\" castmates for a tribute to costar Heath Ledger.",
-      "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/183899_DSC00189.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-10-21T04:05:00Z"
-    },
-    {
-      "title": "Knicks raise NBA championship banner, hand out elaborate rings complete with a miniature Madison Square Garden - Yahoo Sports",
-      "description": "With LeBron James and the Philadelphia 76ers in town for their season debuts, the Knicks passed out championship rings and raised a banner in front of an ecs...",
-      "url": "https://sports.yahoo.com/nba/breaking-news/article/knicks-raise-nba-championship-banner-hand-out-elaborate-rings-complete-with-a-miniature-madison-square-garden-024402839.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7b1c7db4fd2c0e1461df6222ef5ee21e8d15925cfb8206002ad6493020f03d32/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F20d2e2db-f304-489d-8978-5e6655acb943",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-21T02:41:00Z"
-    },
-    {
-      "title": "76ers win opening game with LeBron James and Jaylen Brown, beating NBA champion Knicks 106-100 - AP News",
-      "description": "The Philadelphia 76ers sent an opening-night message they’ll be a contender for the New York Knicks’ NBA title after adding LeBron James and Jaylen Brown, rallying for a 106-100 victory Tuesday night. Tyrese Maxey scored 28 points and Brown had 19 points, eig…",
-      "url": "https://apnews.com/article/knicks-76ers-score-516e86ad2bc08b55e11f0ddfe63c400b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bfd69bf/2147483647/strip/true/crop/5527x3685+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2Fbc%2F4e59e165f25637dd83bcf9020c91%2F9f6b2809b588450fbb9449d7b84ecaa1",
-      "source": "Associated Press",
-      "publishedAt": "2026-10-21T02:18:00Z"
-    },
-    {
-      "title": "Critical PHP Security Release Coming Tomorrow (October 21) - Laravel News",
-      "description": "The PHP security team will ship a release on October 21, 2026 at 14:00 UTC that fixes two critical vulnerabilities, both rated CVSS 9.2. Plan your upgrade now.",
-      "url": "https://laravel-news.com/php-critical-security-release",
-      "urlToImage": "https://laravelnews.s3.amazonaws.com/featured-images/php-critical-security-release-featured.png",
-      "source": "Laravel News",
-      "publishedAt": "2026-10-21T02:00:00Z"
-    },
-    {
-      "title": "How a photo of a person’s face could help predict whether they’ll survive cancer treatment - CNN",
-      "description": "A simple selfie could hold surprising clues to your overall health and longevity, especially among people with cancer.",
-      "url": "https://www.cnn.com/2026/10/20/health/ai-models-cancer-survival-biological-age",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/faceage-cancer-survival-biological-age.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-10-21T01:33:00Z"
-    },
-    {
-      "title": "NFLPA calls for 'full investigation' into medical care provided to Eagles' Hurts - ESPN",
-      "description": "After NFL chief medical officer Allen Sills staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue Tuesday, the NFLPA issued a statement calling for a \"full investigation\" into his medical care.",
-      "url": "https://www.espn.com/nfl/story/_/id/50233573/nflpa-demands-full-investigation-hurts-medical-care",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2Fr1733718_1296x729_16%2D9.jpg",
+      "title": "Ranking top players in Brewers-Rays World Series - ESPN",
+      "description": "Here's how the rosters of the Rays and the Brewers stack up and who is primed to do the most jaw-dropping things on baseball's biggest stage.",
+      "url": "https://www.espn.com/mlb/story/_/id/50238330/ranking-world-series-players-rays-brewers",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1021%2F261022_mlb_top%2Dplayers%2Din%2Dworld%2Dseries_16x9.jpg",
       "source": "ESPN",
-      "publishedAt": "2026-10-21T01:06:00Z"
+      "publishedAt": "2026-10-22T11:00:00Z"
     },
     {
-      "title": "Grab the Tissues, It’s Dedication Night on ‘Dancing With the Stars’: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
-      "description": "Val Chmerkovskiy will not partake in Tuesday night's episode following a controversial comment he made referencing Will Smith slapping Chris Rock at the 2022 Oscars while defending his wife, fellow pro Jenna Johnson, against comments Carrie Ann Inaba made on …",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-dedication-week-6-recap-scores-elimination-1236736527/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/183834_CW104647-e1792522272123.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-10-20T23:58:19Z"
+      "title": "A remarkable new picture is emerging of how the air around us could alter the brain - The Washington Post",
+      "description": "Researchers are making new discoveries about how what we breath reshapes the brain and the link to conditions such as dementia, Parkinson's and autism.",
+      "url": "https://www.washingtonpost.com/health/2026/10/22/remarkable-new-picture-is-emerging-how-air-around-us-could-alter-brain/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HCPKDIRLX5HQVHVIN4Z32U5QVM.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-22T10:32:15Z"
+    },
+    {
+      "title": "A mutated virus is driving the US into an early flu season, especially on the West Coast - CNN",
+      "description": "Flu season is picking up months ahead of schedule with a mutated virus spreading in some parts of the United States.",
+      "url": "https://www.cnn.com/2026/10/22/health/flu-2026-mutation",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-10-19t184026z-540685093-rc2ionagdy4k-rtrmadp-3-health-usa-flu.JPG?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2026-10-22T10:00:16Z"
+    },
+    {
+      "title": "Trump rallying with Senate hopeful Ashley Hinson in Iowa as she pledges to push back on White House - CBS News",
+      "description": "President Trump is set to rally with Rep. Ashley Hinson in Iowa as he seeks to boost GOP candidates in a political environment that has dimmed for the party — prompting pushback from some candidates, including Hinson.",
+      "url": "https://www.cbsnews.com/news/trump-rally-iowa-ashley-hinson-senate-josh-turek/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/14/981c3172-d7d1-454b-a400-b2b599d30836/thumbnail/1200x630/e770734128c38c264d42bf9c05f54c6d/gettyimages-2231710308-1.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-10-22T10:00:13Z"
+    },
+    {
+      "title": "\"Stop whining\": What Vance's take on Ohio ad flap means for 2028 - Axios",
+      "description": "He showed a key part of his political mindset ahead of his expected run for president.",
+      "url": "https://www.axios.com/2026/10/22/vance-ohio-ad-controversy",
+      "urlToImage": "https://images.axios.com/dVXEScpJJErOqhSmhj_dsJMfRQ8=/0x0:3000x1688/1366x768/2026/10/21/1792619554396.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-10-22T09:02:20Z"
+    },
+    {
+      "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters - NPR",
+      "description": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works.",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2665x1500+202+239/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F9b%2Fb83fb97e4d69aeaa9e07014f930a%2Fpromo-redistricting-20261021.png",
+      "source": "NPR",
+      "publishedAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - The Seattle Times",
+      "description": "U.S. Rep. Ilhan Omar says she will move out of her Washington, D.C., home that federal agents searched last week.",
+      "url": "https://www.seattletimes.com/nation-world/nation/rep-ilhan-omar-says-she-will-move-out-of-her-washington-dc-home-after-federal-search/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/10212026_omar-tzr_tzr_212326.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2026-10-22T07:40:30Z"
+    },
+    {
+      "title": "Orionid meteor shower 2026: cloud cover forecast by region - The Weather Channel",
+      "description": "The best night to see the Orionids is Wednesday into Thursday, but could the weather get in your way? Here is the forecast.",
+      "url": "https://weather.com/2026/10/22/science/space/orionid-meteor-shower-weather-forecast-rain-cloud-cover",
+      "urlToImage": "https://s.w-x.co/wxnext/img/OrionidForecastClean-edd252.png",
+      "source": "The Weather Channel",
+      "publishedAt": "2026-10-22T06:56:08Z"
+    },
+    {
+      "title": "Takeaways from the Senate debate in Kansas, an unexpected midterm battleground - The Washington Post",
+      "description": "Kansas voters have not elected a Democrat to the Senate since 1932, but the contest between Republican Sen. Roger Marshall and Democrat Adam Hamilton, a Methodist minister, has been forecast as a toss-up.",
+      "url": "https://www.washingtonpost.com/politics/2026/10/21/takeaways-senate-debate-kansas-an-unexpected-midterm-battleground/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QPM47QR2FEZFLJ7BUUNWKCV2ZI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-22T06:38:00Z"
+    },
+    {
+      "title": "Does the Fitbit Edge have NFC? Here's what Google says - Android Authority",
+      "description": "The Fitbit Edge launched earlier this month, but does this new wearable have NFC? Here's what Google told us.",
+      "url": "https://www.androidauthority.com/does-fitbit-edge-have-nfc-3726486/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-10-scaled.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2026-10-22T06:12:00Z"
+    },
+    {
+      "title": "Sacha Baron Cohen defends reviving ‘problematic’ Ali G character: ‘That’s the reason I resurrected him’ - The Independent",
+      "description": "There have been calls to boycott the satirical comedy, which is released later this week",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/sacha-baron-cohen-ali-g-controversy-b3071173.html",
+      "urlToImage": "https://static.the-independent.com/2026/10/20/15/55/Screenshot-2026-10-20-at-16-28-58.png?trim=0,448,0,277&width=1200&height=800&crop=1200:800",
+      "source": "The-independent.com",
+      "publishedAt": "2026-10-22T06:00:00Z"
+    },
+    {
+      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms - CNBC",
+      "description": "The U.S. ordered non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field, reviving fears of a widening regional conflict.",
+      "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108386022-1791643371283-gettyimages-2295446276-AFP_C8RQ663.jpeg?v=1791796010&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-10-22T04:26:42Z"
+    },
+    {
+      "title": "‘Golden Bachelor’ Star Peg Munson Reveals Shocking Split From Mel Owens - TV Insider",
+      "description": "'This is not the end of my story.'",
+      "url": "https://www.tvinsider.com/swooon/1308153/golden-bachelor-peg-munson-mel-owens-split-announcement-video/",
+      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2025/11/mel-owens-peg-munson-golden-bachelor-finale-1420x798.jpg",
+      "source": "TVInsider",
+      "publishedAt": "2026-10-22T04:10:18Z"
+    },
+    {
+      "title": "BioWare closed by EA after 30 years of influential, genre-defining games - The Washington Post",
+      "description": "Development on the next Mass Effect game has been discontinued.",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2026/10/21/bioware-closed-by-ea-after-30-years-influential-genre-defining-games/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FXFAL7XYDIBAE5FQ2OAMTXSCPOU.jpg&w=1200",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-22T04:00:00Z"
+    },
+    {
+      "title": "LaMelo Ball opens Timberwolves career with 21 points and 6 assists, plus an outrageously bad missed travel - Yahoo Sports",
+      "description": "The ESPN broadcast booth could not believe what it was seeing.",
+      "url": "https://sports.yahoo.com/nba/article/lamelo-ball-opens-timberwolves-career-with-21-points-and-6-assists-plus-an-outrageously-bad-missed-travel-022619245.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c7fed0e08bc170832258ea0a57ebcdaff321582db01bff7a69ff889172df619e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F7d9743e4-dec3-45ee-ab74-80d12de84058",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-22T02:18:00Z"
     }
   ]
 }
