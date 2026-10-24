@@ -1,143 +1,151 @@
 {
-  "updatedAt": "2026-10-23T11:29:50.660Z",
+  "updatedAt": "2026-10-24T10:49:42.400Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Stock Market Today: Stocks Slide After Mideast Tensions, Tesla Earnings — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-22T12:26:00Z"
-    },
-    {
-      "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue - CNBC",
-      "description": "It's the fourth major U.S. carrier to cut its 2026 forecast this month because of a spike in fuel costs.",
-      "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108365416-1789917263772-gettyimages-2295594382-AFP_C8TD6BD.jpeg?v=1789917622&w=1920&h=1080",
+      "title": "Stock futures trade mixed after tech sector sell-off: Live updates - CNBC",
+      "description": "The Nasdaq Composite posted its worst day since June as the tech sector sold off Thursday.",
+      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108442584-1792601105464-Traders-Photo-20261021-AS-PRESS-5.jpg?v=1792601484&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-10-22T11:10:03Z"
+      "publishedAt": "2026-10-23T07:29:36Z"
     },
     {
-      "title": "Barclays to Cut 5,000 Jobs in AI-Fueled Push to Lower Costs - Bloomberg.com",
-      "description": "Barclays Plc is cutting 5,000 jobs to reduce costs through the use of artificial intelligence, the latest large lender to slash its workforce as the new technology ripples throughout the banking industry.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7LDzQkk.v28/v1/1200x800.jpg",
+      "title": "Global tech sell-off sparks flight to safety - Financial Times",
+      "description": "Japanese bonds and yen rally as Asian stock markets follow Wall Street lower",
+      "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fa9cb4a-a856-4324-9383-93aa8b6876fc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-23T03:41:23Z"
+    },
+    {
+      "title": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1M - NewsNation",
+      "description": "UnitedHealthcare and Humana are canceling the plans to boost corporate profits.",
+      "url": "https://www.newsnationnow.com/health/unitedhealthcare-humana-medicare-advantage-cancellations/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/GettyImages-1047505000-1.jpg?w=1280",
+      "source": "Newsnationnow.com",
+      "publishedAt": "2026-10-23T02:48:38Z"
+    },
+    {
+      "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap - Bloomberg.com",
+      "description": "Technology stocks trimmed their losses heading into the European session, offering global investors some respite after renewed pressure on the artificial intelligence trade drove demand for bonds. Crude oil extended its gains.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieIFha8628Ow/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-10-22T10:07:46Z"
+      "publishedAt": "2026-10-23T02:35:00Z"
     },
     {
-      "title": "China Stocks Set for Bear Market as AI Trade, Policy Hopes Fade - Bloomberg.com",
-      "description": "Chinese stocks were dragged into a bear market, with $2.4 trillion lost since a peak in May, as a protracted slump in consumption and mounting doubts over the profitability of artificial intelligence companies turn them into one of the world’s worst performer…",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/china-stocks-set-for-bear-market-as-ai-trade-policy-hopes-fade",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_umxUjKzi9g/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-10-22T09:37:13Z"
+      "title": "Mark Zuckerberg's creative plan to pay California’s proposed billionaire tax without losing control of Meta - TechCrunch",
+      "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T23:50:41Z"
     },
     {
-      "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-22T09:30:00Z"
+      "title": "Solidigm to Discontinue Review of Potential IPO, Reaffirming Commitment to Long-Term Growth and Shareholder Value - SK hynix",
+      "description": "▪ Solidigm has explored various funding options, including a potential IPO, to finance a new fab in the U.S. to meet growing AI memory demand. ▪ While an IPO was expected to ease investment burdens and expand capacity for shareholder",
+      "url": "https://news.skhynix.com/en/fact-12/",
+      "urlToImage": "https://d18r0a86za96sg.cloudfront.net/wp-content/uploads/2026/07/31152725/en_newsroom_thumb-1.png",
+      "source": "Skhynix.com",
+      "publishedAt": "2026-10-22T23:49:15Z"
     },
     {
-      "title": "Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking - Yahoo Finance",
-      "description": "Earnings calls are a great tool to mine for investing clues.",
-      "url": "https://finance.yahoo.com/technology/ai/article/tesla-meta-and-ibm-3-earnings-call-shout-outs-that-left-us-thinking-091924234.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fb883df454a7f0b0f714e2deda9d50130d5cf33be21c01449b7e61a9cae61e09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2F17060d20-0669-11ef-afbb-b49c87d8ee17",
+      "title": "Elon Musk’s $10.5B SpaceX gift to kids has a catch: Families can’t say no — and may need to wait 5 years to cash out - Yahoo Finance",
+      "description": "Why would anyone complain about free assets? Part of it comes down to the potential donor motivations.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-10-5b-spacex-233000671.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f9b695aa5f3617cc7bd10b8f3c27ec9c672e7be1f931dc4fd98e019f22593355/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F40e6739c3638fb894679b2c2ca82100b.jpg",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-22T09:19:24Z"
+      "publishedAt": "2026-10-22T23:30:00Z"
     },
     {
-      "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day - NPR",
-      "description": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x3937+0+365/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F71%2F820e6ba548dfabffd935a504e3e6%2Fgettyimages-2264847017.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-10-22T09:01:00Z"
+      "title": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
+      "description": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment.",
+      "url": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg",
+      "source": "STAT",
+      "publishedAt": "2026-10-22T22:15:55Z"
     },
     {
-      "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019 - NPR",
-      "description": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5794x3259+0+341/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F4f%2Fa6ef628346e5b0e8961027373fce%2Fgettyimages-2285398485.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-10-22T09:00:00Z"
-    },
-    {
-      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence - CNBC",
-      "description": "The fund has a current value of around $2.3 trillion.",
-      "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108278877-1773752864426-gettyimages-2242000077-NORWAY_CLIMATE.jpeg?v=1773752901&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-22T08:09:53Z"
-    },
-    {
-      "title": "Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch - Fox Business",
-      "description": "Elon Musk says Tesla demand is far outpacing production, crediting Full Self-Driving technology as the biggest driver ahead of Cybercab's Dallas launch.",
-      "url": "https://www.foxbusiness.com/technology/elon-musk-says-tesla-vehicle-demand-exceeding-production-ahead-dallas-cybercab-launch",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/elon-musk-cybercab.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-10-22T04:38:00Z"
-    },
-    {
-      "title": "Australia extends ban on KPMG federal contracts until 2027 - Politico",
-      "description": "Firm has lost $61.3 million in federal work after misconduct allegations.",
-      "url": "https://www.politico.com/news/2026/10/22/australia-extends-ban-on-kpmg-federal-contracts-until-2027-01131512",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F65%2F7c%2F5da201054b4aa6039bb805075b1e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1297929032",
+      "title": "‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling - Politico",
+      "description": "New Mexico Attorney General Raúl Torrez said the record-setting judgment should encourage more states to take the tech industry to trial.",
+      "url": "https://www.politico.com/news/2026/10/22/just-the-beginning-new-mexico-ag-warns-ai-industry-after-25b-meta-ruling-01133294",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F70%2Fc3%2F7d0c0bcc45519dde7aa96312215e%2Ffacebook-new-mexico-63369.jpg",
       "source": "Politico",
-      "publishedAt": "2026-10-22T04:00:00Z"
+      "publishedAt": "2026-10-22T22:14:00Z"
     },
     {
-      "title": "Powerball numbers are in for $635 million jackpot. Did you win? - USA Today",
-      "description": "The Powerball winning numbers are in for Wednesday night's $635 million jackpot drawing. See the results for Oct. 21.",
-      "url": "https://www.usatoday.com/story/money/lottery/2026/10/21/powerball-winning-numbers-oct-21-2026/92369920007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92369981007-20260717-t-181228-z-871832335-mt-1-usatoday-29401452-rtrmadp-3-powerballisamultistatejackpotgamepowerballcom.JPG?crop=2399,1350,x0,y93&width=2399&height=1350&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-10-22T03:17:00Z"
+      "title": "Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down - Fox Business",
+      "description": "Quest Diagnostics temporarily suspended access to several systems following a cyberattack involving patient information.",
+      "url": "https://www.foxbusiness.com/technology/major-medical-testing-company-quest-diagnostics-hit-cyberattack-patient-records-risk",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/quest-diagnostics-logo.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-22T22:13:00Z"
     },
     {
-      "title": "Futures Fall; Meta, Tesla Lead Big Earnings Late - Investor's Business Daily",
-      "description": "The Nasdaq is set to move right back below its 50-day line.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-tesla-earnings-spacex-super-micro-nasdaq/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/marketdiem_elonmusk.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-10-22T03:09:00Z"
+      "title": "Hackers appear to be struggling to exploit PHP flaws after global cybersecurity crisis - NBC News",
+      "description": "There were few, if any, reports of widespread damage by hackers exploiting PHP flaws, experts said, one day after officials warned of severe vulnerabilities.",
+      "url": "https://www.nbcnews.com/tech/security/hackers-php-flaws-cybersecurity-crisis-rcna605112",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240220-russian-ransomware-stock-aa-831a-6fee4b.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-10-22T22:07:15Z"
     },
     {
-      "title": "TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trump’s Exit — ARK Sees Tesla Holders ‘5x Better Off’ By 2036 - Yahoo Finance",
-      "description": "Balancing the benefits implies a 30% Tesla premium using ARK’s 2031 projections, but a 50% discount using its 2036 projections.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-musk-merger-before-trump-exit-ark-tesla-holders-5x-better-off-2036/cZxvrHoRBwd",
-      "urlToImage": "https://news.stocktwits-cdn.com/large_trump_musk_e78f77abd7.jpg",
-      "source": "Stocktwits.com",
-      "publishedAt": "2026-10-22T01:44:00Z"
+      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price - Financial Times",
+      "description": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
+      "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8bbf7787-7e05-4e92-b9ba-ba7c03f2bbe0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-22T21:50:16Z"
     },
     {
-      "title": "Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million - AP News",
-      "description": "Meta Platforms says its third-quarter profit jumped more than threefold, as revenue climbed sharply. The Facebook and Instagram parent company on Wednesday reported net income of $9.86 billion, or $3.83 per share, for the July-September period. Excluding a ch…",
-      "url": "https://apnews.com/article/meta-earnings-facebook-instagram-muse-capex-13ecd6c459e39a3602f302bcc2412fe9",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9e43669/2147483647/strip/true/crop/2052x1368+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2F9f%2F29dd649b0fcbde4cbabca520e5ff%2Fb37171330ce24dd6b725b94d2d6550f8",
+      "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout - AP News",
+      "description": "Airbnb guests may soon have fewer chores to tackle before checking out. The short-term rental platform says it is changing its rules to limit what hosts can require of guests. The new policy says hosts can no longer ask guests to wash dishes, strip beds or ta…",
+      "url": "https://apnews.com/article/airbnb-guests-checkout-chores-new-policy-24a2d80b09ae1fca77d0411c6a08dddd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e9b79f3/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F05%2Fceb6c1b3ec8370a6a4e86f3df00d%2F1ebd51bc205940b08aa67df86416b64d",
       "source": "Associated Press",
-      "publishedAt": "2026-10-21T23:30:00Z"
+      "publishedAt": "2026-10-22T21:33:00Z"
     },
     {
-      "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus - Yahoo Finance",
-      "description": "Meta reported earnings that beat expectations, while narrowing its capex plans.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-gain-powered-by-meta-tesla-stock-spcx-meta-tsla-skyd-ibm-in-focus/cZxM14eRBwR",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d4c016ad04463c0ef53fc9d5084b95be2ab4793f56467d82c966f2e4aaa01a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc3bed49a5bbfc8e896f3462aab4f64df.jpg",
-      "source": "Stocktwits.com",
-      "publishedAt": "2026-10-21T23:15:19Z"
+      "title": "Treasury yields see extreme plunge. Why investors are ducking for cover. - MarketWatch",
+      "description": "The scramble for safety was attributed to a confluence of factors suddenly plaguing the market all at once",
+      "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66",
+      "urlToImage": "https://images.mktw.net/im-46225712/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-22T21:32:00Z"
     },
     {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules - BBC",
-      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-      "url": "https://www.bbc.com/news/articles/c6n049gg75r4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T22:54:58Z"
+      "title": "SpaceX in Talks to Access 80,000 Cell Sites for Wireless Network - Bloomberg.com",
+      "description": "SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it’s in talks with at least one major cellular infrastructure company to reach that goal, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMoYuhPaNfpI/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-22T21:31:42Z"
+    },
+    {
+      "title": "Every drink you buy at an Oregon Dutch Bros on Friday goes toward supporting Silver Rail Elementary - OregonLive.com",
+      "description": null,
+      "url": "https://www.oregonlive.com/news/2026/10/oregon-coffee-giant-will-donate-1-for-each-drink-bought-friday-to-bends-silver-rail-elementary.html",
+      "urlToImage": null,
+      "source": "OregonLive",
+      "publishedAt": "2026-10-22T21:17:00Z"
+    },
+    {
+      "title": "Comcast loses more customers, claims other ISPs’ cheap prices are “irrational” - Ars Technica",
+      "description": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-10-22T21:07:09Z"
+    },
+    {
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze - MarketWatch",
+      "description": "Rising costs of moving crude supercharge the surge in global oil prices",
+      "url": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982",
+      "urlToImage": "https://images.mktw.net/im-75849474/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-22T20:46:00Z"
     }
   ]
 }
