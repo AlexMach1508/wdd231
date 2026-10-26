@@ -1,151 +1,143 @@
 {
-  "updatedAt": "2026-10-25T11:14:59.482Z",
+  "updatedAt": "2026-10-26T12:49:01.870Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Six Flags to Add Seat Belts to Rides Following Death - WSJ",
+      "title": "A Veteran of the Telecom Bust Navigates the AI Boom - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d",
+      "url": "https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-24T10:38:08Z"
+      "publishedAt": "2026-10-25T10:24:06Z"
     },
     {
-      "title": "Washington's message to AI execs: Please shut up - Axios",
-      "description": "Washington is losing patience with AI leaders.",
-      "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
-      "urlToImage": "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png",
-      "source": "Axios",
-      "publishedAt": "2026-10-24T09:41:23Z"
+      "title": "Column | Asking Eric: Am I ‘abandoning’ myself if I don’t leave my wife? - The Washington Post",
+      "description": "Wife’s treatment-resistant depression makes her dependent on the letter writer.",
+      "url": "https://www.washingtonpost.com/advice/2026/10/25/asking-eric-friends-counselors-tell-husband-leave-he-wont/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-25T10:04:16Z"
     },
     {
-      "title": "Still sending checks in the mail? It's time to stop - USA Today",
-      "description": "Check fraud is rising even as the number of checks in circulation is declining. If you're still sending them in the mail, it may be time to stop.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/24/is-it-safe-to-mail-checks-fraud-risk/92380337007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91595876007-20240327-t-205826-z-201923544-mt-1-usatoday-22880038-rtrmadp-3-asurgeincheckfraudhasledtonewtipsabouthowtomail.JPG?crop=1886,1060,x240,y0&width=1886&height=1060&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-10-24T09:03:00Z"
+      "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades - Financial Times",
+      "description": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+      "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F36910998-36b2-4b8d-89cc-c4d47a6b2a27.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-25T05:01:30Z"
     },
     {
-      "title": "Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink - WSJ",
+      "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
+      "description": "President Donald Trump has announced that Audi will build a new auto factory in Georgia. The Republican president's announcement Saturday at a campaign rally comes as he tries to deliver on his promise to bolster American manufacturing in the final days befor…",
+      "url": "https://apnews.com/article/audi-georgia-trump-manufacturing-auto-plant-c1d49f2437c1d9cf349af399b8abe3a3",
+      "urlToImage": "https://dims.apnews.com/dims4/default/ac53fb0/2147483647/strip/true/crop/2031x1354+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fd0%2F506955b78633c5057db0e44638cc%2F554f169cdd7d48f4b9078903cc608f8a",
+      "source": "Associated Press",
+      "publishedAt": "2026-10-25T02:22:00Z"
+    },
+    {
+      "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap - Bloomberg.com",
+      "description": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir2lSogmkIAE/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-25T00:00:00Z"
+    },
+    {
+      "title": "He Bought a Mansion for $155M, Had It Torn Down - Newser",
+      "description": "The Wall Street Journal looks at what it sees as a growing trend",
+      "url": "https://www.newser.com/story/398626/he-bought-a-mansion-for-155m-immediately-razed-it.html",
+      "urlToImage": "https://cdn.newser.com/image/1719602-12-20261024163433.jpeg",
+      "source": "Newser",
+      "publishedAt": "2026-10-24T21:06:00Z"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet? - TechCrunch",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-24T20:15:33Z"
+    },
+    {
+      "title": "Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel, according to a top economist - Fortune",
+      "description": "\"So far, the AI payoff for firms has been slow to materialize, implying a growing reluctance to pay for AI services.\"",
+      "url": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300875245-e1792865618919.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-10-24T19:39:00Z"
+    },
+    {
+      "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead - Fox News",
+      "description": "Royal Caribbean's Oasis of the Seas rerouted over 5,000 Bahamas-bound passengers to Halifax, Nova Scotia, after stormy weather forced an itinerary change.",
+      "url": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/cruise-ship-passengers-pier-66-seattle.jpg",
+      "source": "Fox News",
+      "publishedAt": "2026-10-24T19:03:32Z"
+    },
+    {
+      "title": "Lawsuit: Nippon ignored warnings before chemical tank implosion killed 11 workers - OregonLive.com",
       "description": null,
-      "url": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/2026/10/longview-paper-company-failed-to-fix-chemical-tank-before-implosion-that-killed-11-lawsuit-alleges.html",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-24T02:35:00Z"
+      "source": "OregonLive",
+      "publishedAt": "2026-10-24T18:59:00Z"
     },
     {
-      "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera",
-      "description": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbf52f2605-1792800047.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-24T01:32:15Z"
-    },
-    {
-      "title": "MTA suspending bus fare enforcement teams after altercations emerge - Gothamist",
-      "description": "MTA Chair Janno Lieber said he needed to confirm protocols are being followed.",
-      "url": "https://gothamist.com/news/mta-suspending-bus-fare-enforcement-teams-after-altercations-emerge",
-      "urlToImage": "https://api-prod.gothamist.com/images/362096/fill-1200x650|format-webp|webpquality-85/",
-      "source": "Gothamist",
-      "publishedAt": "2026-10-23T23:49:00Z"
-    },
-    {
-      "title": "Medicare Advantage cuts leave millions scrambling to find coverage - PBS",
-      "description": "Health care costs are climbing, putting new pressure on millions of Americans and raising questions about the coverage they can afford. The challenges extend to Medicare Advantage. In some parts of the country, insurers are pulling out of markets or eliminati…",
-      "url": "https://www.pbs.org/newshour/show/medicare-advantage-cuts-leave-millions-scrambling-to-find-coverage",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/medicaire-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2026-10-23T22:30:39Z"
-    },
-    {
-      "title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way. - Yahoo Finance",
-      "description": "Musk recently added fuel to already rampant rumors about a future SpaceX-Tesla merger.",
-      "url": "https://www.fool.com/investing/2026/10/23/elon-musk-says-a-spacex-tesla-merger-is-a-good-idea-here-s-what-stands-in-the-way/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cecef2e59179a25e9fdabaea5c8fe5e983c714abc23b13eaa7d0d9c4fc134b08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F452089e46d6b6f8e9bbbd292e5817ae4.jpg",
-      "source": "Motley Fool",
-      "publishedAt": "2026-10-23T21:54:02Z"
-    },
-    {
-      "title": "Texas sues OpenAI, Sam Altman over product safety - Politico",
-      "description": "The state’s attorney general in court documents alleges OpenAI falsely marketed ChatGPT as safe and that it has harmed Texans, including children.",
-      "url": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F20%2F63%2F98371096426b81a2728268ccfcbe%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1236279010",
-      "source": "Politico",
-      "publishedAt": "2026-10-23T21:46:00Z"
-    },
-    {
-      "title": "Supersonic jet maker unveils $150M factory expansion that could create 500 jobs in Centennial - 9News",
-      "description": null,
-      "url": "https://www.9news.com/article/news/local/boom-supersonic-colorado-expansion-jobs/73-ffbd44b7-5180-48ef-9fdd-1385f4383405",
-      "urlToImage": null,
-      "source": "9News.com KUSA",
-      "publishedAt": "2026-10-23T21:35:00Z"
-    },
-    {
-      "title": "OpenAI now trains its frontier AI models with no internet access - The Verge",
-      "description": "OpenAI says it now trains its frontier AI models without internet access following a wave of rogue hacking incidents.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-10-23T21:11:07Z"
-    },
-    {
-      "title": "Another AI power stock plunges 11% despite earnings beat - TheStreet",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/another-ai-power-stock-plunges-11-despite-earnings-beat-bloom-energy-be",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-10-23T20:37:52Z"
-    },
-    {
-      "title": "Archer to Launch Air Taxis in Texas - WSJ",
-      "description": "Air taxi networks are slated for Austin, Houston and the Dallas-Fort Worth area",
-      "url": "https://www.wsj.com/business/archer-aviation-launches-air-taxi-fleets-in-texas-38b697e6",
-      "urlToImage": "https://images.wsj.net/im-75686447/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-23T20:07:00Z"
-    },
-    {
-      "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers - CNBC",
-      "description": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
-      "url": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373149-1791286265422-gettyimages-2298202572-AFP_D2BR273.jpeg?v=1792793646&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-23T19:53:13Z"
-    },
-    {
-      "title": "SpaceX Just Made Cell Towers Cool Again. Verizon, AT&T, and T-Mobile Are Paying the Price - The Motley Fool",
-      "description": "Tower owners are celebrating a potential big new tenant.",
-      "url": "https://www.fool.com/investing/2026/10/23/spacex-just-made-cell-towers-cool-again-verizon-at-and-t-and-t-mobile-are-paying-the-price/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5031f1bace40bc504d9f9d97ba2bc6a6fe63050a-4000x2023.jpg&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-10-23T19:31:00Z"
-    },
-    {
-      "title": "Even $100 Million Mansions Are Considered Teardowns These Days - WSJ",
-      "description": "Plus, California homeowners rethink their backyards amid wildfires and a divorced couple finishes building their home despite breaking up",
-      "url": "https://www.wsj.com/real-estate/luxury-homes/even-100-million-mansions-are-considered-teardowns-these-days-eee9dd33",
-      "urlToImage": "https://images.wsj.net/im-81840718/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-23T19:25:00Z"
-    },
-    {
-      "title": "CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech - CNBC",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "url": "https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217884-1761665721330-gettyimages-2243356966-AFP_829T3E8.jpeg?v=1767895191&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-10-23T18:49:56Z"
-    },
-    {
-      "title": "Personalized mRNA vaccine for melanoma cut risk of cancer’s return in late-stage trial - NBC News",
-      "description": "Moderna and Merck’s personalized mRNA vaccine for melanoma reduced the risk of cancer recurrence and death by 42% compared with standard treatment in a trial.",
-      "url": "https://www.nbcnews.com/health/cancer/personalized-mrna-vaccine-melanoma-cut-risk-cancers-return-late-stage-rcna605208",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-moderna-lab-mn-1415-efbd92.jpg",
+      "title": "Six Flags to add seat belts to three roller coasters after Georgia man falls to his death - NBC News",
+      "description": "Six Flags said Friday that it will add seat belts to a roller coaster from which a man was ejected and fell to his death earlier this month.",
+      "url": "https://www.nbcnews.com/news/us-news/six-flags-add-seat-belts-roller-coaster-georgia-man-death-rcna605398",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-georgia-rollercoaster-sjr-1418-043510.jpg",
       "source": "NBC News",
-      "publishedAt": "2026-10-23T18:42:32Z"
+      "publishedAt": "2026-10-24T17:58:00Z"
+    },
+    {
+      "title": "Social Security's 2027 COLA Is One of the Highest in Decades, but There Are Still 2 Issues Retirees May Run Into - Yahoo Finance",
+      "description": "Retirees shouldn't turn a blind eye to the elephants in the room.",
+      "url": "https://www.fool.com/retirement/2026/10/24/social-securitys-2027-cola-is-one-of-the-highest/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c078cde4e302b9b3f97407b11f8a7d52f59ab07fd6b2322246add6f927b5f8ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Faf704b9c2e0ed0d2fb49e5ac69bdcf98.jpg",
+      "source": "Motley Fool",
+      "publishedAt": "2026-10-24T17:05:00Z"
+    },
+    {
+      "title": "France's latest debt warning describes a country where governance is breaking down - Fortune",
+      "description": "\"The negative outlook reflects the increased risk that the fragmentation of France's political landscape will continue to impair the functioning of the country's legislative institutions.\"",
+      "url": "https://fortune.com/2026/10/24/france-debt-crisis-warning-moodys-governance-budget-deficit-presidential-election-politics/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300080826-e1792855749232.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-10-24T17:01:00Z"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
+      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-24T15:00:00Z"
+    },
+    {
+      "title": "Two Anker Gadgets Just Earned A Spot On Time's Best Inventions Of 2026 List - SlashGear",
+      "description": "Anker is one of the best-known portable battery brands, and it recently found two of its gadgets on Time's list of best Inventions. Here's what made the cut.",
+      "url": "https://www.slashgear.com/2294732/anker-gadgets-time-best-inventions-2026-list/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/two-anker-gadgets-just-earned-a-spot-on-times-best-inventions-of-2026-list/l-intro-1792683559.jpg",
+      "source": "SlashGear",
+      "publishedAt": "2026-10-24T14:45:00Z"
+    },
+    {
+      "title": "Banks Preparing for Aftermath of Unprecedented Catastrophe Caused by AI - Futurism",
+      "description": "Major financial institutions are starting to implement \"day after\" plans for hypothetical AI-driven financial crises.",
+      "url": "https://futurism.com/artificial-intelligence/banks-preparing-ai-financial-catastrophe",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/banks-preparing-ai-financial-catastrophe.jpg?quality=85&w=1200",
+      "source": "Futurism",
+      "publishedAt": "2026-10-24T13:55:00Z"
+    },
+    {
+      "title": "Are You Keeping An Old Car On The Road Because New Cars Are Too Expensive? - Jalopnik",
+      "description": "The average age of cars on the road is getting higher and higher, and with rising new car prices, keeping your old car running is pretty appealing.",
+      "url": "https://www.jalopnik.com/2292073/are-you-keeping-an-old-car-on-the-road-new-cars-too-expensive-reader-question/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/are-you-keeping-an-old-car-on-the-road-because-new-cars-are-too-expensive/l-intro-1792518534.jpg",
+      "source": "Jalopnik",
+      "publishedAt": "2026-10-24T13:25:00Z"
     }
   ]
 }
