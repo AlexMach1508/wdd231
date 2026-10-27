@@ -1,143 +1,135 @@
 {
-  "updatedAt": "2026-10-26T12:49:01.870Z",
+  "updatedAt": "2026-10-27T12:00:57.459Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "A Veteran of the Telecom Bust Navigates the AI Boom - WSJ",
+      "title": "Why the Fed may hold off on another rate hike despite high inflation - USA Today",
+      "description": "The Fed raised its benchmark for interest rates to fight inflation last month. With it still high, officials may hold off on another hike. Here's why.",
+      "url": "https://www.usatoday.com/story/money/economy/2026/10/26/federal-reserve-october-2026-interest-rate-decision-preview/92362597007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/21/USAT/92362743007-20261014-t-182801-z-1506485384-rc-2-unmaxtdzx-rtrmadp-3-bankstrading.JPG?crop=5219,2936,x0,y272&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-10-26T12:11:30Z"
+    },
+    {
+      "title": "It took just 12 hours for an AI start-up founded by ex-DOGE staffers to break into Anthropic - The Washington Post",
+      "description": "The start-up firm Cathedral’s ability to penetrate sensitive programs at one of the nation's leading AI companies comes amid mounting concerns about security in the global AI race.",
+      "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AU5DFV7TFPUXR2LK7HVIQ6IQLE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-26T12:00:16Z"
+    },
+    {
+      "title": "Stock Market Today: AI Jitters Grip CoreWeave, Other Tech Stocks Again — Live Updates - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-25T10:24:06Z"
+      "publishedAt": "2026-10-26T11:59:39Z"
     },
     {
-      "title": "Column | Asking Eric: Am I ‘abandoning’ myself if I don’t leave my wife? - The Washington Post",
-      "description": "Wife’s treatment-resistant depression makes her dependent on the letter writer.",
-      "url": "https://www.washingtonpost.com/advice/2026/10/25/asking-eric-friends-counselors-tell-husband-leave-he-wont/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-10-25T10:04:16Z"
+      "title": "Anthropic Is Said to Plan Public Filing for Mega-IPO Monday - Yahoo Finance",
+      "description": "Anthropic PBC is planning to file publicly for an initial public offering Monday at around 9 a.m. in New York, according to people familiar with the matter,...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-said-plan-public-filing-115338000.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/799f1ec7f24b10c5c4f404eb16f1c8c51bb8870aeabb44ad495752c5dcc7352c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Ff751ac6e4f457b80b2e8c53e44697687.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-26T11:53:38Z"
     },
     {
-      "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades - Financial Times",
-      "description": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
-      "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F36910998-36b2-4b8d-89cc-c4d47a6b2a27.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-25T05:01:30Z"
-    },
-    {
-      "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
-      "description": "President Donald Trump has announced that Audi will build a new auto factory in Georgia. The Republican president's announcement Saturday at a campaign rally comes as he tries to deliver on his promise to bolster American manufacturing in the final days befor…",
-      "url": "https://apnews.com/article/audi-georgia-trump-manufacturing-auto-plant-c1d49f2437c1d9cf349af399b8abe3a3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ac53fb0/2147483647/strip/true/crop/2031x1354+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fd0%2F506955b78633c5057db0e44638cc%2F554f169cdd7d48f4b9078903cc608f8a",
-      "source": "Associated Press",
-      "publishedAt": "2026-10-25T02:22:00Z"
-    },
-    {
-      "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap - Bloomberg.com",
-      "description": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ir2lSogmkIAE/v0/1200x800.jpg",
+      "title": "Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap - Bloomberg.com",
+      "description": "Stocks started the week on a positive note as crude oil retreated from a six-month high and investors awaited a busy slate of big-tech earnings for a steer on the artificial intelligence trade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqS1UmztFazo/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-10-25T00:00:00Z"
+      "publishedAt": "2026-10-26T11:42:21Z"
     },
     {
-      "title": "He Bought a Mansion for $155M, Had It Torn Down - Newser",
-      "description": "The Wall Street Journal looks at what it sees as a growing trend",
-      "url": "https://www.newser.com/story/398626/he-bought-a-mansion-for-155m-immediately-razed-it.html",
-      "urlToImage": "https://cdn.newser.com/image/1719602-12-20261024163433.jpeg",
-      "source": "Newser",
-      "publishedAt": "2026-10-24T21:06:00Z"
+      "title": "Meta plans $95bn stock offering to bankroll AI expansion - Financial Times",
+      "description": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+      "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60e10dab-0abb-4cff-8082-69d39eec8fc7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-26T11:15:50Z"
     },
     {
-      "title": "Will AI expose the rickety infrastructure of the internet? - TechCrunch",
-      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-24T20:15:33Z"
+      "title": "A game-changing new treatment just arrived for one of the deadliest cancers — here’s why doctors are so excited - New York Post",
+      "description": "The third-leading cause of cancer death in the US, pancreatic cancer has one of the lowest survival rates of any major cancer. The five-year relative survival rate is just 13% and death rates have …",
+      "url": "https://nypost.com/2026/10/26/health/game-changing-new-treatment-just-arrived-for-one-of-the-deadliest-cancers/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41326520_1c6841.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "publishedAt": "2026-10-26T11:00:00Z"
     },
     {
-      "title": "Here's the 'core economic flaw' in the AI bull case as stock and bond trades unravel, according to a top economist - Fortune",
-      "description": "\"So far, the AI payoff for firms has been slow to materialize, implying a growing reluctance to pay for AI services.\"",
-      "url": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300875245-e1792865618919.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-10-24T19:39:00Z"
+      "title": "SpaceX secures $40B in financing for GPUs as Elon Musk warns of AI cloud industry consolidation - Fox Business",
+      "description": "SpaceX closed $40 billion in debt financing for GPU purchases as Elon Musk warns AI debt markets have shut off access for most companies.",
+      "url": "https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/elon-musk.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-26T09:47:00Z"
     },
     {
-      "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead - Fox News",
-      "description": "Royal Caribbean's Oasis of the Seas rerouted over 5,000 Bahamas-bound passengers to Halifax, Nova Scotia, after stormy weather forced an itinerary change.",
-      "url": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/cruise-ship-passengers-pier-66-seattle.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-24T19:03:32Z"
+      "title": "SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report - Bloomberg.com",
+      "description": "SK Hynix Inc.’s shares bucked a broad selloff in AI-related stocks thanks to the prospect of a hefty dividend payout related to the South Korean company’s stake in Japan’s Kioxia Holdings Corp.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXFkmwLSOWNc/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-26T09:37:06Z"
     },
     {
-      "title": "Lawsuit: Nippon ignored warnings before chemical tank implosion killed 11 workers - OregonLive.com",
-      "description": null,
-      "url": "https://www.oregonlive.com/pacific-northwest-news/2026/10/longview-paper-company-failed-to-fix-chemical-tank-before-implosion-that-killed-11-lawsuit-alleges.html",
-      "urlToImage": null,
-      "source": "OregonLive",
-      "publishedAt": "2026-10-24T18:59:00Z"
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild - BleepingComputer",
+      "description": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild.",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/26/PHP-headpic.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-10-26T09:19:57Z"
     },
     {
-      "title": "Six Flags to add seat belts to three roller coasters after Georgia man falls to his death - NBC News",
-      "description": "Six Flags said Friday that it will add seat belts to a roller coaster from which a man was ejected and fell to his death earlier this month.",
-      "url": "https://www.nbcnews.com/news/us-news/six-flags-add-seat-belts-roller-coaster-georgia-man-death-rcna605398",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-georgia-rollercoaster-sjr-1418-043510.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-10-24T17:58:00Z"
+      "title": "Brazil Stocks Dive As President Lula Wins Re-Election - Investor's Business Daily",
+      "description": "President Luiz Inácio Lula da Silva narrowly won re-election vs. Flávio Bolsonaro.",
+      "url": "https://www.investors.com/news/brazil-stocks-dive-as-president-lula-wins-re-election/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/08/Stock-brazilstockexchange-02-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-10-26T05:16:00Z"
     },
     {
-      "title": "Social Security's 2027 COLA Is One of the Highest in Decades, but There Are Still 2 Issues Retirees May Run Into - Yahoo Finance",
-      "description": "Retirees shouldn't turn a blind eye to the elephants in the room.",
-      "url": "https://www.fool.com/retirement/2026/10/24/social-securitys-2027-cola-is-one-of-the-highest/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c078cde4e302b9b3f97407b11f8a7d52f59ab07fd6b2322246add6f927b5f8ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Faf704b9c2e0ed0d2fb49e5ac69bdcf98.jpg",
-      "source": "Motley Fool",
-      "publishedAt": "2026-10-24T17:05:00Z"
+      "title": "Exclusive | Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil - WSJ",
+      "description": "A former Deutsche Bank executive got into business with the kingpins of Russia’s shadow fleet. It all went south.",
+      "url": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce",
+      "urlToImage": "https://images.wsj.net/im-21590513/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-26T04:00:00Z"
     },
     {
-      "title": "France's latest debt warning describes a country where governance is breaking down - Fortune",
-      "description": "\"The negative outlook reflects the increased risk that the fragmentation of France's political landscape will continue to impair the functioning of the country's legislative institutions.\"",
-      "url": "https://fortune.com/2026/10/24/france-debt-crisis-warning-moodys-governance-budget-deficit-presidential-election-politics/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300080826-e1792855749232.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-10-24T17:01:00Z"
+      "title": "World-First Cancer Vaccine Cuts Melanoma Recurrence or Death Risk by 42% in Landmark Trial - ScienceAlert",
+      "description": "It's been 20 years since Australian researchers created the world's first vaccine developed specifically to prevent cancer.",
+      "url": "https://www.sciencealert.com/world-first-cancer-vaccine-cuts-melanoma-recurrence-or-death-risk-by-42-in-landmark-trial",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-2278095952-2560x1440-1.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2026-10-26T02:01:47Z"
     },
     {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
-      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-24T15:00:00Z"
+      "title": "Roche Targets Emerging Oncology Market With New Lung-Cancer Drug - WSJ",
+      "description": "Roche said its drug lowered the risk of death by 44% compared with available treatments from Amgen and Bristol-Myers Squibb",
+      "url": "https://www.wsj.com/health/pharma/roche-targets-emerging-oncology-market-with-new-lung-cancer-drug-2281ef1e",
+      "urlToImage": "https://images.wsj.net/im-43144594/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-26T01:21:00Z"
     },
     {
-      "title": "Two Anker Gadgets Just Earned A Spot On Time's Best Inventions Of 2026 List - SlashGear",
-      "description": "Anker is one of the best-known portable battery brands, and it recently found two of its gadgets on Time's list of best Inventions. Here's what made the cut.",
-      "url": "https://www.slashgear.com/2294732/anker-gadgets-time-best-inventions-2026-list/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/two-anker-gadgets-just-earned-a-spot-on-times-best-inventions-of-2026-list/l-intro-1792683559.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2026-10-24T14:45:00Z"
+      "title": "7 Frozen Cheese Pizzas, Ranked Worst To Best - Tasting Table",
+      "description": "The freezer aisle is home to some pretty impressive cheese pizzas. We tried seven of them and ranked them based on flavor, texture, and value.",
+      "url": "https://www.tastingtable.com/2291658/frozen-cheese-pizzas-ranked-best-worst/",
+      "urlToImage": "https://www.tastingtable.com/img/gallery/frozen-cheese-pizzas-ranked-best-worst/l-intro-1792508217.jpg",
+      "source": "Tastingtable.com",
+      "publishedAt": "2026-10-26T01:20:00Z"
     },
     {
-      "title": "Banks Preparing for Aftermath of Unprecedented Catastrophe Caused by AI - Futurism",
-      "description": "Major financial institutions are starting to implement \"day after\" plans for hypothetical AI-driven financial crises.",
-      "url": "https://futurism.com/artificial-intelligence/banks-preparing-ai-financial-catastrophe",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/banks-preparing-ai-financial-catastrophe.jpg?quality=85&w=1200",
-      "source": "Futurism",
-      "publishedAt": "2026-10-24T13:55:00Z"
-    },
-    {
-      "title": "Are You Keeping An Old Car On The Road Because New Cars Are Too Expensive? - Jalopnik",
-      "description": "The average age of cars on the road is getting higher and higher, and with rising new car prices, keeping your old car running is pretty appealing.",
-      "url": "https://www.jalopnik.com/2292073/are-you-keeping-an-old-car-on-the-road-new-cars-too-expensive-reader-question/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/are-you-keeping-an-old-car-on-the-road-because-new-cars-are-too-expensive/l-intro-1792518534.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-10-24T13:25:00Z"
+      "title": "AstraZeneca Readies New Portfolio of Targeted Cancer Therapies - WSJ",
+      "description": "The U.K. drugmaker is developing an in-house lineup of targeted cancer drugs",
+      "url": "https://www.wsj.com/health/pharma/astrazeneca-readies-new-portfolio-of-targeted-cancer-therapies-c17536d5",
+      "urlToImage": "https://images.wsj.net/im-10872692/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-26T01:12:00Z"
     }
   ]
 }
