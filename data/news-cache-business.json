@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2026-10-29T12:51:06.693Z",
+  "updatedAt": "2026-10-30T12:42:15.895Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's next - CNBC",
-      "description": "Markets are pricing in less than a 10% chance that the FOMC follows up its quarter--point hike in September with another increase.",
-      "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363926-1793187988419-108363926-1789584267133-gettyimages-2295044524-WARSH_FOMC.jpg?v=1793187996&w=1920&h=1080",
+      "title": "President of the European Central Bank Christine Lagarde to stand down in February - CNBC",
+      "description": null,
+      "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108320235-1781186107366-gettyimages-2280390387-GERMANY_ECB.jpeg?v=1781186133&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-10-28T12:09:00Z"
+      "publishedAt": "2026-10-29T10:03:39Z"
     },
     {
-      "title": "Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-28T12:00:17Z"
-    },
-    {
-      "title": "Exclusive | Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-28T12:00:00Z"
-    },
-    {
-      "title": "Amazon relaxes push for AI use as Anthropic reveals shocking stats - Fox News",
-      "description": "An internal memo at Amazon shifted its guidance to software engineers on AI use this week, telling employees to be more stringent about what they use AI to accomplish.",
-      "url": "https://www.foxnews.com/live-news/ai-news-anthropic-openai-october-28",
-      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/8e99c74df02a527073d508fc9892751a.jpg",
-      "source": "Fox News",
-      "publishedAt": "2026-10-28T11:27:13Z"
-    },
-    {
-      "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. - NBC News",
-      "description": "Florida-based Villa Vie Residences said it was working to identify “temporary living arrangements” for people aboard The Odyssey, a 642-foot cruise ship.",
-      "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261028-Odyssey-rs-0989ec.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-10-28T11:19:00Z"
-    },
-    {
-      "title": "GE Vernova Orders Soar. Earnings Reveal That AI Power Demand Remains Red Hot. - Barron's",
-      "description": "GE Vernova reports third-quarter Ebitda of $1.9 billion. Wall Street was looking for $1.7 billion.",
-      "url": "https://www.barrons.com/articles/ge-vernova-earnings-stock-price-f4b1372c",
-      "urlToImage": "https://images.barrons.com/im-71894419/social",
-      "source": "Barron's",
-      "publishedAt": "2026-10-28T10:29:00Z"
-    },
-    {
-      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers | The 10-Point for Oct. 28 - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-28T10:07:00Z"
-    },
-    {
-      "title": "Amazon warehouse workers tell us what they really think about their new robot coworkers - Business Insider",
-      "description": "Inside Amazon's robotic warehouse in Tracy, California, workers explain how automation is transforming their jobs.",
-      "url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9#article",
-      "urlToImage": "https://i.insider.com/6adbc10ec8572251b197f937?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-10-28T10:00:00Z"
-    },
-    {
-      "title": "Seagate Stock Falls as Record-Breaking Earnings Aren’t Enough - Barron's",
-      "description": "Seagate Technology beats Wall Street’s expectations for fiscal first-quarter earnings, but it isn’t enough for investors.",
-      "url": "https://www.barrons.com/articles/seagate-earnings-stock-price-0281b55b",
-      "urlToImage": "https://images.barrons.com/im-92144972/social",
-      "source": "Barron's",
-      "publishedAt": "2026-10-28T09:37:00Z"
-    },
-    {
-      "title": "Airbnb guests no longer have to do chores. Furious hosts say they’ll raise cleaning fees instead - Fortune",
-      "description": "A new policy bars hosts from making guests do work “typically performed by a cleaner.” Guests are thrilled, more than 10,000 hosts have signed a petition against it, and some are planning a booking blackout.",
-      "url": "https://fortune.com/2026/10/28/airbnb-guests-no-dishes-strip-beds-hosts-boycott-cleaning-fees/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1195396527.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2026-10-28T08:45:00Z"
-    },
-    {
-      "title": "Mercedes-Benz to Offer Voluntary Buyouts for Support Staff as Market Worsens - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/mercedes-benz-to-accelerate-efficiency-drive-as-market-conditions-worsen-a7d30c4f",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-10-28T07:16:00Z"
-    },
-    {
-      "title": "Third Quarter 2026 Financial Results - Stellantis.com",
-      "description": "Stellantis Reports Q3 2026 Financial Results\r\nFaSTLAne 2030 Execution Continues,",
-      "url": "https://www.stellantis.com/en/news/press-releases/2026/october/third-quarter-2026-financial-results",
-      "urlToImage": "https://www.stellantis.com/content/dam/stellantis-corporate/news/press-releases/share-icons/share-icons-v1.png",
-      "source": "Stellantis.com",
-      "publishedAt": "2026-10-28T07:03:23Z"
-    },
-    {
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO - TechCrunch",
-      "description": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
-      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-28T05:20:32Z"
-    },
-    {
-      "title": "China rushes to shore up struggling markets - Financial Times",
-      "description": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
-      "url": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55730420-f7d0-41cb-a04f-0918940b7d7f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-10-28T03:56:37Z"
-    },
-    {
-      "title": "Global stock markets rise as investors continue to bet on AI - Al Jazeera",
-      "description": "Asian markets make gains, following strong showing for US tech stocks.",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26289702703843-1-1793147745_f90f7e-1793147814_0c318a-1793151704.jpg?resize=1200%2C630&quality=80",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-28T03:21:42Z"
-    },
-    {
-      "title": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush - Bloomberg",
-      "description": "SK Hynix Inc. unveiled plans to return about $45 billion more to shareholders after profit surged a stronger-than-expected seven-fold, reflecting the resilience of an AI infrastructure rollout that’s propelling chip demand.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iydzJLqZqvt4/v0/1200x800.jpg",
+      "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap - Bloomberg",
+      "description": "A global rally in technology shares stalled after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in artificial intelligence spending will deliver sufficient returns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieidB1pO9JO8/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-10-28T01:43:00Z"
+      "publishedAt": "2026-10-29T10:01:47Z"
     },
     {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more - TechCrunch",
-      "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-28T01:15:28Z"
+      "title": "Why Microsoft stock isn't getting crushed like Google stock after its earnings report - Yahoo Finance",
+      "description": "Microsoft investors aren't running for the hills after earnings. Here's the simplest reason why.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/why-microsoft-stock-isnt-getting-crushed-like-google-stock-after-its-earnings-report-092500217.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-29T09:25:00Z"
     },
     {
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat - BleepingComputer",
-      "description": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today.",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/27/gmo.jpg",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-10-27T23:35:51Z"
+      "title": "Oracle Expects to Be Cash Flow Positive by 2028. The Stock Pops. - Barron's",
+      "description": "Oracle expects fiscal 2030 revenue to be above $225 billion, which is higher than the $217.7 billion in revenue analysts surveyed by Wall Street expected.",
+      "url": "https://www.barrons.com/articles/oracle-stock-price-investor-day-c534f8b4",
+      "urlToImage": "https://images.barrons.com/im-66011183/social",
+      "source": "Barron's",
+      "publishedAt": "2026-10-29T08:06:17Z"
     },
     {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication - TechCrunch",
-      "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T23:34:27Z"
+      "title": "FTC probes whether major US companies charge customers different prices using personal data - Fox Business",
+      "description": "The FTC ordered nine major companies including Delta, Uber and Walmart to reveal whether they use personal data for surveillance pricing tactics.",
+      "url": "https://www.foxbusiness.com/personal-finance/ftc-probes-whether-major-us-companies-charge-customers-different-prices-using-personal-data",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/walmart-ftc-surveillance-pricing-investigation.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-29T06:19:00Z"
     },
     {
-      "title": "Stock Market News, Oct. 27, 2026: Dow ends flat, S&P 500 logs gains and Nasdaq books best day in nearly a month as chip stocks bounce for a second day and oil prices ease - MarketWatch",
-      "description": "Follow all the latest U.S. market action for Tuesday here.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound",
-      "urlToImage": "https://images.mktw.net/im-51746529/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-10-27T23:08:00Z"
+      "title": "Marvell Is Said to Near Megadeal for Lumentum In AI Push - Bloomberg",
+      "description": "Marvell Technology Inc. is in advanced talks to buy data center optics maker Lumentum Holdings Inc., according to people familiar with the matter, putting it on the cusp of a potential megadeal amid the race to scale up in the artificial intelligence sector.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwo.xbEzaoAE/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-29T05:04:00Z"
+    },
+    {
+      "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm - CNBC",
+      "description": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years.",
+      "url": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108478622-1793246599990-gettyimages-2301940366-2301940366.jpeg?v=1793247074&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-10-29T04:55:17Z"
+    },
+    {
+      "title": "Tech Futures Fall On Google, These Huge Losers - Investor's Business Daily",
+      "description": "Microsoft is an earnings winner, but it's nowhere near enough.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-jumps-google-servicenow-fortinet-dive-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/01/stock-software-02-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-10-29T04:07:00Z"
+    },
+    {
+      "title": "RFK Jr. plans to make 6 unapproved peptides available for temporary sale - The Washington Post",
+      "description": "The Trump administration published a draft policy for widening access to controversial peptides while federal officials continue to hammer out permanent rules for the products.",
+      "url": "https://www.washingtonpost.com/health/2026/10/28/rfk-jr-plans-make-these-6-unapproved-peptides-available-temporary-sale/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LDLHQZKRNA2FDDWH3GWLYQLKRM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-10-29T03:09:04Z"
+    },
+    {
+      "title": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates - CNBC",
+      "description": "Alphabet reported a disappointing third quarter, and shares tumbled after the results were released.",
+      "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108475917-17932115702026-10-28t181601z_103531969_rc2icoa4ts4s_rtrmadp_0_usa-stocks.jpeg?v=1793211609&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-10-29T02:14:53Z"
+    },
+    {
+      "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off - CNBC",
+      "description": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+      "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108129020-17442031072025-04-09t123941z_1563710510_rc2auda4lwqg_rtrmadp_0_usa-trump-tariffs-china.jpeg?v=1744203134&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-10-29T02:14:00Z"
+    },
+    {
+      "title": "Filet or sirloin? Man says Texas Roadhouse got his steak wrong 3 times - USA Today",
+      "description": "Kenneth Card says Texas Roadhouse served him sirloin instead of the filet mignon he ordered on three consecutive visits.",
+      "url": "https://www.usatoday.com/story/money/food/2026/10/28/texas-roadhouse-sirloin-filet-kenneth-card/92468396007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/28/USAT/92487563007-20260415-t-185731-z-906480439-mt-1-usatoday-28734342-rtrmadp-3-thetexasroadhouseinmiddletowndelaware.JPG?crop=4709,2649,x0,y500&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-10-29T02:07:00Z"
+    },
+    {
+      "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-29T02:00:00Z"
+    },
+    {
+      "title": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars - Fox Business",
+      "description": "Alphabet and Microsoft reported strong earnings fueled by growing AI demand, even as the tech giants continue investing billions in data centers and cloud infrastructure.",
+      "url": "https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/google-microsoft-split.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-29T00:45:00Z"
+    },
+    {
+      "title": "ServiceNow Fans AI Fears on Quarterly Subscription Sales Outlook - Barron's",
+      "description": "The CEO called the quarter an inflection point for the company.",
+      "url": "https://www.barrons.com/articles/servicenow-earnings-stock-price-80867e48",
+      "urlToImage": "https://images.barrons.com/im-77855077/social",
+      "source": "Barron's",
+      "publishedAt": "2026-10-28T23:06:00Z"
+    },
+    {
+      "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down - CNBC",
+      "description": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
+      "url": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108477188-17932242312020-09-01t000026z_1537263547_rc2cpi9nu5lb_rtrmadp_0_usa-legal.jpeg?v=1793224317&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-10-28T22:23:10Z"
+    },
+    {
+      "title": "SK Hynix Stock Jumps On Q3 Earnings Beat - Investor's Business Daily",
+      "description": "The South Korea-based memory-chip maker smashed expectations.",
+      "url": "https://www.investors.com/news/technology/sk-hynix-stock-jumps-q3-2026-earnings-beat/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/stock-SK-Hynix-Summit-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-10-28T22:02:00Z"
     }
   ]
 }
