@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-11-03T14:01:09.382Z",
+  "updatedAt": "2026-11-04T14:21:09.603Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Inside White Dwarf 530 – The forces of the Ten Thousand unleashed - Warhammer Community",
-      "description": "Get your first look inside November’s issue of the official Warhammer magazine.",
-      "url": "https://www.warhammer-community.com/articles/kkloakhu/inside-white-dwarf-530-the-forces-of-the-ten-thousand-unleashed",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/wd530-nov02-2-share-sneyirjij8.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-11-02T13:59:22Z"
+      "title": "NVIDIA GeForce RTX 50-Series Scheduled for a Price Hike This Week, Up to $500 - TechPowerUp",
+      "description": "NVIDIA's GeForce RTX 50-Series \"Blackwell\" gaming graphics cards are expected to see significant price adjustments this week. According to Chinese ChannelGate, add-in card (AIC) partners have confirmed that price hikes are scheduled due to the ongoing demand …",
+      "url": "https://www.techpowerup.com/354427/nvidia-geforce-rtx-50-series-scheduled-for-a-price-hike-this-week-up-to-usd-500",
+      "urlToImage": "https://www.techpowerup.com/img/CIASCL6wLXlk8ceH.jpg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-11-03T09:29:08Z"
     },
     {
-      "title": "Nintendo's Mysterious Countdown Could Point Toward A Pokémon Wind And Waves Reveal - Kotaku",
-      "description": "Hints dropped on social media suggest something important is happening on November 30",
-      "url": "https://kotaku.com/pokemon-wind-and-waves-nintendo-gamefreak-release-date-countdown-2000752328",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/bulbcount.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-11-02T13:03:59Z"
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing - TechCrunch",
+      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T07:20:00Z"
     },
     {
-      "title": "We Got a Record Gaming Blitz Before ‘GTA VI’ - The Ringer",
-      "description": "As they made way for ‘GTA,’ game makers created an unprecedented pileup of quality titles",
-      "url": "https://www.theringer.com/2026/11/02/video-games/we-got-a-record-gaming-blitz-before-gta-vi-grand-theft-auto-rockstar",
-      "urlToImage": "https://wp.theringer.com/wp-content/uploads/2026/11/cropped-GamingBlitz_Getty-RockstarGames-Ringer-scaled-1.jpg",
-      "source": "The Ringer",
-      "publishedAt": "2026-11-02T12:47:30Z"
+      "title": "Tony Hawk kicked out of LA park while celebrating ‘Tony Hawk’s Pro Skater 3’ - NewsNation",
+      "description": "“Fun fact: we got kicked out of Pershing Square while shooting this today,” Hawk wrote on Instagram.",
+      "url": "https://www.newsnationnow.com/us-news/west/tony-hawk-kicked-out-pershing-square-celebrating-anniversary-tony-hawks-pro-skater-3/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/AP19317683407378-e1793472825774.jpg?w=1280",
+      "source": "Newsnationnow.com",
+      "publishedAt": "2026-11-03T05:27:04Z"
     },
     {
-      "title": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old - Nintendo Life",
-      "description": "Links to the past",
-      "url": "https://www.nintendolife.com/news/2026/11/googles-ocarina-of-time-easter-egg-will-transport-you-back-to-the-internet-of-old",
-      "urlToImage": "https://images.nintendolife.com/0687675011817/1280x720.jpg",
+      "title": "Galaxy S27 Ultra goes head-to-head with Pixel 11 Pro, iPhone 18 Pro, and S26 Ultra in new leak - Android Authority",
+      "description": "A new leak shows off a Galaxy S27 Ultra dummy unit next to current flagships from Samsung, Apple, and Google.",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-dummy-leak-3730910/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/11/Pixel-11-Pro-vs-S27-Ultra.jpeg",
+      "source": "Android Authority",
+      "publishedAt": "2026-11-03T02:49:00Z"
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies - Krebs on Security",
+      "description": null,
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "urlToImage": null,
+      "source": "Krebs on Security",
+      "publishedAt": "2026-11-03T02:44:43Z"
+    },
+    {
+      "title": "iPhone Duo crackgate has me babying mine in a way the Galaxy Z Fold 8 never did - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/iphone-duo-crackgate-has-me-babying-mine-in-a-way-the-galaxy-z-fold-8-never-did_id184499",
+      "urlToImage": null,
+      "source": "PhoneArena",
+      "publishedAt": "2026-11-03T02:28:43Z"
+    },
+    {
+      "title": "Square Enix's 'Harvest Sale' Includes 80% Discounts On Final Fantasy VII Remake Intergrade And Rebirth - Nintendo Life",
+      "description": "Get ready for Revelation",
+      "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
+      "urlToImage": "https://images.nintendolife.com/18cbd9df5eb05/1280x720.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2026-11-02T12:30:00Z"
+      "publishedAt": "2026-11-03T01:45:00Z"
     },
     {
-      "title": "PlayStation Is Engaging in a “Firmware War” Against Jailbreakers, as Rockstar Games’ Grand Theft Auto VI Minimum Firmware Requirement Has Reportedly Changed - Wccftech",
-      "description": "Grand Theft Auto VI reportedly bumps minimum PlayStation 5 firmware to 14.22 as Sony combats piracy and jailbreaks.",
-      "url": "https://wccftech.com/playstation-firmware-war-gta-6-firmware-requirements/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/PlayStation-5-Firmware-War-GTA-6-Requirement-1920x1080.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2026-11-02T12:18:37Z"
+      "title": "iPhone Duo: Apple unsure when more of the foldable devices will be available - BBC",
+      "description": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+      "url": "https://www.bbc.com/news/articles/c6n8dn457ypko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T00:29:00Z"
     },
     {
-      "title": "Boichik Bagels is among the Bay Area victims of a massive credit card skimming machine. - SFGATE",
-      "description": "Boichik Bagels, Ghirardelli and the San Francisco 49ers are among the Bay Area brands targeted in a large criminal ecosystem attempting to defraud consumers.",
-      "url": "https://www.sfgate.com/food/article/fake-boichik-site-22501617.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/66/55/66/31120811/6/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2026-11-02T12:03:45Z"
+      "title": "GO Wild Area 2026 Brings Trainer Backgrounds, Private Dynamax Battles, and More - Pokémon GO Hub",
+      "description": "Pokémon GO Wild Area 2026 brings private Dynamax Battles, profile backgrounds, Steel and Dragon medal bonuses, new avatar items, and more.",
+      "url": "https://pokemongohub.net/post/news/pokemon-go-wild-area-2026-brings-trainer-backgrounds-private-dynamax-battles-and-more/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/11/rich-trainer-pokemon-backgrounds.jpeg",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-11-03T00:02:14Z"
     },
     {
-      "title": "This $48 e-paper display can be whatever you want it to be - Ars Technica",
-      "description": "This DIY e-paper display works in two official ecosystems or on your own server.",
-      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-02T12:00:07Z"
-    },
-    {
-      "title": "PSA: 'Pikmin 4 + Dandori Academy' Demo Blooms On Switch 2 Today - Nintendo Life",
-      "description": "Play before you pay",
-      "url": "https://www.nintendolife.com/news/2026/11/psa-pikmin-4-plus-dandori-academy-demo-blooms-on-switch-2-today",
-      "urlToImage": "https://images.nintendolife.com/63c1c88c9a8d8/1280x720.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-11-02T11:00:00Z"
-    },
-    {
-      "title": "Yakuza Creator's Gang of Dragon PS5 Game and New Studio Officially Dead - Push Square",
-      "description": "Dissolved days ago on 31st October",
-      "url": "https://www.pushsquare.com/news/2026/11/yakuza-creators-gang-of-dragon-ps5-game-and-new-studio-officially-dead",
-      "urlToImage": "https://images.pushsquare.com/1ba35757fffea/1280x720.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-11-02T11:00:00Z"
-    },
-    {
-      "title": "Raspberry Pi 5 16GB Price Rises To $385 USD - Phoronix",
-      "description": "Raspberry Pi announced their latest round of price hikes as a result of the RAM shortages and increased pricing continuing to affect the industry.",
-      "url": "https://www.phoronix.com/news/Raspberry-Pi-5-16GB-385",
-      "urlToImage": "https://www.phoronix.net/image.php?id=raspberry-pi-5-16gb&image=raspberrypi5_16gb_2",
-      "source": "Phoronix",
-      "publishedAt": "2026-11-02T10:27:00Z"
-    },
-    {
-      "title": "I tested Apple's $2,000 iPhone Duo. It's a fascinating experiment, but the price is hard to justify. - Axios",
-      "description": "Apple's iPhone Duo offers a glimpse of the future for a steep price",
-      "url": "https://www.axios.com/2026/11/02/apple-iphone-duo-foldable-review",
-      "urlToImage": "https://images.axios.com/q3tMWjha5n1td_rlLQ5WPlNjDN4=/0x902:5712x4115/1366x768/2026/11/01/1793567932207.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-11-02T10:01:31Z"
-    },
-    {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features - WIRED",
-      "description": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "urlToImage": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-      "source": "Wired",
-      "publishedAt": "2026-11-02T10:00:00Z"
-    },
-    {
-      "title": "14 Games Are Leaving Xbox Game Pass In Early November 2026 - Pure Xbox",
-      "description": "Now that's a lot of games!",
-      "url": "https://www.purexbox.com/news/2026/11/14-games-are-leaving-xbox-game-pass-in-early-november-2026",
-      "urlToImage": "https://images.purexbox.com/3b8d41c6f5965/1280x720.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2026-11-02T10:00:00Z"
-    },
-    {
-      "title": "The Apple iPhone 17 is yours for free this weekend — how to claim - Mashable",
-      "description": "We've rounded all the best deals in one convenient location.",
-      "url": "https://mashable.com/tech/free-apple-iphone-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/034PMRNFRmIbsK8iLwKjXAY/hero-image.fill.size_1200x675.v1789377635.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-11-02T09:33:45Z"
-    },
-    {
-      "title": "Dead by Daylight Devs Apologize After TheBurntPeanut Stream Stirs Controversy in Its Community - IGN",
-      "description": "Behaviour Interactive has responded after what appeared to be a Dead by Daylight collaboration with controversial streamer TheBurntPeanut caused backlash in its community.",
-      "url": "https://www.ign.com/articles/dead-by-daylight-devs-apologize-after-theburntpeanut-stream-stirs-controversy-in-its-community",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/06/dead-by-daylight-x-overwatch-1754498586451.png?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "PlayStation Users Have Started Getting Offers from Sony to Buy Their PS5 - IGN",
+      "description": "Sony is offering $400 to people who are willing to part ways with their PS5 and two controllers.",
+      "url": "https://www.ign.com/articles/sony-wants-to-buy-your-ps5-console-for-400",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-11-02T09:27:17Z"
+      "publishedAt": "2026-11-02T22:08:17Z"
     },
     {
-      "title": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days - Eurogamer.net",
-      "description": "All the hype leading up to the launch of Phantom Blade Zero clearly turned into sales, with very strong opening week numbers.",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
-      "urlToImage": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-review-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-11-02T09:24:45Z"
+      "title": "Citizen’s Rugged Eco-Drive Field Watch Just Got a Lot More Affordable - Gear Patrol",
+      "description": "The brand's solar-powered timepiece is at its lowest price ever thanks to Amazon's current sale.",
+      "url": "https://www.gearpatrol.com/watches/citizen-terra-force-sale-november-2026/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/11/citizen-terra-force-sale-november-2026-16x9-Lead-2.webp",
+      "source": "Gear Patrol",
+      "publishedAt": "2026-11-02T21:14:25Z"
     },
     {
-      "title": "Apple Launching Five New Products This Friday - MacRumors",
-      "description": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week, including its first touchscreen MacBook Pro...",
-      "url": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
-      "urlToImage": "https://images.macrumors.com/t/wPYeHY6-2xS0BMyi62C601kOVDs=/1600x/article-new/2026/10/apple-pro-tell-logo.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-11-02T09:22:23Z"
+      "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It - Kotaku",
+      "description": "'In hindsight at least, it was unsustainable'",
+      "url": "https://kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/04/6dd74cc1c514c8a28cb9fcd55a72ec85.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-11-02T21:00:18Z"
     },
     {
-      "title": "Exclusive: Samsung improves Privacy Display for Galaxy S27 Pro and S27 Ultra - SamMobile",
-      "description": "We can exclusively confirm the Samsung Galaxy S27 Pro and S27 Ultra are getting an upgraded Privacy Display and brighter screens.",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-improved-privacy-display/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-privacy-display-2.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2026-11-02T08:18:00Z"
+      "title": "Explorer Gadget Gets a Major Upgrade, Alongside New Quality-of-Life Updates - Pokémon GO Hub",
+      "description": "Pokémon GO's Explorer Gadget now works during active gameplay! Explore the new Appraise button, catch summary, Power Spot changes, and more.",
+      "url": "https://pokemongohub.net/post/news/explorer-gadget-gets-a-major-upgrade-alongside-new-quality-of-life-updates/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/08/explorer-gadget-official.jpg",
+      "source": "Pokemon GO Hub",
+      "publishedAt": "2026-11-02T20:57:44Z"
     },
     {
-      "title": "Jackery made its portable power stations even smaller - The Verge",
-      "description": "The new Jackery Explorer 100D puts a longer lasting lithium iron phosphate battery in the palm of your hand.﻿",
-      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "title": "Developers, Creators, And Fans Remember BioWare: ‘I’ve Been Trying To Replicate That Feeling For Almost My Whole Life’ - Kotaku",
+      "description": "The Mass Effect and Dragon Age studio may be gone, but its legacy and impact remain",
+      "url": "https://kotaku.com/bioware-closure-mass-effect-universe-dragon-age-baldurs-gate-kotor-2000752411",
+      "urlToImage": "https://kotaku.com/app/uploads/2024/03/76b5cacdb9c9c06eec4aa90f685fea3b-1200x675.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-11-02T20:39:52Z"
+    },
+    {
+      "title": "All Fortnite Treasure Hunt Chest Locations and Free Rewards - Beebom",
+      "description": "Want to know where to find the most Treasure Hunt Chest locations in Fortnite and the list of free rewards you can get? Check out this guide here.",
+      "url": "https://beebom.com/fortnite-treasure-hunt-chest-locations-rewards/",
+      "urlToImage": "https://static.beebom.com/wp-content/uploads/2026/11/fn-treasure-chest.jpg",
+      "source": "Beebom",
+      "publishedAt": "2026-11-02T20:06:40Z"
+    },
+    {
+      "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs - 9to5Mac",
+      "description": "iOS 27.2 has a clever new Messages feature called ‘Suggested Actions,’ here’s how you can customize the feature to your liking.",
+      "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5Mac",
+      "publishedAt": "2026-11-02T19:56:00Z"
+    },
+    {
+      "title": "Call of Duty: Warzone Is Adding One of Its Most Requested Features Very Soon - IGN",
+      "description": "Call of Duty: Warzone is adding a weather system that will make every match feel a bit different.",
+      "url": "https://www.ign.com/articles/call-of-duty-warzone-is-adding-a-weather-system-this-week",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/30/callofduty-mw4-dmz-review-blogroll-1793400702051.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-11-02T19:42:01Z"
+    },
+    {
+      "title": "'No Amount of Competition Will Ever Unseat Steam' – Former Epic Games Engineer Rails Against Valve - IGN",
+      "description": "Epic's rivalry with Valve isn't anything new, but while it's usually CEO Tim Sweeney taking shots at Valve, an ex-engineer posted a long list of problems Steam has caused in the industry.",
+      "url": "https://www.ign.com/articles/no-amount-of-competition-will-ever-unseat-steam-former-epic-games-engineer-rails-against-valve",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/20/epic-games-store-1781990551635.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-11-02T19:39:05Z"
+    },
+    {
+      "title": "Undiscovered Star Wars Secret Finally Found, Dev Who Hid It: 'It's Been A Long 3 And A Half Years' - Kotaku",
+      "description": "If you enter in a familiar code in Jedi: Survivor you'll see something very strange",
+      "url": "https://kotaku.com/undiscovered-star-wars-secret-finally-found-dev-who-hid-it-its-been-a-long-3-and-a-half-years-2000752375",
+      "urlToImage": "https://kotaku.com/app/uploads/2023/08/927f8932b40a5edadba68ef7a1435a36.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-11-02T19:00:39Z"
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones - The Verge",
+      "description": "Anthropic has updated Claude Code’s system prompt on Opus 5.5 to prevent the AI tool from being used to re-create existing video games.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-11-02T05:00:00Z"
+      "publishedAt": "2026-11-02T18:56:02Z"
     }
   ]
 }
