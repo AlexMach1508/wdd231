@@ -1,159 +1,167 @@
 {
-  "updatedAt": "2026-11-05T14:31:26.722Z",
+  "updatedAt": "2026-11-06T14:08:29.844Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Xbox Debuts the Series X-BITE: A Working Console Swallowed by an Alligator - Hypebeast",
+      "title": "Motorola is going ultra premium with its $1,600 ‘Signature’ phone - The Verge",
+      "description": "The Motorola Signature 27 comes with true flagship specs — and a sky-high price.",
+      "url": "https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/signature27_lifestyle12.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-11-05T13:00:00Z"
+    },
+    {
+      "title": "She thought her Hinge match’s photo looked off. Then she realized why - USA Today",
+      "description": "Dating apps have an AI problem. More users say they’re seeing increasingly hard-to-detect fake photos.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/11/05/dating-apps-ai-photos/92385695007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92622705007-getty-images-915398034.jpg?crop=5179,2915,x0,y265&width=3200&height=1802&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-11-05T12:56:00Z"
+    },
+    {
+      "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare - Eurogamer.net",
       "description": null,
-      "url": "https://hypebeast.com/2026/11/xbox-debuts-series-x-bite-working-console-inside-alligator-release-info",
+      "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
       "urlToImage": null,
-      "source": "HYPEBEAST",
-      "publishedAt": "2026-11-04T03:50:26Z"
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-11-05T12:48:40Z"
     },
     {
-      "title": "Exclusive: YouTube is cooking up something new called 'Tamba,' and it looks pretty social - Android Authority",
-      "description": "YouTube's latest Android app reveals a mysterious 'Tamba' project with followers, DMs, group chats, and other social features.",
-      "url": "https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2026-11-04T03:37:00Z"
+      "title": "2026 iPad mini review: Maximizing the mini - Ars Technica",
+      "description": "It's more compelling than ever, but also more expensive.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-05T12:00:01Z"
     },
     {
-      "title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Now Live - New Additions, Changes & Improvements - Nintendo Life",
-      "description": "Including paid and free updates",
-      "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-now-live-new-additions-changes-and-improvements",
-      "urlToImage": "https://images.nintendolife.com/18e28c0a27fab/1280x720.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2026-11-04T01:15:00Z"
+      "title": "Discord is ditching Electron and its new app uses less RAM - The Verge",
+      "description": "Discord is moving its apps fully over to the Rust programming language.",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-11-05T11:39:42Z"
     },
     {
-      "title": "PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts - Push Square",
-      "description": "Here are some of the best PS5 deals",
-      "url": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts",
-      "urlToImage": "https://images.pushsquare.com/58b02a8eb91ab/1280x720.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-11-04T00:18:51Z"
-    },
-    {
-      "title": "Devs Are Being Forced To Delay Their Games On Steam Thanks To AI Slop - Kotaku",
-      "description": "'Oh no, we are not releasing on the same day as Zelda'",
-      "url": "https://kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839",
-      "urlToImage": "https://kotaku.com/app/uploads/2025/08/valve.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-11-03T23:05:14Z"
-    },
-    {
-      "title": "Xbox shrunk its controller down to pocket size, but somehow kept all the buttons - Windows Central",
-      "description": "The Xbox Nano Controller drops on November 4, 2026 for the United States, UK, and other select markets. Here's some early impressions ahead of the full review.",
-      "url": "https://www.windowscentral.com/accessories/the-xbox-nano-controller-is-here-and-its-incredibly-cute-and-hides-a-surprise",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wV35W2FsGUfG7Aebk8a6oa-2560-80.png",
-      "source": "Windows Central",
-      "publishedAt": "2026-11-03T22:35:01Z"
-    },
-    {
-      "title": "Overwatch’s Midseason Patch Adds Teaser For Its Sexy New Omnic Detective Hero - Kotaku",
-      "description": "The Midtown map has a new clue for fans to investigate",
-      "url": "https://kotaku.com/overwatch-season-5-midseason-patch-omnic-detective-new-hero-55-rigby-2000752862",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/owstellarblade.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-11-03T22:00:42Z"
-    },
-    {
-      "title": "Galaxy S27: New Display Upgrade Confirms Samsung’s Release Plans - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/11/03/samsung-galaxy-s27-pro-galaxy-s27-ultra-privacy-display-upgrade-price/",
-      "urlToImage": null,
-      "source": "Forbes",
-      "publishedAt": "2026-11-03T21:12:05Z"
-    },
-    {
-      "title": "Have the PS5 and Xbox Console Shortages Been Exaggerated Ahead of the GTA 6 Launch? - IGN",
-      "description": "Sony and Microsoft are warning about console shortages ahead of GTA 6 and Black Friday. Which consoles are available (or not) right now?",
-      "url": "https://www.ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-1793738170553.png?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent - IGN",
+      "description": "Sony has raised its sales forecast for its gaming business, while announcing an official sales figure for Marvel’s Wolverine for the first time.",
+      "url": "https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/10/marvels-wolverine-review-blogroll-1789029798227.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-11-03T20:59:20Z"
+      "publishedAt": "2026-11-05T11:17:07Z"
     },
     {
-      "title": "Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft - Bloomberg.com",
-      "description": "Microsoft’s gaming unit is looking to divest the French company behind ‘Dishonored’ and ‘Marvel’s Blade’",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irqwXn8sNcqI/v1/1200x800.jpg",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Full English Voice Cast Revealed - IGN",
+      "description": "The Legend of Zelda: Ocarina of Time remake is out now, and so we have confirmation of the full English voice cast for the first time.",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-english-voice-cast-revealed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/04/thelegendofzeldaocarinaoftime-31-1793835431077.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-11-05T10:25:09Z"
+    },
+    {
+      "title": "World of Warcraft: Forever is off to a great start with Blizzard's smoothest launch in memory - Eurogamer.net",
+      "description": "Aside from some transportation issues and some layering quirks, World of Warcraft: Forever's launch went off without a hitch.",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-smooth",
+      "urlToImage": "https://assetsio.gnwcdn.com/WoW-forever_SDQ5Y6p.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-11-05T09:52:30Z"
+    },
+    {
+      "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide - Ars Technica",
+      "description": "The spirit of AMG is alive via three axial flux electric motors.",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-05T09:00:13Z"
+    },
+    {
+      "title": "Nintendo Profit Drops After Memory Crunch and Lack of Big Debuts - Bloomberg.com",
+      "description": "Nintendo Co. reported a surprise quarterly profit decline, hurt by a dearth of major new game releases and rising Switch 2 component costs.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3p.b1Wx7URs/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-11-03T20:43:51Z"
+      "publishedAt": "2026-11-05T08:37:17Z"
     },
     {
-      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year - The Verge",
-      "description": "A leaker says Apple’s base iPhone 18 will get a price hike alongside battery and chip upgrades when it launches early next year.",
-      "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says - The Hacker News",
+      "description": "CISA adds Apple CVE-2024-27834 to its KEV catalog after reports of active exploitation involving a pointer authentication bypass.",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-11-05T05:17:00Z"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
+      "description": "OpenAI's AI pipeline reproduced 1,724 Linux vulnerabilities and generated 948 working local privilege escalation exploits for $1.2 million.",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-11-05T04:31:00Z"
+    },
+    {
+      "title": "Reminder: Zelda: Ocarina Of Time - Playable Ocarina Available Now On The Nintendo Store - Nintendo Life",
+      "description": "Check your local store for stock",
+      "url": "https://www.nintendolife.com/news/2026/11/reminder-zelda-ocarina-of-time-playable-ocarina-available-now-on-the-nintendo-store",
+      "urlToImage": "https://images.nintendolife.com/c4a53c946fc3f/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-11-05T03:45:00Z"
+    },
+    {
+      "title": "Apple’s Latest Siri Announcement Could Mean the End of Apps on Your iPhone - Inc.com",
+      "description": null,
+      "url": "https://www.inc.com/jason-aten/apples-latest-siri-announcement-could-mean-the-end-of-apps-on-your-iphone/91431395",
+      "urlToImage": null,
+      "source": "Inc.",
+      "publishedAt": "2026-11-05T00:57:06Z"
+    },
+    {
+      "title": "X says its updated web app is way faster - The Verge",
+      "description": "X is introducing a new version of its web app that it says is much faster than before, and it’s now rolling out the updated app “one country at a time” for signed-in users.",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-11-03T20:16:54Z"
+      "publishedAt": "2026-11-05T00:25:00Z"
     },
     {
-      "title": "Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More - MacRumors",
-      "description": "We're getting closer to Black Friday, which lands on Friday, November 27 this year. In the lead-up to the shopping holiday, we're tracking a...",
-      "url": "https://www.macrumors.com/2026/11/03/best-early-black-friday-mac-2026/",
-      "urlToImage": "https://images.macrumors.com/t/UkiRbaS2GEd5EyTccUEykNbJA78=/2500x/article-new/2026/11/macs-black-friday.jpeg",
-      "source": "MacRumors",
-      "publishedAt": "2026-11-03T19:40:00Z"
+      "title": "Rumor: Sonic Racing: CrossWorlds datamine leaks Year 2 characters - Nintendo Everything",
+      "description": "Find out which unannounced DLC characters are potentially coming to Sonic Racing: CrossWorlds Year 2 with this leak.",
+      "url": "https://nintendoeverything.com/rumor-sonic-racing-crossworlds-datamine-leaks-year-2-characters/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-datamine-Year-2-DLC-leak.jpg",
+      "source": "Nintendoeverything.com",
+      "publishedAt": "2026-11-05T00:07:35Z"
     },
     {
-      "title": "Someone Just Figured Out How To Recruit A Previously Unrecruitable Party Member In A Nearly 30-Year-Old RPG - Kotaku",
-      "description": "You can get Lilith in Tales of Destiny after all, no cheats required",
-      "url": "https://kotaku.com/someone-just-figured-out-how-to-recruit-a-previously-unrecruitable-party-member-in-a-nearly-30-year-old-rpg-2000752817",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/tales-of-destiny-lilith.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-11-03T19:30:17Z"
+      "title": "The Galaxy S27 Pro is rumored to skip both the top-tier Snapdragon and Exynos chips - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/the-galaxy-s27-pro-is-rumored-to-skip-both-the-top-tier-snapdragon-and-exynos-chips_id184565",
+      "urlToImage": null,
+      "source": "PhoneArena",
+      "publishedAt": "2026-11-04T23:34:19Z"
     },
     {
-      "title": "Safari update brings vertical tabs, adaptive dark mode, AI integration - Six Colors",
-      "description": "Safari is getting some major feature updates in the 27.3 updates to Apple's operating systems, which are due in December and are appearing in a developer beta today: vertical tabs, an adaptive dark…",
-      "url": "https://sixcolors.com/post/2026/11/safari-update-brings-vertical-tabs-adaptive-dark-mode-ai-integration/",
-      "urlToImage": "https://sixcolors.com/wp-content/themes/sixcolors/images/6colors_og_image.png",
-      "source": "sixcolors.com",
-      "publishedAt": "2026-11-03T18:52:18Z"
+      "title": "God Of War Laufey Delayed To May - Game Informer",
+      "description": "It was originally due out exclusively on PlayStation 5 on February 16. - Game Informer",
+      "url": "https://gameinformer.com/2026/11/04/god-of-war-laufey-delayed-to-may",
+      "urlToImage": "https://static.gameinformer.com/sites/default/files/styles/og_image/public/2026/09/28/b118e622/gow-laufey-art-banner.jpg.webp",
+      "source": "Gameinformer.com",
+      "publishedAt": "2026-11-04T23:30:50Z"
     },
     {
-      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features - The Verge",
-      "description": "Apple’s new watchOS beta includes a first look at Siri Recap and Live Rewind on Apple Watch.",
-      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0%2C26.334151505894%2C100%2C67.420228175335&w=1200",
+      "title": "The tech memory shortage comes for Nintendo's cartridge supply chain - Ars Technica",
+      "description": "And what that could mean for physical Switch game costs.",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-04T22:47:51Z"
+    },
+    {
+      "title": "Bose’s QuietComfort Headphones are more than half off - The Verge",
+      "description": "Bose’s QuietComfort Headphones are on sale for $169.99, matching their lowest price, while the second-generation model is down to $199 at multiple retailers.",
+      "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-11-03T18:31:00Z"
-    },
-    {
-      "title": "Overwatch Mid-Season 5 Patch Notes Released With Big Tweaks - Polygon.com",
-      "description": "Overwatch season 5's mid-season patch notes outline nerfs for Doctrine and Jetpack Cat, along with welcome buffs for Illari",
-      "url": "https://www.polygon.com/overwatch-season-5-mid-season-patch-notes-dmon-illari-doctrine/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/overwatch-season-5-mid-season-patch-notes.jpg?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-11-03T18:30:18Z"
-    },
-    {
-      "title": "Fortnite’s Plan To Survive GTA 6 Is Finally Revealed: Make Everything Free - GameSpot",
-      "description": "Not since Fortnite rose to prominence has its place atop the mountain been so in doubt.",
-      "url": "https://www.gamespot.com/articles/fortnites-plan-to-survive-gta-6-is-finally-revealed-make-everything-free/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/fortnite-treasure-hunters-3-up-luffy-blog-inline-en.jpeg",
-      "source": "GameSpot",
-      "publishedAt": "2026-11-03T18:29:43Z"
-    },
-    {
-      "title": "Coming to XBOX Game Pass: Escape Academy 2: Back 2 School, Thronefall, Warhammer Survivors, and More - XBOX Wire",
-      "description": "November is officially here, and apparently your backlog is already getting longer. Between cracking puzzles, defending kingdoms, and braving battles, Coming soon to XBOX Game Pass: Escape Academy 2: Back 2 School, Thronefall, Warhammer Survivors, and more.",
-      "url": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XGP_ComingSoon031126_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-bf9911f1a207d5282a2d.jpg",
-      "source": "Xbox.com",
-      "publishedAt": "2026-11-03T18:02:17Z"
-    },
-    {
-      "title": "iPad Mini 8 Reviewer Dissatisfied With Apple's Excuse for Lack of 120Hz Display - MacRumors",
-      "description": "The new iPad mini has an OLED display, but the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead...",
-      "url": "https://www.macrumors.com/2026/11/03/ipad-mini-8-review-highlights-lack-of-120hz/",
-      "urlToImage": "https://images.macrumors.com/t/Or1Tc5LJeoqb5dy19HoHjY5IhEQ=/2500x/article-new/2026/10/Apple-iPad-mini-Procreate-Dreams-261026-feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-11-03T17:59:40Z"
+      "publishedAt": "2026-11-04T21:13:11Z"
     }
   ]
 }
