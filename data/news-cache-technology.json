@@ -1,167 +1,143 @@
 {
-  "updatedAt": "2026-11-10T14:45:34.323Z",
+  "updatedAt": "2026-11-11T14:04:45.094Z",
   "country": "us",
   "category": "technology",
   "articles": [
-    {
-      "title": "How To Preload GTA 6 In Full On Xbox Series X|S (Even If You Haven't Bought It) - Pure Xbox",
-      "description": "All 200GB+ goes live in just a few hours' time",
-      "url": "https://www.purexbox.com/news/2026/11/how-to-preload-gta-6-in-full-on-xbox-series-xs-even-if-you-havent-bought-it",
-      "urlToImage": "https://images.purexbox.com/b0c09017afae5/1280x720.jpg",
-      "source": "Pure Xbox",
-      "publishedAt": "2026-11-09T13:30:00Z"
-    },
-    {
-      "title": "Yoshi Is Finally Due To Arrive In Lego Form In A New Adult Set For 2027 - Kotaku",
-      "description": "'Adult set' doesn't mean what you might think, just that it's a bigger, more complicated build",
-      "url": "https://kotaku.com/lego-yoshi-adult-set-nintendo-today-app-mario-kart-standard-2000755074",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/yoshi-lego.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-11-09T13:00:46Z"
-    },
-    {
-      "title": "Making a $300 PS5 Instead of a $1,200 PS6 Would Be 'True Innovation', Says Ex-PlayStation Boss - Push Square",
-      "description": "\"Make it smaller, make it cheaper\"",
-      "url": "https://www.pushsquare.com/news/2026/11/making-a-usd300-ps5-instead-of-a-usd1200-ps6-would-be-true-innovation-says-ex-playstation-boss",
-      "urlToImage": "https://images.pushsquare.com/9c4184bfdc538/1280x720.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-11-09T13:00:00Z"
-    },
-    {
-      "title": "Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem - Eurogamer.net",
-      "description": "A veteran Bethesda designer has revealed a particular problem he hopes The Elder Scrolls 6: Sentinel is going to solve.",
-      "url": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-ladders-skyrim-bethesda-designer",
-      "urlToImage": "https://assetsio.gnwcdn.com/The-Elder-Scrolls-6-Sentinel---Title-Card.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2026-11-09T12:46:20Z"
-    },
-    {
-      "title": "Apple Launching Two More New Products This Friday - MacRumors",
-      "description": "The Apple launches keep coming! The company is set to release two new products on Friday, November 13: the all-new Apple HomeView and the...",
-      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/",
-      "urlToImage": "https://images.macrumors.com/t/wPYeHY6-2xS0BMyi62C601kOVDs=/1600x/article-new/2026/10/apple-pro-tell-logo.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-11-09T12:19:28Z"
-    },
-    {
-      "title": "New PS Portal Announced, Future-Proofed with Internal Storage and Only for Japan - Push Square",
-      "description": "New version in black is exclusive to Japan",
-      "url": "https://www.pushsquare.com/news/2026/11/new-ps-portal-announced-future-proofed-with-internal-storage-and-only-for-japan",
-      "urlToImage": "https://images.pushsquare.com/b119bcb6317d7/1280x720.jpg",
-      "source": "Push Square",
-      "publishedAt": "2026-11-09T12:09:15Z"
-    },
-    {
-      "title": "Super Smash Bros. Creator Masahiro Sakurai Cautions Against The Use Of Gen AI: 'We Can Come Up With Better Ideas' - Kotaku",
-      "description": "Masahiro Sakurai doesn't believe the technology is ready for adoption, but fears there may be no choice but to use it for future games",
-      "url": "https://kotaku.com/super-smash-bros-creator-masahiro-sakurai-cautions-against-the-use-of-gen-ai-we-can-come-up-with-better-ideas-2000754922",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/Kirby-Air-Riders-1200x675.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-11-09T12:00:03Z"
-    },
-    {
-      "title": "The Butcher's Nails and Astartes II release dates - Warhammer Community",
-      "description": "Animated carnage this winter on Warhammer TV.",
-      "url": "https://www.warhammer-community.com/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates",
-      "urlToImage": "https://assets.warhammer-community.com/1-feature-dcf0qpfgjk.jpg",
-      "source": "Warhammer-community.com",
-      "publishedAt": "2026-11-09T11:22:20Z"
-    },
-    {
-      "title": "Gears of War: E-Day celebrates franchise's 20th Anniversary with free Raam skin - TrueAchievements",
-      "description": null,
-      "url": "https://www.trueachievements.com/news/gears-of-war-e-day-free-raam-skin",
-      "urlToImage": null,
-      "source": "TrueAchievements",
-      "publishedAt": "2026-11-09T11:07:09Z"
-    },
-    {
-      "title": "'I Am Scared I Will Soon Not Be Able to See Mario Again' — Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live - IGN",
-      "description": "A popular Nintendo blogger who tells his viewers obscure facts about Super Mario has been hit with serious health conditions, including heart failure. The online personality has vowed to continue running the blog for as long as he’s able.",
-      "url": "https://www.ign.com/articles/supper-mario-broth-health-condition",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/09/gettyimages-1229469375-1794221614141.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2026-11-09T10:55:22Z"
-    },
-    {
-      "title": "Sony revives classic Walkman headphones as MDR-3R - Dezeen",
-      "description": "Japanese electronics company Sony has leaned into 1980s nostalgia with its remake of the original Walkman headphones, complete with colourful, interchangeable foam pads.",
-      "url": "https://www.dezeen.com/2026/11/09/sony-walkman-headphones-mdr-3r/",
-      "urlToImage": "https://static-2026.dezeen.com/uploads/2026/11/sony-mdr-3r-headphones_dezeen_2364_col_0.jpg",
-      "source": "Dezeen",
-      "publishedAt": "2026-11-09T10:45:00Z"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Remake Has Two Native PC Recompilations with Frame Generation and DLSS, While a Switch 2 Emulator Fork Runs It on Jailbroken PS5s - Wccftech",
-      "description": "The Legend of Zelda: Ocarina of Time remake now has two native PC ports, while a fork of the Eglantine emulator runs it even on PS5 consoles.",
-      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-screenshot-HD-1920x1079.jpeg",
-      "source": "Wccftech",
-      "publishedAt": "2026-11-09T10:00:00Z"
-    },
     {
       "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for under market price - Mashable",
       "description": "The $59.99 deal is somehow still live.",
       "url": "https://mashable.com/life/nov-9-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/03Ht3n2rIikuBuh7uDUxBeB/hero-image.fill.size_1200x675.v1794217235.jpg",
       "source": "Mashable",
-      "publishedAt": "2026-11-09T09:51:42Z"
+      "publishedAt": "2026-11-10T10:33:31Z"
     },
     {
-      "title": "Zelda Switch 2 restock retailers: Where to buy the 40th anniversary console - Mashable",
-      "description": "Consider this your emotional-support bookmark for hunting Nintendo hardware.",
-      "url": "https://mashable.com/tech/zelda-switch-2-retailers-restock-where-to-buy",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/075ZFEG1o3xx2jvlRnjW8xZ/hero-image.fill.size_1200x675.v1794217436.png",
-      "source": "Mashable",
-      "publishedAt": "2026-11-09T09:51:42Z"
-    },
-    {
-      "title": "2 Upcoming PS Plus Extra, Premium Games Announced Early - Push Square",
-      "description": "In the Japanese region at least",
-      "url": "https://www.pushsquare.com/news/2026/11/2-upcoming-ps-plus-extra-premium-games-announced-early",
-      "urlToImage": "https://images.pushsquare.com/0726417440cff/1280x720.jpg",
+      "title": "Mini Review: Warhammer Survivors (PS5) - Absurdly Addictive Crossover Is a Match Made in Bullet Hell - Push Square",
+      "description": "There is only more",
+      "url": "https://www.pushsquare.com/reviews/ps5/warhammer-survivors",
+      "urlToImage": "https://images.pushsquare.com/63841c198939c/1280x720.jpg",
       "source": "Push Square",
-      "publishedAt": "2026-11-09T09:30:00Z"
+      "publishedAt": "2026-11-10T10:06:52Z"
     },
     {
-      "title": "Do AI agents have minds? A philosopher explains - The Conversation",
-      "description": "Agentic AI systems are not conscious – not even maybe.",
-      "url": "https://theconversation.com/do-ai-agents-have-minds-a-philosopher-explains-296143",
-      "urlToImage": "https://images.theconversation.com/files/770697/original/file-20261109-64-iitx7f.jpg?ixlib=rb-4.1.1&rect=0%2C691%2C2731%2C1365&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-09T07:07:38Z"
+      "title": "Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far - Eurogamer.net",
+      "description": "Thanks to the launch of The Legend of Zelda: Ocarina of Time remake, the Nintendo Switch 2 just had its best week in the US this year.",
+      "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales",
+      "urlToImage": "https://assetsio.gnwcdn.com/switch-2-the-legend-of-zelda--40th-anniversary-edition-grab-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-11-10T09:25:20Z"
     },
     {
-      "title": "Is this the shocking conclusion to the Galaxy S27 Ultra processor mystery? - PhoneArena",
+      "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting - Eurogamer.net",
+      "description": "Includes support for a future feature that'll allow the gifting of games to members of the same Account group.",
+      "url": "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
+      "urlToImage": "https://assetsio.gnwcdn.com/switch-2-gifting.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-11-10T09:22:50Z"
+    },
+    {
+      "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\" - GamesIndustry.biz",
+      "description": "Studio issues statement after group of 2027 IGF jurors decline to vote for games that use generative AI during development",
+      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "urlToImage": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-11-10T09:07:50Z"
+    },
+    {
+      "title": "Steam now shows average FPS for thousands of Steam Deck games, desktop PC support planned - VideoCardz.com",
+      "description": "Valve adds average FPS statistics and performance histograms to Steam Store pages. The company is also collecting data from desktop PC users.",
+      "url": "https://videocardz.com/newz/steam-now-shows-average-fps-for-thousands-of-steam-deck-games-desktop-pc-support-planned",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/11/STEAM-DECK-FRAMERATE.webp",
+      "source": "Videocardz.com",
+      "publishedAt": "2026-11-10T08:38:59Z"
+    },
+    {
+      "title": "Vacheron Constantin Upgrades its Fiftysix with new Two-Tone Dials and Steel Cases - Monochrome Watches",
+      "description": "The retro-inspired Vacheron Constantin Fiftysix returns with bolder two-tone sector dials, livelier case finishes and a new strap.",
+      "url": "https://monochrome-watches.com/vacheron-constantin-fiftysix-self-winding-and-fiftysix-complete-calendar-2026-updated-steel-case-two-tone-dials-introducing-price/",
+      "urlToImage": "https://monochrome-watches.com/app/uploads/2026/11/VACHERON-CONSTANTIN-FIFTYSIX-SELF-WINDING-AND-FIFTYSIX-COMPLETE-CALENDAR-2026-STEEL-EDITIONS-NEW-CASE-NEW-TWO-TONE-DIAL-2.jpg",
+      "source": "Monochrome-watches.com",
+      "publishedAt": "2026-11-10T08:01:14Z"
+    },
+    {
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News",
+      "description": "Google patches nine Chrome flaws, including actively exploited CVE-2026-125350, a high-severity use-after-free vulnerability in the XML component.",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-11-10T06:52:00Z"
+    },
+    {
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure - WIRED",
+      "description": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "urlToImage": "https://media.wired.com/photos/6af23a5e398c3a1348a23455/191:100/w_1280,c_limit/Security_A%20New%20AI%20Tool%20From%20Google%20DeepMind%20Formally%20Verified%20the%20Signal%20Protocol_v1.jpg",
+      "source": "Wired",
+      "publishedAt": "2026-11-10T05:01:00Z"
+    },
+    {
+      "title": "27 People Who Took A Photo Of Something That Could’ve Killed Them - BuzzFeed",
+      "description": "Generally, don't pick up random animals.",
+      "url": "https://www.buzzfeed.com/andyneuenschwander/dangerous-photos-reddit-what-is-it",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/07/00/thumb/VaNoHEzAY.jpg?crop=3000:1571;0,210%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-11-10T04:34:30Z"
+    },
+    {
+      "title": "Skydance Games Hit By Layoffs - Deadline",
+      "description": "A number of staffers at Skydance Games have been laid off following merger with Warner Bros. Discovery.",
+      "url": "http://deadline.com/2026/11/skydance-games-layoffs-1237217870/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1410882222.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2026-11-10T00:40:00Z"
+    },
+    {
+      "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing - 9to5Google",
+      "description": "New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lenses across the lineup, but...",
+      "url": "http://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-camera-1.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5google.com",
+      "publishedAt": "2026-11-09T23:20:00Z"
+    },
+    {
+      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1 - MacRumors",
+      "description": "The iOS 27.2.1, iPadOS 27.2.1, and macOS 27.2.1 updates Apple released today fix a handful of security vulnerabilities. With the security fixes...",
+      "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
+      "urlToImage": "https://images.macrumors.com/t/FWFeAmxnHKf7vkk_MCBh9TcNMVg=/1600x/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-11-09T23:07:03Z"
+    },
+    {
+      "title": "Side-By-Side Comparisons Show Breath Of The Wild's Fingerprints All Over The Ocarina Of Time Remake In The Best Way - Kotaku",
+      "description": "Man, climate change really did a number on Hyrule",
+      "url": "https://kotaku.com/side-by-side-comparisons-show-breath-of-the-wilds-fingerprints-all-over-the-ocarina-of-time-remake-in-the-best-way-2000755169",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/11/ocarina-botw.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-11-09T23:00:49Z"
+    },
+    {
+      "title": "GTA 6 Disc Release and PC Version Update Would Come From Rockstar, Take-Two CEO Says - Insider Gaming",
+      "description": "Strauss Zelnick, the CEO of Take-Two Interactive, has confirmed where information about a GTA 6 disc and PC release will come from.",
+      "url": "https://insider-gaming.com/gta-6-disc-and-pc-version-update-come-rockstar-take-two/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg",
+      "source": "Insider-gaming.com",
+      "publishedAt": "2026-11-09T22:56:06Z"
+    },
+    {
+      "title": "Reality Redemption 2 Brings Hardware Ray Tracing to Red Dead Redemption 2 - DSOGaming",
       "description": null,
-      "url": "https://www.phonearena.com/news/here-is-the-answer-to-a-major-galaxy-s27-ultra-processor-question_id184644",
+      "url": "https://www.dsogaming.com/mods/reality-redemption-2-brings-hardware-ray-tracing-to-red-dead-redemption-2/",
       "urlToImage": null,
-      "source": "PhoneArena",
-      "publishedAt": "2026-11-09T04:46:54Z"
+      "source": "DSOGaming",
+      "publishedAt": "2026-11-09T22:45:46Z"
     },
     {
-      "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle announced for iOS, Android - Gematsu",
-      "description": "Square Enix has announced Dragon Quest RPG: The Cursed Tree and the Chosen Isle, “the next adventure in the Dragon Quest series” for iOS and Android.",
-      "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/DQRPG-Ann_11-08-26.jpg",
-      "source": "Gematsu",
-      "publishedAt": "2026-11-09T03:57:58Z"
-    },
-    {
-      "title": "No, this isn't Windows 11's new modernized Registry Editor — Microsoft confirms \"this is a sample\" and not the real thing after outrage online - Windows Central",
-      "description": "A new Registry Editor sample app has caused a stir online after people mistook it for a real replacement for the existing Registry Editor on Windows 11.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/no-this-isnt-windows-11s-new-modernized-registry-editor-microsoft-confirms-this-is-a-sample-and-not-the-real-thing-after-outrage-online",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WGjshCvjhQk42twXMotteh-1920-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2026-11-09T03:44:05Z"
-    },
-    {
-      "title": "5 Essential Apps You Need To Install On Your Mac Mini In 2026 - BGR",
-      "description": "Whether you're just getting a Mac Mini or are already an experienced user, you should know about these five apps that every Mac mini owner needs.",
-      "url": "https://www.bgr.com/2306805/mac-mini-essential-apps-2026/",
-      "urlToImage": "https://www.bgr.com/img/gallery/5-essential-apps-you-need-to-install-on-your-mac-mini-in-2026/l-intro-1793814554.jpg",
-      "source": "BGR",
-      "publishedAt": "2026-11-09T03:17:00Z"
+      "title": "Inject Ocarina Of Time Remake Speedruns Straight Into My Veins - Aftermath",
+      "description": "'We can now beat Shadow Temple as child, which automatically turns you into adult. ... It also looks very funny'",
+      "url": "https://aftermath.site/legend-of-zelda-ocarina-of-time-remake-speedruns/",
+      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/lonk.jpg",
+      "source": "Aftermath.site",
+      "publishedAt": "2026-11-09T22:27:42Z"
     }
   ]
 }
