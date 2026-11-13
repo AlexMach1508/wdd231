@@ -1,159 +1,159 @@
 {
-  "updatedAt": "2026-11-12T15:01:54.937Z",
+  "updatedAt": "2026-11-13T14:28:17.136Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked - Mashable",
-      "description": null,
-      "url": "https://mashable.com/tech/samsung-galaxy-s27-camera-specs-leak",
-      "urlToImage": null,
+      "title": "Microsoft confirms Windows security updates installation issues - BleepingComputer",
+      "description": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Windows-11.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-11-12T10:24:07Z"
+    },
+    {
+      "title": "GTA 6 preorders top $1 billion as Hollywood eyes record launch weekend - Mashable",
+      "description": "Sony and Microsoft say it's already the most preordered game in the history of their digital stores.",
+      "url": "https://mashable.com/tech/gta-6-preorders-1-billion-hollywood",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04ksT9yZqVyXuoXxUeAUrsO/hero-image.fill.size_1200x675.v1794432763.jpg",
       "source": "Mashable",
-      "publishedAt": "2026-11-11T13:07:31Z"
+      "publishedAt": "2026-11-12T10:16:05Z"
     },
     {
-      "title": "Are your TVs spying on you? We asked their makers - The Verge",
-      "description": "After LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.﻿",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-11-11T13:00:00Z"
-    },
-    {
-      "title": "Not everyone is loving their new iPhone Duo - The Verge",
-      "description": "The iPhone Duo went on sale just over two weeks ago, but some early adopters have seen enough.",
-      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-11-11T13:00:00Z"
-    },
-    {
-      "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs - VideoCardz.com",
-      "description": "NVIDIA reportedly informed board partners that the RTX 5080 24GB will not launch in January. The existing 16GB model is now expected to remain in production.",
-      "url": "https://videocardz.com/newz/nvidia-reportedly-cancels-geforce-rtx-5080-24gb-launch-brings-back-16gb-model-over-gddr7-costs",
-      "urlToImage": "https://cdn.videocardz.com/1/2025/01/MSI-RTX-5080-24GB.jpg",
-      "source": "Videocardz.com",
-      "publishedAt": "2026-11-11T09:15:01Z"
-    },
-    {
-      "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely - CyberSecurityNews",
-      "description": "Google has fixed a Chrome zero-day that attackers are already using. The flaw is tracked as CVE-2026-125350, and it lets a remote attacker run malicious code in the browser. Google's Stable channel update moves Chrome to version 157.0.8103.50/.51 for Windows …",
-      "url": "https://cybersecuritynews.com/google-chrome-0-day-exploited/",
-      "urlToImage": "http://cybersecuritynews.com/wp-content/uploads/2026/11/Google-Chrome-0-Day-Exploited.webp",
-      "source": "Cybersecuritynews.com",
-      "publishedAt": "2026-11-11T09:04:18Z"
-    },
-    {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes - The Hacker News",
-      "description": "Microsoft patches 1,259 flaws, including an actively exploited Outlook vulnerability that could expose NTLMv2 hashes through crafted files.",
-      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nfFO2Zf-R2XyVzQHP43rc0OLAtUtRKWYV0VIaoHZW8EeH78h2Id9FmfJQVfzFdmBD6ugVGeCehX1Nq6jlmXlMG4AmnV3Tib3YvClKGaplVg5Ngk_KlpqwHx6Pd_oYQTCj2O3HfOpt_MoSGQD-4Nv-pju5sqS7U9-rAJdpKTn-xnhA1QSmmTiQWnAFjGp/s1600/patch-ms.jpg",
-      "source": "Internet",
-      "publishedAt": "2026-11-11T08:17:00Z"
-    },
-    {
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons - The Hacker News",
-      "description": "Microsoft demonstrates how editing as few as six AI model neurons can plant backdoors that trigger command execution by agents.",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3GT7PJRzHrU1jqZ7Qt0MYIOeL97NYpY4E-aY-Jh9WrLRSLpjaLEIjeAdOagTcUfo7MU9yXmk7HPgPHuGKkEidZkw-2Ojtty9z1PX2Qmmj-h0Kk3X-3VsIg6Lggpoblf-1SE5GHU9LB-P6WeOrfNVgIl1e7q0FxS6obF07BEd8HVcXgSyd_7ZSV8hB01E/s1600/ms-ai-backdoor.jpg",
-      "source": "Internet",
-      "publishedAt": "2026-11-11T07:21:00Z"
-    },
-    {
-      "title": "Nintendo Sold 5.2 Million Copies of ‘Zelda’ Remake in Four Days - Bloomberg.com",
-      "description": "Nintendo Co. sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake in just four days, invigorating the Switch 2 platform that had been waiting for a blockbuster hit.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQlVwvvfCExw/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-11T07:06:00Z"
-    },
-    {
-      "title": "Microsoft Officially Rolls Out Auto Super Resolution for ROG Xbox Ally X and X20 - Gizmodo",
-      "description": "The neural processing unit (NPU) in high-end Ally models finally does something useful.",
-      "url": "https://gizmodo.com/microsoft-officially-rolls-out-auto-super-resolution-for-rog-xbox-ally-x-and-x20-2000838170",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Asus-ROG-Xbox-Ally-X20-1-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-11-11T04:25:22Z"
-    },
-    {
-      "title": "Aviva Helfand, 74, OBM - COLlive",
-      "description": "Aviva Helfand, a beloved member of the Long Beach, CA Jewish community, known for her memorable meals and warm hospitality, passed away on Erev Shabbos, Parshas Vayera, 19 Cheshvan 5787. Full Story",
-      "url": "https://collive.com/aviva-helfand-74-obm/",
-      "urlToImage": "https://collive.com/wp-content/uploads/2026/11/picsart_26-11-10_20-12-09-856.jpg",
-      "source": "COLlive - Chabad News",
-      "publishedAt": "2026-11-11T01:28:45Z"
-    },
-    {
-      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors",
-      "description": "Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.   Harbor works with a single...",
-      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
-      "urlToImage": "https://images.macrumors.com/t/9wUV-qYkqqosjBGhmAOYPyY-q5k=/1600x/article-new/2026/11/claris-harbor-2.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2026-11-10T23:34:45Z"
-    },
-    {
-      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
-      "description": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-10T23:30:56Z"
-    },
-    {
-      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop - Kotaku",
-      "description": "The kids are usually alright, but they messed this one up",
-      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/GettyImages-2218779363.jpg",
-      "source": "Kotaku",
-      "publishedAt": "2026-11-10T23:00:35Z"
-    },
-    {
-      "title": "Exclusive | Australian Billionaire James Packer Sells Aspen Mansion for $42.68 Million - WSJ",
+      "title": "Humble Bundle Undergoes A Vibe-Coded Redesign, Forgets To Implement Full Account Security - Kotaku",
       "description": null,
-      "url": "https://www.wsj.com/real-estate/luxury-homes/james-packer-aspen-home-75733266",
+      "url": "https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-10T22:15:24Z"
+      "source": "Kotaku",
+      "publishedAt": "2026-11-12T09:00:39Z"
     },
     {
-      "title": "Sony cancels live-service shooter Fairgames - The Verge",
-      "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony’s big planned push for PlayStation live service games.",
-      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T21:06:12Z"
+      "title": "The ‘Zelda: Ocarina Of Time’ Remake Sold Over 5 Million Copies In 4 Days - Forbes",
+      "description": "The recently released and thoroughly excellent remake of 'Zelda: Ocarina of Time' has managed to sell over 5 million units in its first 4 days on sale.",
+      "url": "https://www.forbes.com/sites/olliebarder/2026/11/11/the-zelda-ocarina-of-time-remake-sold-over-5-million-copies-in-4-days/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6aea856746bd6f7f3553987e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2026-11-12T03:38:18Z"
     },
     {
-      "title": "Google warns users to protect their inbox as new hacking tool threatens to expose your private information - New York Post",
-      "description": "Changing your passwords is no longer enough to avoid this new cyberattack tool.",
-      "url": "https://nypost.com/2026/11/10/tech/google-warns-users-to-protect-their-inbox-from-remus-stealer-malware/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-ial0l4eyi-1794337801606.jpg?quality=75&strip=all&1794319820&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-11-10T20:32:00Z"
+      "title": "45 \"Boomer\" Life Hacks That Every Young Person Should Keep In Their Notes App - BuzzFeed",
+      "description": "\"I keep one in the closet and soccer it around the main level as needed.\"",
+      "url": "https://www.buzzfeed.com/kristenharris1/boomer-life-hacks",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/19/thumb/rh2EuAs1r.jpg?crop=1250:654;0,41%26downsize=1250:*",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-11-12T02:31:02Z"
     },
     {
-      "title": "Burger King Italy Gets Official Magic: The Gathering Meal With Whopper-Themed Deck Boxes - IGN",
-      "description": "Burger King just launched a Magic: The Gathering meal that comes with Whopper-themed deck boxes and sleeves. Unfortunately, the promotion is exclusive to Burger King Italy, with no indication that it will expand to other countries.",
-      "url": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/10/burgerkingmtg-1794335089331.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "title": "5 Cool New Features Your Google Pixel Is Getting In November 2026 - BGR",
+      "description": "Google Pixel owners have multiple new features to look forward to this month, as the company rolls out its latest Google Pixel Drop software update.",
+      "url": "https://www.bgr.com/2314333/google-pixel-cool-new-features-november-2026/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-cool-new-features-your-google-pixel-is-getting-in-november-2026/l-intro-1794436050.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-11-12T00:17:00Z"
+    },
+    {
+      "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length - IGN",
+      "description": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it sounds like it may be extremely compromised.",
+      "url": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/04/marvel-1780614544087.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
-      "publishedAt": "2026-11-10T19:16:42Z"
+      "publishedAt": "2026-11-11T23:27:26Z"
     },
     {
-      "title": "Google’s Pixel Tag tracker is now available - The Verge",
-      "description": "The Pixel Tag is Google’s answer to Apple’s AirTag but is designed to work with Android’s Find Hub app and tracking network.",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "title": "New GTA 6 gameplay video is leaving fans stunned - Polygon.com",
+      "description": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true",
+      "url": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_lucia_rooftop_landscape.jpg?w=1600&h=900&fit=crop",
+      "source": "Polygon",
+      "publishedAt": "2026-11-11T22:39:52Z"
+    },
+    {
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’ - The Verge",
+      "description": "The Home Assistant Connect Aux-2 helped me track my fridge temperature and finally set up my in-wall speakers.﻿",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0%2C10.738824991648%2C100%2C78.522350016704&w=1200",
       "source": "The Verge",
-      "publishedAt": "2026-11-10T19:00:33Z"
+      "publishedAt": "2026-11-11T22:00:00Z"
     },
     {
-      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop - Ars Technica",
-      "description": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-10T19:00:26Z"
+      "title": "Samsung and Apple are both working on bigger wide foldables, new rumor claims - GSMArena.com news - GSMArena.com",
+      "description": "Samsung Galaxy Z Fold9 Plus, meet the iPhone Duo 2 Plus. Samsung and Apple both already have wide foldables on the market in the Galaxy Z Fold8 and the...",
+      "url": "https://www.gsmarena.com/samsung_and_apple_are_both_working_on_bigger_wide_foldables_new_rumor_claims-news-75446.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-apple-developing-bigger-wide-foldables-rumor/-952x498w6/gsmarena_000.jpg",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-11-11T21:33:02Z"
+    },
+    {
+      "title": "10 Tech Gifts Under $50 That Punch Above Their Price Point - SlashGear",
+      "description": "Some gadgets cost a fortune, while others feel like they should, offering features seemingly beyond their remit.",
+      "url": "https://www.slashgear.com/2313051/tech-gifts-under-50-dollars-punch-above-price-point/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/10-tech-gifts-under-50-that-punch-above-their-price-point/l-intro-1794339103.jpg",
+      "source": "SlashGear",
+      "publishedAt": "2026-11-11T21:30:00Z"
+    },
+    {
+      "title": "Sorry, Aonuma, Rolling Is Still The Fastest Way To Get Around In Zelda: Ocarina Of Time - Kotaku",
+      "description": "Ha! Hup! Hup! Ha! Hup!",
+      "url": "https://kotaku.com/sorry-aonuma-rolling-is-still-the-fastest-way-to-get-around-in-zelda-ocarina-of-time-2000755975",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/11/dodge-roll.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2026-11-11T21:00:27Z"
+    },
+    {
+      "title": "Xbox Brings Its Free Tier Of Cloud Gaming To Loads More Players Today - Pure Xbox",
+      "description": "Could prove popular for GTA 6?",
+      "url": "https://www.purexbox.com/news/2026/11/xbox-brings-its-free-tier-of-cloud-gaming-to-loads-more-players-today",
+      "urlToImage": "https://images.purexbox.com/6003244045ef3/1280x720.jpg",
+      "source": "Pure Xbox",
+      "publishedAt": "2026-11-11T21:00:00Z"
+    },
+    {
+      "title": "Tanuki: Pon's Summer Review - IGN",
+      "description": "While some parts of Tanuki: Pon's Summer don't live up to what makes it special, it still captures the vibe of summer wrapped in a fun BMX delivery service.",
+      "url": "https://www.ign.com/articles/tanuki-pons-summer-review",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/11/tanuki-pons-summer-blogroll-02-1794428582840.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-11-11T20:39:23Z"
+    },
+    {
+      "title": "Resident Evil Requiem wins Ultimate Game of the Year at the Golden Joystick Awards 2026 - GamesRadar+",
+      "description": "Raccoon City supremacy",
+      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZB9C6R9UGBnJmJaF72xjE4-1920-80.jpg",
+      "source": "GamesRadar+",
+      "publishedAt": "2026-11-11T20:15:51Z"
+    },
+    {
+      "title": "Don't believe these 3 longevity myths, doctors say: The most important factors 'don't cost anything' - CNBC",
+      "description": "With the wellness economy growing, experts break down three of modern America's commonly believed longevity myths — and what you should know instead.",
+      "url": "https://www.cnbc.com/make-it/2026/11/11/longevity-myths-doctors-aging.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108549240-1794422333695-gettyimages-2210374494-pi-3224074.jpeg?v=1794422461&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-11-11T19:06:41Z"
+    },
+    {
+      "title": "Arcade-Perfect PC Ports Released for Star Wars Trilogy, The House of the Dead, Sega Rally 2 & OutRunners - DSOGaming",
+      "description": null,
+      "url": "https://www.dsogaming.com/news/arcade-perfect-pc-ports-released-for-star-wars-trilogy-the-house-of-the-dead-sega-rally-2-outrunners/",
+      "urlToImage": null,
+      "source": "DSOGaming",
+      "publishedAt": "2026-11-11T19:02:02Z"
+    },
+    {
+      "title": "Google Wallet rolling out digital Google Home keys with supported locks on Android - 9to5Google",
+      "description": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home.",
+      "url": "http://9to5google.com/2026/11/11/google-wallet-home-key/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Wallet-Home-key.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "9to5google.com",
+      "publishedAt": "2026-11-11T18:58:00Z"
+    },
+    {
+      "title": "Intel’s Gonna Have a Hard Time Beating AMD’s Next-Gen Gaming CPUs - Gizmodo",
+      "description": "Desktop chips are getting pretty darn good, but AMD’s Zen 6 may have more in store.",
+      "url": "https://gizmodo.com/amd-zen-6-processors-2000838387",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-11-11T18:40:00Z"
     }
   ]
 }
