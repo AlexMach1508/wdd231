@@ -1,127 +1,159 @@
 {
-  "updatedAt": "2026-11-16T15:33:51.493Z",
+  "updatedAt": "2026-11-17T15:53:04.817Z",
   "country": "us",
   "category": "technology",
   "articles": [
     {
-      "title": "What a short! Arshdeep becomes most rounded version of himself - Cricinfo",
-      "description": "He bowled the second-most short balls in the ODIs against NZ, apart from skilfully using the wobble-seam delivery",
-      "url": "https://www.cricinfo.com/story/arshdeep-singh-becomes-most-rounded-version-of-himself-with-short-ball-and-wobble-seam-1562790",
-      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/425300/425301.6.jpg",
-      "source": "Cricinfo.com",
-      "publishedAt": "2026-11-15T15:25:00Z"
+      "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX - XBOX Wire",
+      "description": "Some may know me as DJ Khaled. Some may know me as a hitmaker, a major key provider. But today, I want you to call me Dr. XBOX. Why? Because I’ve been",
+      "url": "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/DrXBOX_Hero-ff346cf4ed4093811e3f.jpg",
+      "source": "Xbox.com",
+      "publishedAt": "2026-11-16T14:02:02Z"
     },
     {
-      "title": "5 Generations Of The Chevy Impala SS Ranked From Best To Worst Horsepower Ratings - Jalopnik",
-      "description": "Despite gross power ratings, the 425-hp W-series 409 and L78 427 Impala SS models of the '60s remain the most powerful, followed by the latest 9th-gen versions.",
-      "url": "https://www.jalopnik.com/2310765/generations-chevy-impala-ss-ranked-best-to-worst-horsepower-ratings/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/5-generations-of-the-chevy-impala-ss-ranked-from-best-to-worst-horsepower-ratings/l-intro-1793889739.jpg",
-      "source": "Jalopnik",
-      "publishedAt": "2026-11-15T13:05:00Z"
+      "title": "Google warns that fully-automated AI attacks are coming soon - BleepingComputer",
+      "description": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed.",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/09/robot-hacker.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-11-16T14:00:00Z"
     },
     {
-      "title": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2 - Push Square",
+      "title": "Stocks making the biggest moves premarket: L3Harris, Nvidia, Take-Two Interactive, Yeti, American Airlines & more - CNBC",
+      "description": "Follow along as CNBC highlights the biggest stock market moves of the day.",
+      "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108549918-1794488015209-gettyimages-2304689714-vcg111681604086.jpeg?v=1794488032&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-11-16T13:47:00Z"
+    },
+    {
+      "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air - MacRumors",
+      "description": "Next year's \"iPhone 20 Pro\" models will use the same glass design as the iPhone Air, but with more pronounced curvature along all four...",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/",
+      "urlToImage": "https://images.macrumors.com/t/4rBJhPkChNilujrAMHX2a_YNqqE=/1801x/article-new/2025/02/iphone-air-camera.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-11-16T13:40:33Z"
+    },
+    {
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital - BBC",
+      "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "url": "https://www.bbc.com/news/articles/cq99exy89dngo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7b17/live/41c7a2f0-e1a2-11f1-b0a4-450a350911f4.png",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T13:34:22Z"
+    },
+    {
+      "title": "The Best Tech Gifts of 2026 - Gizmodo",
+      "description": "Let's get everyone you love a gadget they'll love.",
+      "url": "https://gizmodo.com/best-tech-gifts-2026-2000839047",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Best-Tech-Gifts-2026-Featured-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-11-16T13:30:12Z"
+    },
+    {
+      "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up. - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxVQ0NhMnc3ZmZSc1daLWJHVFphakxwZ1lTWmd6cEp0WWtPM1E0YWNoZXc1dnZjSkczdWYxZEZVcmpQN2FLaDR3cHBDMndqekNvWm5aTmF3TVFWZ1NVeU5lLWpIYVRQN3kwcjVsTEhKQVk4OFAzV3QxcWZmTVhUZUd2dDBaXzg?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-11-16T13:24:37Z"
+    },
+    {
+      "title": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 - Push Square",
       "description": "But no PS5 consoles included",
-      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
       "urlToImage": "https://images.pushsquare.com/caee43ed6e6bb/1280x720.jpg",
       "source": "Push Square",
-      "publishedAt": "2026-11-15T13:00:00Z"
+      "publishedAt": "2026-11-16T13:00:00Z"
     },
     {
-      "title": "Space data centers could end stargazing as we know it - Axios",
-      "description": "Americans don't want data centers near them, but putting them in space brings new problems.",
-      "url": "https://www.axios.com/2026/11/15/space-data-centers-risks-stargazing-report",
-      "urlToImage": "https://images.axios.com/IWz-RYltvhsUWboNMlO46YlRkhI=/0x0:1838x1034/1366x768/2026/11/15/1794707170926.png",
-      "source": "Axios",
-      "publishedAt": "2026-11-15T11:59:00Z"
-    },
-    {
-      "title": "Bugatti's new US CEO talks manuals, electric hypercars and the business of tariffs - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Business/bugattis-new-us-ceo-talks-manuals-electric-hypercars/story?id\\\\u003d138011164",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-15T11:09:19Z"
-    },
-    {
-      "title": "Microsoft's Windows 11 hidden performance boost trick can ironically slow your system down - Neowin",
-      "description": null,
-      "url": "https://www.neowin.net/news/microsofts-windows-11-hidden-performance-boost-trick-can-ironically-slow-your-system-down/",
-      "urlToImage": null,
-      "source": "Neowin",
-      "publishedAt": "2026-11-15T10:32:00Z"
-    },
-    {
-      "title": "Stop doing sit-ups — a yoga instructor and strength and conditioning coach recommends this exercise to work the core, hip flexors, and back muscles - Tom's Guide",
-      "description": "This move helps build stability rather than just endurance",
-      "url": "https://www.tomsguide.com/wellness/workouts/stop-doing-sit-ups-a-yoga-instructor-and-strength-and-conditioning-coach-recommends-this-exercise-to-work-the-core-hip-flexors-and-back-muscles",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dSpCX2AQLeTQqg24hNAqnC-1615-80.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2026-11-15T08:15:00Z"
-    },
-    {
-      "title": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake - Nintendo Life",
-      "description": "Watch out for ReDead",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
-      "urlToImage": "https://images.nintendolife.com/ed94ce12e7b94/1280x720.jpg",
+      "title": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes - Nintendo Life",
+      "description": "Play activity improvements",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
+      "urlToImage": "https://images.nintendolife.com/5efeca106ac23/1280x720.jpg",
       "source": "Nintendo Life",
-      "publishedAt": "2026-11-15T07:30:00Z"
+      "publishedAt": "2026-11-16T13:00:00Z"
     },
     {
-      "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it - Tom's Guide",
-      "description": "Google's new model beats its pricier one and is just as impressive",
-      "url": "https://www.tomsguide.com/ai/google-gemini/googles-gemini-4-hydrogen-is-free-here-are-5-impressive-things-you-can-do-with-it",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/X6dTrYPSS9g6VcZkyqRAhX-2560-80.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2026-11-15T05:56:27Z"
+      "title": "Warhammer Survivors roadmap reveals a bunch of free updates are on the way - TrueAchievements",
+      "description": "Now that players have had a chance to battle it out in Warhammer Survivors, Auroch Digital has revealed a host of free updates arriving in the coming months.",
+      "url": "https://www.trueachievements.com/news/warhammer-survivors-roadmap",
+      "urlToImage": "https://www.trueachievements.com/imgs/180747/warhammer-survivors-roadmap.jpg",
+      "source": "TrueAchievements",
+      "publishedAt": "2026-11-16T12:49:39Z"
     },
     {
-      "title": "NYT Strands hints, answers for November 14, 2026 - Mashable",
-      "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-14-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00APqaCmfLEeEhhXAhAc9lO/hero-image.fill.size_1200x675.v1794412843.jpg",
-      "source": "Mashable",
-      "publishedAt": "2026-11-15T03:35:07Z"
+      "title": "PS5 hacker Gezine claims to have dumped game executable on GTA VI-compatible firmware 14.22 - VideoCardz.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjRTYlVGS1BxQmc3QzFmU2RYZ3RSd29PVm5vUXdBYVN1RjhZUDdKMGlVNmtSNmRTSm5KZEkwWHlCeTlDLXBwaUxhSkUyM1hWZ3hQSVk0RW40Wjk1Q1lxSzNJN1RHX1dPVWxQTG1iVU5Pb3hYd2VyWXF3MUp4SU13V3NuNUVTcDJyMnRXNkJlaHZhUFh5bF9kNFpuck5mS0lvRk1GeFNXTHprMDdMb2s1eE95Zy1yT0FaNUp3?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-11-16T12:41:31Z"
     },
     {
-      "title": "12 Niche USB-C Gadgets That Are Surprisingly Useful - SlashGear",
-      "description": "USB-C is the wired charging standard for your phones, earbuds, and more, but a lot of devices that use it fall well outside the typical categories.",
-      "url": "https://www.slashgear.com/2314039/niche-usb-c-gadgets-that-are-useful/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/12-niche-usb-c-gadgets-that-are-surprisingly-useful/l-intro-1794424838.jpg",
-      "source": "SlashGear",
-      "publishedAt": "2026-11-15T02:30:00Z"
+      "title": "Xbox Unveils Fable Map, Full Look At Bowerstone - IGN",
+      "description": "The latest deep dive into Fable goes over the returning capital city of Albion: Bowerstone.",
+      "url": "https://www.ign.com/articles/fable-reveals-first-look-at-bowerstones-new-map-and-its-huge",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/01/23/fable-thefirstpreview-blogroll-1769205292794.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2026-11-16T12:28:01Z"
     },
     {
-      "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules - Polygon.com",
-      "description": "Short on time but ready to game? These 10 co-op games range from one-level sessions to month-long campaigns, from Overcooked! to Gears of War: E-Day.",
-      "url": "https://www.polygon.com/co-op-games-real-life-schedules/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22389863/snow__2_.png?w=1600&h=900&fit=crop",
-      "source": "Polygon",
-      "publishedAt": "2026-11-15T01:00:00Z"
+      "title": "Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table - Nintendo Life",
+      "description": "Cor! Five new Grass- and Dragon-types for a limited-time only",
+      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
+      "urlToImage": "https://images.nintendolife.com/f7167246514a9/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-11-16T11:57:04Z"
     },
     {
-      "title": "Link Officially Speaks for the First Time in Zelda: Ocarina of Time Remake - Comic Book Resources",
-      "description": "In the Ocarina of Time remake, Link speaks his first-ever voice acted line in Zelda history (the cartoon doesn’t count), but it’s only in Japanese.",
-      "url": "https://www.cbr.com/zelda-ocarina-of-time-switch-2-remake-link-talk/",
-      "urlToImage": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/ad422c24-860c-48f7-b8c6-60063cbad390.jpg?w=1600&h=900&fit=crop",
-      "source": "CBR - Comic Book Resources",
-      "publishedAt": "2026-11-15T00:20:00Z"
+      "title": "Random: Modder Transforms DS Into A Home Console, And It's Super Cool - Nintendo Life",
+      "description": "Meet the DualStation",
+      "url": "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool",
+      "urlToImage": "https://images.nintendolife.com/a99cb92004802/1280x720.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2026-11-16T10:45:00Z"
     },
     {
-      "title": "Minecraft getting Nintendo Switch 2 Joy-Con 2 mouse controls, here’s a first look - Nintendo Everything",
-      "description": "It's been revealed that Joy-Con 2 mouse controls are coming to Minecraft on Nintendo Switch 2, and here's a first look.",
-      "url": "https://nintendoeverything.com/minecraft-nintendo-switch-2-mouse-controls-joy-con-2/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Minecraft-mouse-controls-Switch-2.jpg",
-      "source": "Nintendoeverything.com",
-      "publishedAt": "2026-11-14T23:03:16Z"
+      "title": "All tech eyes on Grand Theft Auto VI release Thursday - Audacy",
+      "description": "Later this week will see the official release of one of the most anticipated video games in recent memory - Grand Theft Auto VI (GTA VI). One local cybersecurity expert estimates theengagement with the game is going to be intense off the bat, with people spen…",
+      "url": "https://www.audacy.com/wben/news/local/all-tech-eyes-on-grand-theft-auto-vi-release-thursday",
+      "urlToImage": "https://www.audacy.com/media-library/grand-theft-auto-vi.jpg?id=68680743&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
+      "source": "Audacy.com",
+      "publishedAt": "2026-11-16T08:30:00Z"
     },
     {
-      "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery] - 9to5Google",
-      "description": "After appearing early for some, Google Pixel's new Family Hub feature appears to be widely rolled out for many users.",
-      "url": "http://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-camera-close-up.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "9to5google.com",
-      "publishedAt": "2026-11-14T23:00:00Z"
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures - BleepingComputer",
+      "description": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/16/Windows.jpg",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-11-16T08:26:52Z"
+    },
+    {
+      "title": "The Last Ice on Puncak Jaya - NASA Science (.gov)",
+      "description": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_oli2_20261019_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "source": "NASA",
+      "publishedAt": "2026-11-16T05:00:00Z"
+    },
+    {
+      "title": "I Finally Ditched Netflix For Jellyfin, Even On Mobile — Here's How - BGR",
+      "description": "After years with Netflix, I switched to Jellyfin. It took some work, but I can stream movies on my TV at home or on my phone when I'm out.",
+      "url": "https://www.bgr.com/2315939/how-to-replace-netflix-subscription-with-jellyfin-even-on-mobile/",
+      "urlToImage": "https://www.bgr.com/img/gallery/i-finally-ditched-netflix-for-jellyfin-even-on-mobile-heres-how/l-intro-1794584016.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-11-16T04:17:00Z"
+    },
+    {
+      "title": "4 Belkin Accessories To Keep In Your Car - BGR",
+      "description": "There are many accessories that can elevate your driving experience, and these Belkin offerings are among them.",
+      "url": "https://www.bgr.com/2315483/best-belkin-accessories-for-car/",
+      "urlToImage": "https://www.bgr.com/img/gallery/4-belkin-accessories-to-keep-in-your-car/l-intro-1794519097.jpg",
+      "source": "BGR",
+      "publishedAt": "2026-11-16T03:47:00Z"
     }
   ]
 }

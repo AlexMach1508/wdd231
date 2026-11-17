@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-11-16T15:33:51.759Z",
+  "updatedAt": "2026-11-17T15:53:04.944Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Microsoft Service Restored After Widespread Outage, Company Says - WSJ",
+      "title": "Stocks slide as Nvidia leads AI names lower: Live updates - CNBC",
       "description": null,
-      "url": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b",
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+      "urlToImage": null,
+      "source": "CNBC",
+      "publishedAt": "2026-11-16T15:46:11Z"
+    },
+    {
+      "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback - Yahoo Finance",
+      "description": "Nvidia will report its Q3 earnings after the bell Tuesday.",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cc9ad1a3ec34ad4475f4f702b47a628bf29c64151d2763df1224ef89ec534f94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F78cde9e3-767f-4ed2-a2b3-7a122d0d2792",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-16T15:38:22Z"
+    },
+    {
+      "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck - Yahoo Finance",
+      "description": "Stocks declined on Monday as the semiconductor sector came under pressure.",
+      "url": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/67312772d842d4e63e2c96cad111ae8f05e5b818232056374de0d99c68d6d5f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd69ee08d-1efa-4e34-a1b9-2b9f3496a60c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-16T15:00:19Z"
+    },
+    {
+      "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial - CNBC",
+      "description": "Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.",
+      "url": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108226741-1763385742323-gettyimages-2212016189-NOVO_WEGOVY.jpeg?v=1763385821&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-11-16T15:00:01Z"
+    },
+    {
+      "title": "Jensen Huang Scandal: Timeline That Led To His Resignation—And Potential Comeback - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/11/16/jensen-huang-ousted-timeline-of-the-nvidia-scandal-as-he-reportedly-plots-comeback/",
+      "urlToImage": null,
+      "source": "Forbes",
+      "publishedAt": "2026-11-16T14:57:00Z"
+    },
+    {
+      "title": "The Children's Place plans store closures after filing for bankruptcy, sets gift card deadline - Fox Business",
+      "description": "The Children's Place is seeking a buyer after filing for bankruptcy, with store closures ahead and a Dec. 12 deadline for customers to redeem gift cards and rewards points.",
+      "url": "https://www.foxbusiness.com/retail/childrens-place-plans-store-closures-filing-bankruptcy-sets-gift-card-deadline",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/childrens-place-entrance.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-11-16T14:50:00Z"
+    },
+    {
+      "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly - CNBC",
+      "description": null,
+      "url": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
+      "urlToImage": null,
+      "source": "CNBC",
+      "publishedAt": "2026-11-16T14:29:09Z"
+    },
+    {
+      "title": "Nvidia can replace Jensen Huang, but not the handshakes behind its chips: Chart of the Day - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/markets/article/nvidia-can-replace-jensen-huang-but-not-the-handshakes-behind-its-chips-chart-of-the-day-141658786.html",
+      "urlToImage": null,
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-16T14:16:58Z"
+    },
+    {
+      "title": "Microsoft outage saw 80% of servers fail – here’s what happened - 9to5Mac",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2o5TXFBME5pdEtvT2NXYm1McWoxQVNWbzNyOGN6Q1UzeFYxTkZWMFMwU1d6Y2JTZHZiRDNfV1h3SllTYWFOUUN2NVg5X084SHFkemxBdVJJZDNFWlliWDR1cjlrVlQxYmM1V0lMdjNJN0RPbjNKXzdoUFVMS1AyZEppTlFPQ2RCOVJ5RE9jQ1FGWmxXbkE?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-11-16T13:43:00Z"
+    },
+    {
+      "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil - MarketWatch",
+      "description": "Ulf Lindahl worries a Korea-like crash is coming for the S&P 500",
+      "url": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb",
+      "urlToImage": "https://images.mktw.net/im-31620722/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-16T13:36:00Z"
+    },
+    {
+      "title": "Amazon’s Decoy Deals: Groundwork Investigation Reveals Nearly 1 in 3 Black Friday and Cyber Monday “Deals” Advertised by Amazon Offered No Savings to Shoppers, Nearly 1 in 10 Were Actually More Expensive - Groundwork Collaborative",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQWHpFZnpjNnlDQkY3Q1JLbEVzbzA3cDlqMGVPNHF2azhMZ0hVUmR0amswXzJLS0x0bFFjTFVBa2h0RGw0YklTUVZTZWpHYkdIM2NRYzg4QzM2dGRzVzNSUzBjM3hVZVc0VVEwNnZuenNrbXBVbmtlazRQZy1VSEdRSDVUcE9URkVzMl9YVDUzSVhINHRvckpOMnpYeGtiWERIMW4tZEJvT2JacUtrYVdGdU0tVS1wRWxwSGRob3FSd2xueUlyTEFzLVdRODd4MVNEa2llaTVreG5KcENPdVFaY3JYYzhMVjdsTnFaaF9yQUZqZF9QQjdEMHdmd1hZMm1qX21vREZMRnBmSndlOTkyc1ZZdE45Q1g5eFFFZEROV0N3c2tWekVlNE1KMjhENnBJRkthXy1FYw?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-11-16T13:07:12Z"
+    },
+    {
+      "title": "Oil Prices Reverse Initial Gains as Supply Concerns Weigh - WSJ",
+      "description": "Front-month Brent crude futures fell to $95.04 a barrel, while front-month WTI crude futures declined to $88.09",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97",
+      "urlToImage": "https://images.wsj.net/im-16480810/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-11-16T12:56:00Z"
+    },
+    {
+      "title": "Blackstone Digital Infrastructure Trust to Acquire Data Center Portfolio from Amazon for $5 Billion - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-15T15:57:49Z"
+      "publishedAt": "2026-11-16T12:41:05Z"
     },
     {
-      "title": "Transportation secretary says he doesn’t apologize for FAA’s nationwide ground stop - NBC News",
-      "description": "Transportation Secretary Sean Duffy declined to apologize for the nationwide ground stop that stranded hundreds of thousands of travelers across the country",
-      "url": "https://www.nbcnews.com/politics/trump-administration/transportation-secretary-apologize-nationwide-ground-stop-airports-rcna609397",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261115-sean-duffy-mtp-mn-1015-8d7af7.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-11-15T14:56:29Z"
+      "title": "Former SEC chair Gary Gensler warns AI bubble is likely to cause recession before 2028 election - Quartz",
+      "description": "The former SEC chair told CNN he expects a downturn as significant as the dot-com crash, with bankruptcies among neocloud firms",
+      "url": "https://qz.com/gensler-ai-bubble-recession-warning-2028-election-111626",
+      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2235384049-300x200.jpg",
+      "source": "Quartz India",
+      "publishedAt": "2026-11-16T12:40:59Z"
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says - BBC",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.com/news/articles/cmdx1vpprk9vo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-15T14:56:21Z"
-    },
-    {
-      "title": "9 Fast Food Chains With The Highest Quality Beef Burgers - Tasting Table",
-      "description": "Explore the fast food chains that serve highest quality beef burgers, with a closer look at their sourcing, cattle-raising standards, and freshness practices.",
-      "url": "https://www.tastingtable.com/2314440/fast-food-chains-beef-burgers-highest-quality/",
-      "urlToImage": "https://www.tastingtable.com/img/gallery/9-fast-food-chains-with-the-highest-quality-beef-burgers/l-intro-1794384498.jpg",
-      "source": "Tastingtable.com",
-      "publishedAt": "2026-11-15T14:20:00Z"
-    },
-    {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating - BBC",
-      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "url": "https://www.bbc.com/news/articles/ckvg2ezvpe08o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
-      "source": "BBC News",
-      "publishedAt": "2026-11-15T13:37:45Z"
-    },
-    {
-      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins - CNBC",
-      "description": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-      "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108116571-1742136946876-gettyimages-1242853588-AFP_32HF6PF.jpeg?v=1742136964&w=1920&h=1080",
+      "title": "Nvidia gets two more price target cuts from analysts ahead of earnings - CNBC",
+      "description": null,
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-gets-two-more-price-target-cuts-from-analysts-ahead-of-earnings.html",
+      "urlToImage": null,
       "source": "CNBC",
-      "publishedAt": "2026-11-15T13:00:02Z"
+      "publishedAt": "2026-11-16T12:36:20Z"
     },
     {
-      "title": "FDA rejects Summit’s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class - Fierce Pharma",
-      "description": "The immuno-oncology revolution will have to wait.  | The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.’s Keyt…",
-      "url": "https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
-      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/FDA%20STOP.jpg?VersionId=33eo0BnHveO4wxsGma8uhcfRqK5hZ2xH",
-      "source": "FiercePharma",
-      "publishedAt": "2026-11-15T12:50:00Z"
+      "title": "The GLP-1 boom has a dark side — even if serious complications are rare - The Washington Post",
+      "description": "With millions of patients taking GLP-1 drugs, doctors are discovering rare but worrying problems affecting the body and the mind.",
+      "url": "https://www.washingtonpost.com/health/2026/11/16/glp-1-weight-loss-drugs-have-big-cons-even-if-serious-problems-are-rare/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LV2A2TEWLHUTN6HMYO2WJ6TFBY.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-16T12:32:29Z"
     },
     {
-      "title": "Beef Imports Aren't Helping the Larger Problem - Newser",
-      "description": "Cattle shortage, plant closures are keeping beef prices high; they may not come down anytime soon",
-      "url": "https://www.newser.com/story/399747/dont-expect-beef-prices-to-drop-anytime-soon.html",
-      "urlToImage": "https://cdn.newser.com/image/1723710-12-20261115070233.jpeg",
-      "source": "Newser",
-      "publishedAt": "2026-11-15T12:32:00Z"
+      "title": "The Fed sees a new threat to the U.S. financial system - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/fed/the-fed-sees-a-new-threat-to-the-u-s-financial-system",
+      "urlToImage": null,
+      "source": "TheStreet",
+      "publishedAt": "2026-11-16T12:17:00Z"
     },
     {
-      "title": "How Nvidia's scandal knocked thousands off your 401(k) - Axios",
-      "description": "Nvidia's enormous weight in popular index funds means even those who have never purchased a single share of the company could feel the pain of its corporate upheaval in their 401(k)s.",
-      "url": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts",
-      "urlToImage": "https://images.axios.com/wGFYdo6iZiMCmA2-AZthh1lMhK4=/0x0:1920x1080/1366x768/2026/05/14/1778783042393.jpeg",
-      "source": "Axios",
-      "publishedAt": "2026-11-15T12:31:43Z"
-    },
-    {
-      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot - CNBC",
-      "description": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108551525-1794626973698-gettyimages-2297195304-AFP_C9PF6JT.jpeg?v=1794627031&w=1920&h=1080",
+      "title": "Big-ticket holiday items may be harder to find as shipping costs rise - CNBC",
+      "description": "Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.",
+      "url": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107262823-1687813179540-lowes.jpg?v=1745168696&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-11-15T12:00:01Z"
-    },
-    {
-      "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners - Fox Business",
-      "description": "Across the country, debt-free Americans earning six figures face credit card denials as bank algorithms flag thin credit files as high-risk behavior.",
-      "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/us-man-credit-card-stress.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-11-15T12:00:00Z"
-    },
-    {
-      "title": "CEO SUNDAY: BlackBerry boss on the company's evolution from smartphone giant to software powerhouse - Fox Business",
-      "description": "BlackBerry CEO John Giamatteo discusses the company's shift from smartphones to software, including QNX technology used in more than 275 million vehicles.",
-      "url": "https://www.foxbusiness.com/business-leaders/ceo-sunday-blackberry-boss-companys-evolution-from-smartphone-giant-software-powerhouse",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/blackberry-ceo-john-giamatteo-1.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-11-15T12:00:00Z"
-    },
-    {
-      "title": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks - The Motley Fool",
-      "description": "Be wary when things seem too good to be true on Wall Street.",
-      "url": "https://www.fool.com/investing/2026/11/15/stock-market-doing-something-only-6th-time-in-156-years-history-says-clear-what-next-for-stocks/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9368a0ccc2c2da327c92eb191353f39d016bb9c3-1280x832.png&w=1200&op=resize",
-      "source": "Motley Fool",
-      "publishedAt": "2026-11-15T11:36:00Z"
-    },
-    {
-      "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal - Financial Times",
-      "description": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
-      "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97aedcac-5972-4bd6-a1ef-e01686398dfa.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-11-15T11:00:04Z"
-    },
-    {
-      "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week - Yahoo Finance",
-      "description": "Anthropic's IPO and continued fallout at Nvidia will lead the news cycle on Wall Street this week.",
-      "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3200fae7d1eec9a0d21e57fe7578da5f87cd591c4f65b8d83b87eadf389ee729/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbaa4a52b-0526-45af-8f7f-c55ee4a6f0f2_307d968542fdb6348cd5f675c2161791f8cfab046ce919cd7ca0ab9e4f8ceb20.jpg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-15T11:00:00Z"
-    },
-    {
-      "title": "Empty nesters moved out of their Florida home to travel in an RV full time. They're in year five and loving it. - Business Insider",
-      "description": "Empty nesters Barry and Darlene Nicholson moved out of their Florida house to live and travel full-time in an RV. They discuss the highs and lows.",
-      "url": "https://www.businessinsider.com/empty-nesters-left-florida-house-live-in-rv-full-time-2026-11#article",
-      "urlToImage": "https://i.insider.com/6af4eb4fb2c29afb4e569f61?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-15T10:40:00Z"
-    },
-    {
-      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend. - WSJ",
-      "description": "With luxury demand weak, price cuts are hotly debated in the industry",
-      "url": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218",
-      "urlToImage": "https://images.wsj.net/im-72398495/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-15T10:30:00Z"
-    },
-    {
-      "title": "Death is driving Americans into debt - USA Today",
-      "description": "The average family spends more than $7,000 on a funeral and related expenses after the death of a loved one, according to a new report.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/2026/11/15/funeral-cremation-costs-rising-inflation-debt-probate/92729380007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/11/USAT/92729820007-20260802-t-161123-z-440984251-rc-2-aqma-25-kwk-rtrmadp-3-irancrisisfuneraltexas.JPG?crop=5475,3080,x0,y285&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2026-11-15T10:02:00Z"
-    },
-    {
-      "title": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider",
-      "description": "Madison Huang, Nvidia senior marketing director for physical AI, has gained clout inside her father Jensen Huang's company, reshaping teams and deals.",
-      "url": "https://www.businessinsider.com/madison-huang-growing-influence-at-nvidia-jensen-daughter-2026-11#article",
-      "urlToImage": "https://i.insider.com/6af6161e0cc3ffba8779c84c?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-15T10:00:00Z"
-    },
-    {
-      "title": "AI writes 90% of the code at this company. It still can't hire enough engineers. - Business Insider",
-      "description": "AI writes over 90% of code at CIQ, but the company needs more experienced engineers. Junior programmers? Not so much.",
-      "url": "https://www.businessinsider.com/ai-coding-boom-fuels-demand-senior-engineers-not-junior-developers-2026-11#article",
-      "urlToImage": "https://i.insider.com/6af635eeb2c29afb4e56a6e7?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-15T10:00:00Z"
+      "publishedAt": "2026-11-16T12:00:01Z"
     }
   ]
 }
