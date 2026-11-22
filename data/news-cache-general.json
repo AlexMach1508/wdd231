@@ -1,151 +1,135 @@
 {
-  "updatedAt": "2026-11-21T14:32:28.149Z",
+  "updatedAt": "2026-11-22T14:27:57.803Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "The UK and EU hold a rare summit to strengthen ties as Burnham seeks to mend Brexit damage - AP News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2026-11-20T11:16:00Z"
-    },
-    {
-      "title": "Senate passes bipartisan energy bill amid environmental concerns - NPR",
-      "description": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6686x3761+0+348/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fd7%2F0df997c742bc9403dee2958f61d0%2Fgettyimages-2302559870.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-11-20T11:00:28Z"
-    },
-    {
-      "title": "New York City unveils a bold plan to move its jails off Rikers Island - NPR",
-      "description": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3938x2215+0+355/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Fa7%2F56ea040c4a49b5aa26d35ea3aff8%2Frikers-woo-day1-0366.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-11-20T10:00:00Z"
-    },
-    {
-      "title": "Anthropic stock dives after rip-roaring IPO - Yahoo Finance",
-      "description": "The first day rally in Anthropic fizzles.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-dives-after-rip-roaring-ipo-095411951.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/da879c21a5e355f2919cee9a62172fe2e00b738c23233a82bba2c5cdb8be3da5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4e6803e9-8ff4-4757-b4c6-62a5c2e8a43d",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-20T09:54:11Z"
-    },
-    {
-      "title": "Capitol agenda: Dems draft a curb on Iran war cash - Politico",
-      "description": "A group of Democrats are closing in on a proposal to cut off Iran war funding as part of a spending deal that would avert a government shutdown in three weeks.",
-      "url": "https://www.politico.com/live-updates/2026/11/20/congress/dems-draft-curb-iran-war-cash-01177693",
-      "urlToImage": "https://www.politico.com/dims4/default/d827349/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd3%2Fcd%2F8025ce4f46df8ab075af6e1c77df%2Fu-s-congress-96973.jpg",
-      "source": "Politico",
-      "publishedAt": "2026-11-20T09:45:00Z"
-    },
-    {
-      "title": "Rams star Nacua suspended for personal conduct violation - BBC",
-      "description": "Puka Nacua is given a three-game suspension for violating the NFL's personal conduct policy, although the Los Angeles Rams wide receiver was already out injured.",
-      "url": "https://www.bbc.com/sport/american-football/articles/c6vg21xdgpqgo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b7f/live/ed807de0-e4c4-11f1-87df-79d8910e0f29.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T09:38:14Z"
-    },
-    {
-      "title": "White House removes cyber-security chief after series of tech outages - BBC",
-      "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "url": "https://www.bbc.com/news/articles/cwz0k3nn5p5mo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T09:37:59Z"
-    },
-    {
-      "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on - CNBC",
-      "description": "Putin was positioned as an equal beside the leaders of the U.S. and China, handing a win to the authoritarian leader bogged down in a multi-year war.",
-      "url": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108556213-1795151957529-gettyimages-2305279455-AFP_D7Y8729.jpeg?v=1795152010&w=1920&h=1080",
+      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin - CNBC",
+      "description": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-11-20T09:26:45Z"
+      "publishedAt": "2026-11-21T12:00:01Z"
     },
     {
-      "title": "Why is gold price going down? - The National",
-      "description": "Gold heads for worst weekly drop in eight months, with analysts warning of further losses towards $3,200",
-      "url": "https://www.thenationalnews.com/business/money/2026/11/20/why-is-gold-price-going-down/",
-      "urlToImage": "https://www.thenationalnews.com/resizer/v2/6KLOUIJI6F3B6JUNIKWS2NFQZE.jpg?auth=25a301e9f3272fc96489a5a3c2e0450b47b19baec1e388d776774f59c738116f&smart=true&width=1200&height=630",
-      "source": "Thenationalnews.com",
-      "publishedAt": "2026-11-20T09:08:33Z"
-    },
-    {
-      "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates - CNBC",
-      "description": "The major averages fell more than 2% each in regular trading.",
-      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550250-1794502689706-gettyimages-2304263577-US_STOCKS.jpeg?v=1794502821&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-11-20T08:18:00Z"
-    },
-    {
-      "title": "C.J. Stroud stays in 'groove' with another 3-TD night in Texans' blowout of Colts - ESPN",
-      "description": "C.J. Stroud had his third straight game with at least three touchdown passes and led the Texans to their fourth win in six games Thursday night against the Colts.",
-      "url": "https://www.espn.com/nfl/story/_/id/50538998/cj-stroud-stays-groove-texans-blowout-colts",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748445_2_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-11-20T06:57:00Z"
-    },
-    {
-      "title": "BepiColombo spacecraft arriving at Mercury after eight years - BBC",
-      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-      "url": "https://www.bbc.com/news/articles/c39w9l4v1p9ro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62f0/live/43fac6d0-e277-11f1-a094-5fdc692f3e33.png",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting - BBC",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "url": "https://www.bbc.com/news/articles/c6wy0qj7w5zqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
       "source": "BBC News",
-      "publishedAt": "2026-11-20T05:59:56Z"
+      "publishedAt": "2026-11-21T11:53:38Z"
     },
     {
-      "title": "Jennifer Lawrence Ranks Her Onscreen Kisses, Details ‘New’ Implants and Says Her ‘Hunger Games’ Bow and Arrow Was ‘Stolen’ in Andy Cohen Interview - Variety",
-      "description": "Jennifer Lawrence discussed her new breast implants and which co-stars were the best kissers on Andy Cohen's talk show.",
-      "url": "https://variety.com/2026/film/news/jennifer-lawrence-breast-implants-celebrity-kissers-1236953902/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Jennifer-Lawrence-Watch-What-Happens.png?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2026-11-20T05:10:00Z"
-    },
-    {
-      "title": "Apple Is Reportedly Building Its Own Full-Featured AI Agent - Gizmodo",
-      "description": "A job listing for a senior AI engineering manager lists device control, apps, browsing, and coding as functions, far exceeding Siri AI's current capabilities.",
-      "url": "https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-1-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-11-20T05:00:55Z"
-    },
-    {
-      "title": "Justice Dept. drops appeal in bid to delay certification of Alaska Senate win - The Washington Post",
-      "description": "The DOJ said that since ballots had been counted, it was impossible to carry out the type of investigation it had sought.",
-      "url": "https://www.washingtonpost.com/national-security/2026/11/19/justice-dept-drops-appeal-bid-delay-certification-alaska-senate-win/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XCJKTWVGMAYEKGLJNBUE2GLFUE.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-11-20T04:30:00Z"
-    },
-    {
-      "title": "‘The Traitors: New Blood’ star Shane Beatty reacts to jaw-dropping Fire of Truth ceremony - Entertainment Weekly",
-      "description": "‘The Traitors: New Blood’ star Shane Beatty reveals his reaction to that jaw-dropping Fire of Truth ceremony and how everyone is doing in the aftermath.",
-      "url": "https://ew.com/the-traitors-new-blood-shane-beatty-reacts-shocking-finale-ending-interview-exclusive-12259669",
-      "urlToImage": "https://ew.com/thmb/QkJH5QxAsi8qRzu6GUUiy5RTEu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Traitors-1116-13-41b9fc4eb1af44d8bd33e376684da2cb.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2026-11-20T04:00:00Z"
-    },
-    {
-      "title": "GTA 6 breaks records as sales top $2bn - industry estimate - BBC",
-      "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-      "url": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T02:48:47Z"
-    },
-    {
-      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain - CNN",
-      "description": "Texas executed Reinaldo Dennes on Thursday in a procedure that took over an hour as prison staffers struggled to find a suitable vein for the two intravenous needles carrying the lethal dose of the sedative pentobarbital.",
-      "url": "https://www.cnn.com/2026/11/19/us/texas-execution-reinaldo-dennes",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26322571337377.jpg?c=16x9&q=w_800,c_fill",
+      "title": "Fears about toxic lead dust spur battle over US Army plan to detonate bomb-making material in Iowa - CNN",
+      "description": "Residents in southeastern Iowa are waiting to learn whether the US Army will detonate five tons of lead azide at a munitions plant after a judge ordered a temporary pause, with environmental activists and local officials expressing concern over possible healt…",
+      "url": "https://www.cnn.com/2026/11/21/us/iowa-army-detonation-what-we-know",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2305973519.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2026-11-20T02:36:00Z"
+      "publishedAt": "2026-11-21T11:00:15Z"
+    },
+    {
+      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper - Al Jazeera",
+      "description": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00d9433fcd-1795217731.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-21T10:49:13Z"
+    },
+    {
+      "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in - AP News",
+      "description": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years. Countries agreed to \"elaborate\" a possible accord by 2028 but didn't co…",
+      "url": "https://apnews.com/article/un-drones-robots-un-lethal-ai-weapons-ebe057d2a47cde53100970c8f648e7fa",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3c32fac/2147483647/strip/true/crop/4146x2764+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F38%2Fc7cbdf853a8bc969855c575e3600%2F10948e04be254325ac10825b27df7b8f",
+      "source": "Associated Press",
+      "publishedAt": "2026-11-21T10:43:00Z"
+    },
+    {
+      "title": "RFK Jr. initially downplayed measles. Now he must try to reverse its spread. - The Washington Post",
+      "description": "Federal officials must create a plan to regain measles elimination status. It won’t be easy, public health experts say.",
+      "url": "https://www.washingtonpost.com/health/2026/11/21/rfk-jr-vows-curb-measles-crisis-he-initially-underestimated/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3QFQAYXAAOOCZC3QGUVS4T3VQ_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-21T10:02:49Z"
+    },
+    {
+      "title": "The AI boom had a really bad week — and it's raising loud alarms - NPR",
+      "description": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+304/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-11-21T10:00:00Z"
+    },
+    {
+      "title": "James Harden passes Kobe Bryant for 50-point NBA games - BBC",
+      "description": "James Harden moves third on the all-time list for 50-point NBA games as the Cleveland Cavaliers beat the Indiana Pacers 128-119 in the NBA Cup.",
+      "url": "https://www.bbc.com/sport/basketball/articles/cwx2e8y1lr8lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a201/live/7bcc9e80-e583-11f1-b548-918aefb57c12.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T09:10:18Z"
+    },
+    {
+      "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut - Fox Business",
+      "description": "Rockstar Games says \"Grand Theft Auto VI\" hit $3.79 billion in first-day sales, topping \"Avengers: Endgame's\" $2.94 billion worldwide box office run.",
+      "url": "https://www.foxbusiness.com/entertainment/grand-theft-auto-vi-shatters-entertainment-records-staggering-3-79b-debut",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/grand-theft-auto-vi-record-breaking-launch.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-11-21T07:59:58Z"
+    },
+    {
+      "title": "Horoscope for Saturday, November 21, 2026 - Chicago Sun-Times",
+      "description": null,
+      "url": "https://chicago.suntimes.com/horoscopes/2026/11/21/horoscopes-today-saturday-november-21-2026",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2026-11-21T06:01:00Z"
+    },
+    {
+      "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position - Motorsport.com",
+      "description": "Toto Wolff wants answers after George Russell misses Las Vegas GP pole by 0.073s to Max Verstappen despite ideal track position",
+      "url": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876255-b705-2.jpg",
+      "source": "Motorsport.com",
+      "publishedAt": "2026-11-21T05:48:41Z"
+    },
+    {
+      "title": "‘GTA 6’ cast celebrity cameos: Bobby Moynihan, Bad Bunny and more - Page Six",
+      "description": "See all the celebrities featured in the A-list “GTA 6” cast.",
+      "url": "https://pagesix.com/celebrity-news/gta-6-cast-celebrity-cameos/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149537107.jpg?quality=75&strip=all&w=1200",
+      "source": "Page Six",
+      "publishedAt": "2026-11-21T03:33:00Z"
+    },
+    {
+      "title": "European Union and UK strike a 'landmark deal' to strengthen ties after Brexit - DW.com",
+      "description": "The European Union and the United Kingdom have agreed on \"landmark\" deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.",
+      "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076",
+      "urlToImage": "https://static.dw.com/image/80001113_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-21T02:07:58Z"
+    },
+    {
+      "title": "How the White House lost faith in Sean Cairncross - Politico",
+      "description": "President Donald Trump said he fired Sean Cairncross because he didn’t think he was “good enough” for the national cyber director role.",
+      "url": "https://www.politico.com/news/2026/11/20/how-the-administration-lost-faith-in-sean-cairncross-01179481",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2Ffb%2Ffa718e754f829d1b3d1325adb2f7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282302792",
+      "source": "Politico",
+      "publishedAt": "2026-11-21T01:41:00Z"
+    },
+    {
+      "title": "California Bar investigating ex-White House press secretary Katie Zacharia - The Washington Post",
+      "description": "Zacharia earned a law degree from Pepperdine University in Southern California and described herself as a lawyer. But she did not pass the bar exam in California, she eventually confirmed.",
+      "url": "https://www.washingtonpost.com/politics/2026/11/20/california-bar-is-investigating-ex-white-house-press-secretary-katie-zacharia/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/62MGVMI57WOMMLIXSEBLIRFNYM.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-21T01:40:24Z"
+    },
+    {
+      "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus - Yahoo Finance",
+      "description": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/85012ebc3ac17506509024a3437d11c008556ead23f2edae8a47dec1bb72cd62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F45f02278a6f50c48d82a9afbb1bade1f.jpg",
+      "source": "Stocktwits.com",
+      "publishedAt": "2026-11-21T01:30:00Z"
     }
   ]
 }
