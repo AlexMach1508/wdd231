@@ -1,135 +1,143 @@
 {
-  "updatedAt": "2026-11-22T14:27:57.803Z",
+  "updatedAt": "2026-11-23T17:56:19.728Z",
   "country": "us",
   "category": "general",
   "articles": [
     {
-      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin - CNBC",
-      "description": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-11-21T12:00:01Z"
-    },
-    {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting - BBC",
-      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "url": "https://www.bbc.com/news/articles/c6wy0qj7w5zqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T11:53:38Z"
-    },
-    {
-      "title": "Fears about toxic lead dust spur battle over US Army plan to detonate bomb-making material in Iowa - CNN",
-      "description": "Residents in southeastern Iowa are waiting to learn whether the US Army will detonate five tons of lead azide at a munitions plant after a judge ordered a temporary pause, with environmental activists and local officials expressing concern over possible healt…",
-      "url": "https://www.cnn.com/2026/11/21/us/iowa-army-detonation-what-we-know",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2305973519.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2026-11-21T11:00:15Z"
-    },
-    {
-      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper - Al Jazeera",
-      "description": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00d9433fcd-1795217731.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-21T10:49:13Z"
-    },
-    {
-      "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in - AP News",
-      "description": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years. Countries agreed to \"elaborate\" a possible accord by 2028 but didn't co…",
-      "url": "https://apnews.com/article/un-drones-robots-un-lethal-ai-weapons-ebe057d2a47cde53100970c8f648e7fa",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3c32fac/2147483647/strip/true/crop/4146x2764+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F38%2Fc7cbdf853a8bc969855c575e3600%2F10948e04be254325ac10825b27df7b8f",
-      "source": "Associated Press",
-      "publishedAt": "2026-11-21T10:43:00Z"
-    },
-    {
-      "title": "RFK Jr. initially downplayed measles. Now he must try to reverse its spread. - The Washington Post",
-      "description": "Federal officials must create a plan to regain measles elimination status. It won’t be easy, public health experts say.",
-      "url": "https://www.washingtonpost.com/health/2026/11/21/rfk-jr-vows-curb-measles-crisis-he-initially-underestimated/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3QFQAYXAAOOCZC3QGUVS4T3VQ_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-11-21T10:02:49Z"
-    },
-    {
-      "title": "The AI boom had a really bad week — and it's raising loud alarms - NPR",
-      "description": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+304/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-11-21T10:00:00Z"
-    },
-    {
-      "title": "James Harden passes Kobe Bryant for 50-point NBA games - BBC",
-      "description": "James Harden moves third on the all-time list for 50-point NBA games as the Cleveland Cavaliers beat the Indiana Pacers 128-119 in the NBA Cup.",
-      "url": "https://www.bbc.com/sport/basketball/articles/cwx2e8y1lr8lo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a201/live/7bcc9e80-e583-11f1-b548-918aefb57c12.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T09:10:18Z"
-    },
-    {
-      "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut - Fox Business",
-      "description": "Rockstar Games says \"Grand Theft Auto VI\" hit $3.79 billion in first-day sales, topping \"Avengers: Endgame's\" $2.94 billion worldwide box office run.",
-      "url": "https://www.foxbusiness.com/entertainment/grand-theft-auto-vi-shatters-entertainment-records-staggering-3-79b-debut",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/grand-theft-auto-vi-record-breaking-launch.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-11-21T07:59:58Z"
-    },
-    {
-      "title": "Horoscope for Saturday, November 21, 2026 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/11/21/horoscopes-today-saturday-november-21-2026",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2026-11-21T06:01:00Z"
-    },
-    {
-      "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position - Motorsport.com",
-      "description": "Toto Wolff wants answers after George Russell misses Las Vegas GP pole by 0.073s to Max Verstappen despite ideal track position",
-      "url": "https://www.motorsport.com/f1/news/wolff-wants-answers-after-george-russell-misses-las-vegas-pole-despite-ideal-final-lap-position/10876255/",
-      "urlToImage": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876255-b705-2.jpg",
-      "source": "Motorsport.com",
-      "publishedAt": "2026-11-21T05:48:41Z"
-    },
-    {
-      "title": "‘GTA 6’ cast celebrity cameos: Bobby Moynihan, Bad Bunny and more - Page Six",
-      "description": "See all the celebrities featured in the A-list “GTA 6” cast.",
-      "url": "https://pagesix.com/celebrity-news/gta-6-cast-celebrity-cameos/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149537107.jpg?quality=75&strip=all&w=1200",
-      "source": "Page Six",
-      "publishedAt": "2026-11-21T03:33:00Z"
-    },
-    {
-      "title": "European Union and UK strike a 'landmark deal' to strengthen ties after Brexit - DW.com",
-      "description": "The European Union and the United Kingdom have agreed on \"landmark\" deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.",
-      "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076",
-      "urlToImage": "https://static.dw.com/image/80001113_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-21T02:07:58Z"
-    },
-    {
-      "title": "How the White House lost faith in Sean Cairncross - Politico",
-      "description": "President Donald Trump said he fired Sean Cairncross because he didn’t think he was “good enough” for the national cyber director role.",
-      "url": "https://www.politico.com/news/2026/11/20/how-the-administration-lost-faith-in-sean-cairncross-01179481",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2Ffb%2Ffa718e754f829d1b3d1325adb2f7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282302792",
+      "title": "Europe’s middle powers mobilize — without Trump - Politico",
+      "description": "Europe and Canada are trying to compensate for fading American support with a hodgepodge of new coalitions.",
+      "url": "https://www.politico.com/news/2026/11/22/trump-canada-europe-middle-powers-01179679",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd0%2F32%2F0c3ffabc495ca16d0e791e21c03b%2Fbelgium-nato-ukraine-78136.jpg",
       "source": "Politico",
-      "publishedAt": "2026-11-21T01:41:00Z"
+      "publishedAt": "2026-11-22T17:24:00Z"
     },
     {
-      "title": "California Bar investigating ex-White House press secretary Katie Zacharia - The Washington Post",
-      "description": "Zacharia earned a law degree from Pepperdine University in Southern California and described herself as a lawyer. But she did not pass the bar exam in California, she eventually confirmed.",
-      "url": "https://www.washingtonpost.com/politics/2026/11/20/california-bar-is-investigating-ex-white-house-press-secretary-katie-zacharia/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/62MGVMI57WOMMLIXSEBLIRFNYM.jpg&w=1440",
+      "title": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35 - Deadline",
+      "description": "Sheila Mangubat, who appeared in TLC's '90 Day Fiancé' franchise, has died. She was 35.",
+      "url": "http://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Sheila-90-Day-Fiance.jpg?w=1000",
+      "source": "Deadline",
+      "publishedAt": "2026-11-22T16:41:00Z"
+    },
+    {
+      "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+      "description": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4074x2292+0+212/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F99%2F06ba60a34fb4ba38b24264298650%2Fap26326503765925-1.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-11-22T16:33:22Z"
+    },
+    {
+      "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury - Space",
+      "description": "It was a moment more than eight years in the making.",
+      "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-2560-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-11-22T16:22:42Z"
+    },
+    {
+      "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut - Variety",
+      "description": "\"Sunrise on the Reaping\" caught fire at the domestic box office, with Lionsgate's \"Hunger Games\" prequel securing a huge opening weekend.",
+      "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MCDHUGA_LG103_3bb4fe.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2026-11-22T16:16:00Z"
+    },
+    {
+      "title": "The health discussion you should have when you get together with family - The Washington Post",
+      "description": "From heart disease to depression, your relatives hold important clues about your health. Here’s how to ask the right questions.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/22/health-discussion-you-should-have-when-you-get-together-with-family/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3EZVYHCVU45IQ5C4FCUMGBTHWQ.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-11-21T01:40:24Z"
+      "publishedAt": "2026-11-22T16:03:06Z"
     },
     {
-      "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus - Yahoo Finance",
-      "description": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/85012ebc3ac17506509024a3437d11c008556ead23f2edae8a47dec1bb72cd62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F45f02278a6f50c48d82a9afbb1bade1f.jpg",
-      "source": "Stocktwits.com",
-      "publishedAt": "2026-11-21T01:30:00Z"
+      "title": "Director of National Intelligence defends Trump saying Putin is his ‘friend’ - Politico",
+      "description": "Jay Clayton said he “completely” trusts President Donald Trump.",
+      "url": "https://www.politico.com/news/2026/11/22/clayton-defends-trump-calling-putin-friend-01179677",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fff%2F01%2F27e4bef341f3b1f121d39e825993%2Fcongress-threats-hearing-2-489.jpg",
+      "source": "Politico",
+      "publishedAt": "2026-11-22T15:59:00Z"
+    },
+    {
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+      "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "url": "https://www.bbc.com/news/articles/cvglrx764gdxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T15:50:28Z"
+    },
+    {
+      "title": "'Saturday Night Live' 'Sister' sketch shows the real cost of 'free' caregiving - USA Today",
+      "description": "The most popular caregiving service in America has no website, no waitlist and no price tag. \"Saturday Night Live\" finally gave it a name: Sister.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/parenting-caregiving/2026/11/22/snl-sister-sketch-shows-the-real-cost-of-free-caregiving/92878635007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/07/12/USAT/84809952007-ncw-08495.jpg?crop=4999,2812,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2026-11-22T15:27:00Z"
+    },
+    {
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
+      "description": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for...",
+      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "urlToImage": "https://images.macrumors.com/t/y1HuPRSv1e6To4GeIAoCGSn6QrU=/2500x/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2026-11-22T15:09:50Z"
+    },
+    {
+      "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook - Bloomberg.com",
+      "description": "Also: The company prepares a slew of new iPhones, iPads and Macs for early 2027.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id8L83joVcw4/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-22T15:00:01Z"
+    },
+    {
+      "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com",
+      "description": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCvkKSW97qjA/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-22T15:00:00Z"
+    },
+    {
+      "title": "Can a TV be too large? An investigation - TechCrunch",
+      "description": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Image-from-iOS.jpg?resize=1200,900",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-22T15:00:00Z"
+    },
+    {
+      "title": "Fantasy Football Start 'Em, Sit 'Em: Week 11 lineup advice from Justin Boone - Yahoo Sports",
+      "description": "Fantasy football analyst Justin Boone breaks down the Week 11 slate and provides his top lineup tips.",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-start-em-sit-em-week-11-lineup-advice-from-justin-boone-144015108.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/42b69eef600de7451900b862f9f4bed99b360156da3dd2dec82de46cbb057a89/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fcc0de137-bb85-4eaa-9bb5-774913670ef0",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-22T14:40:15Z"
+    },
+    {
+      "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
+      "description": "Judges have been unable to slow or stop some of the administration’s highest-profile projects.",
+      "url": "https://www.washingtonpost.com/politics/2026/11/22/trump-keeps-losing-court-heres-how-he-gets-what-he-wants-anyway/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/64Y3N3WEDZE6DNU3HJNA3XYOUM.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-22T14:26:31Z"
+    },
+    {
+      "title": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding - Rolling Stone",
+      "description": "Miley Cyrus and her fiancé Maxx Morando got married Saturday at a wedding ceremony in Palm Springs, California.",
+      "url": "http://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2249470813.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-11-22T13:15:09Z"
+    },
+    {
+      "title": "Virginia child who tested positive for measles has died, state officials report - 9NEWS",
+      "description": null,
+      "url": "https://www.9news.com/article/news/nation-world/virginia-child-measles-death/507-228702d1-9552-4f39-bd35-5add0d90aaf9",
+      "urlToImage": null,
+      "source": "9News.com KUSA",
+      "publishedAt": "2026-11-22T12:35:00Z"
     }
   ]
 }

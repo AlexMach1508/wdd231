@@ -1,167 +1,151 @@
 {
-  "updatedAt": "2026-11-22T14:27:58.020Z",
+  "updatedAt": "2026-11-23T17:56:20.095Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin - CNBC",
-      "description": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-11-21T12:00:01Z"
-    },
-    {
-      "title": "Walmart shoppers stocked up on emergency supplies after series of tech outages: report - Fox Business",
-      "description": "Walmart shoppers were stocking up on emergency supplies following a string of technology outages that fueled anxiety among Americans across the country.",
-      "url": "https://www.foxbusiness.com/economy/walmart-shoppers-stocked-up-emergency-supplies-after-series-tech-outages-report",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/Walmart.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-11-21T10:52:00Z"
-    },
-    {
-      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-21T10:30:00Z"
-    },
-    {
-      "title": "The AI boom had a really bad week — and it's raising loud alarms - NPR",
-      "description": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+304/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-11-21T10:00:00Z"
-    },
-    {
-      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
-      "description": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claim…",
-      "url": "https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/02e4317/2147483647/strip/true/crop/8565x5710+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F64%2F9122cf336dec321bbf6526d3b654%2Fac2d714dc9b044e4976cc37f0c857502",
-      "source": "Associated Press",
-      "publishedAt": "2026-11-21T04:55:00Z"
-    },
-    {
-      "title": "Bitcoin Falls to More Than Two-Year Low as Global Markets Sink - Bloomberg.com",
-      "description": "Bitcoin fell to the lowest level in over two years, extending its reversal from market darling after the re-election of Donald Trump to a casualty of a broader retreat from speculative bets.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5aeLq6z2H08/v0/1200x800.jpg",
+      "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely - Bloomberg.com",
+      "description": "Wall Street strategist Ed Yardeni cut his S&P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical correction.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieZGS4uwI714/v1/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2026-11-21T04:34:00Z"
+      "publishedAt": "2026-11-22T15:18:13Z"
     },
     {
-      "title": "Did anyone win the Mega Millions $629M jackpot? Winning numbers for Friday, Nov. 20 - WCNC",
-      "description": null,
-      "url": "https://www.wcnc.com/article/news/nation-world/mega-millions-jackpot-winning-numbers-friday-november-20/507-41d422cf-aafb-4133-994f-48daac86c2d4",
-      "urlToImage": null,
-      "source": "WCNC.com",
-      "publishedAt": "2026-11-21T04:08:00Z"
+      "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com",
+      "description": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCvkKSW97qjA/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-22T15:00:00Z"
     },
     {
-      "title": "Trump formally ends minting of the penny after nearly 250 years of production - NBC News",
-      "description": "The U.S. Mint, which began producing the currency in 1793, has said it costs nearly 4 cents to make each penny.",
-      "url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260929-US-Congres-cents-vsb-2041-e42320.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-11-21T03:32:00Z"
-    },
-    {
-      "title": "Officials approved the sale of 580,000 Nvidia chips to Chinese companies - The Washington Post",
-      "description": "Documents released by a House committee Thursday underscore the potential size of the Chinese market to Nvidia, but it says it has now stopped shipments of the chips.",
-      "url": "https://www.washingtonpost.com/technology/2026/11/20/officials-approved-sale-580000-nvidia-chips-chinese-companies/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CIPREFH62FDLZODDRAKRYTJSAA.JPG&w=1440",
+      "title": "Inside an AI prophet’s secretive visions for humanity’s future - The Washington Post",
+      "description": "Anthropic is worth more than $1 trillion. CEO Dario Amodei also wants to sell the world on his philosophy of the future.",
+      "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ORJMXYWGKRFUNNVETYVSHWLD3Q.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-11-21T02:45:00Z"
+      "publishedAt": "2026-11-22T14:32:09Z"
     },
     {
-      "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird - WSJ",
+      "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
+      "description": "A 3.6% Social Security cost-of-living adjustment for 2027 will increase benefits across the board. But Medicare and tax changes will also affect retirees.",
+      "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554224-1795015724490-gettyimages-2223442880-hhhe25austriacvancarovcigetty2019hhh086.jpeg?v=1795208254&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-11-22T14:30:01Z"
+    },
+    {
+      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage - CNBC",
+      "description": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-11-22T14:00:01Z"
+    },
+    {
+      "title": "Behind the Curtain — AI 2027: The reckoning - Axios",
+      "description": "AI's boosters and fiercest critics agree cyber disruptions will become a way of life.",
+      "url": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+      "urlToImage": "https://images.axios.com/jQ0N3EwQZALeZsFr9hZBhIqXaHo=/0x0:1280x720/1366x768/2026/11/22/1795355454375.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-11-22T13:40:10Z"
+    },
+    {
+      "title": "Strong Earnings Prove No Match for the Crumbling AI Trade - Bloomberg.com",
+      "description": "For years, a strong earnings season has given Wall Street something to fall back on. But the crumbling artificial-intelligence trade has ripped away that support.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_bzNao6y51k/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-22T13:30:00Z"
+    },
+    {
+      "title": "Ross Stores draws more bargain hunters, but higher fuel costs and softer holiday forecast weigh on stock - Fox Business",
+      "description": "Ross Stores reported a 12% jump in third-quarter sales as shoppers sought bargains, but rising fuel expenses and a cautious holiday forecast pressured shares.",
+      "url": "https://www.foxbusiness.com/retail/ross-stores-draws-more-bargain-hunters-higher-fuel-costs-softer-holiday-forecast-weigh-stock",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/ross-store-exterior.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-11-22T13:29:00Z"
+    },
+    {
+      "title": "Whether you’re team plastic or wood, here’s how to sanitize your cutting board - AP News",
+      "description": "The cutting board might be the hardest working tool in the kitchen. It takes the raw chicken and then the onions, and in between it typically gets a quick swipe with the nearest sponge. But more important than the debate over whether to use wood or plastic is…",
+      "url": "https://apnews.com/article/cutting-board-bacteria-meat-plastic-wood-bcd9073d2761016c4f74d0d8a24bfcaa",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c017a12/2147483647/strip/true/crop/3105x2070+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F0c%2F00afe187b8240d4811cbc8845731%2Fd7f4775f999042dea3849e623a32e4d6",
+      "source": "Associated Press",
+      "publishedAt": "2026-11-22T13:06:00Z"
+    },
+    {
+      "title": "Portland progressive groups pitch massive tax swap to shore up city services - OregonLive.com",
       "description": null,
-      "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11",
+      "url": "https://www.oregonlive.com/politics/2026/11/portland-progressive-groups-pitch-massive-tax-swap-to-shore-up-city-services.html",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-21T02:00:00Z"
+      "source": "OregonLive",
+      "publishedAt": "2026-11-22T13:00:00Z"
     },
     {
-      "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus - Yahoo Finance",
-      "description": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/85012ebc3ac17506509024a3437d11c008556ead23f2edae8a47dec1bb72cd62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F45f02278a6f50c48d82a9afbb1bade1f.jpg",
-      "source": "Stocktwits.com",
-      "publishedAt": "2026-11-21T01:30:00Z"
+      "title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity - Bloomberg.com",
+      "description": "Asian authorities are stepping up efforts to stem a deepening stock-market rout, with China easing margin requirements, and Taiwan and South Korea rolling out intervention measures following Friday’s plunge in US equities.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOn8f0hUV3m4/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-22T12:25:17Z"
     },
     {
-      "title": "How Mercedes-Benz Nearly Became Collateral Damage in a Chinese Car Ban - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/autos/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-4101cd7f",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-21T00:38:00Z"
+      "title": "Early Black Friday deals live now: Ugg, Michael Kors, Hoka, Dyson, Ring and more are on major sale for the 2026 shopping event of the year - Yahoo",
+      "description": "There's no time like the 'present' to score deals on holiday gifts, home essentials, wardrobe staples and tech gear.",
+      "url": "https://shopping.yahoo.com/deals/breaking-news/article/early-black-friday-deals-live-now-ugg-michael-kors-hoka-dyson-ring-and-more-are-on-major-sale-for-the-2026-shopping-event-of-the-year-120123467.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/88da13f2931f74cac27756afd30eb43f50255aa1f2978032812ff663d13cdc96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F3x3-square-8_1292.png",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-22T12:01:23Z"
     },
     {
-      "title": "Essay | How to Survive the Coming Age of Everything Breaking - WSJ",
-      "description": "We wanted a hyperconnected world and now we have to live in it",
-      "url": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd",
-      "urlToImage": "https://images.wsj.net/im-26430444/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-21T00:00:00Z"
+      "title": "US ports face cyber attack onslaught as hackers target vital trade routes - Financial Times",
+      "description": "America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches",
+      "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc90c7efc-ea9e-4dc3-893f-49c6dcb4dfef.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-22T12:00:06Z"
     },
     {
-      "title": "FDA rejects Capricor Therapeutics' Duchenne therapy, a decision that was a long time coming - STAT",
-      "description": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
-      "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1227710420-1-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2026-11-20T23:50:01Z"
+      "title": "The Stock Market Is Doing Something for Only the 5th Time This Century, and History Says It's Obvious What Comes Next for Stocks - The Motley Fool",
+      "description": "If things seem too perfect for investors, they often are.",
+      "url": "https://www.fool.com/investing/2026/11/22/stock-market-doing-something-only-5th-time-this-century-history-says-obvious-what-next-for-stocks/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9368a0ccc2c2da327c92eb191353f39d016bb9c3-1280x832.png&w=1200&op=resize",
+      "source": "Motley Fool",
+      "publishedAt": "2026-11-22T11:36:02Z"
     },
     {
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange - CoinDesk",
-      "description": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
-      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6d7901aa6391850923b865dba6e93d85d7542d76-6000x4001.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.4945&fp-y=0.3226&w=1200&h=675&q=75",
-      "source": "CoinDesk",
-      "publishedAt": "2026-11-20T22:51:14Z"
+      "title": "Elon Musk's SpaceX is betting $74 billion on AI data centers. Texas and Arizona want to know who pays for the power - Fortune",
+      "description": "SpaceX says its Texas and Arizona supercomputing campuses will pay their own way. A gas plant, a 6-gigawatt grid draw, and two Dec. 9 votes will test that.",
+      "url": "https://fortune.com/2026/11/22/spacex-74-billion-ai-data-centers-texas-arizona-who-pays/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2216843063-1.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-11-22T11:25:00Z"
     },
     {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide - BBC",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "url": "https://www.bbc.com/news/articles/c6808ym10vzgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T22:42:47Z"
+      "title": "Trump’s meme coin gala raises eyebrows — even in MAGA circles - MS NOW",
+      "description": "Fresh off a resounding election rebuke, the president is offering top $TRUMP holders special access.",
+      "url": "https://www.ms.now/news/trump-meme-coin-crypto-gala",
+      "urlToImage": "https://www.ms.now/wp-content/uploads/2026/11/261120-president-donald-trump-dinner-event-es.webp?crop=0px,138px,1600px,840px&w=1200&h=630",
+      "source": "MS Now",
+      "publishedAt": "2026-11-22T11:00:00Z"
     },
     {
-      "title": "The Fear Gauge Hit 40. This Is What the Market Is Worried About. - Barron's",
-      "description": "Investors no longer believe the AI bull case. They fear an unwinding is coming.",
-      "url": "https://www.barrons.com/articles/stock-market-vix-fear-gauge-ai-d1012e90",
-      "urlToImage": "https://images.barrons.com/im-21257679/social",
-      "source": "Barron's",
-      "publishedAt": "2026-11-20T22:26:00Z"
+      "title": "Amazon Saved Thousands of Early Black Friday Deals for Prime Members—We Narrowed Down the 50 Best, From $10 - Travel + Leisure",
+      "description": "Amazon’s early Black Friday deals are coming to a close, but Prime Members can still score up to 50 percent off on top-rated travel gear, clothing, accessories, and more. Shop the 50 best deals from brands like Samsonite, Clarks, Travelpro, Anker, and more, s…",
+      "url": "https://www.travelandleisure.com/best-amazon-prime-exclusive-early-black-friday-deals-2026-12247743",
+      "urlToImage": "https://www.travelandleisure.com/thmb/Co9XoCbFvJuDB0c5tuU_7Q0_OrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-amazon-early-prime-member-black-friday-sale-tout-c8a59fa5b86f40aa8132f6384eaa5fb2.jpg",
+      "source": "Travel+Leisure",
+      "publishedAt": "2026-11-22T11:00:00Z"
     },
     {
-      "title": "Here’s a list of Mid-South KFC locations closing/at risk of closing after franchisee files for bankruptcy - Action News 5",
-      "description": "Several Mid-South Kentucky Fried Chicken (KFC) locations are now closed or are at risk of closing soon after a major franchisee filed for Chapter II bankruptcy in a Texas court this week.",
-      "url": "https://www.actionnews5.com/2026/11/20/heres-list-mid-south-kfc-locations-closingat-risk-closing-after-franchisee-files-bankruptcy/",
-      "urlToImage": "https://gray-wmctv-prod.gtv-cdn.com/resizer/v2/6Y44AAWT7ZEG3G7XFQ4OJWSEJI.jpg?auth=a3e3c93bbe42d7c027937616a3c04232cd8fa3783682583429f7c24738192ac1&width=1200&height=600&smart=true",
-      "source": "Actionnews5.com",
-      "publishedAt": "2026-11-20T22:06:00Z"
-    },
-    {
-      "title": "'The farm's not for sale' | 2,000-acre data center coming to this rural Kentucky county - WHAS11",
-      "description": null,
-      "url": "https://www.whas11.com/article/news/investigations/deca-data-center-size-carroll-county-kentucky/417-1c5220b3-40ae-476e-acc4-b12bed3da94b",
-      "urlToImage": null,
-      "source": "WHAS11.com",
-      "publishedAt": "2026-11-20T21:57:00Z"
-    },
-    {
-      "title": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe - Barron's",
-      "description": "Nvidia stock falls again Friday and is on track for a seventh-straight decline.",
-      "url": "https://www.barrons.com/articles/nvidia-stock-fall-ai-chips-835a38ae",
-      "urlToImage": "https://images.barrons.com/im-45207932/social",
-      "source": "Barron's",
-      "publishedAt": "2026-11-20T21:43:00Z"
+      "title": "From Anthropic to Nvidia, Wall Street just had a bizarre, wild week - Yahoo Finance",
+      "description": "This has been a week for the ages in the investing world, no doubt.",
+      "url": "https://finance.yahoo.com/markets/article/from-anthropic-to-nvidia-wall-street-just-had-a-bizarre-wild-week-110000443.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/68e4a3694657e833bdb46eeafb3dfae09ac9c768b40d8266815612a24f8e8c65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2328dcb1-c6c7-4b1f-b192-b9581a20e3de",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-22T11:00:00Z"
     }
   ]
 }
