@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-11-24T17:31:25.859Z",
+  "updatedAt": "2026-11-25T17:04:52.133Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board says - BBC",
-      "description": "President Trump has backed Nvidia's decision, which the company says was made with \"input from senior levels of the United States government\".",
-      "url": "https://www.bbc.com/news/live/crd61y5dwqgpt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b6/live/d1c3d5d0-e748-11f1-88dc-f746e0cde621.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-23T16:36:47Z"
-    },
-    {
-      "title": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Returns To Nvidia; Chip Plays Rocket (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index surges Monday as Nvidia stock soars 33% on the return of Jensen Huang as CEO.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-crowdstrike-zscaler/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/Stock-Bull-MrktBars-adobeAI.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-11-23T15:36:00Z"
-    },
-    {
-      "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return - Fox Business",
-      "description": "Major U.S. equity indexes are higher Monday after last week's steep AI selloff, with investors eyeing Nvidia's recovery and Wednesday's PCE inflation report.",
-      "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-historic-stock-market-selloff-1.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-11-23T14:42:00Z"
-    },
-    {
-      "title": "Jensen Huang went to war with Washington — and won a path to China - The Washington Post",
-      "description": "The Nvidia founder wooed the president and pushed back against lawmakers as the company sought a foothold in the vast Chinese market. The tactics left a trail of mistrust.",
-      "url": "https://www.washingtonpost.com/technology/2026/11/23/how-nvidia-fought-years-washington-sell-its-prized-chips-china/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TZWOBEQUHFCRVO5JAMSJIX7ZF4.jpg&w=1440",
+      "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress - The Washington Post",
+      "description": "Democrats were preparing to investigate the chipmaker. The president’s extraordinary role in reinstating Jensen Huang as CEO has expanded the inquiry.",
+      "url": "https://www.washingtonpost.com/technology/2026/11/24/jensen-huangs-return-nvidia-puts-trump-under-new-congressional-scrutiny/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMNVHZUJLMV7B2WSDBPE5HXS3I_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2026-11-23T14:33:12Z"
+      "publishedAt": "2026-11-24T16:03:17Z"
     },
     {
-      "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap - Bloomberg.com",
-      "description": "An overnight bounce in stocks erupted into a surge after Nvidia Corp.’s reinstatement of Jensen Huang as chief executive officer recharged artificial-intelligence bets.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUsePbFhHku8/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-23T14:32:15Z"
-    },
-    {
-      "title": "The three most common holiday scams — and how to avoid them - The Washington Post",
-      "description": "With Black Friday only days away, here’s how to spot scams and what to do if you fall for one.",
-      "url": "https://www.washingtonpost.com/business/2026/11/23/tis-season-scams-protect-yourself-while-holiday-shopping-online/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6H5IRN3D2MQ7LUJWDRHRAKNWV4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-11-23T14:32:01Z"
-    },
-    {
-      "title": "Amazon warns NYC of $5 fees due to mayor’s delivery bill; Mamdani cries ‘greed’ - Fox Business",
-      "description": "Amazon's in-app pop-up warns NYC shoppers that Intro 518 could add up to $5 per order, as Mayor Zohran Mamdani blasts the campaign as corporate \"greed.\"",
-      "url": "https://www.foxbusiness.com/politics/amazon-warns-nyc-5-fees-due-mayors-delivery-bill-mamdani-cries-greed",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/nyc-amazon-delivery-split-mamdani.jpg?ve=1&tl=1",
-      "source": "Fox Business",
-      "publishedAt": "2026-11-23T13:13:00Z"
-    },
-    {
-      "title": "Scott Bessent sends a strong verdict to Nvidia’s stock investors - TheStreet",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/scott-bessent-sends-a-strong-verdict-to-nvidias-stock-investors",
-      "urlToImage": null,
-      "source": "TheStreet",
-      "publishedAt": "2026-11-23T13:07:00Z"
-    },
-    {
-      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims - CNBC",
-      "description": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
-      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282790-1774443628624-gettyimages-2265843824-raa-grokaieu260313_np8wx.jpeg?v=1774443657&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-11-23T12:40:37Z"
-    },
-    {
-      "title": "Arm CEO Snubs Nvidia Approach, Extending Contract Through 2033 - Bloomberg.com",
-      "description": "Arm Holdings Plc Chief Executive Officer Rene Haas has pledged to stay in his current role through 2033 after rebuffing approaches to succeed Nvidia Corp.’s Jensen Huang, who was reinstated Monday.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/arm-ceo-extends-contract-through-2033-after-nvidia-approach",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ54cS9ryg5A/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-23T12:19:06Z"
-    },
-    {
-      "title": "A battered stock market looks for the bottom: What to watch this week - Yahoo Finance",
-      "description": "After a week headlined by the Anthropic IPO and the long-awaited release of GTA VI, the upcoming five-day stretch should be a bit calmer.",
-      "url": "https://finance.yahoo.com/markets/article/a-battered-stock-market-looks-for-the-bottom-what-to-watch-this-week-100000117.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ad5c411f4f5fce8a7e9ce0f88c83ff65ee6a3847ee56425d7b471be5aa103774/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4de02d33-21f4-4cc5-8740-db0b91791e2e",
+      "title": "Nvidia live updates: Nvidia stock falls as exuberance fades after Jensen Huang's return as CEO - Yahoo Finance",
+      "description": "Nvidia's (NVDA) board on Monday reinstated Jensen Huang as CEO and president of the chip giant.",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bac2abd526954a4ec2b324d8f58a3974e289f568d76d3665205dc5445877d14f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2d37476a-152f-4da0-81ab-494fe1d60315",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-23T12:06:56Z"
+      "publishedAt": "2026-11-24T15:58:21Z"
     },
     {
-      "title": "Exclusive | LIRR riders sharing phone location get $8 ticket warnings — despite claims of no tracking - New York Post",
-      "description": "Long Island Rail Road riders sharing their location are getting ticket activation warnings — despite officials’ claims that they wouldn’t monitor geodata to police commuters.",
-      "url": "https://nypost.com/2026/11/23/us-news/lirr-riders-sharing-phone-location-get-ticket-warnings-despite-claims-of-no-tracking/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/lirr.jpg?quality=75&strip=all&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-11-23T11:00:00Z"
+      "title": "Stock Market Today: Dow up modestly, S&P 500 and Nasdaq in retreat a day after Nvidia's 31% surge; Dell results on tap: live updates - MarketWatch",
+      "description": "Follow all the latest U.S. market action for Tuesday, a day after the massive rally from Nvidia reinstating Jensen Huang as CEO.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results",
+      "urlToImage": "https://images.mktw.net/im-10664338/social",
+      "source": "MarketWatch",
+      "publishedAt": "2026-11-24T15:58:00Z"
     },
     {
-      "title": "Exclusive | New Yorkers are fleeing sky-high rents for spacious homes 90 miles away — and they’re staying put - New York Post",
-      "description": "New Yorkers are trading the city’s endless crush for private backyards, a slower pace of life and more money in their pockets — all not very far away.",
-      "url": "https://nypost.com/2026/11/23/real-estate/new-yorkers-are-moving-to-philadelphia-for-cheaper-homes/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-odsr5geks-1795366079229.jpg?quality=75&strip=all&1795348159&w=1200",
-      "source": "New York Post",
-      "publishedAt": "2026-11-23T11:00:00Z"
+      "title": "Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day - Bloomberg",
+      "description": "Anthropic PBC shares sank 8% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE6G4fxUCK2o/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-24T15:46:14Z"
     },
     {
-      "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy - CNBC",
-      "description": "A sharp spike in mortgage rates in September has pushed the already chilly real estate sector into a deep freeze.",
-      "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108356599-1788201400972-gettyimages-2291216152-260823_tohouses_117.jpeg?v=1788201449&w=1920&h=1080",
+      "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years - CNBC",
+      "description": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555728-1795112286825-gettyimages-2305932029-mms15951_ojpsq3qq.jpeg?v=1795112328&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2026-11-23T10:00:01Z"
+      "publishedAt": "2026-11-24T12:00:41Z"
     },
     {
-      "title": "Seniors embrace Tesla automated driving technology despite questions about safety - NPR",
-      "description": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F3e%2Ff9f234fd46e396a3ec44248615aa%2F11-04-2026-jimena-peck-denver-editorial-photographer-0366-2026-11-olderdrivers.jpg",
+      "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
+      "description": "More than two dozen sources say the gap between AI power and human control is widening dangerously fast.",
+      "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "urlToImage": "https://images.axios.com/pkO5gE_9Wiea9xQOWQzK5h9DTDQ=/0x0:1280x720/1366x768/2026/11/23/1795465070345.jpg",
+      "source": "Axios",
+      "publishedAt": "2026-11-24T11:46:53Z"
+    },
+    {
+      "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure - Space",
+      "description": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-2000-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2026-11-24T11:36:42Z"
+    },
+    {
+      "title": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/real-estate/ai-san-francisco-housing-prices-92a41f7d",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-11-24T10:30:00Z"
+    },
+    {
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It - WIRED",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LYWUzd05JcGpraWdxdFBhQndzc0tpYmZPQ3V1WjZScGhNOE11aF9kbTBPWDhaWjZ3S1J6dm40OVZiZ29ZUmR1UTlLQUJfQnZ4RFJYZ3lRRXhnV09QdE1QLVZORTN3My1sTHdaSmhTYy0zUQ?oc=5",
+      "urlToImage": null,
+      "source": "Google News",
+      "publishedAt": "2026-11-24T10:15:00Z"
+    },
+    {
+      "title": "They attended Trump’s meme coin dinner. It didn't go well - NPR",
+      "description": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+190/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F7d%2F9d4396f94cba811d52d367d83999%2Fwhatsapp-image-2026-11-22-at-17-16-55.jpeg",
       "source": "NPR",
-      "publishedAt": "2026-11-23T10:00:00Z"
+      "publishedAt": "2026-11-24T10:00:00Z"
     },
     {
-      "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year - NPR",
-      "description": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7687x4324+0+133/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F2f%2F74d978a84f9cb96570fd10b559e7%2Fgettyimages-2304341756.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-11-23T10:00:00Z"
+      "title": "Nvidia's long-time CFO and now former interim CEO Colette Kress was left in the dark about Jensen Huang's return: Report - Yahoo Finance",
+      "description": "She has been the CFO of Nvidia (NVDA) since 2013, helping to build the company at the center of the AI boom right alongside founder and public face Jensen Hu...",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-longtime-cfo-and-now-former-interim-ceo-colette-kress-was-left-in-the-dark-about-jensen-huangs-return-report-144057460.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f00061d63ce6b6d3a4d33a00003f0f0af6aea7d2d8a764a3676aa3a5168f1a17/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb47f0ca-2df9-4a37-8bdd-7f43f0cf45bb",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-24T09:59:13Z"
     },
     {
-      "title": "Mushroom supplements promise health benefits. What does the science say? - NPR",
-      "description": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F0f%2Fb7589e96433a89a0f02bd9f8db13%2Fnpr-mushrooms-1120-1.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-11-23T10:00:00Z"
+      "title": "Sanofi strikes $41bn deal as patent cliff looms - Financial Times",
+      "description": "French drugmaker secures two commercial drugs in its hunt for tie-ups to offset falling revenue from Dupixent",
+      "url": "https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ab50f6e-2ab6-4a6e-927f-d6ef5861b087.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-24T09:57:45Z"
     },
     {
-      "title": "Dealing with a nasty, annoying ex? There's a bot for that. - Business Insider",
-      "description": "Suddenly, frustrated divorcees have hot new AI business ideas.",
-      "url": "https://www.businessinsider.com/using-ai-in-a-divorce-coparenting-texts-emails-you-regret-2026-11#article",
-      "urlToImage": "https://i.insider.com/6b00c70273f126f9eccb9231?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-23T10:00:00Z"
+      "title": "Roche says breast cancer pill could be best-selling drug ever - Financial Times",
+      "description": "Swiss group hails ‘new era of breast cancer treatment’ with newly approved medicine",
+      "url": "https://www.ft.com/content/6c2b8be7-2c74-4920-a4fa-5c90e164eae9?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F828cd44e-4451-4d08-8b7d-4c5b7f089da2.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-24T09:51:03Z"
     },
     {
-      "title": "Catering giant to switch stock market listing to US in further blow to UK - BBC",
-      "description": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-      "url": "https://www.bbc.com/news/articles/ckz74098jq5po",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg",
-      "source": "BBC News",
-      "publishedAt": "2026-11-23T09:54:04Z"
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching - The Hacker News",
+      "description": "OpenAI and Cisco launch Shirudo, an open-source Linux runtime that uses AI-generated eBPF shields to mitigate exploits without service downtime.",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
+      "source": "Internet",
+      "publishedAt": "2026-11-24T06:02:00Z"
     },
     {
-      "title": "Trump hosts private dinner for largest owners of his meme coin - Al Jazeera",
-      "description": "Sunday’s dinner was the third event for top holders of the $TRUMP meme coin, launched shortly before his inauguration.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP25198724695124-1776869150.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-23T08:03:45Z"
+      "title": "Trump owned at least $12 million in Nvidia stock at the end of last year - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/trump-owned-12-million-nvidia-stock-end-year/story?id\\\\u003d138393684",
+      "urlToImage": null,
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-24T04:51:33Z"
+    },
+    {
+      "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",
+      "description": "Dow Jones Futures: Tech stocks and Nvidia stock surged Monday on the return of Jensen Huang. Elon Musk-led SpaceX and Tesla rallied.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-nvidia-jensen-huang-elon-musk-spacex-tesla/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/06/Stock-NvidiaJensen-HuangRTXchip-company.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-11-24T03:27:00Z"
+    },
+    {
+      "title": "AI has solved a host of big math problems—here's why this threatens the whole field of mathematics - Phys.org",
+      "description": "For many, the year 2026 will be remembered as the one when mathematics had an identity crisis and forever changed. Frontier (cutting-edge) AI models made by OpenAI and Anthropic made stunning progress on hundreds of open problems that have baffled mathematici…",
+      "url": "https://phys.org/news/2026-11-ai-host-big-math-problems.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mathematical-proof-deb.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2026-11-24T02:40:01Z"
+    },
+    {
+      "title": "Scoop: Thanksgiving air travel expected to hit 16-year high - Axios",
+      "description": "It will test the Trump administration's push to improve the air travel system's reliability.",
+      "url": "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected",
+      "urlToImage": "https://images.axios.com/CX2gPPw0TjmEZd5WZOKCqXCjHto=/0x0:1600x900/1366x768/2026/11/24/1795480810184.png",
+      "source": "Axios",
+      "publishedAt": "2026-11-24T01:04:01Z"
+    },
+    {
+      "title": "Amazon drone delivering shampoo snags on wire and tumbles onto Michigan man’s garage roof - NBC News",
+      "description": "James Brennan, of Huntington Woods, Michigan, near Detroit, said he had not requested a drone delivery and assumed his package would arrive at his doorstep as usual.",
+      "url": "https://www.nbcnews.com/news/us-news/amazon-drone-shampoo-wire-michigan-roof-rcna611005",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-amazon-drone-ew-726p-32abad.jpg",
+      "source": "NBC News",
+      "publishedAt": "2026-11-24T00:34:00Z"
     }
   ]
 }
