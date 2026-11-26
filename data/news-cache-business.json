@@ -1,159 +1,151 @@
 {
-  "updatedAt": "2026-11-25T17:04:52.133Z",
+  "updatedAt": "2026-11-26T16:45:45.862Z",
   "country": "us",
   "category": "business",
   "articles": [
     {
-      "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress - The Washington Post",
-      "description": "Democrats were preparing to investigate the chipmaker. The president’s extraordinary role in reinstating Jensen Huang as CEO has expanded the inquiry.",
-      "url": "https://www.washingtonpost.com/technology/2026/11/24/jensen-huangs-return-nvidia-puts-trump-under-new-congressional-scrutiny/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMNVHZUJLMV7B2WSDBPE5HXS3I_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2026-11-24T16:03:17Z"
-    },
-    {
-      "title": "Nvidia live updates: Nvidia stock falls as exuberance fades after Jensen Huang's return as CEO - Yahoo Finance",
-      "description": "Nvidia's (NVDA) board on Monday reinstated Jensen Huang as CEO and president of the chip giant.",
-      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bac2abd526954a4ec2b324d8f58a3974e289f568d76d3665205dc5445877d14f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2d37476a-152f-4da0-81ab-494fe1d60315",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-24T15:58:21Z"
-    },
-    {
-      "title": "Stock Market Today: Dow up modestly, S&P 500 and Nasdaq in retreat a day after Nvidia's 31% surge; Dell results on tap: live updates - MarketWatch",
-      "description": "Follow all the latest U.S. market action for Tuesday, a day after the massive rally from Nvidia reinstating Jensen Huang as CEO.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results",
-      "urlToImage": "https://images.mktw.net/im-10664338/social",
-      "source": "MarketWatch",
-      "publishedAt": "2026-11-24T15:58:00Z"
-    },
-    {
-      "title": "Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day - Bloomberg",
-      "description": "Anthropic PBC shares sank 8% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE6G4fxUCK2o/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-24T15:46:14Z"
-    },
-    {
-      "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years - CNBC",
-      "description": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
-      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555728-1795112286825-gettyimages-2305932029-mms15951_ojpsq3qq.jpeg?v=1795112328&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2026-11-24T12:00:41Z"
-    },
-    {
-      "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
-      "description": "More than two dozen sources say the gap between AI power and human control is widening dangerously fast.",
-      "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-      "urlToImage": "https://images.axios.com/pkO5gE_9Wiea9xQOWQzK5h9DTDQ=/0x0:1280x720/1366x768/2026/11/23/1795465070345.jpg",
-      "source": "Axios",
-      "publishedAt": "2026-11-24T11:46:53Z"
-    },
-    {
-      "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure - Space",
-      "description": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-2000-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2026-11-24T11:36:42Z"
-    },
-    {
-      "title": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market - WSJ",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens — Live Updates - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/real-estate/ai-san-francisco-housing-prices-92a41f7d",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2026-11-24T10:30:00Z"
+      "publishedAt": "2026-11-25T14:29:00Z"
     },
     {
-      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It - WIRED",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LYWUzd05JcGpraWdxdFBhQndzc0tpYmZPQ3V1WjZScGhNOE11aF9kbTBPWDhaWjZ3S1J6dm40OVZiZ29ZUmR1UTlLQUJfQnZ4RFJYZ3lRRXhnV09QdE1QLVZORTN3My1sTHdaSmhTYy0zUQ?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2026-11-24T10:15:00Z"
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike - CNBC",
+      "description": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108361509-1789075754512-gettyimages-2294573112-l1082579_copy_ud26kegt.jpeg?v=1789075971&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-11-25T13:31:45Z"
     },
     {
-      "title": "They attended Trump’s meme coin dinner. It didn't go well - NPR",
-      "description": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+190/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F7d%2F9d4396f94cba811d52d367d83999%2Fwhatsapp-image-2026-11-22-at-17-16-55.jpeg",
-      "source": "NPR",
-      "publishedAt": "2026-11-24T10:00:00Z"
-    },
-    {
-      "title": "Nvidia's long-time CFO and now former interim CEO Colette Kress was left in the dark about Jensen Huang's return: Report - Yahoo Finance",
-      "description": "She has been the CFO of Nvidia (NVDA) since 2013, helping to build the company at the center of the AI boom right alongside founder and public face Jensen Hu...",
-      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-longtime-cfo-and-now-former-interim-ceo-colette-kress-was-left-in-the-dark-about-jensen-huangs-return-report-144057460.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f00061d63ce6b6d3a4d33a00003f0f0af6aea7d2d8a764a3676aa3a5168f1a17/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb47f0ca-2df9-4a37-8bdd-7f43f0cf45bb",
+      "title": "World stocks fall as new US tariffs loom, AI rebound fizzles - Yahoo Finance",
+      "description": "By Tom Wilson LONDON, Nov 25 (Reuters) - World shares stumbled on Wednesday, weighed down by the prospect of global trade tensions over new US tariffs, while...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-ai-rebound-stumbles-015155560.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/78a87dafde974fb16e23f7d3de542a32515e0aeb4410fe586ab75355cc0b4d30/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3017e13d2433f5e3258f41fdf884cab6.jpg_up.jpg",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-24T09:59:13Z"
+      "publishedAt": "2026-11-25T12:40:23Z"
     },
     {
-      "title": "Sanofi strikes $41bn deal as patent cliff looms - Financial Times",
-      "description": "French drugmaker secures two commercial drugs in its hunt for tie-ups to offset falling revenue from Dupixent",
-      "url": "https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9ab50f6e-2ab6-4a6e-927f-d6ef5861b087.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "title": "Microsoft declares “Code Red” after huge Outlook outage - The Verge",
+      "description": "Microsoft has declared a Code Red internally, after a massive Outlook outage in November. Engineering teams are now focused on resolving outages much sooner.",
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2026-11-25T11:12:42Z"
+    },
+    {
+      "title": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans - Yahoo Finance",
+      "description": "NEW YORK, Nov 25 (Reuters) - Dinese Jackson couldn't stomach spending roughly $1,500 to fly herself and her two children from Raleigh, North Carolina, to Dal...",
+      "url": "https://finance.yahoo.com/news/im-going-drive-faa-outage-110417741.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8af584e8d5d951466c5db339cb448232da059be0521807f03f3a602bad2aaa0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F82b4d1680813d251b1d61c71da78a242.jpg_up.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-25T11:04:17Z"
+    },
+    {
+      "title": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang - CBS News",
+      "description": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
+      "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/90cf2298-8e5b-49bf-ae6f-14030ba7f1f0/thumbnail/1200x630/f994bb83569ad98bd29ddfa543aafe4d/gettyimages-2297774940-1.jpg",
+      "source": "CBS News",
+      "publishedAt": "2026-11-25T11:00:00Z"
+    },
+    {
+      "title": "He pulled $100K weeks living at his parents' house — then started giving it all away to strangers - Fox Business",
+      "description": "Content creator Josh Liljenquist breaks down how his Christian faith, strict brand-deal rules and 40 million followers power a mission to lift up struggling Americans.",
+      "url": "https://www.foxbusiness.com/media/he-pulled-100k-weeks-living-his-parents-house-started-giving-all-away-strangers",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/joshlilj-tiktok-split.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-11-25T11:00:00Z"
+    },
+    {
+      "title": "Nation’s largest grocery chain cuts thousands of jobs — sparks fury over who it’s hiring instead: 'Insanity' - Fox News",
+      "description": "Kroger faces backlash over cutting 3,000 U.S. jobs while recruiting for a new Bangalore hub, as critics accuse the grocer of offshoring American roles.",
+      "url": "https://www.foxnews.com/politics/nations-largest-grocery-chain-cuts-thousands-jobs-sparks-fury-who-hiring-instead-insanity",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/grocery-store-prices-consumers.png",
+      "source": "Fox News",
+      "publishedAt": "2026-11-25T10:00:11Z"
+    },
+    {
+      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis - NPR",
+      "description": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3264x1836+0+247/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Fa6%2F390bdd1e4a02a0ddda45c30c7d42%2Fap685592876001.jpg",
+      "source": "NPR",
+      "publishedAt": "2026-11-25T10:00:00Z"
+    },
+    {
+      "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business - Bloomberg",
+      "description": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY_j1.VLQvbY/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-25T09:57:21Z"
+    },
+    {
+      "title": "EU’s quantum sovereignty push shuts out China but welcomes US firms - South China Morning Post",
+      "description": "Despite trade friction with Washington, the bloc admits it cannot build quantum capacity alone and welcomes American manufacturers.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375733/eus-quantum-sovereignty-push-shuts-out-china-welcomes-us-firms",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/25/cc985763-33aa-4b7d-80a4-1ecf4c93fd7b_a85a28fd.jpg?itok=McEfGQof&v=1795593087",
+      "source": "Post Magazine",
+      "publishedAt": "2026-11-25T09:03:04Z"
+    },
+    {
+      "title": "Exclusive: Meta and Amazon discuss ending Muse shopping bot blockade, as ads, search emerge as key issues - Fortune",
+      "description": "E-commerce giant blocked Meta's popular AI tool from its online store in September",
+      "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296209094_cc3633-e1795590650418.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2026-11-25T08:01:00Z"
+    },
+    {
+      "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets - Bloomberg.com",
+      "description": "Gold slid below $3,500 an ounce as a selloff in stocks continued and a key inflation print reinforced bets on further Federal Reserve rate hikes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id3kP53w6E1o/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-25T07:33:00Z"
+    },
+    {
+      "title": "‘Anflopic’ bodes badly for OpenAI’s IPO prospects - Financial Times",
+      "description": "By pushing its listing to the limit, the Claude maker has made itself a hard act to follow",
+      "url": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F66e9baec-8dfa-47ed-8762-2e391369e7ff.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "source": "Financial Times",
-      "publishedAt": "2026-11-24T09:57:45Z"
+      "publishedAt": "2026-11-25T06:04:54Z"
     },
     {
-      "title": "Roche says breast cancer pill could be best-selling drug ever - Financial Times",
-      "description": "Swiss group hails ‘new era of breast cancer treatment’ with newly approved medicine",
-      "url": "https://www.ft.com/content/6c2b8be7-2c74-4920-a4fa-5c90e164eae9?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F828cd44e-4451-4d08-8b7d-4c5b7f089da2.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "publishedAt": "2026-11-24T09:51:03Z"
+      "title": "Elon Musk Confirms Free Starlink Hardware for Eligible Americans as SpaceX Gives Up $738 Million in Federal Grants - Benzinga",
+      "description": "Elon Musk confirms SpaceX will provide eligible Americans free Starlink hardware, low-cost internet and 10 years of service.",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63613968/elon-musk-confirms-free-starlink-hardware-for-eligible-americans-as-spacex-gives-up-738-million-in-federal-grants",
+      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/11/25/Paris--France---February-3--2026-A-Horiz.jpg",
+      "source": "Benzinga",
+      "publishedAt": "2026-11-25T05:41:16Z"
     },
     {
-      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching - The Hacker News",
-      "description": "OpenAI and Cisco launch Shirudo, an open-source Linux runtime that uses AI-generated eBPF shields to mitigate exploits without service downtime.",
-      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
-      "source": "Internet",
-      "publishedAt": "2026-11-24T06:02:00Z"
+      "title": "Trump Accounts hit major milestone as family contributions surpass $1 billion - Fox Business",
+      "description": "Trump Accounts top $1 billion in family contributions as Treasury Secretary Scott Bessent says Americans are investing in children's financial futures.",
+      "url": "https://www.foxbusiness.com/politics/trump-accounts-hit-major-milestone-family-contributions-surpass-1-billion",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/donald-trump.png?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-11-25T04:51:00Z"
     },
     {
-      "title": "Trump owned at least $12 million in Nvidia stock at the end of last year - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/trump-owned-12-million-nvidia-stock-end-year/story?id\\\\u003d138393684",
-      "urlToImage": null,
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-24T04:51:33Z"
+      "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal - CNBC",
+      "description": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+      "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108559003-1795575959155-gettyimages-2211329606-BOEING_CHINA.jpeg?v=1795575970&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2026-11-25T03:58:00Z"
     },
     {
-      "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",
-      "description": "Dow Jones Futures: Tech stocks and Nvidia stock surged Monday on the return of Jensen Huang. Elon Musk-led SpaceX and Tesla rallied.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-nvidia-jensen-huang-elon-musk-spacex-tesla/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/06/Stock-NvidiaJensen-HuangRTXchip-company.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-11-24T03:27:00Z"
-    },
-    {
-      "title": "AI has solved a host of big math problems—here's why this threatens the whole field of mathematics - Phys.org",
-      "description": "For many, the year 2026 will be remembered as the one when mathematics had an identity crisis and forever changed. Frontier (cutting-edge) AI models made by OpenAI and Anthropic made stunning progress on hundreds of open problems that have baffled mathematici…",
-      "url": "https://phys.org/news/2026-11-ai-host-big-math-problems.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mathematical-proof-deb.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2026-11-24T02:40:01Z"
-    },
-    {
-      "title": "Scoop: Thanksgiving air travel expected to hit 16-year high - Axios",
-      "description": "It will test the Trump administration's push to improve the air travel system's reliability.",
-      "url": "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected",
-      "urlToImage": "https://images.axios.com/CX2gPPw0TjmEZd5WZOKCqXCjHto=/0x0:1600x900/1366x768/2026/11/24/1795480810184.png",
-      "source": "Axios",
-      "publishedAt": "2026-11-24T01:04:01Z"
-    },
-    {
-      "title": "Amazon drone delivering shampoo snags on wire and tumbles onto Michigan man’s garage roof - NBC News",
-      "description": "James Brennan, of Huntington Woods, Michigan, near Detroit, said he had not requested a drone delivery and assumed his package would arrive at his doorstep as usual.",
-      "url": "https://www.nbcnews.com/news/us-news/amazon-drone-shampoo-wire-michigan-roof-rcna611005",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-amazon-drone-ew-726p-32abad.jpg",
-      "source": "NBC News",
-      "publishedAt": "2026-11-24T00:34:00Z"
+      "title": "TSA anticipates nearly 18 million air travelers during Thanksgiving week - Fox Business",
+      "description": "The Transportation Security Administration expects 17.6 million travelers this Thanksgiving, marking the busiest travel week for the holiday in 16 years.",
+      "url": "https://www.foxbusiness.com/fox-news-travel/tsa-forecasts-nearly-18-million-air-travelers-during-thanksgiving-week",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/long-lines-tsa-shutdown.jpg?ve=1&tl=1",
+      "source": "Fox Business",
+      "publishedAt": "2026-11-25T03:44:13Z"
     }
   ]
 }
