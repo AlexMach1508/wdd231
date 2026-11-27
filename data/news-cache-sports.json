@@ -1,167 +1,159 @@
 {
-  "updatedAt": "2026-11-26T16:45:46.013Z",
+  "updatedAt": "2026-11-27T16:31:00.070Z",
   "country": "us",
   "category": "sports",
   "articles": [
     {
-      "title": "Steelers are benching Aaron Rodgers and Mason Rudolph will start at QB against Broncos - AP News",
-      "description": "Four-time NFL MVP Aaron Rodgers has been benched by the Pittsburgh Steelers and Mason Rudolph will start against the Denver Broncos on Friday. The team said in a statement that Rodgers will be inactive for the game. Rodgers, who turns 43 next week, has comple…",
-      "url": "https://apnews.com/article/rodgers-benched-5e9be7d9fd957f328fe4764d6de79a36",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b74e319/2147483647/strip/true/crop/3613x2409+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F83%2Fbcd7bfa8ff068c474edcc7eced58%2Fd1f191af848d4a34b9f09c5137fe2f3a",
-      "source": "Associated Press",
-      "publishedAt": "2026-11-25T11:31:00Z"
+      "title": "Fifa confirms internal data stolen in cyber attack - BBC",
+      "description": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
+      "url": "https://www.bbc.com/sport/football/articles/crd61nvg4d84o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg",
+      "source": "BBC News",
+      "publishedAt": "2026-11-26T11:30:07Z"
     },
     {
-      "title": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs - CBS Sports",
-      "description": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/09/d8a6acde-4efc-426a-9c45-ca6327e1345d/thumbnail/1200x675/f2092fa79b71aca852f141104ce089bb/imagn-jordan-love-packers.jpg",
-      "source": "CBS Sports",
-      "publishedAt": "2026-11-25T11:00:41Z"
+      "title": "Brandon Aiyuk agrees to sign with Commanders’ practice squad - The Washington Post",
+      "description": "The former all-pro receiver was finally released by San Francisco this week.",
+      "url": "https://www.washingtonpost.com/sports/2026/11/25/brandon-aiyuk-agrees-sign-with-commanders-practice-squad/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LXGHXOSAVYI6XNMLCYR7MJTZMA.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2026-11-26T05:23:42Z"
     },
     {
-      "title": "Sigler powers No. 1 Nebraska volleyball to Big Ten Tournament championship match - On3",
-      "description": "No. 1 Nebraska volleyball (30-0, 17-0 Big Ten) overcame adversity and brought down No. 13 (No. 5) Purdue (20-9, 11-6) in four sets on Tuesday, Nov. 24, at",
-      "url": "https://www.on3.com/teams/nebraska-cornhuskers/news/sigler-powers-no-1-nebraska-volleyball-to-big-ten-tournament-championship-match/",
-      "urlToImage": "https://on3static.com/cdn-cgi/image/height=675,width=1200,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2026/09/21142208/Nebraska-volleyball-Teraya-Sigler-16.png",
-      "source": "On3.com",
-      "publishedAt": "2026-11-25T10:52:30Z"
+      "title": "MLB Rumor Roundup: Starting Pitching Flying off the Board - Metsmerized",
+      "description": "With the Holiday weekend and lockout rapidly approaching, we saw more action on the hot stove throughout the day Wednesday...",
+      "url": "https://metsmerizedonline.com/mlb-rumor-roundup-starting-pitching-going-fast/",
+      "urlToImage": "https://metsmerizedonline.com/wp-content/uploads/2026/05/USATSI_29062045_168402348_lowres.jpg",
+      "source": "metsmerizedonline.com",
+      "publishedAt": "2026-11-26T04:30:00Z"
     },
     {
-      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco - NPR",
-      "description": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2034x1144+0+106/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2f%2F4e%2F47d7f3a24ff7affdc19c15b9e8c7%2Fap26327377641545.jpg",
-      "source": "NPR",
-      "publishedAt": "2026-11-25T06:43:23Z"
+      "title": "Knicks 121, Cavs 102: Scenes from a second-half bench bash - Posting and Toasting",
+      "description": "Led by Alvarado’s 21, six Knicks score double-digits, and they hammer the Cavs 65-41 post-intermission.",
+      "url": "https://www.postingandtoasting.com/knicks-scores-results/91639/knicks-121-cavs-102-scenes-from-a-second-half-bench-bash",
+      "urlToImage": "https://platform.postingandtoasting.com/wp-content/uploads/sites/125/2026/11/gettyimages-2306913846.jpg?quality=90&strip=all&crop=0%2C15.822148621677%2C100%2C68.355702756646&w=1200",
+      "source": "Posting and Toasting",
+      "publishedAt": "2026-11-26T03:52:29Z"
     },
     {
-      "title": "Aaron Rodgers Sends Clear Message To Steelers’ Front Office: ‘Great Reminder’ - Steelers Depot",
-      "description": "Aaron Rodgers wants the Pittsburgh Steelers’ front office to know WR Max Hurleman is a 53-man roster player. Speaking to reporters Tuesday, Rodgers praised Hurleman as someone who has long shown worthy of such a spot. “I think it’s as much for him as it is ev…",
-      "url": "https://steelersdepot.com/2026/11/aaron-rodgers-sends-clear-message-to-steelers-front-office-great-reminder/",
-      "urlToImage": "https://steelersdepot.com/wp-content/uploads/2026/11/Aaron-Rodgers1-2-1000x600.jpg",
-      "source": "Steelers Depot",
-      "publishedAt": "2026-11-25T04:47:50Z"
+      "title": "Rockies, Patrick Sandoval Agree To Three-Year Deal - MLB Trade Rumors",
+      "description": "The Rockies continue throwing money at their rotation, signing former Red Sox southpaw Patrick Sandoval to a surprise three-year deal.",
+      "url": "https://www.mlbtraderumors.com/2026/11/rockies-patrick-sandoval-agree-to-three-year-deal.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/11/2026-09-27T233932Z_2064337651_MT1USATODAY29937080_RTRMADP_3_MLB-CHICAGO-CUBS-AT-BOSTON-RED-SOX-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2026-11-26T03:27:22Z"
     },
     {
-      "title": "Louisville upends No. 5 Texas Tech in Players Era opener - Card Chronicle",
+      "title": "San Antonio Spurs vs Portland Trail Blazers Nov 25, 2026 Box Scores - NBA.com",
+      "description": "San Antonio Spurs vs Portland Trail Blazers Nov 25, 2026 player box scores including video and shot charts",
+      "url": "https://www.nba.com/game/sas-vs-por-0022600063/box-score",
+      "urlToImage": "https://cdn.nba.com/logos/nba/fallback/NBA.Com-National-Basketball-Association.png",
+      "source": "Heat.com",
+      "publishedAt": "2026-11-26T03:23:39Z"
+    },
+    {
+      "title": "Murray Powers Nebraska to Title at Inaugural Big Ten Tournament - Sports Illustrated",
+      "description": "The senior outside hitter put up 18 kills against Wisconsin as the Huskers enter the NCAA Tournament undefeated.",
+      "url": "https://www.si.com/college/nebraska/volleyball/murray-powers-nebraska-to-title-at-inaugural-big-ten-tournament-2026",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_121,w_3701,h_2081/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_huskers/01m8awpw2vq7vjj1ap6v.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-11-26T03:06:43Z"
+    },
+    {
+      "title": "Michigan, Trev Alberts and protecting college sports from the adults in the room - Andscape",
+      "description": "Michigan's Trev Alberts reversal remind us that student-athletes give life and limb while adults in boardrooms make disastrous decisions.",
+      "url": "https://andscape.com/features/michigan-athletic-director-trev-alberts-protecting-college-sports/",
+      "urlToImage": "https://andscape.com/wp-content/uploads/2026/11/GettyImages-2296084510-e1795641899343.jpg",
+      "source": "Andscape.com",
+      "publishedAt": "2026-11-26T03:05:15Z"
+    },
+    {
+      "title": "Rams' Kam Kinchens ejected as hit leaves Packers' Christian Watson concussed - ESPN",
+      "description": "Rams safety Kam Kinchens was ejected for a hit along the sideline that left Packers wide receiver Christian Watson with a concussion.",
+      "url": "https://www.espn.com/nfl/story/_/id/50600753/rams-kam-kinchens-ejected-hit-christian-watson",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1126%2Fr1751489_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-11-26T03:01:00Z"
+    },
+    {
+      "title": "Tigers To Sign Kevin Gausman - MLB Trade Rumors",
+      "description": "Detroit adds a veteran to the starting rotation.",
+      "url": "https://www.mlbtraderumors.com/2026/11/tigers-to-sign-kevin-gausman.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/07/kevin-gausman-toronto-blue-jays-1024x683.jpg",
+      "source": "MLB Trade Rumors",
+      "publishedAt": "2026-11-26T02:47:34Z"
+    },
+    {
+      "title": "USC band won't perform at UCLA football game after members vandalized campus - ESPN",
+      "description": "The USC Trojan Marching Band will not perform during Saturday's rivalry game against UCLA after members of the band vandalized a portion of UCLA's campus.",
+      "url": "https://www.espn.com/college-football/story/_/id/50600615/usc-band-perform-members-vandalized-ucla-campus",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1126%2Fr1751483_1024x576_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-11-26T02:44:00Z"
+    },
+    {
+      "title": "John Blackwell ends his cold streak, leads No. 16 Duke to statement win over Silas Demary Jr. and No. 10 UConn - Yahoo Sports",
+      "description": "The Blue Devils had been 0-2 against ranked opponents this season before Wednesday's win.",
+      "url": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/john-blackwell-ends-his-cold-streak-leads-no-16-duke-to-statement-win-over-silas-demary-jr-and-no-10-uconn-022353928.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c611ea633f57e92ca400729e1d2ef185bbe6d9e278fe3a8893654b2823e9cb5c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fa74f9696-0cc7-42f8-a0d8-d6fbd3c9eba6",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-26T02:32:00Z"
+    },
+    {
+      "title": "Three Observations from Bayern Munich’s toothless 2-1 loss against LOSC Lille - Bavarian Football Works",
+      "description": "Injury-riddled Bayern Munich is truly cooked, facing its first loss of the season against Lille in the UCL group stage.",
+      "url": "https://www.bavarianfootballworks.com/bayern-munich-champions-league/286325/three-observations-from-bayern-munich-match-analysis-toothless-2-1-loss-against-lille-champions-league",
+      "urlToImage": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/11/gettyimages-2306881310.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "Bavarian Football Works",
+      "publishedAt": "2026-11-26T02:00:00Z"
+    },
+    {
+      "title": "Tony Romo takes job with sports gambling company co-founded by Jake Paul - ESPN",
+      "description": "Former CBS NFL analyst Tony Romo has taken a job with Betr, with the company saying he will make predictions and engage with fans across platforms.",
+      "url": "https://www.espn.com/nfl/story/_/id/50600128/tony-romo-job-sports-gambling-company-jake-paul",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0730%2Fr1695598_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2026-11-26T01:55:00Z"
+    },
+    {
+      "title": "3 takeaways from No. 19 BYU’s win over Providence at the Maui Invitational - Deseret News",
       "description": "",
-      "url": "https://www.cardchronicle.com/basketball/106323/louisville-upends-no-5-texas-tech-in-players-era-opener",
-      "urlToImage": "https://platform.cardchronicle.com/wp-content/uploads/sites/59/2026/11/gettyimages-2306233087.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "Card Chronicle",
-      "publishedAt": "2026-11-25T04:11:00Z"
+      "url": "https://www.deseret.com/sports/2026/11/25/byu-defeats-providence-maui-invitational-3-takeaways/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/OOCHMEJRM5BS3L3JN2LSLX2ZVQ.jpg?focal=0%2C0&auth=d6f055894b69a4aefe03a53ed7dd0d9f6719b86142fd8da4ba62b096c57165e4&width=630&height=331",
+      "source": "Deseret News",
+      "publishedAt": "2026-11-26T01:17:00Z"
     },
     {
-      "title": "College Football Playoff: Alabama 6th in latest rankings - Roll 'Bama Roll",
-      "description": "Alabama takes a tumble in the rankings",
-      "url": "https://www.rollbamaroll.com/alabama-crimson-tide-football/87057/college-football-playoff-alabama-6th-in-latest-rankings",
-      "urlToImage": "https://platform.rollbamaroll.com/wp-content/uploads/sites/138/2026/11/gettyimages-2305748265.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "Roll Bama Roll",
-      "publishedAt": "2026-11-25T02:40:00Z"
-    },
-    {
-      "title": "Winners and Losers of the Week 13 College Football Playoff Rankings - Bleacher Report",
-      "description": "Following a drama-filled weekend across the nation, two conferences are moving in opposite directions for the College Football Playoff.",
-      "url": "https://bleacherreport.com/articles/25537335-winners-and-losers-week-13-college-football-playoff-rankings",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-11/br_cfb_winner-losers_16x9-(12).png?w=1120&h=630",
-      "source": "Bleacher Report",
-      "publishedAt": "2026-11-25T02:00:37Z"
-    },
-    {
-      "title": "Week 12 Anger Index: Indiana dropped how many spots?! - ESPN",
-      "description": "Ranking the teams that should be most upset with the latest CFP rankings.",
-      "url": "https://www.espn.com/college-football/story/_/id/50582371/cfp-ranking-2026-anger-index-week-12",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1124%2Fr1750858_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-11-25T01:45:00Z"
-    },
-    {
-      "title": "Who's on the College Football Playoff bubble before committee's fourth ranking? - ESPN",
-      "description": "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.",
-      "url": "https://www.espn.com/college-football/story/_/id/50575185/cfp-playoff-2026-bubble-watch-week-fourth-ranking",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1124%2FCFP%2DBracket%2D2026%2D16x9.png",
-      "source": "ESPN",
-      "publishedAt": "2026-11-25T01:20:00Z"
-    },
-    {
-      "title": "Indiana falls from 12-team field in 4th CFP rankings; Horns, Vols leap Bama - ESPN",
-      "description": "Defending champ Indiana fell six spots to No. 14, while Alabama was leaped by Texas and Tennessee and fell out of the top five in the latest CFP rankings Tuesday night.",
-      "url": "https://www.espn.com/college-football/story/_/id/50588082/indiana-top-12-cfp-rankings-texas-tennessee-leap-alabama",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1124%2Fr1750858_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-11-25T01:17:00Z"
-    },
-    {
-      "title": "Your 2026 Week 13 college football announcing schedule - Awful Announcing",
+      "title": "Huskers roll up a big lead early on their way to 7-0 with B1G work now ahead - 247Sports",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KaWpWVV9GQ1hvUktWVHA2TGY2RlVwQ1JzY053eFgxdThaT0FNQTY1RF9sMVdpRzRjSzFnWm02NUExeUIxSkJNaUtoT3o3TENVd25nRFphNklfT1JMRnJZdU9tbkZ3cTNCa2NJRU5qbkJqeHh5RlliNmdkVXltY3c?oc=5",
+      "url": "https://247sports.com/college/nebraska/article/husker-basketball-game-story-against-southern--293324301/",
+      "urlToImage": null,
+      "source": "247Sports",
+      "publishedAt": "2026-11-26T01:14:05Z"
+    },
+    {
+      "title": "‘It's not like America’: Navajo Stirling responds to criticism for not wanting to fight Carlos Ulberg - Bloody Elbow",
+      "description": "Navajo Stirling has responded to criticism for not wanting to fight his teammate and current UFC champion, Carlos Ulberg.",
+      "url": "https://bloodyelbow.com/2026/11/25/its-not-like-america-navajo-stirling-responds-to-criticism-for-not-wanting-to-fight-carlos-ulberg/",
+      "urlToImage": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305719689-scaled.jpg",
+      "source": "Bloody Elbow",
+      "publishedAt": "2026-11-26T01:00:00Z"
+    },
+    {
+      "title": "Digging Deeper Into Liverpool’s 3-0 Beating of Club Brugge - The Liverpool Offside",
+      "description": "With a victory in Bruges in the books, we take a closer look at what it all means for the Reds.",
+      "url": "https://liverpooloffside.sbnation.com/liverpool-fc-match-coverage/85300/match-recap-liverpool-3-0-win-of-club-brugge-isak-goals-wirtz-barcola-link-up",
+      "urlToImage": "https://platform.liverpooloffside.sbnation.com/wp-content/uploads/sites/99/2026/11/gettyimages-2306305047.jpg?quality=90&strip=all&crop=0%2C10.737143494095%2C100%2C78.52571301181&w=1200",
+      "source": "SB Nation",
+      "publishedAt": "2026-11-26T00:00:00Z"
+    },
+    {
+      "title": "Schultz: KWIII (groin) out for Thanksgiving game - NBC Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazVGLVpSMlR0Zi1DbmVZZmVBMTR5VDFPQXhNWEtfM0t4TkZpaGpPUjRkVGJmc0VYZEhleFlVMHRaZFBoeXZIMGxzaGFFX1hqc29DOXoySXppRThuWEo4M0tSMlk4RkdzNFYwcUNBV1RMMnVQSm5uNFlfSFIyWWo2VE9mTUlVMk9wbE5aV2Q2MjVsUnFYazFJazFGWVN1RWdOaS14S05zX0lodXpZblV6Uw?oc=5",
       "urlToImage": null,
       "source": "Google News",
-      "publishedAt": "2026-11-24T23:45:24Z"
-    },
-    {
-      "title": "Trev Alberts won’t be Michigan’s next AD - KETV",
-      "description": "Trev Alberts will not become Michigan’s next athletic director. He had accepted the job last week.",
-      "url": "https://www.ketv.com/article/michigan-athletic-director-search-trev-alberts/74519735",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/57ae50b6-bb96-42f3-bd24-d9872a1dd2ee.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0171xh&resize=1200%3A*",
-      "source": "KETV Omaha",
-      "publishedAt": "2026-11-24T23:37:00Z"
-    },
-    {
-      "title": "Week 12 NFL MVP tracker: Brock Purdy reclaims No. 1 spot; what is each candidate thankful for? - NFL.com",
-      "description": "Heading into Week 12 of the 2026 NFL season, Kevin Patra provides a fresh batch of MVP rankings -- and there’s a change at No. 1! Plus, what are the top five candidates thankful for?",
-      "url": "https://www.nfl.com/news/week-12-nfl-mvp-tracker-brock-purdy-reclaims-no-1-spot-what-is-each-candidate-thankful-for",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/lhuvu5kag43fekxlfcy5",
-      "source": "NFL News",
-      "publishedAt": "2026-11-24T23:08:54Z"
-    },
-    {
-      "title": "Former LB Explains 'Tremendous Opportunity' Mike McCarthy Has In Wake Of DK Metcalf's Ejection - Steelers Depot",
-      "description": "The issues the Pittsburgh Steelers are dealing with at wide receiver are nothing new. The Steelers have had performance issues for years now, struggling to find a second option at the position. This year, their first option hasn’t even been much of an option …",
-      "url": "https://steelersdepot.com/2026/11/former-lb-explains-tremendous-opportunity-mike-mccarthy-has-in-wake-of-dk-metcalfs-ejection/",
-      "urlToImage": "https://steelersdepot.com/wp-content/uploads/2026/11/Mike-McCarthy-8-1000x600.jpg",
-      "source": "Steelers Depot",
-      "publishedAt": "2026-11-24T22:52:50Z"
-    },
-    {
-      "title": "3 takeaways from No. 19 BYU’s loss to Ole Miss at the Maui Invitational - Deseret News",
-      "description": "Cougars suffer first loss of the season in a game that was a story of two very different halves",
-      "url": "https://www.deseret.com/sports/2026/11/24/byu-basketball-loss-against-ole-miss-maui-invitational-3-takeaways/",
-      "urlToImage": "https://www.deseret.com/resizer/v2/6PJRSEH4BFGBPJRMBVZSSTFRNQ.jpg?focal=4045%2C1997&auth=2dd8ee43e510611537ce2776afa92507b72d17573573de8b5ea18c415cdcfd92&width=630&height=331",
-      "source": "Deseret News",
-      "publishedAt": "2026-11-24T22:51:46Z"
-    },
-    {
-      "title": "Brandon Aiyuk scheduled for visit Wednesday with Commanders, agent says - ESPN",
-      "description": "Wide receiver Brandon Aiyuk is scheduled to visit Wednesday with the Commanders, agent Drew Rosenhaus told ESPN's Adam Schefter.",
-      "url": "https://www.espn.com/nfl/story/_/id/50586505/brandon-aiyuk-scheduled-visit-wednesday-commanders",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0814%2Fr1373326_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2026-11-24T22:38:00Z"
-    },
-    {
-      "title": "NFL playoff picture: Postseason probabilities entering Week 12 of the 2026 season - NFL.com",
-      "description": "With the NFL playoff picture beginning to take shape, the Next Gen Stats playoff model assesses the AFC and NFC postseason races heading into Week 12 of the 2026 season.",
-      "url": "https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-week-12-2026-season",
-      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/jn4rnyp1e74eqlhx9m01",
-      "source": "NFL News",
-      "publishedAt": "2026-11-24T22:28:41Z"
-    },
-    {
-      "title": "Lions vs. Bears practice report: Nov. 24 - Detroit Lions",
-      "description": "Lions vs. Bears practice report for Tuesday, November 24.",
-      "url": "https://www.detroitlions.com/news/lions-vs-bears-practice-report-nov-24",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/lions/uuvgrhftrxhibkpukkrz",
-      "source": "detroitlions.com",
-      "publishedAt": "2026-11-24T22:20:01Z"
-    },
-    {
-      "title": "6 stats from Real Madrid 5-1 PSV Eindhoven - Managing Madrid",
-      "description": "Big stats for Mbappé, Bellingham and Mourinho",
-      "url": "https://www.managingmadrid.com/real-madrid-cf-champions-league/115756/6-stats-from-real-madrid-5-1-psv-eindhoven",
-      "urlToImage": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/11/gettyimages-2306260158.jpg?quality=90&strip=all&crop=0%2C10.73796299431%2C100%2C78.524074011379&w=1200",
-      "source": "Managing Madrid",
-      "publishedAt": "2026-11-24T22:13:18Z"
+      "publishedAt": "2026-11-25T22:10:12Z"
     }
   ]
 }
